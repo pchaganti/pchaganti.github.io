@@ -531,7 +531,8 @@ dl dd {
   }
 }
 
-@media (min-width: 481px) and (max-width: 1024px) {
+
+@media (min-width: 481px) and (max-width: 1080px){
   body {
     background-image: url(images/newbg-medium.png);
     background-repeat: no-repeat;
@@ -541,7 +542,7 @@ dl dd {
   }
 }
 
-@media (min-width: 1025px) {
+@media (min-width: 1081px) {
   body {
     background-image: url(images/newbg.png);
     background-repeat: no-repeat;
@@ -549,3 +550,4 @@ dl dd {
     background-position: center;
   }
 }
+
