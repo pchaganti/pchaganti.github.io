@@ -371,14 +371,14 @@ ul.icons li a {
   text-decoration: none;
   position: relative;
   display: block;
-  width: 3.75em;
-  height: 3.75em;
+  width: 3.5em;
+  height: 3.5em;
   border-radius: 100%;
   border: solid 2px #efefef;
-  line-height: 3.75em;
+  line-height: 3.5em;
   overflow: hidden;
   text-align: center;
-  text-indent: 3.75em;
+  text-indent: 3.5em;
   white-space: nowrap;
 }
 
