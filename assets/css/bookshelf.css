@@ -166,11 +166,12 @@
   }
   
   .spine-title {
-    margin: 2px;
-    position: absolute;
+    margin: 1rem;
+    font-family: "Noto Sans", "Segoe UI", Helvetica, Arial, sans-serif;
+        position: absolute;
     top: 0px;
     left: 0px;
-    font-size: 12px;
+    font-size: 1rem;
     color: gold;
     writing-mode: vertical-rl;
     text-orientation: mixed;
