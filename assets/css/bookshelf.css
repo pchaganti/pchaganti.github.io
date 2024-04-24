@@ -184,6 +184,11 @@
     left: 20%; /* no idea why 20% centers it */
   }
   
+  .yearRead {
+    padding: 0.25rem;
+    background-color: #ccc;
+  }
+
   .top {
     width: 50px;
     height: 190px;
