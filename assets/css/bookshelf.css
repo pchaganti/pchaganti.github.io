@@ -1,133 +1,134 @@
 :root {
-    --spine-pyramid: linear-gradient(
-      315deg,
-      transparent 75%,
-      rgba(255, 255, 255, 0.1) 0
-      ),
-      linear-gradient(
-        45deg,
-         transparent 75%,
-          rgba(255, 255, 255, 0.1) 0
-      ),
-      linear-gradient(
-        135deg,
-        rgba(255, 255, 255, 0.2) 166px,
-        transparent 0
-      ),
-      linear-gradient(
-        45deg,
-        rgba(0, 0, 0, 0.1) 75%,
-        transparent 0
-      );
-      background-size: 20px 20px;
-    --spine-stairs: repeating-linear-gradient(
-        63deg,
-        rgba(255, 255, 255, 0.1),
-        rgba(255, 255, 255, 0.1) 1px,
-        transparent 3px,
-        transparent 0
-      ),
-      linear-gradient(
-        127deg,
-        rgba(255, 255, 255, 0.1),
-        rgba(255, 255, 255, 0.1) 90px,
-        transparent 55%,
-        transparent 0
-      ),
-      linear-gradient(
-        transparent 51%,
-        rgba(0, 0, 0, 0.1) 170px
-      );
-      background-size: 70px 120px;
-    --spine-argyle: repeating-linear-gradient(
-        120deg,
-        rgba(255, 255, 255, 0.1),
-        rgba(255, 255, 255, 0.1) 1px,
-        transparent 1px,
-        transparent 60px
-      ),
-      repeating-linear-gradient(
-        60deg,
-        rgba(255, 255, 255, 0.1),
-        rgba(255, 255, 255, 0.1) 1px,
-        transparent 1px,
-        transparent 60px
-      ),
-      linear-gradient(
-        60deg,
-        rgba(0, 0, 0, 0.1) 25%,
-        transparent 25%,
-        transparent 75%,
-        rgba(0, 0, 0, 0.1) 75%,
-        rgba(0, 0, 0, 0.1)
-      ),
-      linear-gradient(
-        120deg,
-        rgba(0, 0, 0, 0.1) 25%,
-        transparent 25%,
-        transparent 75%,
-        rgba(0, 0, 0, 0.1) 75%,
-        rgba(0, 0, 0, 0.1)
-      );
+  --spine-pyramid: linear-gradient(
+    315deg,
+    transparent 75%,
+    rgba(255, 255, 255, 0.1) 0
+    ),
+    linear-gradient(
+      45deg,
+       transparent 75%,
+        rgba(255, 255, 255, 0.1) 0
+    ),
+    linear-gradient(
+      135deg,
+      rgba(255, 255, 255, 0.2) 166px,
+      transparent 0
+    ),
+    linear-gradient(
+      45deg,
+      rgba(0, 0, 0, 0.1) 75%,
+      transparent 0
+    );
+    background-size: 20px 20px;
+  --spine-stairs: repeating-linear-gradient(
+      63deg,
+      rgba(255, 255, 255, 0.1),
+      rgba(255, 255, 255, 0.1) 1px,
+      transparent 3px,
+      transparent 0
+    ),
+    linear-gradient(
+      127deg,
+      rgba(255, 255, 255, 0.1),
+      rgba(255, 255, 255, 0.1) 90px,
+      transparent 55%,
+      transparent 0
+    ),
+    linear-gradient(
+      transparent 51%,
+      rgba(0, 0, 0, 0.1) 170px
+    );
     background-size: 70px 120px;
-    --spine-tartan: repeating-linear-gradient(
-        transparent,
-        transparent 50px,
-        rgba(0, 0, 0, 0.4) 50px,
-        rgba(0, 0, 0, 0.4) 53px,
-        transparent 53px,
-        transparent 63px,
-        rgba(0, 0, 0, 0.4) 63px,
-        rgba(0, 0, 0, 0.4) 66px,
-        transparent 66px,
-        transparent 116px,
-        rgba(0, 0, 0, 0.5) 116px,
-        rgba(0, 0, 0, 0.5) 166px,
-        rgba(255, 255, 255, 0.2) 166px,
-        rgba(255, 255, 255, 0.2) 169px,
-        rgba(0, 0, 0, 0.5) 169px,
-        rgba(0, 0, 0, 0.5) 179px,
-        rgba(255, 255, 255, 0.2) 179px,
-        rgba(255, 255, 255, 0.2) 182px,
-        rgba(0, 0, 0, 0.5) 182px,
-        rgba(0, 0, 0, 0.5) 232px,
-        transparent 232px
-      ),
-      repeating-linear-gradient(
-        270deg,
-        transparent,
-        transparent 50px,
-        rgba(0, 0, 0, 0.4) 50px,
-        rgba(0, 0, 0, 0.4) 53px,
-        transparent 53px,
-        transparent 63px,
-        rgba(0, 0, 0, 0.4) 63px,
-        rgba(0, 0, 0, 0.4) 66px,
-        transparent 66px,
-        transparent 116px,
-        rgba(0, 0, 0, 0.5) 116px,
-        rgba(0, 0, 0, 0.5) 166px,
-        rgba(255, 255, 255, 0.2) 166px,
-        rgba(255, 255, 255, 0.2) 169px,
-        rgba(0, 0, 0, 0.5) 169px,
-        rgba(0, 0, 0, 0.5) 179px,
-        rgba(255, 255, 255, 0.2) 179px,
-        rgba(255, 255, 255, 0.2) 182px,
-        rgba(0, 0, 0, 0.5) 182px,
-        rgba(0, 0, 0, 0.5) 232px,
-        transparent 232px
-      ),
-      repeating-linear-gradient(
-        125deg,
-        transparent,
-        transparent 2px,
-        rgba(0, 0, 0, 0.2) 2px,
-        rgba(0, 0, 0, 0.2) 3px,
-        transparent 3px,
-        transparent 5px,
-        rgba(0, 0, 0, 0.2) 5px
-      );
-  }
+  --spine-argyle: repeating-linear-gradient(
+      120deg,
+      rgba(255, 255, 255, 0.1),
+      rgba(255, 255, 255, 0.1) 1px,
+      transparent 1px,
+      transparent 60px
+    ),
+    repeating-linear-gradient(
+      60deg,
+      rgba(255, 255, 255, 0.1),
+      rgba(255, 255, 255, 0.1) 1px,
+      transparent 1px,
+      transparent 60px
+    ),
+    linear-gradient(
+      60deg,
+      rgba(0, 0, 0, 0.1) 25%,
+      transparent 25%,
+      transparent 75%,
+      rgba(0, 0, 0, 0.1) 75%,
+      rgba(0, 0, 0, 0.1)
+    ),
+    linear-gradient(
+      120deg,
+      rgba(0, 0, 0, 0.1) 25%,
+      transparent 25%,
+      transparent 75%,
+      rgba(0, 0, 0, 0.1) 75%,
+      rgba(0, 0, 0, 0.1)
+    );
+  background-size: 70px 120px;
+  --spine-tartan: repeating-linear-gradient(
+      transparent,
+      transparent 50px,
+      rgba(0, 0, 0, 0.4) 50px,
+      rgba(0, 0, 0, 0.4) 53px,
+      transparent 53px,
+      transparent 63px,
+      rgba(0, 0, 0, 0.4) 63px,
+      rgba(0, 0, 0, 0.4) 66px,
+      transparent 66px,
+      transparent 116px,
+      rgba(0, 0, 0, 0.5) 116px,
+      rgba(0, 0, 0, 0.5) 166px,
+      rgba(255, 255, 255, 0.2) 166px,
+      rgba(255, 255, 255, 0.2) 169px,
+      rgba(0, 0, 0, 0.5) 169px,
+      rgba(0, 0, 0, 0.5) 179px,
+      rgba(255, 255, 255, 0.2) 179px,
+      rgba(255, 255, 255, 0.2) 182px,
+      rgba(0, 0, 0, 0.5) 182px,
+      rgba(0, 0, 0, 0.5) 232px,
+      transparent 232px
+    ),
+    repeating-linear-gradient(
+      270deg,
+      transparent,
+      transparent 50px,
+      rgba(0, 0, 0, 0.4) 50px,
+      rgba(0, 0, 0, 0.4) 53px,
+      transparent 53px,
+      transparent 63px,
+      rgba(0, 0, 0, 0.4) 63px,
+      rgba(0, 0, 0, 0.4) 66px,
+      transparent 66px,
+      transparent 116px,
+      rgba(0, 0, 0, 0.5) 116px,
+      rgba(0, 0, 0, 0.5) 166px,
+      rgba(255, 255, 255, 0.2) 166px,
+      rgba(255, 255, 255, 0.2) 169px,
+      rgba(0, 0, 0, 0.5) 169px,
+      rgba(0, 0, 0, 0.5) 179px,
+      rgba(255, 255, 255, 0.2) 179px,
+      rgba(255, 255, 255, 0.2) 182px,
+      rgba(0, 0, 0, 0.5) 182px,
+      rgba(0, 0, 0, 0.5) 232px,
+      transparent 232px
+    ),
+    repeating-linear-gradient(
+      125deg,
+      transparent,
+      transparent 2px,
+      rgba(0, 0, 0, 0.2) 2px,
+      rgba(0, 0, 0, 0.2) 3px,
+      transparent 3px,
+      transparent 5px,
+      rgba(0, 0, 0, 0.2) 5px
+    );
+}
+
   
   .bookshelf {
     width: 100%;
