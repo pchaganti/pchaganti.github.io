@@ -364,21 +364,21 @@ ul.icons {
 
 ul.icons li {
   display: inline-block;
-  padding: 0.35em 0.35em;
+  padding: 0.15em 0.15em;
 }
 
 ul.icons li a {
   text-decoration: none;
   position: relative;
   display: block;
-  width: 3.35em;
-  height: 3.5em;
+  width: 2.15em;
+  height: 2.25em;
   border-radius: 100%;
   border: solid 2px #efefef;
-  line-height: 3.4em;
+  line-height: 2.05em;
   overflow: hidden;
   text-align: center;
-  text-indent: 3.25em;
+  text-indent: 3em;
   white-space: nowrap;
 }
 
@@ -406,7 +406,7 @@ ul.icons li a:before {
   left: 0;
   width: inherit;
   height: inherit;
-  font-size: 1.85rem;
+  font-size: 1.15rem;
   line-height: inherit;
   text-align: center;
   text-indent: 0;
