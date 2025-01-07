@@ -131,16 +131,17 @@
           const container = document.getElementById("books-container");
           const yearNav = document.getElementById("yearNav");
           
-          // Clear any existing content
           container.innerHTML = '<div class="loading">Loading books...</div>';
           yearNav.innerHTML = '';
 
-          // Create year navigation
-          years.forEach(year => {
+          // Create navigation buttons
+          years.forEach((year, index) => {
               const btn = document.createElement("button");
               btn.className = "year-btn";
               btn.textContent = year;
               btn.onclick = () => filterByYear(year);
+              // Set active state for first year
+              if (index === 0) btn.classList.add('active');
               yearNav.appendChild(btn);
           });
 
@@ -152,13 +153,22 @@
                   const yearSection = document.createElement("div");
                   yearSection.dataset.year = year;
                   yearSection.style.marginTop = "32px";
+                  // Hide all years except first
+                  yearSection.style.display = year === years[0] ? 'block' : 'none';
                   
                   const yearHeader = document.createElement("h2");
                   yearHeader.className = "yearRead";
-                  yearHeader.textContent = year;
                   
-                  yearSection.appendChild(yearHeader);
                   yearSection.insertAdjacentHTML('beforeend', html);
+                  const bookCount = yearSection.querySelectorAll('.book').length;
+                  
+                  yearHeader.textContent = year;
+                  const countSpan = document.createElement("span");
+                  countSpan.className = "book-count";
+                  countSpan.textContent = ` (${bookCount} books)`;
+                  yearHeader.appendChild(countSpan);
+                  
+                  yearSection.insertBefore(yearHeader, yearSection.firstChild);
                   container.appendChild(yearSection);
               } catch (error) {
                   console.error(`Error loading ${year}:`, error);
