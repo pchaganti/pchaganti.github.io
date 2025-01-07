@@ -190,18 +190,18 @@
         }
 
         function searchBooks(query) {
-          const normalizedQuery = query.toLowerCase();
+          const normalizedQuery = query.toLowerCase().trim();
           const yearSections = document.querySelectorAll('[data-year]');
           
-          if (!query) {
-              // When search is cleared, restore year filter
-              const activeYear = document.querySelector('.year-btn.active').textContent;
+          if (!normalizedQuery) {
+              // Reset search state completely
+              document.getElementById('searchBox').value = '';
+              const activeYear = document.querySelector('.year-btn.active')?.textContent || years[0];
               filterByYear(activeYear);
               return;
           }
 
           yearSections.forEach(section => {
-              // Count matching books in this year
               const books = section.querySelectorAll('.book');
               let matchCount = 0;
 
@@ -214,14 +214,19 @@
                   if (isMatch) matchCount++;
               });
 
-              // Show/hide year section based on matches
               section.style.display = matchCount > 0 ? 'block' : 'none';
           });
         }
 
-        // Add search event listener
+        // Add both input and search clear events
         document.getElementById('searchBox').addEventListener('input', (e) => {
             searchBooks(e.target.value);
+        });
+
+        document.getElementById('searchBox').addEventListener('search', (e) => {
+            if (!e.target.value) {
+                searchBooks('');
+            }
         });
       </script>
     </main>
