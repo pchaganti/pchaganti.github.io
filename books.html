@@ -191,14 +191,38 @@
 
         function searchBooks(query) {
           const normalizedQuery = query.toLowerCase();
-          document.querySelectorAll('.book').forEach(book => {
-              const title = book.dataset.title?.toLowerCase() || '';
-              const author = book.dataset.author?.toLowerCase() || '';
-              book.style.display = 
-                  title.includes(normalizedQuery) || 
-                  author.includes(normalizedQuery) ? 'block' : 'none';
+          const yearSections = document.querySelectorAll('[data-year]');
+          
+          if (!query) {
+              // When search is cleared, restore year filter
+              const activeYear = document.querySelector('.year-btn.active').textContent;
+              filterByYear(activeYear);
+              return;
+          }
+
+          yearSections.forEach(section => {
+              // Count matching books in this year
+              const books = section.querySelectorAll('.book');
+              let matchCount = 0;
+
+              books.forEach(book => {
+                  const title = book.dataset.title?.toLowerCase() || '';
+                  const author = book.dataset.author?.toLowerCase() || '';
+                  const isMatch = title.includes(normalizedQuery) || 
+                                 author.includes(normalizedQuery);
+                  book.style.display = isMatch ? 'block' : 'none';
+                  if (isMatch) matchCount++;
+              });
+
+              // Show/hide year section based on matches
+              section.style.display = matchCount > 0 ? 'block' : 'none';
           });
         }
+
+        // Add search event listener
+        document.getElementById('searchBox').addEventListener('input', (e) => {
+            searchBooks(e.target.value);
+        });
       </script>
     </main>
     <br /><br /><br />
