@@ -130,53 +130,48 @@
           const years = ["2024", "2023"];
           const container = document.getElementById("books-container");
           const yearNav = document.getElementById("yearNav");
-          console.log("Starting to load books...");
+          
+          // Clear existing content
+          container.innerHTML = '<div class="loading">Loading books...</div>';
+          yearNav.innerHTML = '';
 
-          // Create year navigation
+          // Create year navigation once
           years.forEach((year) => {
-            const btn = document.createElement("button");
-            btn.className = "year-btn";
-            btn.textContent = year;
-            btn.onclick = () => filterByYear(year);
-            yearNav.appendChild(btn);
+              const btn = document.createElement("button");
+              btn.className = "year-btn";
+              btn.textContent = year;
+              btn.onclick = () => filterByYear(year);
+              yearNav.appendChild(btn);
           });
 
-          // Add loading state
-          container.innerHTML = '<div class="loading">Loading books...</div>';
-
           for (const year of years) {
-            console.log(`Loading year: ${year}`);
-            const yearSection = document.createElement("div");
-            yearSection.style.marginTop = "32px";
-            yearSection.dataset.year = year;
+              const yearSection = document.createElement("div");
+              yearSection.style.marginTop = "32px";
+              yearSection.dataset.year = year;
 
-            const yearHeader = document.createElement("h2");
-            yearHeader.className = "yearRead";
-            yearHeader.textContent = year;
-            yearSection.appendChild(yearHeader);
+              const yearHeader = document.createElement("h2");
+              yearHeader.className = "yearRead";
+              yearHeader.textContent = year;
+              yearSection.appendChild(yearHeader);
 
-            try {
-              const response = await fetch(`./books/${year}.html`);
-              if (!response.ok)
-                throw new Error(`HTTP error! status: ${response.status}`);
-              const html = await response.text();
-              console.log(`Loaded HTML for ${year}:`, html.substring(0, 100));
-              yearSection.insertAdjacentHTML("beforeend", html);
-              container.appendChild(yearSection);
-            } catch (error) {
-              console.error(`Error loading books for ${year}:`, error);
-              yearSection.innerHTML += `
-                <div class="error">
-                    Failed to load books for ${year}
-                    <button class="retry-btn" onclick="retryLoad('${year}')">Retry</button>
-                </div>
-            `;
-            }
+              try {
+                  const response = await fetch(`books/${year}.html`);
+                  if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+                  const html = await response.text();
+                  yearSection.insertAdjacentHTML('beforeend', html);
+                  container.appendChild(yearSection);
+              } catch (error) {
+                  console.error(`Error loading books for ${year}:`, error);
+                  yearSection.innerHTML += `
+                      <div class="error">
+                          Failed to load books for ${year}
+                          <button class="retry-btn" onclick="retryLoad('${year}')">Retry</button>
+                      </div>
+                  `;
+              }
           }
 
-          // Remove loading state if it exists
-          const loadingDiv = container.querySelector(".loading");
-          if (loadingDiv) loadingDiv.remove();
+          container.querySelector('.loading')?.remove();
         }
 
         function filterByYear(selectedYear) {
