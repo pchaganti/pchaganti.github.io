@@ -72,8 +72,23 @@
         cursor: pointer;
       }
 
-      .spine {
-    /* Base spine styles */
+      .book {
+    position: relative;
+    width: 30px;
+    height: 280px;
+    margin: 10px;
+    float: left;
+    transform-style: preserve-3d;
+}
+
+.side {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+.spine {
     width: 30px;
     height: 260px;
     transform: rotateY(-90deg) translateX(-15px);
@@ -82,7 +97,45 @@
     left: 0;
     top: 20px;
     background-color: var(--spine-color, maroon);
-    background-image: var(--spine-pattern);
+    padding: 10px;
+    box-sizing: border-box;
+    color: #fff;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.spine-title {
+    position: absolute;
+    top: 10px;
+    left: 0;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    transform: rotate(180deg);
+    width: 100%;
+    text-align: center;
+}
+
+.spine-author {
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    transform: rotate(180deg);
+    width: 100%;
+    text-align: center;
+}
+
+.cover {
+    transform: rotateY(0deg) translateZ(15px);
+    background-size: cover;
+    background-position: center;
+}
+
+.top {
+    width: 30px;
+    height: 30px;
+    transform: rotateX(90deg) translateZ(15px);
+    background-color: #888;
 }
 
 /* Spine patterns */
