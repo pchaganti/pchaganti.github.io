@@ -182,11 +182,13 @@
         document.addEventListener("DOMContentLoaded", loadBooks);
 
         function filterByYear(year) {
-          document.querySelectorAll('.year-btn').forEach(btn => 
-              btn.classList.toggle('active', btn.textContent === year));
-          
-          document.querySelectorAll('[data-year]').forEach(section => 
-              section.style.display = section.dataset.year === year ? 'block' : 'none');
+          document.querySelectorAll('.year-btn').forEach(btn => {
+              btn.classList.toggle('active', btn.textContent === year);
+          });
+
+          document.querySelectorAll('[data-year]').forEach(section => {
+              section.style.display = section.dataset.year === year ? 'block' : 'none';
+          });
         }
 
         function searchBooks(query) {
