@@ -71,6 +71,34 @@
         border-radius: 4px;
         cursor: pointer;
       }
+
+      .spine {
+    /* Base spine styles */
+    width: 30px;
+    height: 260px;
+    transform: rotateY(-90deg) translateX(-15px);
+    transform-origin: 100% 0;
+    position: absolute;
+    left: 0;
+    top: 20px;
+    background-color: var(--spine-color, maroon);
+    background-image: var(--spine-pattern);
+}
+
+/* Spine patterns */
+.spine-argyle { --spine-pattern: var(--spine-argyle); }
+.spine-tartan { --spine-pattern: var(--spine-tartan); }
+.spine-pyramid { --spine-pattern: var(--spine-pyramid); }
+.spine-stairs { --spine-pattern: var(--spine-stairs); }
+
+/* Spine colors */
+.spine-maroon { --spine-color: maroon; }
+.spine-darkgreen { --spine-color: darkgreen; }
+.spine-darkolivegreen { --spine-color: darkolivegreen; }
+.spine-brown { --spine-color: brown; }
+.spine-saddlebrown { --spine-color: saddlebrown; }
+.spine-sienna { --spine-color: sienna; }
+.spine-midnightblue { --spine-color: midnightblue; }
     </style>
   </head>
 
@@ -205,6 +233,36 @@
         document.getElementById("searchBox").addEventListener("input", (e) => {
           searchBooks(e.target.value);
         });
+
+        function stylizeBooks() {
+    const spines = document.querySelectorAll(".spine");
+    const availablePatterns = ["argyle", "tartan", "pyramid", "stairs"];
+    const availableColours = [
+        "maroon", "darkgreen", "darkolivegreen", "brown",
+        "saddlebrown", "sienna", "midnightblue"
+    ];
+
+    spines.forEach(spine => {
+        // Set random height
+        const randomHeight = getRandomInt(220, 290);
+        spine.style.height = `${randomHeight}px`;
+        spine.style.top = `${280 - randomHeight}px`;
+
+        // Add pattern class
+        const pattern = randomChoice(availablePatterns);
+        spine.classList.add(`spine-${pattern}`);
+
+        // Add color class
+        const color = randomChoice(availableColours);
+        spine.classList.add(`spine-${color}`);
+    });
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+    loadBooks().then(() => {
+        stylizeBooks();
+    });
+});
 
         function getRandomInt(min, max) {
           min = Math.ceil(min);
