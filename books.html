@@ -19,6 +19,59 @@
       href="https://fonts.googleapis.com/css2?family=Noto+Sans+Display:ital,wght@0,100..900;1,100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap"
       rel="stylesheet"
     />
+
+    <style>
+      .loading {
+        text-align: center;
+        padding: 20px;
+      }
+
+      .year-nav {
+        display: flex;
+        gap: 10px;
+        margin: 20px 0;
+        flex-wrap: wrap;
+      }
+
+      .year-btn {
+        padding: 8px 16px;
+        border: none;
+        background: #eee;
+        cursor: pointer;
+        border-radius: 4px;
+      }
+
+      .year-btn.active {
+        background: #333;
+        color: white;
+      }
+
+      .book-count {
+        font-size: 0.9em;
+        color: #666;
+        margin-left: 10px;
+      }
+
+      .search-box {
+        width: 100%;
+        max-width: 300px;
+        padding: 8px;
+        margin: 20px 0;
+      }
+
+      .bookshelf {
+        transition: opacity 0.3s ease;
+      }
+
+      .retry-btn {
+        padding: 8px 16px;
+        background: #dc3545;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+    </style>
   </head>
 
   <body>
@@ -28,37 +81,130 @@
         A man ought to read just as inclination leads him; for what he reads as
         a task will do him little good - Samuel Johnson, 1742
       </h4>
+      <input
+        type="search"
+        class="search-box"
+        placeholder="Search books..."
+        id="searchBox"
+      />
+      <div class="year-nav" id="yearNav"></div>
       <div id="books-container"></div>
       <br />
       <script>
         async function loadBooks() {
-          const years = ["2024", "2023"]; // Add all years
+          const years = ["2024", "2023"];
           const container = document.getElementById("books-container");
+          const yearNav = document.getElementById("yearNav");
+          const searchBox = document.getElementById("searchBox");
+
+          // Create year navigation
+          years.forEach((year) => {
+            const btn = document.createElement("button");
+            btn.className = "year-btn";
+            btn.textContent = year;
+            btn.onclick = () => filterByYear(year);
+            yearNav.appendChild(btn);
+          });
+
+          // Add loading state
+          container.innerHTML = '<div class="loading">Loading books...</div>';
 
           for (const year of years) {
             const yearSection = document.createElement("div");
             yearSection.style.marginTop = "32px";
+            yearSection.dataset.year = year;
 
             const yearHeader = document.createElement("h2");
             yearHeader.className = "yearRead";
-            yearHeader.textContent = year;
-            yearSection.appendChild(yearHeader);
 
             try {
               const response = await fetch(`books/${year}.html`);
+              if (!response.ok)
+                throw new Error(`HTTP error! status: ${response.status}`);
               const html = await response.text();
               const div = document.createElement("div");
               div.innerHTML = html;
+
+              // Add book count
+              const bookCount = div.querySelectorAll(".book").length;
+              yearHeader.textContent = `${year} `;
+              const countSpan = document.createElement("span");
+              countSpan.className = "book-count";
+              countSpan.textContent = `(${bookCount} books)`;
+              yearHeader.appendChild(countSpan);
+
+              yearSection.appendChild(yearHeader);
               yearSection.appendChild(div);
               yearSection.appendChild(document.createElement("hr"));
               container.appendChild(yearSection);
             } catch (error) {
               console.error(`Error loading books for ${year}:`, error);
+              yearSection.innerHTML = `
+              <div class="error">
+                Failed to load books for ${year}
+                <button class="retry-btn" onclick="retryLoad('${year}')">Retry</button>
+              </div>
+            `;
+            }
+          }
+
+          // Remove loading state
+          container.querySelector(".loading")?.remove();
+        }
+
+        function filterByYear(selectedYear) {
+          document.querySelectorAll(".year-btn").forEach((btn) => {
+            btn.classList.toggle("active", btn.textContent === selectedYear);
+          });
+
+          document.querySelectorAll("[data-year]").forEach((section) => {
+            section.style.display =
+              selectedYear === "all" || section.dataset.year === selectedYear
+                ? "block"
+                : "none";
+          });
+        }
+
+        function searchBooks(query) {
+          const normalizedQuery = query.toLowerCase();
+          document.querySelectorAll(".book").forEach((book) => {
+            const title = book
+              .querySelector(".spine-title")
+              .textContent.toLowerCase();
+            const author = book
+              .querySelector(".spine-author")
+              .textContent.toLowerCase();
+            const isMatch =
+              title.includes(normalizedQuery) ||
+              author.includes(normalizedQuery);
+            book.style.display = isMatch ? "block" : "none";
+          });
+        }
+
+        async function retryLoad(year) {
+          const section = document.querySelector(`[data-year="${year}"]`);
+          if (section) {
+            section.innerHTML = '<div class="loading">Retrying...</div>';
+            try {
+              const response = await fetch(`books/${year}.html`);
+              const html = await response.text();
+              section.innerHTML = html;
+            } catch (error) {
+              console.error(`Retry failed for ${year}:`, error);
+              section.innerHTML = `
+              <div class="error">
+                Retry failed for ${year}
+                <button class="retry-btn" onclick="retryLoad('${year}')">Retry</button>
+              </div>
+            `;
             }
           }
         }
 
         document.addEventListener("DOMContentLoaded", loadBooks);
+        document.getElementById("searchBox").addEventListener("input", (e) => {
+          searchBooks(e.target.value);
+        });
 
         function getRandomInt(min, max) {
           min = Math.ceil(min);
