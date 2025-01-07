@@ -194,17 +194,13 @@
 
         function searchBooks(query) {
           const normalizedQuery = query.toLowerCase();
-          document.querySelectorAll(".book").forEach((book) => {
-            const title = book
-              .querySelector(".spine-title")
-              .textContent.toLowerCase();
-            const author = book
-              .querySelector(".spine-author")
-              .textContent.toLowerCase();
-            const isMatch =
-              title.includes(normalizedQuery) ||
-              author.includes(normalizedQuery);
-            book.style.display = isMatch ? "block" : "none";
+          document.querySelectorAll('.book').forEach((book) => {
+              // Use data attributes instead of DOM elements
+              const title = book.dataset.title?.toLowerCase() || '';
+              const author = book.dataset.author?.toLowerCase() || '';
+              const isMatch = title.includes(normalizedQuery) || 
+                             author.includes(normalizedQuery);
+              book.style.display = isMatch ? "block" : "none";
           });
         }
 
