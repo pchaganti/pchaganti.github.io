@@ -18,6 +18,9 @@
       nav {
         margin-bottom: 20px;
         margin-top: 20px;
+        white-space: nowrap; /* Prevent wrapping of links */
+        display: flex;
+        justify-content: center;
       }
 
       nav a,
@@ -25,6 +28,7 @@
         margin-right: 10px;
         color: #a0f0a0;
         text-decoration: none;
+        display: inline; /* display as inline */
       }
 
       nav a:hover,
@@ -42,40 +46,21 @@
     <main>
       <div><img src="assets/css/images/bg-small.png" alt="" /></div>
       <nav>
-        <ul>
-          <li>
-            |<a href="https://pchaganti.github.io/books.html" target="_blank"
-              >biblio</a
-            >
-          </li>
-          <li>
-            |<a href="https://pchaganti.github.io/cleo/" target="_blank">cleo</a
-            >|
-          </li>
-          <li>
-            <a href="https://pchaganti.github.io/erato/" target="_blank"
-              >erato</a
-            >|
-          </li>
-          <li>
-            <a href="https://github.com/pchaganti" target="_blank">hub</a>|
-          </li>
-          <li>
-            <a href="https://instagram.com/marcus.the.stoic" target="_blank"
-              >marcus</a
-            >|
-          </li>
-          <li>
-            <a href="https://pchaganti.github.io/memosyne/" target="_blank"
-              >memosyne</a
-            >|
-          </li>
-          <li>
-            <a href="http://pinterest.com/pchaganti/pins" target="_blank"
-              >tabula</a
-            >
-          </li>
-        </ul>
+        <a href="https://pchaganti.github.io/books.html" target="_blank"
+          >biblio</a
+        > |
+        <a href="https://pchaganti.github.io/cleo/" target="_blank">cleo</a> |
+        <a href="https://pchaganti.github.io/erato/" target="_blank">erato</a> |
+        <a href="https://github.com/pchaganti" target="_blank">hub</a> |
+        <a href="https://instagram.com/marcus.the.stoic" target="_blank"
+          >marcus</a
+        >
+        |
+        <a href="https://pchaganti.github.io/memosyne/" target="_blank"
+          >memosyne</a
+        >
+        |
+        <a href="http://pinterest.com/pchaganti/pins" target="_blank">tabula</a>
       </nav>
     </main>
   </body>
