@@ -16,28 +16,28 @@
       }
 
       main {
-        max-width: 90%; /* Ensure it doesn't exceed screen width on mobile */
-        margin: 0 auto; /* Center the content */
+        max-width: 90%;
+        margin: 0 auto;
         padding: 10px;
       }
 
       main > div {
-        overflow-x: hidden; /* prevent image overflow */
+        overflow-x: hidden;
       }
 
       img {
-        max-width: 100%; /* Image is always max 100% of container */
-        height: auto; /* maintain aspect ratio */
-        display: block; /* Remove any spacing issues */
-        margin: 0 auto 20px; /* Center and add margin */
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: 0 auto 20px;
       }
 
       nav {
         margin-bottom: 20px;
         margin-top: 20px;
-        display: flex; /* Use flex to align elements */
-        flex-wrap: wrap; /* Allow links to wrap */
-        justify-content: center; /* Center horizontally */
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
       }
 
       nav a,
@@ -45,7 +45,7 @@
         margin-right: 10px;
         color: #a0f0a0;
         text-decoration: none;
-        white-space: nowrap; /* Prevent text wrapping in each link */
+        /* Removed white-space: nowrap; */
       }
 
       nav a:hover,
@@ -62,7 +62,7 @@
       @media (max-width: 600px) {
         nav a,
         nav span {
-          margin-bottom: 5px; /* Added margin between links for vertical spacing */
+          margin-bottom: 5px;
           margin-right: 5px;
         }
       }
