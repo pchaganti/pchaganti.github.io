@@ -10,7 +10,7 @@ body {
 }
 
 .container {
-  max-width: 800px;
+  max-width: 1200px;
   margin: 2rem auto;
   padding: 1.5rem 2rem;
   background: rgba(255, 255, 255, 0.9);
@@ -26,44 +26,71 @@ h1 {
   letter-spacing: -0.5px;
 }
 
+#haiku-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 2rem;
+  padding: 1rem;
+}
+
 .haiku {
   background: white;
   padding: 2rem;
-  margin-bottom: 2rem;
-  border-radius: 8px;
+  border-radius: 12px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  transition: transform 0.3s ease, box-shadow 0.3s ease, background 0.3s ease;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   border: 1px solid #eee;
   cursor: pointer;
+  opacity: 0;
+  animation: fadeIn 0.5s ease-out forwards;
 }
 
 .haiku:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  transform: translateY(-4px) scale(1.02);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
   background: #f9f9f9;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 .haiku-date {
   color: #666;
-  font-size: 0.75rem;
+  font-size: 0.875rem;
   margin-bottom: 1.5rem;
   letter-spacing: 0.5px;
   border-bottom: 1px solid #eee;
-  padding-bottom: 0.5rem;
+  padding-bottom: 0.75rem;
   font-style: italic;
+  opacity: 0.8;
+  transition: opacity 0.2s ease;
+}
+
+.haiku:hover .haiku-date {
+  opacity: 1;
 }
 
 .haiku-text {
   white-space: pre-line;
   font-size: 1.25rem;
   color: #2c3e50;
-  line-height: 1.8;
-  letter-spacing: 0.3px;
-  transition: color 0.2s ease;
-  text-align: justify;
-  word-spacing: 0.1rem;
+  line-height: 2;
+  letter-spacing: 0.4px;
+  transition: all 0.3s ease;
+  text-align: left;
+  word-spacing: 0.15rem;
+  font-weight: 300;
 }
 
-.haiku-text:hover {
+.haiku:hover .haiku-text {
   color: #3498db;
+  transform: translateY(-2px);
 }
