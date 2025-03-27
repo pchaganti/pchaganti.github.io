@@ -29,7 +29,7 @@ function displayHaikus(haikus) {
     // Remove the comma and the number after it from the date
     const formattedDate = haiku.date.replace(/,\s*\d+$/, "");
     const haikuDiv = document.createElement("div");
-    haikuDiv.className = "haiku";
+    haikuDiv.className = "haiku gidole-regular";
     haikuDiv.innerHTML = `
             <div class="haiku-date">${formattedDate}</div>
             <div class="haiku-text">${haiku.text}</div>

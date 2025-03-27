@@ -94,3 +94,17 @@ h1 {
   color: #3498db;
   transform: translateY(-2px);
 }
+
+.gidole-regular {
+  font-family: "Gidole", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.noto-sans-jp-seijaku {
+  font-family: "Noto Sans JP", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
