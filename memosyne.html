@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>memosyne</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --bg-color: #fdfdfd;
+        --text-color: #333;
+        --link-color: #0077cc;
+        --link-hover-color: #005fa3;
+        --tag-bg-color: #eee;
+        --tag-text-color: #555;
+        --tag-hover-bg-color: #ddd;
+        --border-color: #eee;
+        --error-color: #cc0000;
+        --font-main: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI",
+          Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji",
+          "Segoe UI Emoji", "Segoe UI Symbol"; /* Updated font */
+        --font-mono: "Roboto Mono", "SFMono-Regular", Consolas,
+          "Liberation Mono", Menlo, Courier, monospace; /* Updated font */
+        --font-condensed: "Roboto Condensed", sans-serif; /* Added condensed font var */
+      }
+
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg-color: #1a1a1a;
+          --text-color: #eee;
+          --link-color: #58a6ff;
+          --link-hover-color: #80bfff;
+          --tag-bg-color: #333;
+          --tag-text-color: #bbb;
+          --tag-hover-bg-color: #444;
+          --border-color: #333;
+          --error-color: #ff4d4d;
+        }
+      }
+
+      body {
+        font-family: var(--font-main); /* Use variable */
+        line-height: 1.6;
+        background-color: var(--bg-color);
+        color: var(--text-color);
+        margin: 0;
+        padding: 1rem 1rem;
+        transition: background-color 0.3s, color 0.3s;
+      }
+
+      .container {
+        max-width: 800px;
+        margin: 0 auto;
+      }
+
+      h1 {
+        /* text-align: center; */ /* REMOVE this */
+        text-align: left; /* ADD this */
+        color: var(--text-color);
+        /* margin-bottom: 2rem; */ /* Adjust margin */
+        margin-bottom: 2.5rem; /* Reduce bottom margin */
+        padding-bottom: 0.75rem; /* Add padding for the border */
+        font-weight: 500; /* Slightly bolder main title */
+        font-size: 1.8em;
+        line-height: 1.3; /* Adjust line height if needed */
+      }
+
+      /* Styles for the new spans */
+      .h1-separator {
+        font-weight: 300; /* Lighter weight for the pipe */
+        color: var(--tag-text-color); /* Use a less prominent color */
+        margin: 0 0.2em; /* Add a little space around the pipe */
+      }
+
+      .h1-subtitle {
+        font-weight: 300; /* Lighter weight for the subtitle */
+        color: var(
+          --tag-text-color
+        ); /* Match separator or use main text color */
+        /* color: var(--text-color); */ /* Alternative: Keep main color but lighter weight */
+      }
+
+      .h1-link {
+        color: inherit; /* Make the link inherit the H1's text color */
+        text-decoration: none; /* Remove the default underline */
+        transition: color 0.2s ease; /* Add smooth transition for hover */
+      }
+
+      .h1-link:hover {
+        color: var(
+          --link-color
+        ); /* Change color on hover (optional, use var(--text-color) to keep it same) */
+        /* text-decoration: underline; */ /* Optionally add underline on hover */
+      }
+
+      /* Optional: Adjust alignment on very small screens if needed */
+      @media (max-width: 480px) {
+        h1 {
+          font-size: 1.5em; /* Slightly smaller on mobile */
+          /* text-align: center; */ /* Uncomment if center looks better on tiny screens */
+        }
+      }
+
+      #tag-filter {
+        text-align: center;
+        margin-top: 4rem;
+        margin-bottom: 2rem;
+        padding-bottom: 1rem;
+        flex-wrap: wrap;
+        display: flex;
+        justify-content: center;
+        gap: 0.5rem;
+        min-height: 2rem; /* Prevent layout shift */
+      }
+
+      .tag-filter-button {
+        display: inline-block;
+        background-color: var(--tag-bg-color);
+        color: var(--tag-text-color);
+        padding: 0.2rem 0.6rem;
+        border-radius: 0.5rem;
+        font-size: 0.9rem;
+        font-family: var(--font-mono); /* Use variable */
+        cursor: pointer;
+        transition: background-color 0.2s, color 0.2s;
+        border: none;
+        text-transform: lowercase;
+      }
+
+      .tag-filter-button:hover,
+      .tag-filter-button.active {
+        background-color: var(--link-color);
+        color: white;
+      }
+
+      #bookmark-list {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+      }
+
+      /* --- LI STYLING --- */
+      #bookmark-list li {
+        padding: 0.8rem 0; /* Slightly reduce padding */
+        border-bottom: 1px solid var(--border-color);
+        display: flex; /* Use flexbox */
+        justify-content: space-between; /* Push link and tags apart */
+        align-items: baseline; /* Align text baselines */
+        gap: 1rem; /* Space between link and tags container */
+        transition: opacity 0.3s ease-in-out;
+      }
+
+      #bookmark-list li:last-child {
+        border-bottom: none;
+      }
+
+      #bookmark-list li.hidden {
+        display: none;
+      }
+
+      #bookmark-list li.message-item,
+      #bookmark-list li.error-item {
+        /* Reset flex for message items */
+        display: block;
+        text-align: center;
+        font-style: italic;
+        color: var(--tag-text-color);
+        border-bottom: none;
+      }
+      #bookmark-list li.error-item {
+        color: var(--error-color);
+        font-weight: bold;
+        font-style: normal;
+      }
+
+      /* --- LINK STYLING --- */
+      #bookmark-list a {
+        color: var(--link-color);
+        text-decoration: none;
+        font-weight: 500; /* Keep link slightly bolder */
+        transition: color 0.2s;
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-word;
+        /* Allow link to shrink if needed, prevent overflow */
+        flex-shrink: 1;
+        min-width: 0; /* Important for flex shrinking */
+      }
+
+      #bookmark-list a:hover {
+        color: var(--link-hover-color);
+        text-decoration: underline;
+      }
+
+      /* --- TAGS CONTAINER STYLING --- */
+      .tags {
+        display: flex;
+        flex-wrap: wrap; /* Allow tags to wrap within their container */
+        justify-content: flex-end; /* Align tags to the right if they wrap */
+        gap: 0.4rem;
+        margin-top: 0; /* Remove top margin */
+        flex-shrink: 0; /* Prevent tags container from shrinking */
+        text-align: right; /* Align text for wrapped tags */
+      }
+
+      /* --- INDIVIDUAL TAG STYLING --- */
+      .tag {
+        display: inline-block; /* Ensure tags behave correctly in flex */
+        background-color: var(--tag-bg-color);
+        color: var(--tag-text-color);
+        padding: 0.1rem 0.5rem;
+        border-radius: 0.35rem;
+        font-size: 0.75rem;
+        font-family: var(--font-condensed); /* Use variable */
+        transition: background-color 0.2s, color 0.2s;
+        cursor: pointer;
+        text-transform: lowercase;
+        white-space: nowrap; /* Prevent tags themselves from breaking */
+      }
+      .tag:hover {
+        background-color: var(--tag-hover-bg-color);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>
+        <a
+          href="https://prabhakar.chaganti.net"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="h1-link"
+          >pchaganti</a
+        >
+        <span class="h1-separator">|</span>
+        <span class="h1-subtitle">memosyne</span>
+      </h1>
+      <div id="tag-filter">
+        <!-- Tag filters will be populated here -->
+      </div>
+      <ul id="bookmark-list">
+        <li id="loading-message" class="message-item">Loading ...</li>
+      </ul>
+    </div>
+
+    <script>
+      const bookmarkList = document.getElementById("bookmark-list");
+      const tagFilterContainer = document.getElementById("tag-filter");
+      const loadingMessage = document.getElementById("loading-message");
+      let allTags = new Set();
+      let bookmarksData = [];
+
+      const MARKDOWN_FILE_URL =
+        "https://raw.githubusercontent.com/pchaganti/memosyne/main/README.md"; // Corrected URL
+
+      function displayMessage(message, isError = false) {
+        bookmarkList.innerHTML = ""; // Clear previous content
+        const li = document.createElement("li");
+        li.textContent = message;
+        li.classList.add("message-item"); // Applies message styling
+        if (isError) {
+          li.classList.add("error-item"); // Adds error styling
+        }
+        bookmarkList.appendChild(li);
+      }
+
+      function parseMarkdown(markdownContent) {
+        bookmarksData = [];
+        allTags = new Set();
+
+        const lines = markdownContent.trim().split("\n");
+        const linkRegex = /-\s*\[(.*?)\]\((.*?)\)(.*)/;
+
+        lines.forEach((line, index) => {
+          const match = line.match(linkRegex);
+          if (match) {
+            const title = match[1].trim();
+            let url = match[2].trim();
+            const tagsPart = match[3].trim();
+
+            if (url.startsWith("//")) {
+              url = "https:" + url;
+            } else if (url.startsWith("/") && !url.startsWith("//")) {
+              // Keep simple relative path handling for now
+              console.warn(
+                `Relative URL found: ${url}. May not work correctly if source is remote.`
+              );
+              // Advanced resolution might be needed depending on hosting context
+            }
+
+            const tags = (tagsPart.match(/#(\w+)/g) || []) // Match # followed by word characters
+              .map((tag) => tag.substring(1).toLowerCase()); // Remove # and lowercase
+
+            // Filter out empty strings potentially caused by regex/split issues
+            const validTags = tags.filter((tag) => tag.length > 0);
+
+            validTags.forEach((tag) => allTags.add(tag));
+            bookmarksData.push({ title, url, tags: validTags });
+          } else if (line.trim().length > 0 && !line.trim().startsWith("#")) {
+            console.warn(`Could not parse line ${index + 1}:`, line);
+          }
+        });
+        console.log("Parsed Tags:", Array.from(allTags)); // Debugging: See discovered tags
+      }
+
+      function renderBookmarks(filterTag = "all") {
+        bookmarkList.innerHTML = ""; // Clear current list
+
+        const filteredBookmarks = bookmarksData.filter(
+          (item) => filterTag === "all" || item.tags.includes(filterTag)
+        );
+
+        if (bookmarksData.length > 0 && filteredBookmarks.length === 0) {
+          displayMessage(`No bookmarks found matching tag #${filterTag}.`);
+          return;
+        } else if (bookmarksData.length === 0) {
+          // This message is usually set during load error/empty file state
+          if (!document.querySelector(".message-item")) {
+            // Avoid double messages
+            displayMessage("No bookmarks loaded or found.");
+          }
+          return;
+        }
+
+        filteredBookmarks.forEach((item) => {
+          const li = document.createElement("li");
+          // Note: We don't set data-tags anymore as filtering re-renders
+
+          // Create link element
+          const link = document.createElement("a");
+          link.href = item.url;
+          link.textContent = item.title;
+          link.target = "_blank";
+          link.rel = "noopener noreferrer";
+          li.appendChild(link); // Add link first
+
+          // Create tags container EVEN IF EMPTY to maintain flex structure
+          const tagsDiv = document.createElement("div");
+          tagsDiv.className = "tags";
+
+          if (item.tags.length > 0) {
+            item.tags.forEach((tag) => {
+              const tagSpan = document.createElement("span");
+              tagSpan.className = "tag";
+              tagSpan.textContent = `#${tag}`;
+              tagSpan.dataset.tag = tag;
+              tagSpan.title = `Filter by tag: ${tag}`; // Add tooltip
+              tagSpan.addEventListener("click", (e) => {
+                e.stopPropagation();
+                filterByTag(tag);
+              });
+              tagsDiv.appendChild(tagSpan);
+            });
+          }
+          li.appendChild(tagsDiv); // Add tags container last
+
+          bookmarkList.appendChild(li);
+        });
+      }
+
+      function renderTagFilters() {
+        tagFilterContainer.innerHTML = ""; // Clear existing
+
+        const allButton = document.createElement("button");
+        allButton.className = "tag-filter-button active";
+        allButton.textContent = "All";
+        allButton.dataset.tag = "all";
+        allButton.title = "Show all bookmarks";
+        allButton.addEventListener("click", () => filterByTag("all"));
+        tagFilterContainer.appendChild(allButton);
+
+        const sortedTags = Array.from(allTags).sort((a, b) =>
+          a.localeCompare(b)
+        ); // Sort alphabetically
+        sortedTags.forEach((tag) => {
+          const button = document.createElement("button");
+          button.className = "tag-filter-button";
+          button.textContent = tag;
+          button.dataset.tag = tag;
+          button.title = `Filter by tag: ${tag}`;
+          button.addEventListener("click", () => filterByTag(tag));
+          tagFilterContainer.appendChild(button);
+        });
+      }
+
+      function filterByTag(tag) {
+        document
+          .querySelectorAll("#tag-filter .tag-filter-button")
+          .forEach((btn) => {
+            btn.classList.toggle("active", btn.dataset.tag === tag);
+          });
+        renderBookmarks(tag);
+      }
+
+      async function loadAndRenderBookmarks() {
+        try {
+          // Keep initial loading message simple
+          // displayMessage(`Loading bookmarks from source...`);
+          loadingMessage.textContent = "Loading bookmarks...";
+
+          const response = await fetch(MARKDOWN_FILE_URL, {
+            cache: "no-store", // Try to always get the fresh version
+            headers: {
+              Accept: "text/plain", // Explicitly ask for plain text
+            },
+          });
+
+          if (!response.ok) {
+            let errorDetail = "";
+            try {
+              // Try to get text even from error response
+              errorDetail = await response.text();
+              if (errorDetail && errorDetail.length > 200)
+                errorDetail = errorDetail.substring(0, 200) + "..."; // Truncate long errors
+            } catch (e) {
+              /* Ignore if cannot read body */
+            }
+            throw new Error(
+              `HTTP error! Status: ${response.status} ${response.statusText}. Could not load file from URL. ${errorDetail}`
+            );
+          }
+
+          // Check content type, GitHub raw should be text/plain
+          const contentType = response.headers.get("content-type");
+          if (!contentType || !contentType.includes("text/plain")) {
+            console.warn(
+              `Unexpected content-type: ${contentType}. Expecting text/plain.`
+            );
+          }
+
+          const markdownContent = await response.text();
+
+          if (!markdownContent || markdownContent.trim().length === 0) {
+            displayMessage(
+              `File loaded successfully but is empty or contains no processable content.`,
+              true
+            );
+            renderTagFilters(); // Render 'All' button etc.
+            return;
+          }
+
+          parseMarkdown(markdownContent);
+
+          // Remove loading message *before* rendering bookmarks
+          if (loadingMessage) loadingMessage.remove();
+
+          if (bookmarksData.length === 0) {
+            // If parsing resulted in no data, even though file wasn't empty
+            displayMessage(
+              `Loaded content, but no valid bookmark entries found. Check markdown format (e.g., '- [Title](URL) #tag').`
+            );
+          } else {
+            renderBookmarks(); // Render all initially
+          }
+          renderTagFilters(); // Render tags after parsing
+        } catch (error) {
+          console.error("Error loading or parsing bookmarks:", error);
+          if (loadingMessage) loadingMessage.remove(); // Ensure loading message is removed on error too
+          displayMessage(
+            `Error loading bookmarks: ${error.message}. Check the URL, your network connection, and the browser console (F12) for potential CORS issues or other details.`,
+            true
+          );
+          renderTagFilters(); // Still render basic filters
+        }
+      }
+
+      document.addEventListener("DOMContentLoaded", loadAndRenderBookmarks);
+    </script>
+  </body>
+</html>
