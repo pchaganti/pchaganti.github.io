@@ -19,11 +19,37 @@ body {
 }
 
 h1 {
-  text-align: center;
-  color: #2c3e50;
+  text-align: left;
+  color: #333;
   margin-bottom: 2rem;
-  font-size: 2.25rem;
-  letter-spacing: -0.5px;
+  font-weight: 500; /* Slightly bolder main title */
+  font-size: 1.8em;
+  font-family: "Raleway";
+  line-height: 1.3; /* Adjust line height if needed */
+}
+
+/* Styles for the new spans */
+.h1-separator {
+  font-weight: 300; /* Lighter weight for the pipe */
+  color: #555; /* Use a less prominent color */
+  margin: 0 0.2em; /* Add a little space around the pipe */
+}
+
+.h1-subtitle {
+  font-weight: 300; /* Lighter weight for the subtitle */
+  color: #555; /* Match separator or use main text color */
+  /* color: var(--text-color); */ /* Alternative: Keep main color but lighter weight */
+}
+
+.h1-link {
+  color: inherit; /* Make the link inherit the H1's text color */
+  text-decoration: none; /* Remove the default underline */
+  transition: color 0.2s ease; /* Add smooth transition for hover */
+}
+
+.h1-link:hover {
+  color: #58a6ff; /* Change color on hover (optional, use var(--text-color) to keep it same) */
+  /* text-decoration: underline; */ /* Optionally add underline on hover */
 }
 
 #haiku-container {
