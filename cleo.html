@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>cleo</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      /* --- Basic Reset & Body --- */
+      body {
+        font-family: "Roboto Condensed", -apple-system, BlinkMacSystemFont,
+          "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji",
+          "Segoe UI Emoji", "Segoe UI Symbol";
+        line-height: 1.6;
+        margin: 0;
+        padding: 0;
+        background-color: #f8f9fa; /* Slightly off-white */
+        color: #343a40; /* Darker gray */
+      }
+
+      /* --- Container --- */
+      .container {
+        max-width: 800px;
+        margin: 25px auto;
+        padding: 20px 30px;
+        background-color: #ffffff;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+      }
+
+      h1 {
+        /* text-align: center; */ /* REMOVE this */
+        text-align: left; /* ADD this */
+        color: #333;
+        /* margin-bottom: 2rem; */ /* Adjust margin */
+        margin-bottom: 2.5rem; /* Reduce bottom margin */
+        padding-bottom: 0.75rem; /* Add padding for the border */
+        font-weight: 500; /* Slightly bolder main title */
+        font-size: 1.8em;
+        line-height: 1.3; /* Adjust line height if needed */
+      }
+
+      /* Styles for the new spans */
+      .h1-separator {
+        font-weight: 300; /* Lighter weight for the pipe */
+        color: #555; /* Use a less prominent color */
+        margin: 0 0.2em; /* Add a little space around the pipe */
+      }
+
+      .h1-subtitle {
+        font-weight: 300; /* Lighter weight for the subtitle */
+        color: #555; /* Match separator or use main text color */
+        /* color: var(--text-color); */ /* Alternative: Keep main color but lighter weight */
+      }
+
+      .h1-link {
+        color: inherit; /* Make the link inherit the H1's text color */
+        text-decoration: none; /* Remove the default underline */
+        transition: color 0.2s ease; /* Add smooth transition for hover */
+      }
+
+      .h1-link:hover {
+        color: #0077cc; /* Change color on hover (optional, use var(--text-color) to keep it same) */
+        /* text-decoration: underline; */ /* Optionally add underline on hover */
+      }
+
+      /* Optional: Adjust alignment on very small screens if needed */
+      @media (max-width: 480px) {
+        h1 {
+          font-size: 1.5em; /* Slightly smaller on mobile */
+          /* text-align: center; */ /* Uncomment if center looks better on tiny screens */
+        }
+      }
+
+      /* --- Header --- */
+      header {
+        border-bottom: 1px solid #dee2e6; /* Lighter border */
+        padding-bottom: 15px;
+        margin-bottom: 25px;
+        text-align: center;
+      }
+
+      header h1 {
+        margin: 0 0 5px 0;
+        font-size: 1.9em;
+        color: #212529; /* Near black */
+      }
+
+      header .feed-updated {
+        font-size: 0.9em;
+        text-align: left;
+        color: #6c757d; /* Medium gray */
+      }
+
+      /* --- Feed Entries --- */
+      #feed-entries {
+        /* Container for dynamically added entries */
+      }
+
+      .feed-entry {
+        margin-bottom: 30px;
+        padding-bottom: 25px;
+        border-bottom: 1px solid #e9ecef; /* Even lighter border */
+      }
+      .feed-entry:last-child {
+        border-bottom: none;
+        margin-bottom: 0;
+        padding-bottom: 0;
+      }
+
+      .feed-entry h2 {
+        margin: 0 0 8px 0;
+        font-size: 1.35em;
+        font-weight: 600; /* Slightly bolder */
+      }
+
+      .feed-entry h2 a {
+        text-decoration: none;
+        color: #0056b3;
+      }
+      .feed-entry h2 a:hover,
+      .feed-entry h2 a:focus {
+        text-decoration: underline;
+        color: #003d80;
+      }
+
+      .feed-entry .meta {
+        font-size: 0.88em; /* Slightly smaller */
+        color: #6c757d;
+        margin-bottom: 12px;
+      }
+      .feed-entry .meta .author {
+        font-weight: 500; /* Medium weight */
+        color: #495057; /* Darker gray */
+      }
+      .feed-entry .meta time {
+        font-style: italic;
+      }
+
+      .feed-entry .summary {
+        margin-top: 10px;
+        color: #495057;
+        font-size: 0.95em;
+        background-color: #f1f3f5; /* Very light gray background */
+        padding: 10px 15px;
+        border-radius: 4px;
+        border-left: 3px solid #ced4da; /* Subtle left border */
+        font-family: "Roboto Mono";
+      }
+      .feed-entry .summary p {
+        /* Remove default margins inside summary */
+        margin: 0;
+      }
+
+      /* --- Status Messages --- */
+      #status {
+        text-align: center;
+        padding: 20px;
+        font-style: italic;
+        color: #6c757d;
+      }
+      #status.error {
+        color: #dc3545; /* Red for errors */
+        font-weight: bold;
+      }
+
+      /* --- Footer --- */
+      footer {
+        text-align: center;
+        margin-top: 30px;
+        padding-top: 15px;
+        border-top: 1px solid #dee2e6;
+        font-size: 0.85em;
+        color: #6c757d;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1 style="font-family: Raleway">
+        <a
+          href="https://prabhakar.chaganti.net"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="h1-link"
+          >pchaganti</a
+        >
+        <span class="h1-separator">|</span>
+        <span class="h1-subtitle">cleo</span>
+      </h1>
+
+      <header style="display: none">
+        <h1 id="feed-title">Loading Feed...</h1>
+        <div id="feed-meta" class="feed-updated"></div>
+      </header>
+
+      <div id="status">Fetching latest entries...</div>
+
+      <main id="feed-entries">
+        <!-- Feed entries will be loaded here by JavaScript -->
+      </main>
+
+      <footer>
+        <p>Feed dynamically loaded via JavaScript.</p>
+      </footer>
+    </div>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        const feedUrl =
+          "https://raw.githubusercontent.com/pchaganti/cleo/refs/heads/gh-pages/feed.atom";
+        const feedTitleElement = document.getElementById("feed-title");
+        const feedMetaElement = document.getElementById("feed-meta");
+        const entriesContainer = document.getElementById("feed-entries");
+        const statusElement = document.getElementById("status");
+
+        // --- Helper Function to Format Dates ---
+        function formatDateTime(dateString) {
+          if (!dateString) return "Date unavailable";
+          try {
+            const date = new Date(dateString);
+            if (isNaN(date.getTime())) {
+              console.warn("Invalid date string:", dateString);
+              return dateString;
+            }
+            const options = {
+              year: "numeric",
+              month: "long",
+              day: "numeric",
+              hour: "numeric",
+              minute: "2-digit",
+              timeZoneName: "short",
+            };
+            return date.toLocaleString(undefined, options);
+          } catch (e) {
+            console.error("Error formatting date:", dateString, e);
+            return dateString;
+          }
+        }
+
+        // --- Fetch and Render Feed ---
+        fetch(feedUrl)
+          .then((response) => {
+            if (!response.ok) {
+              throw new Error(`HTTP error! Status: ${response.status}`);
+            }
+            statusElement.textContent = "Parsing feed...";
+            return response.text();
+          })
+          .then((xmlString) => {
+            const parser = new DOMParser();
+            const xmlDoc = parser.parseFromString(xmlString, "application/xml");
+
+            const parserError = xmlDoc.querySelector("parsererror");
+            if (parserError) {
+              console.error("XML Parsing Error:", parserError.textContent);
+              throw new Error("Failed to parse the feed XML.");
+            }
+
+            // --- Update Feed Header ---
+            const feedTitle =
+              xmlDoc.querySelector("feed > title")?.textContent ||
+              "Feed Title Unavailable";
+            const feedUpdated =
+              xmlDoc.querySelector("feed > updated")?.textContent;
+            feedTitleElement.textContent = feedTitle;
+            if (feedUpdated) {
+              feedMetaElement.innerHTML = `Last Updated: <time datetime="${feedUpdated}">${formatDateTime(
+                feedUpdated
+              )}</time>`;
+            } else {
+              feedMetaElement.textContent = "Update time unavailable.";
+            }
+
+            // --- Process Entries ---
+            const entries = xmlDoc.querySelectorAll("feed > entry");
+            entriesContainer.innerHTML = "";
+
+            if (entries.length === 0) {
+              statusElement.textContent = "No entries found in the feed.";
+              statusElement.style.display = "block";
+              return;
+            }
+
+            entries.forEach((entry) => {
+              const title =
+                entry.querySelector("title")?.textContent || "No Title";
+              const link =
+                entry
+                  .querySelector('link[rel="alternate"]')
+                  ?.getAttribute("href") ||
+                entry.querySelector("link")?.getAttribute("href") ||
+                "#";
+              const updated = entry.querySelector("updated")?.textContent;
+              const author =
+                entry.querySelector("author > name")?.textContent ||
+                "Unknown Author";
+              const summaryNode = entry.querySelector("summary");
+              // Prioritize textContent now, but still capture potential innerHTML if needed elsewhere
+              const summaryContent = summaryNode?.textContent || ""; // Get text content directly
+
+              const article = document.createElement("article");
+              article.className = "feed-entry";
+
+              const titleElement = document.createElement("h2");
+              const linkElement = document.createElement("a");
+              linkElement.href = link;
+              linkElement.textContent = title;
+              linkElement.target = "_blank";
+              linkElement.rel = "noopener noreferrer";
+              titleElement.appendChild(linkElement);
+
+              const metaElement = document.createElement("p");
+              metaElement.className = "meta";
+              metaElement.innerHTML = `By <span class="author">${author}</span> on <time datetime="${
+                updated || ""
+              }">${formatDateTime(updated)}</time>`;
+
+              article.appendChild(titleElement);
+              article.appendChild(metaElement);
+
+              if (summaryContent.trim()) {
+                const summaryElement = document.createElement("div");
+                summaryElement.className = "summary";
+                // *** USE textContent TO INSERT THE SUMMARY ***
+                summaryElement.textContent = summaryContent;
+                article.appendChild(summaryElement);
+              }
+
+              entriesContainer.appendChild(article);
+            });
+
+            statusElement.style.display = "none";
+          })
+          .catch((error) => {
+            console.error("Error fetching or parsing feed:", error);
+            feedTitleElement.textContent = "Error Loading Feed";
+            statusElement.textContent = `Failed to load or render feed: ${error.message}`;
+            statusElement.className = "error";
+            statusElement.style.display = "block";
+            entriesContainer.innerHTML = "";
+          });
+      });
+    </script>
+  </body>
+</html>
