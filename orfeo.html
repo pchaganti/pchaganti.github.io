@@ -807,11 +807,15 @@
         // Random size between 30 and 350 pixels (wider range)
         const size = Math.floor(Math.random() * 320) + 30;
 
-        // Random position ensuring circle is fully visible
+        // Get container height for offset
+        const container = document.querySelector('.container');
+        const containerHeight = container ? container.getBoundingClientRect().height : 0;
+
+        // Random position ensuring circle is fully visible and below container
         const maxX = window.innerWidth - size;
         const maxY = window.innerHeight - size;
         const x = Math.floor(Math.random() * maxX);
-        const y = Math.floor(Math.random() * maxY);
+        const y = Math.floor(Math.random() * (maxY - containerHeight)) + containerHeight;
 
         // Buddhist-inspired color palette (golds, deep reds, blues, purples)
         const colorPalettes = [
