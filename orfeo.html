@@ -1,0 +1,1601 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Orfeo</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #111;
+        width: 100vw;
+        height: 100vh;
+        background: radial-gradient(circle at center, #1a1a2e 0%, #0f0f1a 100%);
+        position: relative;
+      }
+
+      /* Background particles for ambient effect */
+      .bg-particle {
+        position: absolute;
+        border-radius: 50%;
+        background: rgba(255, 255, 255, 0.03);
+        pointer-events: none;
+        z-index: -1;
+      }
+      .circle {
+        position: absolute;
+        border-radius: 50%; /* Default is circle, can be modified */
+        opacity: 0;
+        box-shadow: 0 0 30px rgba(255, 255, 255, 0.6);
+        animation: appear-disappear 3s ease-in-out forwards;
+        background: transparent; /* Hollow circle */
+        border: 2px solid var(--circle-color); /* Enhanced border using the circle color */
+        transform-origin: center;
+        z-index: 10;
+      }
+
+      /* Particle trail effect */
+      .particle {
+        position: absolute;
+        border-radius: 50%;
+        opacity: 0.7;
+        pointer-events: none;
+        z-index: 5;
+        background: var(--particle-color, white);
+        box-shadow: 0 0 8px var(--particle-color, white);
+      }
+
+      /* Ripple effect when circles appear */
+      .ripple {
+        position: absolute;
+        border-radius: 50%;
+        border: 2px solid var(--circle-color, white);
+        opacity: 0.8;
+        pointer-events: none;
+        z-index: 5;
+        background: transparent;
+        animation: ripple-effect 2s ease-out forwards;
+      }
+      @keyframes appear-disappear {
+        0% {
+          opacity: 0;
+          transform: scale(0) rotate(0deg);
+        }
+        20% {
+          opacity: var(--max-opacity, 0.85);
+          transform: scale(1) rotate(5deg);
+        }
+        50% {
+          transform: scale(1.02) rotate(5deg);
+        }
+        80% {
+          opacity: var(--max-opacity, 0.85);
+          transform: scale(1) rotate(5deg);
+        }
+        100% {
+          opacity: 0;
+          transform: scale(0) rotate(10deg);
+        }
+      }
+
+      @keyframes gentle-pulse {
+        0%,
+        100% {
+          transform: scale(1);
+        }
+        50% {
+          transform: scale(1.05);
+        }
+      }
+
+      @keyframes rotate-cw {
+        0% {
+          transform: rotate(0deg);
+        }
+        100% {
+          transform: rotate(var(--max-rotation, 360deg));
+        }
+      }
+
+      @keyframes rotate-ccw {
+        0% {
+          transform: rotate(0deg);
+        }
+        100% {
+          transform: rotate(var(--max-rotation, -360deg));
+        }
+      }
+
+      @keyframes ripple-effect {
+        0% {
+          transform: scale(0.1);
+          opacity: 0.8;
+        }
+        100% {
+          transform: scale(2);
+          opacity: 0;
+        }
+      }
+
+      @keyframes float-particle {
+        0% {
+          transform: translate(0, 0) rotate(0deg);
+        }
+        25% {
+          transform: translate(var(--x-float, 10px), var(--y-float, -10px))
+            rotate(var(--rotation, 90deg));
+        }
+        50% {
+          transform: translate(var(--x-float2, -10px), var(--y-float2, -5px))
+            rotate(var(--rotation2, 180deg));
+        }
+        75% {
+          transform: translate(var(--x-float3, 5px), var(--y-float3, 10px))
+            rotate(var(--rotation3, 270deg));
+        }
+        100% {
+          transform: translate(0, 0) rotate(360deg);
+        }
+      }
+
+      @keyframes glow-pulse {
+        0%,
+        100% {
+          filter: brightness(1) blur(0px);
+        }
+        50% {
+          filter: brightness(1.5) blur(3px);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <script>
+      // Audio context for sound generation
+      let audioContext;
+      let ambientSound;
+      let backgroundParticles = [];
+
+      // Initialize audio context when page loads
+      window.addEventListener("load", initAudio);
+      window.addEventListener("resize", updateBackgroundParticles);
+
+      function initAudio() {
+        audioContext = new (window.AudioContext || window.webkitAudioContext)();
+        // Start creating circles after audio is initialized
+        createRandomCircle(); // Create first circle immediately
+        setInterval(createRandomCircle, 800); // Create circles more frequently
+
+        // Create background particles
+        createBackgroundParticles();
+
+        // Start ambient background sound
+        createAmbientSound();
+
+        // Trigger special effects periodically
+        setInterval(() => {
+          // Random chance to play special effect (about 15% chance every 5 seconds)
+          if (Math.random() < 0.15) {
+            playSpecialEffect();
+          }
+        }, 5000);
+
+        // Add click event listener to create interactive effects
+        document.body.addEventListener("click", (event) => {
+          // Create a circle at the click position
+          const size = 100 + Math.random() * 100;
+          const x = event.clientX - size / 2;
+          const y = event.clientY - size / 2;
+
+          // Use a special color for interactive circles
+          const hue = 30 + Math.random() * 30; // Gold range
+          const color = `hsl(${hue}, 90%, 60%)`;
+
+          // Create ripple at click position
+          createRippleEffect(event.clientX, event.clientY, size * 1.5, color);
+
+          // Create particle burst
+          for (let i = 0; i < 20; i++) {
+            setTimeout(() => {
+              createParticleTrail(event.clientX, event.clientY, size, color);
+            }, i * 50);
+          }
+
+          // Play a special sound for interaction
+          playSpecialEffect();
+        });
+      }
+
+      // Create background particles for ambient effect
+      function createBackgroundParticles() {
+        const particleCount = Math.floor(
+          (window.innerWidth * window.innerHeight) / 15000
+        ); // Adjust density
+
+        for (let i = 0; i < particleCount; i++) {
+          createBackgroundParticle();
+        }
+
+        // Animate background particles
+        animateBackgroundParticles();
+      }
+
+      function createBackgroundParticle() {
+        const size = 2 + Math.random() * 8;
+        const x = Math.random() * window.innerWidth;
+        const y = Math.random() * window.innerHeight;
+
+        const particle = document.createElement("div");
+        particle.className = "bg-particle";
+        particle.style.width = `${size}px`;
+        particle.style.height = `${size}px`;
+        particle.style.left = `${x}px`;
+        particle.style.top = `${y}px`;
+
+        // Set random float animation parameters
+        const xFloat = Math.random() * 40 - 20;
+        const yFloat = Math.random() * 40 - 20;
+        const rotation = Math.random() * 360;
+        const duration = 15 + Math.random() * 30;
+
+        particle.style.setProperty("--x-float", `${xFloat}px`);
+        particle.style.setProperty("--y-float", `${-Math.abs(yFloat)}px`); // Always float up first
+        particle.style.setProperty("--x-float2", `${-xFloat * 0.7}px`);
+        particle.style.setProperty("--y-float2", `${-yFloat * 0.5}px`);
+        particle.style.setProperty("--x-float3", `${xFloat * 0.3}px`);
+        particle.style.setProperty("--y-float3", `${Math.abs(yFloat)}px`); // Then float down
+        particle.style.setProperty("--rotation", `${rotation}deg`);
+        particle.style.setProperty("--rotation2", `${rotation * 2}deg`);
+        particle.style.setProperty("--rotation3", `${rotation * 3}deg`);
+
+        particle.style.animation = `float-particle ${duration}s ease-in-out infinite`;
+
+        document.body.appendChild(particle);
+        backgroundParticles.push(particle);
+
+        return particle;
+      }
+
+      function updateBackgroundParticles() {
+        // Remove existing particles
+        backgroundParticles.forEach((particle) => {
+          if (particle.parentNode) {
+            document.body.removeChild(particle);
+          }
+        });
+        backgroundParticles = [];
+
+        // Create new particles for the new window size
+        createBackgroundParticles();
+      }
+
+      function animateBackgroundParticles() {
+        // Subtle movement of background particles in response to audio
+        if (audioContext && ambientSound) {
+          const analyser = audioContext.createAnalyser();
+          ambientSound.connect(analyser);
+          analyser.fftSize = 32;
+
+          const bufferLength = analyser.frequencyBinCount;
+          const dataArray = new Uint8Array(bufferLength);
+
+          function animate() {
+            analyser.getByteFrequencyData(dataArray);
+            const average = dataArray.reduce((a, b) => a + b, 0) / bufferLength;
+
+            // Subtle glow effect based on audio intensity
+            document.body.style.filter = `brightness(${1 + average / 1000})`;
+
+            requestAnimationFrame(animate);
+          }
+
+          animate();
+        }
+      }
+
+      // Create ambient background sound
+      function createAmbientSound() {
+        if (!audioContext) return;
+
+        // Create a low-frequency oscillator for ambient background
+        const ambientOsc = audioContext.createOscillator();
+        const ambientGain = audioContext.createGain();
+
+        ambientOsc.type = "sine";
+        ambientOsc.frequency.value = 40 + Math.random() * 20; // Very low frequency
+
+        ambientGain.gain.value = 0.03; // Very quiet
+
+        ambientOsc.connect(ambientGain);
+        ambientGain.connect(audioContext.destination);
+
+        ambientOsc.start();
+        ambientSound = ambientGain;
+
+        // Slowly vary the frequency for a breathing effect
+        const lfoFreq = audioContext.createOscillator();
+        const lfoGain = audioContext.createGain();
+
+        lfoFreq.type = "sine";
+        lfoFreq.frequency.value = 0.05; // Very slow modulation
+
+        lfoGain.gain.value = 10; // Modulation amount
+
+        lfoFreq.connect(lfoGain);
+        lfoGain.connect(ambientOsc.frequency);
+
+        lfoFreq.start();
+      }
+
+      // Create a random circle with a corresponding chime
+      function createRandomCircle() {
+        // Random size between 30 and 350 pixels (wider range)
+        const size = Math.floor(Math.random() * 320) + 30;
+
+        // Random position ensuring circle is fully visible
+        const maxX = window.innerWidth - size;
+        const maxY = window.innerHeight - size;
+        const x = Math.floor(Math.random() * maxX);
+        const y = Math.floor(Math.random() * maxY);
+
+        // Buddhist-inspired color palette (golds, deep reds, blues, purples)
+        const colorPalettes = [
+          { hue: 35, saturation: 80, lightness: 65 }, // Gold
+          { hue: 0, saturation: 70, lightness: 40 }, // Deep red
+          { hue: 270, saturation: 50, lightness: 40 }, // Purple
+          { hue: 200, saturation: 60, lightness: 30 }, // Deep blue
+          { hue: 160, saturation: 50, lightness: 30 }, // Teal
+        ];
+
+        const palette =
+          colorPalettes[Math.floor(Math.random() * colorPalettes.length)];
+        const hue = palette.hue + (Math.random() * 20 - 10); // Slight hue variation
+        const saturation = palette.saturation + (Math.random() * 10 - 5);
+        const lightness = palette.lightness + (Math.random() * 10 - 5);
+        const color = `hsl(${hue}, ${saturation}%, ${lightness}%)`;
+        const colorLight = `hsl(${hue}, ${saturation - 10}%, ${
+          lightness + 15
+        }%)`; // Lighter version for gradient
+
+        // Random animation duration between 2 and 4 seconds
+        const duration = Math.random() * 2 + 2;
+
+        // Create circle element
+        const circle = document.createElement("div");
+        circle.className = "circle";
+        circle.style.width = `${size}px`;
+        circle.style.height = `${size}px`;
+        circle.style.left = `${x}px`;
+        circle.style.top = `${y}px`;
+        circle.style.setProperty("--circle-color", color);
+        circle.style.setProperty("--circle-color-light", colorLight);
+
+        // Add variety to shapes and styles
+        const shapeVariation = Math.random();
+
+        // All shapes are circles
+        circle.style.borderRadius = "50%";
+        // Add varying border styles for hollow circles
+        const borderStyle =
+          Math.random() < 0.5
+            ? "solid"
+            : Math.random() < 0.5
+            ? "dashed"
+            : "dotted";
+        const borderWidth = 2 + Math.floor(Math.random() * 4); // Thicker borders for hollow circles
+        circle.style.border = `${borderWidth}px ${borderStyle} ${color}`; // Use the circle color for border
+
+        // Vary opacity
+        const maxOpacity = 0.7 + Math.random() * 0.3;
+        circle.style.setProperty("--max-opacity", maxOpacity);
+
+        // Add different animation variations
+        const animationType = Math.random();
+        if (animationType < 0.3) {
+          // Gentle pulsing
+          const pulseSpeed = 2 + Math.random() * 2;
+          circle.style.animation = `appear-disappear ${duration}s ease-in-out forwards, gentle-pulse ${pulseSpeed}s ease-in-out infinite`;
+        } else if (animationType < 0.6) {
+          // Rotation
+          const rotationSpeed = 3 + Math.random() * 4;
+          const rotationDirection = Math.random() > 0.5 ? 1 : -1;
+          const maxRotation = 30 + Math.random() * 60;
+          circle.style.animation = `appear-disappear ${duration}s ease-in-out forwards, rotate-${
+            rotationDirection > 0 ? "cw" : "ccw"
+          } ${rotationSpeed}s linear infinite`;
+          circle.style.setProperty(
+            "--max-rotation",
+            `${maxRotation * rotationDirection}deg`
+          );
+        } else {
+          // Default animation
+          circle.style.animation = `appear-disappear ${duration}s ease-in-out forwards`;
+        }
+
+        // Add glow effect to some circles
+        if (Math.random() < 0.3) {
+          const glowSpeed = 2 + Math.random() * 3;
+          circle.style.animation += `, glow-pulse ${glowSpeed}s ease-in-out infinite`;
+        }
+
+        circle.style.animationDuration = `${duration}s`;
+
+        // Add to DOM
+        document.body.appendChild(circle);
+
+        // Create ripple effect
+        createRippleEffect(x + size / 2, y + size / 2, size, color);
+
+        // Create particle trail
+        createParticleTrail(x + size / 2, y + size / 2, size, color);
+
+        // Play chime sound based on circle size
+        playChime(size);
+
+        // Remove circle from DOM after animation completes
+        setTimeout(() => {
+          if (circle.parentNode) {
+            document.body.removeChild(circle);
+          }
+        }, duration * 1000);
+      }
+
+      // Create ripple effect when circles appear
+      function createRippleEffect(x, y, size, color) {
+        const ripple = document.createElement("div");
+        ripple.className = "ripple";
+        ripple.style.width = `${size * 1.5}px`;
+        ripple.style.height = `${size * 1.5}px`;
+        ripple.style.left = `${x - size * 0.75}px`;
+        ripple.style.top = `${y - size * 0.75}px`;
+        ripple.style.setProperty("--circle-color", color);
+
+        document.body.appendChild(ripple);
+
+        // Remove ripple after animation completes
+        setTimeout(() => {
+          if (ripple.parentNode) {
+            document.body.removeChild(ripple);
+          }
+        }, 2000);
+      }
+
+      // Create particle trail effect
+      function createParticleTrail(x, y, size, color) {
+        const particleCount = Math.floor(size / 10); // More particles for larger circles
+
+        for (let i = 0; i < particleCount; i++) {
+          setTimeout(() => {
+            const particle = document.createElement("div");
+            particle.className = "particle";
+
+            // Random particle size
+            const particleSize = 2 + Math.random() * 6;
+            particle.style.width = `${particleSize}px`;
+            particle.style.height = `${particleSize}px`;
+
+            // Position around the circle
+            const angle = Math.random() * Math.PI * 2;
+            const distance = (size / 2) * Math.random();
+            const particleX = x + Math.cos(angle) * distance;
+            const particleY = y + Math.sin(angle) * distance;
+
+            particle.style.left = `${particleX}px`;
+            particle.style.top = `${particleY}px`;
+
+            // Use a slightly lighter version of the circle color
+            const hsl = color.match(/\d+/g);
+            if (hsl && hsl.length >= 3) {
+              const h = parseInt(hsl[0]);
+              const s = parseInt(hsl[1]);
+              const l = Math.min(parseInt(hsl[2]) + 20, 90); // Lighter
+              particle.style.setProperty(
+                "--particle-color",
+                `hsl(${h}, ${s}%, ${l}%)`
+              );
+            }
+
+            // Random movement
+            const xMove = (Math.random() - 0.5) * 50;
+            const yMove = (Math.random() - 0.5) * 50;
+            const duration = 1 + Math.random() * 2;
+
+            particle.style.transition = `all ${duration}s ease-out`;
+            document.body.appendChild(particle);
+
+            // Animate particle movement
+            setTimeout(() => {
+              particle.style.transform = `translate(${xMove}px, ${yMove}px)`;
+              particle.style.opacity = "0";
+            }, 10);
+
+            // Remove particle after animation
+            setTimeout(() => {
+              if (particle.parentNode) {
+                document.body.removeChild(particle);
+              }
+            }, duration * 1000);
+          }, i * 50); // Stagger particle creation
+        }
+      }
+
+      // Play special sound effects occasionally
+      let lastSpecialEffectTime = 0;
+      function playSpecialEffect() {
+        if (!audioContext) return;
+
+        const now = Date.now();
+        // Only play special effects at least 10 seconds apart
+        if (now - lastSpecialEffectTime < 10000) return;
+
+        lastSpecialEffectTime = now;
+
+        // Special effect types
+        const effectTypes = [
+          "wind_chime",
+          "temple_bell",
+          "meditation_bowl",
+          "nature_sound",
+        ];
+
+        const effectType =
+          effectTypes[Math.floor(Math.random() * effectTypes.length)];
+
+        // Create special effect sound
+        const specialOsc = audioContext.createOscillator();
+        const specialGain = audioContext.createGain();
+        const specialFilter = audioContext.createBiquadFilter();
+        const specialPan = audioContext.createStereoPanner();
+
+        // Configure based on effect type
+        switch (effectType) {
+          case "wind_chime":
+            specialOsc.type = "sine";
+            specialOsc.frequency.value = 800 + Math.random() * 400;
+            specialFilter.type = "highpass";
+            specialFilter.frequency.value = 700;
+            specialFilter.Q.value = 5;
+            specialGain.gain.value = 0.15;
+            // Random sequence of notes
+            for (let i = 0; i < 5; i++) {
+              const time = audioContext.currentTime + i * 0.2;
+              specialOsc.frequency.setValueAtTime(
+                700 + Math.random() * 500,
+                time
+              );
+              specialGain.gain.setValueAtTime(0.15, time);
+              specialGain.gain.exponentialRampToValueAtTime(0.01, time + 0.2);
+            }
+            break;
+
+          case "temple_bell":
+            specialOsc.type = "triangle";
+            specialOsc.frequency.value = 200 + Math.random() * 100;
+            specialFilter.type = "lowpass";
+            specialFilter.frequency.value = 1000;
+            specialGain.gain.value = 0.3;
+            specialGain.gain.exponentialRampToValueAtTime(
+              0.001,
+              audioContext.currentTime + 4
+            );
+            break;
+
+          case "meditation_bowl":
+            specialOsc.type = "sine";
+            specialOsc.frequency.value = 150 + Math.random() * 50;
+            specialFilter.type = "bandpass";
+            specialFilter.frequency.value = 200;
+            specialFilter.Q.value = 10;
+            specialGain.gain.value = 0.25;
+            specialGain.gain.exponentialRampToValueAtTime(
+              0.001,
+              audioContext.currentTime + 6
+            );
+            break;
+
+          case "nature_sound":
+            specialOsc.type = "sawtooth";
+            specialOsc.frequency.value = 100 + Math.random() * 200;
+            specialFilter.type = "bandpass";
+            specialFilter.frequency.value = 300;
+            specialFilter.Q.value = 1;
+            specialGain.gain.value = 0.1;
+            // Create water-like effect
+            for (let i = 0; i < 10; i++) {
+              const time = audioContext.currentTime + i * 0.3;
+              specialFilter.frequency.setValueAtTime(
+                200 + Math.random() * 300,
+                time
+              );
+              specialGain.gain.setValueAtTime(0.05 + Math.random() * 0.1, time);
+            }
+            specialGain.gain.exponentialRampToValueAtTime(
+              0.001,
+              audioContext.currentTime + 3
+            );
+            break;
+        }
+
+        // Random pan position
+        specialPan.pan.value = Math.random() * 2 - 1; // -1 to 1
+
+        // Connect nodes
+        specialOsc.connect(specialFilter);
+        specialFilter.connect(specialGain);
+        specialGain.connect(specialPan);
+        specialPan.connect(audioContext.destination);
+
+        // Start oscillator
+        specialOsc.start();
+        specialOsc.stop(audioContext.currentTime + 6);
+
+        // Create visual effect for special sound
+        createSpecialVisualEffect(effectType);
+      }
+
+      // Create visual effect for special sounds
+      function createSpecialVisualEffect(effectType) {
+        const width = window.innerWidth;
+        const height = window.innerHeight;
+
+        switch (effectType) {
+          case "wind_chime":
+            // Create multiple small particles falling from top
+            for (let i = 0; i < 20; i++) {
+              setTimeout(() => {
+                const x = Math.random() * width;
+                const particle = document.createElement("div");
+                particle.className = "particle";
+                particle.style.width = "3px";
+                particle.style.height = "3px";
+                particle.style.left = `${x}px`;
+                particle.style.top = "0px";
+                particle.style.setProperty(
+                  "--particle-color",
+                  "rgba(255, 255, 255, 0.8)"
+                );
+
+                document.body.appendChild(particle);
+
+                // Animate falling
+                setTimeout(() => {
+                  particle.style.transition = "all 3s ease-in";
+                  particle.style.transform = `translate(${
+                    (Math.random() - 0.5) * 100
+                  }px, ${height}px)`;
+                  particle.style.opacity = "0";
+                }, 10);
+
+                // Remove particle
+                setTimeout(() => {
+                  if (particle.parentNode) {
+                    document.body.removeChild(particle);
+                  }
+                }, 3000);
+              }, i * 100);
+            }
+            break;
+
+          case "temple_bell":
+            // Create expanding ring
+            const ring = document.createElement("div");
+            ring.className = "ripple";
+            const size = Math.min(width, height) * 0.5;
+            ring.style.width = `${size}px`;
+            ring.style.height = `${size}px`;
+            ring.style.left = `${width / 2 - size / 2}px`;
+            ring.style.top = `${height / 2 - size / 2}px`;
+            ring.style.setProperty("--circle-color", "rgba(255, 215, 0, 0.3)");
+            ring.style.animation = "ripple-effect 4s ease-out forwards";
+
+            document.body.appendChild(ring);
+
+            setTimeout(() => {
+              if (ring.parentNode) {
+                document.body.removeChild(ring);
+              }
+            }, 4000);
+            break;
+
+          case "meditation_bowl":
+            // Create gentle glow effect
+            document.body.style.transition = "filter 3s ease-in-out";
+            document.body.style.filter = "brightness(1.3) saturate(1.2)";
+
+            setTimeout(() => {
+              document.body.style.filter = "";
+            }, 3000);
+            break;
+
+          case "nature_sound":
+            // Create water-like ripples
+            for (let i = 0; i < 5; i++) {
+              setTimeout(() => {
+                const x = Math.random() * width;
+                const y = Math.random() * height;
+                const rippleSize = 20 + Math.random() * 60;
+
+                const ripple = document.createElement("div");
+                ripple.className = "ripple";
+                ripple.style.width = `${rippleSize}px`;
+                ripple.style.height = `${rippleSize}px`;
+                ripple.style.left = `${x - rippleSize / 2}px`;
+                ripple.style.top = `${y - rippleSize / 2}px`;
+                ripple.style.setProperty(
+                  "--circle-color",
+                  "rgba(100, 200, 255, 0.3)"
+                );
+
+                document.body.appendChild(ripple);
+
+                setTimeout(() => {
+                  if (ripple.parentNode) {
+                    document.body.removeChild(ripple);
+                  }
+                }, 2000);
+              }, i * 300);
+            }
+            break;
+        }
+      }
+
+      // Play a diverse range of sounds based on the circle size
+      function playChime(size) {
+        if (!audioContext) return;
+
+        // Map size to frequency (larger circles = lower tones)
+        // Size range: 30-350, Frequency range: 70-500 Hz (adjusted for more authentic singing bowl range)
+        const baseFrequency = 500 - ((size - 30) / 320) * 430;
+
+        // Select a sound profile based on circle size and randomness for more diversity
+        const soundProfiles = [
+          "singing_bowl", // Traditional singing bowl sound
+          "crystal_bowl", // Higher, more crystalline sound
+          "gong", // Deep, resonant gong sound
+          "bell", // Sharper, more bell-like sound
+          "water_chime", // Fluid, water-like sound
+          "church_bell", // Church bell sound
+          "brain_wave", // Meditative brain wave frequencies
+        ];
+
+        // Choose sound profile based on size ranges and randomness
+        let soundProfile;
+        if (size < 80) {
+          // Small circles - higher chance of bell, crystal, or church bell sounds
+          soundProfile =
+            Math.random() < 0.7
+              ? Math.random() < 0.6
+                ? Math.random() < 0.5
+                  ? "crystal_bowl"
+                  : "bell"
+                : "church_bell"
+              : soundProfiles[Math.floor(Math.random() * soundProfiles.length)];
+        } else if (size < 200) {
+          // Medium circles - more balanced distribution with church bells and brain waves
+          soundProfile =
+            Math.random() < 0.3
+              ? "brain_wave"
+              : soundProfiles[Math.floor(Math.random() * soundProfiles.length)];
+        } else {
+          // Large circles - higher chance of deeper sounds, brain waves, and church bells for large circles
+          soundProfile =
+            Math.random() < 0.7
+              ? Math.random() < 0.6
+                ? Math.random() < 0.33
+                  ? "singing_bowl"
+                  : Math.random() < 0.5
+                  ? "gong"
+                  : "brain_wave"
+                : "church_bell"
+              : soundProfiles[Math.floor(Math.random() * soundProfiles.length)];
+        }
+
+        // Create oscillators and effects for richer sound
+        const primaryOsc = audioContext.createOscillator();
+        const harmonicOsc = audioContext.createOscillator();
+        const secondHarmonicOsc = audioContext.createOscillator();
+        const thirdHarmonicOsc = audioContext.createOscillator();
+        const fourthHarmonicOsc = audioContext.createOscillator(); // Added fourth harmonic
+        const modulatorOsc = audioContext.createOscillator();
+        const subharmonicOsc = audioContext.createOscillator(); // Added subharmonic for depth
+
+        // Gain nodes for volume control
+        const gainNode = audioContext.createGain();
+        const harmonicGain = audioContext.createGain();
+        const secondHarmonicGain = audioContext.createGain();
+        const thirdHarmonicGain = audioContext.createGain();
+        const fourthHarmonicGain = audioContext.createGain(); // Added gain for fourth harmonic
+        const modulatorGain = audioContext.createGain();
+        const subharmonicGain = audioContext.createGain(); // Added gain for subharmonic
+
+        // Effects nodes
+        const panNode = audioContext.createStereoPanner();
+        const filterNode = audioContext.createBiquadFilter();
+        const secondFilterNode = audioContext.createBiquadFilter(); // Second filter for more complex tone shaping
+        const reverbNode = audioContext.createGain(); // Simulating reverb with decay
+
+        // Random pan position for spatial effect - more subtle for meditation
+        panNode.pan.value = Math.random() * 1.2 - 0.6; // -0.6 to 0.6 (more centered)
+
+        // Filter setup for warmer tone
+        filterNode.type = "lowpass";
+        filterNode.frequency.value = 1200 + Math.random() * 800; // Lower cutoff for warmer tone
+        filterNode.Q.value = 1.2 + Math.random() * 0.6; // Higher Q for more resonance
+
+        // Configure second filter based on sound profile for more diverse tone shaping
+        switch (soundProfile) {
+          case "brain_wave":
+            secondFilterNode.type = "lowpass";
+            secondFilterNode.frequency.value = 100 + Math.random() * 150; // Very low frequency emphasis
+            secondFilterNode.Q.value = 0.7 + Math.random() * 0.5; // Wide band for smooth sound
+            break;
+
+          case "singing_bowl":
+            secondFilterNode.type = "bandpass";
+            secondFilterNode.frequency.value = 200 + Math.random() * 300; // Emphasize fundamental
+            secondFilterNode.Q.value = 2.5 + Math.random() * 1.5; // Narrow band for resonance
+            break;
+
+          case "crystal_bowl":
+            secondFilterNode.type = "bandpass";
+            secondFilterNode.frequency.value = 400 + Math.random() * 400; // Higher emphasis
+            secondFilterNode.Q.value = 4.0 + Math.random() * 2.0; // Sharper resonance
+            break;
+
+          case "gong":
+            secondFilterNode.type = "lowshelf";
+            secondFilterNode.frequency.value = 150 + Math.random() * 150; // Boost low end
+            secondFilterNode.gain.value = 3.0 + Math.random() * 3.0; // Significant boost
+            break;
+
+          case "bell":
+            secondFilterNode.type = "peaking";
+            secondFilterNode.frequency.value = 800 + Math.random() * 1200; // Mid-high emphasis
+            secondFilterNode.Q.value = 5.0 + Math.random() * 3.0; // Very narrow band
+            secondFilterNode.gain.value = 4.0 + Math.random() * 4.0; // Strong emphasis
+            break;
+
+          case "church_bell":
+            secondFilterNode.type = "peaking";
+            secondFilterNode.frequency.value = 600 + Math.random() * 800; // Mid-range emphasis for church bells
+            secondFilterNode.Q.value = 6.0 + Math.random() * 4.0; // Very narrow band for resonance
+            secondFilterNode.gain.value = 5.0 + Math.random() * 3.0; // Strong emphasis
+            break;
+
+          case "water_chime":
+            secondFilterNode.type = "allpass";
+            secondFilterNode.frequency.value = 500 + Math.random() * 500; // Phase shifting
+            secondFilterNode.Q.value = 1.0 + Math.random() * 2.0; // Moderate resonance
+            break;
+
+          default: // Fallback to singing bowl
+            secondFilterNode.type = "bandpass";
+            secondFilterNode.frequency.value = 200 + Math.random() * 300;
+            secondFilterNode.Q.value = 2.5 + Math.random() * 1.5;
+        }
+
+        // Connect nodes
+        primaryOsc.connect(gainNode);
+
+        // Connect harmonics with varying gains
+        harmonicOsc.connect(harmonicGain);
+        secondHarmonicOsc.connect(secondHarmonicGain);
+        thirdHarmonicOsc.connect(thirdHarmonicGain);
+        fourthHarmonicOsc.connect(fourthHarmonicGain);
+        subharmonicOsc.connect(subharmonicGain);
+
+        harmonicGain.connect(gainNode);
+        secondHarmonicGain.connect(gainNode);
+        thirdHarmonicGain.connect(gainNode);
+        fourthHarmonicGain.connect(gainNode);
+        subharmonicGain.connect(gainNode);
+
+        // Modulator for subtle frequency modulation
+        modulatorOsc.connect(modulatorGain);
+        modulatorGain.connect(gainNode);
+
+        // Split the signal path for more complex processing
+        gainNode.connect(filterNode);
+        gainNode.connect(secondFilterNode);
+        filterNode.connect(panNode);
+        secondFilterNode.connect(panNode);
+        panNode.connect(reverbNode);
+        reverbNode.connect(audioContext.destination);
+
+        // Configure oscillators based on the selected sound profile
+        let harmonicRatio,
+          secondHarmonicRatio,
+          thirdHarmonicRatio,
+          fourthHarmonicRatio;
+        let attackTime, decayTime, sustainLevel, releaseTime;
+
+        switch (soundProfile) {
+          case "brain_wave":
+            // Brain wave - pure sine waves with very slow modulation
+            primaryOsc.type = "sine";
+            harmonicOsc.type = "sine";
+            secondHarmonicOsc.type = "sine";
+            thirdHarmonicOsc.type = "sine";
+            fourthHarmonicOsc.type = "sine";
+            subharmonicOsc.type = "sine";
+
+            // Brain wave frequency ratios - based on actual brain wave frequencies
+            // Delta (0.5-4Hz), Theta (4-8Hz), Alpha (8-13Hz), Beta (13-30Hz), Gamma (30-100Hz)
+            const brainWaveBase = 4 + Math.random() * 8; // Base in theta/alpha range (4-12Hz)
+
+            // Use frequency ratios that create brain wave frequency differences
+            harmonicRatio = 1.0 + Math.random() * 0.2; // Very close to fundamental
+            secondHarmonicRatio = 1.5 + Math.random() * 0.3; // Alpha/Beta range
+            thirdHarmonicRatio = 2.0 + Math.random() * 0.4; // Beta range
+            fourthHarmonicRatio = 3.0 + Math.random() * 0.5; // Higher Beta/Gamma range
+
+            // Very slow attack and release for meditative quality
+            attackTime = 0.5 + Math.random() * 1.0; // Very slow attack
+            decayTime = 1.0 + Math.random() * 1.5; // Slow decay
+            sustainLevel = 0.4 + Math.random() * 0.3; // Higher sustain
+            releaseTime = 8.0 + Math.random() * 7.0; // Very long release
+
+            // Very slow modulation for brain wave pulsing
+            modulatorOsc.type = "sine";
+            modulatorOsc.frequency.value = 0.1 + Math.random() * 0.3; // Extremely slow (0.1-0.4Hz)
+            modulatorGain.gain.value = 0.4 + Math.random() * 0.3; // Moderate modulation depth
+
+            // Strong subharmonic for deep brain wave effect
+            subharmonicOsc.frequency.value = brainWaveBase; // Use actual brain wave frequency
+            subharmonicGain.gain.value = 0.5 + Math.random() * 0.3; // Strong subharmonic
+            break;
+
+          case "singing_bowl":
+            // Traditional singing bowl - predominantly sine waves with longer decay
+            primaryOsc.type = Math.random() < 0.85 ? "sine" : "triangle";
+            harmonicOsc.type = "sine";
+            secondHarmonicOsc.type = Math.random() < 0.7 ? "sine" : "triangle";
+            thirdHarmonicOsc.type = "sine";
+            fourthHarmonicOsc.type = "sine";
+            subharmonicOsc.type = "sine";
+
+            // Traditional singing bowl harmonic ratios
+            harmonicRatio = [1.5, 1.78, 2.0][Math.floor(Math.random() * 3)];
+            secondHarmonicRatio = [2.67, 3.0, 3.33][
+              Math.floor(Math.random() * 3)
+            ];
+            thirdHarmonicRatio = [4.0, 4.5, 5.0][Math.floor(Math.random() * 3)];
+            fourthHarmonicRatio = [6.0, 7.0, 8.0][
+              Math.floor(Math.random() * 3)
+            ];
+
+            // Longer decay for singing bowls
+            attackTime = 0.08 + Math.random() * 0.2;
+            decayTime = 0.6 + Math.random() * 0.8;
+            sustainLevel = 0.2 + Math.random() * 0.15;
+            releaseTime = 4.0 + Math.random() * 5.0;
+
+            // Modulation settings
+            modulatorOsc.type = "sine";
+            modulatorOsc.frequency.value = 2 + Math.random() * 2; // Slower modulation (2-4Hz)
+            modulatorGain.gain.value = 0.3 + Math.random() * 0.8;
+
+            // Subharmonic settings
+            subharmonicOsc.frequency.value = baseFrequency * 0.5;
+            subharmonicGain.gain.value = 0.15 + Math.random() * 0.1;
+            break;
+
+          case "church_bell":
+            // Church bell - mix of triangle and sine with strong harmonics
+            primaryOsc.type = Math.random() < 0.6 ? "triangle" : "sine";
+            harmonicOsc.type = Math.random() < 0.7 ? "triangle" : "sine";
+            secondHarmonicOsc.type = Math.random() < 0.5 ? "triangle" : "sine";
+            thirdHarmonicOsc.type =
+              Math.random() < 0.3 ? "sawtooth" : "triangle";
+            fourthHarmonicOsc.type = "triangle";
+            subharmonicOsc.type = "sine";
+
+            // Church bell harmonic ratios - more perfect harmonics
+            harmonicRatio = [2.0, 2.4, 3.0][Math.floor(Math.random() * 3)];
+            secondHarmonicRatio = [3.0, 4.0, 5.0][
+              Math.floor(Math.random() * 3)
+            ];
+            thirdHarmonicRatio = [5.0, 6.0, 7.0][Math.floor(Math.random() * 3)];
+            fourthHarmonicRatio = [8.0, 10.0, 12.0][
+              Math.floor(Math.random() * 3)
+            ];
+
+            // Sharp attack, long decay for church bells
+            attackTime = 0.01 + Math.random() * 0.03;
+            decayTime = 0.5 + Math.random() * 0.7;
+            sustainLevel = 0.15 + Math.random() * 0.1;
+            releaseTime = 5.0 + Math.random() * 7.0; // Long tail
+
+            // Minimal modulation for clarity
+            modulatorOsc.type = "sine";
+            modulatorOsc.frequency.value = 1 + Math.random() * 1.5;
+            modulatorGain.gain.value = 0.1 + Math.random() * 0.2;
+
+            // Moderate subharmonic for depth
+            subharmonicOsc.frequency.value = baseFrequency * 0.5;
+            subharmonicGain.gain.value = 0.2 + Math.random() * 0.1;
+            break;
+
+          case "crystal_bowl":
+            // Crystal bowl - brighter, more sine waves with some sawtooth for brilliance
+            primaryOsc.type = "sine";
+            harmonicOsc.type = Math.random() < 0.3 ? "sawtooth" : "sine";
+            secondHarmonicOsc.type = "sine";
+            thirdHarmonicOsc.type = Math.random() < 0.4 ? "triangle" : "sine";
+            fourthHarmonicOsc.type = "sine";
+            subharmonicOsc.type = "sine";
+
+            // Higher harmonic ratios for crystal-like sound
+            harmonicRatio = [2.0, 2.5, 3.0][Math.floor(Math.random() * 3)];
+            secondHarmonicRatio = [3.5, 4.0, 4.5][
+              Math.floor(Math.random() * 3)
+            ];
+            thirdHarmonicRatio = [5.0, 6.0, 7.0][Math.floor(Math.random() * 3)];
+            fourthHarmonicRatio = [8.0, 9.0, 10.0][
+              Math.floor(Math.random() * 3)
+            ];
+
+            // Faster attack, longer sustain for crystal bowls
+            attackTime = 0.05 + Math.random() * 0.1;
+            decayTime = 0.4 + Math.random() * 0.5;
+            sustainLevel = 0.3 + Math.random() * 0.2;
+            releaseTime = 5.0 + Math.random() * 6.0;
+
+            // Faster modulation for crystal shimmer
+            modulatorOsc.type = "sine";
+            modulatorOsc.frequency.value = 4 + Math.random() * 3;
+            modulatorGain.gain.value = 0.2 + Math.random() * 0.4;
+
+            // Less subharmonic for brighter sound
+            subharmonicOsc.frequency.value = baseFrequency * 0.5;
+            subharmonicGain.gain.value = 0.05 + Math.random() * 0.05;
+            break;
+
+          case "gong":
+            // Gong - more complex with some square and sawtooth components
+            primaryOsc.type = Math.random() < 0.6 ? "sine" : "triangle";
+            harmonicOsc.type = Math.random() < 0.4 ? "sawtooth" : "sine";
+            secondHarmonicOsc.type =
+              Math.random() < 0.3 ? "square" : "triangle";
+            thirdHarmonicOsc.type = "sine";
+            fourthHarmonicOsc.type = Math.random() < 0.5 ? "sawtooth" : "sine";
+            subharmonicOsc.type = "sine";
+
+            // Non-harmonic ratios for gong-like inharmonicity
+            harmonicRatio = [1.41, 1.73, 1.93][Math.floor(Math.random() * 3)];
+            secondHarmonicRatio = [2.33, 2.76, 3.17][
+              Math.floor(Math.random() * 3)
+            ];
+            thirdHarmonicRatio = [3.89, 4.21, 4.76][
+              Math.floor(Math.random() * 3)
+            ];
+            fourthHarmonicRatio = [5.13, 6.48, 7.24][
+              Math.floor(Math.random() * 3)
+            ];
+
+            // Faster attack, complex decay for gong
+            attackTime = 0.03 + Math.random() * 0.08;
+            decayTime = 0.8 + Math.random() * 1.2;
+            sustainLevel = 0.15 + Math.random() * 0.1;
+            releaseTime = 6.0 + Math.random() * 4.0;
+
+            // More intense modulation for gong vibrato
+            modulatorOsc.type = Math.random() < 0.5 ? "sine" : "triangle";
+            modulatorOsc.frequency.value = 5 + Math.random() * 4;
+            modulatorGain.gain.value = 0.5 + Math.random() * 1.0;
+
+            // Stronger subharmonic for gong depth
+            subharmonicOsc.frequency.value = baseFrequency * 0.33;
+            subharmonicGain.gain.value = 0.25 + Math.random() * 0.15;
+            break;
+
+          case "bell":
+            // Bell - sharper attack, more inharmonic content
+            primaryOsc.type = Math.random() < 0.5 ? "sine" : "triangle";
+            harmonicOsc.type = Math.random() < 0.6 ? "triangle" : "sine";
+            secondHarmonicOsc.type =
+              Math.random() < 0.4 ? "sawtooth" : "triangle";
+            thirdHarmonicOsc.type = "triangle";
+            fourthHarmonicOsc.type =
+              Math.random() < 0.3 ? "square" : "triangle";
+            subharmonicOsc.type = "sine";
+
+            // Bell-like inharmonic ratios
+            harmonicRatio = [2.0, 2.76, 3.0][Math.floor(Math.random() * 3)];
+            secondHarmonicRatio = [4.1, 5.2, 5.8][
+              Math.floor(Math.random() * 3)
+            ];
+            thirdHarmonicRatio = [6.5, 7.2, 8.4][Math.floor(Math.random() * 3)];
+            fourthHarmonicRatio = [9.2, 10.5, 12.0][
+              Math.floor(Math.random() * 3)
+            ];
+
+            // Sharp attack, faster decay for bell
+            attackTime = 0.01 + Math.random() * 0.04;
+            decayTime = 0.3 + Math.random() * 0.4;
+            sustainLevel = 0.1 + Math.random() * 0.1;
+            releaseTime = 3.0 + Math.random() * 2.0;
+
+            // Minimal modulation for bell clarity
+            modulatorOsc.type = "sine";
+            modulatorOsc.frequency.value = 1 + Math.random() * 1;
+            modulatorGain.gain.value = 0.1 + Math.random() * 0.2;
+
+            // Less subharmonic for bell brightness
+            subharmonicOsc.frequency.value = baseFrequency * 0.5;
+            subharmonicGain.gain.value = 0.05 + Math.random() * 0.05;
+            break;
+
+          case "water_chime":
+            // Water chime - fluid, flowing sound with frequency sweeps
+            primaryOsc.type = "sine";
+            harmonicOsc.type = "sine";
+            secondHarmonicOsc.type = Math.random() < 0.7 ? "sine" : "triangle";
+            thirdHarmonicOsc.type = "sine";
+            fourthHarmonicOsc.type = "sine";
+            subharmonicOsc.type = "sine";
+
+            // Closely-spaced harmonics for water-like beating
+            harmonicRatio = [1.02, 1.5, 2.01][Math.floor(Math.random() * 3)];
+            secondHarmonicRatio = [2.02, 2.5, 3.01][
+              Math.floor(Math.random() * 3)
+            ];
+            thirdHarmonicRatio = [3.02, 3.5, 4.01][
+              Math.floor(Math.random() * 3)
+            ];
+            fourthHarmonicRatio = [4.02, 4.5, 5.01][
+              Math.floor(Math.random() * 3)
+            ];
+
+            // Gentle, flowing envelope
+            attackTime = 0.2 + Math.random() * 0.3;
+            decayTime = 0.5 + Math.random() * 0.5;
+            sustainLevel = 0.25 + Math.random() * 0.15;
+            releaseTime = 4.0 + Math.random() * 3.0;
+
+            // Flowing modulation for water effect
+            modulatorOsc.type = "sine";
+            modulatorOsc.frequency.value = 3 + Math.random() * 2;
+            modulatorGain.gain.value = 0.6 + Math.random() * 0.8;
+
+            // Moderate subharmonic
+            subharmonicOsc.frequency.value = baseFrequency * 0.5;
+            subharmonicGain.gain.value = 0.15 + Math.random() * 0.1;
+            break;
+
+          default: // Fallback to singing bowl
+            primaryOsc.type = "sine";
+            harmonicOsc.type = "sine";
+            secondHarmonicOsc.type = Math.random() < 0.7 ? "sine" : "triangle";
+            thirdHarmonicOsc.type = "sine";
+            fourthHarmonicOsc.type = "sine";
+            subharmonicOsc.type = "sine";
+
+            harmonicRatio = [1.5, 1.78, 2.0][Math.floor(Math.random() * 3)];
+            secondHarmonicRatio = [2.67, 3.0, 3.33][
+              Math.floor(Math.random() * 3)
+            ];
+            thirdHarmonicRatio = [4.0, 4.5, 5.0][Math.floor(Math.random() * 3)];
+            fourthHarmonicRatio = [6.0, 7.0, 8.0][
+              Math.floor(Math.random() * 3)
+            ];
+
+            attackTime = 0.08 + Math.random() * 0.2;
+            decayTime = 0.6 + Math.random() * 0.8;
+            sustainLevel = 0.2 + Math.random() * 0.15;
+            releaseTime = 4.0 + Math.random() * 5.0;
+
+            modulatorOsc.type = "sine";
+            modulatorOsc.frequency.value = 2 + Math.random() * 2;
+            modulatorGain.gain.value = 0.3 + Math.random() * 0.8;
+
+            subharmonicOsc.frequency.value = baseFrequency * 0.5;
+            subharmonicGain.gain.value = 0.15 + Math.random() * 0.1;
+        }
+
+        // Set the primary frequency
+        primaryOsc.frequency.value = baseFrequency;
+
+        harmonicOsc.frequency.value = baseFrequency * harmonicRatio;
+        secondHarmonicOsc.frequency.value = baseFrequency * secondHarmonicRatio;
+        thirdHarmonicOsc.frequency.value = baseFrequency * thirdHarmonicRatio;
+        fourthHarmonicOsc.frequency.value = baseFrequency * fourthHarmonicRatio;
+
+        // Set harmonic gains based on sound profile
+        switch (soundProfile) {
+          case "brain_wave":
+            harmonicGain.gain.value = 0.4 + Math.random() * 0.2; // Strong first harmonic
+            secondHarmonicGain.gain.value = 0.3 + Math.random() * 0.15; // Moderate second harmonic
+            thirdHarmonicGain.gain.value = 0.2 + Math.random() * 0.1; // Subtle third harmonic
+            fourthHarmonicGain.gain.value = 0.1 + Math.random() * 0.05; // Very subtle fourth harmonic
+            break;
+
+          case "singing_bowl":
+            harmonicGain.gain.value = 0.25 + Math.random() * 0.1;
+            secondHarmonicGain.gain.value = 0.15 + Math.random() * 0.07;
+            thirdHarmonicGain.gain.value = 0.08 + Math.random() * 0.04;
+            fourthHarmonicGain.gain.value = 0.04 + Math.random() * 0.02;
+            break;
+
+          case "crystal_bowl":
+            harmonicGain.gain.value = 0.35 + Math.random() * 0.15;
+            secondHarmonicGain.gain.value = 0.25 + Math.random() * 0.1;
+            thirdHarmonicGain.gain.value = 0.15 + Math.random() * 0.07;
+            fourthHarmonicGain.gain.value = 0.08 + Math.random() * 0.04;
+            break;
+
+          case "gong":
+            harmonicGain.gain.value = 0.2 + Math.random() * 0.1;
+            secondHarmonicGain.gain.value = 0.3 + Math.random() * 0.15;
+            thirdHarmonicGain.gain.value = 0.2 + Math.random() * 0.1;
+            fourthHarmonicGain.gain.value = 0.15 + Math.random() * 0.07;
+            break;
+
+          case "bell":
+            harmonicGain.gain.value = 0.3 + Math.random() * 0.15;
+            secondHarmonicGain.gain.value = 0.4 + Math.random() * 0.2;
+            thirdHarmonicGain.gain.value = 0.25 + Math.random() * 0.1;
+            fourthHarmonicGain.gain.value = 0.1 + Math.random() * 0.05;
+            break;
+
+          case "church_bell":
+            harmonicGain.gain.value = 0.4 + Math.random() * 0.2; // Strong first harmonic
+            secondHarmonicGain.gain.value = 0.5 + Math.random() * 0.25; // Very strong second harmonic
+            thirdHarmonicGain.gain.value = 0.3 + Math.random() * 0.15; // Moderate third harmonic
+            fourthHarmonicGain.gain.value = 0.15 + Math.random() * 0.1; // Subtle fourth harmonic
+            break;
+
+          case "water_chime":
+            harmonicGain.gain.value = 0.2 + Math.random() * 0.1;
+            secondHarmonicGain.gain.value = 0.2 + Math.random() * 0.1;
+            thirdHarmonicGain.gain.value = 0.15 + Math.random() * 0.07;
+            fourthHarmonicGain.gain.value = 0.1 + Math.random() * 0.05;
+            break;
+
+          default: // Fallback to singing bowl
+            harmonicGain.gain.value = 0.25 + Math.random() * 0.1;
+            secondHarmonicGain.gain.value = 0.15 + Math.random() * 0.07;
+            thirdHarmonicGain.gain.value = 0.08 + Math.random() * 0.04;
+            fourthHarmonicGain.gain.value = 0.04 + Math.random() * 0.02;
+        }
+
+        // Add detune based on sound profile for more natural sound and beating patterns
+        switch (soundProfile) {
+          case "brain_wave":
+            // Minimal detune for brain wave - creates beating patterns at brain wave frequencies
+            primaryOsc.detune.value = Math.random() * 4 - 2; // Very minimal detune
+            harmonicOsc.detune.value = Math.random() * 8 - 4; // Slight detune for binaural beat effect
+            secondHarmonicOsc.detune.value = Math.random() * 12 - 6;
+            thirdHarmonicOsc.detune.value = Math.random() * 16 - 8;
+            fourthHarmonicOsc.detune.value = Math.random() * 20 - 10;
+            break;
+
+          case "singing_bowl":
+            primaryOsc.detune.value = Math.random() * 10 - 5; // -5 to 5 cents
+            harmonicOsc.detune.value = Math.random() * 25 - 12.5;
+            secondHarmonicOsc.detune.value = Math.random() * 30 - 15;
+            thirdHarmonicOsc.detune.value = Math.random() * 35 - 17.5;
+            fourthHarmonicOsc.detune.value = Math.random() * 40 - 20;
+            break;
+
+          case "crystal_bowl":
+            primaryOsc.detune.value = Math.random() * 15 - 7.5;
+            harmonicOsc.detune.value = Math.random() * 30 - 15;
+            secondHarmonicOsc.detune.value = Math.random() * 40 - 20;
+            thirdHarmonicOsc.detune.value = Math.random() * 50 - 25;
+            fourthHarmonicOsc.detune.value = Math.random() * 60 - 30;
+            break;
+
+          case "gong":
+            primaryOsc.detune.value = Math.random() * 20 - 10;
+            harmonicOsc.detune.value = Math.random() * 40 - 20;
+            secondHarmonicOsc.detune.value = Math.random() * 60 - 30;
+            thirdHarmonicOsc.detune.value = Math.random() * 80 - 40;
+            fourthHarmonicOsc.detune.value = Math.random() * 100 - 50;
+            break;
+
+          case "bell":
+            primaryOsc.detune.value = Math.random() * 5 - 2.5; // Less detune for clarity
+            harmonicOsc.detune.value = Math.random() * 15 - 7.5;
+            secondHarmonicOsc.detune.value = Math.random() * 20 - 10;
+            thirdHarmonicOsc.detune.value = Math.random() * 25 - 12.5;
+            fourthHarmonicOsc.detune.value = Math.random() * 30 - 15;
+            break;
+
+          case "church_bell":
+            primaryOsc.detune.value = Math.random() * 3 - 1.5; // Minimal detune for clarity
+            harmonicOsc.detune.value = Math.random() * 10 - 5; // Slight detune for natural sound
+            secondHarmonicOsc.detune.value = Math.random() * 15 - 7.5;
+            thirdHarmonicOsc.detune.value = Math.random() * 20 - 10;
+            fourthHarmonicOsc.detune.value = Math.random() * 25 - 12.5;
+            break;
+
+          case "water_chime":
+            primaryOsc.detune.value = Math.random() * 30 - 15; // More detune for water effect
+            harmonicOsc.detune.value = Math.random() * 50 - 25;
+            secondHarmonicOsc.detune.value = Math.random() * 70 - 35;
+            thirdHarmonicOsc.detune.value = Math.random() * 90 - 45;
+            fourthHarmonicOsc.detune.value = Math.random() * 110 - 55;
+            break;
+
+          default: // Fallback to singing bowl
+            primaryOsc.detune.value = Math.random() * 10 - 5;
+            harmonicOsc.detune.value = Math.random() * 25 - 12.5;
+            secondHarmonicOsc.detune.value = Math.random() * 30 - 15;
+            thirdHarmonicOsc.detune.value = Math.random() * 35 - 17.5;
+            fourthHarmonicOsc.detune.value = Math.random() * 40 - 20;
+        }
+
+        // Set envelope based on the selected sound profile
+        const now = audioContext.currentTime;
+
+        // Volume envelope with more nuanced curve based on sound profile
+        gainNode.gain.setValueAtTime(0, now);
+
+        // Adjust envelope characteristics based on sound profile
+        switch (soundProfile) {
+          case "brain_wave":
+            // Brain waves have very gradual attack and extremely long release
+            gainNode.gain.linearRampToValueAtTime(0.3, now + attackTime); // Gentle rise
+            gainNode.gain.setTargetAtTime(
+              sustainLevel,
+              now + attackTime,
+              decayTime * 0.8
+            ); // Very slow decay
+            gainNode.gain.setTargetAtTime(
+              0.001,
+              now + attackTime + decayTime,
+              releaseTime * 0.9
+            ); // Extremely long fade
+
+            // Smooth filter envelope for brain wave
+            filterNode.frequency.setValueAtTime(300, now);
+            filterNode.frequency.linearRampToValueAtTime(
+              600,
+              now + attackTime * 1.5
+            ); // Very slow rise
+            filterNode.frequency.exponentialRampToValueAtTime(
+              200,
+              now + attackTime + decayTime * 3
+            ); // Very slow fall
+
+            // Extensive reverb for brain wave immersion
+            reverbNode.gain.setValueAtTime(1.8, now); // Strong reverb
+            reverbNode.gain.setTargetAtTime(
+              0.001,
+              now + attackTime + decayTime,
+              releaseTime * 0.95
+            ); // Very long reverb tail
+            break;
+
+          case "church_bell":
+            // Church bells have a sharp attack and a long, gradual decay
+            gainNode.gain.linearRampToValueAtTime(0.5, now + attackTime); // Higher initial volume
+            gainNode.gain.setTargetAtTime(
+              sustainLevel,
+              now + attackTime,
+              decayTime * 0.3
+            ); // Faster initial decay
+            break;
+
+          case "singing_bowl":
+            gainNode.gain.linearRampToValueAtTime(0.35, now + attackTime);
+            gainNode.gain.setTargetAtTime(
+              sustainLevel,
+              now + attackTime,
+              decayTime * 0.5
+            );
+            gainNode.gain.setTargetAtTime(
+              0.001,
+              now + attackTime + decayTime,
+              releaseTime * 0.4
+            );
+
+            // Filter envelope for singing bowl
+            filterNode.frequency.setValueAtTime(800, now);
+            filterNode.frequency.linearRampToValueAtTime(
+              1500,
+              now + attackTime * 0.8
+            );
+            filterNode.frequency.exponentialRampToValueAtTime(
+              800,
+              now + attackTime + decayTime * 2
+            );
+
+            // Reverb settings
+            reverbNode.gain.setValueAtTime(1, now);
+            reverbNode.gain.setTargetAtTime(
+              0.001,
+              now + attackTime + decayTime,
+              releaseTime * 0.6
+            );
+            break;
+
+          case "crystal_bowl":
+            gainNode.gain.linearRampToValueAtTime(0.4, now + attackTime);
+            gainNode.gain.setTargetAtTime(
+              sustainLevel,
+              now + attackTime,
+              decayTime * 0.3
+            );
+            gainNode.gain.setTargetAtTime(
+              0.001,
+              now + attackTime + decayTime,
+              releaseTime * 0.5
+            );
+
+            // Brighter filter envelope for crystal bowl
+            filterNode.frequency.setValueAtTime(1200, now);
+            filterNode.frequency.linearRampToValueAtTime(
+              2000,
+              now + attackTime * 0.5
+            );
+            filterNode.frequency.exponentialRampToValueAtTime(
+              1000,
+              now + attackTime + decayTime * 1.5
+            );
+
+            // More reverb for crystal bowl
+            reverbNode.gain.setValueAtTime(1.2, now);
+            reverbNode.gain.setTargetAtTime(
+              0.001,
+              now + attackTime + decayTime,
+              releaseTime * 0.7
+            );
+            break;
+
+          case "gong":
+            gainNode.gain.linearRampToValueAtTime(0.5, now + attackTime); // Louder strike
+            gainNode.gain.setTargetAtTime(
+              sustainLevel,
+              now + attackTime,
+              decayTime * 0.7
+            ); // Slower initial decay
+            gainNode.gain.setTargetAtTime(
+              0.001,
+              now + attackTime + decayTime,
+              releaseTime * 0.6
+            ); // Longer fade
+
+            // Complex filter envelope for gong
+            filterNode.frequency.setValueAtTime(600, now);
+            filterNode.frequency.linearRampToValueAtTime(
+              1800,
+              now + attackTime * 0.3
+            ); // Faster rise
+            filterNode.frequency.exponentialRampToValueAtTime(
+              400,
+              now + attackTime + decayTime * 3
+            ); // Slower fall
+
+            // Heavy reverb for gong
+            reverbNode.gain.setValueAtTime(1.5, now);
+            reverbNode.gain.setTargetAtTime(
+              0.001,
+              now + attackTime + decayTime,
+              releaseTime * 0.8
+            );
+            break;
+
+          case "bell":
+            gainNode.gain.linearRampToValueAtTime(0.45, now + attackTime); // Sharp attack
+            gainNode.gain.setTargetAtTime(
+              sustainLevel,
+              now + attackTime,
+              decayTime * 0.2
+            ); // Quick decay
+            gainNode.gain.setTargetAtTime(
+              0.001,
+              now + attackTime + decayTime,
+              releaseTime * 0.3
+            ); // Moderate fade
+
+            // Bright filter envelope for bell
+            filterNode.frequency.setValueAtTime(1500, now);
+            filterNode.frequency.linearRampToValueAtTime(
+              3000,
+              now + attackTime * 0.2
+            ); // Very fast rise
+            filterNode.frequency.exponentialRampToValueAtTime(
+              1000,
+              now + attackTime + decayTime
+            );
+
+            // Moderate reverb for bell
+            reverbNode.gain.setValueAtTime(0.8, now);
+            reverbNode.gain.setTargetAtTime(
+              0.001,
+              now + attackTime + decayTime,
+              releaseTime * 0.4
+            );
+            break;
+
+          case "water_chime":
+            gainNode.gain.linearRampToValueAtTime(0.3, now + attackTime); // Gentle attack
+            gainNode.gain.setTargetAtTime(
+              sustainLevel,
+              now + attackTime,
+              decayTime * 0.6
+            ); // Flowing decay
+            gainNode.gain.setTargetAtTime(
+              0.001,
+              now + attackTime + decayTime,
+              releaseTime * 0.5
+            ); // Smooth fade
+
+            // Flowing filter envelope for water effect
+            filterNode.frequency.setValueAtTime(1000, now);
+            filterNode.frequency.linearRampToValueAtTime(
+              1800,
+              now + attackTime
+            );
+            filterNode.frequency.exponentialRampToValueAtTime(
+              600,
+              now + attackTime + decayTime * 2.5
+            );
+
+            // Shimmering reverb for water
+            reverbNode.gain.setValueAtTime(1.3, now);
+            reverbNode.gain.setTargetAtTime(
+              0.001,
+              now + attackTime + decayTime,
+              releaseTime * 0.7
+            );
+            break;
+
+          default: // Fallback to singing bowl
+            gainNode.gain.linearRampToValueAtTime(0.35, now + attackTime);
+            gainNode.gain.setTargetAtTime(
+              sustainLevel,
+              now + attackTime,
+              decayTime * 0.5
+            );
+            gainNode.gain.setTargetAtTime(
+              0.001,
+              now + attackTime + decayTime,
+              releaseTime * 0.4
+            );
+
+            filterNode.frequency.setValueAtTime(800, now);
+            filterNode.frequency.linearRampToValueAtTime(
+              1500,
+              now + attackTime * 0.8
+            );
+            filterNode.frequency.exponentialRampToValueAtTime(
+              800,
+              now + attackTime + decayTime * 2
+            );
+
+            reverbNode.gain.setValueAtTime(1, now);
+            reverbNode.gain.setTargetAtTime(
+              0.001,
+              now + attackTime + decayTime,
+              releaseTime * 0.6
+            );
+        }
+
+        // Start and stop oscillators with slight timing variations for more natural sound
+        primaryOsc.start(now);
+        // Slight delay between oscillator starts creates more natural attack
+        harmonicOsc.start(now + 0.01);
+        secondHarmonicOsc.start(now + 0.02);
+        thirdHarmonicOsc.start(now + 0.03);
+        fourthHarmonicOsc.start(now + 0.04);
+        subharmonicOsc.start(now + 0.01);
+        modulatorOsc.start(now);
+
+        // Extended stop time for longer resonance
+        const stopTime = now + attackTime + decayTime + releaseTime + 2.5;
+        primaryOsc.stop(stopTime);
+        harmonicOsc.stop(stopTime + 0.1); // Staggered stops for more natural decay
+        secondHarmonicOsc.stop(stopTime + 0.2);
+        thirdHarmonicOsc.stop(stopTime + 0.3);
+        fourthHarmonicOsc.stop(stopTime + 0.4);
+        subharmonicOsc.stop(stopTime + 0.5);
+        modulatorOsc.stop(stopTime);
+      }
+    </script>
+  </body>
+</html>
