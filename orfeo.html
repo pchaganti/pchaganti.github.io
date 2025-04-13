@@ -9,7 +9,7 @@
         margin: 0;
         padding: 0;
         overflow: hidden;
-        background-color: #111;
+        background-color: #dedede;
         width: 100vw;
         height: 100vh;
         background: radial-gradient(circle at center, #1a1a2e 0%, #0f0f1a 100%);
@@ -699,6 +699,8 @@
           "temple_bell",
           "meditation_bowl",
           "tibetan_bowl",
+          "himalayan_bowl",
+          "solfeggio",
           "nature_sound",
         ];
 
@@ -713,6 +715,122 @@
 
         // Configure based on effect type
         switch (effectType) {
+          case "himalayan_bowl":
+            // Create a complex Himalayan bowl sound with specific metal alloy characteristics
+            specialOsc.type = "sine";
+            specialOsc.frequency.value = 126 + Math.random() * 30; // Specific frequency range for Himalayan bowls
+
+            // Create additional oscillators for the unique harmonic profile of Himalayan bowls
+            const himalayanHarmonic1 = audioContext.createOscillator();
+            const himalayanHarmonic2 = audioContext.createOscillator();
+            const himalayanHarmonic3 = audioContext.createOscillator();
+            const himalayanHarmonic1Gain = audioContext.createGain();
+            const himalayanHarmonic2Gain = audioContext.createGain();
+            const himalayanHarmonic3Gain = audioContext.createGain();
+
+            // Set harmonic frequencies based on the unique metal alloy characteristics
+            himalayanHarmonic1.type = "sine";
+            himalayanHarmonic1.frequency.value =
+              specialOsc.frequency.value * 2.76; // Specific harmonic ratio
+            himalayanHarmonic1Gain.gain.value = 0.17;
+
+            himalayanHarmonic2.type = "sine";
+            himalayanHarmonic2.frequency.value =
+              specialOsc.frequency.value * 4.95; // Specific harmonic ratio
+            himalayanHarmonic2Gain.gain.value = 0.08;
+
+            himalayanHarmonic3.type = "sine";
+            himalayanHarmonic3.frequency.value =
+              specialOsc.frequency.value * 1.38; // Lower harmonic for depth
+            himalayanHarmonic3Gain.gain.value = 0.12;
+
+            // Connect harmonics
+            himalayanHarmonic1.connect(himalayanHarmonic1Gain);
+            himalayanHarmonic2.connect(himalayanHarmonic2Gain);
+            himalayanHarmonic3.connect(himalayanHarmonic3Gain);
+            himalayanHarmonic1Gain.connect(specialFilter);
+            himalayanHarmonic2Gain.connect(specialFilter);
+            himalayanHarmonic3Gain.connect(specialFilter);
+
+            // Start harmonics
+            himalayanHarmonic1.start();
+            himalayanHarmonic2.start();
+            himalayanHarmonic3.start();
+
+            // Schedule stop with longer decay for Himalayan bowls
+            const himalayanStopTime = audioContext.currentTime + 10; // Longer sustain
+            himalayanHarmonic1.stop(himalayanStopTime);
+            himalayanHarmonic2.stop(himalayanStopTime);
+            himalayanHarmonic3.stop(himalayanStopTime);
+
+            // Configure filter for the unique resonant quality of Himalayan bowls
+            specialFilter.type = "bandpass";
+            specialFilter.frequency.value = 180;
+            specialFilter.Q.value = 18; // Higher Q for the distinctive resonance
+
+            // Configure amplitude envelope with the characteristic slow attack and long decay
+            specialGain.gain.value = 0.01; // Start quiet
+            specialGain.gain.linearRampToValueAtTime(
+              0.25,
+              audioContext.currentTime + 0.5
+            ); // Slow attack
+            specialGain.gain.exponentialRampToValueAtTime(
+              0.001,
+              audioContext.currentTime + 10 // Very long decay
+            );
+            break;
+
+          case "solfeggio":
+            // Create a Solfeggio frequency sound with healing properties
+            specialOsc.type = "sine";
+
+            // Select one of the Solfeggio frequencies
+            const solfeggioFrequencies = [
+              396, // UT - Liberating guilt and fear
+              417, // RE - Undoing situations and facilitating change
+              528, // MI - Transformation and miracles (DNA repair)
+              639, // FA - Connecting/relationships
+              741, // SOL - Awakening intuition
+              852, // LA - Returning to spiritual order
+            ];
+
+            // Choose a random Solfeggio frequency
+            const chosenFrequency =
+              solfeggioFrequencies[
+                Math.floor(Math.random() * solfeggioFrequencies.length)
+              ];
+            specialOsc.frequency.value = chosenFrequency;
+
+            // Create subtle harmonics to enhance the healing properties
+            const solfeggioHarmonic = audioContext.createOscillator();
+            const solfeggioHarmonicGain = audioContext.createGain();
+
+            solfeggioHarmonic.type = "sine";
+            solfeggioHarmonic.frequency.value = chosenFrequency * 2; // Octave harmonic
+            solfeggioHarmonicGain.gain.value = 0.06; // Very subtle
+
+            solfeggioHarmonic.connect(solfeggioHarmonicGain);
+            solfeggioHarmonicGain.connect(specialFilter);
+            solfeggioHarmonic.start();
+            solfeggioHarmonic.stop(audioContext.currentTime + 7);
+
+            // Configure filter for pure, clear tone
+            specialFilter.type = "lowpass";
+            specialFilter.frequency.value = 2000;
+            specialFilter.Q.value = 1;
+
+            // Configure amplitude envelope with gentle attack and long sustain
+            specialGain.gain.value = 0;
+            specialGain.gain.linearRampToValueAtTime(
+              0.2,
+              audioContext.currentTime + 1.5
+            ); // Gentle attack
+            specialGain.gain.exponentialRampToValueAtTime(
+              0.001,
+              audioContext.currentTime + 7 // Long sustain
+            );
+            break;
+
           case "wind_chime":
             specialOsc.type = "sine";
             specialOsc.frequency.value = 800 + Math.random() * 400;
@@ -852,6 +970,90 @@
         const height = window.innerHeight;
 
         switch (effectType) {
+          case "himalayan_bowl":
+            // Create concentric rings with golden-copper hue
+            for (let i = 0; i < 3; i++) {
+              setTimeout(() => {
+                const ring = document.createElement("div");
+                ring.className = "ripple";
+                const size = Math.min(width, height) * (0.3 + i * 0.15);
+                ring.style.width = `${size}px`;
+                ring.style.height = `${size}px`;
+                ring.style.left = `${width / 2 - size / 2}px`;
+                ring.style.top = `${height / 2 - size / 2}px`;
+                ring.style.setProperty(
+                  "--circle-color",
+                  "rgba(205, 127, 50, 0.25)"
+                ); // Copper-gold color
+                ring.style.animation = `ripple-effect ${
+                  6 + i
+                }s ease-out forwards`;
+
+                document.body.appendChild(ring);
+
+                setTimeout(() => {
+                  if (ring.parentNode) {
+                    document.body.removeChild(ring);
+                  }
+                }, (6 + i) * 1000);
+              }, i * 500);
+            }
+            break;
+
+          case "solfeggio":
+            // Create a gentle pulsing glow with geometric patterns
+            const container = document.createElement("div");
+            container.style.position = "absolute";
+            container.style.width = "100%";
+            container.style.height = "100%";
+            container.style.top = "0";
+            container.style.left = "0";
+            container.style.display = "flex";
+            container.style.justifyContent = "center";
+            container.style.alignItems = "center";
+            container.style.pointerEvents = "none";
+            container.style.zIndex = "5";
+
+            // Create sacred geometry pattern (hexagon)
+            const pattern = document.createElement("div");
+            const patternSize = Math.min(width, height) * 0.4;
+            pattern.style.width = `${patternSize}px`;
+            pattern.style.height = `${patternSize}px`;
+            pattern.style.borderRadius = "50%";
+            pattern.style.background = "transparent";
+            pattern.style.border = "1px solid rgba(255, 255, 255, 0.2)";
+            pattern.style.boxShadow = "0 0 50px rgba(255, 255, 255, 0.3)";
+            pattern.style.opacity = "0";
+            pattern.style.transition = "all 1.5s ease-in-out";
+
+            container.appendChild(pattern);
+            document.body.appendChild(container);
+
+            // Animate pattern
+            setTimeout(() => {
+              pattern.style.opacity = "0.8";
+              pattern.style.transform = "rotate(30deg)";
+            }, 100);
+
+            // Pulse effect
+            let pulseCount = 0;
+            const pulseInterval = setInterval(() => {
+              pattern.style.transform = `rotate(${
+                30 + pulseCount * 15
+              }deg) scale(${1 + (pulseCount % 2) * 0.1})`;
+              pulseCount++;
+
+              if (pulseCount > 10) {
+                clearInterval(pulseInterval);
+                pattern.style.opacity = "0";
+                setTimeout(() => {
+                  if (container.parentNode) {
+                    document.body.removeChild(container);
+                  }
+                }, 1500);
+              }
+            }, 700);
+            break;
           case "wind_chime":
             // Create multiple small particles falling from top
             for (let i = 0; i < 20; i++) {
@@ -966,11 +1168,11 @@
           "tibetan_singing_bowl", // Authentic Tibetan singing bowl sound
           "crystal_bowl", // Higher, more crystalline sound
           "gong", // Deep, resonant gong sound
-          "bell", // Sharper, more bell-like sound
+          // "bell", // Sharper, more bell-like sound
           "water_chime", // Fluid, water-like sound
           "church_bell", // Church bell sound
           "brain_wave", // Meditative brain wave frequencies
-          "didgeridoo", // Deep resonant Aboriginal instrument sound
+          // "didgeridoo", // Deep resonant Aboriginal instrument sound
         ];
 
         // Choose sound profile based on size ranges and randomness
@@ -1075,12 +1277,12 @@
             secondFilterNode.gain.value = 3.0 + Math.random() * 3.0; // Significant boost
             break;
 
-          case "bell":
-            secondFilterNode.type = "peaking";
-            secondFilterNode.frequency.value = 800 + Math.random() * 1200; // Mid-high emphasis
-            secondFilterNode.Q.value = 5.0 + Math.random() * 3.0; // Very narrow band
-            secondFilterNode.gain.value = 4.0 + Math.random() * 4.0; // Strong emphasis
-            break;
+          // case "bell":
+          //   // secondFilterNode.type = "peaking";
+          //   // secondFilterNode.frequency.value = 800 + Math.random() * 1200; // Mid-high emphasis
+          //   // secondFilterNode.Q.value = 5.0 + Math.random() * 3.0; // Very narrow band
+          //   // secondFilterNode.gain.value = 4.0 + Math.random() * 4.0; // Strong emphasis
+          //   break;
 
           case "church_bell":
             secondFilterNode.type = "peaking";
@@ -1095,11 +1297,11 @@
             secondFilterNode.Q.value = 1.0 + Math.random() * 2.0; // Moderate resonance
             break;
 
-          case "didgeridoo":
-            secondFilterNode.type = "lowshelf";
-            secondFilterNode.frequency.value = 100 + Math.random() * 100; // Emphasize low frequencies
-            secondFilterNode.gain.value = 4.0 + Math.random() * 3.0; // Strong low-end boost
-            break;
+          // case "didgeridoo":
+          //   // secondFilterNode.type = "lowshelf";
+          //   // secondFilterNode.frequency.value = 100 + Math.random() * 100; // Emphasize low frequencies
+          //   // secondFilterNode.gain.value = 4.0 + Math.random() * 3.0; // Strong low-end boost
+          //   break;
 
           default: // Fallback to singing bowl
             secondFilterNode.type = "bandpass";
@@ -1334,36 +1536,36 @@
             fourthHarmonicOsc.type = Math.random() < 0.5 ? "sawtooth" : "sine";
             subharmonicOsc.type = "sine";
 
-          case "didgeridoo":
-            // Didgeridoo - deep resonant drone with characteristic wavering
-            primaryOsc.type = "sawtooth"; // Rich harmonic content
-            harmonicOsc.type = "square"; // For buzzy texture
-            secondHarmonicOsc.type = "sawtooth";
-            thirdHarmonicOsc.type = "sine"; // Smoother high harmonics
-            fourthHarmonicOsc.type = "sine";
-            subharmonicOsc.type = "triangle";
+          // case "didgeridoo":
+          //   // Didgeridoo - deep resonant drone with characteristic wavering
+          //   primaryOsc.type = "sawtooth"; // Rich harmonic content
+          //   harmonicOsc.type = "square"; // For buzzy texture
+          //   secondHarmonicOsc.type = "sawtooth";
+          //   thirdHarmonicOsc.type = "sine"; // Smoother high harmonics
+          //   fourthHarmonicOsc.type = "sine";
+          //   subharmonicOsc.type = "triangle";
 
-            // Didgeridoo has strong fundamental with specific overtone structure
-            harmonicRatio = 2.0 + Math.random() * 0.05; // Octave
-            secondHarmonicRatio = 3.0 + Math.random() * 0.05; // Perfect fifth above octave
-            thirdHarmonicRatio = 4.0 + Math.random() * 0.05; // Two octaves
-            fourthHarmonicRatio = 5.0 + Math.random() * 0.05; // Major third above two octaves
+          // // Didgeridoo has strong fundamental with specific overtone structure
+          // harmonicRatio = 2.0 + Math.random() * 0.05; // Octave
+          // secondHarmonicRatio = 3.0 + Math.random() * 0.05; // Perfect fifth above octave
+          // thirdHarmonicRatio = 4.0 + Math.random() * 0.05; // Two octaves
+          // fourthHarmonicRatio = 5.0 + Math.random() * 0.05; // Major third above two octaves
 
-            // Slower attack, long sustain for drone-like quality
-            attackTime = 0.2 + Math.random() * 0.2;
-            decayTime = 0.5 + Math.random() * 0.3;
-            sustainLevel = 0.3 + Math.random() * 0.1;
-            releaseTime = 3.0 + Math.random() * 2.0;
+          // // Slower attack, long sustain for drone-like quality
+          // attackTime = 0.2 + Math.random() * 0.2;
+          // decayTime = 0.5 + Math.random() * 0.3;
+          // sustainLevel = 0.3 + Math.random() * 0.1;
+          // releaseTime = 3.0 + Math.random() * 2.0;
 
-            // Characteristic rhythmic wavering/pulsing of didgeridoo
-            modulatorOsc.type = "triangle";
-            modulatorOsc.frequency.value = 4.5 + Math.random() * 1.5; // Faster modulation for didgeridoo pulsing
-            modulatorGain.gain.value = 0.3 + Math.random() * 0.2; // Stronger modulation for characteristic wavering
+          // // Characteristic rhythmic wavering/pulsing of didgeridoo
+          // modulatorOsc.type = "triangle";
+          // modulatorOsc.frequency.value = 4.5 + Math.random() * 1.5; // Faster modulation for didgeridoo pulsing
+          // modulatorGain.gain.value = 0.3 + Math.random() * 0.2; // Stronger modulation for characteristic wavering
 
-            // Strong subharmonic for didgeridoo's deep resonance
-            subharmonicOsc.frequency.value = baseFrequency * 0.5;
-            subharmonicGain.gain.value = 0.15 + Math.random() * 0.1; // Stronger subharmonic for depth
-            break;
+          // // Strong subharmonic for didgeridoo's deep resonance
+          // subharmonicOsc.frequency.value = baseFrequency * 0.5;
+          // subharmonicGain.gain.value = 0.15 + Math.random() * 0.1; // Stronger subharmonic for depth
+          // break;
 
           case "gong":
             // Gong - more complex with some square and sawtooth components
