@@ -698,6 +698,7 @@
           "wind_chime",
           "temple_bell",
           "meditation_bowl",
+          "tibetan_bowl",
           "nature_sound",
         ];
 
@@ -753,6 +754,55 @@
             specialGain.gain.exponentialRampToValueAtTime(
               0.001,
               audioContext.currentTime + 6
+            );
+            break;
+            
+          case "tibetan_bowl":
+            // Create a more complex Tibetan bowl sound with multiple oscillators
+            specialOsc.type = "sine";
+            specialOsc.frequency.value = 110 + Math.random() * 40; // Lower fundamental frequency
+            
+            // Create additional oscillators for rich harmonics
+            const tibetanHarmonic1 = audioContext.createOscillator();
+            const tibetanHarmonic2 = audioContext.createOscillator();
+            const tibetanHarmonic1Gain = audioContext.createGain();
+            const tibetanHarmonic2Gain = audioContext.createGain();
+            
+            // Set harmonic frequencies based on spectral analysis of real Tibetan bowls
+            tibetanHarmonic1.type = "sine";
+            tibetanHarmonic1.frequency.value = specialOsc.frequency.value * 2.3;
+            tibetanHarmonic1Gain.gain.value = 0.15;
+            
+            tibetanHarmonic2.type = "sine";
+            tibetanHarmonic2.frequency.value = specialOsc.frequency.value * 3.4;
+            tibetanHarmonic2Gain.gain.value = 0.1;
+            
+            // Connect harmonics
+            tibetanHarmonic1.connect(tibetanHarmonic1Gain);
+            tibetanHarmonic2.connect(tibetanHarmonic2Gain);
+            tibetanHarmonic1Gain.connect(specialFilter);
+            tibetanHarmonic2Gain.connect(specialFilter);
+            
+            // Start harmonics
+            tibetanHarmonic1.start();
+            tibetanHarmonic2.start();
+            
+            // Schedule stop
+            const stopTime = audioContext.currentTime + 8;
+            tibetanHarmonic1.stop(stopTime);
+            tibetanHarmonic2.stop(stopTime);
+            
+            // Configure filter for resonant Tibetan bowl sound
+            specialFilter.type = "bandpass";
+            specialFilter.frequency.value = 150;
+            specialFilter.Q.value = 15; // Higher Q for more resonance
+            
+            // Configure amplitude envelope
+            specialGain.gain.value = 0.3;
+            specialGain.gain.setValueAtTime(0.3, audioContext.currentTime);
+            specialGain.gain.exponentialRampToValueAtTime(
+              0.001,
+              audioContext.currentTime + 8 // Longer decay
             );
             break;
 
@@ -913,6 +963,7 @@
         // Select a sound profile based on circle size and randomness for more diversity
         const soundProfiles = [
           "singing_bowl", // Traditional singing bowl sound
+          "tibetan_singing_bowl", // Authentic Tibetan singing bowl sound
           "crystal_bowl", // Higher, more crystalline sound
           "gong", // Deep, resonant gong sound
           "bell", // Sharper, more bell-like sound
@@ -945,7 +996,9 @@
             Math.random() < 0.7
               ? Math.random() < 0.6
                 ? Math.random() < 0.33
-                  ? "singing_bowl"
+                  ? Math.random() < 0.5
+                    ? "singing_bowl"
+                    : "tibetan_singing_bowl"
                   : Math.random() < 0.5
                   ? "gong"
                   : "brain_wave"
@@ -1001,6 +1054,12 @@
             secondFilterNode.type = "bandpass";
             secondFilterNode.frequency.value = 200 + Math.random() * 300; // Emphasize fundamental
             secondFilterNode.Q.value = 2.5 + Math.random() * 1.5; // Narrow band for resonance
+            break;
+            
+          case "tibetan_singing_bowl":
+            secondFilterNode.type = "bandpass";
+            secondFilterNode.frequency.value = 150 + Math.random() * 200; // Lower fundamental for Tibetan bowls
+            secondFilterNode.Q.value = 3.5 + Math.random() * 2.0; // Higher resonance for richer sound
             break;
 
           case "crystal_bowl":
@@ -1150,6 +1209,41 @@
             // Subharmonic settings
             subharmonicOsc.frequency.value = baseFrequency * 0.5;
             subharmonicGain.gain.value = 0.05 + Math.random() * 0.035; // Further reduced subharmonic
+            break;
+            
+          case "tibetan_singing_bowl":
+            // Authentic Tibetan singing bowl - deep resonant frequencies with rich harmonics
+            primaryOsc.type = Math.random() < 0.9 ? "sine" : "triangle";
+            harmonicOsc.type = "sine";
+            secondHarmonicOsc.type = "sine";
+            thirdHarmonicOsc.type = Math.random() < 0.8 ? "sine" : "triangle";
+            fourthHarmonicOsc.type = "sine";
+            subharmonicOsc.type = "sine";
+
+            // Tibetan singing bowl harmonic ratios - based on spectral analysis of real bowls
+            harmonicRatio = [1.4, 1.7, 1.9][Math.floor(Math.random() * 3)];
+            secondHarmonicRatio = [2.3, 2.5, 2.8][
+              Math.floor(Math.random() * 3)
+            ];
+            thirdHarmonicRatio = [3.4, 3.7, 4.0][Math.floor(Math.random() * 3)];
+            fourthHarmonicRatio = [5.2, 5.8, 6.4][
+              Math.floor(Math.random() * 3)
+            ];
+
+            // Very long decay for authentic Tibetan bowls
+            attackTime = 0.1 + Math.random() * 0.3;
+            decayTime = 0.8 + Math.random() * 1.2;
+            sustainLevel = 0.25 + Math.random() * 0.2;
+            releaseTime = 6.0 + Math.random() * 8.0; // Extra long release
+
+            // Slow beating modulation characteristic of Tibetan bowls
+            modulatorOsc.type = "sine";
+            modulatorOsc.frequency.value = 1 + Math.random() * 1.5; // Slower modulation (1-2.5Hz)
+            modulatorGain.gain.value = 0.15 + Math.random() * 0.2; // Subtle modulation
+
+            // Strong subharmonic for deep resonance
+            subharmonicOsc.frequency.value = baseFrequency * 0.5;
+            subharmonicGain.gain.value = 0.12 + Math.random() * 0.08; // Stronger subharmonic
             break;
 
           case "church_bell":
