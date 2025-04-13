@@ -27,6 +27,27 @@
         line-height: 1.6;
       }
 
+      /* Audio notification banner */
+      .audio-notification {
+        position: fixed;
+        top: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+        background-color: rgba(0, 0, 0, 0.7);
+        color: white;
+        padding: 10px 20px;
+        border-radius: 4px;
+        font-size: 14px;
+        opacity: 0;
+        transition: opacity 0.3s ease;
+        pointer-events: none;
+        z-index: 1000;
+      }
+
+      .audio-notification.show {
+        opacity: 1;
+      }
+
       /* --- Container --- */
       .container {
         padding: 10px 30px 10px 30px;
@@ -252,8 +273,23 @@
           initAudio();
           return true;
         } catch (e) {
+          // Show notification if autoplay is blocked
+          const notification = document.createElement('div');
+          notification.className = 'audio-notification';
+          notification.textContent = 'Click anywhere to activate the orfeo audio experience';
+          document.body.appendChild(notification);
+          
+          // Show notification after short delay
+          setTimeout(() => {
+            notification.classList.add('show');
+          }, 1000);
+          
           // Fallback to user interaction if autoplay is blocked
           document.body.addEventListener('click', function firstInteraction() {
+            notification.classList.remove('show');
+            setTimeout(() => {
+              document.body.removeChild(notification);
+            }, 300);
             initAudio();
             document.body.removeEventListener('click', firstInteraction);
           }, {once: true});
