@@ -580,7 +580,17 @@
             ? "dashed"
             : "dotted";
         const borderWidth = 2 + Math.floor(Math.random() * 4); // Thicker borders for hollow circles
-        circle.style.border = `${borderWidth}px ${borderStyle} ${color}`; // Use the circle color for border
+        
+        // Randomly decide if circle should start filled and fade to empty
+        if (Math.random() < 0.3) { // 30% chance for filled-to-empty effect
+            circle.style.background = color;
+            circle.style.transition = "background 1s ease-in-out";
+            setTimeout(() => {
+                circle.style.background = "transparent";
+            }, duration * 1000 * 0.7); // Start fading at 70% of animation duration
+        } else {
+            circle.style.border = `${borderWidth}px ${borderStyle} ${color}`; // Use the circle color for border
+        }
 
         // Vary opacity
         const maxOpacity = 0.7 + Math.random() * 0.3;
