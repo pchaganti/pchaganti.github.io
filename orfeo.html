@@ -9,10 +9,10 @@
         margin: 0;
         padding: 0;
         overflow: hidden;
-        background-color: #dedede;
+        background-color: #eeeeee;
         width: 100vw;
         height: 100vh;
-        background: radial-gradient(circle at center, #1a1a2e 0%, #0f0f1a 100%);
+        /* background: radial-gradient(circle at center, #1a1a2e 0%, #0f0f1a 100%); */
         position: relative;
       }
 
@@ -303,37 +303,37 @@
         const masterGain = audioContext.createGain();
         masterGain.gain.value = 0.005; // Further reduced overall volume
         masterGain.connect(audioContext.destination);
-        
+
         // Create binaural beats (base frequency with slight difference between ears)
         const baseFreq = 40 + Math.random() * 20;
         const beatFreq = 0.5 + Math.random() * 10; // Beat frequency (0.5-10.5 Hz)
-        
+
         // Left ear oscillator
         const leftOsc = audioContext.createOscillator();
         leftOsc.type = "sine";
         leftOsc.frequency.value = baseFreq;
-        
+
         // Right ear oscillator with slightly different frequency
         const rightOsc = audioContext.createOscillator();
         rightOsc.type = "sine";
         rightOsc.frequency.value = baseFreq + beatFreq;
-        
+
         // Panner nodes for stereo effect
         const leftPanner = audioContext.createStereoPanner();
         leftPanner.pan.value = -0.5;
         const rightPanner = audioContext.createStereoPanner();
         rightPanner.pan.value = 0.5;
-        
+
         // Connect binaural beat oscillators
         const beatGain = audioContext.createGain();
         beatGain.gain.value = 0.002; // Very subtle volume
-        
+
         leftOsc.connect(leftPanner);
         rightOsc.connect(rightPanner);
         leftPanner.connect(beatGain);
         rightPanner.connect(beatGain);
         beatGain.connect(masterGain);
-        
+
         // Start oscillators
         leftOsc.start();
         rightOsc.start();
@@ -580,16 +580,17 @@
             ? "dashed"
             : "dotted";
         const borderWidth = 2 + Math.floor(Math.random() * 4); // Thicker borders for hollow circles
-        
+
         // Randomly decide if circle should start filled and fade to empty
-        if (Math.random() < 0.3) { // 30% chance for filled-to-empty effect
-            circle.style.background = color;
-            circle.style.transition = "background 1s ease-in-out";
-            setTimeout(() => {
-                circle.style.background = "transparent";
-            }, duration * 1000 * 0.7); // Start fading at 70% of animation duration
+        if (Math.random() < 0.3) {
+          // 30% chance for filled-to-empty effect
+          circle.style.background = color;
+          circle.style.transition = "background 1s ease-in-out";
+          setTimeout(() => {
+            circle.style.background = "transparent";
+          }, duration * 1000 * 0.7); // Start fading at 70% of animation duration
         } else {
-            circle.style.border = `${borderWidth}px ${borderStyle} ${color}`; // Use the circle color for border
+          circle.style.border = `${borderWidth}px ${borderStyle} ${color}`; // Use the circle color for border
         }
 
         // Vary opacity
