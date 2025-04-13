@@ -295,15 +295,24 @@
         }
       }
 
-      // Create ambient background sound with continuous drone/gamma wave
+      // Create ambient background sound with continuous evolving drone/gamma wave
       function createAmbientSound() {
         if (!audioContext) return;
 
         // Create a master gain node for all ambient sounds
         const masterGain = audioContext.createGain();
-        masterGain.gain.value = 0.02; // Reduced overall volume
+        masterGain.gain.value = 0.01; // Further reduced overall volume
         masterGain.connect(audioContext.destination);
 
+        // Create a compressor for subtle dynamic control
+        const compressor = audioContext.createDynamicsCompressor();
+        compressor.threshold.value = -24;
+        compressor.knee.value = 30;
+        compressor.ratio.value = 12;
+        compressor.attack.value = 0.003;
+        compressor.release.value = 0.25;
+        compressor.connect(audioContext.destination);
+        
         // Create a low-frequency oscillator for ambient background
         const ambientOsc = audioContext.createOscillator();
         const ambientGain = audioContext.createGain();
@@ -311,37 +320,55 @@
         ambientOsc.type = "sine";
         ambientOsc.frequency.value = 40 + Math.random() * 20; // Very low frequency
 
-        ambientGain.gain.value = 0.02; // Very quiet
+        ambientGain.gain.value = 0.01; // Very quiet, further reduced
 
         ambientOsc.connect(ambientGain);
         ambientGain.connect(masterGain);
 
         ambientOsc.start();
 
-        // Add gamma wave drone (30-100 Hz)
+        // Add evolving gamma wave drone (30-100 Hz)
         const droneOscillators = [];
         const droneGains = [];
+        const droneFilters = [];
 
-        // Create multiple oscillators for richer drone texture
-        const gammaFrequencies = [40, 55, 70, 85];
+        // Create multiple oscillators for richer drone texture with more varied frequencies
+        // Using harmonic relationships for more musical drones
+        const baseFrequency = 40 + Math.random() * 5;
+        const gammaFrequencies = [
+          baseFrequency,
+          baseFrequency * 1.5, // Perfect fifth
+          baseFrequency * 1.25, // Major third
+          baseFrequency * 2,    // Octave
+          baseFrequency * 0.75  // Perfect fourth below
+        ];
+
+        // Create oscillator types with more variety
+        const oscTypes = ["sine", "triangle", "sine", "sawtooth", "triangle"];
 
         for (let i = 0; i < gammaFrequencies.length; i++) {
           const droneOsc = audioContext.createOscillator();
           const droneGain = audioContext.createGain();
           const droneFilter = audioContext.createBiquadFilter();
 
-          // Vary the oscillator types for texture
-          droneOsc.type = i % 2 === 0 ? "sine" : "triangle";
-          droneOsc.frequency.value =
-            gammaFrequencies[i] + (Math.random() * 5 - 2.5);
+          // More varied oscillator types for richer texture
+          droneOsc.type = oscTypes[i];
+          
+          // Add slight detuning for beating effects
+          const detune = Math.random() * 10 - 5;
+          droneOsc.detune.value = detune;
+          
+          // Base frequency with slight random variation
+          droneOsc.frequency.value = gammaFrequencies[i] + (Math.random() * 3 - 1.5);
 
-          // Very quiet gain for each oscillator
-          droneGain.gain.value = 0.01 - i * 0.002;
+          // Varied gain levels for each oscillator
+          droneGain.gain.value = 0.005 - i * 0.0005; // Further reduced
 
-          // Add subtle filtering
-          droneFilter.type = "lowpass";
-          droneFilter.frequency.value = 200 + i * 50;
-          droneFilter.Q.value = 1;
+          // Add more varied filtering
+          const filterTypes = ["lowpass", "bandpass", "highpass", "lowpass", "bandpass"];
+          droneFilter.type = filterTypes[i];
+          droneFilter.frequency.value = 200 + i * 100;
+          droneFilter.Q.value = 0.5 + Math.random() * 2;
 
           // Connect the nodes
           droneOsc.connect(droneFilter);
@@ -354,38 +381,107 @@
           // Store references
           droneOscillators.push(droneOsc);
           droneGains.push(droneGain);
+          droneFilters.push(droneFilter);
 
-          // Add subtle modulation to each oscillator
+          // Add complex modulation to each oscillator
+          // Primary LFO for frequency modulation
           const lfo = audioContext.createOscillator();
           const lfoGain = audioContext.createGain();
 
-          lfo.type = "sine";
-          lfo.frequency.value = 0.03 + Math.random() * 0.04; // Very slow modulation
+          // Use different LFO shapes for each oscillator
+          const lfoTypes = ["sine", "triangle", "sine", "triangle", "sine"];
+          lfo.type = lfoTypes[i];
+          
+          // Each oscillator gets a different modulation rate
+          lfo.frequency.value = 0.01 + (i * 0.02) + (Math.random() * 0.03); // Varied slow modulation
 
-          lfoGain.gain.value = 2 + i * 0.5; // Subtle modulation amount
+          // Different modulation depths
+          lfoGain.gain.value = 1 + i * 0.8 + Math.random() * 1.5;
 
           lfo.connect(lfoGain);
           lfoGain.connect(droneOsc.frequency);
-
           lfo.start();
+          
+          // Secondary LFO for filter modulation
+          const filterLfo = audioContext.createOscillator();
+          const filterLfoGain = audioContext.createGain();
+          
+          filterLfo.type = lfoTypes[(i + 2) % lfoTypes.length]; // Offset for variety
+          filterLfo.frequency.value = 0.007 + (i * 0.005) + (Math.random() * 0.01); // Ultra-slow modulation
+          
+          // Modulate filter frequency
+          filterLfoGain.gain.value = 100 + i * 50 + Math.random() * 100;
+          filterLfo.connect(filterLfoGain);
+          filterLfoGain.connect(droneFilter.frequency);
+          filterLfo.start();
+          
+          // Tertiary LFO for amplitude modulation (tremolo)
+          const ampLfo = audioContext.createOscillator();
+          const ampLfoGain = audioContext.createGain();
+          
+          ampLfo.type = "sine";
+          ampLfo.frequency.value = 0.1 + (Math.random() * 0.2); // Slow amplitude variations
+          
+          ampLfoGain.gain.value = 0.003; // Subtle tremolo effect, reduced
+          
+          // Create a constant offset to prevent silence
+          const offset = audioContext.createConstantSource();
+          offset.offset.value = 0.005 - i * 0.0005; // Base gain level, reduced
+          offset.start();
+          
+          // Mix the LFO with the offset for tremolo effect
+          ampLfo.connect(ampLfoGain);
+          ampLfoGain.connect(droneGain.gain);
+          offset.connect(droneGain.gain);
+          ampLfo.start();
         }
 
-        // Slowly vary the frequency for a breathing effect on the base oscillator
+        // Create evolving harmonic shifts for the base oscillator
         const lfoFreq = audioContext.createOscillator();
         const lfoGain = audioContext.createGain();
 
-        lfoFreq.type = "sine";
-        lfoFreq.frequency.value = 0.05; // Very slow modulation
+        lfoFreq.type = "triangle"; // Triangle for smoother transitions
+        lfoFreq.frequency.value = 0.03; // Very slow modulation
 
-        lfoGain.gain.value = 10; // Modulation amount
+        lfoGain.gain.value = 15; // Increased modulation amount for more variation
 
         lfoFreq.connect(lfoGain);
         lfoGain.connect(ambientOsc.frequency);
-
         lfoFreq.start();
+        
+        // Add occasional harmonic shifts using scheduled parameter changes
+        // This creates subtle changes in the sound over time
+        const now = audioContext.currentTime;
+        
+        // Schedule periodic changes to filter frequencies
+        for (let i = 0; i < droneFilters.length; i++) {
+          const filter = droneFilters[i];
+          const baseFreq = 200 + i * 100;
+          
+          // Schedule several changes over the next few minutes
+          for (let t = 10; t < 300; t += 20 + Math.random() * 30) {
+            const newFreq = baseFreq * (0.5 + Math.random() * 1.5);
+            filter.frequency.setTargetAtTime(newFreq, now + t, 10);
+          }
+        }
+        
+        // Schedule periodic changes to oscillator types for timbre variation
+        for (let i = 0; i < droneOscillators.length; i++) {
+          const osc = droneOscillators[i];
+          const types = ["sine", "triangle", "sawtooth"];
+          
+          // Every 30-60 seconds, change the oscillator type
+          for (let t = 30; t < 300; t += 30 + Math.random() * 30) {
+            setTimeout(() => {
+              const newType = types[Math.floor(Math.random() * types.length)];
+              osc.type = newType;
+            }, t * 1000);
+          }
+        }
 
         // Set the ambient sound reference to the master gain
         ambientSound = masterGain;
+
       }
 
       // Create a random circle with a corresponding chime
@@ -871,7 +967,7 @@
 
         // Master gain node for overall volume control of chimes
         const chimesMasterGain = audioContext.createGain();
-        chimesMasterGain.gain.value = 0.7; // Reduce overall chime volume to 70%
+        chimesMasterGain.gain.value = 0.4; // Reduce overall chime volume to 40%
 
         // Effects nodes
         const panNode = audioContext.createStereoPanner();
@@ -1008,11 +1104,11 @@
             // Very slow modulation for brain wave pulsing
             modulatorOsc.type = "sine";
             modulatorOsc.frequency.value = 0.1 + Math.random() * 0.3; // Extremely slow (0.1-0.4Hz)
-            modulatorGain.gain.value = 0.4 + Math.random() * 0.3; // Moderate modulation depth
+            modulatorGain.gain.value = 0.25 + Math.random() * 0.2; // Reduced modulation depth
 
             // Strong subharmonic for deep brain wave effect
             subharmonicOsc.frequency.value = brainWaveBase; // Use actual brain wave frequency
-            subharmonicGain.gain.value = 0.5 + Math.random() * 0.3; // Strong subharmonic
+            subharmonicGain.gain.value = 0.3 + Math.random() * 0.2; // Reduced subharmonic
             break;
 
           case "singing_bowl":
@@ -1043,11 +1139,11 @@
             // Modulation settings
             modulatorOsc.type = "sine";
             modulatorOsc.frequency.value = 2 + Math.random() * 2; // Slower modulation (2-4Hz)
-            modulatorGain.gain.value = 0.3 + Math.random() * 0.8;
+            modulatorGain.gain.value = 0.2 + Math.random() * 0.5; // Reduced modulation
 
             // Subharmonic settings
             subharmonicOsc.frequency.value = baseFrequency * 0.5;
-            subharmonicGain.gain.value = 0.15 + Math.random() * 0.1;
+            subharmonicGain.gain.value = 0.1 + Math.random() * 0.07; // Reduced subharmonic
             break;
 
           case "church_bell":
@@ -1079,11 +1175,11 @@
             // Minimal modulation for clarity
             modulatorOsc.type = "sine";
             modulatorOsc.frequency.value = 1 + Math.random() * 1.5;
-            modulatorGain.gain.value = 0.1 + Math.random() * 0.2;
+            modulatorGain.gain.value = 0.07 + Math.random() * 0.13; // Reduced modulation
 
             // Moderate subharmonic for depth
             subharmonicOsc.frequency.value = baseFrequency * 0.5;
-            subharmonicGain.gain.value = 0.2 + Math.random() * 0.1;
+            subharmonicGain.gain.value = 0.12 + Math.random() * 0.08; // Reduced subharmonic
             break;
 
           case "crystal_bowl":
@@ -1114,11 +1210,11 @@
             // Faster modulation for crystal shimmer
             modulatorOsc.type = "sine";
             modulatorOsc.frequency.value = 4 + Math.random() * 3;
-            modulatorGain.gain.value = 0.2 + Math.random() * 0.4;
+            modulatorGain.gain.value = 0.12 + Math.random() * 0.25; // Reduced modulation
 
             // Less subharmonic for brighter sound
             subharmonicOsc.frequency.value = baseFrequency * 0.5;
-            subharmonicGain.gain.value = 0.05 + Math.random() * 0.05;
+            subharmonicGain.gain.value = 0.03 + Math.random() * 0.03; // Reduced subharmonic
             break;
 
           case "gong":
@@ -1152,11 +1248,11 @@
             // More intense modulation for gong vibrato
             modulatorOsc.type = Math.random() < 0.5 ? "sine" : "triangle";
             modulatorOsc.frequency.value = 5 + Math.random() * 4;
-            modulatorGain.gain.value = 0.5 + Math.random() * 1.0;
+            modulatorGain.gain.value = 0.3 + Math.random() * 0.6; // Reduced modulation
 
             // Stronger subharmonic for gong depth
             subharmonicOsc.frequency.value = baseFrequency * 0.33;
-            subharmonicGain.gain.value = 0.25 + Math.random() * 0.15;
+            subharmonicGain.gain.value = 0.15 + Math.random() * 0.1; // Reduced subharmonic
             break;
 
           case "bell":
@@ -1189,11 +1285,11 @@
             // Minimal modulation for bell clarity
             modulatorOsc.type = "sine";
             modulatorOsc.frequency.value = 1 + Math.random() * 1;
-            modulatorGain.gain.value = 0.1 + Math.random() * 0.2;
+            modulatorGain.gain.value = 0.06 + Math.random() * 0.12; // Reduced modulation
 
             // Less subharmonic for bell brightness
             subharmonicOsc.frequency.value = baseFrequency * 0.5;
-            subharmonicGain.gain.value = 0.05 + Math.random() * 0.05;
+            subharmonicGain.gain.value = 0.03 + Math.random() * 0.03; // Reduced subharmonic
             break;
 
           case "water_chime":
@@ -1226,11 +1322,11 @@
             // Flowing modulation for water effect
             modulatorOsc.type = "sine";
             modulatorOsc.frequency.value = 3 + Math.random() * 2;
-            modulatorGain.gain.value = 0.6 + Math.random() * 0.8;
+            modulatorGain.gain.value = 0.35 + Math.random() * 0.45; // Reduced modulation
 
             // Moderate subharmonic
             subharmonicOsc.frequency.value = baseFrequency * 0.5;
-            subharmonicGain.gain.value = 0.15 + Math.random() * 0.1;
+            subharmonicGain.gain.value = 0.09 + Math.random() * 0.06; // Reduced subharmonic
             break;
 
           default: // Fallback to singing bowl
@@ -1257,10 +1353,10 @@
 
             modulatorOsc.type = "sine";
             modulatorOsc.frequency.value = 2 + Math.random() * 2;
-            modulatorGain.gain.value = 0.3 + Math.random() * 0.8;
+            modulatorGain.gain.value = 0.2 + Math.random() * 0.5; // Reduced modulation
 
             subharmonicOsc.frequency.value = baseFrequency * 0.5;
-            subharmonicGain.gain.value = 0.15 + Math.random() * 0.1;
+            subharmonicGain.gain.value = 0.1 + Math.random() * 0.07; // Reduced subharmonic
         }
 
         // Set the primary frequency
@@ -1274,59 +1370,59 @@
         // Set harmonic gains based on sound profile
         switch (soundProfile) {
           case "brain_wave":
-            harmonicGain.gain.value = 0.4 + Math.random() * 0.2; // Strong first harmonic
-            secondHarmonicGain.gain.value = 0.3 + Math.random() * 0.15; // Moderate second harmonic
-            thirdHarmonicGain.gain.value = 0.2 + Math.random() * 0.1; // Subtle third harmonic
-            fourthHarmonicGain.gain.value = 0.1 + Math.random() * 0.05; // Very subtle fourth harmonic
+            harmonicGain.gain.value = 0.25 + Math.random() * 0.15; // Reduced first harmonic
+            secondHarmonicGain.gain.value = 0.18 + Math.random() * 0.1; // Reduced second harmonic
+            thirdHarmonicGain.gain.value = 0.12 + Math.random() * 0.06; // Reduced third harmonic
+            fourthHarmonicGain.gain.value = 0.06 + Math.random() * 0.03; // Reduced fourth harmonic
             break;
 
           case "singing_bowl":
-            harmonicGain.gain.value = 0.25 + Math.random() * 0.1;
-            secondHarmonicGain.gain.value = 0.15 + Math.random() * 0.07;
-            thirdHarmonicGain.gain.value = 0.08 + Math.random() * 0.04;
-            fourthHarmonicGain.gain.value = 0.04 + Math.random() * 0.02;
+            harmonicGain.gain.value = 0.15 + Math.random() * 0.07; // Reduced
+            secondHarmonicGain.gain.value = 0.09 + Math.random() * 0.05; // Reduced
+            thirdHarmonicGain.gain.value = 0.05 + Math.random() * 0.03; // Reduced
+            fourthHarmonicGain.gain.value = 0.025 + Math.random() * 0.015; // Reduced
             break;
 
           case "crystal_bowl":
-            harmonicGain.gain.value = 0.35 + Math.random() * 0.15;
-            secondHarmonicGain.gain.value = 0.25 + Math.random() * 0.1;
-            thirdHarmonicGain.gain.value = 0.15 + Math.random() * 0.07;
-            fourthHarmonicGain.gain.value = 0.08 + Math.random() * 0.04;
+            harmonicGain.gain.value = 0.2 + Math.random() * 0.1; // Reduced
+            secondHarmonicGain.gain.value = 0.15 + Math.random() * 0.07; // Reduced
+            thirdHarmonicGain.gain.value = 0.09 + Math.random() * 0.05; // Reduced
+            fourthHarmonicGain.gain.value = 0.05 + Math.random() * 0.03; // Reduced
             break;
 
           case "gong":
-            harmonicGain.gain.value = 0.2 + Math.random() * 0.1;
-            secondHarmonicGain.gain.value = 0.3 + Math.random() * 0.15;
-            thirdHarmonicGain.gain.value = 0.2 + Math.random() * 0.1;
-            fourthHarmonicGain.gain.value = 0.15 + Math.random() * 0.07;
+            harmonicGain.gain.value = 0.12 + Math.random() * 0.08; // Reduced
+            secondHarmonicGain.gain.value = 0.18 + Math.random() * 0.1; // Reduced
+            thirdHarmonicGain.gain.value = 0.12 + Math.random() * 0.08; // Reduced
+            fourthHarmonicGain.gain.value = 0.09 + Math.random() * 0.05; // Reduced
             break;
 
           case "bell":
-            harmonicGain.gain.value = 0.3 + Math.random() * 0.15;
-            secondHarmonicGain.gain.value = 0.4 + Math.random() * 0.2;
-            thirdHarmonicGain.gain.value = 0.25 + Math.random() * 0.1;
-            fourthHarmonicGain.gain.value = 0.1 + Math.random() * 0.05;
+            harmonicGain.gain.value = 0.18 + Math.random() * 0.09; // Reduced
+            secondHarmonicGain.gain.value = 0.24 + Math.random() * 0.12; // Reduced
+            thirdHarmonicGain.gain.value = 0.15 + Math.random() * 0.07; // Reduced
+            fourthHarmonicGain.gain.value = 0.06 + Math.random() * 0.03; // Reduced
             break;
 
           case "church_bell":
-            harmonicGain.gain.value = 0.4 + Math.random() * 0.2; // Strong first harmonic
-            secondHarmonicGain.gain.value = 0.5 + Math.random() * 0.25; // Very strong second harmonic
-            thirdHarmonicGain.gain.value = 0.3 + Math.random() * 0.15; // Moderate third harmonic
-            fourthHarmonicGain.gain.value = 0.15 + Math.random() * 0.1; // Subtle fourth harmonic
+            harmonicGain.gain.value = 0.24 + Math.random() * 0.12; // Reduced first harmonic
+            secondHarmonicGain.gain.value = 0.3 + Math.random() * 0.15; // Reduced second harmonic
+            thirdHarmonicGain.gain.value = 0.18 + Math.random() * 0.09; // Reduced third harmonic
+            fourthHarmonicGain.gain.value = 0.09 + Math.random() * 0.06; // Reduced fourth harmonic
             break;
 
           case "water_chime":
-            harmonicGain.gain.value = 0.2 + Math.random() * 0.1;
-            secondHarmonicGain.gain.value = 0.2 + Math.random() * 0.1;
-            thirdHarmonicGain.gain.value = 0.15 + Math.random() * 0.07;
-            fourthHarmonicGain.gain.value = 0.1 + Math.random() * 0.05;
+            harmonicGain.gain.value = 0.12 + Math.random() * 0.06; // Reduced
+            secondHarmonicGain.gain.value = 0.12 + Math.random() * 0.06; // Reduced
+            thirdHarmonicGain.gain.value = 0.09 + Math.random() * 0.045; // Reduced
+            fourthHarmonicGain.gain.value = 0.06 + Math.random() * 0.03; // Reduced
             break;
 
           default: // Fallback to singing bowl
-            harmonicGain.gain.value = 0.25 + Math.random() * 0.1;
-            secondHarmonicGain.gain.value = 0.15 + Math.random() * 0.07;
-            thirdHarmonicGain.gain.value = 0.08 + Math.random() * 0.04;
-            fourthHarmonicGain.gain.value = 0.04 + Math.random() * 0.02;
+            harmonicGain.gain.value = 0.15 + Math.random() * 0.07; // Reduced
+            secondHarmonicGain.gain.value = 0.09 + Math.random() * 0.05; // Reduced
+            thirdHarmonicGain.gain.value = 0.05 + Math.random() * 0.03; // Reduced
+            fourthHarmonicGain.gain.value = 0.025 + Math.random() * 0.015; // Reduced
         }
 
         // Add detune based on sound profile for more natural sound and beating patterns
