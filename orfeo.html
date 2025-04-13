@@ -99,7 +99,14 @@
           opacity: 0.3 !important;
         }
         
-        .particle, .circle, .ripple {
+        /* Show simplified circles on mobile */
+        .circle {
+          display: block !important;
+          opacity: 0.6 !important;
+          animation: appear-disappear 3s ease-in-out forwards !important;
+        }
+        
+        .particle, .ripple {
           display: none !important;
         }
       }
