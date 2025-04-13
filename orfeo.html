@@ -295,9 +295,14 @@
         }
       }
 
-      // Create ambient background sound
+      // Create ambient background sound with continuous drone/gamma wave
       function createAmbientSound() {
         if (!audioContext) return;
+
+        // Create a master gain node for all ambient sounds
+        const masterGain = audioContext.createGain();
+        masterGain.gain.value = 0.02; // Reduced overall volume
+        masterGain.connect(audioContext.destination);
 
         // Create a low-frequency oscillator for ambient background
         const ambientOsc = audioContext.createOscillator();
@@ -306,15 +311,66 @@
         ambientOsc.type = "sine";
         ambientOsc.frequency.value = 40 + Math.random() * 20; // Very low frequency
 
-        ambientGain.gain.value = 0.03; // Very quiet
+        ambientGain.gain.value = 0.02; // Very quiet
 
         ambientOsc.connect(ambientGain);
-        ambientGain.connect(audioContext.destination);
+        ambientGain.connect(masterGain);
 
         ambientOsc.start();
-        ambientSound = ambientGain;
 
-        // Slowly vary the frequency for a breathing effect
+        // Add gamma wave drone (30-100 Hz)
+        const droneOscillators = [];
+        const droneGains = [];
+
+        // Create multiple oscillators for richer drone texture
+        const gammaFrequencies = [40, 55, 70, 85];
+
+        for (let i = 0; i < gammaFrequencies.length; i++) {
+          const droneOsc = audioContext.createOscillator();
+          const droneGain = audioContext.createGain();
+          const droneFilter = audioContext.createBiquadFilter();
+
+          // Vary the oscillator types for texture
+          droneOsc.type = i % 2 === 0 ? "sine" : "triangle";
+          droneOsc.frequency.value =
+            gammaFrequencies[i] + (Math.random() * 5 - 2.5);
+
+          // Very quiet gain for each oscillator
+          droneGain.gain.value = 0.01 - i * 0.002;
+
+          // Add subtle filtering
+          droneFilter.type = "lowpass";
+          droneFilter.frequency.value = 200 + i * 50;
+          droneFilter.Q.value = 1;
+
+          // Connect the nodes
+          droneOsc.connect(droneFilter);
+          droneFilter.connect(droneGain);
+          droneGain.connect(masterGain);
+
+          // Start the oscillator
+          droneOsc.start();
+
+          // Store references
+          droneOscillators.push(droneOsc);
+          droneGains.push(droneGain);
+
+          // Add subtle modulation to each oscillator
+          const lfo = audioContext.createOscillator();
+          const lfoGain = audioContext.createGain();
+
+          lfo.type = "sine";
+          lfo.frequency.value = 0.03 + Math.random() * 0.04; // Very slow modulation
+
+          lfoGain.gain.value = 2 + i * 0.5; // Subtle modulation amount
+
+          lfo.connect(lfoGain);
+          lfoGain.connect(droneOsc.frequency);
+
+          lfo.start();
+        }
+
+        // Slowly vary the frequency for a breathing effect on the base oscillator
         const lfoFreq = audioContext.createOscillator();
         const lfoGain = audioContext.createGain();
 
@@ -327,6 +383,9 @@
         lfoGain.connect(ambientOsc.frequency);
 
         lfoFreq.start();
+
+        // Set the ambient sound reference to the master gain
+        ambientSound = masterGain;
       }
 
       // Create a random circle with a corresponding chime
@@ -801,7 +860,7 @@
         const modulatorOsc = audioContext.createOscillator();
         const subharmonicOsc = audioContext.createOscillator(); // Added subharmonic for depth
 
-        // Gain nodes for volume control
+        // Gain nodes for volume control - reduced volume for better balance with ambient drone
         const gainNode = audioContext.createGain();
         const harmonicGain = audioContext.createGain();
         const secondHarmonicGain = audioContext.createGain();
@@ -809,6 +868,10 @@
         const fourthHarmonicGain = audioContext.createGain(); // Added gain for fourth harmonic
         const modulatorGain = audioContext.createGain();
         const subharmonicGain = audioContext.createGain(); // Added gain for subharmonic
+
+        // Master gain node for overall volume control of chimes
+        const chimesMasterGain = audioContext.createGain();
+        chimesMasterGain.gain.value = 0.7; // Reduce overall chime volume to 70%
 
         // Effects nodes
         const panNode = audioContext.createStereoPanner();
@@ -896,13 +959,18 @@
         modulatorOsc.connect(modulatorGain);
         modulatorGain.connect(gainNode);
 
+        // We're using the master gain node already created above
+        // No need to redeclare chimesMasterGain
+
         // Split the signal path for more complex processing
         gainNode.connect(filterNode);
         gainNode.connect(secondFilterNode);
         filterNode.connect(panNode);
         secondFilterNode.connect(panNode);
         panNode.connect(reverbNode);
-        reverbNode.connect(audioContext.destination);
+        // Connect to master gain instead of directly to destination
+        reverbNode.connect(chimesMasterGain);
+        chimesMasterGain.connect(audioContext.destination);
 
         // Configure oscillators based on the selected sound profile
         let harmonicRatio,
@@ -934,7 +1002,7 @@
             // Very slow attack and release for meditative quality
             attackTime = 0.5 + Math.random() * 1.0; // Very slow attack
             decayTime = 1.0 + Math.random() * 1.5; // Slow decay
-            sustainLevel = 0.4 + Math.random() * 0.3; // Higher sustain
+            sustainLevel = 0.3 + Math.random() * 0.2; // Reduced sustain level
             releaseTime = 8.0 + Math.random() * 7.0; // Very long release
 
             // Very slow modulation for brain wave pulsing
