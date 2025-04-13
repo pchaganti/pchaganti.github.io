@@ -285,8 +285,8 @@
             analyser.getByteFrequencyData(dataArray);
             const average = dataArray.reduce((a, b) => a + b, 0) / bufferLength;
 
-            // Subtle glow effect based on audio intensity
-            document.body.style.filter = `brightness(${1 + average / 1000})`;
+            // Keeping audio analysis but removing brightness changes to maintain static background
+            // as requested by user
 
             requestAnimationFrame(animate);
           }
