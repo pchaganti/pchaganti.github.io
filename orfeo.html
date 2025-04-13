@@ -98,6 +98,15 @@
           top: 50%;
           transform: translate(-50%, -50%);
           z-index: 5;
+          width: 90%;
+          text-align: center;
+          padding: 15px;
+        }
+        
+        /* Enhanced touch targets */
+        .h1-link {
+          padding: 8px 12px;
+          display: inline-block;
         }
         
         /* Simplified particle animations for mobile */
@@ -111,12 +120,25 @@
           display: block !important;
           opacity: 0.6 !important;
           animation: appear-disappear 3s ease-in-out forwards !important;
-          max-width: 200px !important;
-          max-height: 200px !important;
+          max-width: 150px !important;
+          max-height: 150px !important;
+          touch-action: manipulation;
         }
         
         .particle, .ripple {
           display: none !important;
+        }
+        
+        /* Prevent accidental scrolling during interactions */
+        body {
+          touch-action: manipulation;
+          overflow: hidden;
+        }
+        
+        /* Smoother transitions for mobile */
+        * {
+          transition: all 0.2s ease-out;
+          will-change: transform, opacity;
         }
       }
 
