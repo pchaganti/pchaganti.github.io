@@ -756,47 +756,47 @@
               audioContext.currentTime + 6
             );
             break;
-            
+
           case "tibetan_bowl":
             // Create a more complex Tibetan bowl sound with multiple oscillators
             specialOsc.type = "sine";
             specialOsc.frequency.value = 110 + Math.random() * 40; // Lower fundamental frequency
-            
+
             // Create additional oscillators for rich harmonics
             const tibetanHarmonic1 = audioContext.createOscillator();
             const tibetanHarmonic2 = audioContext.createOscillator();
             const tibetanHarmonic1Gain = audioContext.createGain();
             const tibetanHarmonic2Gain = audioContext.createGain();
-            
+
             // Set harmonic frequencies based on spectral analysis of real Tibetan bowls
             tibetanHarmonic1.type = "sine";
             tibetanHarmonic1.frequency.value = specialOsc.frequency.value * 2.3;
             tibetanHarmonic1Gain.gain.value = 0.15;
-            
+
             tibetanHarmonic2.type = "sine";
             tibetanHarmonic2.frequency.value = specialOsc.frequency.value * 3.4;
             tibetanHarmonic2Gain.gain.value = 0.1;
-            
+
             // Connect harmonics
             tibetanHarmonic1.connect(tibetanHarmonic1Gain);
             tibetanHarmonic2.connect(tibetanHarmonic2Gain);
             tibetanHarmonic1Gain.connect(specialFilter);
             tibetanHarmonic2Gain.connect(specialFilter);
-            
+
             // Start harmonics
             tibetanHarmonic1.start();
             tibetanHarmonic2.start();
-            
+
             // Schedule stop
             const stopTime = audioContext.currentTime + 8;
             tibetanHarmonic1.stop(stopTime);
             tibetanHarmonic2.stop(stopTime);
-            
+
             // Configure filter for resonant Tibetan bowl sound
             specialFilter.type = "bandpass";
             specialFilter.frequency.value = 150;
             specialFilter.Q.value = 15; // Higher Q for more resonance
-            
+
             // Configure amplitude envelope
             specialGain.gain.value = 0.3;
             specialGain.gain.setValueAtTime(0.3, audioContext.currentTime);
@@ -970,6 +970,7 @@
           "water_chime", // Fluid, water-like sound
           "church_bell", // Church bell sound
           "brain_wave", // Meditative brain wave frequencies
+          "didgeridoo", // Deep resonant Aboriginal instrument sound
         ];
 
         // Choose sound profile based on size ranges and randomness
@@ -1055,7 +1056,7 @@
             secondFilterNode.frequency.value = 200 + Math.random() * 300; // Emphasize fundamental
             secondFilterNode.Q.value = 2.5 + Math.random() * 1.5; // Narrow band for resonance
             break;
-            
+
           case "tibetan_singing_bowl":
             secondFilterNode.type = "bandpass";
             secondFilterNode.frequency.value = 150 + Math.random() * 200; // Lower fundamental for Tibetan bowls
@@ -1092,6 +1093,12 @@
             secondFilterNode.type = "allpass";
             secondFilterNode.frequency.value = 500 + Math.random() * 500; // Phase shifting
             secondFilterNode.Q.value = 1.0 + Math.random() * 2.0; // Moderate resonance
+            break;
+
+          case "didgeridoo":
+            secondFilterNode.type = "lowshelf";
+            secondFilterNode.frequency.value = 100 + Math.random() * 100; // Emphasize low frequencies
+            secondFilterNode.gain.value = 4.0 + Math.random() * 3.0; // Strong low-end boost
             break;
 
           default: // Fallback to singing bowl
@@ -1210,7 +1217,7 @@
             subharmonicOsc.frequency.value = baseFrequency * 0.5;
             subharmonicGain.gain.value = 0.05 + Math.random() * 0.035; // Further reduced subharmonic
             break;
-            
+
           case "tibetan_singing_bowl":
             // Authentic Tibetan singing bowl - deep resonant frequencies with rich harmonics
             primaryOsc.type = Math.random() < 0.9 ? "sine" : "triangle";
@@ -1315,6 +1322,47 @@
             // Less subharmonic for brighter sound
             subharmonicOsc.frequency.value = baseFrequency * 0.5;
             subharmonicGain.gain.value = 0.015 + Math.random() * 0.015; // Further reduced subharmonic
+            break;
+
+          case "gong":
+            // Gong - more complex with some square and sawtooth components
+            primaryOsc.type = Math.random() < 0.6 ? "sine" : "triangle";
+            harmonicOsc.type = Math.random() < 0.4 ? "sawtooth" : "sine";
+            secondHarmonicOsc.type =
+              Math.random() < 0.3 ? "square" : "triangle";
+            thirdHarmonicOsc.type = "sine";
+            fourthHarmonicOsc.type = Math.random() < 0.5 ? "sawtooth" : "sine";
+            subharmonicOsc.type = "sine";
+
+          case "didgeridoo":
+            // Didgeridoo - deep resonant drone with characteristic wavering
+            primaryOsc.type = "sawtooth"; // Rich harmonic content
+            harmonicOsc.type = "square"; // For buzzy texture
+            secondHarmonicOsc.type = "sawtooth";
+            thirdHarmonicOsc.type = "sine"; // Smoother high harmonics
+            fourthHarmonicOsc.type = "sine";
+            subharmonicOsc.type = "triangle";
+
+            // Didgeridoo has strong fundamental with specific overtone structure
+            harmonicRatio = 2.0 + Math.random() * 0.05; // Octave
+            secondHarmonicRatio = 3.0 + Math.random() * 0.05; // Perfect fifth above octave
+            thirdHarmonicRatio = 4.0 + Math.random() * 0.05; // Two octaves
+            fourthHarmonicRatio = 5.0 + Math.random() * 0.05; // Major third above two octaves
+
+            // Slower attack, long sustain for drone-like quality
+            attackTime = 0.2 + Math.random() * 0.2;
+            decayTime = 0.5 + Math.random() * 0.3;
+            sustainLevel = 0.3 + Math.random() * 0.1;
+            releaseTime = 3.0 + Math.random() * 2.0;
+
+            // Characteristic rhythmic wavering/pulsing of didgeridoo
+            modulatorOsc.type = "triangle";
+            modulatorOsc.frequency.value = 4.5 + Math.random() * 1.5; // Faster modulation for didgeridoo pulsing
+            modulatorGain.gain.value = 0.3 + Math.random() * 0.2; // Stronger modulation for characteristic wavering
+
+            // Strong subharmonic for didgeridoo's deep resonance
+            subharmonicOsc.frequency.value = baseFrequency * 0.5;
+            subharmonicGain.gain.value = 0.15 + Math.random() * 0.1; // Stronger subharmonic for depth
             break;
 
           case "gong":
@@ -1516,6 +1564,13 @@
             secondHarmonicGain.gain.value = 0.06 + Math.random() * 0.03; // Further reduced
             thirdHarmonicGain.gain.value = 0.045 + Math.random() * 0.0225; // Further reduced
             fourthHarmonicGain.gain.value = 0.03 + Math.random() * 0.015; // Further reduced
+            break;
+
+          case "didgeridoo":
+            harmonicGain.gain.value = 0.12 + Math.random() * 0.06; // Strong first harmonic
+            secondHarmonicGain.gain.value = 0.09 + Math.random() * 0.04; // Moderate second harmonic
+            thirdHarmonicGain.gain.value = 0.06 + Math.random() * 0.03; // Subtle third harmonic
+            fourthHarmonicGain.gain.value = 0.03 + Math.random() * 0.015; // Very subtle fourth harmonic
             break;
 
           default: // Fallback to singing bowl
