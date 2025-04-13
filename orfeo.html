@@ -444,7 +444,18 @@
       window.addEventListener("resize", updateBackgroundParticles);
 
       function initAudio() {
+        // Create audio context with mobile compatibility
         audioContext = new (window.AudioContext || window.webkitAudioContext)();
+        
+        // Ensure audio context is resumed on mobile after user interaction
+        if (audioContext.state === 'suspended') {
+          document.body.addEventListener('touchstart', function resumeAudio() {
+            audioContext.resume().then(() => {
+              document.body.removeEventListener('touchstart', resumeAudio);
+            });
+          }, { once: true });
+        }
+        
         // Start creating circles after audio is initialized
         createRandomCircle(); // Create first circle immediately
         setInterval(createRandomCircle, 800); // Create circles more frequently
