@@ -229,8 +229,11 @@
       let ambientSound;
       let backgroundParticles = [];
 
-      // Initialize audio context when page loads
-      window.addEventListener("load", initAudio);
+      // Initialize audio context on first user interaction
+      document.body.addEventListener('click', function firstInteraction() {
+        initAudio();
+        document.body.removeEventListener('click', firstInteraction);
+      }, {once: true});
       window.addEventListener("resize", updateBackgroundParticles);
 
       function initAudio() {
