@@ -187,3 +187,16 @@ Orfeo works best in modern browsers that support the Web Audio API and CSS anima
 ## Credits
 
 Orfeo was inspired by Buddhist meditation practices, sound healing traditions, and generative art. The audio design draws from singing bowl and gong meditation techniques, while the visual aesthetic references Buddhist iconography and color symbolism.
+
+We could enhance the sound spectrum with several additional sound profiles:
+
+1. Tibetan Singing Bowls : Different sizes and materials (bronze, crystal) with their characteristic overtone series
+2. Shakuhachi : Japanese bamboo flute with breathy, meditative tones
+3. Tanpura : Indian drone instrument with rich harmonics
+4. Shruti Box : Another Indian drone with complex harmonic structure
+5. Didgeridoo : Aboriginal instrument with deep resonant tones and overtones
+6. Hang/Handpan : Steel percussion with bell-like tones
+7. Binaural Beats : Specific frequency differences (1-30Hz) between left and right channels
+8. Solfeggio Frequencies : Ancient scale frequencies (396Hz, 417Hz, 528Hz, etc.) with healing properties
+9. Himalayan Bowls : Specific metal alloy bowls with unique harmonic profiles
+These could be implemented using the Web Audio API with appropriate oscillator types, frequency ratios, and envelope characteristics to simulate each instrument's unique timbre.
