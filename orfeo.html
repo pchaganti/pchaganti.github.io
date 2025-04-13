@@ -93,7 +93,7 @@
           font-size: 1.5em;
           margin: 0.5em 0;
         }
-        
+
         /* Audio notification position for mobile */
         .audio-notification {
           top: 50%;
@@ -104,7 +104,7 @@
           padding: 15px;
           font-size: 16px;
         }
-        
+
         /* Enhanced touch targets */
         .h1-link {
           padding: 12px 16px;
@@ -112,14 +112,14 @@
           min-width: 48px;
           min-height: 48px;
         }
-        
+
         /* Optimized particle animations for mobile */
         .bg-particle {
           animation: float-particle 20s ease-in-out infinite !important;
           opacity: 0.2 !important;
           will-change: transform;
         }
-        
+
         /* Improved circle visibility on mobile */
         .circle {
           display: block !important;
@@ -130,24 +130,25 @@
           touch-action: none;
           will-change: transform, opacity;
         }
-        
-        .particle, .ripple {
+
+        .particle,
+        .ripple {
           display: none !important;
         }
-        
+
         /* Prevent accidental scrolling during interactions */
         body {
           touch-action: none;
           overflow: hidden;
           -webkit-overflow-scrolling: touch;
         }
-        
+
         /* Smoother transitions for mobile */
         * {
           transition: all 0.15s ease-out;
           will-change: transform, opacity;
         }
-        
+
         /* Performance optimizations */
         .container {
           padding: 10px 20px;
@@ -318,35 +319,40 @@
           source.buffer = buffer;
           source.connect(audioContext.destination);
           source.start(0);
-          
+
           // Start our actual audio
           initAudio();
           return true;
         } catch (e) {
           // Show notification if autoplay is blocked
-          const notification = document.createElement('div');
-          notification.className = 'audio-notification';
-          notification.textContent = 'Click anywhere to activate the orfeo audio experience';
+          const notification = document.createElement("div");
+          notification.className = "audio-notification";
+          notification.textContent =
+            "Click anywhere to activate the orfeo audio experience";
           document.body.appendChild(notification);
-          
+
           // Show notification after short delay
           setTimeout(() => {
-            notification.classList.add('show');
+            notification.classList.add("show");
           }, 1000);
-          
+
           // Fallback to user interaction if autoplay is blocked
-          document.body.addEventListener('click', function firstInteraction() {
-            notification.classList.remove('show');
-            setTimeout(() => {
-              document.body.removeChild(notification);
-            }, 300);
-            initAudio();
-            document.body.removeEventListener('click', firstInteraction);
-          }, {once: true});
+          document.body.addEventListener(
+            "click",
+            function firstInteraction() {
+              notification.classList.remove("show");
+              setTimeout(() => {
+                document.body.removeChild(notification);
+              }, 300);
+              initAudio();
+              document.body.removeEventListener("click", firstInteraction);
+            },
+            { once: true }
+          );
           return false;
         }
       }
-      
+
       // Try to initialize audio immediately
       tryInitAudio();
       window.addEventListener("resize", updateBackgroundParticles);
@@ -401,8 +407,8 @@
       function createBackgroundParticles() {
         // Reduced particle count for mobile devices
         const isMobile = window.innerWidth <= 768;
-        const particleCount = isMobile 
-          ? Math.floor((window.innerWidth * window.innerHeight) / 50000) 
+        const particleCount = isMobile
+          ? Math.floor((window.innerWidth * window.innerHeight) / 50000)
           : Math.floor((window.innerWidth * window.innerHeight) / 15000);
 
         for (let i = 0; i < particleCount; i++) {
@@ -415,7 +421,7 @@
 
       function createBackgroundParticle() {
         const isMobile = window.innerWidth <= 768;
-        const size = isMobile 
+        const size = isMobile
           ? 1 + Math.random() * 3 // Smaller particles on mobile
           : 2 + Math.random() * 8;
         const x = Math.random() * window.innerWidth;
