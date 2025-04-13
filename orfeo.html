@@ -312,7 +312,7 @@
         compressor.attack.value = 0.003;
         compressor.release.value = 0.25;
         compressor.connect(audioContext.destination);
-        
+
         // Create a low-frequency oscillator for ambient background
         const ambientOsc = audioContext.createOscillator();
         const ambientGain = audioContext.createGain();
@@ -339,8 +339,8 @@
           baseFrequency,
           baseFrequency * 1.5, // Perfect fifth
           baseFrequency * 1.25, // Major third
-          baseFrequency * 2,    // Octave
-          baseFrequency * 0.75  // Perfect fourth below
+          baseFrequency * 2, // Octave
+          baseFrequency * 0.75, // Perfect fourth below
         ];
 
         // Create oscillator types with more variety
@@ -353,19 +353,26 @@
 
           // More varied oscillator types for richer texture
           droneOsc.type = oscTypes[i];
-          
+
           // Add slight detuning for beating effects
           const detune = Math.random() * 10 - 5;
           droneOsc.detune.value = detune;
-          
+
           // Base frequency with slight random variation
-          droneOsc.frequency.value = gammaFrequencies[i] + (Math.random() * 3 - 1.5);
+          droneOsc.frequency.value =
+            gammaFrequencies[i] + (Math.random() * 3 - 1.5);
 
           // Varied gain levels for each oscillator
           droneGain.gain.value = 0.0025 - i * 0.00025; // Further reduced
 
           // Add more varied filtering
-          const filterTypes = ["lowpass", "bandpass", "highpass", "lowpass", "bandpass"];
+          const filterTypes = [
+            "lowpass",
+            "bandpass",
+            "highpass",
+            "lowpass",
+            "bandpass",
+          ];
           droneFilter.type = filterTypes[i];
           droneFilter.frequency.value = 200 + i * 100;
           droneFilter.Q.value = 0.5 + Math.random() * 2;
@@ -391,9 +398,9 @@
           // Use different LFO shapes for each oscillator
           const lfoTypes = ["sine", "triangle", "sine", "triangle", "sine"];
           lfo.type = lfoTypes[i];
-          
+
           // Each oscillator gets a different modulation rate
-          lfo.frequency.value = 0.01 + (i * 0.02) + (Math.random() * 0.03); // Varied slow modulation
+          lfo.frequency.value = 0.01 + i * 0.02 + Math.random() * 0.03; // Varied slow modulation
 
           // Different modulation depths
           lfoGain.gain.value = 1 + i * 0.8 + Math.random() * 1.5;
@@ -401,34 +408,34 @@
           lfo.connect(lfoGain);
           lfoGain.connect(droneOsc.frequency);
           lfo.start();
-          
+
           // Secondary LFO for filter modulation
           const filterLfo = audioContext.createOscillator();
           const filterLfoGain = audioContext.createGain();
-          
+
           filterLfo.type = lfoTypes[(i + 2) % lfoTypes.length]; // Offset for variety
-          filterLfo.frequency.value = 0.007 + (i * 0.005) + (Math.random() * 0.01); // Ultra-slow modulation
-          
+          filterLfo.frequency.value = 0.007 + i * 0.005 + Math.random() * 0.01; // Ultra-slow modulation
+
           // Modulate filter frequency
           filterLfoGain.gain.value = 100 + i * 50 + Math.random() * 100;
           filterLfo.connect(filterLfoGain);
           filterLfoGain.connect(droneFilter.frequency);
           filterLfo.start();
-          
+
           // Tertiary LFO for amplitude modulation (tremolo)
           const ampLfo = audioContext.createOscillator();
           const ampLfoGain = audioContext.createGain();
-          
+
           ampLfo.type = "sine";
-          ampLfo.frequency.value = 0.1 + (Math.random() * 0.2); // Slow amplitude variations
-          
+          ampLfo.frequency.value = 0.1 + Math.random() * 0.2; // Slow amplitude variations
+
           ampLfoGain.gain.value = 0.0015; // Subtle tremolo effect, reduced
-          
+
           // Create a constant offset to prevent silence
           const offset = audioContext.createConstantSource();
           offset.offset.value = 0.0025 - i * 0.00025; // Base gain level, reduced
           offset.start();
-          
+
           // Mix the LFO with the offset for tremolo effect
           ampLfo.connect(ampLfoGain);
           ampLfoGain.connect(droneGain.gain);
@@ -448,28 +455,28 @@
         lfoFreq.connect(lfoGain);
         lfoGain.connect(ambientOsc.frequency);
         lfoFreq.start();
-        
+
         // Add occasional harmonic shifts using scheduled parameter changes
         // This creates subtle changes in the sound over time
         const now = audioContext.currentTime;
-        
+
         // Schedule periodic changes to filter frequencies
         for (let i = 0; i < droneFilters.length; i++) {
           const filter = droneFilters[i];
           const baseFreq = 200 + i * 100;
-          
+
           // Schedule several changes over the next few minutes
           for (let t = 10; t < 300; t += 20 + Math.random() * 30) {
             const newFreq = baseFreq * (0.5 + Math.random() * 1.5);
             filter.frequency.setTargetAtTime(newFreq, now + t, 10);
           }
         }
-        
+
         // Schedule periodic changes to oscillator types for timbre variation
         for (let i = 0; i < droneOscillators.length; i++) {
           const osc = droneOscillators[i];
           const types = ["sine", "triangle", "sawtooth"];
-          
+
           // Every 30-60 seconds, change the oscillator type
           for (let t = 30; t < 300; t += 30 + Math.random() * 30) {
             setTimeout(() => {
@@ -481,7 +488,6 @@
 
         // Set the ambient sound reference to the master gain
         ambientSound = masterGain;
-
       }
 
       // Create a random circle with a corresponding chime
