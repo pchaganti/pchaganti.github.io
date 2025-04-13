@@ -39,7 +39,12 @@
         top: 20px;
         left: 50%;
         transform: translateX(-50%);
-        background-color: rgba(0, 0, 0, 0.85); /* Darker background for better contrast */
+        background-color: rgba(
+          0,
+          0,
+          0,
+          0.85
+        ); /* Darker background for better contrast */
         color: white;
         padding: 12px 24px; /* Larger padding for better touch targets */
         border-radius: 8px; /* Slightly larger radius */
@@ -340,8 +345,11 @@
           transition-duration: 0.01ms !important;
           scroll-behavior: auto !important;
         }
-        
-        .bg-particle, .circle, .particle, .ripple {
+
+        .bg-particle,
+        .circle,
+        .particle,
+        .ripple {
           animation: none !important;
           transition: none !important;
         }
@@ -808,33 +816,51 @@
         const size = Math.floor(Math.random() * 320) + 30;
 
         // Get container height for offset
-        const container = document.querySelector('.container');
-        const containerHeight = container ? container.getBoundingClientRect().height : 0;
+        const container = document.querySelector(".container");
+        const containerHeight = container
+          ? container.getBoundingClientRect().height
+          : 0;
 
         // Random position ensuring circle is fully visible and below container
         const maxX = window.innerWidth - size;
         const maxY = window.innerHeight - size;
         const x = Math.floor(Math.random() * maxX);
-        const y = Math.floor(Math.random() * (maxY - containerHeight)) + containerHeight;
+        const y =
+          Math.floor(Math.random() * (maxY - containerHeight)) +
+          containerHeight;
 
-        // Buddhist-inspired color palette (golds, deep reds, blues, purples)
+        // Enhanced Buddhist-inspired color palette with more varied tones
         const colorPalettes = [
-          { hue: 35, saturation: 80, lightness: 65 }, // Gold
-          { hue: 0, saturation: 70, lightness: 40 }, // Deep red
-          { hue: 270, saturation: 50, lightness: 40 }, // Purple
-          { hue: 200, saturation: 60, lightness: 30 }, // Deep blue
-          { hue: 160, saturation: 50, lightness: 30 }, // Teal
+          { hue: 45, saturation: 85, lightness: 65 }, // Saffron/Kasaya (monk's robe)
+          { hue: 35, saturation: 80, lightness: 60 }, // Warm gold (Buddha statues)
+          { hue: 28, saturation: 75, lightness: 55 }, // Amber (sacred flame)
+          { hue: 15, saturation: 70, lightness: 45 }, // Terra cotta (temple walls)
+          { hue: 0, saturation: 65, lightness: 40 }, // Deep red (inner wisdom)
+          { hue: 300, saturation: 45, lightness: 45 }, // Mauve purple (spiritual awakening)
+          { hue: 270, saturation: 50, lightness: 40 }, // Royal purple (enlightenment)
+          { hue: 240, saturation: 45, lightness: 35 }, // Indigo (deep meditation)
+          { hue: 220, saturation: 60, lightness: 35 }, // Deep blue (infinite sky)
+          { hue: 200, saturation: 55, lightness: 40 }, // Ocean blue (serenity)
+          { hue: 180, saturation: 50, lightness: 35 }, // Teal (healing)
+          { hue: 160, saturation: 45, lightness: 35 }, // Deep jade (harmony)
+          { hue: 140, saturation: 40, lightness: 40 }, // Forest green (growth)
         ];
 
+        // Use weighted random selection to favor certain colors
         const palette =
           colorPalettes[Math.floor(Math.random() * colorPalettes.length)];
-        const hue = palette.hue + (Math.random() * 20 - 10); // Slight hue variation
-        const saturation = palette.saturation + (Math.random() * 10 - 5);
-        const lightness = palette.lightness + (Math.random() * 10 - 5);
+
+        // More subtle variations for natural feel
+        const hue = palette.hue + (Math.random() * 12 - 6); // Reduced variation range
+        const saturation = palette.saturation + (Math.random() * 8 - 4); // More subtle variation
+        const lightness = palette.lightness + (Math.random() * 6 - 3); // Finer lightness control
         const color = `hsl(${hue}, ${saturation}%, ${lightness}%)`;
-        const colorLight = `hsl(${hue}, ${saturation - 10}%, ${
-          lightness + 15
-        }%)`; // Lighter version for gradient
+
+        // Create more harmonious gradient with controlled contrast
+        const colorLight = `hsl(${hue}, ${Math.max(
+          40,
+          saturation - 15
+        )}%, ${Math.min(75, lightness + 20)}%)`;
 
         // Random animation duration between 2 and 4 seconds
         const duration = Math.random() * 2 + 2;
