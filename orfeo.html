@@ -91,6 +91,7 @@
       @media (max-width: 768px) {
         h1 {
           font-size: 1.5em;
+          margin: 0.5em 0;
         }
         
         /* Audio notification position for mobile */
@@ -101,28 +102,33 @@
           width: 90%;
           text-align: center;
           padding: 15px;
+          font-size: 16px;
         }
         
         /* Enhanced touch targets */
         .h1-link {
-          padding: 8px 12px;
+          padding: 12px 16px;
           display: inline-block;
+          min-width: 48px;
+          min-height: 48px;
         }
         
-        /* Simplified particle animations for mobile */
+        /* Optimized particle animations for mobile */
         .bg-particle {
-          animation: none !important;
-          opacity: 0.3 !important;
+          animation: float-particle 20s ease-in-out infinite !important;
+          opacity: 0.2 !important;
+          will-change: transform;
         }
         
-        /* Show simplified circles on mobile */
+        /* Improved circle visibility on mobile */
         .circle {
           display: block !important;
-          opacity: 0.6 !important;
+          opacity: 0.8 !important;
           animation: appear-disappear 3s ease-in-out forwards !important;
-          max-width: 150px !important;
-          max-height: 150px !important;
-          touch-action: manipulation;
+          max-width: 200px !important;
+          max-height: 200px !important;
+          touch-action: none;
+          will-change: transform, opacity;
         }
         
         .particle, .ripple {
@@ -131,14 +137,20 @@
         
         /* Prevent accidental scrolling during interactions */
         body {
-          touch-action: manipulation;
+          touch-action: none;
           overflow: hidden;
+          -webkit-overflow-scrolling: touch;
         }
         
         /* Smoother transitions for mobile */
         * {
-          transition: all 0.2s ease-out;
+          transition: all 0.15s ease-out;
           will-change: transform, opacity;
+        }
+        
+        /* Performance optimizations */
+        .container {
+          padding: 10px 20px;
         }
       }
 
