@@ -67,10 +67,19 @@
       }
 
       /* Optional: Adjust alignment on very small screens if needed */
-      @media (max-width: 480px) {
+      @media (max-width: 768px) {
         h1 {
-          font-size: 1.5em; /* Slightly smaller on mobile */
-          /* text-align: center; */ /* Uncomment if center looks better on tiny screens */
+          font-size: 1.5em;
+        }
+        
+        /* Simplified particle animations for mobile */
+        .bg-particle {
+          animation: none !important;
+          opacity: 0.3 !important;
+        }
+        
+        .particle, .circle, .ripple {
+          display: none !important;
         }
       }
 
@@ -229,11 +238,31 @@
       let ambientSound;
       let backgroundParticles = [];
 
-      // Initialize audio context on first user interaction
-      document.body.addEventListener('click', function firstInteraction() {
-        initAudio();
-        document.body.removeEventListener('click', firstInteraction);
-      }, {once: true});
+      // Initialize audio context on page load with fallback to user interaction
+      function tryInitAudio() {
+        try {
+          // Create a silent audio buffer to unlock audio context
+          const buffer = audioContext.createBuffer(1, 1, 22050);
+          const source = audioContext.createBufferSource();
+          source.buffer = buffer;
+          source.connect(audioContext.destination);
+          source.start(0);
+          
+          // Start our actual audio
+          initAudio();
+          return true;
+        } catch (e) {
+          // Fallback to user interaction if autoplay is blocked
+          document.body.addEventListener('click', function firstInteraction() {
+            initAudio();
+            document.body.removeEventListener('click', firstInteraction);
+          }, {once: true});
+          return false;
+        }
+      }
+      
+      // Try to initialize audio immediately
+      tryInitAudio();
       window.addEventListener("resize", updateBackgroundParticles);
 
       function initAudio() {
@@ -284,9 +313,11 @@
 
       // Create background particles for ambient effect
       function createBackgroundParticles() {
-        const particleCount = Math.floor(
-          (window.innerWidth * window.innerHeight) / 15000
-        ); // Adjust density
+        // Reduced particle count for mobile devices
+        const isMobile = window.innerWidth <= 768;
+        const particleCount = isMobile 
+          ? Math.floor((window.innerWidth * window.innerHeight) / 50000) 
+          : Math.floor((window.innerWidth * window.innerHeight) / 15000);
 
         for (let i = 0; i < particleCount; i++) {
           createBackgroundParticle();
@@ -297,7 +328,10 @@
       }
 
       function createBackgroundParticle() {
-        const size = 2 + Math.random() * 8;
+        const isMobile = window.innerWidth <= 768;
+        const size = isMobile 
+          ? 1 + Math.random() * 3 // Smaller particles on mobile
+          : 2 + Math.random() * 8;
         const x = Math.random() * window.innerWidth;
         const y = Math.random() * window.innerHeight;
 
