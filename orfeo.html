@@ -295,7 +295,7 @@
         }
       }
 
-      // Create ambient background sound with continuous evolving drone/gamma wave
+      // Create ambient background sound with continuous evolving drone/gamma wave and binaural beats
       function createAmbientSound() {
         if (!audioContext) return;
 
@@ -303,6 +303,40 @@
         const masterGain = audioContext.createGain();
         masterGain.gain.value = 0.005; // Further reduced overall volume
         masterGain.connect(audioContext.destination);
+        
+        // Create binaural beats (base frequency with slight difference between ears)
+        const baseFreq = 40 + Math.random() * 20;
+        const beatFreq = 0.5 + Math.random() * 10; // Beat frequency (0.5-10.5 Hz)
+        
+        // Left ear oscillator
+        const leftOsc = audioContext.createOscillator();
+        leftOsc.type = "sine";
+        leftOsc.frequency.value = baseFreq;
+        
+        // Right ear oscillator with slightly different frequency
+        const rightOsc = audioContext.createOscillator();
+        rightOsc.type = "sine";
+        rightOsc.frequency.value = baseFreq + beatFreq;
+        
+        // Panner nodes for stereo effect
+        const leftPanner = audioContext.createStereoPanner();
+        leftPanner.pan.value = -0.5;
+        const rightPanner = audioContext.createStereoPanner();
+        rightPanner.pan.value = 0.5;
+        
+        // Connect binaural beat oscillators
+        const beatGain = audioContext.createGain();
+        beatGain.gain.value = 0.002; // Very subtle volume
+        
+        leftOsc.connect(leftPanner);
+        rightOsc.connect(rightPanner);
+        leftPanner.connect(beatGain);
+        rightPanner.connect(beatGain);
+        beatGain.connect(masterGain);
+        
+        // Start oscillators
+        leftOsc.start();
+        rightOsc.start();
 
         // Create a compressor for subtle dynamic control
         const compressor = audioContext.createDynamicsCompressor();
