@@ -655,27 +655,32 @@
       const desktopAudioBanner = document.querySelector(
         ".desktop-audio-banner"
       );
-      if (desktopAudioBanner) {
-        // Show banner if audio context is suspended or not initialized
-        if (!audioContext || audioContext.state === "suspended") {
-          desktopAudioBanner.classList.add("show");
-        }
 
-        // Handle banner click
-        desktopAudioBanner.addEventListener("click", () => {
-          if (!audioContext) {
-            tryInitAudio();
-          } else if (audioContext.state === "suspended") {
-            audioContext.resume();
-          }
-          desktopAudioBanner.classList.remove("show");
-          setTimeout(() => {
-            if (desktopAudioBanner.parentNode) {
-              desktopAudioBanner.remove();
+      function showAudioBanner() {
+        // Only show banner if audio context is suspended or not initialized
+        if (
+          !audioContext ||
+          (audioContext && audioContext.state === "suspended")
+        ) {
+          desktopAudioBanner.classList.add("show");
+
+          // Add click handler to entire document
+          const dismissBanner = () => {
+            if (!audioContext) {
+              tryInitAudio();
+            } else if (audioContext.state === "suspended") {
+              audioContext.resume();
             }
-          }, 300);
-        });
+            desktopAudioBanner.classList.remove("show");
+            document.removeEventListener("click", dismissBanner);
+          };
+
+          document.addEventListener("click", dismissBanner);
+        }
       }
+
+      // Show banner initially if needed
+      showAudioBanner();
 
       // Initialize audio context on page load with fallback to user interaction
       function tryInitAudio() {
