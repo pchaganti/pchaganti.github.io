@@ -161,7 +161,17 @@
           backface-visibility: hidden;
         }
 
-        .particle,
+        .particle {
+          width: 2px !important;
+          height: 2px !important;
+          opacity: 0.4 !important;
+          box-shadow: 0 0 2px var(--particle-color, rgba(255, 255, 255, 0.5)) !important;
+          transform: translateZ(0) !important;
+          -webkit-transform: translateZ(0) !important;
+          backface-visibility: hidden !important;
+          -webkit-backface-visibility: hidden !important;
+        }
+        
         .ripple {
           display: none !important;
         }
@@ -197,6 +207,10 @@
         background: rgba(255, 255, 255, 0.03);
         pointer-events: none;
         z-index: -1;
+        transform: translateZ(0);
+        -webkit-transform: translateZ(0);
+        backface-visibility: hidden;
+        -webkit-backface-visibility: hidden;
       }
       .circle {
         position: absolute;
@@ -218,9 +232,13 @@
         pointer-events: none;
         z-index: 5;
         background: var(--particle-color, white);
-        box-shadow: 0 0 8px var(--particle-color, white);
-        opacity: 0.5;
+        box-shadow: 0 0 4px var(--particle-color, white);
+        opacity: 0.6;
         will-change: transform, opacity;
+        transform: translateZ(0);
+        -webkit-transform: translateZ(0);
+        backface-visibility: hidden;
+        -webkit-backface-visibility: hidden;
       }
 
       /* Ripple effect when circles appear */
@@ -660,10 +678,17 @@
       }
 
       function createBackgroundParticle() {
+        // Detect if we're on iPad/iOS
+        const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
         const isMobile = window.innerWidth <= 768;
-        const size = isMobile
-          ? 1 + Math.random() * 3 // Smaller particles on mobile
-          : 2 + Math.random() * 8;
+        
+        // Even smaller particles for iPad to prevent blob appearance
+        const size = isIOS 
+          ? 1 + Math.random() * 2 // Tiny particles on iPad
+          : isMobile
+            ? 1 + Math.random() * 3 // Small particles on other mobile
+            : 2 + Math.random() * 8; // Regular size for desktop
+            
         const x = Math.random() * window.innerWidth;
         const y = Math.random() * window.innerHeight;
 
@@ -674,11 +699,14 @@
         particle.style.left = `${x}px`;
         particle.style.top = `${y}px`;
 
-        // Set random float animation parameters
-        const xFloat = Math.random() * 40 - 20;
-        const yFloat = Math.random() * 40 - 20;
+        // Reduced movement range for iPad/mobile
+        const moveRange = isIOS ? 15 : (isMobile ? 25 : 40);
+        const xFloat = Math.random() * moveRange - (moveRange/2);
+        const yFloat = Math.random() * moveRange - (moveRange/2);
         const rotation = Math.random() * 360;
-        const duration = 15 + Math.random() * 30;
+        
+        // Shorter animation duration for iPad
+        const duration = isIOS ? 15 + Math.random() * 15 : 15 + Math.random() * 30;
 
         particle.style.setProperty("--x-float", `${xFloat}px`);
         particle.style.setProperty("--y-float", `${-Math.abs(yFloat)}px`); // Always float up first
@@ -690,6 +718,18 @@
         particle.style.setProperty("--rotation2", `${rotation * 2}deg`);
         particle.style.setProperty("--rotation3", `${rotation * 3}deg`);
 
+        // Apply hardware acceleration for smoother rendering
+        particle.style.transform = 'translateZ(0)';
+        particle.style.webkitTransform = 'translateZ(0)';
+        particle.style.backfaceVisibility = 'hidden';
+        particle.style.webkitBackfaceVisibility = 'hidden';
+        
+        // Adjust opacity for iPad to make particles more subtle
+        if (isIOS) {
+          particle.style.opacity = '0.15';
+          particle.style.background = 'rgba(255, 255, 255, 0.05)';
+        }
+        
         particle.style.animation = `float-particle ${duration}s ease-in-out infinite`;
 
         document.body.appendChild(particle);
@@ -1172,72 +1212,124 @@
 
       // Create ripple effect when circles appear
       function createRippleEffect(x, y, size, color) {
+        // Detect if we're on iPad/iOS
+        const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+        const isMobile = window.innerWidth <= 768;
+        
+        // Skip ripple effect on iOS/mobile devices if it's disabled in CSS
+        if ((isIOS || isMobile) && window.getComputedStyle(document.querySelector('.ripple') || document.createElement('div')).display === 'none') {
+          return; // Don't create ripples on iOS/mobile if they're disabled
+        }
+        
         const ripple = document.createElement("div");
         ripple.className = "ripple";
-        ripple.style.width = `${size * 1.5}px`;
-        ripple.style.height = `${size * 1.5}px`;
-        ripple.style.left = `${x - size * 0.75}px`;
-        ripple.style.top = `${y - size * 0.75}px`;
-        ripple.style.setProperty("--circle-color", color);
+        
+        // Adjust size for mobile
+        const rippleSize = isIOS || isMobile ? size * 1.2 : size * 1.5;
+        ripple.style.width = `${rippleSize}px`;
+        ripple.style.height = `${rippleSize}px`;
+        ripple.style.left = `${x - rippleSize/2}px`;
+        ripple.style.top = `${y - rippleSize/2}px`;
+        
+        // Adjust opacity and border for iOS
+        if (isIOS || isMobile) {
+          ripple.style.opacity = "0.3";
+          ripple.style.border = "1px solid " + color;
+        } else {
+          ripple.style.setProperty("--circle-color", color);
+        }
+        
+        // Apply hardware acceleration
+        ripple.style.transform = 'translateZ(0)';
+        ripple.style.webkitTransform = 'translateZ(0)';
+        ripple.style.backfaceVisibility = 'hidden';
+        ripple.style.webkitBackfaceVisibility = 'hidden';
 
         document.body.appendChild(ripple);
 
-        // Remove ripple after animation completes
+        // Remove ripple after animation completes (shorter duration on iOS)
         setTimeout(() => {
           if (ripple.parentNode) {
             document.body.removeChild(ripple);
           }
-        }, 2000);
+        }, isIOS || isMobile ? 1500 : 2000);
       }
 
       // Create particle trail effect
       function createParticleTrail(x, y, size, color) {
-        const particleCount = Math.floor(size / 10); // More particles for larger circles
+        // Detect if we're on iPad/iOS
+        const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+        const isMobile = window.innerWidth <= 768;
+        
+        // Adjust particle count and size for different devices
+        let particleCount = Math.floor(size / 10); // Default for desktop
+        
+        // Reduce particle count and size for mobile/iPad
+        if (isIOS || isMobile) {
+          particleCount = Math.min(particleCount, 8); // Fewer particles on iOS
+        }
 
         for (let i = 0; i < particleCount; i++) {
           setTimeout(() => {
             const particle = document.createElement("div");
             particle.className = "particle";
 
-            // Random particle size
-            const particleSize = 2 + Math.random() * 6;
+            // Smaller, more consistent particle size for iPad/mobile
+            let particleSize;
+            if (isIOS || isMobile) {
+              particleSize = 1 + Math.random() * 2; // Much smaller for iOS
+            } else {
+              particleSize = 2 + Math.random() * 5; // Regular size for desktop
+            }
+            
             particle.style.width = `${particleSize}px`;
             particle.style.height = `${particleSize}px`;
 
-            // Position around the circle
+            // Position around the circle with more controlled randomness
             const angle = Math.random() * Math.PI * 2;
-            const distance = (size / 2) * Math.random();
+            const distance = (size / 2) * (0.3 + Math.random() * 0.7); // More consistent distance
             const particleX = x + Math.cos(angle) * distance;
             const particleY = y + Math.sin(angle) * distance;
 
             particle.style.left = `${particleX}px`;
             particle.style.top = `${particleY}px`;
 
-            // Use a slightly lighter version of the circle color
+            // Use a slightly lighter version of the circle color with reduced opacity for iOS
             const hsl = color.match(/\d+/g);
             if (hsl && hsl.length >= 3) {
               const h = parseInt(hsl[0]);
               const s = parseInt(hsl[1]);
               const l = Math.min(parseInt(hsl[2]) + 20, 90); // Lighter
+              
+              // Lower opacity for iOS
+              const opacity = isIOS || isMobile ? 0.4 : 0.6;
+              
               particle.style.setProperty(
                 "--particle-color",
-                `hsl(${h}, ${s}%, ${l}%)`
+                `hsla(${h}, ${s}%, ${l}%, ${opacity})`
               );
             }
 
-            // Random movement
-            const xMove = (Math.random() - 0.5) * 50;
-            const yMove = (Math.random() - 0.5) * 50;
-            const duration = 1 + Math.random() * 2;
+            // More controlled movement for iOS
+            const maxMove = isIOS || isMobile ? 20 : 50;
+            const xMove = (Math.random() - 0.5) * maxMove;
+            const yMove = (Math.random() - 0.5) * maxMove;
+            const duration = isIOS || isMobile ? 0.8 + Math.random() * 1 : 1 + Math.random() * 2;
 
-            particle.style.transition = `all ${duration}s ease-out`;
+            // Use transform for better performance
+            particle.style.transition = `transform ${duration}s ease-out, opacity ${duration}s ease-out`;
+            
+            // Apply hardware acceleration
+            particle.style.transform = 'translateZ(0)';
+            particle.style.webkitTransform = 'translateZ(0)';
+            
             document.body.appendChild(particle);
 
             // Animate particle movement
-            setTimeout(() => {
-              particle.style.transform = `translate(${xMove}px, ${yMove}px)`;
+            requestAnimationFrame(() => {
+              particle.style.transform = `translate3d(${xMove}px, ${yMove}px, 0)`;
               particle.style.opacity = "0";
-            }, 10);
+            });
 
             // Remove particle after animation
             setTimeout(() => {
@@ -1245,7 +1337,7 @@
                 document.body.removeChild(particle);
               }
             }, duration * 1000);
-          }, i * 50); // Stagger particle creation
+          }, i * (isIOS || isMobile ? 30 : 50)); // Faster creation on iOS
         }
       }
 
