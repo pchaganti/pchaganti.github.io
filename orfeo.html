@@ -457,6 +457,7 @@
       let audioContext;
       let ambientSound;
       let handpanSounds = [];
+      let windChimeSounds = [];
       let backgroundParticles = [];
       let audioInitialized = false;
       let isIOS =
@@ -590,6 +591,62 @@
         });
       }
       
+      // Initialize wind chime sounds
+      function initWindChimes() {
+        // Create wind chime notes with pentatonic scale frequencies
+        const chimeNotes = [523.25, 587.33, 659.25, 783.99, 880.00]; // C5, D5, E5, G5, A5
+        
+        chimeNotes.forEach((freq, index) => {
+          const oscillator = audioContext.createOscillator();
+          const gainNode = audioContext.createGain();
+          
+          oscillator.type = 'sine';
+          oscillator.frequency.value = freq;
+          gainNode.gain.value = 0;
+          
+          // Add slight detuning for more natural sound
+          oscillator.detune.value = Math.random() * 10 - 5;
+          
+          oscillator.connect(gainNode);
+          gainNode.connect(audioContext.destination);
+          
+          oscillator.start();
+          windChimeSounds.push({
+            oscillator,
+            gainNode,
+            freq,
+            lastPlayed: 0
+          });
+        });
+      }
+      
+      // Play random wind chime note
+      function playWindChime() {
+        if (!windChimeSounds.length) return;
+        
+        const now = audioContext.currentTime;
+        const minDelay = 3; // Minimum seconds between chimes
+        
+        // Filter sounds that haven't played recently
+        const availableChimes = windChimeSounds.filter(
+          chime => now - chime.lastPlayed > minDelay
+        );
+        
+        if (availableChimes.length) {
+          const chime = availableChimes[
+            Math.floor(Math.random() * availableChimes.length)
+          ];
+          
+          chime.gainNode.gain.cancelScheduledValues(now);
+          chime.gainNode.gain.setValueAtTime(0, now);
+          // Longer attack and decay for wind chime effect
+          chime.gainNode.gain.linearRampToValueAtTime(0.15, now + 0.5);
+          chime.gainNode.gain.exponentialRampToValueAtTime(0.001, now + 4);
+          
+          chime.lastPlayed = now;
+        }
+      }
+      
       // Play random handpan note
       function playHandpanNote() {
         if (!handpanSounds.length) return;
@@ -618,6 +675,9 @@
       
       // Play handpan notes periodically
       setInterval(playHandpanNote, 2000);
+      
+      // Play wind chimes periodically with longer interval
+      setInterval(playWindChime, 4000);
 
       // Show mobile recommendation banner
       if (window.innerWidth < 768) {
@@ -655,6 +715,9 @@
         
         // Initialize handpan sounds
         initHandpanSounds();
+        
+        // Initialize wind chime sounds
+        initWindChimes();
 
         // Special iOS audio unlocking sequence
         function unlockAudioForIOS() {
