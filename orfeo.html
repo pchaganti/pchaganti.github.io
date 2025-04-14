@@ -24,11 +24,28 @@
     />
 
     <style>
+      :root {
+        --bg-color: #eeeeee;
+        --text-color: #333333;
+        --container-bg: #eaeaea;
+        --notification-bg: rgba(0, 0, 0, 0.85);
+        --notification-text: white;
+      }
+
+      [data-theme="dark"] {
+        --bg-color: #121212;
+        --text-color: #ffffff;
+        --container-bg: #1e1e1e;
+        --notification-bg: rgba(255, 255, 255, 0.1);
+        --notification-text: #ffffff;
+      }
+
       body {
         margin: 0;
         padding: 0;
         overflow: hidden;
-        background-color: #eeeeee;
+        background-color: var(--bg-color);
+        color: var(--text-color);
         width: 100vw;
         height: 100vh;
         /* background: radial-gradient(circle at center, #1a1a2e 0%, #0f0f1a 100%); */
@@ -43,6 +60,41 @@
         -webkit-touch-callout: none;
         -webkit-user-select: none;
         user-select: none;
+      }
+
+      /* Theme toggle styles */
+      .theme-toggle {
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        z-index: 1001;
+        background: none;
+        border: none;
+        cursor: pointer;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: var(--text-color);
+        background-color: var(--container-bg);
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        transition: all 0.3s ease;
+      }
+
+      .theme-toggle:hover {
+        transform: scale(1.1);
+      }
+
+      .theme-toggle svg {
+        width: 24px;
+        height: 24px;
+        transition: transform 0.3s ease;
+      }
+
+      .theme-toggle:hover svg {
+        transform: rotate(15deg);
       }
 
       /* Audio notification banner */
@@ -70,6 +122,13 @@
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add subtle shadow */
         backdrop-filter: blur(5px); /* Add blur effect for modern look */
         -webkit-backdrop-filter: blur(5px); /* Safari support */
+        -moz-backdrop-filter: blur(5px); /* Firefox support */
+        -ms-backdrop-filter: blur(5px); /* Edge support */
+        backdrop-filter: blur(5px); /* Standard property */
+        -moz-backdrop-filter: blur(5px); /* Firefox support */
+        -ms-backdrop-filter: blur(5px); /* Edge support */
+        -o-backdrop-filter: blur(5px); /* Opera support */
+        will-change: opacity, transform; /* Performance hint */
       }
 
       /* Mobile device recommendation banner */
@@ -78,8 +137,8 @@
         top: 20px;
         left: 50%;
         transform: translateX(-50%);
-        background-color: rgba(0, 0, 0, 0.85);
-        color: white;
+        background-color: var(--notification-bg);
+        color: var(--notification-text);
         padding: 16px 24px;
         border-radius: 8px;
         font-size: 14px;
@@ -111,7 +170,7 @@
       /* --- Container --- */
       .container {
         padding: 5px 20px; /* Adjusted padding for mobile */
-        background-color: #eaeaea;
+        background-color: var(--container-bg);
         box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
         position: relative;
         z-index: 2;
@@ -119,7 +178,7 @@
 
       h1 {
         text-align: left; /* ADD this */
-        color: #333;
+        color: var(--text-color);
         font-weight: 500; /* Slightly bolder main title */
         font-size: 1.8em;
         line-height: 1.3; /* Adjust line height if needed */
@@ -440,6 +499,38 @@
   </head>
   <body>
     <div class="container">
+      <button class="theme-toggle" aria-label="Toggle dark mode">
+        <svg
+          class="sun-and-moon"
+          aria-hidden="true"
+          width="24"
+          height="24"
+          viewBox="0 0 24 24"
+        >
+          <mask class="moon" id="moon-mask">
+            <rect x="0" y="0" width="100%" height="100%" fill="white" />
+            <circle cx="24" cy="10" r="6" fill="black" />
+          </mask>
+          <circle
+            class="sun"
+            cx="12"
+            cy="12"
+            r="6"
+            mask="url(#moon-mask)"
+            fill="currentColor"
+          />
+          <g class="sun-beams" stroke="currentColor">
+            <line x1="12" y1="1" x2="12" y2="3" />
+            <line x1="12" y1="21" x2="12" y2="23" />
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" />
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" />
+            <line x1="1" y1="12" x2="3" y2="12" />
+            <line x1="21" y1="12" x2="23" y2="12" />
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" />
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" />
+          </g>
+        </svg>
+      </button>
       <h1 style="font-family: Raleway">
         <a
           href="https://prabhakar.chaganti.net"
@@ -453,6 +544,64 @@
       </h1>
     </div>
     <script>
+      // Theme toggle functionality
+      const themeToggle = document.querySelector(".theme-toggle");
+      const prefersDarkScheme = window.matchMedia(
+        "(prefers-color-scheme: dark)"
+      );
+
+      // Check for saved theme preference, otherwise use system preference
+      const currentTheme = localStorage.getItem("theme");
+      if (currentTheme === "dark") {
+        document.documentElement.setAttribute("data-theme", "dark");
+        updateThemeIcon(true);
+      } else if (currentTheme === "light") {
+        document.documentElement.setAttribute("data-theme", "light");
+        updateThemeIcon(false);
+      } else {
+        // Use system preference if no saved preference
+        if (prefersDarkScheme.matches) {
+          document.documentElement.setAttribute("data-theme", "dark");
+          updateThemeIcon(true);
+        }
+      }
+
+      // Handle theme toggle click
+      themeToggle.addEventListener("click", function () {
+        let theme = "light";
+        if (
+          !document.documentElement.hasAttribute("data-theme") ||
+          document.documentElement.getAttribute("data-theme") === "light"
+        ) {
+          document.documentElement.setAttribute("data-theme", "dark");
+          theme = "dark";
+        } else {
+          document.documentElement.removeAttribute("data-theme");
+        }
+        localStorage.setItem("theme", theme);
+        updateThemeIcon(theme === "dark");
+      });
+
+      // Update the theme toggle icon
+      function updateThemeIcon(isDark) {
+        const icon = themeToggle.querySelector(".sun-and-moon");
+        icon.style.transform = isDark ? "rotate(360deg)" : "rotate(0deg)";
+      }
+
+      // Listen for system theme changes
+      prefersDarkScheme.addEventListener("change", function (e) {
+        if (!localStorage.getItem("theme")) {
+          // Only update if user hasn't manually set a preference
+          if (e.matches) {
+            document.documentElement.setAttribute("data-theme", "dark");
+            updateThemeIcon(true);
+          } else {
+            document.documentElement.removeAttribute("data-theme");
+            updateThemeIcon(false);
+          }
+        }
+      });
+
       // Audio context for sound generation
       let audioContext;
       let ambientSound;
@@ -520,6 +669,8 @@
           "touchend",
           "click",
           "mousedown",
+          "pointerdown",
+          "keydown", // Add keyboard support for accessibility
         ];
 
         function userInteractionHandler(event) {
@@ -553,10 +704,11 @@
           }
         }
 
-        // Register all interaction events
+        // Register all interaction events with passive:false for better compatibility
         interactionEvents.forEach((eventType) => {
           document.body.addEventListener(eventType, userInteractionHandler, {
             once: true,
+            passive: false,
           });
         });
 
