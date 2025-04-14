@@ -458,6 +458,7 @@
       let ambientSound;
       let handpanSounds = [];
       let windChimeSounds = [];
+      let pianoSounds = [];
       let backgroundParticles = [];
       let audioInitialized = false;
       let isIOS =
@@ -620,6 +621,62 @@
         });
       }
       
+      // Initialize piano sounds
+      function initPianoSounds() {
+        // Create piano notes with lower frequencies for softer sound
+        const pianoNotes = [130.81, 174.61, 220.00, 261.63, 329.63]; // C3, F3, A3, C4, E4
+        
+        pianoNotes.forEach((freq, index) => {
+          const oscillator = audioContext.createOscillator();
+          const gainNode = audioContext.createGain();
+          
+          oscillator.type = 'triangle'; // Softer than sine wave
+          oscillator.frequency.value = freq;
+          gainNode.gain.value = 0;
+          
+          // Add slight detuning for more natural sound
+          oscillator.detune.value = Math.random() * 5 - 2.5;
+          
+          oscillator.connect(gainNode);
+          gainNode.connect(audioContext.destination);
+          
+          oscillator.start();
+          pianoSounds.push({
+            oscillator,
+            gainNode,
+            freq,
+            lastPlayed: 0
+          });
+        });
+      }
+      
+      // Play random piano note
+      function playPianoNote() {
+        if (!pianoSounds.length) return;
+        
+        const now = audioContext.currentTime;
+        const minDelay = 5; // Minimum seconds between notes
+        
+        // Filter sounds that haven't played recently
+        const availableSounds = pianoSounds.filter(
+          sound => now - sound.lastPlayed > minDelay
+        );
+        
+        if (availableSounds.length) {
+          const sound = availableSounds[
+            Math.floor(Math.random() * availableSounds.length)
+          ];
+          
+          sound.gainNode.gain.cancelScheduledValues(now);
+          sound.gainNode.gain.setValueAtTime(0, now);
+          // Gentle attack and decay for soft piano effect
+          sound.gainNode.gain.linearRampToValueAtTime(0.05, now + 1.5);
+          sound.gainNode.gain.exponentialRampToValueAtTime(0.001, now + 4);
+          
+          sound.lastPlayed = now;
+        }
+      }
+      
       // Play random wind chime note
       function playWindChime() {
         if (!windChimeSounds.length) return;
@@ -678,6 +735,9 @@
       
       // Play wind chimes periodically with longer interval
       setInterval(playWindChime, 4000);
+      
+      // Play piano notes periodically with the longest interval for subtle effect
+      setInterval(playPianoNote, 8000);
 
       // Show mobile recommendation banner
       if (window.innerWidth < 768) {
@@ -718,6 +778,9 @@
         
         // Initialize wind chime sounds
         initWindChimes();
+        
+        // Initialize piano sounds
+        initPianoSounds();
 
         // Special iOS audio unlocking sequence
         function unlockAudioForIOS() {
@@ -1596,17 +1659,17 @@
             himalayanHarmonic1.type = "sine";
             himalayanHarmonic1.frequency.value =
               specialOsc.frequency.value * 2.76; // Specific harmonic ratio
-            himalayanHarmonic1Gain.gain.value = 0.17;
+            himalayanHarmonic1Gain.gain.value = 0.08; // Reduced from 0.17
 
             himalayanHarmonic2.type = "sine";
             himalayanHarmonic2.frequency.value =
               specialOsc.frequency.value * 4.95; // Specific harmonic ratio
-            himalayanHarmonic2Gain.gain.value = 0.08;
+            himalayanHarmonic2Gain.gain.value = 0.04; // Reduced from 0.08
 
             himalayanHarmonic3.type = "sine";
             himalayanHarmonic3.frequency.value =
               specialOsc.frequency.value * 1.38; // Lower harmonic for depth
-            himalayanHarmonic3Gain.gain.value = 0.12;
+            himalayanHarmonic3Gain.gain.value = 0.06; // Reduced from 0.12
 
             // Connect harmonics
             himalayanHarmonic1.connect(himalayanHarmonic1Gain);
@@ -1621,8 +1684,8 @@
             himalayanHarmonic2.start();
             himalayanHarmonic3.start();
 
-            // Schedule stop with longer decay for Himalayan bowls
-            const himalayanStopTime = audioContext.currentTime + 10; // Longer sustain
+            // Schedule stop with moderate decay for Himalayan bowls
+            const himalayanStopTime = audioContext.currentTime + 6; // Reduced from 10 seconds
             himalayanHarmonic1.stop(himalayanStopTime);
             himalayanHarmonic2.stop(himalayanStopTime);
             himalayanHarmonic3.stop(himalayanStopTime);
@@ -1630,7 +1693,7 @@
             // Configure filter for the unique resonant quality of Himalayan bowls
             specialFilter.type = "bandpass";
             specialFilter.frequency.value = 180;
-            specialFilter.Q.value = 18; // Higher Q for the distinctive resonance
+            specialFilter.Q.value = 10; // Reduced from 18 for less resonance
 
             // Configure amplitude envelope with the characteristic slow attack and long decay
             specialGain.gain.value = 0.01; // Start quiet
@@ -1753,11 +1816,11 @@
             // Set harmonic frequencies based on spectral analysis of real Tibetan bowls
             tibetanHarmonic1.type = "sine";
             tibetanHarmonic1.frequency.value = specialOsc.frequency.value * 2.3;
-            tibetanHarmonic1Gain.gain.value = 0.15;
+            tibetanHarmonic1Gain.gain.value = 0.07; // Reduced from 0.15
 
             tibetanHarmonic2.type = "sine";
             tibetanHarmonic2.frequency.value = specialOsc.frequency.value * 3.4;
-            tibetanHarmonic2Gain.gain.value = 0.1;
+            tibetanHarmonic2Gain.gain.value = 0.05; // Reduced from 0.1
 
             // Connect harmonics
             tibetanHarmonic1.connect(tibetanHarmonic1Gain);
@@ -1770,21 +1833,21 @@
             tibetanHarmonic2.start();
 
             // Schedule stop
-            const stopTime = audioContext.currentTime + 8;
+            const stopTime = audioContext.currentTime + 5; // Reduced from 8 seconds
             tibetanHarmonic1.stop(stopTime);
             tibetanHarmonic2.stop(stopTime);
 
             // Configure filter for resonant Tibetan bowl sound
             specialFilter.type = "bandpass";
             specialFilter.frequency.value = 150;
-            specialFilter.Q.value = 15; // Higher Q for more resonance
+            specialFilter.Q.value = 8; // Reduced from 15 for less resonance
 
             // Configure amplitude envelope
-            specialGain.gain.value = 0.3;
-            specialGain.gain.setValueAtTime(0.3, audioContext.currentTime);
+            specialGain.gain.value = 0.15; // Reduced from 0.3
+            specialGain.gain.setValueAtTime(0.15, audioContext.currentTime);
             specialGain.gain.exponentialRampToValueAtTime(
               0.001,
-              audioContext.currentTime + 8 // Longer decay
+              audioContext.currentTime + 5 // Reduced from 8 seconds
             );
             break;
 
@@ -2303,20 +2366,20 @@
               Math.floor(Math.random() * 3)
             ];
 
-            // Very long decay for authentic Tibetan bowls
-            attackTime = 0.1 + Math.random() * 0.3;
-            decayTime = 0.8 + Math.random() * 1.2;
-            sustainLevel = 0.25 + Math.random() * 0.2;
-            releaseTime = 6.0 + Math.random() * 8.0; // Extra long release
+            // Moderate decay for authentic Tibetan bowls
+            attackTime = 0.1 + Math.random() * 0.2;
+            decayTime = 0.6 + Math.random() * 0.8; // Reduced from 0.8-2.0
+            sustainLevel = 0.15 + Math.random() * 0.15; // Reduced from 0.25-0.45
+            releaseTime = 3.0 + Math.random() * 4.0; // Reduced from 6.0-14.0
 
-            // Slow beating modulation characteristic of Tibetan bowls
+            // Gentle beating modulation characteristic of Tibetan bowls
             modulatorOsc.type = "sine";
-            modulatorOsc.frequency.value = 1 + Math.random() * 1.5; // Slower modulation (1-2.5Hz)
-            modulatorGain.gain.value = 0.15 + Math.random() * 0.2; // Subtle modulation
+            modulatorOsc.frequency.value = 1.2 + Math.random() * 1.5; // Slightly faster modulation
+            modulatorGain.gain.value = 0.08 + Math.random() * 0.12; // Reduced from 0.15-0.35
 
-            // Strong subharmonic for deep resonance
+            // Reduced subharmonic for gentler resonance
             subharmonicOsc.frequency.value = baseFrequency * 0.5;
-            subharmonicGain.gain.value = 0.12 + Math.random() * 0.08; // Stronger subharmonic
+            subharmonicGain.gain.value = 0.06 + Math.random() * 0.04; // Reduced from 0.12-0.20
             break;
 
           case "church_bell":
