@@ -395,48 +395,91 @@
       let audioContext;
       let ambientSound;
       let backgroundParticles = [];
+      let audioInitialized = false;
+      let isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+      let audioUnlocked = false; // Track if audio has been unlocked on iOS
 
       // Initialize audio context on page load with fallback to user interaction
       function tryInitAudio() {
         try {
-          // Create a silent audio buffer to unlock audio context
-          const buffer = audioContext.createBuffer(1, 1, 22050);
-          const source = audioContext.createBufferSource();
-          source.buffer = buffer;
-          source.connect(audioContext.destination);
-          source.start(0);
+          // Create audio context first
+          audioContext = new (window.AudioContext || window.webkitAudioContext)();
+          
+          // For iOS, we need to defer actual audio initialization until user interaction
+          if (isIOS) {
+            // Don't try to play audio immediately on iOS - it won't work
+            // Instead, show the notification and wait for user interaction
+            showIOSAudioNotification();
+            return false;
+          } else {
+            // For non-iOS, try the normal approach
+            // Create a silent audio buffer to unlock audio context
+            const buffer = audioContext.createBuffer(1, 1, 22050);
+            const source = audioContext.createBufferSource();
+            source.buffer = buffer;
+            source.connect(audioContext.destination);
+            source.start(0);
 
-          // Start our actual audio
-          initAudio();
-          return true;
+            // Start our actual audio
+            initAudio();
+            return true;
+          }
         } catch (e) {
           // Show notification if autoplay is blocked
-          const notification = document.createElement("div");
-          notification.className = "audio-notification";
-          notification.textContent =
-            "Click anywhere to activate the orfeo audio experience";
-          document.body.appendChild(notification);
-
-          // Show notification after short delay
-          setTimeout(() => {
-            notification.classList.add("show");
-          }, 1000);
-
-          // Fallback to user interaction if autoplay is blocked
-          document.body.addEventListener(
-            "click",
-            function firstInteraction() {
-              notification.classList.remove("show");
-              setTimeout(() => {
-                document.body.removeChild(notification);
-              }, 300);
-              initAudio();
-              document.body.removeEventListener("click", firstInteraction);
-            },
-            { once: true }
-          );
+          showIOSAudioNotification();
           return false;
         }
+      }
+      
+      // Separate function to show audio notification
+      function showIOSAudioNotification() {
+        const notification = document.createElement("div");
+        notification.className = "audio-notification";
+        notification.textContent =
+          isIOS ? "Tap anywhere to activate the orfeo audio experience on your iOS device" : "Click anywhere to activate the orfeo audio experience";
+        document.body.appendChild(notification);
+
+        // Show notification after short delay
+        setTimeout(() => {
+          notification.classList.add("show");
+        }, 1000);
+
+          // Add multiple interaction listeners for iOS and other mobile devices
+          // We'll use both touchstart and click for maximum compatibility
+          const interactionEvents = ['touchstart', 'touchend', 'click', 'mousedown'];
+          
+          function userInteractionHandler(event) {
+            // Remove all event listeners first to prevent multiple triggers
+            interactionEvents.forEach(eventType => {
+              document.body.removeEventListener(eventType, userInteractionHandler);
+            });
+            
+            // Hide notification
+            const notifications = document.querySelectorAll('.audio-notification');
+            notifications.forEach(notification => {
+              notification.classList.remove("show");
+              setTimeout(() => {
+                if (notification.parentNode) {
+                  notification.parentNode.removeChild(notification);
+                }
+              }, 300);
+            });
+            
+            // Initialize audio
+            initAudio();
+            
+            // Prevent default behavior to avoid any potential issues
+            if (event) {
+              event.preventDefault();
+            }
+          }
+          
+          // Register all interaction events
+          interactionEvents.forEach(eventType => {
+            document.body.addEventListener(eventType, userInteractionHandler, { once: true });
+          });
+          
+          return false;
       }
 
       // Try to initialize audio immediately
@@ -444,7 +487,86 @@
       window.addEventListener("resize", updateBackgroundParticles);
 
       function initAudio() {
-        audioContext = new (window.AudioContext || window.webkitAudioContext)();
+        // Prevent multiple initializations
+        if (audioInitialized) return;
+        audioInitialized = true;
+        
+        // If audioContext wasn't created yet, create it now
+        if (!audioContext) {
+          audioContext = new (window.AudioContext || window.webkitAudioContext)();
+        }
+        
+        // Special iOS audio unlocking sequence
+        function unlockAudioForIOS() {
+          if (audioUnlocked) return;
+          
+          // iOS requires multiple techniques to reliably unlock audio
+          // 1. Create and play a silent buffer
+          const silentBuffer = audioContext.createBuffer(1, 1, 22050);
+          const source = audioContext.createBufferSource();
+          source.buffer = silentBuffer;
+          source.connect(audioContext.destination);
+          source.start(0);
+          
+          // 2. Create and play a short oscillator
+          const oscillator = audioContext.createOscillator();
+          const gainNode = audioContext.createGain();
+          gainNode.gain.value = 0.001; // Nearly silent
+          oscillator.connect(gainNode);
+          gainNode.connect(audioContext.destination);
+          oscillator.start(0);
+          oscillator.stop(0.001); // Very short duration
+          
+          // Mark audio as unlocked
+          audioUnlocked = true;
+          console.log('iOS audio unlock sequence completed');
+        }
+        
+        // Enhanced audio context handling for all devices
+        function resumeAudioContext(event) {
+          // For iOS, run the special unlock sequence first
+          if (isIOS) {
+            unlockAudioForIOS();
+          }
+          
+          if (audioContext.state === 'suspended') {
+            audioContext.resume().then(() => {
+              console.log('AudioContext resumed successfully');
+              // Start audio elements after resume
+              if (!ambientSound) {
+                createAmbientSound();
+              }
+              createRandomCircle();
+              
+              // Show success notification
+              showAudioNotification(isIOS ? "Audio activated on your iOS device" : "Audio activated successfully");
+            }).catch(err => {
+              console.error('AudioContext resume failed:', err);
+              // Show error notification with iOS-specific message if needed
+              showAudioNotification(isIOS ? 
+                "Audio couldn't be started. Please try tapping again." : 
+                "Audio couldn't be started. Please try again.");
+            });
+          } else {
+            // If context is already running but we haven't created ambient sound yet
+            if (!ambientSound) {
+              createAmbientSound();
+            }
+          }
+          
+          // Prevent default to avoid any potential issues
+          if (event) {
+            event.preventDefault();
+          }
+        }
+        
+        // Add multiple interaction listeners for maximum compatibility
+        // These are especially important for iOS
+        const interactionEvents = ['touchstart', 'touchend', 'click', 'mousedown'];
+        interactionEvents.forEach(eventType => {
+          document.body.addEventListener(eventType, resumeAudioContext, { passive: false });
+        });
+        
         // Start creating circles after audio is initialized
         createRandomCircle(); // Create first circle immediately
         setInterval(createRandomCircle, 800); // Create circles more frequently
@@ -581,10 +703,59 @@
         }
       }
 
+      // Helper function to show audio notifications
+      function showAudioNotification(message) {
+        const notification = document.createElement("div");
+        notification.className = "audio-notification";
+        notification.textContent = message;
+        document.body.appendChild(notification);
+
+        // Show notification after short delay
+        setTimeout(() => {
+          notification.classList.add("show");
+        }, 100);
+
+        // Remove after a few seconds
+        setTimeout(() => {
+          notification.classList.remove("show");
+          setTimeout(() => {
+            if (notification.parentNode) {
+              document.body.removeChild(notification);
+            }
+          }, 300);
+        }, 3000);
+      }
+      
       // Create ambient background sound with continuous evolving drone/gamma wave and binaural beats
       function createAmbientSound() {
-        if (!audioContext) return;
-
+        if (!audioContext) {
+          console.error('No audio context available');
+          return;
+        }
+        
+        // Safety check - if context is suspended, try to resume it
+        if (audioContext.state === 'suspended') {
+          // For iOS, we need to be more careful about resuming
+          if (isIOS) {
+            console.log('Audio context suspended on iOS, waiting for user interaction');
+            // We'll let the interaction handlers deal with this
+            return;
+          } else {
+            audioContext.resume().catch(err => {
+              console.error('Failed to resume audio context:', err);
+              return; // Exit if we can't resume
+            });
+          }
+        }
+        
+        // If we already created ambient sound, don't create it again
+        if (ambientSound) {
+          console.log('Ambient sound already created');
+          return;
+        }
+        
+        console.log('Creating ambient sound, audio context state:', audioContext.state);
+        
         // Create a master gain node for all ambient sounds
         const masterGain = audioContext.createGain();
         masterGain.gain.value = 0.005; // Further reduced overall volume
