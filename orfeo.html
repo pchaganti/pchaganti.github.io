@@ -3,7 +3,19 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Circles bloom and fade, Chimes whisper through soft light, Quiet settles deep."
+    />
+    <meta name="author" content="Prabhakar Chaganti" />
+    <meta name="keywords" content="Orfeo, Music, Audio, Visuals, Web" />
+    <meta property="og:title" content="Orfeo" />
+    <meta
+      property="og:description"
+      content="Circles bloom and fade, Chimes whisper through soft light, Quiet settles deep."
+    />
     <title>Orfeo</title>
+
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -59,7 +71,7 @@
         backdrop-filter: blur(5px); /* Add blur effect for modern look */
         -webkit-backdrop-filter: blur(5px); /* Safari support */
       }
-      
+
       /* Mobile device recommendation banner */
       .mobile-notification {
         position: fixed;
@@ -81,11 +93,11 @@
         backdrop-filter: blur(5px);
         -webkit-backdrop-filter: blur(5px);
       }
-      
+
       .mobile-notification.show {
         opacity: 1;
       }
-      
+
       @media (min-width: 768px) {
         .mobile-notification {
           display: none;
@@ -203,7 +215,7 @@
           backface-visibility: hidden !important;
           -webkit-backface-visibility: hidden !important;
         }
-        
+
         .ripple {
           display: none !important;
         }
@@ -550,20 +562,21 @@
       // Try to initialize audio immediately
       tryInitAudio();
       window.addEventListener("resize", updateBackgroundParticles);
-      
+
       // Show mobile recommendation banner
       if (window.innerWidth < 768) {
-        const mobileNotification = document.createElement('div');
-        mobileNotification.className = 'mobile-notification';
-        mobileNotification.textContent = 'For best experience, try this app on a tablet or larger device with better display and audio';
+        const mobileNotification = document.createElement("div");
+        mobileNotification.className = "mobile-notification";
+        mobileNotification.textContent =
+          "For best experience, try this app on a tablet or larger device with better display and audio";
         document.body.appendChild(mobileNotification);
-        
+
         setTimeout(() => {
-          mobileNotification.classList.add('show');
-          
+          mobileNotification.classList.add("show");
+
           // Auto-hide after 8 seconds
           setTimeout(() => {
-            mobileNotification.classList.remove('show');
+            mobileNotification.classList.remove("show");
             setTimeout(() => {
               if (mobileNotification.parentNode) {
                 mobileNotification.parentNode.removeChild(mobileNotification);
@@ -733,16 +746,17 @@
 
       function createBackgroundParticle() {
         // Detect if we're on iPad/iOS
-        const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+        const isIOS =
+          /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
         const isMobile = window.innerWidth <= 768;
-        
+
         // Even smaller particles for iPad to prevent blob appearance
-        const size = isIOS 
+        const size = isIOS
           ? 1 + Math.random() * 2 // Tiny particles on iPad
           : isMobile
-            ? 1 + Math.random() * 3 // Small particles on other mobile
-            : 2 + Math.random() * 8; // Regular size for desktop
-            
+          ? 1 + Math.random() * 3 // Small particles on other mobile
+          : 2 + Math.random() * 8; // Regular size for desktop
+
         const x = Math.random() * window.innerWidth;
         const y = Math.random() * window.innerHeight;
 
@@ -754,13 +768,15 @@
         particle.style.top = `${y}px`;
 
         // Reduced movement range for iPad/mobile
-        const moveRange = isIOS ? 15 : (isMobile ? 25 : 40);
-        const xFloat = Math.random() * moveRange - (moveRange/2);
-        const yFloat = Math.random() * moveRange - (moveRange/2);
+        const moveRange = isIOS ? 15 : isMobile ? 25 : 40;
+        const xFloat = Math.random() * moveRange - moveRange / 2;
+        const yFloat = Math.random() * moveRange - moveRange / 2;
         const rotation = Math.random() * 360;
-        
+
         // Shorter animation duration for iPad
-        const duration = isIOS ? 15 + Math.random() * 15 : 15 + Math.random() * 30;
+        const duration = isIOS
+          ? 15 + Math.random() * 15
+          : 15 + Math.random() * 30;
 
         particle.style.setProperty("--x-float", `${xFloat}px`);
         particle.style.setProperty("--y-float", `${-Math.abs(yFloat)}px`); // Always float up first
@@ -773,17 +789,17 @@
         particle.style.setProperty("--rotation3", `${rotation * 3}deg`);
 
         // Apply hardware acceleration for smoother rendering
-        particle.style.transform = 'translateZ(0)';
-        particle.style.webkitTransform = 'translateZ(0)';
-        particle.style.backfaceVisibility = 'hidden';
-        particle.style.webkitBackfaceVisibility = 'hidden';
-        
+        particle.style.transform = "translateZ(0)";
+        particle.style.webkitTransform = "translateZ(0)";
+        particle.style.backfaceVisibility = "hidden";
+        particle.style.webkitBackfaceVisibility = "hidden";
+
         // Adjust opacity for iPad to make particles more subtle
         if (isIOS) {
-          particle.style.opacity = '0.15';
-          particle.style.background = 'rgba(255, 255, 255, 0.05)';
+          particle.style.opacity = "0.15";
+          particle.style.background = "rgba(255, 255, 255, 0.05)";
         }
-        
+
         particle.style.animation = `float-particle ${duration}s ease-in-out infinite`;
 
         document.body.appendChild(particle);
@@ -1267,24 +1283,30 @@
       // Create ripple effect when circles appear
       function createRippleEffect(x, y, size, color) {
         // Detect if we're on iPad/iOS
-        const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+        const isIOS =
+          /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
         const isMobile = window.innerWidth <= 768;
-        
+
         // Skip ripple effect on iOS/mobile devices if it's disabled in CSS
-        if ((isIOS || isMobile) && window.getComputedStyle(document.querySelector('.ripple') || document.createElement('div')).display === 'none') {
+        if (
+          (isIOS || isMobile) &&
+          window.getComputedStyle(
+            document.querySelector(".ripple") || document.createElement("div")
+          ).display === "none"
+        ) {
           return; // Don't create ripples on iOS/mobile if they're disabled
         }
-        
+
         const ripple = document.createElement("div");
         ripple.className = "ripple";
-        
+
         // Adjust size for mobile
         const rippleSize = isIOS || isMobile ? size * 1.2 : size * 1.5;
         ripple.style.width = `${rippleSize}px`;
         ripple.style.height = `${rippleSize}px`;
-        ripple.style.left = `${x - rippleSize/2}px`;
-        ripple.style.top = `${y - rippleSize/2}px`;
-        
+        ripple.style.left = `${x - rippleSize / 2}px`;
+        ripple.style.top = `${y - rippleSize / 2}px`;
+
         // Adjust opacity and border for iOS
         if (isIOS || isMobile) {
           ripple.style.opacity = "0.3";
@@ -1292,32 +1314,36 @@
         } else {
           ripple.style.setProperty("--circle-color", color);
         }
-        
+
         // Apply hardware acceleration
-        ripple.style.transform = 'translateZ(0)';
-        ripple.style.webkitTransform = 'translateZ(0)';
-        ripple.style.backfaceVisibility = 'hidden';
-        ripple.style.webkitBackfaceVisibility = 'hidden';
+        ripple.style.transform = "translateZ(0)";
+        ripple.style.webkitTransform = "translateZ(0)";
+        ripple.style.backfaceVisibility = "hidden";
+        ripple.style.webkitBackfaceVisibility = "hidden";
 
         document.body.appendChild(ripple);
 
         // Remove ripple after animation completes (shorter duration on iOS)
-        setTimeout(() => {
-          if (ripple.parentNode) {
-            document.body.removeChild(ripple);
-          }
-        }, isIOS || isMobile ? 1500 : 2000);
+        setTimeout(
+          () => {
+            if (ripple.parentNode) {
+              document.body.removeChild(ripple);
+            }
+          },
+          isIOS || isMobile ? 1500 : 2000
+        );
       }
 
       // Create particle trail effect
       function createParticleTrail(x, y, size, color) {
         // Detect if we're on iPad/iOS
-        const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+        const isIOS =
+          /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
         const isMobile = window.innerWidth <= 768;
-        
+
         // Adjust particle count and size for different devices
         let particleCount = Math.floor(size / 10); // Default for desktop
-        
+
         // Reduce particle count and size for mobile/iPad
         if (isIOS || isMobile) {
           particleCount = Math.min(particleCount, 8); // Fewer particles on iOS
@@ -1335,7 +1361,7 @@
             } else {
               particleSize = 2 + Math.random() * 5; // Regular size for desktop
             }
-            
+
             particle.style.width = `${particleSize}px`;
             particle.style.height = `${particleSize}px`;
 
@@ -1354,10 +1380,10 @@
               const h = parseInt(hsl[0]);
               const s = parseInt(hsl[1]);
               const l = Math.min(parseInt(hsl[2]) + 20, 90); // Lighter
-              
+
               // Lower opacity for iOS
               const opacity = isIOS || isMobile ? 0.4 : 0.6;
-              
+
               particle.style.setProperty(
                 "--particle-color",
                 `hsla(${h}, ${s}%, ${l}%, ${opacity})`
@@ -1368,15 +1394,18 @@
             const maxMove = isIOS || isMobile ? 20 : 50;
             const xMove = (Math.random() - 0.5) * maxMove;
             const yMove = (Math.random() - 0.5) * maxMove;
-            const duration = isIOS || isMobile ? 0.8 + Math.random() * 1 : 1 + Math.random() * 2;
+            const duration =
+              isIOS || isMobile
+                ? 0.8 + Math.random() * 1
+                : 1 + Math.random() * 2;
 
             // Use transform for better performance
             particle.style.transition = `transform ${duration}s ease-out, opacity ${duration}s ease-out`;
-            
+
             // Apply hardware acceleration
-            particle.style.transform = 'translateZ(0)';
-            particle.style.webkitTransform = 'translateZ(0)';
-            
+            particle.style.transform = "translateZ(0)";
+            particle.style.webkitTransform = "translateZ(0)";
+
             document.body.appendChild(particle);
 
             // Animate particle movement
