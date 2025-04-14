@@ -565,177 +565,174 @@
       // Try to initialize audio immediately
       tryInitAudio();
       window.addEventListener("resize", updateBackgroundParticles);
-      
+
       // Initialize handpan sounds
       function initHandpanSounds() {
         // Create multiple handpan notes with different frequencies
         const notes = [220, 277.18, 329.63, 440, 523.25]; // A3, C#4, E4, A4, C5
-        
+
         notes.forEach((freq, index) => {
           const oscillator = audioContext.createOscillator();
           const gainNode = audioContext.createGain();
-          
-          oscillator.type = 'sine';
+
+          oscillator.type = "sine";
           oscillator.frequency.value = freq;
           gainNode.gain.value = 0;
-          
+
           oscillator.connect(gainNode);
           gainNode.connect(audioContext.destination);
-          
+
           oscillator.start();
           handpanSounds.push({
             oscillator,
             gainNode,
             freq,
-            lastPlayed: 0
+            lastPlayed: 0,
           });
         });
       }
-      
+
       // Initialize wind chime sounds
       function initWindChimes() {
         // Create wind chime notes with pentatonic scale frequencies
-        const chimeNotes = [523.25, 587.33, 659.25, 783.99, 880.00]; // C5, D5, E5, G5, A5
-        
+        const chimeNotes = [523.25, 587.33, 659.25, 783.99, 880.0]; // C5, D5, E5, G5, A5
+
         chimeNotes.forEach((freq, index) => {
           const oscillator = audioContext.createOscillator();
           const gainNode = audioContext.createGain();
-          
-          oscillator.type = 'sine';
+
+          oscillator.type = "sine";
           oscillator.frequency.value = freq;
           gainNode.gain.value = 0;
-          
+
           // Add slight detuning for more natural sound
           oscillator.detune.value = Math.random() * 10 - 5;
-          
+
           oscillator.connect(gainNode);
           gainNode.connect(audioContext.destination);
-          
+
           oscillator.start();
           windChimeSounds.push({
             oscillator,
             gainNode,
             freq,
-            lastPlayed: 0
+            lastPlayed: 0,
           });
         });
       }
-      
+
       // Initialize piano sounds
       function initPianoSounds() {
         // Create piano notes with lower frequencies for softer sound
-        const pianoNotes = [130.81, 174.61, 220.00, 261.63, 329.63]; // C3, F3, A3, C4, E4
-        
+        const pianoNotes = [130.81, 174.61, 220.0, 261.63, 329.63]; // C3, F3, A3, C4, E4
+
         pianoNotes.forEach((freq, index) => {
           const oscillator = audioContext.createOscillator();
           const gainNode = audioContext.createGain();
-          
-          oscillator.type = 'triangle'; // Softer than sine wave
+
+          oscillator.type = "triangle"; // Softer than sine wave
           oscillator.frequency.value = freq;
           gainNode.gain.value = 0;
-          
+
           // Add slight detuning for more natural sound
           oscillator.detune.value = Math.random() * 5 - 2.5;
-          
+
           oscillator.connect(gainNode);
           gainNode.connect(audioContext.destination);
-          
+
           oscillator.start();
           pianoSounds.push({
             oscillator,
             gainNode,
             freq,
-            lastPlayed: 0
+            lastPlayed: 0,
           });
         });
       }
-      
+
       // Play random piano note
       function playPianoNote() {
         if (!pianoSounds.length) return;
-        
+
         const now = audioContext.currentTime;
         const minDelay = 5; // Minimum seconds between notes
-        
+
         // Filter sounds that haven't played recently
         const availableSounds = pianoSounds.filter(
-          sound => now - sound.lastPlayed > minDelay
+          (sound) => now - sound.lastPlayed > minDelay
         );
-        
+
         if (availableSounds.length) {
-          const sound = availableSounds[
-            Math.floor(Math.random() * availableSounds.length)
-          ];
-          
+          const sound =
+            availableSounds[Math.floor(Math.random() * availableSounds.length)];
+
           sound.gainNode.gain.cancelScheduledValues(now);
           sound.gainNode.gain.setValueAtTime(0, now);
           // Gentle attack and decay for soft piano effect
           sound.gainNode.gain.linearRampToValueAtTime(0.05, now + 1.5);
           sound.gainNode.gain.exponentialRampToValueAtTime(0.001, now + 4);
-          
+
           sound.lastPlayed = now;
         }
       }
-      
+
       // Play random wind chime note
       function playWindChime() {
         if (!windChimeSounds.length) return;
-        
+
         const now = audioContext.currentTime;
         const minDelay = 3; // Minimum seconds between chimes
-        
+
         // Filter sounds that haven't played recently
         const availableChimes = windChimeSounds.filter(
-          chime => now - chime.lastPlayed > minDelay
+          (chime) => now - chime.lastPlayed > minDelay
         );
-        
+
         if (availableChimes.length) {
-          const chime = availableChimes[
-            Math.floor(Math.random() * availableChimes.length)
-          ];
-          
+          const chime =
+            availableChimes[Math.floor(Math.random() * availableChimes.length)];
+
           chime.gainNode.gain.cancelScheduledValues(now);
           chime.gainNode.gain.setValueAtTime(0, now);
           // Longer attack and decay for wind chime effect
           chime.gainNode.gain.linearRampToValueAtTime(0.08, now + 0.5);
           chime.gainNode.gain.exponentialRampToValueAtTime(0.001, now + 4);
-          
+
           chime.lastPlayed = now;
         }
       }
-      
+
       // Play random handpan note
       function playHandpanNote() {
         if (!handpanSounds.length) return;
-        
+
         const now = audioContext.currentTime;
         const minDelay = 1.5; // Minimum seconds between notes
-        
+
         // Filter sounds that haven't played recently
         const availableSounds = handpanSounds.filter(
-          sound => now - sound.lastPlayed > minDelay
+          (sound) => now - sound.lastPlayed > minDelay
         );
-        
+
         if (availableSounds.length) {
-          const sound = availableSounds[
-            Math.floor(Math.random() * availableSounds.length)
-          ];
-          
+          const sound =
+            availableSounds[Math.floor(Math.random() * availableSounds.length)];
+
           sound.gainNode.gain.cancelScheduledValues(now);
           sound.gainNode.gain.setValueAtTime(0, now);
           sound.gainNode.gain.linearRampToValueAtTime(0.2, now + 0.01);
           sound.gainNode.gain.exponentialRampToValueAtTime(0.001, now + 2);
-          
+
           sound.lastPlayed = now;
         }
       }
-      
+
       // Play handpan notes periodically
       setInterval(playHandpanNote, 2000);
-      
+
       // Play wind chimes periodically with longer interval
       setInterval(playWindChime, 4000);
-      
+
       // Play piano notes periodically with the longest interval for subtle effect
       setInterval(playPianoNote, 8000);
 
@@ -772,13 +769,13 @@
           audioContext = new (window.AudioContext ||
             window.webkitAudioContext)();
         }
-        
+
         // Initialize handpan sounds
         initHandpanSounds();
-        
+
         // Initialize wind chime sounds
         initWindChimes();
-        
+
         // Initialize piano sounds
         initPianoSounds();
 
