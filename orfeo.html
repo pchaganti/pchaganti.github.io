@@ -459,6 +459,7 @@
       let handpanSounds = [];
       let windChimeSounds = [];
       let pianoSounds = [];
+      let harpSounds = []; // Added harp sounds array
       let backgroundParticles = [];
       let audioInitialized = false;
       let isIOS =
@@ -650,6 +651,49 @@
         });
       }
 
+      // Initialize harp sounds
+      function initHarpSounds() {
+        // Create harp notes using a pentatonic scale for ethereal sound
+        const harpNotes = [
+          392.0, // G4
+          440.0, // A4
+          493.88, // B4
+          587.33, // D5
+          659.25, // E5
+        ];
+
+        harpNotes.forEach((freq, index) => {
+          const oscillator = audioContext.createOscillator();
+          const gainNode = audioContext.createGain();
+          const filter = audioContext.createBiquadFilter();
+
+          oscillator.type = "triangle"; // Triangle wave for harp-like timbre
+          oscillator.frequency.value = freq;
+          gainNode.gain.value = 0;
+
+          // Configure filter for harp-like sound
+          filter.type = "lowpass";
+          filter.frequency.value = 2000;
+          filter.Q.value = 0.7;
+
+          // Add slight detuning for more natural sound
+          oscillator.detune.value = Math.random() * 5 - 2.5;
+
+          oscillator.connect(filter);
+          filter.connect(gainNode);
+          gainNode.connect(audioContext.destination);
+
+          oscillator.start();
+          harpSounds.push({
+            oscillator,
+            gainNode,
+            filter,
+            freq,
+            lastPlayed: 0,
+          });
+        });
+      }
+
       // Play random piano note
       function playPianoNote() {
         if (!pianoSounds.length) return;
@@ -727,6 +771,40 @@
         }
       }
 
+      // Play random harp note
+      function playHarpNote() {
+        if (!harpSounds.length) return;
+
+        const now = audioContext.currentTime;
+        const minDelay = 2; // Minimum seconds between notes
+
+        // Filter sounds that haven't played recently
+        const availableSounds = harpSounds.filter(
+          (sound) => now - sound.lastPlayed > minDelay
+        );
+
+        if (availableSounds.length) {
+          const sound =
+            availableSounds[Math.floor(Math.random() * availableSounds.length)];
+
+          sound.gainNode.gain.cancelScheduledValues(now);
+          sound.gainNode.gain.setValueAtTime(0, now);
+
+          // Quick attack for pluck-like sound
+          sound.gainNode.gain.linearRampToValueAtTime(0.08, now + 0.02);
+          // Fast initial decay for pluck characteristic
+          sound.gainNode.gain.exponentialRampToValueAtTime(0.01, now + 0.1);
+          // Longer final decay for natural sustain
+          sound.gainNode.gain.exponentialRampToValueAtTime(0.001, now + 1.5);
+
+          // Subtle filter sweep for organic quality
+          sound.filter.frequency.setValueAtTime(3000, now);
+          sound.filter.frequency.exponentialRampToValueAtTime(500, now + 0.5);
+
+          sound.lastPlayed = now;
+        }
+      }
+
       // Play handpan notes periodically
       setInterval(playHandpanNote, 2000);
 
@@ -735,6 +813,9 @@
 
       // Play piano notes periodically with the longest interval for subtle effect
       setInterval(playPianoNote, 8000);
+
+      // Add harp plucks to the periodic sound effects
+      setInterval(playHarpNote, 3000); // Play harp notes every 3 seconds
 
       // Show mobile recommendation banner
       if (window.innerWidth < 768) {
@@ -778,6 +859,9 @@
 
         // Initialize piano sounds
         initPianoSounds();
+
+        // Initialize harp sounds
+        initHarpSounds();
 
         // Special iOS audio unlocking sequence
         function unlockAudioForIOS() {
