@@ -395,10 +395,15 @@
       let audioContext;
       let ambientSound;
       let backgroundParticles = [];
+      let audioInitialized = false;
+      let isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
 
       // Initialize audio context on page load with fallback to user interaction
       function tryInitAudio() {
         try {
+          // Create audio context first - this was missing and causing the error
+          audioContext = new (window.AudioContext || window.webkitAudioContext)();
+          
           // Create a silent audio buffer to unlock audio context
           const buffer = audioContext.createBuffer(1, 1, 22050);
           const source = audioContext.createBufferSource();
@@ -423,6 +428,7 @@
           }, 1000);
 
           // Fallback to user interaction if autoplay is blocked
+          // Add click listener for desktop
           document.body.addEventListener(
             "click",
             function firstInteraction() {
@@ -435,6 +441,20 @@
             },
             { once: true }
           );
+          
+          // Add touchstart listener for mobile devices
+          document.body.addEventListener(
+            "touchstart",
+            function firstTouchInteraction() {
+              notification.classList.remove("show");
+              setTimeout(() => {
+                document.body.removeChild(notification);
+              }, 300);
+              initAudio();
+              document.body.removeEventListener("touchstart", firstTouchInteraction);
+            },
+            { once: true }
+          );
           return false;
         }
       }
@@ -444,25 +464,49 @@
       window.addEventListener("resize", updateBackgroundParticles);
 
       function initAudio() {
-        // Create audio context with mobile compatibility
-        audioContext = new (window.AudioContext || window.webkitAudioContext)();
+        // Prevent multiple initializations
+        if (audioInitialized) return;
+        audioInitialized = true;
+        
+        // If audioContext wasn't created yet (shouldn't happen with fixed code, but just in case)
+        if (!audioContext) {
+          audioContext = new (window.AudioContext || window.webkitAudioContext)();
+        }
         
         // Enhanced mobile audio context handling
         function resumeAudioContext() {
           if (audioContext.state === 'suspended') {
+            // For iOS, we need to call resume within a user gesture handler
+            if (isIOS) {
+              // Create a short silent sound to unlock audio on iOS
+              const silentBuffer = audioContext.createBuffer(1, 1, 22050);
+              const source = audioContext.createBufferSource();
+              source.buffer = silentBuffer;
+              source.connect(audioContext.destination);
+              source.start(0);
+            }
+            
             audioContext.resume().then(() => {
               // Start audio elements after resume
               createAmbientSound();
               createRandomCircle();
+              
+              // Show success notification on mobile
+              if (window.innerWidth <= 768) {
+                showAudioNotification("Audio activated successfully");
+              }
             }).catch(err => {
               console.error('AudioContext resume failed:', err);
+              // Show error notification
+              showAudioNotification("Audio couldn't be started. Please try again.");
             });
           }
         }
         
         // Add both touchstart and click listeners for maximum compatibility
-        document.body.addEventListener('touchstart', resumeAudioContext, { once: true });
-        document.body.addEventListener('click', resumeAudioContext, { once: true });
+        // Don't use {once: true} to allow multiple attempts if needed
+        document.body.addEventListener('touchstart', resumeAudioContext);
+        document.body.addEventListener('click', resumeAudioContext);
         
         // Start creating circles after audio is initialized
         createRandomCircle(); // Create first circle immediately
@@ -600,9 +644,40 @@
         }
       }
 
+      // Helper function to show audio notifications
+      function showAudioNotification(message) {
+        const notification = document.createElement("div");
+        notification.className = "audio-notification";
+        notification.textContent = message;
+        document.body.appendChild(notification);
+
+        // Show notification after short delay
+        setTimeout(() => {
+          notification.classList.add("show");
+        }, 100);
+
+        // Remove after a few seconds
+        setTimeout(() => {
+          notification.classList.remove("show");
+          setTimeout(() => {
+            if (notification.parentNode) {
+              document.body.removeChild(notification);
+            }
+          }, 300);
+        }, 3000);
+      }
+      
       // Create ambient background sound with continuous evolving drone/gamma wave and binaural beats
       function createAmbientSound() {
         if (!audioContext) return;
+        
+        // Safety check - if context is suspended, try to resume it
+        if (audioContext.state === 'suspended') {
+          audioContext.resume().catch(err => {
+            console.error('Failed to resume audio context:', err);
+            return; // Exit if we can't resume
+          });
+        }
 
         // Create a master gain node for all ambient sounds
         const masterGain = audioContext.createGain();
