@@ -456,6 +456,7 @@
       // Audio context for sound generation
       let audioContext;
       let ambientSound;
+      let handpanSounds = [];
       let backgroundParticles = [];
       let audioInitialized = false;
       let isIOS =
@@ -562,6 +563,61 @@
       // Try to initialize audio immediately
       tryInitAudio();
       window.addEventListener("resize", updateBackgroundParticles);
+      
+      // Initialize handpan sounds
+      function initHandpanSounds() {
+        // Create multiple handpan notes with different frequencies
+        const notes = [220, 277.18, 329.63, 440, 523.25]; // A3, C#4, E4, A4, C5
+        
+        notes.forEach((freq, index) => {
+          const oscillator = audioContext.createOscillator();
+          const gainNode = audioContext.createGain();
+          
+          oscillator.type = 'sine';
+          oscillator.frequency.value = freq;
+          gainNode.gain.value = 0;
+          
+          oscillator.connect(gainNode);
+          gainNode.connect(audioContext.destination);
+          
+          oscillator.start();
+          handpanSounds.push({
+            oscillator,
+            gainNode,
+            freq,
+            lastPlayed: 0
+          });
+        });
+      }
+      
+      // Play random handpan note
+      function playHandpanNote() {
+        if (!handpanSounds.length) return;
+        
+        const now = audioContext.currentTime;
+        const minDelay = 1.5; // Minimum seconds between notes
+        
+        // Filter sounds that haven't played recently
+        const availableSounds = handpanSounds.filter(
+          sound => now - sound.lastPlayed > minDelay
+        );
+        
+        if (availableSounds.length) {
+          const sound = availableSounds[
+            Math.floor(Math.random() * availableSounds.length)
+          ];
+          
+          sound.gainNode.gain.cancelScheduledValues(now);
+          sound.gainNode.gain.setValueAtTime(0, now);
+          sound.gainNode.gain.linearRampToValueAtTime(0.3, now + 0.01);
+          sound.gainNode.gain.exponentialRampToValueAtTime(0.001, now + 2);
+          
+          sound.lastPlayed = now;
+        }
+      }
+      
+      // Play handpan notes periodically
+      setInterval(playHandpanNote, 2000);
 
       // Show mobile recommendation banner
       if (window.innerWidth < 768) {
@@ -596,6 +652,9 @@
           audioContext = new (window.AudioContext ||
             window.webkitAudioContext)();
         }
+        
+        // Initialize handpan sounds
+        initHandpanSounds();
 
         // Special iOS audio unlocking sequence
         function unlockAudioForIOS() {
