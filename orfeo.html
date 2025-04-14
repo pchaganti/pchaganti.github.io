@@ -640,7 +640,7 @@
           chime.gainNode.gain.cancelScheduledValues(now);
           chime.gainNode.gain.setValueAtTime(0, now);
           // Longer attack and decay for wind chime effect
-          chime.gainNode.gain.linearRampToValueAtTime(0.15, now + 0.5);
+          chime.gainNode.gain.linearRampToValueAtTime(0.08, now + 0.5);
           chime.gainNode.gain.exponentialRampToValueAtTime(0.001, now + 4);
           
           chime.lastPlayed = now;
@@ -2093,7 +2093,7 @@
 
         // Master gain node for overall volume control of chimes
         const chimesMasterGain = audioContext.createGain();
-        chimesMasterGain.gain.value = 0.2; // Reduce overall chime volume to 20%
+        chimesMasterGain.gain.value = 0.15; // Reduce overall chime volume to 15%
 
         // Effects nodes
         const panNode = audioContext.createStereoPanner();
