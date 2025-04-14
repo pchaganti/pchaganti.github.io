@@ -609,7 +609,7 @@
           
           sound.gainNode.gain.cancelScheduledValues(now);
           sound.gainNode.gain.setValueAtTime(0, now);
-          sound.gainNode.gain.linearRampToValueAtTime(0.3, now + 0.01);
+          sound.gainNode.gain.linearRampToValueAtTime(0.2, now + 0.01);
           sound.gainNode.gain.exponentialRampToValueAtTime(0.001, now + 2);
           
           sound.lastPlayed = now;
