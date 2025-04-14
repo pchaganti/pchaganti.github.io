@@ -59,6 +59,38 @@
         backdrop-filter: blur(5px); /* Add blur effect for modern look */
         -webkit-backdrop-filter: blur(5px); /* Safari support */
       }
+      
+      /* Mobile device recommendation banner */
+      .mobile-notification {
+        position: fixed;
+        bottom: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+        background-color: rgba(0, 0, 0, 0.85);
+        color: white;
+        padding: 12px 24px;
+        border-radius: 8px;
+        font-size: 14px;
+        opacity: 0;
+        transition: opacity 0.3s ease;
+        pointer-events: none;
+        z-index: 1000;
+        max-width: 90%;
+        text-align: center;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        backdrop-filter: blur(5px);
+        -webkit-backdrop-filter: blur(5px);
+      }
+      
+      .mobile-notification.show {
+        opacity: 1;
+      }
+      
+      @media (min-width: 768px) {
+        .mobile-notification {
+          display: none;
+        }
+      }
 
       .audio-notification.show {
         opacity: 1;
@@ -518,6 +550,28 @@
       // Try to initialize audio immediately
       tryInitAudio();
       window.addEventListener("resize", updateBackgroundParticles);
+      
+      // Show mobile recommendation banner
+      if (window.innerWidth < 768) {
+        const mobileNotification = document.createElement('div');
+        mobileNotification.className = 'mobile-notification';
+        mobileNotification.textContent = 'For best experience, try this app on a tablet or larger device with better display and audio';
+        document.body.appendChild(mobileNotification);
+        
+        setTimeout(() => {
+          mobileNotification.classList.add('show');
+          
+          // Auto-hide after 8 seconds
+          setTimeout(() => {
+            mobileNotification.classList.remove('show');
+            setTimeout(() => {
+              if (mobileNotification.parentNode) {
+                mobileNotification.parentNode.removeChild(mobileNotification);
+              }
+            }, 300);
+          }, 8000);
+        }, 1000);
+      }
 
       function initAudio() {
         // Prevent multiple initializations
