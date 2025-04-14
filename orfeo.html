@@ -167,6 +167,41 @@
         opacity: 1;
       }
 
+      /* Desktop audio activation banner */
+      .desktop-audio-banner {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: var(--notification-bg);
+        color: var(--notification-text);
+        padding: 16px 24px;
+        border-radius: 8px;
+        font-size: 16px;
+        opacity: 0;
+        transition: opacity 0.3s ease;
+        pointer-events: none;
+        z-index: 1000;
+        max-width: 90%;
+        text-align: center;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        backdrop-filter: blur(5px);
+        -webkit-backdrop-filter: blur(5px);
+        cursor: pointer;
+      }
+
+      .desktop-audio-banner.show {
+        opacity: 1;
+        pointer-events: auto;
+      }
+
+      /* Only show on laptop/desktop */
+      @media (max-width: 768px) {
+        .desktop-audio-banner {
+          display: none;
+        }
+      }
+
       /* --- Container --- */
       .container {
         padding: 5px 20px; /* Adjusted padding for mobile */
@@ -498,6 +533,7 @@
     </style>
   </head>
   <body>
+    <div class="desktop-audio-banner">Click to activate audio</div>
     <div class="container">
       <button class="theme-toggle" aria-label="Toggle dark mode">
         <svg
@@ -602,7 +638,7 @@
         }
       });
 
-      // Audio context for sound generation
+      // Audio context variables
       let audioContext;
       let ambientSound;
       let handpanSounds = [];
@@ -614,6 +650,32 @@
       let isIOS =
         /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
       let audioUnlocked = false; // Track if audio has been unlocked on iOS
+
+      // Desktop audio banner functionality
+      const desktopAudioBanner = document.querySelector(
+        ".desktop-audio-banner"
+      );
+      if (desktopAudioBanner) {
+        // Show banner if audio context is suspended or not initialized
+        if (!audioContext || audioContext.state === "suspended") {
+          desktopAudioBanner.classList.add("show");
+        }
+
+        // Handle banner click
+        desktopAudioBanner.addEventListener("click", () => {
+          if (!audioContext) {
+            tryInitAudio();
+          } else if (audioContext.state === "suspended") {
+            audioContext.resume();
+          }
+          desktopAudioBanner.classList.remove("show");
+          setTimeout(() => {
+            if (desktopAudioBanner.parentNode) {
+              desktopAudioBanner.remove();
+            }
+          }, 300);
+        });
+      }
 
       // Initialize audio context on page load with fallback to user interaction
       function tryInitAudio() {
