@@ -688,9 +688,11 @@
 
       function showAudioBanner() {
         // Only show banner if audio context is suspended or not initialized
+        // AND we're not on iOS (iOS has its own notification)
         if (
-          !audioContext ||
-          (audioContext && audioContext.state === "suspended")
+          (!audioContext ||
+          (audioContext && audioContext.state === "suspended")) &&
+          !isIOS
         ) {
           desktopAudioBanner.classList.add("show");
 
