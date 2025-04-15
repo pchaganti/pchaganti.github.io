@@ -1347,12 +1347,12 @@
         createAmbientSound();
 
         // Trigger special effects periodically
-        setInterval(() => {
-          // Random chance to play special effect (about 15% chance every 5 seconds)
-          if (Math.random() < 0.15) {
-            playSpecialEffect();
-          }
-        }, 5000);
+        // setInterval(() => {
+        //   // Random chance to play special effect (about 15% chance every 5 seconds)
+        //   if (Math.random() < 0.15) {
+        //     playSpecialEffect();
+        //   }
+        // }, 5000);
 
         // Add click event listener to create interactive effects
         document.body.addEventListener("click", (event) => {
@@ -1376,7 +1376,7 @@
           }
 
           // Play a special sound for interaction
-          playSpecialEffect();
+          // playSpecialEffect();
         });
       }
 
@@ -2562,11 +2562,11 @@
           "tibetan_singing_bowl", // Authentic Tibetan singing bowl sound
           "crystal_bowl", // Higher, more crystalline sound
           "gong", // Deep, resonant gong sound
-          // "bell", // Sharper, more bell-like sound
+          "bell", // Sharper, more bell-like sound
           "water_chime", // Fluid, water-like sound
           "church_bell", // Church bell sound
-          "brain_wave", // Meditative brain wave frequencies
-          // "didgeridoo", // Deep resonant Aboriginal instrument sound
+          // "brain_wave", // Meditative brain wave frequencies
+          "didgeridoo", // Deep resonant Aboriginal instrument sound
         ];
 
         // Choose sound profile based on size ranges and randomness
@@ -2671,12 +2671,12 @@
             secondFilterNode.gain.value = 3.0 + Math.random() * 3.0; // Significant boost
             break;
 
-          // case "bell":
-          //   // secondFilterNode.type = "peaking";
-          //   // secondFilterNode.frequency.value = 800 + Math.random() * 1200; // Mid-high emphasis
-          //   // secondFilterNode.Q.value = 5.0 + Math.random() * 3.0; // Very narrow band
-          //   // secondFilterNode.gain.value = 4.0 + Math.random() * 4.0; // Strong emphasis
-          //   break;
+          case "bell":
+            // secondFilterNode.type = "peaking";
+            // secondFilterNode.frequency.value = 800 + Math.random() * 1200; // Mid-high emphasis
+            // secondFilterNode.Q.value = 5.0 + Math.random() * 3.0; // Very narrow band
+            // secondFilterNode.gain.value = 4.0 + Math.random() * 4.0; // Strong emphasis
+            break;
 
           case "church_bell":
             secondFilterNode.type = "peaking";
@@ -2691,11 +2691,11 @@
             secondFilterNode.Q.value = 1.0 + Math.random() * 2.0; // Moderate resonance
             break;
 
-          // case "didgeridoo":
-          //   // secondFilterNode.type = "lowshelf";
-          //   // secondFilterNode.frequency.value = 100 + Math.random() * 100; // Emphasize low frequencies
-          //   // secondFilterNode.gain.value = 4.0 + Math.random() * 3.0; // Strong low-end boost
-          //   break;
+          case "didgeridoo":
+            secondFilterNode.type = "lowshelf";
+            secondFilterNode.frequency.value = 100 + Math.random() * 100; // Emphasize low frequencies
+            secondFilterNode.gain.value = 4.0 + Math.random() * 3.0; // Strong low-end boost
+            break;
 
           default: // Fallback to singing bowl
             secondFilterNode.type = "bandpass";
