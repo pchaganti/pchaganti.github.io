@@ -39,20 +39,20 @@
         --notification-bg: rgba(255, 255, 255, 0.1);
         --notification-text: #ffffff;
       }
-      
+
       /* Direct theme classes for Safari */
       .light-theme {
         background-color: #eeeeee !important;
         background: #eeeeee !important;
       }
-      
+
       .dark-theme {
         background-color: #121212 !important;
         background: #121212 !important;
       }
-      
+
       /* Safari-specific fixes for theme handling */
-      @media screen and (-webkit-min-device-pixel-ratio:0) {
+      @media screen and (-webkit-min-device-pixel-ratio: 0) {
         body {
           background-color: var(--bg-color) !important;
           background: var(--bg-color) !important;
@@ -61,13 +61,13 @@
           transition: none !important;
           -webkit-transition: none !important;
         }
-        
+
         [data-theme="dark"] body {
           background-color: #121212 !important;
           background: #121212 !important;
           -webkit-background-color: #121212 !important;
         }
-        
+
         [data-theme="light"] body {
           background-color: #eeeeee !important;
           background: #eeeeee !important;
@@ -80,7 +80,9 @@
         padding: 0;
         overflow: hidden;
         background-color: var(--bg-color);
-        background: var(--bg-color); /* Explicit background property for Safari */
+        background: var(
+          --bg-color
+        ); /* Explicit background property for Safari */
         color: var(--text-color);
         width: 100vw;
         height: 100vh;
@@ -240,7 +242,7 @@
           display: none;
         }
       }
-      
+
       /* Special override for iOS devices to ensure banner works properly */
       .ios-device .desktop-audio-banner.show {
         display: block;
@@ -651,8 +653,10 @@
       // Function to toggle theme (extracted to be reusable)
       function toggleTheme() {
         let theme;
-        const isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
-        
+        const isSafari = /^((?!chrome|android).)*safari/i.test(
+          navigator.userAgent
+        );
+
         if (
           !document.documentElement.hasAttribute("data-theme") ||
           document.documentElement.getAttribute("data-theme") === "light"
@@ -662,7 +666,7 @@
           // Force Safari to repaint by applying styles directly to body
           document.body.style.backgroundColor = "#121212";
           document.body.style.background = "#121212";
-          
+
           if (isSafari) {
             // Additional Safari-specific fixes
             document.documentElement.style.backgroundColor = "#121212";
@@ -675,7 +679,7 @@
           // Force Safari to repaint by applying styles directly to body
           document.body.style.backgroundColor = "#eeeeee";
           document.body.style.background = "#eeeeee";
-          
+
           if (isSafari) {
             // Additional Safari-specific fixes
             document.documentElement.style.backgroundColor = "#eeeeee";
@@ -685,37 +689,45 @@
         }
         localStorage.setItem("theme", theme);
         updateThemeIcon(theme === "dark");
-        
+
         // Force a repaint in Safari with multiple techniques
         document.body.offsetHeight;
-        
+
         if (isSafari) {
           // More aggressive repaint techniques for Safari
           setTimeout(() => {
             window.getComputedStyle(document.body).backgroundColor;
-            document.body.style.display = 'none';
+            document.body.style.display = "none";
             document.body.offsetHeight; // Trigger reflow
-            document.body.style.display = '';
+            document.body.style.display = "";
           }, 0);
         }
       }
-      
+
       // Handle theme toggle events (click for desktop, touch for mobile)
-      themeToggle.addEventListener("click", function(e) {
+      themeToggle.addEventListener("click", function (e) {
         toggleTheme();
         e.preventDefault(); // Prevent default behavior
       });
-      
+
       // Add touch events for iOS devices
-      themeToggle.addEventListener("touchstart", function(e) {
-        e.preventDefault(); // Prevent default behavior
-      }, {passive: false});
-      
-      themeToggle.addEventListener("touchend", function(e) {
-        toggleTheme();
-        e.preventDefault(); // Prevent default behavior
-        e.stopPropagation(); // Stop event propagation
-      }, {passive: false});
+      themeToggle.addEventListener(
+        "touchstart",
+        function (e) {
+          e.preventDefault(); // Prevent default behavior
+        },
+        { passive: false }
+      );
+
+      themeToggle.addEventListener(
+        "touchend",
+        function (e) {
+          toggleTheme();
+          e.preventDefault(); // Prevent default behavior
+          e.stopPropagation(); // Stop event propagation
+        },
+        { passive: false }
+      );
 
       // Update the theme toggle icon
       function updateThemeIcon(isDark) {
@@ -749,10 +761,10 @@
       let isIOS =
         /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
       let audioUnlocked = false; // Track if audio has been unlocked on iOS
-      
+
       // Add iOS class to body if on iOS device
       if (isIOS) {
-        document.body.classList.add('ios-device');
+        document.body.classList.add("ios-device");
       }
 
       // Desktop audio banner functionality
@@ -765,7 +777,7 @@
         // AND we're not on iOS (iOS has its own notification)
         if (
           (!audioContext ||
-          (audioContext && audioContext.state === "suspended")) &&
+            (audioContext && audioContext.state === "suspended")) &&
           !isIOS
         ) {
           desktopAudioBanner.classList.add("show");
@@ -776,29 +788,38 @@
             if (event) {
               event.preventDefault();
             }
-            
+
             if (!audioContext) {
               tryInitAudio();
             } else if (audioContext.state === "suspended") {
-              audioContext.resume().then(() => {
-                console.log("AudioContext resumed successfully");
-                // Start audio elements after resume if needed
-                if (!ambientSound && audioInitialized) {
-                  createAmbientSound();
-                }
-              }).catch(err => {
-                console.error("Failed to resume AudioContext:", err);
-              });
+              audioContext
+                .resume()
+                .then(() => {
+                  console.log("AudioContext resumed successfully");
+                  // Start audio elements after resume if needed
+                  if (!ambientSound && audioInitialized) {
+                    createAmbientSound();
+                  }
+                })
+                .catch((err) => {
+                  console.error("Failed to resume AudioContext:", err);
+                });
             }
-            
+
             // Always hide the banner regardless of audio context state
             desktopAudioBanner.classList.remove("show");
-            
+
             // Remove all event listeners to ensure it works on iOS
-            ["click", "touchstart", "touchend", "mousedown", "pointerdown"].forEach(eventType => {
+            [
+              "click",
+              "touchstart",
+              "touchend",
+              "mousedown",
+              "pointerdown",
+            ].forEach((eventType) => {
               document.removeEventListener(eventType, dismissBanner);
             });
-            
+
             // For iOS, mark audio as unlocked to prevent future issues
             if (isIOS) {
               audioUnlocked = true;
@@ -806,8 +827,16 @@
           };
 
           // Add multiple event listeners for iOS compatibility
-          ["click", "touchstart", "touchend", "mousedown", "pointerdown"].forEach(eventType => {
-            document.addEventListener(eventType, dismissBanner, { passive: false });
+          [
+            "click",
+            "touchstart",
+            "touchend",
+            "mousedown",
+            "pointerdown",
+          ].forEach((eventType) => {
+            document.addEventListener(eventType, dismissBanner, {
+              passive: false,
+            });
           });
         }
       }
@@ -894,7 +923,7 @@
               }
             }, 300);
           });
-          
+
           // Also hide desktop audio banner if it's visible
           if (desktopAudioBanner) {
             desktopAudioBanner.classList.remove("show");
