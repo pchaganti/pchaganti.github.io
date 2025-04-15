@@ -40,12 +40,26 @@
         --notification-text: #ffffff;
       }
       
+      /* Direct theme classes for Safari */
+      .light-theme {
+        background-color: #eeeeee !important;
+        background: #eeeeee !important;
+      }
+      
+      .dark-theme {
+        background-color: #121212 !important;
+        background: #121212 !important;
+      }
+      
       /* Safari-specific fixes for theme handling */
       @media screen and (-webkit-min-device-pixel-ratio:0) {
         body {
           background-color: var(--bg-color) !important;
           background: var(--bg-color) !important;
           -webkit-background-color: var(--bg-color) !important;
+          /* Disable transitions for Safari to prevent slow theme changes */
+          transition: none !important;
+          -webkit-transition: none !important;
         }
         
         [data-theme="dark"] body {
@@ -79,6 +93,9 @@
         /* Add touch handling for mobile */
         touch-action: none;
         -webkit-tap-highlight-color: transparent;
+        /* Add immediate background transitions for Safari */
+        -webkit-transition: background-color 0s, background 0s !important;
+        transition: background-color 0s, background 0s !important;
         -webkit-touch-callout: none;
         -webkit-user-select: none;
         user-select: none;
@@ -634,6 +651,8 @@
       // Function to toggle theme (extracted to be reusable)
       function toggleTheme() {
         let theme;
+        const isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
+        
         if (
           !document.documentElement.hasAttribute("data-theme") ||
           document.documentElement.getAttribute("data-theme") === "light"
@@ -643,18 +662,42 @@
           // Force Safari to repaint by applying styles directly to body
           document.body.style.backgroundColor = "#121212";
           document.body.style.background = "#121212";
+          
+          if (isSafari) {
+            // Additional Safari-specific fixes
+            document.documentElement.style.backgroundColor = "#121212";
+            document.body.classList.remove("light-theme");
+            document.body.classList.add("dark-theme");
+          }
         } else {
           document.documentElement.setAttribute("data-theme", "light");
           theme = "light";
           // Force Safari to repaint by applying styles directly to body
           document.body.style.backgroundColor = "#eeeeee";
           document.body.style.background = "#eeeeee";
+          
+          if (isSafari) {
+            // Additional Safari-specific fixes
+            document.documentElement.style.backgroundColor = "#eeeeee";
+            document.body.classList.remove("dark-theme");
+            document.body.classList.add("light-theme");
+          }
         }
         localStorage.setItem("theme", theme);
         updateThemeIcon(theme === "dark");
         
-        // Force a repaint in Safari
+        // Force a repaint in Safari with multiple techniques
         document.body.offsetHeight;
+        
+        if (isSafari) {
+          // More aggressive repaint techniques for Safari
+          setTimeout(() => {
+            window.getComputedStyle(document.body).backgroundColor;
+            document.body.style.display = 'none';
+            document.body.offsetHeight; // Trigger reflow
+            document.body.style.display = '';
+          }, 0);
+        }
       }
       
       // Handle theme toggle events (click for desktop, touch for mobile)
