@@ -195,11 +195,18 @@
         pointer-events: auto;
       }
 
-      /* Only show on laptop/desktop */
+      /* Only show on laptop/desktop, but ensure iOS devices can see it if needed */
       @media (max-width: 768px) {
         .desktop-audio-banner {
           display: none;
         }
+      }
+      
+      /* Special override for iOS devices to ensure banner works properly */
+      .ios-device .desktop-audio-banner.show {
+        display: block;
+        opacity: 1;
+        pointer-events: auto;
       }
 
       /* --- Container --- */
@@ -651,6 +658,11 @@
       let isIOS =
         /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
       let audioUnlocked = false; // Track if audio has been unlocked on iOS
+      
+      // Add iOS class to body if on iOS device
+      if (isIOS) {
+        document.body.classList.add('ios-device');
+      }
 
       // Desktop audio banner functionality
       const desktopAudioBanner = document.querySelector(
@@ -666,17 +678,44 @@
           desktopAudioBanner.classList.add("show");
 
           // Add click handler to entire document
-          const dismissBanner = () => {
+          const dismissBanner = (event) => {
+            // Prevent default to avoid any potential issues
+            if (event) {
+              event.preventDefault();
+            }
+            
             if (!audioContext) {
               tryInitAudio();
             } else if (audioContext.state === "suspended") {
-              audioContext.resume();
+              audioContext.resume().then(() => {
+                console.log("AudioContext resumed successfully");
+                // Start audio elements after resume if needed
+                if (!ambientSound && audioInitialized) {
+                  createAmbientSound();
+                }
+              }).catch(err => {
+                console.error("Failed to resume AudioContext:", err);
+              });
             }
+            
+            // Always hide the banner regardless of audio context state
             desktopAudioBanner.classList.remove("show");
-            document.removeEventListener("click", dismissBanner);
+            
+            // Remove all event listeners to ensure it works on iOS
+            ["click", "touchstart", "touchend", "mousedown", "pointerdown"].forEach(eventType => {
+              document.removeEventListener(eventType, dismissBanner);
+            });
+            
+            // For iOS, mark audio as unlocked to prevent future issues
+            if (isIOS) {
+              audioUnlocked = true;
+            }
           };
 
-          document.addEventListener("click", dismissBanner);
+          // Add multiple event listeners for iOS compatibility
+          ["click", "touchstart", "touchend", "mousedown", "pointerdown"].forEach(eventType => {
+            document.addEventListener(eventType, dismissBanner, { passive: false });
+          });
         }
       }
 
@@ -762,6 +801,11 @@
               }
             }, 300);
           });
+          
+          // Also hide desktop audio banner if it's visible
+          if (desktopAudioBanner) {
+            desktopAudioBanner.classList.remove("show");
+          }
 
           // Initialize audio
           initAudio();
