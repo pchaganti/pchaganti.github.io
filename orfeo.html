@@ -609,8 +609,8 @@
         }
       }
 
-      // Handle theme toggle click
-      themeToggle.addEventListener("click", function () {
+      // Function to toggle theme (extracted to be reusable)
+      function toggleTheme() {
         let theme;
         if (
           !document.documentElement.hasAttribute("data-theme") ||
@@ -624,7 +624,24 @@
         }
         localStorage.setItem("theme", theme);
         updateThemeIcon(theme === "dark");
+      }
+      
+      // Handle theme toggle events (click for desktop, touch for mobile)
+      themeToggle.addEventListener("click", function(e) {
+        toggleTheme();
+        e.preventDefault(); // Prevent default behavior
       });
+      
+      // Add touch events for iOS devices
+      themeToggle.addEventListener("touchstart", function(e) {
+        e.preventDefault(); // Prevent default behavior
+      }, {passive: false});
+      
+      themeToggle.addEventListener("touchend", function(e) {
+        toggleTheme();
+        e.preventDefault(); // Prevent default behavior
+        e.stopPropagation(); // Stop event propagation
+      }, {passive: false});
 
       // Update the theme toggle icon
       function updateThemeIcon(isDark) {
