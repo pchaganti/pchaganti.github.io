@@ -1,40 +1,47 @@
 {
-  "last_updated": "2025-05-07T13:10:27.495294-04:00",
+  "last_updated": "2025-05-07T13:27:02.738851-04:00",
   "stories": [
     {
       "title": "Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O",
-      "score": 169,
+      "score": 183,
       "url": "https://pganalyze.com/blog/postgres-18-async-io",
       "time": 1746629823.0,
       "comments_url": "https://news.ycombinator.com/item?id=43916577"
     },
     {
       "title": "Show HN: eInk optimized manga with Kindle Comic Converter (+Kobo/ReMarkable)",
-      "score": 71,
+      "score": 83,
       "url": "https://github.com/ciromattia/kcc",
       "time": 1746631603.0,
       "comments_url": "https://news.ycombinator.com/item?id=43916956"
     },
     {
+      "title": "Getting Older Isn't What You Think",
+      "score": 27,
+      "url": "https://www.katycowan.co.uk/blog/getting-old",
+      "time": 1746636064.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43917855"
+    },
+    {
       "title": "Telling Lies: Bowie and Online Music Distribution in 1996",
-      "score": 14,
+      "score": 19,
       "url": "https://cybercultural.com/p/online-music-distribution-1996/",
       "time": 1746633521.0,
       "comments_url": "https://news.ycombinator.com/item?id=43917376"
     },
     {
-      "title": "Unity’s Open-Source Double Standard: the ban of VLC",
-      "score": 345,
-      "url": "https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html",
-      "time": 1746621220.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43914832"
+      "title": "Create and edit images with Gemini 2.0 in preview",
+      "score": 16,
+      "url": "https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/",
+      "time": 1746634004.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43917461"
     },
     {
-      "title": "CLion Is Now Free for Non-Commercial Use",
-      "score": 349,
-      "url": "https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/",
-      "time": 1746620318.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43914705"
+      "title": "So Much Blood",
+      "score": 201,
+      "url": "https://dynomight.net/blood/",
+      "time": 1746610873.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43913751"
     },
     {
       "title": "Motion (YC W20) Is Hiring a Senior Engineers",
@@ -44,53 +51,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=43918134"
     },
     {
-      "title": "So Much Blood",
-      "score": 194,
-      "url": "https://dynomight.net/blood/",
-      "time": 1746610873.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43913751"
+      "title": "CLion Is Now Free for Non-Commercial Use",
+      "score": 362,
+      "url": "https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/",
+      "time": 1746620318.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43914705"
+    },
+    {
+      "title": "Unity’s Open-Source Double Standard: the ban of VLC",
+      "score": 353,
+      "url": "https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html",
+      "time": 1746621220.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43914832"
     },
     {
       "title": "My quest to make motorcycle riding that tad bit safer",
-      "score": 114,
+      "score": 118,
       "url": "https://gill.net.in/posts/my-quest-to-make-motorcycle-riding-safer/",
       "time": 1746615977.0,
       "comments_url": "https://news.ycombinator.com/item?id=43914235"
     },
     {
       "title": "Zed: High-performance AI Code Editor",
-      "score": 303,
+      "score": 314,
       "url": "https://zed.dev/blog/fastest-ai-code-editor",
       "time": 1746599920.0,
       "comments_url": "https://news.ycombinator.com/item?id=43912844"
     },
     {
       "title": "Show HN: 100.st – Dev utilities I built for format conversions and encoding",
-      "score": 6,
+      "score": 8,
       "url": "https://100.st",
       "time": 1746384809.0,
       "comments_url": "https://news.ycombinator.com/item?id=43888634"
     },
     {
-      "title": "Getting Older Isn't What You Think",
-      "score": 4,
-      "url": "https://www.katycowan.co.uk/blog/getting-old",
-      "time": 1746636064.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43917855"
-    },
-    {
       "title": "Polycompiler: Merge Python and JavaScript code into one file that runs in both",
-      "score": 34,
+      "score": 36,
       "url": "https://github.com/EvanZhouDev/polycompiler",
       "time": 1746329221.0,
       "comments_url": "https://news.ycombinator.com/item?id=43884245"
-    },
-    {
-      "title": "Know Your Enemy: How Three Years at McKinsey Shaped My Second Startup",
-      "score": 68,
-      "url": "https://blog.zactownsend.com/know-your-enemy-how-three-years-at-mckinsey-shaped-my-second-startup",
-      "time": 1746365422.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43886604"
     },
     {
       "title": "Perfect Random Floating-Point Numbers",
@@ -101,24 +101,24 @@
     },
     {
       "title": "Show HN: Clippy – 90s UI for local LLMs",
-      "score": 1055,
+      "score": 1057,
       "url": "https://felixrieseberg.github.io/clippy/",
       "time": 1746543742.0,
       "comments_url": "https://news.ycombinator.com/item?id=43905942"
     },
     {
-      "title": "Create and edit images with Gemini 2.0 in preview",
-      "score": 6,
-      "url": "https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/",
-      "time": 1746634004.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43917461"
-    },
-    {
       "title": "OpenSearch 3.0 Released",
-      "score": 22,
+      "score": 25,
       "url": "https://opensearch.org/blog/opensearch-3-0-enhances-vector-database-performance/",
       "time": 1746632326.0,
       "comments_url": "https://news.ycombinator.com/item?id=43917122"
+    },
+    {
+      "title": "Know Your Enemy: How Three Years at McKinsey Shaped My Second Startup",
+      "score": 70,
+      "url": "https://blog.zactownsend.com/know-your-enemy-how-three-years-at-mckinsey-shaped-my-second-startup",
+      "time": 1746365422.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43886604"
     },
     {
       "title": "Using tests as a debugging tool for logic errors",
@@ -129,14 +129,14 @@
     },
     {
       "title": "Ghost students are creating an 'agonizing' problem for Calif. colleges",
-      "score": 20,
+      "score": 26,
       "url": "https://www.sfgate.com/bayarea/article/ghost-students-creating-problem-calif-colleges-20311708.php",
       "time": 1746633934.0,
       "comments_url": "https://news.ycombinator.com/item?id=43917448"
     },
     {
       "title": "OpenAI reaches agreement to buy Windsurf for $3B",
-      "score": 612,
+      "score": 616,
       "url": "https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion",
       "time": 1746493068.0,
       "comments_url": "https://news.ycombinator.com/item?id=43900877"
