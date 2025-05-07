@@ -3,6 +3,14 @@ document.addEventListener("DOMContentLoaded", () => {
   const hfItemsList = document.getElementById("hf-items-list");
   const lastUpdatedElement = document.getElementById("last-updated-time");
   const hfLastUpdatedElement = document.getElementById("hf-last-updated-time");
+  const arxivLlmItemsList = document.getElementById("arxiv-llm-items-list");
+  const arxivLlmLastUpdatedElement = document.getElementById(
+    "arxiv-llm-last-updated-time"
+  );
+  const arxivAgentItemsList = document.getElementById("arxiv-agent-items-list");
+  const arxivAgentLastUpdatedElement = document.getElementById(
+    "arxiv-agent-last-updated-time"
+  );
 
   // Function to calculate "time ago"
   function timeAgo(timestamp) {
@@ -75,6 +83,73 @@ document.addEventListener("DOMContentLoaded", () => {
     article.appendChild(metaDiv);
 
     return article;
+  }
+
+  // Function to format Arxiv paper data
+  function createArxivItem(paper) {
+    const article = document.createElement("article");
+    article.classList.add("trending-item");
+
+    const titleLink = document.createElement("a");
+    titleLink.href = paper.url;
+    titleLink.target = "_blank";
+    titleLink.rel = "noopener noreferrer";
+    titleLink.textContent = paper.title;
+
+    const titleHeader = document.createElement("h3");
+    titleHeader.appendChild(titleLink);
+
+    const summaryP = document.createElement("p");
+    summaryP.classList.add("summary"); // Added class for potential styling
+    summaryP.textContent = paper.summary;
+
+    const metaDiv = document.createElement("div");
+    metaDiv.classList.add("meta");
+
+    const timeSpan = document.createElement("span");
+    timeSpan.classList.add("time");
+    // published_time_eastern_timestamp is expected to be a Unix timestamp
+    timeSpan.textContent = timeAgo(paper.published_time_eastern_timestamp);
+
+    metaDiv.appendChild(timeSpan);
+
+    article.appendChild(titleHeader);
+    article.appendChild(summaryP);
+    article.appendChild(metaDiv);
+
+    return article;
+  }
+
+  // Function to fetch and display Arxiv data
+  function fetchArxivData(jsonUrl, itemsListElement, lastUpdatedElement, sectionName) {
+    fetch(jsonUrl)
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        return response.json();
+      })
+      .then((data) => {
+        itemsListElement.innerHTML = ""; // Clear loading message
+        if (data.last_updated) {
+          lastUpdatedElement.textContent = formatLastUpdated(data.last_updated);
+        } else {
+          lastUpdatedElement.textContent = "Last updated: N/A";
+        }
+
+        if (data.papers && data.papers.length > 0) {
+          data.papers.forEach((paper) => {
+            itemsListElement.appendChild(createArxivItem(paper));
+          });
+        } else {
+          itemsListElement.innerHTML = "<p>No papers found.</p>";
+        }
+      })
+      .catch((error) => {
+        console.error(`Error fetching or parsing ${sectionName} data:`, error);
+        itemsListElement.innerHTML = `<p style="color: red;">Error loading papers: ${error.message}. Check console for details.</p>`;
+        lastUpdatedElement.textContent = "Last updated: Error";
+      });
   }
 
   // Fetch HackerNews data
@@ -161,4 +236,20 @@ document.addEventListener("DOMContentLoaded", () => {
       hfItemsList.innerHTML = `<p style="color: red;">Error loading spaces: ${error.message}. Check console for details.</p>`;
       hfLastUpdatedElement.textContent = "Last updated: Error";
     });
+
+  // Fetch Arxiv LLM data
+  fetchArxivData(
+    "https://pchaganti.github.io/misc/arxiv_llm.json",
+    arxivLlmItemsList,
+    arxivLlmLastUpdatedElement,
+    "Arxiv LLM"
+  );
+
+  // Fetch Arxiv Agent data
+  fetchArxivData(
+    "https://pchaganti.github.io/misc/arxiv_agent.json",
+    arxivAgentItemsList,
+    arxivAgentLastUpdatedElement,
+    "Arxiv Agent"
+  );
 });
