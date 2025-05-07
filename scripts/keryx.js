@@ -90,28 +90,52 @@ document.addEventListener("DOMContentLoaded", () => {
     const article = document.createElement("article");
     article.classList.add("trending-item");
 
+    // Title and Toggle Button
+    const titleHeader = document.createElement("h3");
+
+    const toggleButton = document.createElement("span");
+    toggleButton.classList.add("summary-toggle"); // Class for styling if needed
+    toggleButton.textContent = "+"; // Plus for collapsed state
+    toggleButton.style.cursor = "pointer";
+    toggleButton.style.marginRight = "5px"; // Space between chevron and title
+    toggleButton.setAttribute("aria-expanded", "false");
+    toggleButton.setAttribute("aria-label", "Toggle summary");
+
+
     const titleLink = document.createElement("a");
     titleLink.href = paper.url;
     titleLink.target = "_blank";
     titleLink.rel = "noopener noreferrer";
     titleLink.textContent = paper.title;
 
-    const titleHeader = document.createElement("h3");
+    titleHeader.appendChild(toggleButton);
     titleHeader.appendChild(titleLink);
 
+    // Summary (initially hidden)
     const summaryP = document.createElement("p");
-    summaryP.classList.add("summary"); // Added class for potential styling
+    summaryP.classList.add("summary");
     summaryP.textContent = paper.summary;
+    summaryP.style.display = "none"; // Initially hidden
+    summaryP.style.marginTop = "5px"; // Add some space above the summary when visible
 
+    // Meta information (time)
     const metaDiv = document.createElement("div");
     metaDiv.classList.add("meta");
 
     const timeSpan = document.createElement("span");
     timeSpan.classList.add("time");
-    // published_time_eastern_timestamp is expected to be a Unix timestamp
     timeSpan.textContent = timeAgo(paper.published_time_eastern_timestamp);
 
     metaDiv.appendChild(timeSpan);
+
+    // Event listener for the toggle button
+    toggleButton.addEventListener("click", (event) => {
+      event.stopPropagation(); // Prevent click from bubbling to other elements if any
+      const isHidden = summaryP.style.display === "none";
+      summaryP.style.display = isHidden ? "block" : "none";
+      toggleButton.textContent = isHidden ? "-" : "+"; // Minus for expanded, Plus for collapsed
+      toggleButton.setAttribute("aria-expanded", isHidden ? "true" : "false");
+    });
 
     article.appendChild(titleHeader);
     article.appendChild(summaryP);

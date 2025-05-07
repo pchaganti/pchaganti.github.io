@@ -203,6 +203,7 @@ main {
 
 /* Scrollable Items List */
 .items-list {
+  max-height: 400px; /* Added fixed height */
   overflow-y: auto; /* Enable scrolling */
   flex-grow: 1; /* Take remaining space */
   padding-right: 10px; /* Space for scrollbar */
