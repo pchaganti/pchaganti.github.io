@@ -1,30 +1,30 @@
 {
-  "last_updated": "2025-05-07T19:30:16.413942-04:00",
+  "last_updated": "2025-05-07T19:35:18.374617-04:00",
   "stories": [
     {
-      "title": "Ty: A fast Python type checker and language server",
-      "score": 466,
-      "url": "https://github.com/astral-sh/ty",
-      "time": 1746639146.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43918484"
-    },
-    {
       "title": "Pakistani Firm Shipped Fentanyl Analogs, Scams to US",
-      "score": 52,
+      "score": 59,
       "url": "https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/",
       "time": 1746656754.0,
       "comments_url": "https://news.ycombinator.com/item?id=43921129"
     },
     {
+      "title": "Ty: A fast Python type checker and language server",
+      "score": 467,
+      "url": "https://github.com/astral-sh/ty",
+      "time": 1746639146.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43918484"
+    },
+    {
       "title": "Introducing Web Search on the Anthropic API",
-      "score": 121,
+      "score": 122,
       "url": "https://www.anthropic.com/news/web-search-api",
       "time": 1746649127.0,
       "comments_url": "https://news.ycombinator.com/item?id=43920188"
     },
     {
       "title": "'I paid for the whole GPU, I am going to use the whole GPU'",
-      "score": 76,
+      "score": 77,
       "url": "https://modal.com/blog/gpu-utilization-guide",
       "time": 1746651879.0,
       "comments_url": "https://news.ycombinator.com/item?id=43920544"
@@ -38,14 +38,14 @@
     },
     {
       "title": "Open source Google Analytics replacement",
-      "score": 140,
+      "score": 141,
       "url": "https://github.com/rybbit-io/rybbit",
       "time": 1746639933.0,
       "comments_url": "https://news.ycombinator.com/item?id=43918620"
     },
     {
       "title": "Mistral ships le chat – enterprise AI assistant that can run on prem",
-      "score": 214,
+      "score": 218,
       "url": "https://mistral.ai/news/le-chat-enterprise",
       "time": 1746627849.0,
       "comments_url": "https://news.ycombinator.com/item?id=43916098"
@@ -58,18 +58,18 @@
       "comments_url": "https://news.ycombinator.com/item?id=43919959"
     },
     {
+      "title": "Mac Themes Garden",
+      "score": 73,
+      "url": "https://damien.zone/introducing-mac-themes-garden/",
+      "time": 1746647091.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43919868"
+    },
+    {
       "title": "El Cono: The mysterious sacred 'pyramid' hidden deep in the Amazon rainforest",
       "score": 43,
       "url": "https://www.livescience.com/planet-earth/geology/el-cono-the-mysterious-sacred-pyramid-hidden-deep-in-the-amazon-rainforest",
       "time": 1746372881.0,
       "comments_url": "https://news.ycombinator.com/item?id=43887304"
-    },
-    {
-      "title": "Foundation DB Record Layer SQL API",
-      "score": 18,
-      "url": "https://foundationdb.github.io/fdb-record-layer/SQL_Reference.html",
-      "time": 1746654488.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43920889"
     },
     {
       "title": "GovEagle (YC W23) Is Hiring",
@@ -79,6 +79,13 @@
       "comments_url": "https://news.ycombinator.com/item?id=43920511"
     },
     {
+      "title": "Foundation DB Record Layer SQL API",
+      "score": 18,
+      "url": "https://foundationdb.github.io/fdb-record-layer/SQL_Reference.html",
+      "time": 1746654488.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43920889"
+    },
+    {
       "title": "He Dropped Out to Become a Poet. Now He’s Won a Fields Medal. (2022)",
       "score": 13,
       "url": "https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/",
@@ -86,18 +93,18 @@
       "comments_url": "https://news.ycombinator.com/item?id=43920792"
     },
     {
-      "title": "Mac Themes Garden",
-      "score": 72,
-      "url": "https://damien.zone/introducing-mac-themes-garden/",
-      "time": 1746647091.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43919868"
-    },
-    {
       "title": "Create and edit images with Gemini 2.0 in preview",
-      "score": 141,
+      "score": 142,
       "url": "https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/",
       "time": 1746634004.0,
       "comments_url": "https://news.ycombinator.com/item?id=43917461"
+    },
+    {
+      "title": "Show HN: eInk optimized manga with Kindle Comic Converter (+Kobo/ReMarkable)",
+      "score": 189,
+      "url": "https://github.com/ciromattia/kcc",
+      "time": 1746631603.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43916956"
     },
     {
       "title": "OpenAI for Countries",
@@ -107,11 +114,11 @@
       "comments_url": "https://news.ycombinator.com/item?id=43920555"
     },
     {
-      "title": "Show HN: eInk optimized manga with Kindle Comic Converter (+Kobo/ReMarkable)",
-      "score": 188,
-      "url": "https://github.com/ciromattia/kcc",
-      "time": 1746631603.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43916956"
+      "title": "Zed: High-performance AI Code Editor",
+      "score": 530,
+      "url": "https://zed.dev/blog/fastest-ai-code-editor",
+      "time": 1746599920.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43912844"
     },
     {
       "title": "A cycle-accurate IBM PC emulator in your web browser",
@@ -119,13 +126,6 @@
       "url": "https://martypc.net/?mount=fd:0:Area%205150%20(Compo%20Version).img",
       "time": 1746379154.0,
       "comments_url": "https://news.ycombinator.com/item?id=43888007"
-    },
-    {
-      "title": "Zed: High-performance AI Code Editor",
-      "score": 530,
-      "url": "https://zed.dev/blog/fastest-ai-code-editor",
-      "time": 1746599920.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43912844"
     },
     {
       "title": "So Much Blood",
