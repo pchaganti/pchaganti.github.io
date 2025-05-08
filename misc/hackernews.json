@@ -1,75 +1,96 @@
 {
-  "last_updated": "2025-05-07T19:35:18.374617-04:00",
+  "last_updated": "2025-05-07T21:11:11.536069-04:00",
   "stories": [
     {
-      "title": "Pakistani Firm Shipped Fentanyl Analogs, Scams to US",
-      "score": 59,
-      "url": "https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/",
-      "time": 1746656754.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43921129"
+      "title": "NSA spied through Angry Birds, other apps: report (2014)",
+      "score": 52,
+      "url": "https://www.nbcnews.com/tech/tech-news/nsa-spied-through-angry-birds-other-apps-report-flna2d12006530",
+      "time": 1746527698.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43903534"
     },
     {
       "title": "Ty: A fast Python type checker and language server",
-      "score": 467,
+      "score": 524,
       "url": "https://github.com/astral-sh/ty",
       "time": 1746639146.0,
       "comments_url": "https://news.ycombinator.com/item?id=43918484"
     },
     {
-      "title": "Introducing Web Search on the Anthropic API",
-      "score": 122,
-      "url": "https://www.anthropic.com/news/web-search-api",
-      "time": 1746649127.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43920188"
+      "title": "Yggdrasil is an experimental compact routing scheme that is fully decentralised",
+      "score": 30,
+      "url": "https://yggdrasil-network.github.io/about.html",
+      "time": 1746661510.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43921624"
     },
     {
-      "title": "'I paid for the whole GPU, I am going to use the whole GPU'",
-      "score": 77,
-      "url": "https://modal.com/blog/gpu-utilization-guide",
-      "time": 1746651879.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43920544"
+      "title": "Show HN: US Routing – Python library for fast local routing in the United States",
+      "score": 10,
+      "url": "https://github.com/ivanbelenky/us-routing",
+      "time": 1746661892.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43921653"
     },
     {
       "title": "Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O",
-      "score": 350,
+      "score": 370,
       "url": "https://pganalyze.com/blog/postgres-18-async-io",
       "time": 1746629823.0,
       "comments_url": "https://news.ycombinator.com/item?id=43916577"
     },
     {
+      "title": "Web search on the Anthropic API",
+      "score": 149,
+      "url": "https://www.anthropic.com/news/web-search-api",
+      "time": 1746649127.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43920188"
+    },
+    {
+      "title": "June Huh dropped out to become a poet, now he’s won a Fields Medal (2022)",
+      "score": 47,
+      "url": "https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/",
+      "time": 1746653646.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43920792"
+    },
+    {
       "title": "Open source Google Analytics replacement",
-      "score": 141,
+      "score": 167,
       "url": "https://github.com/rybbit-io/rybbit",
       "time": 1746639933.0,
       "comments_url": "https://news.ycombinator.com/item?id=43918620"
     },
     {
       "title": "Mistral ships le chat – enterprise AI assistant that can run on prem",
-      "score": 218,
+      "score": 249,
       "url": "https://mistral.ai/news/le-chat-enterprise",
       "time": 1746627849.0,
       "comments_url": "https://news.ycombinator.com/item?id=43916098"
     },
     {
-      "title": "How to Average in Prolog (2017)",
-      "score": 35,
-      "url": "https://storytotell.org/how-to-average-in-prolog",
-      "time": 1746647648.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43919959"
+      "title": "Examining problematic speech and behavior in World of Warcraft (2022)",
+      "score": 6,
+      "url": "https://tcjournal.org/vol8/jackson/",
+      "time": 1746663527.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43921805"
     },
     {
       "title": "Mac Themes Garden",
-      "score": 73,
+      "score": 104,
       "url": "https://damien.zone/introducing-mac-themes-garden/",
       "time": 1746647091.0,
       "comments_url": "https://news.ycombinator.com/item?id=43919868"
     },
     {
-      "title": "El Cono: The mysterious sacred 'pyramid' hidden deep in the Amazon rainforest",
-      "score": 43,
-      "url": "https://www.livescience.com/planet-earth/geology/el-cono-the-mysterious-sacred-pyramid-hidden-deep-in-the-amazon-rainforest",
-      "time": 1746372881.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43887304"
+      "title": "Foundation DB Record Layer SQL API",
+      "score": 40,
+      "url": "https://foundationdb.github.io/fdb-record-layer/SQL_Reference.html",
+      "time": 1746654488.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43920889"
+    },
+    {
+      "title": "Create and edit images with Gemini 2.0 in preview",
+      "score": 158,
+      "url": "https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/",
+      "time": 1746634004.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43917461"
     },
     {
       "title": "GovEagle (YC W23) Is Hiring",
@@ -79,67 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=43920511"
     },
     {
-      "title": "Foundation DB Record Layer SQL API",
-      "score": 18,
-      "url": "https://foundationdb.github.io/fdb-record-layer/SQL_Reference.html",
-      "time": 1746654488.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43920889"
+      "title": "How to Average in Prolog (2017)",
+      "score": 42,
+      "url": "https://storytotell.org/how-to-average-in-prolog",
+      "time": 1746647648.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43919959"
     },
     {
-      "title": "He Dropped Out to Become a Poet. Now He’s Won a Fields Medal. (2022)",
-      "score": 13,
-      "url": "https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/",
-      "time": 1746653646.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43920792"
+      "title": "Parametric Modeling with Grasshopper",
+      "score": 8,
+      "url": "https://baharmon.github.io/basics",
+      "time": 1746662232.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43921681"
     },
     {
-      "title": "Create and edit images with Gemini 2.0 in preview",
-      "score": 142,
-      "url": "https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/",
-      "time": 1746634004.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43917461"
-    },
-    {
-      "title": "Show HN: eInk optimized manga with Kindle Comic Converter (+Kobo/ReMarkable)",
-      "score": 189,
-      "url": "https://github.com/ciromattia/kcc",
-      "time": 1746631603.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43916956"
+      "title": "A cycle-accurate IBM PC emulator in your web browser",
+      "score": 39,
+      "url": "https://martypc.net/?mount=fd:0:Area%205150%20(Compo%20Version).img",
+      "time": 1746379154.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43888007"
     },
     {
       "title": "OpenAI for Countries",
-      "score": 76,
+      "score": 97,
       "url": "https://openai.com/global-affairs/openai-for-countries/",
       "time": 1746651936.0,
       "comments_url": "https://news.ycombinator.com/item?id=43920555"
     },
     {
       "title": "Zed: High-performance AI Code Editor",
-      "score": 530,
+      "score": 556,
       "url": "https://zed.dev/blog/fastest-ai-code-editor",
       "time": 1746599920.0,
       "comments_url": "https://news.ycombinator.com/item?id=43912844"
     },
     {
-      "title": "A cycle-accurate IBM PC emulator in your web browser",
-      "score": 22,
-      "url": "https://martypc.net/?mount=fd:0:Area%205150%20(Compo%20Version).img",
-      "time": 1746379154.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43888007"
-    },
-    {
-      "title": "So Much Blood",
-      "score": 314,
-      "url": "https://dynomight.net/blood/",
-      "time": 1746610873.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43913751"
-    },
-    {
-      "title": "My quest to make motorcycle riding that tad bit safer",
-      "score": 201,
-      "url": "https://gill.net.in/posts/my-quest-to-make-motorcycle-riding-safer/",
-      "time": 1746615977.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43914235"
+      "title": "Bell's 1881 Metal detector",
+      "score": 17,
+      "url": "http://www.scitechantiques.com/belldiscovery/",
+      "time": 1746397496.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43890118"
     }
   ]
 }
