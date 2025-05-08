@@ -11,6 +11,11 @@ document.addEventListener("DOMContentLoaded", () => {
   const arxivAgentLastUpdatedElement = document.getElementById(
     "arxiv-agent-last-updated-time",
   );
+  const arxivCodeItemsList = document.getElementById("arxiv-code-items-list");
+  const arxivCodeLastUpdatedElement = document.getElementById(
+    "arxiv-code-last-updated-time",
+  );
+
   const mitNewsItemsList = document.getElementById("mit-news-items-list");
   const mitNewsLastUpdatedElement = document.getElementById(
     "mit-news-last-updated-time",
@@ -313,6 +318,14 @@ document.addEventListener("DOMContentLoaded", () => {
     arxivAgentItemsList,
     arxivAgentLastUpdatedElement,
     "Arxiv Agent",
+  );
+
+  // Fetch Arxiv Code data
+  fetchArxivData(
+    "https://pchaganti.github.io/misc/arxiv_code.json",
+    arxivCodeItemsList,
+    arxivCodeLastUpdatedElement,
+    "Arxiv Code",
   );
 
   // Fetch MIT News data
