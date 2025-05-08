@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-05-07T21:11:11.536069-04:00",
+  "last_updated": "2025-05-08T02:21:49.313981-04:00",
   "stories": [
     {
-      "title": "NSA spied through Angry Birds, other apps: report (2014)",
-      "score": 52,
-      "url": "https://www.nbcnews.com/tech/tech-news/nsa-spied-through-angry-birds-other-apps-report-flna2d12006530",
-      "time": 1746527698.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43903534"
+      "title": "How linear regression works intuitively and how it leads to gradient descent",
+      "score": 32,
+      "url": "https://briefer.cloud/blog/posts/least-squares/",
+      "time": 1746457533.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43895890"
+    },
+    {
+      "title": "Mycoria is an open and secure overlay network that connects all participants",
+      "score": 13,
+      "url": "https://mycoria.org/",
+      "time": 1746682852.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43923372"
+    },
+    {
+      "title": "Inheritance was invented as a performance hack (2021)",
+      "score": 87,
+      "url": "https://catern.com/inheritance.html",
+      "time": 1746529158.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43903705"
     },
     {
       "title": "Ty: A fast Python type checker and language server",
-      "score": 524,
+      "score": 660,
       "url": "https://github.com/astral-sh/ty",
       "time": 1746639146.0,
       "comments_url": "https://news.ycombinator.com/item?id=43918484"
     },
     {
-      "title": "Yggdrasil is an experimental compact routing scheme that is fully decentralised",
-      "score": 30,
-      "url": "https://yggdrasil-network.github.io/about.html",
-      "time": 1746661510.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43921624"
-    },
-    {
-      "title": "Show HN: US Routing – Python library for fast local routing in the United States",
-      "score": 10,
-      "url": "https://github.com/ivanbelenky/us-routing",
-      "time": 1746661892.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43921653"
+      "title": "Why Intel Deprecated SGX?",
+      "score": 8,
+      "url": "https://hardenedvault.net/blog/2022-01-15-sgx-deprecated/",
+      "time": 1746682338.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43923331"
     },
     {
       "title": "Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O",
-      "score": 370,
+      "score": 424,
       "url": "https://pganalyze.com/blog/postgres-18-async-io",
       "time": 1746629823.0,
       "comments_url": "https://news.ycombinator.com/item?id=43916577"
     },
     {
-      "title": "Web search on the Anthropic API",
-      "score": 149,
-      "url": "https://www.anthropic.com/news/web-search-api",
-      "time": 1746649127.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43920188"
+      "title": "Docs like code in basic terms",
+      "score": 28,
+      "url": "https://deborahwrites.com/blog/docs-like-code-basic-intro/",
+      "time": 1746440521.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43893464"
+    },
+    {
+      "title": "Show HN: US Routing – Python library for fast local routing in the US",
+      "score": 73,
+      "url": "https://github.com/ivanbelenky/us-routing",
+      "time": 1746661892.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43921653"
     },
     {
       "title": "June Huh dropped out to become a poet, now he’s won a Fields Medal (2022)",
-      "score": 47,
+      "score": 116,
       "url": "https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/",
       "time": 1746653646.0,
       "comments_url": "https://news.ycombinator.com/item?id=43920792"
     },
     {
-      "title": "Open source Google Analytics replacement",
-      "score": 167,
-      "url": "https://github.com/rybbit-io/rybbit",
-      "time": 1746639933.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43918620"
-    },
-    {
-      "title": "Mistral ships le chat – enterprise AI assistant that can run on prem",
-      "score": 249,
+      "title": "Mistral ships Le Chat – enterprise AI assistant that can run on prem",
+      "score": 326,
       "url": "https://mistral.ai/news/le-chat-enterprise",
       "time": 1746627849.0,
       "comments_url": "https://news.ycombinator.com/item?id=43916098"
     },
     {
-      "title": "Examining problematic speech and behavior in World of Warcraft (2022)",
-      "score": 6,
-      "url": "https://tcjournal.org/vol8/jackson/",
-      "time": 1746663527.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43921805"
+      "title": "Open source Google Analytics replacement",
+      "score": 239,
+      "url": "https://github.com/rybbit-io/rybbit",
+      "time": 1746639933.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43918620"
     },
     {
-      "title": "Mac Themes Garden",
-      "score": 104,
-      "url": "https://damien.zone/introducing-mac-themes-garden/",
-      "time": 1746647091.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43919868"
+      "title": "Web search on the Anthropic API",
+      "score": 206,
+      "url": "https://www.anthropic.com/news/web-search-api",
+      "time": 1746649127.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43920188"
+    },
+    {
+      "title": "Ancient DNA from the green Sahara reveals ancestral North African lineage",
+      "score": 21,
+      "url": "https://www.nature.com/articles/s41586-025-08793-7",
+      "time": 1746396191.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43889972"
     },
     {
       "title": "Foundation DB Record Layer SQL API",
-      "score": 40,
+      "score": 82,
       "url": "https://foundationdb.github.io/fdb-record-layer/SQL_Reference.html",
       "time": 1746654488.0,
       "comments_url": "https://news.ycombinator.com/item?id=43920889"
     },
     {
       "title": "Create and edit images with Gemini 2.0 in preview",
-      "score": 158,
+      "score": 189,
       "url": "https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/",
       "time": 1746634004.0,
       "comments_url": "https://news.ycombinator.com/item?id=43917461"
     },
     {
-      "title": "GovEagle (YC W23) Is Hiring",
-      "score": 1,
-      "url": "https://www.ycombinator.com/companies/goveagle/jobs/ogNRCkd-platform-engineering-contractor-short-term",
-      "time": 1746651628.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43920511"
+      "title": "Gmail will soon stop support for the 3DES encryption cipher for incoming SMTP",
+      "score": 17,
+      "url": "https://workspaceupdates.googleblog.com/2025/05/update-for-gmail-support-for-the-3des-encryption-cipher-for-incoming-smtp-connections.html",
+      "time": 1746677380.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43922975"
     },
     {
-      "title": "How to Average in Prolog (2017)",
-      "score": 42,
-      "url": "https://storytotell.org/how-to-average-in-prolog",
-      "time": 1746647648.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43919959"
-    },
-    {
-      "title": "Parametric Modeling with Grasshopper",
-      "score": 8,
-      "url": "https://baharmon.github.io/basics",
-      "time": 1746662232.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43921681"
+      "title": "Mac Themes Garden",
+      "score": 148,
+      "url": "https://damien.zone/introducing-mac-themes-garden/",
+      "time": 1746647091.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43919868"
     },
     {
       "title": "A cycle-accurate IBM PC emulator in your web browser",
-      "score": 39,
+      "score": 81,
       "url": "https://martypc.net/?mount=fd:0:Area%205150%20(Compo%20Version).img",
       "time": 1746379154.0,
       "comments_url": "https://news.ycombinator.com/item?id=43888007"
     },
     {
-      "title": "OpenAI for Countries",
-      "score": 97,
-      "url": "https://openai.com/global-affairs/openai-for-countries/",
-      "time": 1746651936.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43920555"
+      "title": "Bootstrapping Lisp in a Boot Sector",
+      "score": 47,
+      "url": "https://github.com/jart/sectorlisp",
+      "time": 1746431546.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43892773"
     },
     {
-      "title": "Zed: High-performance AI Code Editor",
-      "score": 556,
-      "url": "https://zed.dev/blog/fastest-ai-code-editor",
-      "time": 1746599920.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43912844"
-    },
-    {
-      "title": "Bell's 1881 Metal detector",
-      "score": 17,
-      "url": "http://www.scitechantiques.com/belldiscovery/",
-      "time": 1746397496.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43890118"
+      "title": "Samsung is paying $350M for audio brands B&W, Denon, Marantz and Polk",
+      "score": 113,
+      "url": "https://www.engadget.com/audio/samsung-is-paying-350-million-for-audio-brands-bowers--wilkins-denon-marantz-and-polk-131514754.html",
+      "time": 1746638905.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43918437"
     }
   ]
 }
