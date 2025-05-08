@@ -1,51 +1,93 @@
 {
-  "last_updated": "2025-05-08T14:16:05.658013-04:00",
+  "last_updated": "2025-05-08T17:11:13.079925-04:00",
   "stories": [
     {
       "title": "Void: Open-source Cursor alternative",
-      "score": 145,
+      "score": 369,
       "url": "https://github.com/voideditor/void",
       "time": 1746722134.0,
       "comments_url": "https://news.ycombinator.com/item?id=43927926"
     },
     {
-      "title": "Chicago native Cardinal Prevost elected pope, takes name Leo XIV",
-      "score": 105,
-      "url": "https://catholicreview.org/chicago-native-cardinal-prevost-elected-pope-takes-name-leo-xiv/",
-      "time": 1746725355.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43928742"
-    },
-    {
       "title": "Reservoir Sampling",
-      "score": 61,
+      "score": 185,
       "url": "https://samwho.dev/reservoir-sampling/",
       "time": 1746723730.0,
       "comments_url": "https://news.ycombinator.com/item?id=43928315"
     },
     {
+      "title": "From: Steve Jobs. \"Great idea, thank you.\"",
+      "score": 359,
+      "url": "https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html",
+      "time": 1746729612.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43929724"
+    },
+    {
+      "title": "Why do LLMs have emergent properties?",
+      "score": 28,
+      "url": "https://www.johndcook.com/blog/2025/05/08/why-do-llms-have-emergent-properties/",
+      "time": 1746734820.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43930757"
+    },
+    {
       "title": "Progress toward fusion energy gain as measured against the Lawson criteria",
-      "score": 61,
+      "score": 110,
       "url": "https://www.fusionenergybase.com/articles/continuing-progress-toward-fusion-energy-breakeven-and-gain-as-measured-against-the-lawson-criteria",
       "time": 1746719377.0,
       "comments_url": "https://news.ycombinator.com/item?id=43927337"
     },
     {
-      "title": "Show HN: Using eBPF to see through encryption without a proxy",
-      "score": 84,
-      "url": "https://github.com/qpoint-io/qtap",
-      "time": 1746722951.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43928118"
-    },
-    {
       "title": "Notes on rolling out Cursor and Claude Code",
-      "score": 33,
+      "score": 95,
       "url": "https://ghiculescu.substack.com/p/nobody-codes-here-anymore",
       "time": 1746722079.0,
       "comments_url": "https://news.ycombinator.com/item?id=43927914"
     },
     {
+      "title": "Block Diffusion: Interpolating Autoregressive and Diffusion Language Models",
+      "score": 20,
+      "url": "https://m-arriola.com/bd3lms/",
+      "time": 1746728300.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43929447"
+    },
+    {
+      "title": "Stability by Design",
+      "score": 13,
+      "url": "https://potetm.com/devtalk/stability-by-design.html",
+      "time": 1746733889.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43930584"
+    },
+    {
+      "title": "When Abandoned Mines Collapse",
+      "score": 80,
+      "url": "https://practical.engineering/blog/2025/5/6/when-abandoned-mines-collapse",
+      "time": 1746556694.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43908261"
+    },
+    {
+      "title": "First American pope elected and will be known as Pope Leo XIV",
+      "score": 327,
+      "url": "https://www.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25",
+      "time": 1746721845.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43927856"
+    },
+    {
+      "title": "Static as a Server",
+      "score": 48,
+      "url": "https://overreacted.io/static-as-a-server/",
+      "time": 1746726542.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43929054"
+    },
+    {
+      "title": "The Rise and Fall of the Visual Telegraph (2017)",
+      "score": 11,
+      "url": "https://parisianfields.com/2017/11/05/the-rise-and-fall-of-the-visual-telegraph/",
+      "time": 1746731609.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43930156"
+    },
+    {
       "title": "Using NASA’s SMAP satellite to detect L-band interference",
-      "score": 269,
+      "score": 280,
       "url": "https://radioandnukes.substack.com/p/how-dare-you-transmit-at-14-ghz",
       "time": 1746694376.0,
       "comments_url": "https://news.ycombinator.com/item?id=43924358"
@@ -58,88 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=43928294"
     },
     {
-      "title": "Using Coalton to implement a quantum compiler (2022)",
-      "score": 29,
-      "url": "https://coalton-lang.github.io/20220906-quantum-compiler/",
-      "time": 1746426698.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43892446"
+      "title": "Mathematical Problem Solving",
+      "score": 18,
+      "url": "https://www.cip.ifi.lmu.de/~grinberg/t/20f/",
+      "time": 1746432335.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43892840"
     },
     {
-      "title": "First American pope elected and will be known as Pope Leo XIV",
-      "score": 173,
-      "url": "https://www.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25",
-      "time": 1746721845.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43927856"
+      "title": "The second birth of JMW Turner",
+      "score": 4,
+      "url": "https://www.newstatesman.com/culture/art-design/2025/04/the-second-birth-of-jmw-turner",
+      "time": 1746505925.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43901831"
     },
     {
       "title": "Ask HN: What are good high-information density UIs (screenshots, apps, sites)?",
-      "score": 241,
+      "score": 319,
       "url": "https://news.ycombinator.com/item?id=43925732",
       "time": 1746709510.0,
       "comments_url": "https://news.ycombinator.com/item?id=43925732"
     },
     {
-      "title": "Google to back three new nuclear projects",
-      "score": 204,
-      "url": "https://www.esgtoday.com/google-to-back-three-new-advanced-nuclear-projects/",
-      "time": 1746711369.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43925982"
-    },
-    {
-      "title": "How to harden GitHub Actions",
-      "score": 161,
-      "url": "https://www.wiz.io/blog/github-actions-security-guide",
-      "time": 1746497262.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43901190"
-    },
-    {
       "title": "Mycoria is an open and secure overlay network that connects all participants",
-      "score": 289,
+      "score": 307,
       "url": "https://mycoria.org/",
       "time": 1746682852.0,
       "comments_url": "https://news.ycombinator.com/item?id=43923372"
     },
     {
-      "title": "When Abandoned Mines Collapse",
-      "score": 20,
-      "url": "https://practical.engineering/blog/2025/5/6/when-abandoned-mines-collapse",
-      "time": 1746556694.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43908261"
+      "title": "Shape and topology morphing of closed surfaces integrating origami and kirigami",
+      "score": 10,
+      "url": "https://www.science.org/doi/10.1126/sciadv.ads5659",
+      "time": 1746530192.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43903809"
     },
     {
-      "title": "My new deadline: 20 years to give away virtually all my wealth",
-      "score": 345,
-      "url": "https://www.gatesnotes.com/home/home-page-topic/reader/n20-years-to-give-away-virtually-all-my-wealth",
-      "time": 1746712789.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43926165"
-    },
-    {
-      "title": "How linear regression works intuitively and how it leads to gradient descent",
-      "score": 289,
-      "url": "https://briefer.cloud/blog/posts/least-squares/",
-      "time": 1746457533.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43895890"
-    },
-    {
-      "title": "Show HN: Checking Pope's election results with smoke test script for chimney",
-      "score": 15,
-      "url": "https://github.com/donobu-inc/donobu-papal-election-tests/blob/main/tests/papal_election_smoke.test.ts",
-      "time": 1746720824.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43927649"
-    },
-    {
-      "title": "AI focused on brain regions recreates what you're looking at (2024)",
-      "score": 17,
-      "url": "https://www.newscientist.com/article/2438107-mind-reading-ai-recreates-what-youre-looking-at-with-amazing-accuracy/",
-      "time": 1746564765.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43909519"
-    },
-    {
-      "title": "How Obama’s BlackBerry got secured (2013)",
-      "score": 147,
-      "url": "https://www.electrospaces.net/2013/04/how-obamas-blackberry-got-secured.html",
-      "time": 1746431684.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43892786"
+      "title": "Egyptologist uncovers hidden messages on Paris’s iconic obelisk",
+      "score": 65,
+      "url": "https://news.artnet.com/art-world/hidden-messages-paris-luxor-obelisk-2636508",
+      "time": 1746691452.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43924117"
     }
   ]
 }
