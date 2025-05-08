@@ -1,47 +1,47 @@
 {
-  "last_updated": "2025-05-08T08:28:55.762217-04:00",
+  "last_updated": "2025-05-08T08:34:41.477138-04:00",
   "stories": [
     {
       "title": "Using NASA’s SMAP satellite to detect L-band interference",
-      "score": 156,
+      "score": 161,
       "url": "https://radioandnukes.substack.com/p/how-dare-you-transmit-at-14-ghz",
       "time": 1746694376.0,
       "comments_url": "https://news.ycombinator.com/item?id=43924358"
     },
     {
       "title": "How to Harden GitHub Actions: The Unofficial Guide",
-      "score": 16,
+      "score": 21,
       "url": "https://www.wiz.io/blog/github-actions-security-guide",
       "time": 1746497262.0,
       "comments_url": "https://news.ycombinator.com/item?id=43901190"
     },
     {
       "title": "Mycoria is an open and secure overlay network that connects all participants",
-      "score": 194,
+      "score": 196,
       "url": "https://mycoria.org/",
       "time": 1746682852.0,
       "comments_url": "https://news.ycombinator.com/item?id=43923372"
     },
     {
+      "title": "My stackoverflow question was closed so here's a blog post about CoreWCF",
+      "score": 5,
+      "url": "https://richardcocks.github.io/2025-05-08-CoreWCF.html",
+      "time": 1746706299.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43925355"
+    },
+    {
       "title": "How linear regression works intuitively and how it leads to gradient descent",
-      "score": 176,
+      "score": 178,
       "url": "https://briefer.cloud/blog/posts/least-squares/",
       "time": 1746457533.0,
       "comments_url": "https://news.ycombinator.com/item?id=43895890"
     },
     {
       "title": "Heat stress mitigation by trees and shelters at bus stops",
-      "score": 53,
+      "score": 57,
       "url": "https://www.sciencedirect.com/science/article/pii/S136192092500063X",
       "time": 1746463274.0,
       "comments_url": "https://news.ycombinator.com/item?id=43896948"
-    },
-    {
-      "title": "Ty: A fast Python type checker and language server",
-      "score": 783,
-      "url": "https://github.com/astral-sh/ty",
-      "time": 1746639146.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43918484"
     },
     {
       "title": "Artifact (YC W25) Is Hiring",
@@ -51,36 +51,43 @@
       "comments_url": "https://news.ycombinator.com/item?id=43925306"
     },
     {
-      "title": "Secret Messages Detected on Egyptian Obelisk in Paris",
-      "score": 34,
-      "url": "https://archaeology.org/news/2025/05/06/secret-messages-detected-on-egyptian-obelisk-in-paris/",
-      "time": 1746691452.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43924117"
+      "title": "Ty: A fast Python type checker and language server",
+      "score": 785,
+      "url": "https://github.com/astral-sh/ty",
+      "time": 1746639146.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43918484"
     },
     {
       "title": "How Obama’s BlackBerry got secured (2013)",
-      "score": 29,
+      "score": 31,
       "url": "https://www.electrospaces.net/2013/04/how-obamas-blackberry-got-secured.html",
       "time": 1746431684.0,
       "comments_url": "https://news.ycombinator.com/item?id=43892786"
     },
     {
-      "title": "Mass spectrometry method identifies pathogens within minutes instead of days",
-      "score": 62,
-      "url": "https://phys.org/news/2025-05-mass-spectrometry-method-pathogens-minutes.html",
-      "time": 1746544417.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43906066"
+      "title": "Secret Messages Detected on Egyptian Obelisk in Paris",
+      "score": 35,
+      "url": "https://archaeology.org/news/2025/05/06/secret-messages-detected-on-egyptian-obelisk-in-paris/",
+      "time": 1746691452.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43924117"
     },
     {
       "title": "Xenon is an open source universal game cheating framework C++",
-      "score": 9,
+      "score": 11,
       "url": "https://github.com/kiocode/xenon-cheats",
       "time": 1746699382.0,
       "comments_url": "https://news.ycombinator.com/item?id=43924779"
     },
     {
+      "title": "Mass spectrometry method identifies pathogens within minutes instead of days",
+      "score": 64,
+      "url": "https://phys.org/news/2025-05-mass-spectrometry-method-pathogens-minutes.html",
+      "time": 1746544417.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43906066"
+    },
+    {
       "title": "Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O",
-      "score": 492,
+      "score": 493,
       "url": "https://pganalyze.com/blog/postgres-18-async-io",
       "time": 1746629823.0,
       "comments_url": "https://news.ycombinator.com/item?id=43916577"
@@ -94,14 +101,14 @@
     },
     {
       "title": "June Huh dropped out to become a poet, now he’s won a Fields Medal (2022)",
-      "score": 174,
+      "score": 175,
       "url": "https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/",
       "time": 1746653646.0,
       "comments_url": "https://news.ycombinator.com/item?id=43920792"
     },
     {
       "title": "Extending a Language – Writing Powerful Macros in Scheme",
-      "score": 46,
+      "score": 47,
       "url": "https://mnieper.github.io/scheme-macros/README.html",
       "time": 1746425256.0,
       "comments_url": "https://news.ycombinator.com/item?id=43892331"
@@ -115,7 +122,7 @@
     },
     {
       "title": "Create and edit images with Gemini 2.0 in preview",
-      "score": 223,
+      "score": 224,
       "url": "https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/",
       "time": 1746634004.0,
       "comments_url": "https://news.ycombinator.com/item?id=43917461"
@@ -133,13 +140,6 @@
       "url": "https://foundationdb.github.io/fdb-record-layer/SQL_Reference.html",
       "time": 1746654488.0,
       "comments_url": "https://news.ycombinator.com/item?id=43920889"
-    },
-    {
-      "title": "Web search on the Anthropic API",
-      "score": 237,
-      "url": "https://www.anthropic.com/news/web-search-api",
-      "time": 1746649127.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43920188"
     }
   ]
 }
