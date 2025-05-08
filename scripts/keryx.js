@@ -5,11 +5,15 @@ document.addEventListener("DOMContentLoaded", () => {
   const hfLastUpdatedElement = document.getElementById("hf-last-updated-time");
   const arxivLlmItemsList = document.getElementById("arxiv-llm-items-list");
   const arxivLlmLastUpdatedElement = document.getElementById(
-    "arxiv-llm-last-updated-time"
+    "arxiv-llm-last-updated-time",
   );
   const arxivAgentItemsList = document.getElementById("arxiv-agent-items-list");
   const arxivAgentLastUpdatedElement = document.getElementById(
-    "arxiv-agent-last-updated-time"
+    "arxiv-agent-last-updated-time",
+  );
+  const mitNewsItemsList = document.getElementById("mit-news-items-list");
+  const mitNewsLastUpdatedElement = document.getElementById(
+    "mit-news-last-updated-time",
   );
 
   // Function to calculate "time ago"
@@ -101,7 +105,6 @@ document.addEventListener("DOMContentLoaded", () => {
     toggleButton.setAttribute("aria-expanded", "false");
     toggleButton.setAttribute("aria-label", "Toggle summary");
 
-
     const titleLink = document.createElement("a");
     titleLink.href = paper.url;
     titleLink.target = "_blank";
@@ -144,8 +147,43 @@ document.addEventListener("DOMContentLoaded", () => {
     return article;
   }
 
+  // Function to format MIT News story data
+  function createMitNewsItem(story) {
+    const article = document.createElement("article");
+    article.classList.add("trending-item");
+
+    const titleLink = document.createElement("a");
+    titleLink.href = story.url;
+    titleLink.target = "_blank";
+    titleLink.rel = "noopener noreferrer";
+    titleLink.textContent = story.title;
+
+    const titleHeader = document.createElement("h3");
+    titleHeader.appendChild(titleLink);
+
+    const metaDiv = document.createElement("div");
+    metaDiv.classList.add("meta");
+
+    const timeSpan = document.createElement("span");
+    timeSpan.classList.add("time");
+    // The 'time' field in mit_news.json is already a Unix timestamp in seconds
+    timeSpan.textContent = timeAgo(story.time);
+
+    metaDiv.appendChild(timeSpan);
+
+    article.appendChild(titleHeader);
+    article.appendChild(metaDiv);
+
+    return article;
+  }
+
   // Function to fetch and display Arxiv data
-  function fetchArxivData(jsonUrl, itemsListElement, lastUpdatedElement, sectionName) {
+  function fetchArxivData(
+    jsonUrl,
+    itemsListElement,
+    lastUpdatedElement,
+    sectionName,
+  ) {
     fetch(jsonUrl)
       .then((response) => {
         if (!response.ok) {
@@ -266,7 +304,7 @@ document.addEventListener("DOMContentLoaded", () => {
     "https://pchaganti.github.io/misc/arxiv_llm.json",
     arxivLlmItemsList,
     arxivLlmLastUpdatedElement,
-    "Arxiv LLM"
+    "Arxiv LLM",
   );
 
   // Fetch Arxiv Agent data
@@ -274,6 +312,38 @@ document.addEventListener("DOMContentLoaded", () => {
     "https://pchaganti.github.io/misc/arxiv_agent.json",
     arxivAgentItemsList,
     arxivAgentLastUpdatedElement,
-    "Arxiv Agent"
+    "Arxiv Agent",
   );
+
+  // Fetch MIT News data
+  fetch("https://pchaganti.github.io/misc/mit_news.json")
+    .then((response) => {
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      return response.json();
+    })
+    .then((data) => {
+      mitNewsItemsList.innerHTML = ""; // Clear loading message
+      if (data.last_updated) {
+        mitNewsLastUpdatedElement.textContent = formatLastUpdated(
+          data.last_updated,
+        );
+      } else {
+        mitNewsLastUpdatedElement.textContent = "Last updated: N/A";
+      }
+
+      if (data.stories && data.stories.length > 0) {
+        data.stories.forEach((story) => {
+          mitNewsItemsList.appendChild(createMitNewsItem(story));
+        });
+      } else {
+        mitNewsItemsList.innerHTML = "<p>No stories found.</p>";
+      }
+    })
+    .catch((error) => {
+      console.error("Error fetching or parsing MIT News data:", error);
+      mitNewsItemsList.innerHTML = `<p style="color: red;">Error loading stories: ${error.message}. Check console for details.</p>`;
+      mitNewsLastUpdatedElement.textContent = "Last updated: Error";
+    });
 });
