@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-08T17:11:14.319995-04:00",
+  "last_updated": "2025-05-08T20:57:09.007958-04:00",
   "papers": [
     {
       "title": "EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via\n  Reinforcement Learning",
@@ -22,7 +22,7 @@
     {
       "title": "MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection",
       "summary": "Accurately predicting 3D attributes is crucial for monocular 3D object\ndetection (Mono3D), with depth estimation posing the greatest challenge due to\nthe inherent ambiguity in mapping 2D images to 3D space. While existing methods\nleverage multiple depth cues (e.g., estimating depth uncertainty, modeling\ndepth error) to improve depth accuracy, they overlook that accurate depth\nprediction requires conditioning on other 3D attributes, as these attributes\nare intrinsically inter-correlated through the 3D to 2D projection, which\nultimately limits overall accuracy and stability. Inspired by Chain-of-Thought\n(CoT) in large language models (LLMs), this paper proposes MonoCoP, which\nleverages a Chain-of-Prediction (CoP) to predict attributes sequentially and\nconditionally via three key designs. First, it employs a lightweight\nAttributeNet (AN) for each 3D attribute to learn attribute-specific features.\nNext, MonoCoP constructs an explicit chain to propagate these learned features\nfrom one attribute to the next. Finally, MonoCoP uses a residual connection to\naggregate features for each attribute along the chain, ensuring that later\nattribute predictions are conditioned on all previously processed attributes\nwithout forgetting the features of earlier ones. Experimental results show that\nour MonoCoP achieves state-of-the-art (SoTA) performance on the KITTI\nleaderboard without requiring additional data and further surpasses existing\nmethods on the Waymo and nuScenes frontal datasets.",
-      "url": "http://arxiv.org/abs/2505.04594v1",
+      "url": "http://arxiv.org/abs/2505.04594v2",
       "published_time_eastern_timestamp": 1746639443.0
     },
     {

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-08T17:11:15.103805-04:00",
+  "last_updated": "2025-05-08T20:57:09.941615-04:00",
   "papers": [
     {
       "title": "EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via\n  Reinforcement Learning",
@@ -52,7 +52,7 @@
     {
       "title": "HunyuanCustom: A Multimodal-Driven Architecture for Customized Video\n  Generation",
       "summary": "Customized video generation aims to produce videos featuring specific\nsubjects under flexible user-defined conditions, yet existing methods often\nstruggle with identity consistency and limited input modalities. In this paper,\nwe propose HunyuanCustom, a multi-modal customized video generation framework\nthat emphasizes subject consistency while supporting image, audio, video, and\ntext conditions. Built upon HunyuanVideo, our model first addresses the\nimage-text conditioned generation task by introducing a text-image fusion\nmodule based on LLaVA for enhanced multi-modal understanding, along with an\nimage ID enhancement module that leverages temporal concatenation to reinforce\nidentity features across frames. To enable audio- and video-conditioned\ngeneration, we further propose modality-specific condition injection\nmechanisms: an AudioNet module that achieves hierarchical alignment via spatial\ncross-attention, and a video-driven injection module that integrates\nlatent-compressed conditional video through a patchify-based feature-alignment\nnetwork. Extensive experiments on single- and multi-subject scenarios\ndemonstrate that HunyuanCustom significantly outperforms state-of-the-art open-\nand closed-source methods in terms of ID consistency, realism, and text-video\nalignment. Moreover, we validate its robustness across downstream tasks,\nincluding audio and video-driven customized video generation. Our results\nhighlight the effectiveness of multi-modal conditioning and identity-preserving\nstrategies in advancing controllable video generation. All the code and models\nare available at https://hunyuancustom.github.io.",
-      "url": "http://arxiv.org/abs/2505.04512v1",
+      "url": "http://arxiv.org/abs/2505.04512v2",
       "published_time_eastern_timestamp": 1746631998.0
     },
     {
