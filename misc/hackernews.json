@@ -1,54 +1,89 @@
 {
-  "last_updated": "2025-05-10T14:13:56.884166-04:00",
+  "last_updated": "2025-05-10T17:09:33.140226-04:00",
   "stories": [
     {
-      "title": "US vs. Google Amicus Curiae Brief of Y Combinator in Support of Plaintiffs [pdf]",
-      "score": 183,
+      "title": "US vs. Google amicus curiae brief of Y Combinator in support of plaintiffs [pdf]",
+      "score": 265,
       "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf",
       "time": 1746886556.0,
       "comments_url": "https://news.ycombinator.com/item?id=43945820"
     },
     {
-      "title": "Reverse engineering the 386 processor's prefetch queue circuitry",
-      "score": 30,
-      "url": "http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html",
-      "time": 1746894186.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43946824"
-    },
-    {
       "title": "A Critical Look at MCP",
-      "score": 91,
+      "score": 213,
       "url": "https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp",
       "time": 1746887879.0,
       "comments_url": "https://news.ycombinator.com/item?id=43945993"
     },
     {
-      "title": "Prolog's Eternal September (2017)",
-      "score": 32,
-      "url": "https://storytotell.org/prologs-eternal-september",
-      "time": 1746703921.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43925132"
+      "title": "Reverse engineering the 386 processor's prefetch queue circuitry",
+      "score": 80,
+      "url": "http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html",
+      "time": 1746894186.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43946824"
     },
     {
-      "title": "The deathbed fallacy",
-      "score": 165,
-      "url": "https://www.hjorthjort.xyz/2018/02/21/the-deathbed-fallacy.html",
-      "time": 1746871487.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43944467"
+      "title": "The Price of Remission",
+      "score": 45,
+      "url": "https://www.propublica.org/article/revlimid-price-cancer-celgene-drugs-fda-multiple-myeloma",
+      "time": 1746706628.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43925396"
+    },
+    {
+      "title": "Adventures in Imbalanced Learning and Class Weight",
+      "score": 9,
+      "url": "http://andersource.dev/2025/05/05/imbalanced-learning.html",
+      "time": 1746711683.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43926029"
     },
     {
       "title": "Show HN: Code Claude Code",
-      "score": 40,
+      "score": 70,
       "url": "https://github.com/RVCA212/codesys",
       "time": 1746888432.0,
       "comments_url": "https://news.ycombinator.com/item?id=43946066"
     },
     {
       "title": "Comparison of C/POSIX standard library implementations for Linux",
-      "score": 26,
+      "score": 58,
       "url": "https://www.etalabs.net/compare_libcs.html",
       "time": 1746888952.0,
       "comments_url": "https://news.ycombinator.com/item?id=43946149"
+    },
+    {
+      "title": "For $595, you get what nobody else can give you for twice the price (1982) [pdf]",
+      "score": 27,
+      "url": "https://s3data.computerhistory.org/brochures/commodore.commodore64.1982.102646264.pdf",
+      "time": 1746900309.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43947630"
+    },
+    {
+      "title": "Embracer Games Archive is preserving 75000 video games and needs contributions",
+      "score": 112,
+      "url": "https://embracergamesarchive.com/",
+      "time": 1746875979.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43944789"
+    },
+    {
+      "title": "Vision Now Available in Llama.cpp",
+      "score": 466,
+      "url": "https://github.com/ggml-org/llama.cpp/blob/master/docs/multimodal.md",
+      "time": 1746848386.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43943047"
+    },
+    {
+      "title": "Prolog's Eternal September (2017)",
+      "score": 59,
+      "url": "https://storytotell.org/prologs-eternal-september",
+      "time": 1746703921.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43925132"
+    },
+    {
+      "title": "Building Local-First Flutter Apps with Riverpod, Drift, and PowerSync",
+      "score": 20,
+      "url": "https://dinkomarinac.dev/building-local-first-flutter-apps-with-riverpod-drift-and-powersync",
+      "time": 1746564521.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43909487"
     },
     {
       "title": "Weave (YC W25) is hiring a founding engineer",
@@ -58,88 +93,53 @@
       "comments_url": "https://news.ycombinator.com/item?id=43947137"
     },
     {
-      "title": "Vision Now Available in Llama.cpp",
-      "score": 431,
-      "url": "https://github.com/ggml-org/llama.cpp/blob/master/docs/multimodal.md",
-      "time": 1746848386.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43943047"
-    },
-    {
-      "title": "React Three Ecosystem",
-      "score": 66,
-      "url": "https://www.react-three.org/",
-      "time": 1746882175.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43945293"
-    },
-    {
-      "title": "LTXVideo 13B AI video generation",
-      "score": 173,
-      "url": "https://ltxv.video/",
-      "time": 1746878350.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43944974"
-    },
-    {
-      "title": "Embracer Games Archive is preserving 75000 video games and needs contributions",
-      "score": 82,
-      "url": "https://embracergamesarchive.com/",
-      "time": 1746875979.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43944789"
-    },
-    {
-      "title": "Private Japanese lunar lander enters orbit around moon ahead of a June touchdown",
-      "score": 153,
-      "url": "https://phys.org/news/2025-05-private-japanese-lunar-lander-orbit.html",
-      "time": 1746610313.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43913705"
-    },
-    {
-      "title": "Intel: Winning and Losing",
-      "score": 53,
-      "url": "https://www.abortretry.fail/p/intel-winning-and-losing",
-      "time": 1746875979.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43944790"
-    },
-    {
-      "title": "Business books are entertainment, not strategic tools",
-      "score": 478,
-      "url": "https://theorthagonist.substack.com/p/why-reading-business-books-is-a-waste",
-      "time": 1746823905.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43940747"
-    },
-    {
-      "title": "'We Currently Have No Container Ships,' Seattle Port Says",
-      "score": 98,
-      "url": "https://www.newsweek.com/seattle-port-says-no-container-ships-tariffs-2069464",
-      "time": 1746892167.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43946601"
+      "title": "Microsoft Teams will soon block screen capture during meetings",
+      "score": 30,
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-soon-block-screen-capture-during-meetings/",
+      "time": 1746905997.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43948291"
     },
     {
       "title": "A simple 16x16 dot animation from simple math rules",
-      "score": 238,
+      "score": 299,
       "url": "https://tixy.land",
       "time": 1746845798.0,
       "comments_url": "https://news.ycombinator.com/item?id=43942881"
     },
     {
-      "title": "Show HN: Sprigman – Pac-Man Recreated in a Limited Tile Based JavaScript Engine",
-      "score": 7,
-      "url": "https://sprig.hackclub.com/share/X4EGvOFk1q8FroEPCj1G",
-      "time": 1746649394.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43920212"
+      "title": "Private Japanese lunar lander enters orbit around moon ahead of a June touchdown",
+      "score": 180,
+      "url": "https://phys.org/news/2025-05-private-japanese-lunar-lander-orbit.html",
+      "time": 1746610313.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43913705"
     },
     {
-      "title": "Farewell to Lee Gold's Alarums and Excursions",
-      "score": 9,
-      "url": "https://www.chaosium.com/blogout-of-the-suitcase-54-farewell-to-lee-golds-alarums-excursions/",
-      "time": 1746890460.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43946363"
+      "title": "React Three Ecosystem",
+      "score": 89,
+      "url": "https://www.react-three.org/",
+      "time": 1746882175.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43945293"
     },
     {
-      "title": "Building Local-First Flutter Apps with Riverpod, Drift, and PowerSync",
-      "score": 4,
-      "url": "https://dinkomarinac.dev/building-local-first-flutter-apps-with-riverpod-drift-and-powersync",
-      "time": 1746564521.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43909487"
+      "title": "LLMs for Materials and Chemistry: 34 Real-World Examples",
+      "score": 10,
+      "url": "https://arxiv.org/abs/2505.03049",
+      "time": 1746653825.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43920815"
+    },
+    {
+      "title": "Gmail to SQLite",
+      "score": 276,
+      "url": "https://github.com/marcboeker/gmail-to-sqlite",
+      "time": 1746851143.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43943236"
+    },
+    {
+      "title": "'It cannot provide nuance': UK experts warn AI therapy chatbots are not safe",
+      "score": 75,
+      "url": "https://www.theguardian.com/technology/2025/may/07/experts-warn-therapy-ai-chatbots-are-not-safe-to-use",
+      "time": 1746891324.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43946498"
     }
   ]
 }
