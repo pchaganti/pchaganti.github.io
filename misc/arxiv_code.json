@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-11T17:10:01.774518-04:00",
+  "last_updated": "2025-05-11T20:59:47.061803-04:00",
   "papers": [
     {
       "title": "Flow-GRPO: Training Flow Matching Models via Online RL",
@@ -52,7 +52,7 @@
     {
       "title": "Threshold Modulation for Online Test-Time Adaptation of Spiking Neural\n  Networks",
       "summary": "Recently, spiking neural networks (SNNs), deployed on neuromorphic chips,\nprovide highly efficient solutions on edge devices in different scenarios.\nHowever, their ability to adapt to distribution shifts after deployment has\nbecome a crucial challenge. Online test-time adaptation (OTTA) offers a\npromising solution by enabling models to dynamically adjust to new data\ndistributions without requiring source data or labeled target samples.\nNevertheless, existing OTTA methods are largely designed for traditional\nartificial neural networks and are not well-suited for SNNs. To address this\ngap, we propose a low-power, neuromorphic chip-friendly online test-time\nadaptation framework, aiming to enhance model generalization under distribution\nshifts. The proposed approach is called Threshold Modulation (TM), which\ndynamically adjusts the firing threshold through neuronal dynamics-inspired\nnormalization, being more compatible with neuromorphic hardware. Experimental\nresults on benchmark datasets demonstrate the effectiveness of this method in\nimproving the robustness of SNNs against distribution shifts while maintaining\nlow computational cost. The proposed method offers a practical solution for\nonline test-time adaptation of SNNs, providing inspiration for the design of\nfuture neuromorphic chips. The demo code is available at\ngithub.com/NneurotransmitterR/TM-OTTA-SNN.",
-      "url": "http://arxiv.org/abs/2505.05375v1",
+      "url": "http://arxiv.org/abs/2505.05375v2",
       "published_time_eastern_timestamp": 1746720580.0
     },
     {
@@ -104,9 +104,9 @@
       "published_time_eastern_timestamp": 1746714527.0
     },
     {
-      "title": "Software Development Life Cycle Perspective: A Survey of Benchmarks for\n  CodeLLMs and Agents",
+      "title": "Software Development Life Cycle Perspective: A Survey of Benchmarks for\n  Code Large Language Models and Agents",
       "summary": "Code large language models (CodeLLMs) and agents have shown great promise in\ntackling complex software engineering tasks.Compared to traditional software\nengineering methods, CodeLLMs and agents offer stronger abilities, and can\nflexibly process inputs and outputs in both natural and code. Benchmarking\nplays a crucial role in evaluating the capabilities of CodeLLMs and agents,\nguiding their development and deployment. However, despite their growing\nsignificance, there remains a lack of comprehensive reviews of benchmarks for\nCodeLLMs and agents. To bridge this gap, this paper provides a comprehensive\nreview of existing benchmarks for CodeLLMs and agents, studying and analyzing\n181 benchmarks from 461 relevant papers, covering the different phases of the\nsoftware development life cycle (SDLC). Our findings reveal a notable imbalance\nin the coverage of current benchmarks, with approximately 60% focused on the\nsoftware development phase in SDLC, while requirements engineering and software\ndesign phases receive minimal attention at only 5% and 3%, respectively.\nAdditionally, Python emerges as the dominant programming language across the\nreviewed benchmarks. Finally, this paper highlights the challenges of current\nresearch and proposes future directions, aiming to narrow the gap between the\ntheoretical capabilities of CodeLLMs and agents and their application in\nreal-world scenarios.",
-      "url": "http://arxiv.org/abs/2505.05283v1",
+      "url": "http://arxiv.org/abs/2505.05283v2",
       "published_time_eastern_timestamp": 1746714465.0
     },
     {

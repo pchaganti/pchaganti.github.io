@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-11T17:10:01.282269-04:00",
+  "last_updated": "2025-05-11T20:59:46.056924-04:00",
   "papers": [
     {
       "title": "RL-DAUNCE: Reinforcement Learning-Driven Data Assimilation with\n  Uncertainty-Aware Constrained Ensembles",
@@ -15,8 +15,8 @@
     },
     {
       "title": "EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework\n  for Mobile Automation",
-      "summary": "Cloud-based mobile agents powered by (multimodal) large language models\n((M)LLMs) offer strong reasoning abilities but suffer from high latency and\ncost. While fine-tuned (M)SLMs enable edge deployment, they often lose general\ncapabilities and struggle with complex tasks. To address this, we propose\nEcoAgent, an Edge-Cloud cOllaborative multi-agent framework for mobile\nautomation. EcoAgent features a closed-loop collaboration among a cloud-based\nPlanning Agent and two edge-based agents: the Execution Agent for action\nexecution and the Observation Agent for verifying outcomes. The Observation\nAgent uses a Pre-Understanding Module to compress screen images into concise\ntext, reducing token usage. In case of failure, the Planning Agent retrieves\nscreen history and replans via a Reflection Module. Experiments on AndroidWorld\nshow that EcoAgent maintains high task success rates while significantly\nreducing MLLM token consumption, enabling efficient and practical mobile\nautomation.",
-      "url": "http://arxiv.org/abs/2505.05440v1",
+      "summary": "Cloud-based mobile agents powered by (multimodal) large language models\n((M)LLMs) offer strong reasoning abilities but suffer from high latency and\ncost. While fine-tuned (M)SLMs enable edge deployment, they often lose general\ncapabilities and struggle with complex tasks. To address this, we propose\n\\textbf{EcoAgent}, an \\textbf{E}dge-\\textbf{C}loud c\\textbf{O}llaborative\nmulti-agent framework for mobile automation. EcoAgent features a closed-loop\ncollaboration among a cloud-based Planning Agent and two edge-based agents: the\nExecution Agent for action execution and the Observation Agent for verifying\noutcomes. The Observation Agent uses a Pre-Understanding Module to compress\nscreen images into concise text, reducing token usage and communication\noverhead. In case of failure, the Planning Agent retrieves screen history\nthrough a Memory Module and replans via a Reflection Module. Experiments on\nAndroidWorld show that EcoAgent achieves task success rates comparable to\ncloud-based mobile agents while significantly reducing MLLM token consumption,\nenabling efficient and practical mobile automation.",
+      "url": "http://arxiv.org/abs/2505.05440v2",
       "published_time_eastern_timestamp": 1746725480.0
     },
     {
@@ -50,9 +50,9 @@
       "published_time_eastern_timestamp": 1746714527.0
     },
     {
-      "title": "Software Development Life Cycle Perspective: A Survey of Benchmarks for\n  CodeLLMs and Agents",
+      "title": "Software Development Life Cycle Perspective: A Survey of Benchmarks for\n  Code Large Language Models and Agents",
       "summary": "Code large language models (CodeLLMs) and agents have shown great promise in\ntackling complex software engineering tasks.Compared to traditional software\nengineering methods, CodeLLMs and agents offer stronger abilities, and can\nflexibly process inputs and outputs in both natural and code. Benchmarking\nplays a crucial role in evaluating the capabilities of CodeLLMs and agents,\nguiding their development and deployment. However, despite their growing\nsignificance, there remains a lack of comprehensive reviews of benchmarks for\nCodeLLMs and agents. To bridge this gap, this paper provides a comprehensive\nreview of existing benchmarks for CodeLLMs and agents, studying and analyzing\n181 benchmarks from 461 relevant papers, covering the different phases of the\nsoftware development life cycle (SDLC). Our findings reveal a notable imbalance\nin the coverage of current benchmarks, with approximately 60% focused on the\nsoftware development phase in SDLC, while requirements engineering and software\ndesign phases receive minimal attention at only 5% and 3%, respectively.\nAdditionally, Python emerges as the dominant programming language across the\nreviewed benchmarks. Finally, this paper highlights the challenges of current\nresearch and proposes future directions, aiming to narrow the gap between the\ntheoretical capabilities of CodeLLMs and agents and their application in\nreal-world scenarios.",
-      "url": "http://arxiv.org/abs/2505.05283v1",
+      "url": "http://arxiv.org/abs/2505.05283v2",
       "published_time_eastern_timestamp": 1746714465.0
     },
     {
