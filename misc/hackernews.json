@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-05-12T11:13:36.937647-04:00",
+  "last_updated": "2025-05-12T14:16:23.777973-04:00",
   "stories": [
     {
+      "title": "I hacked a dating app (and how not to treat a security researcher)",
+      "score": 199,
+      "url": "https://alexschapiro.com/blog/security/vulnerability/2025/04/21/startups-need-to-take-security-seriously",
+      "time": 1747067950.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43964937"
+    },
+    {
+      "title": "Embeddings Are Underrated",
+      "score": 228,
+      "url": "https://technicalwriting.dev/ml/embeddings/overview.html",
+      "time": 1747062344.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43963868"
+    },
+    {
+      "title": "The Barbican",
+      "score": 137,
+      "url": "https://arslan.io/2025/05/12/barbican-estate/",
+      "time": 1747063718.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43964136"
+    },
+    {
+      "title": "RIP Usenix ATC",
+      "score": 47,
+      "url": "https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/",
+      "time": 1747067345.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43964827"
+    },
+    {
+      "title": "Launch HN: ParaQuery (YC X25) – GPU Accelerated Spark/SQL",
+      "score": 45,
+      "url": "https://news.ycombinator.com/item?id=43964505",
+      "time": 1747065691.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43964505"
+    },
+    {
       "title": "A community-led fork of Organic Maps",
-      "score": 160,
+      "score": 214,
       "url": "https://www.comaps.app/news/2025-05-12/3/",
       "time": 1747050024.0,
       "comments_url": "https://news.ycombinator.com/item?id=43961908"
     },
     {
+      "title": "Byte Latent Transformer: Patches Scale Better Than Tokens",
+      "score": 14,
+      "url": "https://arxiv.org/abs/2412.09871",
+      "time": 1747068939.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43965099"
+    },
+    {
+      "title": "Legion Health (YC S21) Is Hiring Founding Engineers to Fix Mental Health with AI",
+      "score": 1,
+      "url": "https://www.workatastartup.com/jobs/75011",
+      "time": 1747069302.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43965161"
+    },
+    {
       "title": "University of Texas-led team solves a big problem for fusion energy",
-      "score": 90,
+      "score": 157,
       "url": "https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/",
       "time": 1747052493.0,
       "comments_url": "https://news.ycombinator.com/item?id=43962148"
     },
     {
+      "title": "Show HN: Airweave – Let agents search any app",
+      "score": 51,
+      "url": "https://github.com/airweave-ai/airweave",
+      "time": 1747064061.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43964201"
+    },
+    {
+      "title": "Reviving a Modular Cargo Bike Design from the 1930s",
+      "score": 68,
+      "url": "https://www.core77.com/posts/136773/Reviving-a-Modular-Cargo-Bike-Design-from-the-1930s",
+      "time": 1747060173.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43963397"
+    },
+    {
+      "title": "Demonstrably Secure Software Supply Chains with Nix",
+      "score": 37,
+      "url": "https://nixcademy.com/posts/secure-supply-chain-with-nix/",
+      "time": 1747061671.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43963747"
+    },
+    {
+      "title": "Why GADTs matter for performance (2015)",
+      "score": 18,
+      "url": "https://blog.janestreet.com/why-gadts-matter-for-performance/",
+      "time": 1746885343.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43945660"
+    },
+    {
       "title": "Ruby 3.5 Feature: Namespace on read",
-      "score": 53,
+      "score": 111,
       "url": "https://bugs.ruby-lang.org/issues/21311",
       "time": 1747057174.0,
       "comments_url": "https://news.ycombinator.com/item?id=43962770"
     },
     {
-      "title": "Spade Hardware Description Language",
-      "score": 49,
-      "url": "https://spade-lang.org/",
-      "time": 1747052390.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43962138"
+      "title": "Tailscale 4via6 – Connect Edge Deployments at Scale",
+      "score": 51,
+      "url": "https://tailscale.com/blog/4via6-connectivity-to-edge-devices",
+      "time": 1747058432.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43962992"
     },
     {
-      "title": "Plain Vanilla Web",
-      "score": 1280,
-      "url": "https://plainvanillaweb.com/index.html",
-      "time": 1746981118.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43954896"
-    },
-    {
-      "title": "I ruined my vacation by reverse engineering WSC",
-      "score": 276,
-      "url": "https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/",
-      "time": 1747020866.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43959403"
-    },
-    {
-      "title": "The FTC puts off enforcing its 'click-to-cancel' rule",
-      "score": 90,
-      "url": "https://www.theverge.com/news/664730/ftc-delay-click-to-cancel-rule",
-      "time": 1747055530.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43962528"
+      "title": "5 Steps to N-Body Simulation",
+      "score": 5,
+      "url": "https://alvinng4.github.io/grav_sim/5_steps_to_n_body_simulation/",
+      "time": 1746864618.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43944007"
     },
     {
       "title": "Universe expected to decay in 10⁷⁸ years, much sooner than previously thought",
-      "score": 51,
+      "score": 98,
       "url": "https://phys.org/news/2025-05-universe-decay-years-sooner-previously.html",
       "time": 1747043196.0,
       "comments_url": "https://news.ycombinator.com/item?id=43961226"
     },
     {
-      "title": "Continuous glucose monitors reveal variable glucose responses to the same meals",
-      "score": 34,
-      "url": "https://examine.com/research-feed/study/1jjKq1/",
-      "time": 1746859440.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43943673"
+      "title": "OpenEoX to Standardize End-of-Life (EOL) and End-of-Support (EOS) Information",
+      "score": 18,
+      "url": "https://openeox.org/",
+      "time": 1747062168.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43963839"
     },
     {
-      "title": "A Typical Workday at a Japanese Hardware Tool Store [video]",
-      "score": 50,
-      "url": "https://www.youtube.com/watch?v=A98jyfB5mws",
-      "time": 1746872334.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43944526"
-    },
-    {
-      "title": "US Copyright Office found AI companies breach copyright. Its boss was fired",
-      "score": 256,
-      "url": "https://www.theregister.com/2025/05/12/us_copyright_office_ai_copyright/",
-      "time": 1747043350.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43961247"
-    },
-    {
-      "title": "Spark AI (YC W24) Is Hiring a Full Stack Engineer in San Francisco",
-      "score": 1,
-      "url": "https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack",
-      "time": 1747051207.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43962029"
-    },
-    {
-      "title": "Gig Companies Violate Workers Rights",
-      "score": 69,
-      "url": "https://www.hrw.org/news/2025/05/12/us-major-companies-violate-gig-workers-rights",
-      "time": 1747055598.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43962535"
-    },
-    {
-      "title": "Optimizing My Hacker News Experience",
-      "score": 5,
-      "url": "https://reorientinglife.substack.com/p/optimizing-my-hacker-news-experience",
-      "time": 1746721571.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43927794"
-    },
-    {
-      "title": "Continuous Thought Machines",
-      "score": 244,
-      "url": "https://pub.sakana.ai/ctm/",
-      "time": 1747016471.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43959071"
+      "title": "Spade Hardware Description Language",
+      "score": 77,
+      "url": "https://spade-lang.org/",
+      "time": 1747052390.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43962138"
     },
     {
       "title": "Show HN: CLI that spots fake GitHub stars, risky dependencies and licence traps",
-      "score": 11,
+      "score": 50,
       "url": "https://github.com/m-ahmed-elbeskeri/Starguard",
       "time": 1747054759.0,
       "comments_url": "https://news.ycombinator.com/item?id=43962427"
-    },
-    {
-      "title": "Intellect-2 Release: The First 32B Model Trained Through Globally Distributed RL",
-      "score": 176,
-      "url": "https://www.primeintellect.ai/blog/intellect-2-release",
-      "time": 1747014417.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43958898"
-    },
-    {
-      "title": "CrowdStrike CEO cuts his voting power by 92% with unexplained gifts",
-      "score": 76,
-      "url": "https://www.bloomberg.com/news/articles/2025-05-12/billionaire-crowdstrike-ceo-cuts-voting-power-by-92-with-unexplained-gifts",
-      "time": 1747053016.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43962207"
-    },
-    {
-      "title": "Armbian Updates: OMV support, boot improvents, Rockchip optimizations",
-      "score": 47,
-      "url": "https://www.armbian.com/newsflash/armbian-updates-nas-support-lands-boot-systems-improve-and-rockchip-optimizations-arrive/",
-      "time": 1747036302.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43960577"
-    },
-    {
-      "title": "Making PyPI's test suite faster",
-      "score": 106,
-      "url": "https://blog.trailofbits.com/2025/05/01/making-pypis-test-suite-81-faster/",
-      "time": 1746737691.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43931237"
     }
   ]
 }
