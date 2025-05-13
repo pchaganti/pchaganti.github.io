@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-05-12T17:11:01.867545-04:00",
+  "last_updated": "2025-05-12T20:57:57.143109-04:00",
   "stories": [
     {
-      "title": "Embeddings are underrated",
-      "score": 377,
-      "url": "https://technicalwriting.dev/ml/embeddings/overview.html",
-      "time": 1747062344.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43963868"
-    },
-    {
-      "title": "Why National Labs are investing (heavily) in AI",
-      "score": 32,
+      "title": "A conversation about AI for science with Jason Pruet",
+      "score": 111,
       "url": "https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet",
       "time": 1747079560.0,
       "comments_url": "https://news.ycombinator.com/item?id=43966843"
     },
     {
+      "title": "Understanding LucasArts' iMUSE System",
+      "score": 45,
+      "url": "https://github.com/meshula/LabMidi/blob/main/LabMuse/imuse-technical.md",
+      "time": 1747089690.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43968141"
+    },
+    {
       "title": "The Barbican",
-      "score": 293,
+      "score": 382,
       "url": "https://arslan.io/2025/05/12/barbican-estate/",
       "time": 1747063718.0,
       "comments_url": "https://news.ycombinator.com/item?id=43964136"
     },
     {
-      "title": "HealthBench",
-      "score": 95,
-      "url": "https://openai.com/index/healthbench/",
-      "time": 1747071757.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43965608"
+      "title": "Air Traffic Control",
+      "score": 31,
+      "url": "https://computer.rip/2025-05-11-air-traffic-control.html",
+      "time": 1747010362.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43958562"
+    },
+    {
+      "title": "Can you trust that permission pop-up on macOS?",
+      "score": 148,
+      "url": "https://wts.dev/posts/tcc-who/",
+      "time": 1747074404.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43966089"
     },
     {
       "title": "RIP Usenix ATC",
-      "score": 97,
+      "score": 131,
       "url": "https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/",
       "time": 1747067345.0,
       "comments_url": "https://news.ycombinator.com/item?id=43964827"
     },
     {
-      "title": "Show HN: Lumoar – Free SOC 2 tool for SaaS startups",
-      "score": 26,
-      "url": "https://www.lumoar.com",
-      "time": 1747076703.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43966471"
+      "title": "FedRAMP 20x – One Month in and Moving Fast",
+      "score": 4,
+      "url": "https://www.fedramp.gov/2025-04-24-fedramp-20x-one-month-in-and-moving-fast/",
+      "time": 1747096235.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43968713"
     },
     {
-      "title": "Launch HN: ParaQuery (YC X25) – GPU Accelerated Spark/SQL",
-      "score": 73,
-      "url": "https://news.ycombinator.com/item?id=43964505",
-      "time": 1747065691.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43964505"
-    },
-    {
-      "title": "Byte latent transformer: Patches scale better than tokens",
-      "score": 62,
-      "url": "https://arxiv.org/abs/2412.09871",
-      "time": 1747068939.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43965099"
-    },
-    {
-      "title": "A community-led fork of Organic Maps",
-      "score": 246,
-      "url": "https://www.comaps.app/news/2025-05-12/3/",
-      "time": 1747050024.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43961908"
-    },
-    {
-      "title": "Ruby 3.5 Feature: Namespace on read",
-      "score": 142,
-      "url": "https://bugs.ruby-lang.org/issues/21311",
-      "time": 1747057174.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43962770"
-    },
-    {
-      "title": "Reviving a modular cargo bike design from the 1930s",
-      "score": 95,
-      "url": "https://www.core77.com/posts/136773/Reviving-a-Modular-Cargo-Bike-Design-from-the-1930s",
-      "time": 1747060173.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43963397"
-    },
-    {
-      "title": "Build Your Own Siri. Locally. On-Device. No Cloud",
-      "score": 11,
+      "title": "Build your own Siri locally and on-device",
+      "score": 107,
       "url": "https://thehyperplane.substack.com/p/build-your-own-siri-locally-on-device",
       "time": 1747078339.0,
       "comments_url": "https://news.ycombinator.com/item?id=43966694"
     },
     {
-      "title": "The Acid King (2001)",
-      "score": 19,
-      "url": "https://www.rollingstone.com/feature/acid-lsd-king-william-leonard-pickard-prison-pete-wilkinson-184390/",
-      "time": 1746826216.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43941068"
+      "title": "Wtfis: Passive hostname, domain and IP lookup tool for non-robots",
+      "score": 20,
+      "url": "https://github.com/pirxthepilot/wtfis",
+      "time": 1747088112.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43967962"
     },
     {
-      "title": "Legion Health (YC S21) is hiring engineers to help fix mental health with AI",
-      "score": 1,
-      "url": "https://www.workatastartup.com/jobs/75011",
-      "time": 1747069302.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43965161"
+      "title": "Launch HN: ParaQuery (YC X25) – GPU Accelerated Spark/SQL",
+      "score": 93,
+      "url": "https://news.ycombinator.com/item?id=43964505",
+      "time": 1747065691.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43964505"
     },
     {
-      "title": "5 Steps to N-Body Simulation",
-      "score": 39,
+      "title": "A community-led fork of Organic Maps",
+      "score": 269,
+      "url": "https://www.comaps.app/news/2025-05-12/3/",
+      "time": 1747050024.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43961908"
+    },
+    {
+      "title": "Byte latent transformer: Patches scale better than tokens",
+      "score": 92,
+      "url": "https://arxiv.org/abs/2412.09871",
+      "time": 1747068939.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43965099"
+    },
+    {
+      "title": "Embeddings are underrated (2024)",
+      "score": 432,
+      "url": "https://technicalwriting.dev/ml/embeddings/overview.html",
+      "time": 1747062344.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43963868"
+    },
+    {
+      "title": "NASA Study Reveals Venus Crust Surprise",
+      "score": 35,
+      "url": "https://science.nasa.gov/science-research/astromaterials/nasa-study-reveals-venus-crust-surprise/",
+      "time": 1746818705.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43940172"
+    },
+    {
+      "title": "Reviving a modular cargo bike design from the 1930s",
+      "score": 126,
+      "url": "https://www.core77.com/posts/136773/Reviving-a-Modular-Cargo-Bike-Design-from-the-1930s",
+      "time": 1747060173.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43963397"
+    },
+    {
+      "title": "Show HN: Lumoar – Free SOC 2 tool for SaaS startups",
+      "score": 50,
+      "url": "https://www.lumoar.com",
+      "time": 1747076703.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43966471"
+    },
+    {
+      "title": "Ruby 3.5 Feature: Namespace on read",
+      "score": 172,
+      "url": "https://bugs.ruby-lang.org/issues/21311",
+      "time": 1747057174.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43962770"
+    },
+    {
+      "title": "Writing N-body gravity simulations code in Python",
+      "score": 72,
       "url": "https://alvinng4.github.io/grav_sim/5_steps_to_n_body_simulation/",
       "time": 1746864618.0,
       "comments_url": "https://news.ycombinator.com/item?id=43944007"
     },
     {
-      "title": "Show HN: Airweave – Let agents search any app",
-      "score": 91,
-      "url": "https://github.com/airweave-ai/airweave",
-      "time": 1747064061.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43964201"
-    },
-    {
-      "title": "Toward a Sparse and Interpretable Audio Codec",
-      "score": 17,
-      "url": "https://arxiv.org/abs/2505.05654",
-      "time": 1747074257.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43966064"
+      "title": "The Beam",
+      "score": 19,
+      "url": "https://www.erlang-solutions.com/blog/the-beam-erlangs-virtual-machine/",
+      "time": 1746816483.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43939877"
     },
     {
       "title": "Demonstrably Secure Software Supply Chains with Nix",
-      "score": 56,
+      "score": 77,
       "url": "https://nixcademy.com/posts/secure-supply-chain-with-nix/",
       "time": 1747061671.0,
       "comments_url": "https://news.ycombinator.com/item?id=43963747"
-    },
-    {
-      "title": "I hacked a dating app (and how not to treat a security researcher)",
-      "score": 376,
-      "url": "https://alexschapiro.com/blog/security/vulnerability/2025/04/21/startups-need-to-take-security-seriously",
-      "time": 1747067950.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43964937"
-    },
-    {
-      "title": "Interagency Grizzly Bear Committee",
-      "score": 19,
-      "url": "https://igbconline.org/",
-      "time": 1746884434.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43945545"
     }
   ]
 }
