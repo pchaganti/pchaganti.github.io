@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-05-13T11:11:56.403999-04:00",
+  "last_updated": "2025-05-13T14:16:39.106498-04:00",
   "stories": [
     {
+      "title": "Branch Privilege Injection: Exploiting branch predictor race conditions",
+      "score": 172,
+      "url": "https://comsec.ethz.ch/research/microarch/branch-privilege-injection/",
+      "time": 1747154691.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43974891"
+    },
+    {
+      "title": "PDF to Text, a challenging problem",
+      "score": 104,
+      "url": "https://www.marginalia.nu/log/a_119_pdf/",
+      "time": 1747148469.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43973721"
+    },
+    {
       "title": "Multiple Security Issues in GNU Screen",
-      "score": 179,
+      "score": 268,
       "url": "https://www.openwall.com/lists/oss-security/2025/05/12/1",
       "time": 1747135729.0,
       "comments_url": "https://news.ycombinator.com/item?id=43971716"
     },
     {
+      "title": "Show HN: Helixdb – Open-source vector-graph database for AI applications (Rust)",
+      "score": 15,
+      "url": "https://github.com/HelixDB/helix-db/",
+      "time": 1747157198.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43975423"
+    },
+    {
+      "title": "It Awaits Your Experiments",
+      "score": 48,
+      "url": "https://www.rifters.com/crawl/?p=11511",
+      "time": 1747150067.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43974005"
+    },
+    {
       "title": "Launch HN: Miyagi (YC W25) turns YouTube videos into online, interactive courses",
-      "score": 42,
+      "score": 93,
       "url": "https://news.ycombinator.com/item?id=43972425",
       "time": 1747141002.0,
       "comments_url": "https://news.ycombinator.com/item?id=43972425"
     },
     {
       "title": "Ask HN: How are you acquiring your first hundred users?",
-      "score": 255,
+      "score": 350,
       "url": "https://news.ycombinator.com/item?id=43970837",
       "time": 1747125685.0,
       "comments_url": "https://news.ycombinator.com/item?id=43970837"
     },
     {
-      "title": "The world could run on older hardware if software optimization was a priority",
-      "score": 282,
-      "url": "https://twitter.com/ID_AA_Carmack/status/1922100771392520710",
-      "time": 1747132269.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43971464"
+      "title": "Membrane, Media Framework for Elixir",
+      "score": 51,
+      "url": "https://membrane.stream/",
+      "time": 1746883980.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43945483"
+    },
+    {
+      "title": "GOP sneaks decade-long AI regulation ban into spending bill",
+      "score": 78,
+      "url": "https://arstechnica.com/ai/2025/05/gop-sneaks-decade-long-ai-regulation-ban-into-spending-bill/",
+      "time": 1747156353.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43975254"
+    },
+    {
+      "title": "A Taxonomy of Bugs",
+      "score": 18,
+      "url": "https://ruby0x1.github.io/machinery_blog_archive/post/a-taxonomy-of-bugs/index.html",
+      "time": 1747150158.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43974026"
     },
     {
       "title": "I learned Snobol and then wrote a toy Forth",
-      "score": 48,
+      "score": 89,
       "url": "https://ratfactor.com/snobol/",
       "time": 1746945507.0,
       "comments_url": "https://news.ycombinator.com/item?id=43951885"
     },
     {
-      "title": "We can no longer run Microsoft Store on 1809/LTSC 2019",
-      "score": 32,
-      "url": "https://github.com/fernvenue/microsoft-store",
-      "time": 1747140594.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43972360"
+      "title": "The world could run on older hardware if software optimization was a priority",
+      "score": 442,
+      "url": "https://twitter.com/ID_AA_Carmack/status/1922100771392520710",
+      "time": 1747132269.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43971464"
     },
     {
-      "title": "Why are coffee stains darker at the edges?",
-      "score": 68,
-      "url": "https://www.why.is/svar.php?id=5513",
-      "time": 1746997389.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43957140"
+      "title": "Google’s unfinished DeX-like desktop mode for Android",
+      "score": 43,
+      "url": "https://tech.yahoo.com/phones/articles/first-look-google-unfinished-dex-181424457.html",
+      "time": 1747146635.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43973395"
+    },
+    {
+      "title": "PyPI Organizations",
+      "score": 8,
+      "url": "https://blog.pypi.org/posts/2023-04-23-introducing-pypi-organizations/",
+      "time": 1747157878.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43975541"
     },
     {
       "title": "In a high-stress work environment, prioritize relationships",
-      "score": 102,
+      "score": 208,
       "url": "https://wqtz.bearblog.dev/high-stress-job-relationships/",
       "time": 1747141732.0,
       "comments_url": "https://news.ycombinator.com/item?id=43972535"
     },
     {
-      "title": "Why I'm Resigning from the National Science Foundation",
-      "score": 89,
-      "url": "https://time.com/7285045/resigning-national-science-foundation-library-congress/",
-      "time": 1747145612.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43973210"
-    },
-    {
-      "title": "FastVLM: Efficient vision encoding for vision language models",
-      "score": 305,
-      "url": "https://github.com/apple/ml-fastvlm",
-      "time": 1747098962.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43968897"
+      "title": "Insurers launch cover for losses caused by AI chatbot errors",
+      "score": 44,
+      "url": "https://www.ft.com/content/1d35759f-f2a9-46c4-904b-4a78ccc027df",
+      "time": 1746958042.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43952707"
     },
     {
       "title": "A programming language made for me",
-      "score": 86,
+      "score": 123,
       "url": "https://zylinski.se/posts/a-programming-language-for-me/",
       "time": 1747125311.0,
       "comments_url": "https://news.ycombinator.com/item?id=43970800"
     },
     {
-      "title": "Mozilla Firefox – Official GitHub repo",
-      "score": 642,
-      "url": "https://github.com/mozilla-firefox/firefox",
-      "time": 1747113790.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43969827"
+      "title": "FastVLM: Efficient vision encoding for vision language models",
+      "score": 335,
+      "url": "https://github.com/apple/ml-fastvlm",
+      "time": 1747098962.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43968897"
     },
     {
-      "title": "Coinbase joins the S&P 500, another summit scaled on towards economic freedom",
-      "score": 4,
-      "url": "https://www.coinbase.com/zh-tw/blog/Coinbase-joins-the-S&P-500-another-summit-scaled-on-Coinbase-drive-towards-economic-freedom",
-      "time": 1747146407.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43973353"
-    },
-    {
-      "title": "Open Hardware Ethernet Switch project, part 1",
-      "score": 227,
-      "url": "https://serd.es/2025/05/08/Switch-project-pt1.html",
-      "time": 1746779696.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43934869"
-    },
-    {
-      "title": "Anti-Personnel Computing (2023)",
-      "score": 69,
-      "url": "https://erratique.ch/writings/anti-personnel-computing",
-      "time": 1747123619.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43970637"
-    },
-    {
-      "title": "The Barbican",
-      "score": 636,
-      "url": "https://arslan.io/2025/05/12/barbican-estate/",
-      "time": 1747063718.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43964136"
-    },
-    {
-      "title": "Show HN: A5",
-      "score": 28,
-      "url": "https://github.com/felixpalmer/a5",
-      "time": 1747130566.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43971314"
-    },
-    {
-      "title": "Trial by Fire: The crash of Aeroflot flight 1492",
-      "score": 47,
-      "url": "https://admiralcloudberg.medium.com/trial-by-fire-the-crash-of-aeroflot-flight-1492-ee61cebcf6ec",
-      "time": 1747120374.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43970363"
-    },
-    {
-      "title": "Bosses weren't being paranoid: Remote workers more likely to start their own biz",
-      "score": 13,
-      "url": "https://www.theregister.com/2025/05/12/remote_work_leads_to_more_startups/",
-      "time": 1747145825.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43973250"
-    },
-    {
-      "title": "TransMLA: Multi-head latent attention is all you need",
+      "title": "Why are coffee stains darker at the edges?",
       "score": 104,
-      "url": "https://arxiv.org/abs/2502.07864",
-      "time": 1747106987.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43969442"
+      "url": "https://www.why.is/svar.php?id=5513",
+      "time": 1746997389.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43957140"
+    },
+    {
+      "title": "Mill as a Direct Style Build Tool",
+      "score": 3,
+      "url": "https://mill-build.org/blog/12-direct-style-build-tool.html",
+      "time": 1746861041.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43943792"
     }
   ]
 }
