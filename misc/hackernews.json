@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-05-14T02:17:11.991115-04:00",
+  "last_updated": "2025-05-14T05:13:02.326263-04:00",
   "stories": [
     {
-      "title": "Bus stops here: Shanghai lets riders design their own routes",
-      "score": 107,
-      "url": "https://www.sixthtone.com/news/1017072",
-      "time": 1747197201.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43980845"
+      "title": "How to Build a Smartwatch: Picking a Chip",
+      "score": 26,
+      "url": "https://ericmigi.com/blog/how-to-build-a-smartwatch-picking-a-chip/",
+      "time": 1747206174.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43981680"
     },
     {
       "title": "RPG in a Box",
-      "score": 72,
+      "score": 151,
       "url": "https://rpginabox.com/",
       "time": 1746867167.0,
       "comments_url": "https://news.ycombinator.com/item?id=43944199"
     },
     {
-      "title": "Type-constrained code generation with language models",
-      "score": 166,
-      "url": "https://arxiv.org/abs/2504.09246",
-      "time": 1747174530.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43978357"
+      "title": "Writing that changed how I think about programming languages",
+      "score": 83,
+      "url": "https://bernsteinbear.com/blog/pl-writing/",
+      "time": 1747196340.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43980760"
+    },
+    {
+      "title": "Ash Framework – Model your domain, derive the rest",
+      "score": 58,
+      "url": "https://ash-hq.org/",
+      "time": 1746883920.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43945477"
     },
     {
       "title": "Flattening Rust’s learning curve",
-      "score": 180,
+      "score": 244,
       "url": "https://corrode.dev/blog/flattening-rusts-learning-curve/",
       "time": 1747175129.0,
       "comments_url": "https://news.ycombinator.com/item?id=43978435"
     },
     {
+      "title": "Type-constrained code generation with language models",
+      "score": 195,
+      "url": "https://arxiv.org/abs/2504.09246",
+      "time": 1747174530.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43978357"
+    },
+    {
+      "title": "Bus stops here: Shanghai lets riders design their own routes",
+      "score": 210,
+      "url": "https://www.sixthtone.com/news/1017072",
+      "time": 1747197201.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43980845"
+    },
+    {
       "title": "Branch Privilege Injection: Exploiting branch predictor race conditions",
-      "score": 355,
+      "score": 374,
       "url": "https://comsec.ethz.ch/research/microarch/branch-privilege-injection/",
       "time": 1747154691.0,
       "comments_url": "https://news.ycombinator.com/item?id=43974891"
     },
     {
       "title": "Replicube: A puzzle game about writing code to create shapes",
-      "score": 34,
+      "score": 58,
       "url": "https://store.steampowered.com/app/3401490/Replicube/",
       "time": 1747187759.0,
       "comments_url": "https://news.ycombinator.com/item?id=43979916"
     },
     {
       "title": "Google is building its own DeX: First look at Android's Desktop Mode",
-      "score": 271,
+      "score": 324,
       "url": "https://www.androidauthority.com/android-desktop-mode-leak-3550321/",
       "time": 1747146635.0,
       "comments_url": "https://news.ycombinator.com/item?id=43973395"
     },
     {
-      "title": "How “The Great Gatsby” took over high school",
-      "score": 31,
-      "url": "https://www.newyorker.com/books/page-turner/how-the-great-gatsby-took-over-high-school",
-      "time": 1747143021.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43972757"
-    },
-    {
-      "title": "Show HN: HelixDB – Open-source vector-graph database for AI applications (Rust)",
-      "score": 153,
-      "url": "https://github.com/HelixDB/helix-db/",
-      "time": 1747157198.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43975423"
-    },
-    {
-      "title": "Build real-time knowledge graph for documents with LLM",
-      "score": 116,
-      "url": "https://cocoindex.io/blogs/knowledge-graph-for-docs/",
-      "time": 1747165684.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43976895"
-    },
-    {
-      "title": "Failed Soviet Venus lander Kosmos 482 crashes to Earth after 53 years in orbit",
-      "score": 130,
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/failed-soviet-venus-lander-kosmos-482-crashes-to-earth-after-53-years-in-orbit",
-      "time": 1746885113.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43945628"
-    },
-    {
-      "title": "Launch HN: Miyagi (YC W25) turns YouTube videos into online, interactive courses",
-      "score": 172,
-      "url": "https://news.ycombinator.com/item?id=43972425",
-      "time": 1747141002.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43972425"
-    },
-    {
       "title": "Mipmap selection in too much detail",
-      "score": 30,
+      "score": 52,
       "url": "https://pema.dev/2025/05/09/mipmaps-too-much-detail/",
       "time": 1746940634.0,
       "comments_url": "https://news.ycombinator.com/item?id=43951604"
     },
     {
-      "title": "Multiple security issues in GNU Screen",
-      "score": 364,
-      "url": "https://www.openwall.com/lists/oss-security/2025/05/12/1",
-      "time": 1747135729.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43971716"
+      "title": "Show HN: HelixDB – Open-source vector-graph database for AI applications (Rust)",
+      "score": 167,
+      "url": "https://github.com/HelixDB/helix-db/",
+      "time": 1747157198.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43975423"
     },
     {
-      "title": "Show HN: Mycelium",
-      "score": 12,
-      "url": "https://github.com/mycweb/mycelium",
-      "time": 1746885396.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43945665"
+      "title": "Launch HN: Miyagi (YC W25) turns YouTube videos into online, interactive courses",
+      "score": 178,
+      "url": "https://news.ycombinator.com/item?id=43972425",
+      "time": 1747141002.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43972425"
     },
     {
-      "title": "Writing that changed how I think about programming languages",
-      "score": 7,
-      "url": "https://bernsteinbear.com/blog/pl-writing/",
-      "time": 1747196340.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43980760"
+      "title": "Failed Soviet Venus lander Kosmos 482 crashes to Earth after 53 years in orbit",
+      "score": 144,
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/failed-soviet-venus-lander-kosmos-482-crashes-to-earth-after-53-years-in-orbit",
+      "time": 1746885113.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43945628"
     },
     {
-      "title": "EM-LLM: Human-Inspired Episodic Memory for Infinite Context LLMs",
-      "score": 37,
-      "url": "https://github.com/em-llm/EM-LLM-model",
-      "time": 1746863358.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43943928"
+      "title": "Build real-time knowledge graph for documents with LLM",
+      "score": 132,
+      "url": "https://cocoindex.io/blogs/knowledge-graph-for-docs/",
+      "time": 1747165684.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43976895"
     },
     {
       "title": "PDF to Text, a challenging problem",
-      "score": 261,
+      "score": 288,
       "url": "https://www.marginalia.nu/log/a_119_pdf/",
       "time": 1747148469.0,
       "comments_url": "https://news.ycombinator.com/item?id=43973721"
     },
     {
+      "title": "Multiple security issues in GNU Screen",
+      "score": 375,
+      "url": "https://www.openwall.com/lists/oss-security/2025/05/12/1",
+      "time": 1747135729.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43971716"
+    },
+    {
+      "title": "EM-LLM: Human-Inspired Episodic Memory for Infinite Context LLMs",
+      "score": 58,
+      "url": "https://github.com/em-llm/EM-LLM-model",
+      "time": 1746863358.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43943928"
+    },
+    {
       "title": "Airbnb is in midlife crisis mode",
-      "score": 119,
+      "score": 155,
       "url": "https://www.wired.com/story/airbnb-is-in-midlife-crisis-mode-reinvention-app-services/",
       "time": 1747163874.0,
       "comments_url": "https://news.ycombinator.com/item?id=43976557"
     },
     {
-      "title": "It Awaits Your Experiments",
-      "score": 154,
-      "url": "https://www.rifters.com/crawl/?p=11511",
-      "time": 1747150067.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43974005"
+      "title": "Fingers wrinkle the same way every time they’re in the water too long",
+      "score": 129,
+      "url": "https://www.binghamton.edu/news/story/5547/do-your-fingers-wrinkle-the-same-way-every-time-youre-in-the-water-too-long-new-research-says-yes",
+      "time": 1747179247.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43979063"
     }
   ]
 }
