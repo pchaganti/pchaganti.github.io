@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-13T17:11:04.892276-04:00",
+  "last_updated": "2025-05-13T20:57:20.095254-04:00",
   "papers": [
     {
       "title": "Overflow Prevention Enhances Long-Context Recurrent LLMs",
@@ -52,7 +52,7 @@
     {
       "title": "Codifying Character Logic in Role-Playing",
       "summary": "This paper introduces Codified Profiles for role-playing, a novel approach\nthat represents character logic as structured, executable functions for\nbehavioral decision-making. Each profile defines a set of functions\nparse_by_scene(scene) that outputs a list of logic-grounded assertions\ntriggered_statements, using both explicit control structures (e.g.,\nif-then-else) and condition checks like check_condition(scene, question), where\neach question is a semantically meaningful prompt about the scene (e.g., \"Is\nthe character in danger?\") discriminated by the role-playing LLM as true,\nfalse, or unknown. This explicit representation offers three key advantages\nover traditional prompt-based profiles, which append character descriptions\ndirectly into text prompts: (1) Persistence, by enforcing complete and\nconsistent execution of character logic, rather than relying on the model's\nimplicit reasoning; (2) Updatability, through systematic inspection and\nrevision of behavioral logic, which is difficult to track or debug in\nprompt-only approaches; (3) Controllable Randomness, by supporting stochastic\nbehavior directly within the logic, enabling fine-grained variability that\nprompting alone struggles to achieve. To validate these advantages, we\nintroduce a new benchmark constructed from 83 characters and 5,141 scenes\ncurated from Fandom, using NLI-based scoring to compare character responses\nagainst ground-truth actions. Our experiments demonstrate the significant\nbenefits of codified profiles in improving persistence, updatability, and\nbehavioral diversity. Notably, by offloading a significant portion of reasoning\nto preprocessing, codified profiles enable even 1B-parameter models to perform\nhigh-quality role-playing, providing a scalable and efficient foundation for\nlocal deployment of role-play agents.",
-      "url": "http://arxiv.org/abs/2505.07705v1",
+      "url": "http://arxiv.org/abs/2505.07705v2",
       "published_time_eastern_timestamp": 1747066362.0
     },
     {
@@ -69,8 +69,8 @@
     },
     {
       "title": "OnPrem.LLM: A Privacy-Conscious Document Intelligence Toolkit",
-      "summary": "We present OnPrem.LLM, a Python-based toolkit for applying large language\nmodels (LLMs) to sensitive, non-public data in offline or restricted\nenvironments. The system is designed for privacy-preserving use cases and\nprovides prebuilt pipelines for document processing and storage,\nretrieval-augmented generation (RAG), information extraction, summarization,\nclassification, and prompt/output processing with minimal configuration.\nOnPrem.LLM supports multiple LLM backends -- including llama.cpp, Ollama, vLLM,\nand Hugging Face Transformers -- with quantized model support, GPU\nacceleration, and seamless backend switching. Although designed for fully local\nexecution, OnPrem.LLM also supports integration with a wide range of cloud LLM\nproviders when permitted, enabling hybrid deployments that balance performance\nwith data control. A no-code web interface extends accessibility to\nnon-technical users.",
-      "url": "http://arxiv.org/abs/2505.07672v1",
+      "summary": "We present OnPrem$.$LLM, a Python-based toolkit for applying large language\nmodels (LLMs) to sensitive, non-public data in offline or restricted\nenvironments. The system is designed for privacy-preserving use cases and\nprovides prebuilt pipelines for document processing and storage,\nretrieval-augmented generation (RAG), information extraction, summarization,\nclassification, and prompt/output processing with minimal configuration.\nOnPrem$.$LLM supports multiple LLM backends -- including llama$.$cpp, Ollama,\nvLLM, and Hugging Face Transformers -- with quantized model support, GPU\nacceleration, and seamless backend switching. Although designed for fully local\nexecution, OnPrem$.$LLM also supports integration with a wide range of cloud\nLLM providers when permitted, enabling hybrid deployments that balance\nperformance with data control. A no-code web interface extends accessibility to\nnon-technical users.",
+      "url": "http://arxiv.org/abs/2505.07672v2",
       "published_time_eastern_timestamp": 1747064187.0
     },
     {

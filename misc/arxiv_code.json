@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-13T17:11:05.862773-04:00",
+  "last_updated": "2025-05-13T20:57:21.043740-04:00",
   "papers": [
     {
       "title": "DanceGRPO: Unleashing GRPO on Visual Generation",
@@ -99,8 +99,8 @@
     },
     {
       "title": "OnPrem.LLM: A Privacy-Conscious Document Intelligence Toolkit",
-      "summary": "We present OnPrem.LLM, a Python-based toolkit for applying large language\nmodels (LLMs) to sensitive, non-public data in offline or restricted\nenvironments. The system is designed for privacy-preserving use cases and\nprovides prebuilt pipelines for document processing and storage,\nretrieval-augmented generation (RAG), information extraction, summarization,\nclassification, and prompt/output processing with minimal configuration.\nOnPrem.LLM supports multiple LLM backends -- including llama.cpp, Ollama, vLLM,\nand Hugging Face Transformers -- with quantized model support, GPU\nacceleration, and seamless backend switching. Although designed for fully local\nexecution, OnPrem.LLM also supports integration with a wide range of cloud LLM\nproviders when permitted, enabling hybrid deployments that balance performance\nwith data control. A no-code web interface extends accessibility to\nnon-technical users.",
-      "url": "http://arxiv.org/abs/2505.07672v1",
+      "summary": "We present OnPrem$.$LLM, a Python-based toolkit for applying large language\nmodels (LLMs) to sensitive, non-public data in offline or restricted\nenvironments. The system is designed for privacy-preserving use cases and\nprovides prebuilt pipelines for document processing and storage,\nretrieval-augmented generation (RAG), information extraction, summarization,\nclassification, and prompt/output processing with minimal configuration.\nOnPrem$.$LLM supports multiple LLM backends -- including llama$.$cpp, Ollama,\nvLLM, and Hugging Face Transformers -- with quantized model support, GPU\nacceleration, and seamless backend switching. Although designed for fully local\nexecution, OnPrem$.$LLM also supports integration with a wide range of cloud\nLLM providers when permitted, enabling hybrid deployments that balance\nperformance with data control. A no-code web interface extends accessibility to\nnon-technical users.",
+      "url": "http://arxiv.org/abs/2505.07672v2",
       "published_time_eastern_timestamp": 1747064187.0
     },
     {

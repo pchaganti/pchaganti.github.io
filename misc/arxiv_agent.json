@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-13T17:11:05.352023-04:00",
+  "last_updated": "2025-05-13T20:57:20.563790-04:00",
   "papers": [
     {
       "title": "Imagine, Verify, Execute: Memory-Guided Agentic Exploration with\n  Vision-Language Models",
@@ -40,13 +40,13 @@
     {
       "title": "VTutor for High-Impact Tutoring at Scale: Managing Engagement and\n  Real-Time Multi-Screen Monitoring with P2P Connections",
       "summary": "Hybrid tutoring, where a human tutor supports multiple students in learning\nwith educational technology, is an increasingly common application to deliver\nhigh-impact tutoring at scale. However, past hybrid tutoring applications are\nlimited in guiding tutor attention to students that require support.\nSpecifically, existing conferencing tools, commonly used in hybrid tutoring, do\nnot allow tutors to monitor multiple students' screens while directly\ncommunicating and attending to multiple students simultaneously. To address\nthis issue, this paper introduces VTutor, a web-based platform leveraging\npeer-to-peer screen sharing and virtual avatars to deliver real-time,\ncontext-aware tutoring feedback at scale. By integrating a multi-student\nmonitoring dashboard with AI-powered avatar prompts, VTutor empowers a single\neducator or tutor to rapidly detect off-task or struggling students and\nintervene proactively, thus enhancing the benefits of one-on-one interactions\nin classroom contexts with several students. Drawing on insight from the\nlearning sciences and past research on animated pedagogical agents, we\ndemonstrate how stylized avatars can potentially sustain student engagement\nwhile accommodating varying infrastructure constraints. Finally, we address\nopen questions on refining large-scale, AI-driven tutoring solutions for\nimproved learner outcomes, and how VTutor could help interpret real-time\nlearner interactions to support remote tutors at scale. The VTutor platform can\nbe accessed at https://ls2025.vtutor.ai. The system demo video is at\nhttps://ls2025.vtutor.ai/video.",
-      "url": "http://arxiv.org/abs/2505.07736v1",
+      "url": "http://arxiv.org/abs/2505.07736v2",
       "published_time_eastern_timestamp": 1747068371.0
     },
     {
       "title": "Codifying Character Logic in Role-Playing",
       "summary": "This paper introduces Codified Profiles for role-playing, a novel approach\nthat represents character logic as structured, executable functions for\nbehavioral decision-making. Each profile defines a set of functions\nparse_by_scene(scene) that outputs a list of logic-grounded assertions\ntriggered_statements, using both explicit control structures (e.g.,\nif-then-else) and condition checks like check_condition(scene, question), where\neach question is a semantically meaningful prompt about the scene (e.g., \"Is\nthe character in danger?\") discriminated by the role-playing LLM as true,\nfalse, or unknown. This explicit representation offers three key advantages\nover traditional prompt-based profiles, which append character descriptions\ndirectly into text prompts: (1) Persistence, by enforcing complete and\nconsistent execution of character logic, rather than relying on the model's\nimplicit reasoning; (2) Updatability, through systematic inspection and\nrevision of behavioral logic, which is difficult to track or debug in\nprompt-only approaches; (3) Controllable Randomness, by supporting stochastic\nbehavior directly within the logic, enabling fine-grained variability that\nprompting alone struggles to achieve. To validate these advantages, we\nintroduce a new benchmark constructed from 83 characters and 5,141 scenes\ncurated from Fandom, using NLI-based scoring to compare character responses\nagainst ground-truth actions. Our experiments demonstrate the significant\nbenefits of codified profiles in improving persistence, updatability, and\nbehavioral diversity. Notably, by offloading a significant portion of reasoning\nto preprocessing, codified profiles enable even 1B-parameter models to perform\nhigh-quality role-playing, providing a scalable and efficient foundation for\nlocal deployment of role-play agents.",
-      "url": "http://arxiv.org/abs/2505.07705v1",
+      "url": "http://arxiv.org/abs/2505.07705v2",
       "published_time_eastern_timestamp": 1747066362.0
     },
     {
