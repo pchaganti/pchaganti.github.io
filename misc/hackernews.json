@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-05-15T02:17:47.009861-04:00",
+  "last_updated": "2025-05-15T05:13:05.791599-04:00",
   "stories": [
     {
-      "title": "LLMs get lost in multi-turn conversation",
-      "score": 142,
-      "url": "https://arxiv.org/abs/2505.06120",
-      "time": 1747276122.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43991256"
-    },
-    {
       "title": "Human",
-      "score": 123,
+      "score": 264,
       "url": "https://quarter--mile.com/Human",
       "time": 1747277839.0,
       "comments_url": "https://news.ycombinator.com/item?id=43991396"
     },
     {
       "title": "Internet Artifacts",
-      "score": 84,
+      "score": 177,
       "url": "https://neal.fun/internet-artifacts/",
       "time": 1747136996.0,
       "comments_url": "https://news.ycombinator.com/item?id=43971853"
     },
     {
+      "title": "LLMs get lost in multi-turn conversation",
+      "score": 222,
+      "url": "https://arxiv.org/abs/2505.06120",
+      "time": 1747276122.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43991256"
+    },
+    {
       "title": "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms",
-      "score": 779,
+      "score": 826,
       "url": "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
       "time": 1747235415.0,
       "comments_url": "https://news.ycombinator.com/item?id=43985489"
     },
     {
+      "title": "Working on complex systems: What I learned working at Google",
+      "score": 42,
+      "url": "https://www.thecoder.cafe/p/complex-systems",
+      "time": 1747128943.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43971177"
+    },
+    {
       "title": "Python lib generates its code on-the-fly based on usage",
-      "score": 77,
+      "score": 118,
       "url": "https://github.com/cofob/autogenlib",
       "time": 1747013762.0,
       "comments_url": "https://news.ycombinator.com/item?id=43958846"
     },
     {
       "title": "What is HDR, anyway?",
-      "score": 581,
+      "score": 625,
       "url": "https://www.lux.camera/what-is-hdr/",
       "time": 1747226799.0,
       "comments_url": "https://news.ycombinator.com/item?id=43983871"
     },
     {
       "title": "Show HN: Muscle-Mem, a behavior cache for AI agents",
-      "score": 171,
+      "score": 179,
       "url": "https://github.com/pig-dot-dev/muscle-mem",
       "time": 1747251506.0,
       "comments_url": "https://news.ycombinator.com/item?id=43988381"
     },
     {
-      "title": "Self-hostable webhook tester in go",
-      "score": 20,
-      "url": "https://testwebhook.xyz",
-      "time": 1747128646.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43971149"
-    },
-    {
       "title": "Show HN: Semantic Calculator (king-man+woman=?)",
-      "score": 116,
+      "score": 129,
       "url": "https://calc.datova.ai",
       "time": 1747252471.0,
       "comments_url": "https://news.ycombinator.com/item?id=43988533"
     },
     {
-      "title": "A server that wasn't meant to exist",
-      "score": 294,
-      "url": "https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/",
-      "time": 1747237830.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43985971"
+      "title": "Tiptap (YC S23) Is Hiring",
+      "score": 1,
+      "url": "https://www.ycombinator.com/companies/tiptap/jobs/1S8DTcM-growth-manager",
+      "time": 1747292471.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43992530"
     },
     {
       "title": "Git Bug: Distributed, Offline-First Bug Tracker Embedded in Git, with Bridges",
-      "score": 205,
+      "score": 230,
       "url": "https://github.com/git-bug/git-bug",
       "time": 1747134449.0,
       "comments_url": "https://news.ycombinator.com/item?id=43971620"
     },
     {
-      "title": "Internet Scrabble Club (2002-)",
-      "score": 38,
-      "url": "https://isc.ro/",
-      "time": 1747006452.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43958190"
-    },
-    {
       "title": "Changes since congestion pricing started in New York",
-      "score": 253,
+      "score": 281,
       "url": "https://www.nytimes.com/interactive/2025/05/11/upshot/congestion-pricing.html",
       "time": 1747133000.0,
       "comments_url": "https://news.ycombinator.com/item?id=43971515"
     },
     {
+      "title": "Self-hostable webhook tester in go",
+      "score": 35,
+      "url": "https://testwebhook.xyz",
+      "time": 1747128646.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43971149"
+    },
+    {
+      "title": "A server that wasn't meant to exist",
+      "score": 326,
+      "url": "https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/",
+      "time": 1747237830.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43985971"
+    },
+    {
+      "title": "Lightweight open source reCaptcha alternative",
+      "score": 28,
+      "url": "https://github.com/altcha-org/altcha",
+      "time": 1747127947.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43971068"
+    },
+    {
       "title": "NASA Stennis Releases First Open-Source Software",
-      "score": 31,
+      "score": 44,
       "url": "https://www.nasa.gov/centers-and-facilities/stennis/stennis-first-open-source-software/",
       "time": 1747137773.0,
       "comments_url": "https://news.ycombinator.com/item?id=43971941"
     },
     {
-      "title": "XAI's Grok suddenly can't stop bringing up \"white genocide\" in South Africa",
-      "score": 14,
-      "url": "https://arstechnica.com/ai/2025/05/xais-grok-suddenly-cant-stop-bringing-up-white-genocide-in-south-africa/",
-      "time": 1747288080.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43992198"
+      "title": "EU ruling: tracking-based advertising [...] across Europe has no legal basis",
+      "score": 141,
+      "url": "https://www.iccl.ie/digital-data/eu-ruling-tracking-based-advertising-by-google-microsoft-amazon-x-across-europe-has-no-legal-basis/",
+      "time": 1747291383.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43992444"
+    },
+    {
+      "title": "Doom on the Oldest Digital Computer in America [video]",
+      "score": 10,
+      "url": "https://www.youtube.com/watch?v=no0CkQk7id0",
+      "time": 1746982150.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43955024"
     },
     {
       "title": "Databricks acquires Neon",
-      "score": 309,
+      "score": 323,
       "url": "https://www.databricks.com/blog/databricks-neon",
       "time": 1747217400.0,
       "comments_url": "https://news.ycombinator.com/item?id=43982777"
     },
     {
       "title": "The cryptography behind passkeys",
-      "score": 194,
+      "score": 213,
       "url": "https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/",
       "time": 1747221759.0,
       "comments_url": "https://news.ycombinator.com/item?id=43983159"
-    },
-    {
-      "title": "Migrating to Postgres",
-      "score": 149,
-      "url": "https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d",
-      "time": 1747258785.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43989497"
-    },
-    {
-      "title": "Our narrative prison",
-      "score": 143,
-      "url": "https://aeon.co/essays/why-does-every-film-and-tv-series-seem-to-have-the-same-plot",
-      "time": 1747240068.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43986424"
-    },
-    {
-      "title": "Hegel 2.0: The imaginary history of ternary computing (2018)",
-      "score": 41,
-      "url": "https://www.cabinetmagazine.org/issues/65/weatherby.php",
-      "time": 1747083550.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43967405"
     }
   ]
 }
