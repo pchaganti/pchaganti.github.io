@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-05-15T05:13:05.791599-04:00",
+  "last_updated": "2025-05-15T08:22:39.957223-04:00",
   "stories": [
     {
       "title": "Human",
-      "score": 264,
+      "score": 412,
       "url": "https://quarter--mile.com/Human",
       "time": 1747277839.0,
       "comments_url": "https://news.ycombinator.com/item?id=43991396"
     },
     {
       "title": "Internet Artifacts",
-      "score": 177,
+      "score": 310,
       "url": "https://neal.fun/internet-artifacts/",
       "time": 1747136996.0,
       "comments_url": "https://news.ycombinator.com/item?id=43971853"
     },
     {
-      "title": "LLMs get lost in multi-turn conversation",
-      "score": 222,
-      "url": "https://arxiv.org/abs/2505.06120",
-      "time": 1747276122.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43991256"
-    },
-    {
       "title": "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms",
-      "score": 826,
+      "score": 872,
       "url": "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
       "time": 1747235415.0,
       "comments_url": "https://news.ycombinator.com/item?id=43985489"
     },
     {
       "title": "Working on complex systems: What I learned working at Google",
-      "score": 42,
+      "score": 88,
       "url": "https://www.thecoder.cafe/p/complex-systems",
       "time": 1747128943.0,
       "comments_url": "https://news.ycombinator.com/item?id=43971177"
     },
     {
-      "title": "Python lib generates its code on-the-fly based on usage",
-      "score": 118,
-      "url": "https://github.com/cofob/autogenlib",
-      "time": 1747013762.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43958846"
+      "title": "LLMs get lost in multi-turn conversation",
+      "score": 269,
+      "url": "https://arxiv.org/abs/2505.06120",
+      "time": 1747276122.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43991256"
+    },
+    {
+      "title": "Fast machines, slow machines (2023)",
+      "score": 25,
+      "url": "https://jmmv.dev/2023/06/fast-machines-slow-machines.html",
+      "time": 1747138223.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43972004"
+    },
+    {
+      "title": "PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC",
+      "score": 1,
+      "url": "https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808",
+      "time": 1747310618.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43994131"
     },
     {
       "title": "What is HDR, anyway?",
-      "score": 625,
+      "score": 665,
       "url": "https://www.lux.camera/what-is-hdr/",
       "time": 1747226799.0,
       "comments_url": "https://news.ycombinator.com/item?id=43983871"
     },
     {
+      "title": "Python lib generates its code on-the-fly based on usage",
+      "score": 154,
+      "url": "https://github.com/cofob/autogenlib",
+      "time": 1747013762.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43958846"
+    },
+    {
+      "title": "GM's new turbo engine rewrites the rules of torque control-and locks out tuners",
+      "score": 29,
+      "url": "https://www.carsandhorsepower.com/featured/gm-s-new-turbo-engine-patent-could-rewrite-the-rules-of-torque-control-and-lock-out-tuners-for-good",
+      "time": 1747116254.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43969985"
+    },
+    {
       "title": "Show HN: Muscle-Mem, a behavior cache for AI agents",
-      "score": 179,
+      "score": 189,
       "url": "https://github.com/pig-dot-dev/muscle-mem",
       "time": 1747251506.0,
       "comments_url": "https://news.ycombinator.com/item?id=43988381"
     },
     {
-      "title": "Show HN: Semantic Calculator (king-man+woman=?)",
-      "score": 129,
-      "url": "https://calc.datova.ai",
-      "time": 1747252471.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43988533"
-    },
-    {
-      "title": "Tiptap (YC S23) Is Hiring",
-      "score": 1,
-      "url": "https://www.ycombinator.com/companies/tiptap/jobs/1S8DTcM-growth-manager",
-      "time": 1747292471.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43992530"
-    },
-    {
-      "title": "Git Bug: Distributed, Offline-First Bug Tracker Embedded in Git, with Bridges",
-      "score": 230,
-      "url": "https://github.com/git-bug/git-bug",
-      "time": 1747134449.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43971620"
-    },
-    {
-      "title": "Changes since congestion pricing started in New York",
-      "score": 281,
-      "url": "https://www.nytimes.com/interactive/2025/05/11/upshot/congestion-pricing.html",
-      "time": 1747133000.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43971515"
-    },
-    {
-      "title": "Self-hostable webhook tester in go",
-      "score": 35,
-      "url": "https://testwebhook.xyz",
-      "time": 1747128646.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43971149"
-    },
-    {
-      "title": "A server that wasn't meant to exist",
-      "score": 326,
-      "url": "https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/",
-      "time": 1747237830.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43985971"
-    },
-    {
-      "title": "Lightweight open source reCaptcha alternative",
-      "score": 28,
-      "url": "https://github.com/altcha-org/altcha",
-      "time": 1747127947.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43971068"
-    },
-    {
-      "title": "NASA Stennis Releases First Open-Source Software",
-      "score": 44,
-      "url": "https://www.nasa.gov/centers-and-facilities/stennis/stennis-first-open-source-software/",
-      "time": 1747137773.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43971941"
-    },
-    {
-      "title": "EU ruling: tracking-based advertising [...] across Europe has no legal basis",
-      "score": 141,
-      "url": "https://www.iccl.ie/digital-data/eu-ruling-tracking-based-advertising-by-google-microsoft-amazon-x-across-europe-has-no-legal-basis/",
-      "time": 1747291383.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43992444"
-    },
-    {
       "title": "Doom on the Oldest Digital Computer in America [video]",
-      "score": 10,
+      "score": 30,
       "url": "https://www.youtube.com/watch?v=no0CkQk7id0",
       "time": 1746982150.0,
       "comments_url": "https://news.ycombinator.com/item?id=43955024"
     },
     {
+      "title": "Lightweight open source reCaptcha alternative",
+      "score": 61,
+      "url": "https://github.com/altcha-org/altcha",
+      "time": 1747127947.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43971068"
+    },
+    {
+      "title": "Changes since congestion pricing started in New York",
+      "score": 313,
+      "url": "https://www.nytimes.com/interactive/2025/05/11/upshot/congestion-pricing.html",
+      "time": 1747133000.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43971515"
+    },
+    {
+      "title": "Git Bug: Distributed, Offline-First Bug Tracker Embedded in Git, with Bridges",
+      "score": 244,
+      "url": "https://github.com/git-bug/git-bug",
+      "time": 1747134449.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43971620"
+    },
+    {
+      "title": "A server that wasn't meant to exist",
+      "score": 347,
+      "url": "https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/",
+      "time": 1747237830.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43985971"
+    },
+    {
+      "title": "Show HN: Semantic Calculator (king-man+woman=?)",
+      "score": 141,
+      "url": "https://calc.datova.ai",
+      "time": 1747252471.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43988533"
+    },
+    {
+      "title": "Self-hostable webhook tester in go",
+      "score": 46,
+      "url": "https://testwebhook.xyz",
+      "time": 1747128646.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43971149"
+    },
+    {
+      "title": "In the US, a rotating detonation rocket engine takes flight",
+      "score": 8,
+      "url": "https://arstechnica.com/space/2025/05/venus-aerospace-flies-its-rotating-detonation-rocket-engine-for-the-first-time/",
+      "time": 1747308562.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43993897"
+    },
+    {
       "title": "Databricks acquires Neon",
-      "score": 323,
+      "score": 338,
       "url": "https://www.databricks.com/blog/databricks-neon",
       "time": 1747217400.0,
       "comments_url": "https://news.ycombinator.com/item?id=43982777"
-    },
-    {
-      "title": "The cryptography behind passkeys",
-      "score": 213,
-      "url": "https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/",
-      "time": 1747221759.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43983159"
     }
   ]
 }
