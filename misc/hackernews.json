@@ -1,40 +1,96 @@
 {
-  "last_updated": "2025-05-14T17:09:35.347622-04:00",
+  "last_updated": "2025-05-14T20:55:50.325579-04:00",
   "stories": [
     {
       "title": "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms",
-      "score": 492,
+      "score": 647,
       "url": "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
       "time": 1747235415.0,
       "comments_url": "https://news.ycombinator.com/item?id=43985489"
     },
     {
+      "title": "Migrating to Postgres",
+      "score": 82,
+      "url": "https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d",
+      "time": 1747258785.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43989497"
+    },
+    {
       "title": "Show HN: Muscle-Mem, a behavior cache for AI agents",
-      "score": 57,
+      "score": 129,
       "url": "https://github.com/pig-dot-dev/muscle-mem",
       "time": 1747251506.0,
       "comments_url": "https://news.ycombinator.com/item?id=43988381"
     },
     {
       "title": "What is HDR, anyway?",
-      "score": 409,
+      "score": 496,
       "url": "https://www.lux.camera/what-is-hdr/",
       "time": 1747226799.0,
       "comments_url": "https://news.ycombinator.com/item?id=43983871"
     },
     {
       "title": "Show HN: Semantic Calculator (king-man+woman=?)",
-      "score": 33,
+      "score": 76,
       "url": "https://calc.datova.ai",
       "time": 1747252471.0,
       "comments_url": "https://news.ycombinator.com/item?id=43988533"
     },
     {
+      "title": "Copaganda: How Police and the Media Manipulate Our News",
+      "score": 57,
+      "url": "https://www.teenvogue.com/story/copaganda-when-the-police-and-the-media-manipulate-our-news",
+      "time": 1747265949.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43990333"
+    },
+    {
       "title": "A server that wasn't meant to exist",
-      "score": 179,
+      "score": 243,
       "url": "https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/",
       "time": 1747237830.0,
       "comments_url": "https://news.ycombinator.com/item?id=43985971"
+    },
+    {
+      "title": "Git Bug: Distributed, Offline-First Bug Tracker Embedded in Git, with Bridges",
+      "score": 162,
+      "url": "https://github.com/git-bug/git-bug",
+      "time": 1747134449.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43971620"
+    },
+    {
+      "title": "Getting Started with Celtic Coins – Crude and Barbarous, or Just Different?",
+      "score": 27,
+      "url": "https://collectingancientcoins.co.uk/getting-started-with-celtic-coins-crude-and-barbarous-or-just-different/",
+      "time": 1746937561.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43951366"
+    },
+    {
+      "title": "Hegel 2.0: The imaginary history of ternary computing (2018)",
+      "score": 25,
+      "url": "https://www.cabinetmagazine.org/issues/65/weatherby.php",
+      "time": 1747083550.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43967405"
+    },
+    {
+      "title": "Variadic Switch",
+      "score": 22,
+      "url": "https://pydong.org/posts/variadic-switch/",
+      "time": 1747169153.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43977515"
+    },
+    {
+      "title": "Our narrative prison",
+      "score": 120,
+      "url": "https://aeon.co/essays/why-does-every-film-and-tv-series-seem-to-have-the-same-plot",
+      "time": 1747240068.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43986424"
+    },
+    {
+      "title": "Smalltalk-78 Xerox NoteTaker in-browser emulator",
+      "score": 70,
+      "url": "https://smalltalkzoo.thechm.org/users/bert/Smalltalk-78.html",
+      "time": 1747242330.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43986833"
     },
     {
       "title": "StackAI (YC W23) Is Hiring Pydantic and FastAPI Wizard",
@@ -44,99 +100,43 @@
       "comments_url": "https://news.ycombinator.com/item?id=43989173"
     },
     {
-      "title": "Git Bug: Distributed, Offline-First Bug Tracker Embedded in Git, with Bridges",
-      "score": 107,
-      "url": "https://github.com/git-bug/git-bug",
-      "time": 1747134449.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43971620"
-    },
-    {
-      "title": "Smalltalk-78 Xerox NoteTaker in-browser emulator",
-      "score": 51,
-      "url": "https://smalltalkzoo.thechm.org/users/bert/Smalltalk-78.html",
-      "time": 1747242330.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43986833"
-    },
-    {
-      "title": "David Hilbert's radio address (2014)",
-      "score": 23,
-      "url": "https://old.maa.org/press/periodicals/convergence/david-hilberts-radio-address",
-      "time": 1747249481.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43988116"
-    },
-    {
-      "title": "Our narrative prison",
-      "score": 82,
-      "url": "https://aeon.co/essays/why-does-every-film-and-tv-series-seem-to-have-the-same-plot",
-      "time": 1747240068.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43986424"
-    },
-    {
-      "title": "The cryptography behind passkeys",
-      "score": 113,
-      "url": "https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/",
-      "time": 1747221759.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43983159"
-    },
-    {
-      "title": "An accessibility update – GTK Development Blog",
-      "score": 38,
-      "url": "https://blog.gtk.org/2025/05/12/an-accessibility-update/",
-      "time": 1747135348.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43971685"
-    },
-    {
-      "title": "Perverse incentives of vibe coding",
-      "score": 59,
-      "url": "https://fredbenenson.medium.com/the-perverse-incentives-of-vibe-coding-23efbaf75aee",
-      "time": 1747250978.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43988315"
-    },
-    {
-      "title": "Databricks and Neon",
-      "score": 241,
-      "url": "https://www.databricks.com/blog/databricks-neon",
-      "time": 1747217400.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43982777"
-    },
-    {
-      "title": "UK's Ancient Tree Inventory",
-      "score": 38,
-      "url": "https://ati.woodlandtrust.org.uk/",
-      "time": 1747217516.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43982784"
-    },
-    {
-      "title": "Show HN: Lumier – Run macOS VMs in a Docker",
-      "score": 96,
-      "url": "https://github.com/trycua/cua/tree/main/libs/lumier",
-      "time": 1747235981.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43985624"
-    },
-    {
-      "title": "We Made CUDA Optimization Suck Less",
-      "score": 11,
-      "url": "https://www.rightnowai.co/",
-      "time": 1747147426.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43973541"
-    },
-    {
-      "title": "Launch HN: Jazzberry (YC X25) – AI agent for finding bugs",
-      "score": 24,
-      "url": "https://news.ycombinator.com/item?id=43985994",
-      "time": 1747237941.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43985994"
-    },
-    {
       "title": "Changes since congestion pricing started in New York",
-      "score": 94,
+      "score": 180,
       "url": "https://www.nytimes.com/interactive/2025/05/11/upshot/congestion-pricing.html",
       "time": 1747133000.0,
       "comments_url": "https://news.ycombinator.com/item?id=43971515"
     },
     {
+      "title": "The cryptography behind passkeys",
+      "score": 156,
+      "url": "https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/",
+      "time": 1747221759.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43983159"
+    },
+    {
+      "title": "Databricks and Neon",
+      "score": 263,
+      "url": "https://www.databricks.com/blog/databricks-neon",
+      "time": 1747217400.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43982777"
+    },
+    {
+      "title": "NASA Stennis Releases First Open-Source Software",
+      "score": 4,
+      "url": "https://www.nasa.gov/centers-and-facilities/stennis/stennis-first-open-source-software/",
+      "time": 1747137773.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43971941"
+    },
+    {
+      "title": "UK's Ancient Tree Inventory",
+      "score": 52,
+      "url": "https://ati.woodlandtrust.org.uk/",
+      "time": 1747217516.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43982784"
+    },
+    {
       "title": "How the economics of multitenancy work",
-      "score": 124,
+      "score": 137,
       "url": "https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud",
       "time": 1747228106.0,
       "comments_url": "https://news.ycombinator.com/item?id=43984097"

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-14T17:09:55.925391-04:00",
+  "last_updated": "2025-05-14T20:55:54.194119-04:00",
   "papers": [
     {
       "title": "CodePDE: An Inference Framework for LLM-driven PDE Solver Generation",
@@ -28,7 +28,7 @@
     {
       "title": "Towards Autonomous UAV Visual Object Search in City Space: Benchmark and\n  Agentic Methodology",
       "summary": "Aerial Visual Object Search (AVOS) tasks in urban environments require\nUnmanned Aerial Vehicles (UAVs) to autonomously search for and identify target\nobjects using visual and textual cues without external guidance. Existing\napproaches struggle in complex urban environments due to redundant semantic\nprocessing, similar object distinction, and the exploration-exploitation\ndilemma. To bridge this gap and support the AVOS task, we introduce CityAVOS,\nthe first benchmark dataset for autonomous search of common urban objects. This\ndataset comprises 2,420 tasks across six object categories with varying\ndifficulty levels, enabling comprehensive evaluation of UAV agents' search\ncapabilities. To solve the AVOS tasks, we also propose PRPSearcher\n(Perception-Reasoning-Planning Searcher), a novel agentic method powered by\nmulti-modal large language models (MLLMs) that mimics human three-tier\ncognition. Specifically, PRPSearcher constructs three specialized maps: an\nobject-centric dynamic semantic map enhancing spatial perception, a 3D\ncognitive map based on semantic attraction values for target reasoning, and a\n3D uncertainty map for balanced exploration-exploitation search. Also, our\napproach incorporates a denoising mechanism to mitigate interference from\nsimilar objects and utilizes an Inspiration Promote Thought (IPT) prompting\nmechanism for adaptive action planning. Experimental results on CityAVOS\ndemonstrate that PRPSearcher surpasses existing baselines in both success rate\nand search efficiency (on average: +37.69% SR, +28.96% SPL, -30.69% MSS, and\n-46.40% NE). While promising, the performance gap compared to humans highlights\nthe need for better semantic reasoning and spatial exploration capabilities in\nAVOS tasks. This work establishes a foundation for future advances in embodied\ntarget search. Dataset and source code are available at\nhttps://anonymous.4open.science/r/CityAVOS-3DF8.",
-      "url": "http://arxiv.org/abs/2505.08765v1",
+      "url": "http://arxiv.org/abs/2505.08765v2",
       "published_time_eastern_timestamp": 1747157694.0
     },
     {
@@ -46,7 +46,7 @@
     {
       "title": "Sensitivity-Constrained Fourier Neural Operators for Forward and Inverse\n  Problems in Parametric Differential Equations",
       "summary": "Parametric differential equations of the form du/dt = f(u, x, t, p) are\nfundamental in science and engineering. While deep learning frameworks such as\nthe Fourier Neural Operator (FNO) can efficiently approximate solutions, they\nstruggle with inverse problems, sensitivity estimation (du/dp), and concept\ndrift. We address these limitations by introducing a sensitivity-based\nregularization strategy, called Sensitivity-Constrained Fourier Neural\nOperators (SC-FNO). SC-FNO achieves high accuracy in predicting solution paths\nand consistently outperforms standard FNO and FNO with physics-informed\nregularization. It improves performance in parameter inversion tasks, scales to\nhigh-dimensional parameter spaces (tested with up to 82 parameters), and\nreduces both data and training requirements. These gains are achieved with a\nmodest increase in training time (30% to 130% per epoch) and generalize across\nvarious types of differential equations and neural operators. Code and selected\nexperiments are available at: https://github.com/AMBehroozi/SC_Neural_Operators",
-      "url": "http://arxiv.org/abs/2505.08740v1",
+      "url": "http://arxiv.org/abs/2505.08740v2",
       "published_time_eastern_timestamp": 1747155250.0
     },
     {
@@ -100,7 +100,7 @@
     {
       "title": "WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree\n  Complex Wavelet and Graph Neural Networks",
       "summary": "Deepfake technology poses increasing risks such as privacy invasion and\nidentity theft. To address these threats, we propose WaveGuard, a proactive\nwatermarking framework that enhances robustness and imperceptibility via\nfrequency-domain embedding and graph-based structural consistency.\nSpecifically, we embed watermarks into high-frequency sub-bands using Dual-Tree\nComplex Wavelet Transform (DT-CWT) and employ a Structural Consistency Graph\nNeural Network (SC-GNN) to preserve visual quality. We also design an attention\nmodule to refine embedding precision. Experimental results on face swap and\nreenactment tasks demonstrate that WaveGuard outperforms state-of-the-art\nmethods in both robustness and visual quality. Code is available at\nhttps://github.com/vpsg-research/WaveGuard.",
-      "url": "http://arxiv.org/abs/2505.08614v1",
+      "url": "http://arxiv.org/abs/2505.08614v2",
       "published_time_eastern_timestamp": 1747146702.0
     },
     {

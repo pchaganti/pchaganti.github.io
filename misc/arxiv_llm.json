@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-14T17:09:44.120528-04:00",
+  "last_updated": "2025-05-14T20:55:52.814316-04:00",
   "papers": [
     {
       "title": "CodePDE: An Inference Framework for LLM-driven PDE Solver Generation",
@@ -64,7 +64,7 @@
     {
       "title": "Granite-speech: open-source speech-aware LLMs with strong English ASR\n  capabilities",
       "summary": "Granite-speech LLMs are compact and efficient speech language models\nspecifically designed for English ASR and automatic speech translation (AST).\nThe models were trained by modality aligning the 2B and 8B parameter variants\nof granite-3.3-instruct to speech on publicly available open-source corpora\ncontaining audio inputs and text targets consisting of either human transcripts\nfor ASR or automatically generated translations for AST. Comprehensive\nbenchmarking shows that on English ASR, which was our primary focus, they\noutperform several competitors' models that were trained on orders of magnitude\nmore proprietary data, and they keep pace on English-to-X AST for major\nEuropean languages, Japanese, and Chinese. The speech-specific components are:\na conformer acoustic encoder using block attention and self-conditioning\ntrained with connectionist temporal classification, a windowed\nquery-transformer speech modality adapter used to do temporal downsampling of\nthe acoustic embeddings and map them to the LLM text embedding space, and LoRA\nadapters to further fine-tune the text LLM. Granite-speech-3.3 operates in two\nmodes: in speech mode, it performs ASR and AST by activating the encoder,\nprojector, and LoRA adapters; in text mode, it calls the underlying\ngranite-3.3-instruct model directly (without LoRA), essentially preserving all\nthe text LLM capabilities and safety. Both models are freely available on\nHuggingFace (https://huggingface.co/ibm-granite/granite-speech-3.3-2b and\nhttps://huggingface.co/ibm-granite/granite-speech-3.3-8b) and can be used for\nboth research and commercial purposes under a permissive Apache 2.0 license.",
-      "url": "http://arxiv.org/abs/2505.08699v1",
+      "url": "http://arxiv.org/abs/2505.08699v2",
       "published_time_eastern_timestamp": 1747151937.0
     },
     {

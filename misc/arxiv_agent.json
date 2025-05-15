@@ -1,10 +1,10 @@
 {
-  "last_updated": "2025-05-14T17:09:50.425091-04:00",
+  "last_updated": "2025-05-14T20:55:53.638552-04:00",
   "papers": [
     {
       "title": "Towards Autonomous UAV Visual Object Search in City Space: Benchmark and\n  Agentic Methodology",
       "summary": "Aerial Visual Object Search (AVOS) tasks in urban environments require\nUnmanned Aerial Vehicles (UAVs) to autonomously search for and identify target\nobjects using visual and textual cues without external guidance. Existing\napproaches struggle in complex urban environments due to redundant semantic\nprocessing, similar object distinction, and the exploration-exploitation\ndilemma. To bridge this gap and support the AVOS task, we introduce CityAVOS,\nthe first benchmark dataset for autonomous search of common urban objects. This\ndataset comprises 2,420 tasks across six object categories with varying\ndifficulty levels, enabling comprehensive evaluation of UAV agents' search\ncapabilities. To solve the AVOS tasks, we also propose PRPSearcher\n(Perception-Reasoning-Planning Searcher), a novel agentic method powered by\nmulti-modal large language models (MLLMs) that mimics human three-tier\ncognition. Specifically, PRPSearcher constructs three specialized maps: an\nobject-centric dynamic semantic map enhancing spatial perception, a 3D\ncognitive map based on semantic attraction values for target reasoning, and a\n3D uncertainty map for balanced exploration-exploitation search. Also, our\napproach incorporates a denoising mechanism to mitigate interference from\nsimilar objects and utilizes an Inspiration Promote Thought (IPT) prompting\nmechanism for adaptive action planning. Experimental results on CityAVOS\ndemonstrate that PRPSearcher surpasses existing baselines in both success rate\nand search efficiency (on average: +37.69% SR, +28.96% SPL, -30.69% MSS, and\n-46.40% NE). While promising, the performance gap compared to humans highlights\nthe need for better semantic reasoning and spatial exploration capabilities in\nAVOS tasks. This work establishes a foundation for future advances in embodied\ntarget search. Dataset and source code are available at\nhttps://anonymous.4open.science/r/CityAVOS-3DF8.",
-      "url": "http://arxiv.org/abs/2505.08765v1",
+      "url": "http://arxiv.org/abs/2505.08765v2",
       "published_time_eastern_timestamp": 1747157694.0
     },
     {
@@ -40,7 +40,7 @@
     {
       "title": "Communication-Efficient Distributed Online Nonconvex Optimization with\n  Time-Varying Constraints",
       "summary": "This paper considers distributed online nonconvex optimization with\ntime-varying inequality constraints over a network of agents, where the\nnonconvex local loss and convex local constraint functions can vary arbitrarily\nacross iterations, and the information of them is privately revealed to each\nagent at each iteration. For a uniformly jointly strongly connected\ntime-varying directed graph, we propose two distributed bandit online\nprimal--dual algorithm with compressed communication to efficiently utilize\ncommunication resources in the one-point and two-point bandit feedback\nsettings, respectively. In nonconvex optimization, finding a globally optimal\ndecision is often NP-hard. As a result, the standard regret metric used in\nonline convex optimization becomes inapplicable. To measure the performance of\nthe proposed algorithms, we use a network regret metric grounded in the\nfirst-order optimality condition associated with the variational inequality. We\nshow that the compressed algorithms establish sublinear network regret and\ncumulative constraint violation bounds. Finally, a simulation example is\npresented to validate the theoretical results.",
-      "url": "http://arxiv.org/abs/2505.08592v1",
+      "url": "http://arxiv.org/abs/2505.08592v2",
       "published_time_eastern_timestamp": 1747145052.0
     },
     {
