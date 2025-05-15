@@ -1,61 +1,96 @@
 {
-  "last_updated": "2025-05-15T14:16:27.456378-04:00",
+  "last_updated": "2025-05-15T17:11:12.723187-04:00",
   "stories": [
     {
+      "title": "Baby is healed with first personalized gene-editing treatment",
+      "score": 207,
+      "url": "https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html",
+      "time": 1747332366.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43997636"
+    },
+    {
+      "title": "The Unreasonable Effectiveness of an LLM Agent Loop with Tool Use",
+      "score": 50,
+      "url": "https://sketch.dev/blog/agent-loop",
+      "time": 1747337624.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43998472"
+    },
+    {
+      "title": "Tek – a music making program for 24-bit Unicode terminals",
+      "score": 25,
+      "url": "https://codeberg.org/unspeaker/tek",
+      "time": 1747339019.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43998707"
+    },
+    {
+      "title": "The current state of TLA⁺ development",
+      "score": 58,
+      "url": "https://ahelwer.ca/post/2025-05-15-tla-dev-status/",
+      "time": 1747335235.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43998115"
+    },
+    {
+      "title": "Dr. Dobb's Journal Interviews Jef Raskin (1986)",
+      "score": 33,
+      "url": "https://computeradsfromthepast.substack.com/p/dr-dobbs-journal-interviews-jef-raskin",
+      "time": 1747334623.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43998008"
+    },
+    {
       "title": "Launch HN: Tinfoil (YC X25): Verifiable Privacy for Cloud AI",
-      "score": 44,
+      "score": 84,
       "url": "https://news.ycombinator.com/item?id=43996555",
       "time": 1747325940.0,
       "comments_url": "https://news.ycombinator.com/item?id=43996555"
     },
     {
+      "title": "Improving Naval Ship Acquisition",
+      "score": 27,
+      "url": "https://www.construction-physics.com/p/fixing-naval-ship-acquisition",
+      "time": 1747332928.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43997728"
+    },
+    {
       "title": "A Tiny Boltzmann Machine",
-      "score": 158,
+      "score": 198,
       "url": "https://eoinmurray.info/boltzmann-machine",
       "time": 1747316497.0,
       "comments_url": "https://news.ycombinator.com/item?id=43995005"
     },
     {
+      "title": "Old and Small Technology",
+      "score": 12,
+      "url": "https://www.complete.org/old-and-small-technology/",
+      "time": 1747338398.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43998597"
+    },
+    {
+      "title": "Refactoring Clojure",
+      "score": 26,
+      "url": "https://www.orsolabs.com/post/refactoring-clojure-1/",
+      "time": 1747337281.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43998423"
+    },
+    {
       "title": "Show HN: Min.js style compression of tech docs for LLM context",
-      "score": 107,
+      "score": 136,
       "url": "https://github.com/marv1nnnnn/llm-min.txt",
       "time": 1747316404.0,
       "comments_url": "https://news.ycombinator.com/item?id=43994987"
     },
     {
-      "title": "An Update on Fresh",
-      "score": 56,
-      "url": "https://deno.com/blog/an-update-on-fresh",
-      "time": 1747323038.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43996071"
-    },
-    {
       "title": "Malicious compliance by booking an available meeting room",
-      "score": 185,
+      "score": 252,
       "url": "https://www.clientserver.dev/p/malicious-compliance-by-booking-an",
       "time": 1747315228.0,
       "comments_url": "https://news.ycombinator.com/item?id=43994765"
     },
     {
-      "title": "Onfim's world: Child artists in history",
-      "score": 15,
-      "url": "https://resobscura.substack.com/p/onfims-world-medieval-child-artists",
-      "time": 1747327400.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43996796"
-    },
-    {
-      "title": "Show HN: Real-Time Gaussian Splatting",
-      "score": 89,
-      "url": "https://github.com/axbycc/LiveSplat",
-      "time": 1747315609.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43994827"
-    },
-    {
-      "title": "Wavelet Trees: An Introduction (2011)",
-      "score": 28,
-      "url": "https://www.alexbowe.com/wavelet-trees/",
-      "time": 1747322824.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43996031"
+      "title": "I don't like NumPy",
+      "score": 261,
+      "url": "https://dynomight.net/numpy/",
+      "time": 1747325122.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43996431"
     },
     {
       "title": "Fetii (YC S22) Is Hiring",
@@ -65,81 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=43996980"
     },
     {
-      "title": "Lua for Elixir",
-      "score": 135,
-      "url": "https://davelucia.com/blog/lua-elixir",
-      "time": 1747141431.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43972485"
+      "title": "Harvard Law paid $27 for a copy of Magna Carta. It's an original",
+      "score": 93,
+      "url": "https://www.nytimes.com/2025/05/15/world/europe/harvard-law-magna-carta-original.html",
+      "time": 1747333589.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43997830"
     },
     {
-      "title": "Human",
-      "score": 602,
-      "url": "https://quarter--mile.com/Human",
-      "time": 1747277839.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43991396"
+      "title": "New paradigm for psychology just dropped",
+      "score": 37,
+      "url": "https://www.experimental-history.com/p/new-paradigm-for-psychology-just",
+      "time": 1747334182.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43997932"
     },
     {
-      "title": "Model Organisms Are Not Static",
-      "score": 16,
-      "url": "https://www.asimov.press/p/model-organisms-are-not-static",
-      "time": 1747323943.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43996243"
+      "title": "Show HN: Real-Time Gaussian Splatting",
+      "score": 111,
+      "url": "https://github.com/axbycc/LiveSplat",
+      "time": 1747315609.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43994827"
     },
     {
-      "title": "Internet Artifacts",
-      "score": 549,
-      "url": "https://neal.fun/internet-artifacts/",
-      "time": 1747136996.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43971853"
+      "title": "Coinbase says hackers bribed staff to steal customer data, demanding $20M ransom",
+      "score": 211,
+      "url": "https://www.cnbc.com/2025/05/15/coinbase-says-hackers-bribed-staff-to-steal-customer-data-and-are-demanding-20-million-ransom.html",
+      "time": 1747324341.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43996307"
     },
     {
-      "title": "The Fastest Way yet to Color Graphs",
-      "score": 18,
-      "url": "https://www.quantamagazine.org/the-fastest-way-yet-to-color-graphs-20250512/",
-      "time": 1747124950.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43970768"
+      "title": "A Tale of a Trailing Dot (2022)",
+      "score": 8,
+      "url": "https://daniel.haxx.se/blog/2022/05/12/a-tale-of-a-trailing-dot/",
+      "time": 1747149866.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43973964"
     },
     {
-      "title": "Pathfinding",
-      "score": 66,
-      "url": "https://juhrjuhr.itch.io/deep-space-exploitation/devlog/945428/9-pathfinding",
-      "time": 1747312335.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43994333"
-    },
-    {
-      "title": "A Rust API Inspired by Python, Powered by Serde",
-      "score": 35,
-      "url": "https://ohadravid.github.io/posts/2025-05-serde-reflect/",
-      "time": 1746980899.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43954858"
-    },
-    {
-      "title": "Show HN: Undetectag, track stolen items with AirTag",
-      "score": 30,
-      "url": "https://undetectag.com/",
-      "time": 1747323986.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43996251"
-    },
-    {
-      "title": "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms",
-      "score": 947,
-      "url": "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
-      "time": 1747235415.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43985489"
-    },
-    {
-      "title": "California sent residents' personal health data to LinkedIn",
-      "score": 114,
-      "url": "https://themarkup.org/pixel-hunt/2025/04/28/how-california-sent-residents-personal-health-data-to-linkedin",
-      "time": 1747318405.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43995302"
-    },
-    {
-      "title": "Working on complex systems: What I learned working at Google",
-      "score": 188,
-      "url": "https://www.thecoder.cafe/p/complex-systems",
-      "time": 1747128943.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43971177"
+      "title": "Onfim's world: Child artists in history",
+      "score": 27,
+      "url": "https://resobscura.substack.com/p/onfims-world-medieval-child-artists",
+      "time": 1747327400.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43996796"
     }
   ]
 }
