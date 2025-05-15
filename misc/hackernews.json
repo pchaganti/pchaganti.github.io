@@ -1,47 +1,82 @@
 {
-  "last_updated": "2025-05-15T08:22:39.957223-04:00",
+  "last_updated": "2025-05-15T11:12:01.597092-04:00",
   "stories": [
     {
+      "title": "A Tiny Boltzmann Machine",
+      "score": 74,
+      "url": "https://eoinmurray.info/boltzmann-machine",
+      "time": 1747316497.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43995005"
+    },
+    {
+      "title": "Show HN: Min.js style compression of tech docs for LLM context",
+      "score": 46,
+      "url": "https://github.com/marv1nnnnn/llm-min.txt",
+      "time": 1747316404.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43994987"
+    },
+    {
+      "title": "Malicious compliance by booking an available meeting room",
+      "score": 85,
+      "url": "https://www.clientserver.dev/p/malicious-compliance-by-booking-an",
+      "time": 1747315228.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43994765"
+    },
+    {
+      "title": "Show HN: Real-Time Gaussian Splatting",
+      "score": 52,
+      "url": "https://github.com/axbycc/LiveSplat",
+      "time": 1747315609.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43994827"
+    },
+    {
       "title": "Human",
-      "score": 412,
+      "score": 541,
       "url": "https://quarter--mile.com/Human",
       "time": 1747277839.0,
       "comments_url": "https://news.ycombinator.com/item?id=43991396"
     },
     {
+      "title": "How we made billing backendless",
+      "score": 14,
+      "url": "https://useautumn.com/blog/backendless",
+      "time": 1747317263.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43995122"
+    },
+    {
+      "title": "Lua for Elixir",
+      "score": 69,
+      "url": "https://davelucia.com/blog/lua-elixir",
+      "time": 1747141431.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43972485"
+    },
+    {
       "title": "Internet Artifacts",
-      "score": 310,
+      "score": 452,
       "url": "https://neal.fun/internet-artifacts/",
       "time": 1747136996.0,
       "comments_url": "https://news.ycombinator.com/item?id=43971853"
     },
     {
+      "title": "Pathfinding",
+      "score": 29,
+      "url": "https://juhrjuhr.itch.io/deep-space-exploitation/devlog/945428/9-pathfinding",
+      "time": 1747312335.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43994333"
+    },
+    {
+      "title": "A Rust API Inspired by Python, Powered by Serde",
+      "score": 19,
+      "url": "https://ohadravid.github.io/posts/2025-05-serde-reflect/",
+      "time": 1746980899.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43954858"
+    },
+    {
       "title": "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms",
-      "score": 872,
+      "score": 915,
       "url": "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
       "time": 1747235415.0,
       "comments_url": "https://news.ycombinator.com/item?id=43985489"
-    },
-    {
-      "title": "Working on complex systems: What I learned working at Google",
-      "score": 88,
-      "url": "https://www.thecoder.cafe/p/complex-systems",
-      "time": 1747128943.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43971177"
-    },
-    {
-      "title": "LLMs get lost in multi-turn conversation",
-      "score": 269,
-      "url": "https://arxiv.org/abs/2505.06120",
-      "time": 1747276122.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43991256"
-    },
-    {
-      "title": "Fast machines, slow machines (2023)",
-      "score": 25,
-      "url": "https://jmmv.dev/2023/06/fast-machines-slow-machines.html",
-      "time": 1747138223.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43972004"
     },
     {
       "title": "PermitFlow (YC W22) Is Hiring Senior/Staff Engineers in NYC",
@@ -51,95 +86,60 @@
       "comments_url": "https://news.ycombinator.com/item?id=43994131"
     },
     {
-      "title": "What is HDR, anyway?",
-      "score": 665,
-      "url": "https://www.lux.camera/what-is-hdr/",
-      "time": 1747226799.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43983871"
+      "title": "Working on complex systems: What I learned working at Google",
+      "score": 144,
+      "url": "https://www.thecoder.cafe/p/complex-systems",
+      "time": 1747128943.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43971177"
+    },
+    {
+      "title": "Fast machines, slow machines (2023)",
+      "score": 54,
+      "url": "https://jmmv.dev/2023/06/fast-machines-slow-machines.html",
+      "time": 1747138223.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43972004"
     },
     {
       "title": "Python lib generates its code on-the-fly based on usage",
-      "score": 154,
+      "score": 199,
       "url": "https://github.com/cofob/autogenlib",
       "time": 1747013762.0,
       "comments_url": "https://news.ycombinator.com/item?id=43958846"
     },
     {
-      "title": "GM's new turbo engine rewrites the rules of torque control-and locks out tuners",
-      "score": 29,
-      "url": "https://www.carsandhorsepower.com/featured/gm-s-new-turbo-engine-patent-could-rewrite-the-rules-of-torque-control-and-lock-out-tuners-for-good",
-      "time": 1747116254.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43969985"
+      "title": "What is HDR, anyway?",
+      "score": 707,
+      "url": "https://www.lux.camera/what-is-hdr/",
+      "time": 1747226799.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43983871"
     },
     {
-      "title": "Show HN: Muscle-Mem, a behavior cache for AI agents",
-      "score": 189,
-      "url": "https://github.com/pig-dot-dev/muscle-mem",
-      "time": 1747251506.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43988381"
+      "title": "Forget IPs: using cryptography to verify bot and agent traffic",
+      "score": 33,
+      "url": "https://blog.cloudflare.com/web-bot-auth/",
+      "time": 1747315334.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43994779"
     },
     {
-      "title": "Doom on the Oldest Digital Computer in America [video]",
-      "score": 30,
-      "url": "https://www.youtube.com/watch?v=no0CkQk7id0",
-      "time": 1746982150.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43955024"
+      "title": "My Engineering Craft Regressed",
+      "score": 51,
+      "url": "https://lemmy.ml/post/30100312",
+      "time": 1747314425.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43994635"
     },
     {
-      "title": "Lightweight open source reCaptcha alternative",
-      "score": 61,
-      "url": "https://github.com/altcha-org/altcha",
-      "time": 1747127947.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43971068"
+      "title": "California sent residents' personal health data to LinkedIn",
+      "score": 17,
+      "url": "https://themarkup.org/pixel-hunt/2025/04/28/how-california-sent-residents-personal-health-data-to-linkedin",
+      "time": 1747318405.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43995302"
     },
     {
-      "title": "Changes since congestion pricing started in New York",
-      "score": 313,
-      "url": "https://www.nytimes.com/interactive/2025/05/11/upshot/congestion-pricing.html",
-      "time": 1747133000.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43971515"
-    },
-    {
-      "title": "Git Bug: Distributed, Offline-First Bug Tracker Embedded in Git, with Bridges",
-      "score": 244,
-      "url": "https://github.com/git-bug/git-bug",
-      "time": 1747134449.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43971620"
-    },
-    {
-      "title": "A server that wasn't meant to exist",
-      "score": 347,
-      "url": "https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/",
-      "time": 1747237830.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43985971"
-    },
-    {
-      "title": "Show HN: Semantic Calculator (king-man+woman=?)",
-      "score": 141,
-      "url": "https://calc.datova.ai",
-      "time": 1747252471.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43988533"
-    },
-    {
-      "title": "Self-hostable webhook tester in go",
-      "score": 46,
-      "url": "https://testwebhook.xyz",
-      "time": 1747128646.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43971149"
-    },
-    {
-      "title": "In the US, a rotating detonation rocket engine takes flight",
-      "score": 8,
-      "url": "https://arstechnica.com/space/2025/05/venus-aerospace-flies-its-rotating-detonation-rocket-engine-for-the-first-time/",
-      "time": 1747308562.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43993897"
-    },
-    {
-      "title": "Databricks acquires Neon",
-      "score": 338,
-      "url": "https://www.databricks.com/blog/databricks-neon",
-      "time": 1747217400.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43982777"
+      "title": "LLMs get lost in multi-turn conversation",
+      "score": 307,
+      "url": "https://arxiv.org/abs/2505.06120",
+      "time": 1747276122.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43991256"
     }
   ]
 }
