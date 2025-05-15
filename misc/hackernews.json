@@ -1,96 +1,131 @@
 {
-  "last_updated": "2025-05-14T20:55:50.325579-04:00",
+  "last_updated": "2025-05-14T23:37:06.445186-04:00",
   "stories": [
     {
+      "title": "LLMs Get Lost in Multi-Turn Conversation",
+      "score": 42,
+      "url": "https://arxiv.org/abs/2505.06120",
+      "time": 1747276122.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43991256"
+    },
+    {
+      "title": "Human",
+      "score": 23,
+      "url": "https://quarter--mile.com/Human",
+      "time": 1747277839.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43991396"
+    },
+    {
       "title": "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms",
-      "score": 647,
+      "score": 733,
       "url": "https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
       "time": 1747235415.0,
       "comments_url": "https://news.ycombinator.com/item?id=43985489"
     },
     {
-      "title": "Migrating to Postgres",
-      "score": 82,
-      "url": "https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d",
-      "time": 1747258785.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43989497"
-    },
-    {
       "title": "Show HN: Muscle-Mem, a behavior cache for AI agents",
-      "score": 129,
+      "score": 155,
       "url": "https://github.com/pig-dot-dev/muscle-mem",
       "time": 1747251506.0,
       "comments_url": "https://news.ycombinator.com/item?id=43988381"
     },
     {
       "title": "What is HDR, anyway?",
-      "score": 496,
+      "score": 541,
       "url": "https://www.lux.camera/what-is-hdr/",
       "time": 1747226799.0,
       "comments_url": "https://news.ycombinator.com/item?id=43983871"
     },
     {
+      "title": "Python lib generates its code on-the-fly based on usage",
+      "score": 31,
+      "url": "https://github.com/cofob/autogenlib",
+      "time": 1747013762.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43958846"
+    },
+    {
+      "title": "Internet Scrabble Club (2002-)",
+      "score": 29,
+      "url": "https://isc.ro/",
+      "time": 1747006452.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43958190"
+    },
+    {
       "title": "Show HN: Semantic Calculator (king-man+woman=?)",
-      "score": 76,
+      "score": 97,
       "url": "https://calc.datova.ai",
       "time": 1747252471.0,
       "comments_url": "https://news.ycombinator.com/item?id=43988533"
     },
     {
-      "title": "Copaganda: How Police and the Media Manipulate Our News",
-      "score": 57,
-      "url": "https://www.teenvogue.com/story/copaganda-when-the-police-and-the-media-manipulate-our-news",
-      "time": 1747265949.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43990333"
-    },
-    {
       "title": "A server that wasn't meant to exist",
-      "score": 243,
+      "score": 269,
       "url": "https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/",
       "time": 1747237830.0,
       "comments_url": "https://news.ycombinator.com/item?id=43985971"
     },
     {
+      "title": "Show HN: YapCards (iOS) – Voice-driven flashcards with AI feedback",
+      "score": 16,
+      "url": "https://news.ycombinator.com/item?id=43990868",
+      "time": 1747271684.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43990868"
+    },
+    {
       "title": "Git Bug: Distributed, Offline-First Bug Tracker Embedded in Git, with Bridges",
-      "score": 162,
+      "score": 181,
       "url": "https://github.com/git-bug/git-bug",
       "time": 1747134449.0,
       "comments_url": "https://news.ycombinator.com/item?id=43971620"
     },
     {
-      "title": "Getting Started with Celtic Coins – Crude and Barbarous, or Just Different?",
-      "score": 27,
-      "url": "https://collectingancientcoins.co.uk/getting-started-with-celtic-coins-crude-and-barbarous-or-just-different/",
-      "time": 1746937561.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43951366"
+      "title": "NASA Stennis Releases First Open-Source Software",
+      "score": 21,
+      "url": "https://www.nasa.gov/centers-and-facilities/stennis/stennis-first-open-source-software/",
+      "time": 1747137773.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43971941"
+    },
+    {
+      "title": "Migrating to Postgres",
+      "score": 129,
+      "url": "https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d",
+      "time": 1747258785.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43989497"
+    },
+    {
+      "title": "Changes since congestion pricing started in New York",
+      "score": 218,
+      "url": "https://www.nytimes.com/interactive/2025/05/11/upshot/congestion-pricing.html",
+      "time": 1747133000.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43971515"
     },
     {
       "title": "Hegel 2.0: The imaginary history of ternary computing (2018)",
-      "score": 25,
+      "score": 36,
       "url": "https://www.cabinetmagazine.org/issues/65/weatherby.php",
       "time": 1747083550.0,
       "comments_url": "https://news.ycombinator.com/item?id=43967405"
     },
     {
-      "title": "Variadic Switch",
-      "score": 22,
-      "url": "https://pydong.org/posts/variadic-switch/",
-      "time": 1747169153.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43977515"
+      "title": "Databricks acquires Neon",
+      "score": 285,
+      "url": "https://www.databricks.com/blog/databricks-neon",
+      "time": 1747217400.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43982777"
     },
     {
       "title": "Our narrative prison",
-      "score": 120,
+      "score": 137,
       "url": "https://aeon.co/essays/why-does-every-film-and-tv-series-seem-to-have-the-same-plot",
       "time": 1747240068.0,
       "comments_url": "https://news.ycombinator.com/item?id=43986424"
     },
     {
-      "title": "Smalltalk-78 Xerox NoteTaker in-browser emulator",
-      "score": 70,
-      "url": "https://smalltalkzoo.thechm.org/users/bert/Smalltalk-78.html",
-      "time": 1747242330.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43986833"
+      "title": "Internet Artifacts",
+      "score": 4,
+      "url": "https://neal.fun/internet-artifacts/",
+      "time": 1747136996.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43971853"
     },
     {
       "title": "StackAI (YC W23) Is Hiring Pydantic and FastAPI Wizard",
@@ -100,46 +135,11 @@
       "comments_url": "https://news.ycombinator.com/item?id=43989173"
     },
     {
-      "title": "Changes since congestion pricing started in New York",
-      "score": 180,
-      "url": "https://www.nytimes.com/interactive/2025/05/11/upshot/congestion-pricing.html",
-      "time": 1747133000.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43971515"
-    },
-    {
       "title": "The cryptography behind passkeys",
-      "score": 156,
+      "score": 175,
       "url": "https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/",
       "time": 1747221759.0,
       "comments_url": "https://news.ycombinator.com/item?id=43983159"
-    },
-    {
-      "title": "Databricks and Neon",
-      "score": 263,
-      "url": "https://www.databricks.com/blog/databricks-neon",
-      "time": 1747217400.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43982777"
-    },
-    {
-      "title": "NASA Stennis Releases First Open-Source Software",
-      "score": 4,
-      "url": "https://www.nasa.gov/centers-and-facilities/stennis/stennis-first-open-source-software/",
-      "time": 1747137773.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43971941"
-    },
-    {
-      "title": "UK's Ancient Tree Inventory",
-      "score": 52,
-      "url": "https://ati.woodlandtrust.org.uk/",
-      "time": 1747217516.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43982784"
-    },
-    {
-      "title": "How the economics of multitenancy work",
-      "score": 137,
-      "url": "https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud",
-      "time": 1747228106.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43984097"
     }
   ]
 }
