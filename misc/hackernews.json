@@ -1,54 +1,96 @@
 {
-  "last_updated": "2025-05-16T14:16:03.766978-04:00",
+  "last_updated": "2025-05-16T17:10:34.626438-04:00",
   "stories": [
     {
-      "title": "Show HN: Visual flow-based programming for Erlang, inspired by Node-RED",
-      "score": 134,
-      "url": "https://github.com/gorenje/erlang-red",
-      "time": 1747407253.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44006231"
-    },
-    {
-      "title": "X X^t can be faster",
-      "score": 80,
-      "url": "https://arxiv.org/abs/2505.09814",
-      "time": 1747410330.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44006824"
-    },
-    {
-      "title": "I'm Peter Roberts, immigration attorney, who does work for YC and startups. AMA",
-      "score": 100,
-      "url": "https://news.ycombinator.com/item?id=44006381",
-      "time": 1747407932.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44006381"
+      "title": "Show HN: KVSplit – Run 2-3x longer contexts on Apple Silicon",
+      "score": 84,
+      "url": "https://github.com/dipampaul17/KVSplit",
+      "time": 1747425898.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44009321"
     },
     {
       "title": "A Research Preview of Codex",
-      "score": 212,
+      "score": 297,
       "url": "https://openai.com/index/introducing-codex/",
       "time": 1747407722.0,
       "comments_url": "https://news.ycombinator.com/item?id=44006345"
     },
     {
-      "title": "The first year of free-threaded Python",
-      "score": 190,
-      "url": "https://labs.quansight.org/blog/free-threaded-one-year-recap",
-      "time": 1747388551.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44003445"
+      "title": "Methodical Banality",
+      "score": 8,
+      "url": "https://aeon.co/essays/who-needs-ai-text-generation-when-theres-erasmus-of-rotterdam",
+      "time": 1747427970.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44009621"
+    },
+    {
+      "title": "Thoughts on thinking",
+      "score": 126,
+      "url": "https://dcurt.is/thinking",
+      "time": 1747422595.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44008843"
+    },
+    {
+      "title": "X X^t can be faster",
+      "score": 135,
+      "url": "https://arxiv.org/abs/2505.09814",
+      "time": 1747410330.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44006824"
+    },
+    {
+      "title": "Show HN: Visual flow-based programming for Erlang, inspired by Node-RED",
+      "score": 176,
+      "url": "https://github.com/gorenje/erlang-red",
+      "time": 1747407253.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44006231"
+    },
+    {
+      "title": "I'm Peter Roberts, immigration attorney, who does work for YC and startups. AMA",
+      "score": 139,
+      "url": "https://news.ycombinator.com/item?id=44006381",
+      "time": 1747407932.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44006381"
     },
     {
       "title": "MIT asks arXiv to take down preprint of paper on AI and scientific discovery",
-      "score": 38,
+      "score": 148,
       "url": "https://economics.mit.edu/news/assuring-accurate-research-record",
       "time": 1747408165.0,
       "comments_url": "https://news.ycombinator.com/item?id=44006426"
     },
     {
-      "title": "Transformer: The Deep Chemistry of Life and Death",
-      "score": 17,
-      "url": "https://nick-lane.net/books/transformer-the-deep-chemistry-of-life-and-death/",
-      "time": 1747157134.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43975404"
+      "title": "The Magic Hours: The Films and Hidden Life of Terrence Malick",
+      "score": 26,
+      "url": "https://www.lrb.co.uk/the-paper/v47/n09/david-thomson/cool-tricking",
+      "time": 1747419806.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44008412"
+    },
+    {
+      "title": "Lawful kinematics link eye movements to the limits of high-speed perception",
+      "score": 12,
+      "url": "https://www.nature.com/articles/s41467-025-58659-9",
+      "time": 1747139275.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43972154"
+    },
+    {
+      "title": "New 'Superdiffusion' Proof Probes the Mysterious Math of Turbulence",
+      "score": 29,
+      "url": "https://www.quantamagazine.org/new-superdiffusion-proof-probes-the-mysterious-math-of-turbulence-20250516/",
+      "time": 1747415282.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44007714"
+    },
+    {
+      "title": "The first year of free-threaded Python",
+      "score": 219,
+      "url": "https://labs.quansight.org/blog/free-threaded-one-year-recap",
+      "time": 1747388551.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44003445"
+    },
+    {
+      "title": "Java at 30: Interview with James Gosling",
+      "score": 102,
+      "url": "https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/",
+      "time": 1747400725.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44005008"
     },
     {
       "title": "Foundry (YC F24) Is Hiring – Founding Engineer (ML × SWE)",
@@ -58,88 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=44007644"
     },
     {
+      "title": "Show HN: Workflow Use – Deterministic, self-healing browser automation (RPA 2.0)",
+      "score": 33,
+      "url": "https://github.com/browser-use/workflow-use",
+      "time": 1747411500.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44007065"
+    },
+    {
+      "title": "Transformer: The Deep Chemistry of Life and Death",
+      "score": 35,
+      "url": "https://nick-lane.net/books/transformer-the-deep-chemistry-of-life-and-death/",
+      "time": 1747157134.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43975404"
+    },
+    {
+      "title": "ClojureScript forks Google Closure to guarantee backward compatibility",
+      "score": 6,
+      "url": "https://clojurescript.org/news/2025-05-16-release",
+      "time": 1747426820.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44009464"
+    },
+    {
       "title": "Show HN: Rv, a Package Manager for R",
-      "score": 31,
+      "score": 54,
       "url": "https://github.com/A2-ai/rv",
       "time": 1747409850.0,
       "comments_url": "https://news.ycombinator.com/item?id=44006735"
     },
     {
-      "title": "Show HN: SQL-tString a t-string SQL builder in Python",
-      "score": 51,
-      "url": "https://github.com/pgjones/sql-tstring",
-      "time": 1747399702.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44004827"
-    },
-    {
-      "title": "Stax Museum Bob Abrahamian Collection",
-      "score": 9,
-      "url": "https://bobacollection.staxmuseum.org/",
-      "time": 1747416088.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44007854"
-    },
-    {
-      "title": "Tower Defense: Cache Control",
-      "score": 35,
-      "url": "https://www.jasonthorsness.com/26",
-      "time": 1747141146.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43972449"
-    },
-    {
       "title": "Material 3 Expressive",
-      "score": 228,
+      "score": 273,
       "url": "https://design.google/library/expressive-material-design-google-research",
       "time": 1747156811.0,
       "comments_url": "https://news.ycombinator.com/item?id=43975352"
     },
     {
-      "title": "Evolution of Rust Compiler Errors",
-      "score": 81,
-      "url": "https://kobzol.github.io/rust/rustc/2025/05/16/evolution-of-rustc-errors.html",
-      "time": 1747401760.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44005195"
-    },
-    {
-      "title": "The fastest Postgres inserts",
-      "score": 25,
-      "url": "https://docs.hatchet.run/blog/fastest-postgres-inserts",
-      "time": 1747405463.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44005899"
-    },
-    {
       "title": "What were the MS-DOS programs that the moricons.dll icons were intended for?",
-      "score": 177,
+      "score": 215,
       "url": "https://devblogs.microsoft.com/oldnewthing/20250507-00/?p=111157",
       "time": 1747134418.0,
       "comments_url": "https://news.ycombinator.com/item?id=43971616"
-    },
-    {
-      "title": "Sci-Net",
-      "score": 218,
-      "url": "https://sci-hub.se/sci-net",
-      "time": 1747398605.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44004625"
-    },
-    {
-      "title": "Ground control to Major Trial",
-      "score": 419,
-      "url": "https://virtualize.sh/blog/ground-control-to-major-trial/",
-      "time": 1747396987.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44004388"
-    },
-    {
-      "title": "Returning to My Roots in Hardware",
-      "score": 8,
-      "url": "https://dancrimp.nz/2025/03/31/hardware/",
-      "time": 1747163521.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43976504"
-    },
-    {
-      "title": "LPython: Novel, Fast, Retargetable Python Compiler (2023)",
-      "score": 22,
-      "url": "https://lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/",
-      "time": 1747126900.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43970953"
     }
   ]
 }
