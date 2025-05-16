@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-15T17:11:16.124943-04:00",
+  "last_updated": "2025-05-15T20:58:07.288769-04:00",
   "papers": [
     {
       "title": "Customizing a Large Language Model for VHDL Design of High-Performance\n  Microprocessors",
@@ -52,7 +52,7 @@
     {
       "title": "Towards Fair In-Context Learning with Tabular Foundation Models",
       "summary": "Tabular foundational models have exhibited strong in-context learning (ICL)\ncapabilities on structured data, allowing them to make accurate predictions on\ntest sets without parameter updates, using training examples as context. This\nemerging approach positions itself as a competitive alternative to traditional\ngradient-boosted tree methods. However, while biases in conventional machine\nlearning models are well documented, it remains unclear how these biases\nmanifest in tabular ICL. The paper investigates the fairness implications of\ntabular ICL and explores three preprocessing strategies--correlation removal,\ngroup-balanced demonstration selection, and uncertainty-based demonstration\nselection--to address bias. Comprehensive experiments indicate that\nuncertainty-based demonstration selection consistently enhances group fairness\nof in-context predictions. The source code for reproducing the results of this\nwork can be found at https://github.com/patrikken/Fair-TabICL.",
-      "url": "http://arxiv.org/abs/2505.09503v1",
+      "url": "http://arxiv.org/abs/2505.09503v2",
       "published_time_eastern_timestamp": 1747237994.0
     },
     {

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-15T17:11:15.294918-04:00",
+  "last_updated": "2025-05-15T20:58:06.637402-04:00",
   "papers": [
     {
       "title": "Language Agents Mirror Human Causal Reasoning Biases. How Can We Help\n  Them Think Like Scientists?",
@@ -34,7 +34,7 @@
     {
       "title": "Decentralized Nonlinear Model Predictive Control-Based Flock Navigation\n  with Real-Time Obstacle Avoidance in Unknown Obstructed Environments",
       "summary": "This work extends our prior work on the distributed nonlinear model\npredictive control (NMPC) for navigating a robot fleet following a certain\nflocking behavior in unknown obstructed environments with a more realistic\nlocal obstacle avoidance strategy. More specifically, we integrate the local\nobstacle avoidance constraint using point clouds into the NMPC framework. Here,\neach agent relies on data from its local sensor to perceive and respond to\nnearby obstacles. A point cloud processing technique is presented for both\ntwo-dimensional and three-dimensional point clouds to minimize the\ncomputational burden during the optimization. The process consists of\ndirectional filtering and down-sampling that significantly reduce the number of\ndata points. The algorithm's performance is validated through realistic 3D\nsimulations in Gazebo, and its practical feasibility is further explored via\nhardware-in-the-loop (HIL) simulations on embedded platforms.",
-      "url": "http://arxiv.org/abs/2505.09434v1",
+      "url": "http://arxiv.org/abs/2505.09434v2",
       "published_time_eastern_timestamp": 1747233727.0
     },
     {
@@ -52,7 +52,7 @@
     {
       "title": "SafePath: Conformal Prediction for Safe LLM-Based Autonomous Navigation",
       "summary": "Large Language Models (LLMs) show growing promise in autonomous driving by\nreasoning over complex traffic scenarios to generate path plans. However, their\ntendencies toward overconfidence, and hallucinations raise critical safety\nconcerns. We introduce SafePath, a modular framework that augments LLM-based\npath planning with formal safety guarantees using conformal prediction.\nSafePath operates in three stages. In the first stage, we use an LLM that\ngenerates a set of diverse candidate paths, exploring possible trajectories\nbased on agent behaviors and environmental cues. In the second stage, SafePath\nfilters out high-risk trajectories while guaranteeing that at least one safe\noption is included with a user-defined probability, through a multiple-choice\nquestion-answering formulation that integrates conformal prediction. In the\nfinal stage, our approach selects the path with the lowest expected collision\nrisk when uncertainty is low or delegates control to a human when uncertainty\nis high. We theoretically prove that SafePath guarantees a safe trajectory with\na user-defined probability, and we show how its human delegation rate can be\ntuned to balance autonomy and safety. Extensive experiments on nuScenes and\nHighway-env show that SafePath reduces planning uncertainty by 77\\% and\ncollision rates by up to 70\\%, demonstrating effectiveness in making LLM-driven\npath planning more safer.",
-      "url": "http://arxiv.org/abs/2505.09427v1",
+      "url": "http://arxiv.org/abs/2505.09427v2",
       "published_time_eastern_timestamp": 1747232904.0
     },
     {
