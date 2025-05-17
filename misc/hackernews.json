@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-05-16T17:10:34.626438-04:00",
+  "last_updated": "2025-05-16T20:56:28.994202-04:00",
   "stories": [
     {
+      "title": "Getting AI to write good SQL",
+      "score": 127,
+      "url": "https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql",
+      "time": 1747429812.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44009848"
+    },
+    {
+      "title": "The Collapse of GPT",
+      "score": 41,
+      "url": "https://cacm.acm.org/news/the-collapse-of-gpt/",
+      "time": 1747438044.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44010705"
+    },
+    {
       "title": "Show HN: KVSplit – Run 2-3x longer contexts on Apple Silicon",
-      "score": 84,
+      "score": 176,
       "url": "https://github.com/dipampaul17/KVSplit",
       "time": 1747425898.0,
       "comments_url": "https://news.ycombinator.com/item?id=44009321"
     },
     {
-      "title": "A Research Preview of Codex",
-      "score": 297,
-      "url": "https://openai.com/index/introducing-codex/",
-      "time": 1747407722.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44006345"
-    },
-    {
-      "title": "Methodical Banality",
-      "score": 8,
-      "url": "https://aeon.co/essays/who-needs-ai-text-generation-when-theres-erasmus-of-rotterdam",
-      "time": 1747427970.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44009621"
-    },
-    {
       "title": "Thoughts on thinking",
-      "score": 126,
+      "score": 245,
       "url": "https://dcurt.is/thinking",
       "time": 1747422595.0,
       "comments_url": "https://news.ycombinator.com/item?id=44008843"
     },
     {
+      "title": "A Research Preview of Codex",
+      "score": 354,
+      "url": "https://openai.com/index/introducing-codex/",
+      "time": 1747407722.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44006345"
+    },
+    {
+      "title": "Rustls Server-Side Performance",
+      "score": 30,
+      "url": "https://www.memorysafety.org/blog/rustls-server-perf/",
+      "time": 1747142556.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43972669"
+    },
+    {
+      "title": "They Were Identical 'Twinnies' Who Charmed Orwell, Camus and More",
+      "score": 15,
+      "url": "https://www.nytimes.com/2025/05/04/books/review/the-dazzling-paget-sisters-ariane-bankes.html",
+      "time": 1747437521.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44010659"
+    },
+    {
+      "title": "ClojureScript 1.12.42",
+      "score": 89,
+      "url": "https://clojurescript.org/news/2025-05-16-release",
+      "time": 1747426820.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44009464"
+    },
+    {
+      "title": "WebGL Gray-Scott Explorer (2012)",
+      "score": 4,
+      "url": "http://www.mrob.com/pub/comp/xmorphia/ogl/index.html",
+      "time": 1747442784.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44011139"
+    },
+    {
+      "title": "Coding agent in 94 lines of Ruby",
+      "score": 40,
+      "url": "https://radanskoric.com/articles/coding-agent-in-ruby",
+      "time": 1747232277.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43984860"
+    },
+    {
+      "title": "MIT asks arXiv to withdraw preprint of paper on AI and scientific discovery",
+      "score": 215,
+      "url": "https://economics.mit.edu/news/assuring-accurate-research-record",
+      "time": 1747408165.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44006426"
+    },
+    {
+      "title": "I'm Peter Roberts, immigration attorney, who does work for YC and startups. AMA",
+      "score": 174,
+      "url": "https://news.ycombinator.com/item?id=44006381",
+      "time": 1747407932.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44006381"
+    },
+    {
       "title": "X X^t can be faster",
-      "score": 135,
+      "score": 156,
       "url": "https://arxiv.org/abs/2505.09814",
       "time": 1747410330.0,
       "comments_url": "https://news.ycombinator.com/item?id=44006824"
     },
     {
       "title": "Show HN: Visual flow-based programming for Erlang, inspired by Node-RED",
-      "score": 176,
+      "score": 196,
       "url": "https://github.com/gorenje/erlang-red",
       "time": 1747407253.0,
       "comments_url": "https://news.ycombinator.com/item?id=44006231"
     },
     {
-      "title": "I'm Peter Roberts, immigration attorney, who does work for YC and startups. AMA",
-      "score": 139,
-      "url": "https://news.ycombinator.com/item?id=44006381",
-      "time": 1747407932.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44006381"
+      "title": "Show HN: Solidis – Tiny TS Redis client, no deps, for serverless",
+      "score": 30,
+      "url": "https://github.com/vcms-io/solidis",
+      "time": 1747430415.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44009894"
     },
     {
-      "title": "MIT asks arXiv to take down preprint of paper on AI and scientific discovery",
-      "score": 148,
-      "url": "https://economics.mit.edu/news/assuring-accurate-research-record",
-      "time": 1747408165.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44006426"
+      "title": "Show HN: A C-Suite AI Agent Meant for SMB",
+      "score": 8,
+      "url": "https://askcaa.com/",
+      "time": 1747172041.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43977982"
     },
     {
       "title": "The Magic Hours: The Films and Hidden Life of Terrence Malick",
-      "score": 26,
+      "score": 47,
       "url": "https://www.lrb.co.uk/the-paper/v47/n09/david-thomson/cool-tricking",
       "time": 1747419806.0,
       "comments_url": "https://news.ycombinator.com/item?id=44008412"
     },
     {
-      "title": "Lawful kinematics link eye movements to the limits of high-speed perception",
-      "score": 12,
-      "url": "https://www.nature.com/articles/s41467-025-58659-9",
-      "time": 1747139275.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43972154"
-    },
-    {
-      "title": "New 'Superdiffusion' Proof Probes the Mysterious Math of Turbulence",
-      "score": 29,
-      "url": "https://www.quantamagazine.org/new-superdiffusion-proof-probes-the-mysterious-math-of-turbulence-20250516/",
-      "time": 1747415282.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44007714"
-    },
-    {
-      "title": "The first year of free-threaded Python",
-      "score": 219,
-      "url": "https://labs.quansight.org/blog/free-threaded-one-year-recap",
-      "time": 1747388551.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44003445"
+      "title": "Methodical Banality",
+      "score": 27,
+      "url": "https://aeon.co/essays/who-needs-ai-text-generation-when-theres-erasmus-of-rotterdam",
+      "time": 1747427970.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44009621"
     },
     {
       "title": "Java at 30: Interview with James Gosling",
-      "score": 102,
+      "score": 149,
       "url": "https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/",
       "time": 1747400725.0,
       "comments_url": "https://news.ycombinator.com/item?id=44005008"
     },
     {
-      "title": "Foundry (YC F24) Is Hiring – Founding Engineer (ML × SWE)",
-      "score": 1,
-      "url": "https://www.ycombinator.com/companies/foundry/jobs/uwi8b6I-founding-engineer-ml-x-swe",
-      "time": 1747414860.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44007644"
-    },
-    {
-      "title": "Show HN: Workflow Use – Deterministic, self-healing browser automation (RPA 2.0)",
-      "score": 33,
-      "url": "https://github.com/browser-use/workflow-use",
-      "time": 1747411500.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44007065"
-    },
-    {
-      "title": "Transformer: The Deep Chemistry of Life and Death",
-      "score": 35,
-      "url": "https://nick-lane.net/books/transformer-the-deep-chemistry-of-life-and-death/",
-      "time": 1747157134.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43975404"
-    },
-    {
-      "title": "ClojureScript forks Google Closure to guarantee backward compatibility",
-      "score": 6,
-      "url": "https://clojurescript.org/news/2025-05-16-release",
-      "time": 1747426820.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44009464"
-    },
-    {
-      "title": "Show HN: Rv, a Package Manager for R",
-      "score": 54,
-      "url": "https://github.com/A2-ai/rv",
-      "time": 1747409850.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44006735"
-    },
-    {
-      "title": "Material 3 Expressive",
-      "score": 273,
-      "url": "https://design.google/library/expressive-material-design-google-research",
-      "time": 1747156811.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43975352"
-    },
-    {
-      "title": "What were the MS-DOS programs that the moricons.dll icons were intended for?",
-      "score": 215,
-      "url": "https://devblogs.microsoft.com/oldnewthing/20250507-00/?p=111157",
-      "time": 1747134418.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43971616"
+      "title": "The first year of free-threaded Python",
+      "score": 242,
+      "url": "https://labs.quansight.org/blog/free-threaded-one-year-recap",
+      "time": 1747388551.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44003445"
     }
   ]
 }
