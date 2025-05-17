@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-05-16T23:34:08.426571-04:00",
+  "last_updated": "2025-05-17T02:15:17.878756-04:00",
   "stories": [
     {
       "title": "Getting AI to write good SQL",
-      "score": 196,
+      "score": 267,
       "url": "https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql",
       "time": 1747429812.0,
       "comments_url": "https://news.ycombinator.com/item?id=44009848"
     },
     {
-      "title": "Thoughts on thinking",
-      "score": 307,
-      "url": "https://dcurt.is/thinking",
-      "time": 1747422595.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44008843"
-    },
-    {
-      "title": "Show HN: KVSplit – Run 2-3x longer contexts on Apple Silicon",
-      "score": 198,
-      "url": "https://github.com/dipampaul17/KVSplit",
-      "time": 1747425898.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44009321"
-    },
-    {
-      "title": "XTool – Cross-platform Xcode replacement",
-      "score": 14,
-      "url": "https://github.com/xtool-org/xtool",
-      "time": 1747447836.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44011515"
-    },
-    {
-      "title": "Show HN: Merliot – plugging physical devices into LLMs",
-      "score": 16,
-      "url": "https://github.com/merliot/hub",
-      "time": 1747444178.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44011254"
-    },
-    {
-      "title": "A Research Preview of Codex",
-      "score": 383,
-      "url": "https://openai.com/index/introducing-codex/",
-      "time": 1747407722.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44006345"
-    },
-    {
-      "title": "Rustls Server-Side Performance",
-      "score": 66,
-      "url": "https://www.memorysafety.org/blog/rustls-server-perf/",
-      "time": 1747142556.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43972669"
-    },
-    {
-      "title": "MCP: An In-Depth Guide (With Cloudflare, Sentry, GitHub, Cline)",
-      "score": 26,
-      "url": "https://www.speakeasy.com/mcp/mcp-tutorial",
-      "time": 1747140424.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43972334"
-    },
-    {
-      "title": "WebGL Gray-Scott Explorer (2012)",
-      "score": 15,
-      "url": "http://www.mrob.com/pub/comp/xmorphia/ogl/index.html",
-      "time": 1747442784.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44011139"
-    },
-    {
       "title": "Wow@Home – Network of Amateur Radio Telescopes",
-      "score": 10,
+      "score": 60,
       "url": "https://phl.upr.edu/wow/outreach",
       "time": 1747447334.0,
       "comments_url": "https://news.ycombinator.com/item?id=44011489"
     },
     {
-      "title": "Coding agent in 94 lines of Ruby",
-      "score": 66,
-      "url": "https://radanskoric.com/articles/coding-agent-in-ruby",
-      "time": 1747232277.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43984860"
+      "title": "Show HN: Fahmatrix – A Lightweight, Pandas-Like DataFrame Library for Java",
+      "score": 15,
+      "url": "https://github.com/moustafa-nasr/fahmatrix",
+      "time": 1747456771.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44012074"
+    },
+    {
+      "title": "XTool – Cross-platform Xcode replacement",
+      "score": 57,
+      "url": "https://github.com/xtool-org/xtool",
+      "time": 1747447836.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44011515"
+    },
+    {
+      "title": "Thoughts on thinking",
+      "score": 376,
+      "url": "https://dcurt.is/thinking",
+      "time": 1747422595.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44008843"
+    },
+    {
+      "title": "A Linux kernel developer plays with Home Assistant: general impressions",
+      "score": 33,
+      "url": "https://lwn.net/SubscriberLink/1017720/7155ecb9602e9ef2/",
+      "time": 1747450215.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44011669"
+    },
+    {
+      "title": "Show HN: KVSplit – Run 2-3x longer contexts on Apple Silicon",
+      "score": 227,
+      "url": "https://github.com/dipampaul17/KVSplit",
+      "time": 1747425898.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44009321"
+    },
+    {
+      "title": "A Research Preview of Codex",
+      "score": 407,
+      "url": "https://openai.com/index/introducing-codex/",
+      "time": 1747407722.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44006345"
+    },
+    {
+      "title": "Show HN: Merliot – plugging physical devices into LLMs",
+      "score": 32,
+      "url": "https://github.com/merliot/hub",
+      "time": 1747444178.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44011254"
+    },
+    {
+      "title": "Rustls Server-Side Performance",
+      "score": 80,
+      "url": "https://www.memorysafety.org/blog/rustls-server-perf/",
+      "time": 1747142556.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43972669"
+    },
+    {
+      "title": "How can traditional British TV survive the US streaming giants",
+      "score": 12,
+      "url": "https://www.bbc.co.uk/news/articles/cx2enydkew3o",
+      "time": 1747201472.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43981198"
     },
     {
       "title": "MIT asks arXiv to withdraw preprint of paper on AI and scientific discovery",
-      "score": 257,
+      "score": 280,
       "url": "https://economics.mit.edu/news/assuring-accurate-research-record",
       "time": 1747408165.0,
       "comments_url": "https://news.ycombinator.com/item?id=44006426"
     },
     {
       "title": "ClojureScript 1.12.42",
-      "score": 106,
+      "score": 128,
       "url": "https://clojurescript.org/news/2025-05-16-release",
       "time": 1747426820.0,
       "comments_url": "https://news.ycombinator.com/item?id=44009464"
     },
     {
       "title": "I'm Peter Roberts, immigration attorney, who does work for YC and startups. AMA",
-      "score": 189,
+      "score": 199,
       "url": "https://news.ycombinator.com/item?id=44006381",
       "time": 1747407932.0,
       "comments_url": "https://news.ycombinator.com/item?id=44006381"
     },
     {
+      "title": "MCP: An in-depth introduction",
+      "score": 47,
+      "url": "https://www.speakeasy.com/mcp/mcp-tutorial",
+      "time": 1747140424.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43972334"
+    },
+    {
       "title": "Show HN: Visual flow-based programming for Erlang, inspired by Node-RED",
-      "score": 204,
+      "score": 212,
       "url": "https://github.com/gorenje/erlang-red",
       "time": 1747407253.0,
       "comments_url": "https://news.ycombinator.com/item?id=44006231"
     },
     {
       "title": "X X^t can be faster",
-      "score": 164,
+      "score": 171,
       "url": "https://arxiv.org/abs/2505.09814",
       "time": 1747410330.0,
       "comments_url": "https://news.ycombinator.com/item?id=44006824"
     },
     {
-      "title": "Postman for MCP",
-      "score": 5,
-      "url": "https://usetexture.com/##",
-      "time": 1747448610.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44011569"
+      "title": "The Joys of Discovering the Roman Underground",
+      "score": 8,
+      "url": "https://www.smithsonianmag.com/travel/the-joys-of-discovering-the-roman-underground-from-the-colosseum-to-whats-beneath-the-trevi-foundation-180986626/",
+      "time": 1747328900.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43997071"
     },
     {
-      "title": "The Airplane 'Barf Bag' Is a Genius Invention Most People Never Think About",
-      "score": 5,
-      "url": "https://www.theautopian.com/the-airplane-barf-bag-is-a-genius-invention-most-people-never-think-about-and-using-one-blew-my-mind/",
-      "time": 1747177687.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43978825"
+      "title": "Coding agent in 94 lines of Ruby",
+      "score": 78,
+      "url": "https://radanskoric.com/articles/coding-agent-in-ruby",
+      "time": 1747232277.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43984860"
     },
     {
-      "title": "They Were Identical 'Twinnies' Who Charmed Orwell, Camus and More",
-      "score": 19,
-      "url": "https://www.nytimes.com/2025/05/04/books/review/the-dazzling-paget-sisters-ariane-bankes.html",
-      "time": 1747437521.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44010659"
-    },
-    {
-      "title": "Will AI systems perform poorly due to AI-generated material in training data?",
-      "score": 65,
-      "url": "https://cacm.acm.org/news/the-collapse-of-gpt/",
-      "time": 1747438044.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44010705"
+      "title": "New high-quality hash measures 71GB/s on M4",
+      "score": 24,
+      "url": "https://github.com/Nicoshev/rapidhash",
+      "time": 1747208700.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43981971"
     }
   ]
 }
