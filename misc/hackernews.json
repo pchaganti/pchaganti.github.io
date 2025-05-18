@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-05-18T05:11:05.322214-04:00",
+  "last_updated": "2025-05-18T08:20:25.162821-04:00",
   "stories": [
     {
+      "title": "Spaced repetition systems have gotten way better",
+      "score": 14,
+      "url": "https://domenic.me/fsrs/",
+      "time": 1747568539.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44020591"
+    },
+    {
+      "title": "Thank you Google for breaking my YouTube addiction",
+      "score": 29,
+      "url": "https://rakhim.exotext.com/thank-you-google-for-breaking-my-youtube-addiction",
+      "time": 1747569359.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44020653"
+    },
+    {
       "title": "AniSora: Open-source anime video generation model",
-      "score": 191,
+      "score": 255,
       "url": "https://komiko.app/video/AniSora",
       "time": 1747526343.0,
       "comments_url": "https://news.ycombinator.com/item?id=44017913"
     },
     {
       "title": "Coding without a laptop: Two weeks with AR glasses and Linux on Android",
-      "score": 641,
+      "score": 738,
       "url": "https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/",
       "time": 1747235517.0,
       "comments_url": "https://news.ycombinator.com/item?id=43985513"
     },
     {
-      "title": "Project Verona: Fearless Concurrency for Python",
-      "score": 57,
-      "url": "https://microsoft.github.io/verona/pyrona.html",
-      "time": 1747306689.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43993707"
-    },
-    {
-      "title": "Show HN: Turn any workflow diagram into compilable, running and stateful code",
-      "score": 43,
-      "url": "https://workflows.diagrid.io/",
-      "time": 1747245130.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43987367"
-    },
-    {
       "title": "Lessons from Mixing Rust and Java: Fast, Safe, and Practical",
-      "score": 25,
+      "score": 63,
       "url": "https://medium.com/@greptime/how-to-supercharge-your-java-project-with-rust-a-practical-guide-to-jni-integration-with-a-86f60e9708b8",
       "time": 1747275514.0,
       "comments_url": "https://news.ycombinator.com/item?id=43991221"
     },
     {
+      "title": "Show HN: Turn any workflow diagram into compilable, running and stateful code",
+      "score": 64,
+      "url": "https://workflows.diagrid.io/",
+      "time": 1747245130.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43987367"
+    },
+    {
+      "title": "Project Verona: Fearless Concurrency for Python",
+      "score": 93,
+      "url": "https://microsoft.github.io/verona/pyrona.html",
+      "time": 1747306689.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43993707"
+    },
+    {
       "title": "Experts have it easy (2024)",
-      "score": 77,
+      "score": 110,
       "url": "https://boydkane.com/essays/experts",
       "time": 1747531884.0,
       "comments_url": "https://news.ycombinator.com/item?id=44018301"
     },
     {
       "title": "Mystical",
-      "score": 249,
+      "score": 271,
       "url": "https://suberic.net/~dmm/projects/mystical/README.html",
       "time": 1747506078.0,
       "comments_url": "https://news.ycombinator.com/item?id=44016037"
     },
     {
-      "title": "ARMv9 Architecture Helps Lift Arm to New Financial Heights",
-      "score": 70,
-      "url": "https://www.nextplatform.com/2025/05/12/armv9-architecture-helps-lift-arm-to-new-financial-heights/",
-      "time": 1747213907.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43982495"
-    },
-    {
-      "title": "Show HN: Pixelagent – Build your Stateful Agent Framework in 200 lines of code",
-      "score": 12,
-      "url": "https://github.com/pixeltable/pixelagent",
-      "time": 1747336643.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43998341"
-    },
-    {
-      "title": "Directory of MCP Servers",
-      "score": 149,
-      "url": "https://github.com/chatmcp/mcpso",
-      "time": 1747509296.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44016336"
-    },
-    {
       "title": "Pglocks.org",
-      "score": 28,
+      "score": 70,
       "url": "https://pglocks.org/",
       "time": 1747538027.0,
       "comments_url": "https://news.ycombinator.com/item?id=44018741"
     },
     {
-      "title": "Mexican Navy ship crashes into Brooklyn Bridge leaving two people dead",
-      "score": 52,
-      "url": "https://www.theguardian.com/us-news/2025/may/18/mexican-navy-ship-hits-brooklyn-bridge-during-promotional-tour",
-      "time": 1747549439.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44019386"
-    },
-    {
-      "title": "How to have the browser pick a contrasting color in CSS",
-      "score": 196,
-      "url": "https://webkit.org/blog/16929/contrast-color/",
-      "time": 1747499204.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44015367"
-    },
-    {
-      "title": "Push Ifs Up and Fors Down",
-      "score": 447,
-      "url": "https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html",
-      "time": 1747474315.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44013157"
-    },
-    {
-      "title": "Dead Stars Don’t Radiate",
-      "score": 205,
-      "url": "https://johncarlosbaez.wordpress.com/2025/05/17/dead-stars-dont-radiate-and-shrink/",
-      "time": 1747504460.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44015872"
-    },
-    {
-      "title": "If nothing is curated, how do we find things",
-      "score": 229,
-      "url": "https://tadaima.bearblog.dev/if-nothing-is-curated-how-do-we-find-things/",
-      "time": 1747497065.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44015144"
-    },
-    {
-      "title": "Mice grow bigger brains when given this stretch of human DNA",
-      "score": 39,
-      "url": "https://www.nature.com/articles/d41586-025-01515-z",
-      "time": 1747242240.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43986821"
-    },
-    {
-      "title": "Palette lighting tricks on the Nintendo 64",
-      "score": 193,
-      "url": "https://30fps.net/pages/palette-lighting-tricks-n64/",
-      "time": 1747492139.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44014587"
+      "title": "Directory of MCP Servers",
+      "score": 173,
+      "url": "https://github.com/chatmcp/mcpso",
+      "time": 1747509296.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44016336"
     },
     {
       "title": "What Every Programmer Should Know About Enumerative Combinatorics",
-      "score": 3,
+      "score": 27,
       "url": "https://leetarxiv.substack.com/p/counting-integer-compositions",
       "time": 1747311030.0,
       "comments_url": "https://news.ycombinator.com/item?id=43994190"
     },
     {
-      "title": "Understanding Transformers via N-gram Statistics",
-      "score": 80,
-      "url": "https://arxiv.org/abs/2407.12034",
-      "time": 1747511760.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44016564"
+      "title": "ARMv9 Architecture Helps Lift Arm to New Financial Heights",
+      "score": 84,
+      "url": "https://www.nextplatform.com/2025/05/12/armv9-architecture-helps-lift-arm-to-new-financial-heights/",
+      "time": 1747213907.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43982495"
+    },
+    {
+      "title": "Push Ifs Up and Fors Down",
+      "score": 487,
+      "url": "https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html",
+      "time": 1747474315.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44013157"
+    },
+    {
+      "title": "How to have the browser pick a contrasting color in CSS",
+      "score": 207,
+      "url": "https://webkit.org/blog/16929/contrast-color/",
+      "time": 1747499204.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44015367"
+    },
+    {
+      "title": "If nothing is curated, how do we find things",
+      "score": 249,
+      "url": "https://tadaima.bearblog.dev/if-nothing-is-curated-how-do-we-find-things/",
+      "time": 1747497065.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44015144"
+    },
+    {
+      "title": "Dead Stars Don’t Radiate",
+      "score": 214,
+      "url": "https://johncarlosbaez.wordpress.com/2025/05/17/dead-stars-dont-radiate-and-shrink/",
+      "time": 1747504460.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44015872"
+    },
+    {
+      "title": "Show HN: Pixelagent – Build your Stateful Agent Framework in 200 lines of code",
+      "score": 17,
+      "url": "https://github.com/pixeltable/pixelagent",
+      "time": 1747336643.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43998341"
+    },
+    {
+      "title": "Palette lighting tricks on the Nintendo 64",
+      "score": 200,
+      "url": "https://30fps.net/pages/palette-lighting-tricks-n64/",
+      "time": 1747492139.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44014587"
+    },
+    {
+      "title": "Mice grow bigger brains when given this stretch of human DNA",
+      "score": 46,
+      "url": "https://www.nature.com/articles/d41586-025-01515-z",
+      "time": 1747242240.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43986821"
     }
   ]
 }
