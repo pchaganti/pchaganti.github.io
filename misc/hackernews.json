@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-05-19T02:18:14.477297-04:00",
+  "last_updated": "2025-05-19T05:14:01.268649-04:00",
   "stories": [
     {
       "title": "Show HN: Goboscript, text-based programming language, compiles to Scratch",
-      "score": 17,
+      "score": 76,
       "url": "https://github.com/aspizu/goboscript",
       "time": 1747633862.0,
       "comments_url": "https://news.ycombinator.com/item?id=44026799"
     },
     {
+      "title": "InventWood is about to mass-produce wood that's stronger than steel",
+      "score": 78,
+      "url": "https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/",
+      "time": 1747570959.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44020832"
+    },
+    {
+      "title": "`This Printer company served you malware for months, called them false positives",
+      "score": 62,
+      "url": "https://www.neowin.net/news/this-printer-company-served-you-malware-for-months-and-dismissed-it-as-false-positives/",
+      "time": 1747460690.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44012283"
+    },
+    {
       "title": "New research reveals the strongest solar event ever detected, in 12350 BC",
-      "score": 135,
+      "score": 170,
       "url": "https://phys.org/news/2025-05-reveals-strongest-solar-event-bc.html",
       "time": 1747316926.0,
       "comments_url": "https://news.ycombinator.com/item?id=43995067"
     },
     {
-      "title": "The principles of database design, or, the Truth is out there",
-      "score": 39,
-      "url": "https://ebellani.github.io/blog/2025/the-principles-of-database-design-or-the-truth-is-out-there/",
-      "time": 1747623507.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44026201"
-    },
-    {
-      "title": "“There are people who can see and others who cannot even look”",
-      "score": 98,
-      "url": "https://worldhistory.substack.com/p/there-are-people-who-can-see-and",
-      "time": 1747614694.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44025439"
+      "title": "Show HN: Sshsync – CLI tool to run shell commands across multiple remote servers",
+      "score": 17,
+      "url": "https://github.com/Blackmamoth/sshsync",
+      "time": 1747595429.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44023634"
     },
     {
       "title": "Spaced repetition systems have gotten better",
-      "score": 806,
+      "score": 862,
       "url": "https://domenic.me/fsrs/",
       "time": 1747568539.0,
       "comments_url": "https://news.ycombinator.com/item?id=44020591"
     },
     {
+      "title": "What does the end of mathematics look like?",
+      "score": 11,
+      "url": "https://www.awanderingmind.blog/posts/2025-05-18-what-does-the-end-of-mathematics-look-like.html",
+      "time": 1747640424.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44027379"
+    },
+    {
+      "title": "“There are people who can see and others who cannot even look”",
+      "score": 130,
+      "url": "https://worldhistory.substack.com/p/there-are-people-who-can-see-and",
+      "time": 1747614694.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44025439"
+    },
+    {
       "title": "Ditching Obsidian and building my own",
-      "score": 301,
+      "score": 336,
       "url": "https://amberwilliams.io/blogs/building-my-own-pkms",
       "time": 1747585310.0,
       "comments_url": "https://news.ycombinator.com/item?id=44022448"
     },
     {
-      "title": "Layers All the Way Down: The Untold Story of Shader Compilation",
-      "score": 26,
-      "url": "https://moonside.games/posts/layers-all-the-way-down/",
-      "time": 1747622965.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44026170"
-    },
-    {
-      "title": "Font Activations: A Note on the Type",
-      "score": 24,
-      "url": "https://robhorning.substack.com/p/font-activations",
-      "time": 1747432372.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44010096"
-    },
-    {
       "title": "Show HN: I modeled the Voynich Manuscript with SBERT to test for structure",
-      "score": 315,
+      "score": 335,
       "url": "https://github.com/brianmg/voynich-nlp-analysis",
       "time": 1747584541.0,
       "comments_url": "https://news.ycombinator.com/item?id=44022353"
     },
     {
-      "title": "France Endorses UN Open Source Principles",
-      "score": 363,
-      "url": "https://social.numerique.gouv.fr/@codegouvfr/114529954373492878",
-      "time": 1747607227.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44024759"
-    },
-    {
-      "title": "$30 Homebrew Automated Blinds Opener",
-      "score": 237,
-      "url": "https://sifter.org/~simon/journal/20240718.html",
-      "time": 1747587956.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44022758"
-    },
-    {
-      "title": "The lack of a good command line way to sort IPv6 addresses",
-      "score": 11,
-      "url": "https://utcc.utoronto.ca/~cks/space/blog/unix/SortingIPv6Addresses",
-      "time": 1747627454.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44026414"
-    },
-    {
-      "title": "Show HN: Vaev – A browser engine built from scratch (It renders google.com)",
-      "score": 167,
-      "url": "https://github.com/skift-org/vaev",
-      "time": 1747590852.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44023144"
-    },
-    {
       "title": "Show HN: Job board aggregator for best paying remote SWE jobs in the U.S.",
-      "score": 28,
+      "score": 56,
       "url": "https://www.remoteswe.fyi",
       "time": 1747615114.0,
       "comments_url": "https://news.ycombinator.com/item?id=44025484"
     },
     {
-      "title": "The Connoisseur of Desire",
-      "score": 15,
-      "url": "https://www.nybooks.com/articles/2025/05/29/the-connoisseur-of-desire-the-annotated-great-gatsby/",
-      "time": 1747437764.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44010684"
+      "title": "Layers All the Way Down: The Untold Story of Shader Compilation",
+      "score": 55,
+      "url": "https://moonside.games/posts/layers-all-the-way-down/",
+      "time": 1747622965.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44026170"
+    },
+    {
+      "title": "Llama from scratch (2023)",
+      "score": 29,
+      "url": "https://blog.briankitano.com/llama-from-scratch/",
+      "time": 1747301668.0,
+      "comments_url": "https://news.ycombinator.com/item?id=43993311"
+    },
+    {
+      "title": "France Endorses UN Open Source Principles",
+      "score": 444,
+      "url": "https://social.numerique.gouv.fr/@codegouvfr/114529954373492878",
+      "time": 1747607227.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44024759"
+    },
+    {
+      "title": "Font Activations: A Note on the Type",
+      "score": 32,
+      "url": "https://robhorning.substack.com/p/font-activations",
+      "time": 1747432372.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44010096"
+    },
+    {
+      "title": "$30 Homebrew Automated Blinds Opener",
+      "score": 256,
+      "url": "https://sifter.org/~simon/journal/20240718.html",
+      "time": 1747587956.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44022758"
+    },
+    {
+      "title": "Programming in Martin-Lof's Type Theory: An Introduction (1990)",
+      "score": 10,
+      "url": "https://www.cse.chalmers.se/research/group/logic/book/",
+      "time": 1747463459.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44012418"
     },
     {
       "title": "Spaced Repetition Memory System",
-      "score": 206,
+      "score": 217,
       "url": "https://notes.andymatuschak.org/Spaced_repetition_memory_system",
       "time": 1747583337.0,
       "comments_url": "https://news.ycombinator.com/item?id=44022225"
     },
     {
-      "title": "Show HN: A platform to find tech conferences, discounts, and ticket giveaways",
-      "score": 61,
-      "url": "https://www.tech.tickets/",
-      "time": 1747404352.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44005692"
+      "title": "The Connoisseur of Desire",
+      "score": 19,
+      "url": "https://www.nybooks.com/articles/2025/05/29/the-connoisseur-of-desire-the-annotated-great-gatsby/",
+      "time": 1747437764.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44010684"
     },
     {
-      "title": "The Tongue Is a Fire",
-      "score": 15,
-      "url": "https://www.lrb.co.uk/the-paper/v47/n09/ferdinand-mount/the-tongue-is-a-fire",
-      "time": 1747327232.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43996770"
-    },
-    {
-      "title": "Hyper Typing",
-      "score": 72,
-      "url": "https://pscanf.com/s/341/",
-      "time": 1747600911.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44024173"
-    },
-    {
-      "title": "Llama from scratch (or how to implement a paper without crying)",
-      "score": 3,
-      "url": "https://blog.briankitano.com/llama-from-scratch/",
-      "time": 1747301668.0,
-      "comments_url": "https://news.ycombinator.com/item?id=43993311"
+      "title": "The principles of database design, or, the Truth is out there",
+      "score": 57,
+      "url": "https://ebellani.github.io/blog/2025/the-principles-of-database-design-or-the-truth-is-out-there/",
+      "time": 1747623507.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44026201"
     }
   ]
 }
