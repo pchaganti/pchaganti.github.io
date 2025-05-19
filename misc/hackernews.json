@@ -1,58 +1,93 @@
 {
-  "last_updated": "2025-05-19T14:16:31.997865-04:00",
+  "last_updated": "2025-05-19T17:10:55.914353-04:00",
   "stories": [
     {
       "title": "The Windows Subsystem for Linux is now open source",
-      "score": 341,
+      "score": 784,
       "url": "https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/",
       "time": 1747671255.0,
       "comments_url": "https://news.ycombinator.com/item?id=44031385"
     },
     {
       "title": "Zod 4",
-      "score": 316,
+      "score": 465,
       "url": "https://zod.dev/v4",
       "time": 1747668298.0,
       "comments_url": "https://news.ycombinator.com/item?id=44030850"
     },
     {
+      "title": "Claude Code SDK",
+      "score": 137,
+      "url": "https://docs.anthropic.com/en/docs/claude-code/sdk",
+      "time": 1747677846.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44032777"
+    },
+    {
+      "title": "GitHub Copilot Coding Agent",
+      "score": 191,
+      "url": "https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/",
+      "time": 1747671476.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44031432"
+    },
+    {
       "title": "Launch HN: Better Auth (YC X25) – Authentication Framework for TypeScript",
-      "score": 111,
+      "score": 144,
       "url": "https://news.ycombinator.com/item?id=44030492",
       "time": 1747666083.0,
       "comments_url": "https://news.ycombinator.com/item?id=44030492"
     },
     {
+      "title": "The forbidden railway: Vienna-Pyongyang (2008)",
+      "score": 49,
+      "url": "http://vienna-pyongyang.blogspot.com/2008/04/how-everything-began.html",
+      "time": 1747680341.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44033310"
+    },
+    {
       "title": "Too Much Go Misdirection",
-      "score": 74,
+      "score": 117,
       "url": "https://flak.tedunangst.com/post/too-much-go-misdirection",
       "time": 1747669232.0,
       "comments_url": "https://news.ycombinator.com/item?id=44031009"
     },
     {
-      "title": "European Investment Bank to inject €70B in European tech",
-      "score": 112,
-      "url": "https://ioplus.nl/en/posts/european-investment-bank-to-inject-70-billion-in-european-tech",
-      "time": 1747670752.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44031297"
+      "title": "Dominion Energy's NEM 2.0 Proposal: What It Means for Solar in Virginia",
+      "score": 19,
+      "url": "https://www.virtuesolar.com/2025/05/16/dominion-nem-2/",
+      "time": 1747422212.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44008793"
+    },
+    {
+      "title": "Game theory illustrated by an animated cartoon game",
+      "score": 102,
+      "url": "https://ncase.me/trust/",
+      "time": 1747672098.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44031535"
+    },
+    {
+      "title": "Run your GitHub Actions locally",
+      "score": 74,
+      "url": "https://github.com/nektos/act",
+      "time": 1747385727.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44003184"
+    },
+    {
+      "title": "Remarks on AI from NZ",
+      "score": 86,
+      "url": "https://nealstephenson.substack.com/p/remarks-on-ai-from-nz",
+      "time": 1747367642.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44001696"
     },
     {
       "title": "Show HN: Windows 98 themed website in 1 HTML file for my post punk band",
-      "score": 14,
+      "score": 128,
       "url": "https://corp.band",
       "time": 1747676399.0,
       "comments_url": "https://news.ycombinator.com/item?id=44032470"
     },
     {
-      "title": "Wikipedia's Most Translated Articles",
-      "score": 38,
-      "url": "https://sohom.dev/most-translated-articles-on-wikipedia/pretty.html",
-      "time": 1747669994.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44031144"
-    },
-    {
       "title": "ClawPDF – Open-Source Virtual/Network PDF Printer with OCR and Image Support",
-      "score": 130,
+      "score": 152,
       "url": "https://github.com/clawsoftware/clawPDF",
       "time": 1747657893.0,
       "comments_url": "https://news.ycombinator.com/item?id=44029142"
@@ -65,81 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=44031912"
     },
     {
-      "title": "Remarks on AI from NZ",
-      "score": 31,
-      "url": "https://nealstephenson.substack.com/p/remarks-on-ai-from-nz",
-      "time": 1747367642.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44001696"
+      "title": "European Investment Bank to inject €70B in European tech",
+      "score": 207,
+      "url": "https://ioplus.nl/en/posts/european-investment-bank-to-inject-70-billion-in-european-tech",
+      "time": 1747670752.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44031297"
     },
     {
-      "title": "Kelp – simple replacement for homebrew on macOS",
-      "score": 34,
-      "url": "https://github.com/crhuber/kelp",
-      "time": 1747666553.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44030560"
+      "title": "Microsoft's ICC blockade: digital dependence comes at a cost",
+      "score": 148,
+      "url": "https://www.techzine.eu/news/privacy-compliance/131536/microsofts-icc-blockade-digital-dependence-comes-at-a-cost/",
+      "time": 1747677556.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44032717"
+    },
+    {
+      "title": "Wikipedia's Most Translated Articles",
+      "score": 71,
+      "url": "https://sohom.dev/most-translated-articles-on-wikipedia/pretty.html",
+      "time": 1747669994.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44031144"
     },
     {
       "title": "InventWood is about to mass-produce wood that's stronger than steel",
-      "score": 375,
+      "score": 413,
       "url": "https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/",
       "time": 1747570959.0,
       "comments_url": "https://news.ycombinator.com/item?id=44020832"
     },
     {
-      "title": "Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy",
-      "score": 101,
-      "url": "https://chipsandcheese.com/p/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy",
-      "time": 1747650454.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44028250"
+      "title": "Rivers",
+      "score": 30,
+      "url": "https://www.futilitycloset.com/2025/05/15/rivers/",
+      "time": 1747401560.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44005157"
     },
     {
-      "title": "Side projects I've built since 2009",
-      "score": 191,
-      "url": "https://naeemnur.com/side-projects/",
-      "time": 1747646240.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44027867"
-    },
-    {
-      "title": "23andMe Sells Gene-Testing Business to DNA Drug Maker Regeneron",
-      "score": 106,
-      "url": "https://www.bloomberg.com/news/articles/2025-05-19/23andme-sells-gene-testing-business-to-dna-drug-maker-regeneron",
-      "time": 1747668442.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44030873"
-    },
-    {
-      "title": "Diffusion Models Explained Simply",
-      "score": 59,
-      "url": "https://www.seangoedecke.com/diffusion-models-explained/",
-      "time": 1747660015.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44029435"
-    },
-    {
-      "title": "GitHub Copilot Coding Agent",
-      "score": 111,
-      "url": "https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/",
-      "time": 1747671476.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44031432"
-    },
-    {
-      "title": "Game theory illustrated by an animated cartoon game",
-      "score": 16,
-      "url": "https://ncase.me/trust/",
-      "time": 1747672098.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44031535"
-    },
-    {
-      "title": "Dilbert Creator Scott Adams Says He Will Die Soon from Same Cancer as Joe Biden",
-      "score": 49,
-      "url": "https://www.thewrap.com/dilbert-scott-adams-prostate-cancer-biden/",
-      "time": 1747674043.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44031917"
-    },
-    {
-      "title": "Edit is now open source",
-      "score": 46,
-      "url": "https://devblogs.microsoft.com/commandline/edit-is-now-open-source/",
-      "time": 1747672062.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44031529"
+      "title": "Show HN: A MCP server to evaluate Python code in WASM VM using RustPython",
+      "score": 4,
+      "url": "https://github.com/tuananh/hyper-mcp/tree/main/examples/plugins/eval-py",
+      "time": 1747489746.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44014323"
     }
   ]
 }
