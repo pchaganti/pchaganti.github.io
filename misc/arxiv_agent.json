@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-20T17:10:59.940370-04:00",
+  "last_updated": "2025-05-20T20:58:22.221964-04:00",
   "papers": [
     {
       "title": "G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language\n  Model via Reinforcement Learning",
@@ -10,7 +10,7 @@
     {
       "title": "A Dataless Reinforcement Learning Approach to Rounding Hyperplane\n  Optimization for Max-Cut",
       "summary": "The Maximum Cut (MaxCut) problem is NP-Complete, and obtaining its optimal\nsolution is NP-hard in the worst case. As a result, heuristic-based algorithms\nare commonly used, though their design often requires significant domain\nexpertise. More recently, learning-based methods trained on large (un)labeled\ndatasets have been proposed; however, these approaches often struggle with\ngeneralizability and scalability. A well-known approximation algorithm for\nMaxCut is the Goemans-Williamson (GW) algorithm, which relaxes the Quadratic\nUnconstrained Binary Optimization (QUBO) formulation into a semidefinite\nprogram (SDP). The GW algorithm then applies hyperplane rounding by uniformly\nsampling a random hyperplane to convert the SDP solution into binary node\nassignments. In this paper, we propose a training-data-free approach based on a\nnon-episodic reinforcement learning formulation, in which an agent learns to\nselect improved rounding hyperplanes that yield better cuts than those produced\nby the GW algorithm. By optimizing over a Markov Decision Process (MDP), our\nmethod consistently achieves better cuts across large-scale graphs with varying\ndensities and degree distributions.",
-      "url": "http://arxiv.org/abs/2505.13405v1",
+      "url": "http://arxiv.org/abs/2505.13405v2",
       "published_time_eastern_timestamp": 1747676470.0
     },
     {
@@ -118,7 +118,7 @@
     {
       "title": "From Assistants to Adversaries: Exploring the Security Risks of Mobile\n  LLM Agents",
       "summary": "The growing adoption of large language models (LLMs) has led to a new\nparadigm in mobile computing--LLM-powered mobile AI agents--capable of\ndecomposing and automating complex tasks directly on smartphones. However, the\nsecurity implications of these agents remain largely unexplored. In this paper,\nwe present the first comprehensive security analysis of mobile LLM agents,\nencompassing three representative categories: System-level AI Agents developed\nby original equipment manufacturers (e.g., YOYO Assistant), Third-party\nUniversal Agents (e.g., Zhipu AI AutoGLM), and Emerging Agent Frameworks (e.g.,\nAlibaba Mobile Agent). We begin by analyzing the general workflow of mobile\nagents and identifying security threats across three core capability\ndimensions: language-based reasoning, GUI-based interaction, and system-level\nexecution. Our analysis reveals 11 distinct attack surfaces, all rooted in the\nunique capabilities and interaction patterns of mobile LLM agents, and spanning\ntheir entire operational lifecycle. To investigate these threats in practice,\nwe introduce AgentScan, a semi-automated security analysis framework that\nsystematically evaluates mobile LLM agents across all 11 attack scenarios.\nApplying AgentScan to nine widely deployed agents, we uncover a concerning\ntrend: every agent is vulnerable to targeted attacks. In the most severe cases,\nagents exhibit vulnerabilities across eight distinct attack vectors. These\nattacks can cause behavioral deviations, privacy leakage, or even full\nexecution hijacking. Based on these findings, we propose a set of defensive\ndesign principles and practical recommendations for building secure mobile LLM\nagents. Our disclosures have received positive feedback from two major device\nvendors. Overall, this work highlights the urgent need for standardized\nsecurity practices in the fast-evolving landscape of LLM-driven mobile\nautomation.",
-      "url": "http://arxiv.org/abs/2505.12981v1",
+      "url": "http://arxiv.org/abs/2505.12981v2",
       "published_time_eastern_timestamp": 1747653466.0
     }
   ]

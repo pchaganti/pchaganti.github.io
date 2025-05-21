@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-20T17:10:59.569925-04:00",
+  "last_updated": "2025-05-20T20:58:21.827603-04:00",
   "papers": [
     {
       "title": "Unlocking Non-Invasive Brain-to-Text",
@@ -88,7 +88,7 @@
     {
       "title": "Sense and Sensitivity: Examining the Influence of Semantic Recall on\n  Long Context Code Reasoning",
       "summary": "Although modern Large Language Models (LLMs) support extremely large\ncontexts, their effectiveness in utilizing long context for code reasoning\nremains unclear. This paper investigates LLM reasoning ability over code\nsnippets within large repositories and how it relates to their recall ability.\nSpecifically, we differentiate between lexical code recall (verbatim retrieval)\nand semantic code recall (remembering what the code does). To measure semantic\nrecall, we propose SemTrace, a code reasoning technique where the impact of\nspecific statements on output is attributable and unpredictable. We also\npresent a method to quantify semantic recall sensitivity in existing\nbenchmarks. Our evaluation of state-of-the-art LLMs reveals a significant drop\nin code reasoning accuracy as a code snippet approaches the middle of the input\ncontext, particularly with techniques requiring high semantic recall like\nSemTrace. Moreover, we find that lexical recall varies by granularity, with\nmodels excelling at function retrieval but struggling with line-by-line recall.\nNotably, a disconnect exists between lexical and semantic recall, suggesting\ndifferent underlying mechanisms. Finally, our findings indicate that current\ncode reasoning benchmarks may exhibit low semantic recall sensitivity,\npotentially underestimating LLM challenges in leveraging in-context\ninformation.",
-      "url": "http://arxiv.org/abs/2505.13353v1",
+      "url": "http://arxiv.org/abs/2505.13353v2",
       "published_time_eastern_timestamp": 1747673791.0
     },
     {
