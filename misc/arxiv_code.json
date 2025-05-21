@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-21T11:13:24.443705-04:00",
+  "last_updated": "2025-05-21T14:16:49.360204-04:00",
   "papers": [
     {
       "title": "Language Models use Lookbacks to Track Beliefs",
@@ -69,7 +69,7 @@
     },
     {
       "title": "Bridging Predictive Coding and MDL: A Two-Part Code Framework for Deep\n  Learning",
-      "summary": "We present the first theoretical framework that connects predictive coding\n(PC), a biologically inspired local learning rule, with the minimum description\nlength (MDL) principle in deep networks. We prove that layerwise PC performs\nblock-coordinate descent on the MDL two-part code objective, thereby jointly\nminimizing empirical risk and model complexity. Using Hoeffding's inequality\nand a prefix-code prior, we derive a novel generalization bound of the form\n$R(\\theta) \\le \\^{R}(\\theta) + \\frac{L(\\theta)}{N}$, capturing the tradeoff\nbetween fit and compression. We further prove that each PC sweep monotonically\ndecreases the empirical two-part codelength, yielding tighter high-probability\nrisk bounds than unconstrained gradient descent. Finally, we show that repeated\nPC updates converge to a block-coordinate stationary point, providing an\napproximate MDL-optimal solution. To our knowledge, this is the first result\noffering formal generalization and convergence guarantees for PC-trained deep\nmodels, positioning PC as a theoretically grounded and biologically plausible\nalternative to backpropagation.",
+      "summary": "We present the first theoretical framework that connects predictive coding\n(PC), a biologically inspired local learning rule, with the minimum description\nlength (MDL) principle in deep networks. We prove that layerwise PC performs\nblock-coordinate descent on the MDL two-part code objective, thereby jointly\nminimizing empirical risk and model complexity. Using Hoeffding's inequality\nand a prefix-code prior, we derive a novel generalization bound of the form\n$R(\\theta) \\le \\hat{R}(\\theta) + \\frac{L(\\theta)}{N}$, capturing the tradeoff\nbetween fit and compression. We further prove that each PC sweep monotonically\ndecreases the empirical two-part codelength, yielding tighter high-probability\nrisk bounds than unconstrained gradient descent. Finally, we show that repeated\nPC updates converge to a block-coordinate stationary point, providing an\napproximate MDL-optimal solution. To our knowledge, this is the first result\noffering formal generalization and convergence guarantees for PC-trained deep\nmodels, positioning PC as a theoretically grounded and biologically plausible\nalternative to backpropagation.",
       "url": "http://arxiv.org/abs/2505.14635v1",
       "published_time_eastern_timestamp": 1747761916.0
     },
