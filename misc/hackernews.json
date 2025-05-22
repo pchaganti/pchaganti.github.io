@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-05-21T23:37:49.983923-04:00",
+  "last_updated": "2025-05-22T02:17:42.066284-04:00",
   "stories": [
     {
       "title": "Gemini Diffusion",
-      "score": 211,
+      "score": 362,
       "url": "https://simonwillison.net/2025/May/21/gemini-diffusion/",
       "time": 1747876430.0,
       "comments_url": "https://news.ycombinator.com/item?id=44057820"
     },
     {
+      "title": "Kotlin-Lsp: Kotlin Language Server and Plugin for Visual Studio Code",
+      "score": 53,
+      "url": "https://github.com/Kotlin/kotlin-lsp",
+      "time": 1747882007.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44058299"
+    },
+    {
       "title": "Getting a paper accepted",
-      "score": 28,
+      "score": 92,
       "url": "https://maxwellforbes.com/posts/how-to-get-a-paper-accepted/",
       "time": 1747876781.0,
       "comments_url": "https://news.ycombinator.com/item?id=44057841"
     },
     {
+      "title": "Inigo Quilez: computer graphics, mathematics, shaders, fractals, demoscene",
+      "score": 35,
+      "url": "https://iquilezles.org/articles/",
+      "time": 1747560759.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44020107"
+    },
+    {
       "title": "For algorithms, a little memory outweighs a lot of time",
-      "score": 209,
+      "score": 236,
       "url": "https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/",
       "time": 1747856060.0,
       "comments_url": "https://news.ycombinator.com/item?id=44055347"
     },
     {
-      "title": "Show HN: Display any CSV file as a searchable, filterable, pretty HTML table",
-      "score": 75,
-      "url": "https://github.com/derekeder/csv-to-html-table",
-      "time": 1747873861.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44057612"
-    },
-    {
-      "title": "ITXPlus: A ITX Sized Macintosh Plus Logicboard Reproduction",
-      "score": 59,
-      "url": "https://68kmla.org/bb/index.php?threads/itxplus-a-itx-sized-macintosh-plus-logicboard-reproduction.49715/",
-      "time": 1747864350.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44056659"
-    },
-    {
       "title": "Devstral",
-      "score": 398,
+      "score": 456,
       "url": "https://mistral.ai/news/devstral",
       "time": 1747837270.0,
       "comments_url": "https://news.ycombinator.com/item?id=44051733"
     },
     {
-      "title": "Tales from Mainframe Modernization",
-      "score": 34,
-      "url": "https://oppi.li/posts/tales_from_mainframe_modernization/",
-      "time": 1747872106.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44057467"
+      "title": "Show HN: Display any CSV file as a searchable, filterable, pretty HTML table",
+      "score": 120,
+      "url": "https://github.com/derekeder/csv-to-html-table",
+      "time": 1747873861.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44057612"
+    },
+    {
+      "title": "The Lost Decade of Small Data?",
+      "score": 42,
+      "url": "https://duckdb.org/2025/05/19/the-lost-decade-of-small-data.html",
+      "time": 1747643971.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44027690"
     },
     {
       "title": "Gemini figured out my nephew’s name",
-      "score": 49,
+      "score": 93,
       "url": "https://blog.nawaz.org/posts/2025/May/gemini-figured-out-my-nephews-name/",
       "time": 1747614902.0,
       "comments_url": "https://news.ycombinator.com/item?id=44025459"
     },
     {
-      "title": "Google releases Material 3 Expressive, a more emotional UI design system",
-      "score": 11,
-      "url": "https://m3.material.io/blog/building-with-m3-expressive",
-      "time": 1747643268.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44027624"
-    },
-    {
-      "title": "CERN gears up to ship antimatter across Europe",
-      "score": 77,
-      "url": "https://arstechnica.com/science/2025/05/cern-gears-up-to-ship-antimatter-across-europe/",
-      "time": 1747682304.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44033711"
+      "title": "ITXPlus: A ITX Sized Macintosh Plus Logicboard Reproduction",
+      "score": 75,
+      "url": "https://68kmla.org/bb/index.php?threads/itxplus-a-itx-sized-macintosh-plus-logicboard-reproduction.49715/",
+      "time": 1747864350.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44056659"
     },
     {
       "title": "Rocky Linux 10 Will Support RISC-V",
-      "score": 95,
+      "score": 123,
       "url": "https://rockylinux.org/news/rockylinux-support-for-riscv",
       "time": 1747860058.0,
       "comments_url": "https://news.ycombinator.com/item?id=44056104"
     },
     {
+      "title": "CERN gears up to ship antimatter across Europe",
+      "score": 114,
+      "url": "https://arstechnica.com/science/2025/05/cern-gears-up-to-ship-antimatter-across-europe/",
+      "time": 1747682304.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44033711"
+    },
+    {
       "title": "Collaborative Text Editing Without CRDTs or OT",
-      "score": 199,
+      "score": 216,
       "url": "https://mattweidner.com/2025/05/21/text-without-crdts.html",
       "time": 1747847145.0,
       "comments_url": "https://news.ycombinator.com/item?id=44053560"
     },
     {
+      "title": "Tales from Mainframe Modernization",
+      "score": 46,
+      "url": "https://oppi.li/posts/tales_from_mainframe_modernization/",
+      "time": 1747872106.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44057467"
+    },
+    {
       "title": "OpenAI to buy AI startup from Jony Ive",
-      "score": 656,
+      "score": 697,
       "url": "https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal",
       "time": 1747846895.0,
       "comments_url": "https://news.ycombinator.com/item?id=44053518"
     },
     {
-      "title": "Show HN: Confidential computing for high-assurance RISC-V embedded systems",
-      "score": 76,
-      "url": "https://github.com/IBM/ACE-RISCV",
-      "time": 1747858866.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44055895"
-    },
-    {
       "title": "Animated Factorization (2012)",
-      "score": 234,
+      "score": 242,
       "url": "http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/",
       "time": 1747838377.0,
       "comments_url": "https://news.ycombinator.com/item?id=44051958"
     },
     {
       "title": "The curious tale of Bhutan's playable record postage stamps (2015)",
-      "score": 91,
+      "score": 101,
       "url": "https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/",
       "time": 1747853118.0,
       "comments_url": "https://news.ycombinator.com/item?id=44054775"
     },
     {
       "title": "Possible new dwarf planet found in our solar system",
-      "score": 114,
+      "score": 126,
       "url": "https://www.minorplanetcenter.net/mpec/K25/K25K47.html",
       "time": 1747852344.0,
       "comments_url": "https://news.ycombinator.com/item?id=44054620"
     },
     {
-      "title": "How AppHarvest’s indoor farming scheme imploded (2023)",
-      "score": 18,
-      "url": "https://www.lpm.org/investigate/2023-11-16/a-celebrated-startup-promised-kentuckians-green-jobs-it-gave-them-a-grueling-hell-on-earth",
-      "time": 1747875609.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44057752"
+      "title": "LLM function calls don't scale; code orchestration is simpler, more effective",
+      "score": 209,
+      "url": "https://jngiam.bearblog.dev/mcp-large-data/",
+      "time": 1747847932.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44053744"
     },
     {
-      "title": "Sorcerer (YC S24) Is Hiring a Lead Hardware Design Engineer",
-      "score": 1,
-      "url": "https://jobs.ashbyhq.com/sorcerer/6beb70de-9956-49b7-8e28-f48ea39efac6",
-      "time": 1747861211.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44056280"
-    },
-    {
-      "title": "The Machine Stops (1909)",
-      "score": 59,
-      "url": "https://standardebooks.org/ebooks/e-m-forster/short-fiction/text/the-machine-stops",
-      "time": 1747862287.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44056407"
+      "title": "Dijkstra on Ada",
+      "score": 23,
+      "url": "https://craftofcoding.wordpress.com/2014/04/16/dijkstra-on-ada/",
+      "time": 1747875371.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44057731"
     }
   ]
 }
