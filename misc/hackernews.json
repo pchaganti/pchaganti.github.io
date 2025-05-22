@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-05-22T05:12:56.859935-04:00",
+  "last_updated": "2025-05-22T08:23:39.456249-04:00",
   "stories": [
     {
       "title": "Gemini Diffusion",
-      "score": 503,
+      "score": 636,
       "url": "https://simonwillison.net/2025/May/21/gemini-diffusion/",
       "time": 1747876430.0,
       "comments_url": "https://news.ycombinator.com/item?id=44057820"
     },
     {
-      "title": "Decibels Are Ridiculous",
-      "score": 190,
+      "title": "The scientific “unit” we call the decibel",
+      "score": 327,
       "url": "https://lcamtuf.substack.com/p/decibels-are-ridiculous",
       "time": 1747887873.0,
       "comments_url": "https://news.ycombinator.com/item?id=44058778"
     },
     {
-      "title": "JEP 519: Compact Object Headers",
-      "score": 18,
-      "url": "https://openjdk.org/jeps/519",
-      "time": 1747902270.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44059953"
+      "title": "Planetfall",
+      "score": 67,
+      "url": "https://somethingaboutmaps.wordpress.com/2025/05/20/planetfall/",
+      "time": 1747905477.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44060305"
+    },
+    {
+      "title": "Making the rav1d Video Decoder 1% Faster",
+      "score": 9,
+      "url": "https://ohadravid.github.io/posts/2025-05-rav1d-faster/",
+      "time": 1747915143.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44061160"
+    },
+    {
+      "title": "Inigo Quilez: computer graphics, mathematics, shaders, fractals, demoscene",
+      "score": 167,
+      "url": "https://iquilezles.org/articles/",
+      "time": 1747560759.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44020107"
     },
     {
       "title": "Why does Debian change software?",
-      "score": 62,
+      "score": 147,
       "url": "https://blog.liw.fi/posts/2025/why-debian-changes/",
       "time": 1747896628.0,
       "comments_url": "https://news.ycombinator.com/item?id=44059411"
     },
     {
       "title": "Kotlin-Lsp: Kotlin Language Server and Plugin for Visual Studio Code",
-      "score": 87,
+      "score": 112,
       "url": "https://github.com/Kotlin/kotlin-lsp",
       "time": 1747882007.0,
       "comments_url": "https://news.ycombinator.com/item?id=44058299"
     },
     {
-      "title": "Inigo Quilez: computer graphics, mathematics, shaders, fractals, demoscene",
-      "score": 100,
-      "url": "https://iquilezles.org/articles/",
-      "time": 1747560759.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44020107"
-    },
-    {
-      "title": "Direct TLS can speed up your connections",
-      "score": 35,
-      "url": "https://marc-bowes.com/postgres-direct-tls.html",
-      "time": 1747892976.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44059122"
-    },
-    {
-      "title": "Getting a paper accepted",
-      "score": 128,
-      "url": "https://maxwellforbes.com/posts/how-to-get-a-paper-accepted/",
-      "time": 1747876781.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44057841"
-    },
-    {
-      "title": "For algorithms, a little memory outweighs a lot of time",
-      "score": 266,
-      "url": "https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/",
-      "time": 1747856060.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44055347"
-    },
-    {
-      "title": "A lost decade chasing distributed architectures for data analytics?",
-      "score": 83,
-      "url": "https://duckdb.org/2025/05/19/the-lost-decade-of-small-data.html",
-      "time": 1747643971.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44027690"
-    },
-    {
-      "title": "Devstral",
-      "score": 524,
-      "url": "https://mistral.ai/news/devstral",
-      "time": 1747837270.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44051733"
-    },
-    {
-      "title": "CERN gears up to ship antimatter across Europe",
-      "score": 161,
-      "url": "https://arstechnica.com/science/2025/05/cern-gears-up-to-ship-antimatter-across-europe/",
-      "time": 1747682304.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44033711"
-    },
-    {
-      "title": "ITXPlus: A ITX Sized Macintosh Plus Logicboard Reproduction",
-      "score": 86,
-      "url": "https://68kmla.org/bb/index.php?threads/itxplus-a-itx-sized-macintosh-plus-logicboard-reproduction.49715/",
-      "time": 1747864350.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44056659"
-    },
-    {
-      "title": "Rocky Linux 10 Will Support RISC-V",
-      "score": 142,
-      "url": "https://rockylinux.org/news/rockylinux-support-for-riscv",
-      "time": 1747860058.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44056104"
-    },
-    {
-      "title": "Show HN: Display any CSV file as a searchable, filterable, pretty HTML table",
-      "score": 139,
-      "url": "https://github.com/derekeder/csv-to-html-table",
-      "time": 1747873861.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44057612"
-    },
-    {
-      "title": "Hotspot: Linux `perf` GUI for performance analysis",
-      "score": 8,
-      "url": "https://github.com/KDAB/hotspot",
-      "time": 1747690383.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44035125"
-    },
-    {
-      "title": "Collaborative Text Editing Without CRDTs or OT",
-      "score": 229,
-      "url": "https://mattweidner.com/2025/05/21/text-without-crdts.html",
-      "time": 1747847145.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44053560"
+      "title": "Four years of sight reading practice",
+      "score": 11,
+      "url": "https://sandrock.co.za/carl/2025/05/four-years-of-sight-reading-pracice/",
+      "time": 1747626270.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44026364"
     },
     {
       "title": "When a team is too big",
-      "score": 3,
+      "score": 35,
       "url": "https://blog.alexewerlof.com/p/when-a-team-is-too-big",
       "time": 1747629099.0,
       "comments_url": "https://news.ycombinator.com/item?id=44026516"
     },
     {
+      "title": "How we made our optical character recognition (OCR) code more accurate",
+      "score": 14,
+      "url": "https://pieces.app/blog/how-we-made-our-optical-character-recognition-ocr-code-more-accurate",
+      "time": 1747814713.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44049310"
+    },
+    {
+      "title": "Hotspot: Linux `perf` GUI for performance analysis",
+      "score": 41,
+      "url": "https://github.com/KDAB/hotspot",
+      "time": 1747690383.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44035125"
+    },
+    {
+      "title": "Devstral",
+      "score": 580,
+      "url": "https://mistral.ai/news/devstral",
+      "time": 1747837270.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44051733"
+    },
+    {
+      "title": "For algorithms, a little memory outweighs a lot of time",
+      "score": 277,
+      "url": "https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/",
+      "time": 1747856060.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44055347"
+    },
+    {
+      "title": "Getting a paper accepted",
+      "score": 142,
+      "url": "https://maxwellforbes.com/posts/how-to-get-a-paper-accepted/",
+      "time": 1747876781.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44057841"
+    },
+    {
+      "title": "A lost decade chasing distributed architectures for data analytics?",
+      "score": 130,
+      "url": "https://duckdb.org/2025/05/19/the-lost-decade-of-small-data.html",
+      "time": 1747643971.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44027690"
+    },
+    {
+      "title": "Direct TLS can speed up your connections",
+      "score": 50,
+      "url": "https://marc-bowes.com/postgres-direct-tls.html",
+      "time": 1747892976.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44059122"
+    },
+    {
+      "title": "CERN gears up to ship antimatter across Europe",
+      "score": 194,
+      "url": "https://arstechnica.com/science/2025/05/cern-gears-up-to-ship-antimatter-across-europe/",
+      "time": 1747682304.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44033711"
+    },
+    {
       "title": "Gemini figured out my nephew’s name",
-      "score": 118,
+      "score": 142,
       "url": "https://blog.nawaz.org/posts/2025/May/gemini-figured-out-my-nephews-name/",
       "time": 1747614902.0,
       "comments_url": "https://news.ycombinator.com/item?id=44025459"
     },
     {
-      "title": "OpenAI to buy AI startup from Jony Ive",
-      "score": 731,
-      "url": "https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal",
-      "time": 1747846895.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44053518"
+      "title": "ITXPlus: A ITX Sized Macintosh Plus Logicboard Reproduction",
+      "score": 99,
+      "url": "https://68kmla.org/bb/index.php?threads/itxplus-a-itx-sized-macintosh-plus-logicboard-reproduction.49715/",
+      "time": 1747864350.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44056659"
+    },
+    {
+      "title": "Collaborative Text Editing Without CRDTs or OT",
+      "score": 245,
+      "url": "https://mattweidner.com/2025/05/21/text-without-crdts.html",
+      "time": 1747847145.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44053560"
     }
   ]
 }
