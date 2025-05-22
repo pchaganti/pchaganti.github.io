@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-05-22T08:23:39.456249-04:00",
+  "last_updated": "2025-05-22T11:12:40.951713-04:00",
   "stories": [
     {
+      "title": "Improving performance of rav1d video decoder",
+      "score": 140,
+      "url": "https://ohadravid.github.io/posts/2025-05-rav1d-faster/",
+      "time": 1747915143.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44061160"
+    },
+    {
+      "title": "Fast Allocations in Ruby 3.5",
+      "score": 42,
+      "url": "https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/",
+      "time": 1747922515.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44062160"
+    },
+    {
+      "title": "Showh HN: SQLite JavaScript - extend your database with JavaScript",
+      "score": 55,
+      "url": "https://github.com/sqliteai/sqlite-js",
+      "time": 1747920333.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44061836"
+    },
+    {
+      "title": "Adventures in Symbolic Algebra with Model Context Protocol",
+      "score": 23,
+      "url": "https://www.stephendiehl.com/posts/computer_algebra_mcp/",
+      "time": 1747922365.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44062130"
+    },
+    {
+      "title": "Planetfall",
+      "score": 179,
+      "url": "https://somethingaboutmaps.wordpress.com/2025/05/20/planetfall/",
+      "time": 1747905477.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44060305"
+    },
+    {
       "title": "Gemini Diffusion",
-      "score": 636,
+      "score": 720,
       "url": "https://simonwillison.net/2025/May/21/gemini-diffusion/",
       "time": 1747876430.0,
       "comments_url": "https://news.ycombinator.com/item?id=44057820"
     },
     {
       "title": "The scientific “unit” we call the decibel",
-      "score": 327,
+      "score": 438,
       "url": "https://lcamtuf.substack.com/p/decibels-are-ridiculous",
       "time": 1747887873.0,
       "comments_url": "https://news.ycombinator.com/item?id=44058778"
     },
     {
-      "title": "Planetfall",
-      "score": 67,
-      "url": "https://somethingaboutmaps.wordpress.com/2025/05/20/planetfall/",
-      "time": 1747905477.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44060305"
-    },
-    {
-      "title": "Making the rav1d Video Decoder 1% Faster",
-      "score": 9,
-      "url": "https://ohadravid.github.io/posts/2025-05-rav1d-faster/",
-      "time": 1747915143.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44061160"
-    },
-    {
-      "title": "Inigo Quilez: computer graphics, mathematics, shaders, fractals, demoscene",
-      "score": 167,
-      "url": "https://iquilezles.org/articles/",
-      "time": 1747560759.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44020107"
-    },
-    {
-      "title": "Why does Debian change software?",
-      "score": 147,
-      "url": "https://blog.liw.fi/posts/2025/why-debian-changes/",
-      "time": 1747896628.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44059411"
-    },
-    {
-      "title": "Kotlin-Lsp: Kotlin Language Server and Plugin for Visual Studio Code",
-      "score": 112,
-      "url": "https://github.com/Kotlin/kotlin-lsp",
-      "time": 1747882007.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44058299"
-    },
-    {
       "title": "Four years of sight reading practice",
-      "score": 11,
+      "score": 74,
       "url": "https://sandrock.co.za/carl/2025/05/four-years-of-sight-reading-pracice/",
       "time": 1747626270.0,
       "comments_url": "https://news.ycombinator.com/item?id=44026364"
     },
     {
-      "title": "When a team is too big",
-      "score": 35,
-      "url": "https://blog.alexewerlof.com/p/when-a-team-is-too-big",
-      "time": 1747629099.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44026516"
+      "title": "Show HN: Infinite Hagakure",
+      "score": 5,
+      "url": "https://hagakure.space",
+      "time": 1747923694.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44062346"
     },
     {
-      "title": "How we made our optical character recognition (OCR) code more accurate",
-      "score": 14,
-      "url": "https://pieces.app/blog/how-we-made-our-optical-character-recognition-ocr-code-more-accurate",
-      "time": 1747814713.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44049310"
+      "title": "Show HN: Curved Space Shader in Three.js (via 4D sphere projection)",
+      "score": 35,
+      "url": "https://github.com/bntre/CurvedSpaceShader",
+      "time": 1747911164.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44060772"
+    },
+    {
+      "title": "Mini-satellite paves the way for quantum messaging anywhere on Earth",
+      "score": 10,
+      "url": "https://www.nature.com/articles/d41586-025-00581-7",
+      "time": 1747647263.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44027962"
+    },
+    {
+      "title": "Everything’s a bug (or an issue)",
+      "score": 17,
+      "url": "https://www.bozemanpass.com/everythings-a-bug-or-an-issue/",
+      "time": 1747626419.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44026370"
+    },
+    {
+      "title": "Inigo Quilez: computer graphics, mathematics, shaders, fractals, demoscene",
+      "score": 232,
+      "url": "https://iquilezles.org/articles/",
+      "time": 1747560759.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44020107"
+    },
+    {
+      "title": "The Philosophy of Byung-Chul Han (2020)",
+      "score": 9,
+      "url": "https://newintrigue.com/2020/06/29/the-philosophy-of-byung-chul-han/",
+      "time": 1747919355.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44061698"
+    },
+    {
+      "title": "Robert Musil Forgotten Plays Inspired His Greatest Work of Fiction",
+      "score": 9,
+      "url": "https://lithub.com/the-austrian-writer-whose-forgotten-plays-inspired-his-greatest-work-of-fiction/",
+      "time": 1747913067.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44060943"
+    },
+    {
+      "title": "Why I Built My Own Audio Player",
+      "score": 3,
+      "url": "https://nexo.sh/posts/why-i-built-a-native-mp3-player-in-swiftui/",
+      "time": 1747922965.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44062227"
+    },
+    {
+      "title": "Strengths and limitations of diffusion language models",
+      "score": 24,
+      "url": "https://www.seangoedecke.com/limitations-of-text-diffusion-models/",
+      "time": 1747908609.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44060533"
+    },
+    {
+      "title": "Display any CSV file as a searchable, filterable, pretty HTML table",
+      "score": 200,
+      "url": "https://github.com/derekeder/csv-to-html-table",
+      "time": 1747873861.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44057612"
+    },
+    {
+      "title": "Kotlin-Lsp: Kotlin Language Server and Plugin for Visual Studio Code",
+      "score": 142,
+      "url": "https://github.com/Kotlin/kotlin-lsp",
+      "time": 1747882007.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44058299"
     },
     {
       "title": "Hotspot: Linux `perf` GUI for performance analysis",
-      "score": 41,
+      "score": 67,
       "url": "https://github.com/KDAB/hotspot",
       "time": 1747690383.0,
       "comments_url": "https://news.ycombinator.com/item?id=44035125"
-    },
-    {
-      "title": "Devstral",
-      "score": 580,
-      "url": "https://mistral.ai/news/devstral",
-      "time": 1747837270.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44051733"
-    },
-    {
-      "title": "For algorithms, a little memory outweighs a lot of time",
-      "score": 277,
-      "url": "https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/",
-      "time": 1747856060.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44055347"
-    },
-    {
-      "title": "Getting a paper accepted",
-      "score": 142,
-      "url": "https://maxwellforbes.com/posts/how-to-get-a-paper-accepted/",
-      "time": 1747876781.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44057841"
-    },
-    {
-      "title": "A lost decade chasing distributed architectures for data analytics?",
-      "score": 130,
-      "url": "https://duckdb.org/2025/05/19/the-lost-decade-of-small-data.html",
-      "time": 1747643971.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44027690"
-    },
-    {
-      "title": "Direct TLS can speed up your connections",
-      "score": 50,
-      "url": "https://marc-bowes.com/postgres-direct-tls.html",
-      "time": 1747892976.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44059122"
-    },
-    {
-      "title": "CERN gears up to ship antimatter across Europe",
-      "score": 194,
-      "url": "https://arstechnica.com/science/2025/05/cern-gears-up-to-ship-antimatter-across-europe/",
-      "time": 1747682304.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44033711"
-    },
-    {
-      "title": "Gemini figured out my nephew’s name",
-      "score": 142,
-      "url": "https://blog.nawaz.org/posts/2025/May/gemini-figured-out-my-nephews-name/",
-      "time": 1747614902.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44025459"
-    },
-    {
-      "title": "ITXPlus: A ITX Sized Macintosh Plus Logicboard Reproduction",
-      "score": 99,
-      "url": "https://68kmla.org/bb/index.php?threads/itxplus-a-itx-sized-macintosh-plus-logicboard-reproduction.49715/",
-      "time": 1747864350.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44056659"
-    },
-    {
-      "title": "Collaborative Text Editing Without CRDTs or OT",
-      "score": 245,
-      "url": "https://mattweidner.com/2025/05/21/text-without-crdts.html",
-      "time": 1747847145.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44053560"
     }
   ]
 }
