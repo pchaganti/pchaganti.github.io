@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-21T17:10:58.170540-04:00",
+  "last_updated": "2025-05-21T20:57:55.210966-04:00",
   "papers": [
     {
       "title": "Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning",
@@ -64,7 +64,7 @@
     {
       "title": "Think Only When You Need with Large Hybrid-Reasoning Models",
       "summary": "Recent Large Reasoning Models (LRMs) have shown substantially improved\nreasoning capabilities over traditional Large Language Models (LLMs) by\nincorporating extended thinking processes prior to producing final responses.\nHowever, excessively lengthy thinking introduces substantial overhead in terms\nof token consumption and latency, which is particularly unnecessary for simple\nqueries. In this work, we introduce Large Hybrid-Reasoning Models (LHRMs), the\nfirst kind of model capable of adaptively determining whether to perform\nthinking based on the contextual information of user queries. To achieve this,\nwe propose a two-stage training pipeline comprising Hybrid Fine-Tuning (HFT) as\na cold start, followed by online reinforcement learning with the proposed\nHybrid Group Policy Optimization (HGPO) to implicitly learn to select the\nappropriate thinking mode. Furthermore, we introduce a metric called Hybrid\nAccuracy to quantitatively assess the model's capability for hybrid thinking.\nExtensive experimental results show that LHRMs can adaptively perform hybrid\nthinking on queries of varying difficulty and type. It outperforms existing\nLRMs and LLMs in reasoning and general capabilities while significantly\nimproving efficiency. Together, our work advocates for a reconsideration of the\nappropriate use of extended thinking processes and provides a solid starting\npoint for building hybrid thinking systems.",
-      "url": "http://arxiv.org/abs/2505.14631v1",
+      "url": "http://arxiv.org/abs/2505.14631v2",
       "published_time_eastern_timestamp": 1747761805.0
     },
     {
