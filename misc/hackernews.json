@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-05-25T11:10:33.615170-04:00",
+  "last_updated": "2025-05-25T14:14:21.326370-04:00",
   "stories": [
     {
+      "title": "Lottie is an open format for animated vector graphics",
+      "score": 126,
+      "url": "https://lottie.github.io/",
+      "time": 1748184347.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44088216"
+    },
+    {
+      "title": "Writing your own CUPS printer driver in 100 lines of Python",
+      "score": 40,
+      "url": "https://behind.pretix.eu/2018/01/20/cups-driver/",
+      "time": 1748188368.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44088682"
+    },
+    {
+      "title": "Writing a Self-Mutating x86_64 C Program (2013)",
+      "score": 19,
+      "url": "https://ephemeral.cx/2013/12/writing-a-self-mutating-x86_64-c-program/",
+      "time": 1748192426.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44089106"
+    },
+    {
       "title": "Design Pressure: The Invisible Hand That Shapes Your Code",
-      "score": 24,
+      "score": 76,
       "url": "https://hynek.me/talks/design-pressure/",
       "time": 1748181115.0,
       "comments_url": "https://news.ycombinator.com/item?id=44087844"
     },
     {
+      "title": "Path to a free self-taught education in Computer Science",
+      "score": 16,
+      "url": "https://github.com/ossu/computer-science",
+      "time": 1748192815.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44089150"
+    },
+    {
       "title": "Claude 4 System Card",
-      "score": 321,
+      "score": 421,
       "url": "https://simonwillison.net/2025/May/25/claude-4-system-card/",
       "time": 1748153199.0,
       "comments_url": "https://news.ycombinator.com/item?id=44085920"
     },
     {
-      "title": "Show HN: SVG Animation Software",
-      "score": 73,
-      "url": "https://expressive.app/expressive-animator/",
-      "time": 1748172082.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44087049"
+      "title": "Can a Corporation Be Pardoned?",
+      "score": 20,
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202339",
+      "time": 1748190538.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44088926"
+    },
+    {
+      "title": "Martin (YC S23) Is Hiring Founding AI/Product Engineers to Build a Better Siri",
+      "score": 1,
+      "url": "https://www.ycombinator.com/companies/martin/jobs",
+      "time": 1748192438.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44089108"
     },
     {
       "title": "'Strange metals' point to a whole new way to understand electricity",
-      "score": 12,
+      "score": 57,
       "url": "https://www.science.org/content/article/strange-metals-point-whole-new-way-understand-electricity",
       "time": 1748181739.0,
       "comments_url": "https://news.ycombinator.com/item?id=44087916"
     },
     {
-      "title": "Show HN: Wall Go – browser remake of a Devil's Plan 2 mini-game",
-      "score": 4,
-      "url": "https://schaoss.github.io/wall-go/",
-      "time": 1748184586.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44088248"
+      "title": "Lisping at JPL",
+      "score": 9,
+      "url": "https://flownet.com/gat/jpl-lisp.html",
+      "time": 1747902696.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44059994"
+    },
+    {
+      "title": "Show HN: SVG Animation Software",
+      "score": 124,
+      "url": "https://expressive.app/expressive-animator/",
+      "time": 1748172082.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44087049"
+    },
+    {
+      "title": "Denmark to raise retirement age to 70",
+      "score": 54,
+      "url": "https://www.telegraph.co.uk/world-news/2025/05/23/denmark-raise-retirement-age-70/",
+      "time": 1748190868.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44088957"
     },
     {
       "title": "Programming on 34 Keys (2022)",
-      "score": 30,
+      "score": 38,
       "url": "https://oppi.li/posts/programming_on_34_keys/",
       "time": 1748176530.0,
       "comments_url": "https://news.ycombinator.com/item?id=44087373"
     },
     {
-      "title": "Reinvent the Wheel",
-      "score": 490,
-      "url": "https://endler.dev/2025/reinvent-the-wheel/",
-      "time": 1748117112.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44083467"
-    },
-    {
-      "title": "Show HN: AI Baby Monitor – local Video-LLM that beeps when safety rules break",
-      "score": 37,
-      "url": "https://github.com/zeenolife/ai-baby-monitor",
-      "time": 1747835028.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44051386"
-    },
-    {
-      "title": "I used o3 to find a remote zeroday in the Linux SMB implementation",
-      "score": 557,
-      "url": "https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/",
-      "time": 1748096745.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44081338"
-    },
-    {
-      "title": "Now you can watch the Internet Archive preserve documents in real time",
-      "score": 38,
-      "url": "https://www.theverge.com/news/672682/internet-archive-microfiche-lo-fi-beats-channel",
-      "time": 1748002462.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44072137"
-    },
-    {
-      "title": "Investigating physical attacks targeting cryptocurrency users (2024) [pdf]",
-      "score": 50,
+      "title": "Wrench Attacks: Physical attacks targeting cryptocurrency users (2024) [pdf]",
+      "score": 58,
       "url": "https://drops.dagstuhl.de/storage/00lipics/lipics-vol316-aft2024/LIPIcs.AFT.2024.24/LIPIcs.AFT.2024.24.pdf",
       "time": 1748174176.0,
       "comments_url": "https://news.ycombinator.com/item?id=44087183"
     },
     {
-      "title": "How to Install Windows NT 4 Server on Proxmox",
-      "score": 124,
-      "url": "https://blog.pipetogrep.org/2025/05/23/how-to-install-windows-nt-4-server-on-proxmox/",
-      "time": 1748136894.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44084885"
+      "title": "Show HN: DaedalOS – Desktop Environment in the Browser",
+      "score": 14,
+      "url": "https://github.com/DustinBrett/daedalOS",
+      "time": 1748189172.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44088777"
     },
     {
-      "title": "Why old games never die, but new ones do",
-      "score": 223,
-      "url": "https://pleromanonx86.wordpress.com/2025/05/06/why-old-games-never-die-but-new-ones-do/",
-      "time": 1748122145.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44083917"
+      "title": "Show HN: Wall Go – browser remake of a Devil's Plan 2 mini-game",
+      "score": 15,
+      "url": "https://schaoss.github.io/wall-go/",
+      "time": 1748184586.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44088248"
     },
     {
-      "title": "Fast, Simple and Open Firebase Alternative: TrailBase",
-      "score": 21,
-      "url": "https://github.com/trailbaseio/trailbase/releases/tag/v0.12.0",
-      "time": 1748179853.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44087687"
+      "title": "Why top posting has won (2018)",
+      "score": 46,
+      "url": "https://www.solipsys.co.uk/new/WhyTopPostingHasWon.html?ye25hn",
+      "time": 1748188016.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44088644"
     },
     {
-      "title": "Good Writing",
-      "score": 261,
-      "url": "https://paulgraham.com/goodwriting.html",
-      "time": 1748099017.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44081586"
+      "title": "Drawing power out of CCS port",
+      "score": 5,
+      "url": "https://openinverter.org/forum/viewtopic.php?t=3551",
+      "time": 1748186935.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44088513"
     },
     {
-      "title": "Graduate Student Solves Classic Problem About the Limits of Addition",
-      "score": 35,
-      "url": "https://www.quantamagazine.org/graduate-student-solves-classic-problem-about-the-limits-of-addition-20250522/",
-      "time": 1747998901.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44071769"
+      "title": "Now you can watch the Internet Archive preserve documents in real time",
+      "score": 77,
+      "url": "https://www.theverge.com/news/672682/internet-archive-microfiche-lo-fi-beats-channel",
+      "time": 1748002462.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44072137"
     },
     {
-      "title": "Tachy0n: The Last 0day Jailbreak",
-      "score": 230,
-      "url": "https://blog.siguza.net/tachy0n/",
-      "time": 1748116241.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44083388"
-    },
-    {
-      "title": "Show HN: Open-source protein and ligand viewer",
-      "score": 4,
-      "url": "https://github.com/David-OConnor/daedalus",
-      "time": 1748008596.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44072929"
-    },
-    {
-      "title": "Space is not a wall: toward a less architectural level design",
-      "score": 48,
-      "url": "https://www.blog.radiator.debacle.us/2025/05/space-is-not-wall-toward-less.html",
-      "time": 1747826841.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44050295"
-    },
-    {
-      "title": "Hydra: Vehicles on the island – 'After the works they abandon them here'",
-      "score": 24,
-      "url": "https://en.protothema.gr/2025/05/19/hydra-see-photos-of-vehicles-on-the-island-after-the-works-they-abandon-them-here-say-residents/",
-      "time": 1747955157.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44068119"
+      "title": "Reinvent the Wheel",
+      "score": 530,
+      "url": "https://endler.dev/2025/reinvent-the-wheel/",
+      "time": 1748117112.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44083467"
     }
   ]
 }
