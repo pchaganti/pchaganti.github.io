@@ -1,89 +1,138 @@
 {
-  "last_updated": "2025-05-26T11:12:09.582873-04:00",
+  "last_updated": "2025-05-26T14:15:30.833774-04:00",
   "stories": [
     {
-      "title": "Engineers discover new class of materials that passively harvest water from air",
-      "score": 89,
+      "title": "A new class of materials that can passively harvest water from air",
+      "score": 218,
       "url": "https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/",
       "time": 1748265269.0,
       "comments_url": "https://news.ycombinator.com/item?id=44097144"
     },
     {
+      "title": "Launch HN: Nomi (YC X25) – Copilot for Sales",
+      "score": 36,
+      "url": "https://news.ycombinator.com/item?id=44098706",
+      "time": 1748275521.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44098706"
+    },
+    {
+      "title": "Show HN: PgDog – Shard Postgres without extensions",
+      "score": 45,
+      "url": "https://github.com/pgdogdev/pgdog",
+      "time": 1748278549.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44099187"
+    },
+    {
+      "title": "German court sends VW execs to prison over Dieselgate scandal",
+      "score": 368,
+      "url": "https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/",
+      "time": 1748271599.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44098091"
+    },
+    {
+      "title": "Hacker News now runs on top of Common Lisp",
+      "score": 159,
+      "url": "https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/",
+      "time": 1748277422.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44099006"
+    },
+    {
+      "title": "TeleMessage Customers Include DC Police, Andreessen Horowitz, JP Morgan,Hundreds",
+      "score": 22,
+      "url": "https://micahflee.com/telemessage-customers-include-dc-police-andreesen-horowitz-jp-morgan-and-hundreds-more/",
+      "time": 1748278047.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44099096"
+    },
+    {
       "title": "Particle Life simulation in browser using WebGPU",
-      "score": 74,
+      "score": 121,
       "url": "https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html",
       "time": 1748262492.0,
       "comments_url": "https://news.ycombinator.com/item?id=44096808"
     },
     {
-      "title": "The double standard of webhook security and API security",
-      "score": 55,
-      "url": "https://www.speakeasy.com/blog/webhook-security",
-      "time": 1748258339.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44096251"
+      "title": "TSMC Bets on Unorthodox Optical Tech",
+      "score": 10,
+      "url": "https://spectrum.ieee.org/microled-optical-chiplet",
+      "time": 1748279719.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44099407"
+    },
+    {
+      "title": "WavePhoenix – open-source implementation of the Nintendo WaveBird protocol",
+      "score": 32,
+      "url": "https://github.com/loopj/wavephoenix",
+      "time": 1748273832.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44098442"
     },
     {
       "title": "TIL: timeout in Bash scripts",
-      "score": 51,
+      "score": 143,
       "url": "https://heitorpb.github.io/bla/timeout/",
       "time": 1748259268.0,
       "comments_url": "https://news.ycombinator.com/item?id=44096395"
     },
     {
-      "title": "Demoting i686-PC-windows-gnu to Tier 2",
-      "score": 23,
-      "url": "https://blog.rust-lang.org/2025/05/26/demoting-i686-pc-windows-gnu/",
-      "time": 1748268971.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44097637"
+      "title": "TeleMessage Explorer: a new open-source research tool",
+      "score": 36,
+      "url": "https://micahflee.com/telemessage-explorer-a-new-open-source-research-tool/",
+      "time": 1748271048.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44097986"
+    },
+    {
+      "title": "Creating Debian packages from upstream Git",
+      "score": 21,
+      "url": "https://optimizedbyotto.com/post/debian-packaging-from-git/",
+      "time": 1748275518.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44098705"
+    },
+    {
+      "title": "You share a house with Einstein, Hawking and Tao",
+      "score": 19,
+      "url": "https://www.faisalabid.com/p/you-share-a-house-with-einstein-hawking",
+      "time": 1748275942.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44098772"
+    },
+    {
+      "title": "Scheming a mise-en-abîme in BQN",
+      "score": 19,
+      "url": "https://panadestein.github.io/blog/posts/si.html#fnr.2",
+      "time": 1748274810.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44098579"
+    },
+    {
+      "title": "The double standard of webhook security and API security",
+      "score": 84,
+      "url": "https://www.speakeasy.com/blog/webhook-security",
+      "time": 1748258339.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44096251"
+    },
+    {
+      "title": "Data breach exposes 184M passwords for Google,Microsoft,Facebook",
+      "score": 40,
+      "url": "https://www.zdnet.com/article/massive-data-breach-exposes-184-million-passwords-for-google-microsoft-facebook-and-more/",
+      "time": 1748277434.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44099008"
+    },
+    {
+      "title": "Mathpad: A mathematical keypad for students and professionals",
+      "score": 28,
+      "url": "https://github.com/Summa-Cogni/Mathpad",
+      "time": 1748168675.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44086830"
+    },
+    {
+      "title": "Sims, BattleBots, Cellular Automata God and Go (2001)",
+      "score": 3,
+      "url": "https://www.gamestudies.org/0102/pearce/",
+      "time": 1748049715.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44078080"
     },
     {
       "title": "Show HN: A minimalist web timer for focus and time tracking",
-      "score": 53,
+      "score": 69,
       "url": "https://iamlockedin.com/",
       "time": 1748247380.0,
       "comments_url": "https://news.ycombinator.com/item?id=44095176"
-    },
-    {
-      "title": "Jjui – A Nice TUI for Jujutsu",
-      "score": 155,
-      "url": "https://github.com/idursun/jjui",
-      "time": 1748225780.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44093334"
-    },
-    {
-      "title": "Big banks explore venturing into crypto world together with joint stablecoin",
-      "score": 38,
-      "url": "https://www.wsj.com/finance/banking/crypto-stablecoin-big-banks-a841059e",
-      "time": 1748021661.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44074775"
-    },
-    {
-      "title": "Ten years of JSON Web Token and preparing for the future",
-      "score": 217,
-      "url": "https://self-issued.info/?p=2708",
-      "time": 1748214336.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44092102"
-    },
-    {
-      "title": "Open Source Society University – Path to a free self-taught education in CS",
-      "score": 442,
-      "url": "https://github.com/ossu/computer-science",
-      "time": 1748192815.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44089150"
-    },
-    {
-      "title": "Violating memory safety with Haskell's value restriction",
-      "score": 46,
-      "url": "https://welltypedwit.ch/posts/value-restriction",
-      "time": 1747924923.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44062576"
-    },
-    {
-      "title": "Bagel: Open-source unified multimodal model",
-      "score": 166,
-      "url": "https://bagel-ai.org/",
-      "time": 1748238715.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44094362"
     },
     {
       "title": "Venta AI (YC S23) Is Hiring a Founding Full Stack Engineer in Amsterdam",
@@ -91,55 +140,6 @@
       "url": "https://www.ycombinator.com/companies/venta-ai/jobs/K8m4p6z-founding-full-stack-engineer",
       "time": 1748251911.0,
       "comments_url": "https://news.ycombinator.com/item?id=44095608"
-    },
-    {
-      "title": "Sleep apnea pill shows striking success in large clinical trial",
-      "score": 59,
-      "url": "https://www.science.org/content/article/sleep-apnea-pill-shows-striking-success-large-clinical-trial",
-      "time": 1748254549.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44095866"
-    },
-    {
-      "title": "Ask HN: What are you working on? (May 2025)",
-      "score": 266,
-      "url": "https://news.ycombinator.com/item?id=44090387",
-      "time": 1748201818.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44090387"
-    },
-    {
-      "title": "Remote Prompt Injection in Gitlab Duo Leads to Source Code Theft",
-      "score": 164,
-      "url": "https://www.legitsecurity.com/blog/remote-prompt-injection-in-gitlab-duo",
-      "time": 1747984353.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44070626"
-    },
-    {
-      "title": "Data center projects blocked or delayed amid local opposition",
-      "score": 13,
-      "url": "https://www.datacenterwatch.org/report",
-      "time": 1748266847.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44097350"
-    },
-    {
-      "title": "GitHub issues is almost the best notebook in the world",
-      "score": 166,
-      "url": "https://simonwillison.net/2025/May/26/notes/",
-      "time": 1748245284.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44094980"
-    },
-    {
-      "title": "Plwm – An X11 window manager written in Prolog",
-      "score": 209,
-      "url": "https://github.com/Seeker04/plwm",
-      "time": 1748194871.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44089424"
-    },
-    {
-      "title": "How Does Claude 4 Think? – Sholto Douglas and Trenton Bricken",
-      "score": 63,
-      "url": "https://www.dwarkesh.com/p/sholto-trenton-2",
-      "time": 1747980492.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44070324"
     }
   ]
 }
