@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-05-26T20:56:54.940089-04:00",
+  "last_updated": "2025-05-26T23:37:46.863263-04:00",
   "stories": [
     {
+      "title": "15 years after servers shut down, FromSoft's mech game Chromehounds back online",
+      "score": 76,
+      "url": "https://www.readonlymemo.com/interview-15-years-after-the-servers-shut-down-fromsofts-singular-mech-game-chromehounds-is-back-online/",
+      "time": 1748307163.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44102988"
+    },
+    {
       "title": "CSS Minecraft",
-      "score": 336,
+      "score": 462,
       "url": "https://benjaminaster.com/css-minecraft/",
       "time": 1748284123.0,
       "comments_url": "https://news.ycombinator.com/item?id=44100148"
     },
     {
+      "title": "Accessing private GitHub repositories via MCP",
+      "score": 78,
+      "url": "https://invariantlabs.ai/blog/mcp-github-vulnerability",
+      "time": 1748300031.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44102376"
+    },
+    {
       "title": "Lossless video compression using Bloom filters",
-      "score": 172,
+      "score": 202,
       "url": "https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md",
       "time": 1748284322.0,
       "comments_url": "https://news.ycombinator.com/item?id=44100179"
     },
     {
       "title": "Power Failure",
-      "score": 43,
+      "score": 70,
       "url": "https://www.gwintrob.com/power-failure-review/",
       "time": 1748296441.0,
       "comments_url": "https://news.ycombinator.com/item?id=44102034"
     },
     {
-      "title": "GitHub MCP Exploited: Accessing Private Repositories via MCP",
-      "score": 22,
-      "url": "https://invariantlabs.ai/blog/mcp-github-vulnerability",
-      "time": 1748300031.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44102376"
+      "title": "Ask HN: What projects do you donate to?",
+      "score": 31,
+      "url": "https://news.ycombinator.com/item?id=44071321",
+      "time": 1747992826.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44071321"
+    },
+    {
+      "title": "Yes-rs: A fast, memory-safe rewrite of the classic Unix yes command",
+      "score": 17,
+      "url": "https://github.com/jedisct1/yes-rs",
+      "time": 1748308829.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44103116"
+    },
+    {
+      "title": "Trying to teach in the age of the AI homework machine",
+      "score": 133,
+      "url": "https://www.solarshades.club/p/dispatch-from-the-trenches-of-the",
+      "time": 1748287219.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44100677"
     },
     {
       "title": "Get PC BIOS back on UEFI only system",
-      "score": 52,
+      "score": 74,
       "url": "https://github.com/FlyGoat/csmwrap",
       "time": 1748294709.0,
       "comments_url": "https://news.ycombinator.com/item?id=44101828"
     },
     {
       "title": "A new class of materials that can passively harvest water from air",
-      "score": 308,
+      "score": 325,
       "url": "https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/",
       "time": 1748265269.0,
       "comments_url": "https://news.ycombinator.com/item?id=44097144"
     },
     {
-      "title": "Show HN: PgDog – Shard Postgres without extensions",
-      "score": 168,
-      "url": "https://github.com/pgdogdev/pgdog",
-      "time": 1748278549.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44099187"
-    },
-    {
-      "title": "Trying to teach in the age of the AI homework machine",
-      "score": 77,
-      "url": "https://www.solarshades.club/p/dispatch-from-the-trenches-of-the",
-      "time": 1748287219.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44100677"
-    },
-    {
-      "title": "Iron Spring PL/I Compiler",
-      "score": 34,
-      "url": "http://www.iron-spring.com/",
-      "time": 1748294358.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44101787"
-    },
-    {
-      "title": "Owls in Towels",
-      "score": 248,
-      "url": "https://owlsintowels.org/",
-      "time": 1748291279.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44101349"
-    },
-    {
-      "title": "The Difference Between Downloading and Streaming",
-      "score": 71,
-      "url": "https://danq.me/2025/05/26/downloading-vs-streaming/",
-      "time": 1748289362.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44101072"
-    },
-    {
-      "title": "TSMC bets on unorthodox optical tech",
-      "score": 111,
-      "url": "https://spectrum.ieee.org/microled-optical-chiplet",
-      "time": 1748279719.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44099407"
-    },
-    {
       "title": "Highlights from the Claude 4 system prompt",
-      "score": 42,
+      "score": 67,
       "url": "https://simonwillison.net/2025/May/25/claude-4-system-prompt/",
       "time": 1748294756.0,
       "comments_url": "https://news.ycombinator.com/item?id=44101833"
     },
     {
-      "title": "Changelog: Lazy trees (faster Nix builds)",
-      "score": 41,
-      "url": "https://determinate.systems/posts/changelog-determinate-nix-352/",
-      "time": 1748168070.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44086803"
+      "title": "Show HN: I made a running app that turns your runs to a virtual garden",
+      "score": 5,
+      "url": "https://www.runandgrow.com/",
+      "time": 1748312738.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44103416"
     },
     {
-      "title": "Access Control Syntax",
-      "score": 21,
-      "url": "https://journal.stuffwithstuff.com/2025/05/26/access-control-syntax/",
-      "time": 1748293651.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44101691"
+      "title": "Show HN: PgDog – Shard Postgres without extensions",
+      "score": 185,
+      "url": "https://github.com/pgdogdev/pgdog",
+      "time": 1748278549.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44099187"
     },
     {
-      "title": "Improving performance of original dav1d video decoder",
-      "score": 24,
-      "url": "https://code.videolan.org/videolan/dav1d/-/merge_requests/1788",
-      "time": 1748129096.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44084383"
+      "title": "TSMC bets on unorthodox optical tech",
+      "score": 134,
+      "url": "https://spectrum.ieee.org/microled-optical-chiplet",
+      "time": 1748279719.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44099407"
     },
     {
-      "title": "New DSL \"MassQL\" lets scientists query mass spectrometry data",
-      "score": 6,
-      "url": "https://news.ucr.edu/articles/2025/05/12/new-computer-language-helps-spot-hidden-pollutants",
-      "time": 1747963695.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44068945"
+      "title": "SVG Favicons in Action",
+      "score": 32,
+      "url": "https://css-tricks.com/svg-favicons-in-action/",
+      "time": 1748114652.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44083235"
     },
     {
-      "title": "WavePhoenix – open-source implementation of the Nintendo WaveBird protocol",
-      "score": 90,
-      "url": "https://github.com/loopj/wavephoenix",
-      "time": 1748273832.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44098442"
+      "title": "Owls in Towels",
+      "score": 344,
+      "url": "https://owlsintowels.org/",
+      "time": 1748291279.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44101349"
     },
     {
-      "title": "TIL: timeout in Bash scripts",
-      "score": 224,
-      "url": "https://heitorpb.github.io/bla/timeout/",
-      "time": 1748259268.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44096395"
+      "title": "Calendars, Contacts and Files in Stalwart",
+      "score": 15,
+      "url": "https://stalw.art/blog/collaboration/",
+      "time": 1748308264.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44103071"
     },
     {
-      "title": "Launch HN: Nomi (YC X25) – Copilot for Sales",
-      "score": 62,
-      "url": "https://news.ycombinator.com/item?id=44098706",
-      "time": 1748275521.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44098706"
+      "title": "The Difference Between Downloading and Streaming",
+      "score": 83,
+      "url": "https://danq.me/2025/05/26/downloading-vs-streaming/",
+      "time": 1748289362.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44101072"
+    },
+    {
+      "title": "Forester, a tool for scientific and mathematical hypertexts",
+      "score": 7,
+      "url": "https://www.forester-notes.org/index/index.xml",
+      "time": 1748307657.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44103027"
+    },
+    {
+      "title": "Iron Spring PL/I Compiler",
+      "score": 36,
+      "url": "http://www.iron-spring.com/",
+      "time": 1748294358.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44101787"
     }
   ]
 }
