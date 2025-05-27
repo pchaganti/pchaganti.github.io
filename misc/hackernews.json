@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-05-27T11:12:49.745664-04:00",
+  "last_updated": "2025-05-27T14:15:08.602493-04:00",
   "stories": [
     {
-      "title": "LumoSQL",
-      "score": 147,
-      "url": "https://lumosql.org/src/lumosql/doc/trunk/README.md",
-      "time": 1748342370.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44105619"
+      "title": "Square Theory",
+      "score": 161,
+      "url": "https://aaronson.org/blog/square-theory",
+      "time": 1748360035.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44107942"
+    },
+    {
+      "title": "Pyrefly vs. Ty: Comparing Python's Two New Rust-Based Type Checkers",
+      "score": 94,
+      "url": "https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/",
+      "time": 1748358115.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44107655"
+    },
+    {
+      "title": "Launch HN: Relace (YC W23) – Models for fast and reliable codegen",
+      "score": 39,
+      "url": "https://news.ycombinator.com/item?id=44108206",
+      "time": 1748361560.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44108206"
     },
     {
       "title": "How a hawk learned to use traffic signals to hunt more successfully",
-      "score": 125,
+      "score": 225,
       "url": "https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting",
       "time": 1748346390.0,
       "comments_url": "https://news.ycombinator.com/item?id=44105965"
     },
     {
-      "title": "The Art of Fugue – Contrapunctus I (2021)",
-      "score": 35,
-      "url": "https://www.ethanhein.com/wp/2021/the-art-of-fugue-contrapunctus-i/",
-      "time": 1748352345.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44106764"
-    },
-    {
-      "title": "Why Cline Doesn't Index Your Codebase (and Why That's a Good Thing)",
-      "score": 36,
-      "url": "https://cline.bot/blog/why-cline-doesnt-index-your-codebase-and-why-thats-a-good-thing",
-      "time": 1748353461.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44106944"
-    },
-    {
-      "title": "DuckLake is an integrated data lake and catalog format",
-      "score": 70,
-      "url": "https://ducklake.select/",
-      "time": 1748353391.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44106934"
+      "title": "LumoSQL",
+      "score": 175,
+      "url": "https://lumosql.org/src/lumosql/doc/trunk/README.md",
+      "time": 1748342370.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44105619"
     },
     {
       "title": "BGP handling bug causes widespread internet routing instability",
-      "score": 119,
+      "score": 180,
       "url": "https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident",
       "time": 1748344515.0,
       "comments_url": "https://news.ycombinator.com/item?id=44105796"
     },
     {
-      "title": "CSS Minecraft",
-      "score": 975,
-      "url": "https://benjaminaster.com/css-minecraft/",
-      "time": 1748284123.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44100148"
+      "title": "Roundtable (YC S23) Is Hiring a Member of Technical Staff",
+      "score": 1,
+      "url": "https://www.ycombinator.com/companies/roundtable/jobs/ZTZHEbb-member-of-technical-staff",
+      "time": 1748367735.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44109090"
     },
     {
-      "title": "GitHub MCP exploited: Accessing private repositories via MCP",
-      "score": 320,
-      "url": "https://invariantlabs.ai/blog/mcp-github-vulnerability",
-      "time": 1748267185.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44097390"
+      "title": "Why Cline Doesn't Index Your Codebase (and Why That's a Good Thing)",
+      "score": 95,
+      "url": "https://cline.bot/blog/why-cline-doesnt-index-your-codebase-and-why-thats-a-good-thing",
+      "time": 1748353461.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44106944"
     },
     {
       "title": "Show HN: Malai – securely share local TCP services (database/SSH) with others",
-      "score": 7,
+      "score": 51,
       "url": "https://malai.sh/hello-tcp/",
       "time": 1748356480.0,
       "comments_url": "https://news.ycombinator.com/item?id=44107393"
     },
     {
-      "title": "The Myth of Developer Obsolescence",
-      "score": 163,
-      "url": "https://alonso.network/the-recurring-cycle-of-developer-replacement-hype/",
-      "time": 1748342036.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44105592"
+      "title": "In defense of shallow technical knowledge",
+      "score": 16,
+      "url": "https://www.seangoedecke.com/shallow-technical-knowledge/",
+      "time": 1748174346.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44087195"
     },
     {
-      "title": "Revisiting the Algorithm That Changed Horse Race Betting (2023)",
-      "score": 58,
-      "url": "https://actamachina.com/posts/annotated-benter-paper",
-      "time": 1748340180.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44105470"
-    },
-    {
-      "title": "Show HN: Lazy Tetris",
-      "score": 192,
-      "url": "https://lazytetris.com/",
-      "time": 1748318287.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44103839"
+      "title": "The Art of Fugue – Contrapunctus I (2021)",
+      "score": 61,
+      "url": "https://www.ethanhein.com/wp/2021/the-art-of-fugue-contrapunctus-i/",
+      "time": 1748352345.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44106764"
     },
     {
       "title": "Outcome-Based Reinforcement Learning to Predict the Future",
-      "score": 5,
+      "score": 45,
       "url": "https://arxiv.org/abs/2505.17989",
       "time": 1748352818.0,
       "comments_url": "https://news.ycombinator.com/item?id=44106842"
     },
     {
-      "title": "Worlds first petahertz transistor at ambient conditions",
-      "score": 47,
-      "url": "https://news.arizona.edu/news/u-researchers-developing-worlds-first-petahertz-speed-phototransistor-ambient-conditions",
-      "time": 1748117179.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44083474"
+      "title": "CSS Minecraft",
+      "score": 1031,
+      "url": "https://benjaminaster.com/css-minecraft/",
+      "time": 1748284123.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44100148"
     },
     {
-      "title": "Clojure MCP",
-      "score": 161,
-      "url": "https://github.com/bhauman/clojure-mcp",
-      "time": 1748155719.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44086062"
+      "title": "DuckLake is an integrated data lake and catalog format",
+      "score": 135,
+      "url": "https://ducklake.select/",
+      "time": 1748353391.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44106934"
+    },
+    {
+      "title": "US pauses new student visa interviews as it mulls expanding social media vetting",
+      "score": 19,
+      "url": "https://www.politico.com/news/2025/05/27/trump-team-orders-stop-to-new-student-visa-interviews-as-it-weighs-expanding-social-media-vetting-00370501",
+      "time": 1748368934.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44109253"
+    },
+    {
+      "title": "GitHub MCP exploited: Accessing private repositories via MCP",
+      "score": 368,
+      "url": "https://invariantlabs.ai/blog/mcp-github-vulnerability",
+      "time": 1748267185.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44097390"
+    },
+    {
+      "title": "The Hobby Computer Culture",
+      "score": 40,
+      "url": "https://technicshistory.com/2025/05/24/the-hobby-computer-culture/",
+      "time": 1748097227.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44081395"
     },
     {
       "title": "Just make it scale: An Aurora DSQL story",
-      "score": 30,
+      "score": 60,
       "url": "https://www.allthingsdistributed.com/2025/05/just-make-it-scale-an-aurora-dsql-story.html",
       "time": 1748345462.0,
       "comments_url": "https://news.ycombinator.com/item?id=44105878"
     },
     {
-      "title": "Trying to teach in the age of the AI homework machine",
-      "score": 320,
-      "url": "https://www.solarshades.club/p/dispatch-from-the-trenches-of-the",
-      "time": 1748287219.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44100677"
+      "title": "Worlds first petahertz transistor at ambient conditions",
+      "score": 71,
+      "url": "https://news.arizona.edu/news/u-researchers-developing-worlds-first-petahertz-speed-phototransistor-ambient-conditions",
+      "time": 1748117179.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44083474"
     },
     {
-      "title": "Lossless video compression using Bloom filters",
-      "score": 300,
-      "url": "https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md",
-      "time": 1748284322.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44100179"
-    },
-    {
-      "title": "Diligent (YC S23) Is Hiring a Founding AI Engineer",
-      "score": 1,
-      "url": "https://www.ycombinator.com/companies/diligent/jobs/LAdzmYb-founding-ai-engineer",
-      "time": 1748329241.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44104573"
-    },
-    {
-      "title": "Highlights from the Claude 4 system prompt",
-      "score": 213,
-      "url": "https://simonwillison.net/2025/May/25/claude-4-system-prompt/",
-      "time": 1748294756.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44101833"
+      "title": "Revisiting the Algorithm That Changed Horse Race Betting (2023)",
+      "score": 80,
+      "url": "https://actamachina.com/posts/annotated-benter-paper",
+      "time": 1748340180.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44105470"
     }
   ]
 }
