@@ -1,96 +1,131 @@
 {
-  "last_updated": "2025-05-27T08:23:18.308739-04:00",
+  "last_updated": "2025-05-27T11:12:49.745664-04:00",
   "stories": [
     {
       "title": "LumoSQL",
-      "score": 68,
+      "score": 147,
       "url": "https://lumosql.org/src/lumosql/doc/trunk/README.md",
       "time": 1748342370.0,
       "comments_url": "https://news.ycombinator.com/item?id=44105619"
     },
     {
       "title": "How a hawk learned to use traffic signals to hunt more successfully",
-      "score": 22,
+      "score": 125,
       "url": "https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting",
       "time": 1748346390.0,
       "comments_url": "https://news.ycombinator.com/item?id=44105965"
     },
     {
-      "title": "CSS Minecraft",
-      "score": 910,
-      "url": "https://benjaminaster.com/css-minecraft/",
-      "time": 1748284123.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44100148"
+      "title": "The Art of Fugue – Contrapunctus I (2021)",
+      "score": 35,
+      "url": "https://www.ethanhein.com/wp/2021/the-art-of-fugue-contrapunctus-i/",
+      "time": 1748352345.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44106764"
     },
     {
-      "title": "The Myth of Developer Obsolescence",
-      "score": 76,
-      "url": "https://alonso.network/the-recurring-cycle-of-developer-replacement-hype/",
-      "time": 1748342036.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44105592"
+      "title": "Why Cline Doesn't Index Your Codebase (and Why That's a Good Thing)",
+      "score": 36,
+      "url": "https://cline.bot/blog/why-cline-doesnt-index-your-codebase-and-why-thats-a-good-thing",
+      "time": 1748353461.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44106944"
+    },
+    {
+      "title": "DuckLake is an integrated data lake and catalog format",
+      "score": 70,
+      "url": "https://ducklake.select/",
+      "time": 1748353391.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44106934"
     },
     {
       "title": "BGP handling bug causes widespread internet routing instability",
-      "score": 11,
+      "score": 119,
       "url": "https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident",
       "time": 1748344515.0,
       "comments_url": "https://news.ycombinator.com/item?id=44105796"
     },
     {
+      "title": "CSS Minecraft",
+      "score": 975,
+      "url": "https://benjaminaster.com/css-minecraft/",
+      "time": 1748284123.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44100148"
+    },
+    {
       "title": "GitHub MCP exploited: Accessing private repositories via MCP",
-      "score": 241,
+      "score": 320,
       "url": "https://invariantlabs.ai/blog/mcp-github-vulnerability",
       "time": 1748267185.0,
       "comments_url": "https://news.ycombinator.com/item?id=44097390"
     },
     {
+      "title": "Show HN: Malai – securely share local TCP services (database/SSH) with others",
+      "score": 7,
+      "url": "https://malai.sh/hello-tcp/",
+      "time": 1748356480.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44107393"
+    },
+    {
+      "title": "The Myth of Developer Obsolescence",
+      "score": 163,
+      "url": "https://alonso.network/the-recurring-cycle-of-developer-replacement-hype/",
+      "time": 1748342036.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44105592"
+    },
+    {
+      "title": "Revisiting the Algorithm That Changed Horse Race Betting (2023)",
+      "score": 58,
+      "url": "https://actamachina.com/posts/annotated-benter-paper",
+      "time": 1748340180.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44105470"
+    },
+    {
       "title": "Show HN: Lazy Tetris",
-      "score": 139,
+      "score": 192,
       "url": "https://lazytetris.com/",
       "time": 1748318287.0,
       "comments_url": "https://news.ycombinator.com/item?id=44103839"
     },
     {
+      "title": "Outcome-Based Reinforcement Learning to Predict the Future",
+      "score": 5,
+      "url": "https://arxiv.org/abs/2505.17989",
+      "time": 1748352818.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44106842"
+    },
+    {
       "title": "Worlds first petahertz transistor at ambient conditions",
-      "score": 16,
+      "score": 47,
       "url": "https://news.arizona.edu/news/u-researchers-developing-worlds-first-petahertz-speed-phototransistor-ambient-conditions",
       "time": 1748117179.0,
       "comments_url": "https://news.ycombinator.com/item?id=44083474"
     },
     {
       "title": "Clojure MCP",
-      "score": 121,
+      "score": 161,
       "url": "https://github.com/bhauman/clojure-mcp",
       "time": 1748155719.0,
       "comments_url": "https://news.ycombinator.com/item?id=44086062"
     },
     {
-      "title": "OpenPOWER Foundation – Open-Source / Open Hardware PowerPC CPU ISA",
-      "score": 26,
-      "url": "https://openpowerfoundation.org/",
-      "time": 1748180004.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44087707"
-    },
-    {
-      "title": "Ask HN: What projects do you donate to?",
-      "score": 190,
-      "url": "https://news.ycombinator.com/item?id=44071321",
-      "time": 1747992826.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44071321"
-    },
-    {
-      "title": "Lossless video compression using Bloom filters",
-      "score": 276,
-      "url": "https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md",
-      "time": 1748284322.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44100179"
+      "title": "Just make it scale: An Aurora DSQL story",
+      "score": 30,
+      "url": "https://www.allthingsdistributed.com/2025/05/just-make-it-scale-an-aurora-dsql-story.html",
+      "time": 1748345462.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44105878"
     },
     {
       "title": "Trying to teach in the age of the AI homework machine",
-      "score": 265,
+      "score": 320,
       "url": "https://www.solarshades.club/p/dispatch-from-the-trenches-of-the",
       "time": 1748287219.0,
       "comments_url": "https://news.ycombinator.com/item?id=44100677"
+    },
+    {
+      "title": "Lossless video compression using Bloom filters",
+      "score": 300,
+      "url": "https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md",
+      "time": 1748284322.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44100179"
     },
     {
       "title": "Diligent (YC S23) Is Hiring a Founding AI Engineer",
@@ -100,46 +135,11 @@
       "comments_url": "https://news.ycombinator.com/item?id=44104573"
     },
     {
-      "title": "Canon Law Ninja",
-      "score": 4,
-      "url": "https://canonlaw.ninja/",
-      "time": 1748343354.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44105696"
-    },
-    {
-      "title": "Power Failure: The downfall of General Electric",
-      "score": 158,
-      "url": "https://www.gwintrob.com/power-failure-review/",
-      "time": 1748296441.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44102034"
-    },
-    {
       "title": "Highlights from the Claude 4 system prompt",
-      "score": 169,
+      "score": 213,
       "url": "https://simonwillison.net/2025/May/25/claude-4-system-prompt/",
       "time": 1748294756.0,
       "comments_url": "https://news.ycombinator.com/item?id=44101833"
-    },
-    {
-      "title": "Show HN: PgDog – Shard Postgres without extensions",
-      "score": 246,
-      "url": "https://github.com/pgdogdev/pgdog",
-      "time": 1748278549.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44099187"
-    },
-    {
-      "title": "Cows get GPS collars to stop them falling in river",
-      "score": 42,
-      "url": "https://www.bbc.co.uk/news/articles/cj4229k744lo",
-      "time": 1748076061.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44079729"
-    },
-    {
-      "title": "A new class of materials that can passively harvest water from air",
-      "score": 371,
-      "url": "https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/",
-      "time": 1748265269.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44097144"
     }
   ]
 }
