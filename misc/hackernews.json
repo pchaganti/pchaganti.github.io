@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-05-27T20:58:19.229530-04:00",
+  "last_updated": "2025-05-27T23:38:59.716665-04:00",
   "stories": [
     {
+      "title": "Theory of Stupidity [pdf]",
+      "score": 26,
+      "url": "https://www.onthewing.org/user/Bonhoeffer%20-%20Theory%20of%20Stupidity.pdf",
+      "time": 1748399128.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44112265"
+    },
+    {
+      "title": "Show HN: AutoThink – Boosts local LLM performance by 43% with adaptive reasoning",
+      "score": 31,
+      "url": "https://news.ycombinator.com/item?id=44112326",
+      "time": 1748399951.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44112326"
+    },
+    {
       "title": "Show HN: My LLM CLI tool can run tools now, from Python code or plugins",
-      "score": 170,
+      "score": 239,
       "url": "https://simonwillison.net/2025/May/27/llm-tools/",
       "time": 1748379183.0,
       "comments_url": "https://news.ycombinator.com/item?id=44110584"
     },
     {
-      "title": "Look Ma, No Bubbles Designing a Low-Latency Megakernel for Llama-1B",
-      "score": 15,
-      "url": "https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles",
-      "time": 1748390480.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44111673"
-    },
-    {
-      "title": "Square Theory",
-      "score": 426,
-      "url": "https://aaronson.org/blog/square-theory",
-      "time": 1748360035.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44107942"
-    },
-    {
       "title": "A UEFI app that sends LLDP-MED pkt at boot to negotiate PoE+ power before the OS",
-      "score": 11,
+      "score": 74,
       "url": "https://roderickkhan.com/posts/2025-05-16-poe-uefi-solution",
       "time": 1748389502.0,
       "comments_url": "https://news.ycombinator.com/item?id=44111609"
     },
     {
-      "title": "OpenTPU: Open-Source Reimplementation of Google Tensor Processing Unit (TPU)",
-      "score": 19,
-      "url": "https://github.com/UCSBarchlab/OpenTPU",
-      "time": 1748387444.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44111452"
+      "title": "Square Theory",
+      "score": 475,
+      "url": "https://aaronson.org/blog/square-theory",
+      "time": 1748360035.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44107942"
+    },
+    {
+      "title": "Look ma, no bubbles designing a low-latency megakernel for Llama-1B",
+      "score": 77,
+      "url": "https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles",
+      "time": 1748390480.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44111673"
+    },
+    {
+      "title": "Using Postgres pg_test_fsync tool for testing low latency writes",
+      "score": 10,
+      "url": "https://tanelpoder.com/posts/using-pg-test-fsync-for-testing-low-latency-writes/",
+      "time": 1748398515.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44112218"
     },
     {
       "title": "The Level Design Book",
-      "score": 33,
+      "score": 71,
       "url": "https://book.leveldesignbook.com",
       "time": 1748171006.0,
       "comments_url": "https://news.ycombinator.com/item?id=44086973"
     },
     {
-      "title": "Mustard Watches (1990)",
-      "score": 30,
-      "url": "https://girard.perso.math.cnrs.fr/mustard/article.html",
-      "time": 1748382534.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44110931"
+      "title": "OpenTPU: Open-Source Reimplementation of Google Tensor Processing Unit (TPU)",
+      "score": 46,
+      "url": "https://github.com/UCSBarchlab/OpenTPU",
+      "time": 1748387444.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44111452"
     },
     {
       "title": "Pyrefly vs. Ty: Comparing Python's two new Rust-based type checkers",
-      "score": 246,
+      "score": 265,
       "url": "https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/",
       "time": 1748358115.0,
       "comments_url": "https://news.ycombinator.com/item?id=44107655"
     },
     {
       "title": "How a hawk learned to use traffic signals to hunt more successfully",
-      "score": 326,
+      "score": 350,
       "url": "https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting",
       "time": 1748346390.0,
       "comments_url": "https://news.ycombinator.com/item?id=44105965"
     },
     {
+      "title": "A privilege escalation from Chrome extensions (2023)",
+      "score": 17,
+      "url": "https://0x44.xyz/blog/cve-2023-4369/",
+      "time": 1748393325.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44111898"
+    },
+    {
+      "title": "Mustard Watches (1990)",
+      "score": 42,
+      "url": "https://girard.perso.math.cnrs.fr/mustard/article.html",
+      "time": 1748382534.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44110931"
+    },
+    {
+      "title": "There Is No Diffie-Hellman but Elliptic Curve Diffie-Hellman",
+      "score": 45,
+      "url": "https://keymaterial.net/2025/05/23/there-is-no-diffie-hellman-but-elliptic-curve-diffie-hellman/",
+      "time": 1748119991.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44083753"
+    },
+    {
       "title": "Running GPT-2 in WebGL: Rediscovering the Lost Art of GPU Shader Programming",
-      "score": 92,
+      "score": 108,
       "url": "https://nathan.rs/posts/gpu-shader-programming/",
       "time": 1748368971.0,
       "comments_url": "https://news.ycombinator.com/item?id=44109257"
     },
     {
       "title": "Space Selfie",
-      "score": 71,
+      "score": 97,
       "url": "https://space.crunchlabs.com/",
       "time": 1748136988.0,
       "comments_url": "https://news.ycombinator.com/item?id=44084892"
     },
     {
-      "title": "There Is No Diffie-Hellman but Elliptic Curve Diffie-Hellman",
-      "score": 29,
-      "url": "https://keymaterial.net/2025/05/23/there-is-no-diffie-hellman-but-elliptic-curve-diffie-hellman/",
-      "time": 1748119991.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44083753"
+      "title": "Nanoparticle-cell link enables EM wireless programming of transgene expression",
+      "score": 12,
+      "url": "https://phys.org/news/2025-05-nanoparticle-cell-interface-enables-electromagnetic.html",
+      "time": 1748224338.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44093193"
+    },
+    {
+      "title": "The Ingredients of a Productive Monorepo",
+      "score": 3,
+      "url": "https://blog.swgillespie.me/posts/monorepo-ingredients/",
+      "time": 1748170171.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44086917"
     },
     {
       "title": "Launch HN: Relace (YC W23) – Models for fast and reliable codegen",
-      "score": 71,
+      "score": 77,
       "url": "https://news.ycombinator.com/item?id=44108206",
       "time": 1748361560.0,
       "comments_url": "https://news.ycombinator.com/item?id=44108206"
     },
     {
-      "title": "BGP handling bug causes widespread internet routing instability",
-      "score": 245,
-      "url": "https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident",
-      "time": 1748344515.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44105796"
-    },
-    {
-      "title": "LumoSQL",
-      "score": 207,
-      "url": "https://lumosql.org/src/lumosql/doc/trunk/README.md",
-      "time": 1748342370.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44105619"
-    },
-    {
-      "title": "I salvaged $6k of luxury items discarded by Duke students",
-      "score": 205,
-      "url": "https://indyweek.com/culture/duke-students-dumpster-diving/",
-      "time": 1748361563.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44108207"
-    },
-    {
-      "title": "Semicolons bring the drama; that's why I love them",
-      "score": 35,
-      "url": "https://www.ft.com/content/80c39c74-8753-44bf-aeb0-cf6701a64f02",
-      "time": 1748097131.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44081383"
-    },
-    {
-      "title": "Why the Original Macintosh Had a Screen Resolution of 512×324",
-      "score": 110,
+      "title": "Why the original Macintosh had a screen resolution of 512×324",
+      "score": 130,
       "url": "https://512pixels.net/2025/05/original-macintosh-resolution/",
       "time": 1748376170.0,
       "comments_url": "https://news.ycombinator.com/item?id=44110219"
-    },
-    {
-      "title": "Show HN: Lazy Tetris",
-      "score": 297,
-      "url": "https://lazytetris.com/",
-      "time": 1748318287.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44103839"
-    },
-    {
-      "title": "Roundtable (YC S23) Is Hiring a Member of Technical Staff",
-      "score": 1,
-      "url": "https://www.ycombinator.com/companies/roundtable/jobs/ZTZHEbb-member-of-technical-staff",
-      "time": 1748367735.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44109090"
     }
   ]
 }
