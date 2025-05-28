@@ -1,54 +1,96 @@
 {
-  "last_updated": "2025-05-28T14:15:10.779480-04:00",
+  "last_updated": "2025-05-28T17:11:06.696169-04:00",
   "stories": [
     {
       "title": "Show HN: I rewrote my Mac Electron app in Rust",
-      "score": 106,
+      "score": 286,
       "url": "https://desktopdocs.com/?v=2025",
       "time": 1748451191.0,
       "comments_url": "https://news.ycombinator.com/item?id=44118023"
     },
     {
+      "title": "A toy RTOS inside Super Mario Bros. using emulator save states",
+      "score": 19,
+      "url": "https://prettygoodblog.com/p/what-threads-are-part-2",
+      "time": 1748463343.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44120241"
+    },
+    {
       "title": "Compiler Explorer and the promise of URLs that last forever",
-      "score": 77,
+      "score": 157,
       "url": "https://xania.org/202505/compiler-explorer-urls-forever",
       "time": 1748449700.0,
       "comments_url": "https://news.ycombinator.com/item?id=44117722"
     },
     {
       "title": "Compiling a Neural Net to C for a 1,744× speedup",
-      "score": 37,
+      "score": 123,
       "url": "https://slightknack.dev/blog/difflogic/",
       "time": 1748452967.0,
       "comments_url": "https://news.ycombinator.com/item?id=44118373"
     },
     {
+      "title": "What does \"Undecidable\" mean, anyway",
+      "score": 28,
+      "url": "https://buttondown.com/hillelwayne/archive/what-does-undecidable-mean-anyway/",
+      "time": 1748461067.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44119890"
+    },
+    {
+      "title": "Ice Cream Replaced Booze in the US Navy",
+      "score": 44,
+      "url": "https://www.oldsaltblog.com/2025/05/how-ice-cream-replaced-booze-in-the-us-navy-2/",
+      "time": 1748457328.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44119173"
+    },
+    {
+      "title": "Visualize and debug Rust programs with a new lens",
+      "score": 60,
+      "url": "https://firedbg.sea-ql.org/",
+      "time": 1748162026.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44086429"
+    },
+    {
+      "title": "Deepseek R1-0528",
+      "score": 171,
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-0528",
+      "time": 1748455142.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44118818"
+    },
+    {
       "title": "Show HN: Tesseral – Open-Source Auth",
-      "score": 72,
+      "score": 102,
       "url": "https://github.com/tesseral-labs/tesseral",
       "time": 1748446062.0,
       "comments_url": "https://news.ycombinator.com/item?id=44117059"
     },
     {
-      "title": "De-anonymization attacks against the privacy coin XMR",
-      "score": 104,
-      "url": "https://monero.forex/is-monero-totally-private-a-comprehensive-analysis-of-de-anonymization-attacks-against-the-privacy-coin/",
-      "time": 1748441507.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44116236"
+      "title": "LLM Codegen go Brrr – Parallelization with Git Worktrees and Tmux",
+      "score": 58,
+      "url": "https://www.skeptrune.com/posts/git-worktrees-agents-and-tmux/",
+      "time": 1748445218.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44116872"
     },
     {
-      "title": "The mysterious Gobi wall uncovered",
-      "score": 52,
-      "url": "https://phys.org/news/2025-05-secrets-mysterious-gobi-wall-uncovered.html",
-      "time": 1748444877.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44116803"
+      "title": "Collatz's Ant and Similarity of Landscapes",
+      "score": 8,
+      "url": "https://gbragafibra.github.io/2025/05/18/collatz_ant3.html",
+      "time": 1748166606.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44086721"
     },
     {
       "title": "The Blowtorch Theory: A new model for structure formation in the universe",
-      "score": 79,
+      "score": 103,
       "url": "https://theeggandtherock.com/p/the-blowtorch-theory-a-new-model",
       "time": 1748439818.0,
       "comments_url": "https://news.ycombinator.com/item?id=44115973"
+    },
+    {
+      "title": "Mathematical Fiction",
+      "score": 50,
+      "url": "https://kasmana.people.charleston.edu/MATHFICT/default.html",
+      "time": 1748176707.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44087390"
     },
     {
       "title": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
@@ -58,88 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=44118127"
     },
     {
-      "title": "Getting a Cease and Desist from Waffle House",
-      "score": 123,
-      "url": "https://www.jack.bio/blog/wafflehouse",
-      "time": 1748447317.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44117302"
-    },
-    {
-      "title": "Launch HN: MindFort (YC X25) – AI agents for continuous pentesting",
-      "score": 15,
-      "url": "https://news.ycombinator.com/item?id=44117465",
-      "time": 1748448044.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44117465"
-    },
-    {
-      "title": "Show HN: Loodio 2 – A Simple Rechargable Bathroom Privacy Device",
-      "score": 44,
-      "url": "https://loodio.com/",
-      "time": 1748441942.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44116298"
-    },
-    {
-      "title": "LLM Codegen go Brrr – Parallelization with Git Worktrees and Tmux",
-      "score": 19,
-      "url": "https://www.skeptrune.com/posts/git-worktrees-agents-and-tmux/",
-      "time": 1748445218.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44116872"
-    },
-    {
       "title": "As a developer, my most important tools are a pen and a notebook",
-      "score": 241,
+      "score": 308,
       "url": "https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook/",
       "time": 1748413631.0,
       "comments_url": "https://news.ycombinator.com/item?id=44113210"
     },
     {
+      "title": "Launch HN: MindFort (YC X25) – AI agents for continuous pentesting",
+      "score": 29,
+      "url": "https://news.ycombinator.com/item?id=44117465",
+      "time": 1748448044.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44117465"
+    },
+    {
+      "title": "Getting a Cease and Desist from Waffle House",
+      "score": 193,
+      "url": "https://www.jack.bio/blog/wafflehouse",
+      "time": 1748447317.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44117302"
+    },
+    {
+      "title": "What If We Had Bigger Brains? Imagining Minds Beyond Ours",
+      "score": 14,
+      "url": "https://writings.stephenwolfram.com/2025/05/what-if-we-had-bigger-brains-imagining-minds-beyond-ours/",
+      "time": 1748180816.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44087809"
+    },
+    {
+      "title": "The mysterious Gobi wall uncovered",
+      "score": 63,
+      "url": "https://phys.org/news/2025-05-secrets-mysterious-gobi-wall-uncovered.html",
+      "time": 1748444877.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44116803"
+    },
+    {
       "title": "xAI to pay telegram $300M to integrate Grok into the chat app",
-      "score": 134,
+      "score": 211,
       "url": "https://techcrunch.com/2025/05/28/xai-to-invest-300m-in-telegram-integrate-grok-into-app/",
       "time": 1748445176.0,
       "comments_url": "https://news.ycombinator.com/item?id=44116862"
-    },
-    {
-      "title": "Japan Post launches 'digital address' system",
-      "score": 34,
-      "url": "https://www.japantimes.co.jp/business/2025/05/27/companies/japan-post-digital-address/",
-      "time": 1748450029.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44117779"
-    },
-    {
-      "title": "Mathematical Fiction",
-      "score": 21,
-      "url": "https://kasmana.people.charleston.edu/MATHFICT/default.html",
-      "time": 1748176707.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44087390"
-    },
-    {
-      "title": "Deepseek R1-0528",
-      "score": 11,
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-0528",
-      "time": 1748455142.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44118818"
-    },
-    {
-      "title": "Show HN: Wetlands – a lightweight Python library for managing Conda environments",
-      "score": 16,
-      "url": "https://arthursw.github.io/wetlands/0.2.0/",
-      "time": 1748444044.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44116643"
-    },
-    {
-      "title": "Show HN: AutoThink – Boosts local LLM performance with adaptive reasoning",
-      "score": 362,
-      "url": "https://news.ycombinator.com/item?id=44112326",
-      "time": 1748399951.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44112326"
-    },
-    {
-      "title": "Show HN: My LLM CLI tool can run tools now, from Python code or plugins",
-      "score": 459,
-      "url": "https://simonwillison.net/2025/May/27/llm-tools/",
-      "time": 1748379183.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44110584"
     }
   ]
 }
