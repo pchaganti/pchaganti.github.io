@@ -36,6 +36,10 @@ document.addEventListener("DOMContentLoaded", function () {
       file: "archive/sc.html",
     },
     {
+      topic: "Tokyo to Kyoto",
+      file: "archive/kyoto.html",
+    },
+    {
       topic: "Wabi-Sabi: A Deep Exploration",
       file: "archive/wabisabi.html",
     },
