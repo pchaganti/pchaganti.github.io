@@ -24,6 +24,10 @@ document.addEventListener("DOMContentLoaded", function () {
       file: "archive/agents.html",
     },
     {
+      topic: "Karesansui, the whispering void",
+      file: "archive/karesansui.html",
+    },
+    {
       topic: "Pull-up Blueprint",
       file: "archive/pullups.html",
     },
