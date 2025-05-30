@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-29T17:11:23.367983-04:00",
+  "last_updated": "2025-05-29T20:57:41.538595-04:00",
   "papers": [
     {
       "title": "Zero-Shot Vision Encoder Grafting via LLM Surrogates",
@@ -106,7 +106,7 @@
     {
       "title": "Agent-UniRAG: A Trainable Open-Source LLM Agent Framework for Unified\n  Retrieval-Augmented Generation Systems",
       "summary": "This paper presents a novel approach for unified retrieval-augmented\ngeneration (RAG) systems using the recent emerging large language model (LLM)\nagent concept. Specifically, Agent LLM, which utilizes LLM as fundamental\ncontrollers, has become a promising approach to enable the interpretability of\nRAG tasks, especially for complex reasoning question-answering systems (e.g.,\nmulti-hop queries). Nonetheless, previous works mainly focus on solving RAG\nsystems with either single-hop or multi-hop approaches separately, which limits\nthe application of those approaches to real-world applications. In this study,\nwe propose a trainable agent framework called Agent-UniRAG for unified\nretrieval-augmented LLM systems, which enhances the effectiveness and\ninterpretability of RAG systems. The main idea is to design an LLM agent\nframework to solve RAG tasks step-by-step based on the complexity of the\ninputs, simultaneously including single-hop and multi-hop queries in an\nend-to-end manner. Furthermore, we introduce SynAgent-RAG, a synthetic dataset\nto enable the proposed agent framework for small open-source LLMs (e.g.,\nLlama-3-8B). The results show comparable performances with closed-source and\nlarger open-source LLMs across various RAG benchmarks. Our source code and\ndataset are publicly available for further exploitation.",
-      "url": "http://arxiv.org/abs/2505.22571v1",
+      "url": "http://arxiv.org/abs/2505.22571v2",
       "published_time_eastern_timestamp": 1748450791.0
     },
     {
