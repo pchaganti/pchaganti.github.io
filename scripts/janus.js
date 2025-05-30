@@ -12,6 +12,10 @@ document.addEventListener("DOMContentLoaded", function () {
       file: "archive/products.html",
     },
     {
+      topic: "Governance for Agents",
+      file: "archive/governance.html",
+    },
+    {
       topic: "Grip and the Forearm",
       file: "archive/grip.html",
     },
