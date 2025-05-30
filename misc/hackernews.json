@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-05-30T11:11:56.530862-04:00",
+  "last_updated": "2025-05-30T14:16:17.534808-04:00",
   "stories": [
     {
+      "title": "Beating Google's kernelCTF PoW using AVX512",
+      "score": 106,
+      "url": "https://anemato.de/blog/kctf-vdf",
+      "time": 1748621990.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44137715"
+    },
+    {
+      "title": "De Bruijn notation, and why it's useful",
+      "score": 63,
+      "url": "https://blueberrywren.dev/blog/debruijn-explanation/",
+      "time": 1748620284.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44137439"
+    },
+    {
+      "title": "Cap: Lightweight, modern open-source CAPTCHA alternative using proof-of-work",
+      "score": 23,
+      "url": "https://capjs.js.org/",
+      "time": 1748622970.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44137867"
+    },
+    {
       "title": "Systems Correctness Practices at Amazon Web Services",
-      "score": 117,
+      "score": 206,
       "url": "https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/",
       "time": 1748608993.0,
       "comments_url": "https://news.ycombinator.com/item?id=44135638"
     },
     {
-      "title": "Show HN: W++ – A Python-style scripting language for .NET with NuGet support",
-      "score": 9,
-      "url": "https://github.com/sinisterMage/WPlusPlus",
-      "time": 1748617081.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44136884"
-    },
-    {
-      "title": "Show HN: Git-Add–Interactive with Enhancements",
-      "score": 26,
-      "url": "https://github.com/cwarden/git-add-interactive",
-      "time": 1748609695.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44135738"
-    },
-    {
-      "title": "The Darwin Gödel Machine: AI that improves itself by rewriting its own code",
-      "score": 39,
-      "url": "https://sakana.ai/dgm/",
-      "time": 1748606920.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44135369"
-    },
-    {
-      "title": "The radix 2^51 trick (2017)",
-      "score": 310,
-      "url": "https://www.chosenplaintext.ca/articles/radix-2-51-trick.html",
-      "time": 1748577337.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44132673"
-    },
-    {
-      "title": "Radio Astronomy Software Defined Radio (Rasdr)",
-      "score": 63,
-      "url": "https://radio-astronomy.org/rasdr",
-      "time": 1748596471.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44134364"
-    },
-    {
-      "title": "Atomics and Concurrency",
-      "score": 66,
-      "url": "https://redixhumayun.github.io/systems/2024/01/03/atomics-and-concurrency.html",
-      "time": 1748419248.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44113706"
-    },
-    {
-      "title": "Tokenization for language modeling: BPE vs. Unigram Language Modeling (2020)",
-      "score": 43,
-      "url": "https://ndingwall.github.io/blog/tokenization",
-      "time": 1748595542.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44134290"
-    },
-    {
       "title": "Microsandbox: Virtual Machines that feel and perform like containers",
-      "score": 23,
+      "score": 131,
       "url": "https://github.com/microsandbox/microsandbox",
       "time": 1748611204.0,
       "comments_url": "https://news.ycombinator.com/item?id=44135977"
     },
     {
-      "title": "Bridged Indexes in OrioleDB: architecture, internals and everyday use?",
+      "title": "Show HN: W++ – A Python-style scripting language for .NET with NuGet support",
+      "score": 57,
+      "url": "https://github.com/sinisterMage/WPlusPlus",
+      "time": 1748617081.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44136884"
+    },
+    {
+      "title": "A Smiling Public Man",
+      "score": 9,
+      "url": "https://salmagundi.skidmore.edu/articles/1407-a-smiling-public-man",
+      "time": 1748624116.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44138034"
+    },
+    {
+      "title": "Weave (YC W25) is hiring a founding engineer",
+      "score": 1,
+      "url": "https://www.ycombinator.com/companies/weave-3/jobs",
+      "time": 1748624472.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44138084"
+    },
+    {
+      "title": "When will M&S take online orders again?",
+      "score": 7,
+      "url": "https://moneyweek.com/personal-finance/marks-and-spencer-online-order-problems",
+      "time": 1748621467.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44137630"
+    },
+    {
+      "title": "The radix 2^51 trick (2017)",
+      "score": 343,
+      "url": "https://www.chosenplaintext.ca/articles/radix-2-51-trick.html",
+      "time": 1748577337.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44132673"
+    },
+    {
+      "title": "Show HN: Git-Add–Interactive with Enhancements",
+      "score": 39,
+      "url": "https://github.com/cwarden/git-add-interactive",
+      "time": 1748609695.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44135738"
+    },
+    {
+      "title": "Vrs: Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia",
       "score": 45,
-      "url": "https://www.orioledb.com/blog/orioledb-bridged-indexes",
-      "time": 1748601073.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44134728"
+      "url": "https://github.com/leoshimo/vrs",
+      "time": 1748362780.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44108386"
     },
     {
-      "title": "Show HN: Every problem and solution in Beyond Cracking the Coding Interview",
-      "score": 100,
-      "url": "https://news.ycombinator.com/item?id=44118174",
-      "time": 1748451973.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44118174"
+      "title": "Copy Excel to Markdown Table (and vice versa)",
+      "score": 7,
+      "url": "https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/",
+      "time": 1748565131.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44131669"
     },
     {
-      "title": "Sieving pores: stable,fast alloying chemistry of Si -electrodes in Li-ion batt",
-      "score": 4,
-      "url": "https://www.nature.com/articles/s41467-025-60191-9",
-      "time": 1748275436.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44098688"
+      "title": "Toxic Origins, Toxic Decisions: Biases in CEO Selection",
+      "score": 46,
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5270031",
+      "time": 1748620904.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44137542"
     },
     {
-      "title": "WeatherStar 4000+: Weather Channel Simulator",
-      "score": 663,
-      "url": "https://weatherstar.netbymatt.com/",
-      "time": 1748533125.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44127109"
+      "title": "Atomics and Concurrency",
+      "score": 99,
+      "url": "https://redixhumayun.github.io/systems/2024/01/03/atomics-and-concurrency.html",
+      "time": 1748419248.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44113706"
     },
     {
-      "title": "Practical SDR: Getting started with software-defined radio",
-      "score": 194,
-      "url": "https://nostarch.com/practical-sdr",
-      "time": 1748568863.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44131984"
+      "title": "The Darwin Gödel Machine: AI that improves itself by rewriting its own code",
+      "score": 119,
+      "url": "https://sakana.ai/dgm/",
+      "time": 1748606920.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44135369"
     },
     {
-      "title": "U.S. sanctions cloud provider 'Funnull' as top source of 'pig butchering' scams",
-      "score": 113,
-      "url": "https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/",
-      "time": 1748570304.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44132075"
+      "title": "Build API integrations with SQL and YAML – no SaaS lock-in, no drag-and-drop UIs",
+      "score": 13,
+      "url": "https://github.com/paloaltodatabases/sequor",
+      "time": 1748618963.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44137192"
     },
     {
-      "title": "FLUX.1 Kontext",
-      "score": 437,
-      "url": "https://bfl.ai/models/flux-kontext",
-      "time": 1748540435.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44128322"
+      "title": "Radio Astronomy Software Defined Radio (Rasdr)",
+      "score": 79,
+      "url": "https://radio-astronomy.org/rasdr",
+      "time": 1748596471.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44134364"
     },
     {
-      "title": "Triangle splatting: radiance fields represented by triangles",
-      "score": 120,
-      "url": "https://trianglesplatting.github.io/",
-      "time": 1748578037.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44132744"
+      "title": "The Surveilled Student (2021)",
+      "score": 57,
+      "url": "https://www.chronicle.com/article/the-surveilled-student",
+      "time": 1748618944.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44137187"
     },
     {
-      "title": "Printing metal on glass with lasers [video]",
-      "score": 27,
-      "url": "https://www.youtube.com/watch?v=J0NNO91WyXM",
-      "time": 1748405240.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44112653"
-    },
-    {
-      "title": "The 'white-collar bloodbath' is all part of the AI hype machine",
-      "score": 75,
-      "url": "https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap",
-      "time": 1748612301.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44136117"
-    },
-    {
-      "title": "Show HN: MCP Server SDK in Bash",
-      "score": 97,
-      "url": "https://github.com/muthuishere/mcp-server-bash-sdk",
-      "time": 1748579123.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44132823"
+      "title": "Tokenization for language modeling: BPE vs. Unigram Language Modeling (2020)",
+      "score": 57,
+      "url": "https://ndingwall.github.io/blog/tokenization",
+      "time": 1748595542.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44134290"
     }
   ]
 }
