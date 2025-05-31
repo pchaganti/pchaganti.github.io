@@ -1,96 +1,131 @@
 {
-  "last_updated": "2025-05-31T08:20:42.122408-04:00",
+  "last_updated": "2025-05-31T11:10:29.361436-04:00",
   "stories": [
     {
+      "title": "Show HN: AI Peer Reviewer – Multiagent System for Scientific Manuscript Analysis",
+      "score": 23,
+      "url": "https://github.com/robertjakob/rigorous",
+      "time": 1748699476.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44144280"
+    },
+    {
       "title": "Beware of Fast-Math",
-      "score": 117,
+      "score": 195,
       "url": "https://simonbyrne.github.io/notes/fastmath/",
       "time": 1748675157.0,
       "comments_url": "https://news.ycombinator.com/item?id=44142472"
     },
     {
-      "title": "Investment Risk Is Highest for Nuclear Power Plants, Lowest for Solar",
-      "score": 59,
-      "url": "https://www.bu.edu/igs/2025/05/19/investment-risk-for-energy-infrastructure-construction-is-highest-for-nuclear-power-plants-lowest-for-solar/",
-      "time": 1748689244.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44143432"
+      "title": "Precision Clock Mk IV",
+      "score": 4,
+      "url": "https://mitxela.com/projects/precision_clock_mk_iv",
+      "time": 1748703963.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44144750"
+    },
+    {
+      "title": "AtomVM, the Erlang virtual machine for IoT devices",
+      "score": 54,
+      "url": "https://www.atomvm.net/",
+      "time": 1748439327.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44115897"
+    },
+    {
+      "title": "The Two Ideals of Fields",
+      "score": 8,
+      "url": "https://susam.net/two-ideals-of-fields.html",
+      "time": 1748699992.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44144331"
     },
     {
       "title": "Photos taken inside musical instruments",
-      "score": 692,
+      "score": 780,
       "url": "https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments",
       "time": 1748637139.0,
       "comments_url": "https://news.ycombinator.com/item?id=44139626"
     },
     {
+      "title": "Acclimation of Osmoregulatory Function in Salmon",
+      "score": 3,
+      "url": "https://www.unm.edu/~toolson/salmon_osmoregulation.html",
+      "time": 1748702049.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44144543"
+    },
+    {
+      "title": "Show HN: I built an AI agent that turns ROS 2's turtlesim into a digital artist",
+      "score": 12,
+      "url": "https://github.com/Yutarop/turtlesim_agent",
+      "time": 1748686637.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44143244"
+    },
+    {
       "title": "Webb telescope helps refines Hubble constant, suggesting resolution rate debate",
-      "score": 25,
+      "score": 48,
       "url": "https://phys.org/news/2025-05-webb-telescope-refines-hubble-constant.html",
       "time": 1748425752.0,
       "comments_url": "https://news.ycombinator.com/item?id=44114309"
     },
     {
-      "title": "What's working for YC companies since the AI boom",
-      "score": 95,
-      "url": "https://jamesin.substack.com/p/whats-working-for-yc-companies-since",
-      "time": 1748615076.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44136539"
-    },
-    {
-      "title": "Valkey Turns One: Community fork of Redis",
-      "score": 209,
-      "url": "https://www.gomomento.com/blog/valkey-turns-one-how-the-community-fork-left-redis-in-the-dust/",
-      "time": 1748643862.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44140379"
-    },
-    {
       "title": "Gradients Are the New Intervals",
-      "score": 47,
+      "score": 79,
       "url": "https://www.mattkeeter.com/blog/2025-05-14-gradients/",
       "time": 1748672719.0,
       "comments_url": "https://news.ycombinator.com/item?id=44142266"
     },
     {
-      "title": "Simpler Backoff",
-      "score": 72,
-      "url": "https://commaok.xyz/post/simple-backoff/",
-      "time": 1748666594.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44141887"
-    },
-    {
-      "title": "Cerebras achieves 2,500T/s on Llama 4 Maverick (400B)",
-      "score": 72,
-      "url": "https://www.cerebras.ai/press-release/maverick",
-      "time": 1748663362.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44141728"
-    },
-    {
       "title": "Using lots of little tools to aggressively reject the bots",
-      "score": 21,
+      "score": 59,
       "url": "https://lambdacreate.com/posts/68",
       "time": 1748678781.0,
       "comments_url": "https://news.ycombinator.com/item?id=44142761"
     },
     {
-      "title": "Surprisingly fast AI-generated kernels we didn't mean to publish yet",
-      "score": 300,
-      "url": "https://crfm.stanford.edu/2025/05/28/fast-kernels.html",
-      "time": 1748635392.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44139454"
-    },
-    {
       "title": "The Book of Secret Knowledge",
-      "score": 16,
+      "score": 49,
       "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
       "time": 1748679941.0,
       "comments_url": "https://news.ycombinator.com/item?id=44142852"
     },
     {
+      "title": "Show HN: Fontofweb – Discover Fonts Used on a Website or Websites Using Font(s)",
+      "score": 12,
+      "url": "https://fontofweb.com",
+      "time": 1748701258.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44144451"
+    },
+    {
+      "title": "Surprisingly fast AI-generated kernels we didn't mean to publish yet",
+      "score": 321,
+      "url": "https://crfm.stanford.edu/2025/05/28/fast-kernels.html",
+      "time": 1748635392.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44139454"
+    },
+    {
+      "title": "Simpler Backoff",
+      "score": 93,
+      "url": "https://commaok.xyz/post/simple-backoff/",
+      "time": 1748666594.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44141887"
+    },
+    {
       "title": "The ‘white-collar bloodbath’ is all part of the AI hype machine",
-      "score": 459,
+      "score": 505,
       "url": "https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap",
       "time": 1748612301.0,
       "comments_url": "https://news.ycombinator.com/item?id=44136117"
+    },
+    {
+      "title": "Beating Google's kernelCTF PoW using AVX512",
+      "score": 299,
+      "url": "https://anemato.de/blog/kctf-vdf",
+      "time": 1748621990.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44137715"
+    },
+    {
+      "title": "Pure vs. Impure Iterators in Go",
+      "score": 4,
+      "url": "https://jub0bs.com/posts/2025-05-29-pure-vs-impure-iterators-in-go/",
+      "time": 1748509058.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44124228"
     },
     {
       "title": "AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 100s of SaaS",
@@ -100,46 +135,11 @@
       "comments_url": "https://news.ycombinator.com/item?id=44142436"
     },
     {
-      "title": "Beating Google's kernelCTF PoW using AVX512",
-      "score": 289,
-      "url": "https://anemato.de/blog/kctf-vdf",
-      "time": 1748621990.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44137715"
-    },
-    {
-      "title": "Reverse engineering of Linear's sync engine",
-      "score": 113,
-      "url": "https://github.com/wzhudev/reverse-linear-sync-engine",
-      "time": 1748492970.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44123131"
-    },
-    {
-      "title": "Randomness Requirements for Security",
-      "score": 19,
-      "url": "https://datatracker.ietf.org/doc/html/rfc4086",
-      "time": 1748480675.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44122079"
-    },
-    {
       "title": "C++ to Rust Phrasebook",
-      "score": 86,
+      "score": 123,
       "url": "https://cel.cs.brown.edu/crp/",
       "time": 1748643528.0,
       "comments_url": "https://news.ycombinator.com/item?id=44140349"
-    },
-    {
-      "title": "Show HN: Icepi Zero – The FPGA Raspberry Pi Zero Equivalent",
-      "score": 174,
-      "url": "https://github.com/cheyao/icepi-zero",
-      "time": 1748439064.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44115853"
-    },
-    {
-      "title": "The Trackers and SDKs in ChatGPT, Claude, Grok and Perplexity",
-      "score": 10,
-      "url": "https://jamesoclaire.com/2025/05/31/the-trackers-and-sdks-in-chatgpt-claude-grok-and-perplexity/",
-      "time": 1748679831.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44142839"
     }
   ]
 }
