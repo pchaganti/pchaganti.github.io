@@ -1,40 +1,96 @@
 {
-  "last_updated": "2025-05-30T17:10:26.970065-04:00",
+  "last_updated": "2025-05-30T20:56:58.246132-04:00",
   "stories": [
     {
-      "title": "Controversial 'lost' Jerry Lewis film discovered in Sweden after 53 years",
-      "score": 35,
-      "url": "https://www.thenationalnews.com/arts-culture/film-tv/2025/05/29/jerry-lewis-day-the-clown-cried-discovered/",
-      "time": 1748636863.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44139592"
-    },
-    {
-      "title": "Beating Google's kernelCTF PoW using AVX512",
-      "score": 198,
-      "url": "https://anemato.de/blog/kctf-vdf",
-      "time": 1748621990.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44137715"
-    },
-    {
-      "title": "Surprisingly Fast AI-Generated Kernels We Didn't Mean to Publish (Yet)",
-      "score": 34,
-      "url": "https://crfm.stanford.edu/2025/05/28/fast-kernels.html",
-      "time": 1748635392.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44139454"
-    },
-    {
       "title": "Photos taken inside musical instruments",
-      "score": 14,
+      "score": 240,
       "url": "https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments",
       "time": 1748637139.0,
       "comments_url": "https://news.ycombinator.com/item?id=44139626"
     },
     {
-      "title": "Irritation Is Inspiration",
-      "score": 15,
-      "url": "https://www.jeetmehta.com/posts/irritation",
-      "time": 1748633745.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44139286"
+      "title": "Surprisingly Fast AI-Generated Kernels We Didn't Mean to Publish (Yet)",
+      "score": 167,
+      "url": "https://crfm.stanford.edu/2025/05/28/fast-kernels.html",
+      "time": 1748635392.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44139454"
+    },
+    {
+      "title": "Mary Meeker's first Trends report since 2019, focused on AI",
+      "score": 56,
+      "url": "https://www.bondcap.com/reports/tai",
+      "time": 1748634839.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44139403"
+    },
+    {
+      "title": "Beating Google's kernelCTF PoW using AVX512",
+      "score": 243,
+      "url": "https://anemato.de/blog/kctf-vdf",
+      "time": 1748621990.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44137715"
+    },
+    {
+      "title": "Show HN: Icepi Zero – The FPGA Raspberry Pi Zero Equivalent",
+      "score": 77,
+      "url": "https://github.com/cheyao/icepi-zero",
+      "time": 1748439064.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44115853"
+    },
+    {
+      "title": "Java Virtual Threads Ate My Memory: A Web Crawler's Tale of Speed vs. Memory",
+      "score": 21,
+      "url": "https://dariobalinzo.medium.com/virtual-threads-ate-my-memory-a-web-crawlers-tale-of-speed-vs-memory-a92fc75085f6",
+      "time": 1748524097.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44125734"
+    },
+    {
+      "title": "The 'white-collar bloodbath' is all part of the AI hype machine",
+      "score": 238,
+      "url": "https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap",
+      "time": 1748612301.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44136117"
+    },
+    {
+      "title": "Systems Correctness Practices at Amazon Web Services",
+      "score": 292,
+      "url": "https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/",
+      "time": 1748608993.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44135638"
+    },
+    {
+      "title": "Valkey Turns One: How the Community Fork Left Redis in the Dust",
+      "score": 18,
+      "url": "https://www.gomomento.com/blog/valkey-turns-one-how-the-community-fork-left-redis-in-the-dust/",
+      "time": 1748643862.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44140379"
+    },
+    {
+      "title": "Microsandbox: Virtual Machines that feel and perform like containers",
+      "score": 238,
+      "url": "https://github.com/microsandbox/microsandbox",
+      "time": 1748611204.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44135977"
+    },
+    {
+      "title": "Jerry Lewis's \"The Day the Clown Cried\" discovered in Sweden after 53 years",
+      "score": 121,
+      "url": "https://www.thenationalnews.com/arts-culture/film-tv/2025/05/29/jerry-lewis-day-the-clown-cried-discovered/",
+      "time": 1748636863.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44139592"
+    },
+    {
+      "title": "Ray Tracing in J",
+      "score": 34,
+      "url": "https://idle.nprescott.com/2020/ray-tracing-in-j.html",
+      "time": 1748454283.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44118646"
+    },
+    {
+      "title": "Revenge of the Chickenized Reverse-Centaurs",
+      "score": 35,
+      "url": "https://pluralistic.net/2022/04/17/revenge-of-the-chickenized-reverse-centaurs/",
+      "time": 1748451308.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44118055"
     },
     {
       "title": "StackAI (YC W23) Is Looking for SWR and Tailwind Wizards",
@@ -44,102 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=44139842"
     },
     {
-      "title": "Show HN: Asdf Overlay – High performance in-game overlay library for Windows",
-      "score": 43,
-      "url": "https://github.com/storycraft/asdf-overlay",
-      "time": 1748629664.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44138775"
-    },
-    {
-      "title": "Systems Correctness Practices at Amazon Web Services",
-      "score": 252,
-      "url": "https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/",
-      "time": 1748608993.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44135638"
-    },
-    {
-      "title": "Microsandbox: Virtual Machines that feel and perform like containers",
-      "score": 188,
-      "url": "https://github.com/microsandbox/microsandbox",
-      "time": 1748611204.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44135977"
-    },
-    {
-      "title": "De Bruijn notation, and why it's useful",
-      "score": 93,
-      "url": "https://blueberrywren.dev/blog/debruijn-explanation/",
-      "time": 1748620284.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44137439"
-    },
-    {
-      "title": "Show HN: Icepi Zero – The FPGA Raspberry Pi Zero Equivalent",
-      "score": 8,
-      "url": "https://github.com/cheyao/icepi-zero",
-      "time": 1748439064.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44115853"
+      "title": "Silicon Valley finally has a big electronics retailer again: Micro Center opens",
+      "score": 86,
+      "url": "https://www.microcenter.com/site/mc-news/article/micro-center-santa-clara-photos.aspx",
+      "time": 1748643849.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44140378"
     },
     {
       "title": "How to Run CRON Jobs in Postgres Without Extra Infrastructure",
-      "score": 22,
+      "score": 40,
       "url": "https://wasp.sh/blog/2025/05/28/how-to-run-cron-jobs-in-postgress-without-extra-infrastructure",
       "time": 1748427251.0,
       "comments_url": "https://news.ycombinator.com/item?id=44114436"
     },
     {
-      "title": "The 'white-collar bloodbath' is all part of the AI hype machine",
-      "score": 114,
-      "url": "https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap",
-      "time": 1748612301.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44136117"
-    },
-    {
-      "title": "A Smiling Public Man",
-      "score": 28,
-      "url": "https://salmagundi.skidmore.edu/articles/1407-a-smiling-public-man",
-      "time": 1748624116.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44138034"
-    },
-    {
-      "title": "Cap: Lightweight, modern open-source CAPTCHA alternative using proof-of-work",
-      "score": 94,
-      "url": "https://capjs.js.org/",
-      "time": 1748622970.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44137867"
-    },
-    {
       "title": "Copy Excel to Markdown Table (and vice versa)",
-      "score": 43,
+      "score": 71,
       "url": "https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/",
       "time": 1748565131.0,
       "comments_url": "https://news.ycombinator.com/item?id=44131669"
     },
     {
-      "title": "Show HN: W++ – A Python-style scripting language for .NET with NuGet support",
-      "score": 72,
-      "url": "https://github.com/sinisterMage/WPlusPlus",
-      "time": 1748617081.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44136884"
-    },
-    {
-      "title": "Catbench Vector Search Demo Has Postgres SQL Throughput, Latency Monitoring Now",
-      "score": 6,
-      "url": "https://tanelpoder.com/posts/catbench-vector-search-query-throughput-latency-monitoring/",
-      "time": 1748634648.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44139382"
-    },
-    {
       "title": "The radix 2^51 trick (2017)",
-      "score": 372,
+      "score": 384,
       "url": "https://www.chosenplaintext.ca/articles/radix-2-51-trick.html",
       "time": 1748577337.0,
       "comments_url": "https://news.ycombinator.com/item?id=44132673"
     },
     {
-      "title": "Adam Riess and the Hubble tension",
-      "score": 54,
-      "url": "https://www.theatlantic.com/science/archive/2025/05/adam-riess-hubble-tension/682980/",
-      "time": 1748617496.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44136945"
+      "title": "Cap: Lightweight, modern open-source CAPTCHA alternative using proof-of-work",
+      "score": 112,
+      "url": "https://capjs.js.org/",
+      "time": 1748622970.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44137867"
+    },
+    {
+      "title": "Show HN: W++ – A Python-style scripting language for .NET with NuGet support",
+      "score": 83,
+      "url": "https://github.com/sinisterMage/WPlusPlus",
+      "time": 1748617081.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44136884"
     }
   ]
 }
