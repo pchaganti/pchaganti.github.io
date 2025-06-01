@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-06-01T05:11:48.092411-04:00",
+  "last_updated": "2025-06-01T08:21:00.018784-04:00",
   "stories": [
     {
-      "title": "RenderFormer: Neural rendering of triangle meshes with global illumination",
-      "score": 147,
-      "url": "https://microsoft.github.io/renderformer/",
-      "time": 1748749380.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44148524"
-    },
-    {
-      "title": "Father Ted Kilnettle Shrine Tape Dispenser",
-      "score": 67,
-      "url": "https://stephencoyle.net/kilnettle",
-      "time": 1748755880.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44148853"
-    },
-    {
-      "title": "Progressive JSON",
-      "score": 249,
-      "url": "https://overreacted.io/progressive-json/",
-      "time": 1748739480.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44147945"
-    },
-    {
-      "title": "I like to install NixOS (declaratively)",
-      "score": 26,
-      "url": "https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/",
-      "time": 1748759088.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44149000"
+      "title": "Atari Means Business with the Mega ST",
+      "score": 10,
+      "url": "https://www.goto10retro.com/p/atari-means-business-with-the-mega",
+      "time": 1748775691.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44150002"
     },
     {
       "title": "Figma Slides Is a Beautiful Disaster",
-      "score": 31,
+      "score": 128,
       "url": "https://allenpike.com/2025/figma-slides-beautiful-disaster",
       "time": 1748757599.0,
       "comments_url": "https://news.ycombinator.com/item?id=44148933"
     },
     {
+      "title": "RenderFormer: Neural rendering of triangle meshes with global illumination",
+      "score": 185,
+      "url": "https://microsoft.github.io/renderformer/",
+      "time": 1748749380.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44148524"
+    },
+    {
+      "title": "Progressive JSON",
+      "score": 306,
+      "url": "https://overreacted.io/progressive-json/",
+      "time": 1748739480.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44147945"
+    },
+    {
+      "title": "Why DeepSeek is cheap at scale but expensive to run locally",
+      "score": 37,
+      "url": "https://www.seangoedecke.com/inference-batching-and-deepseek/",
+      "time": 1748763067.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44149238"
+    },
+    {
+      "title": "I like to install NixOS (declaratively)",
+      "score": 62,
+      "url": "https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/",
+      "time": 1748759088.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44149000"
+    },
+    {
+      "title": "Codex CLI is going native",
+      "score": 3,
+      "url": "https://github.com/openai/codex/discussions/1174",
+      "time": 1748776975.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44150093"
+    },
+    {
+      "title": "RSC for Lisp Developers",
+      "score": 3,
+      "url": "https://overreacted.io/rsc-for-lisp-developers/",
+      "time": 1748776768.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44150081"
+    },
+    {
+      "title": "Show HN: A Implementation of Alpha Zero for Chess in MLX",
+      "score": 30,
+      "url": "https://github.com/koogle/mlx-playground/tree/main/chesszero",
+      "time": 1748522213.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44125462"
+    },
+    {
       "title": "Georgists Valued Land in the 1900s",
-      "score": 58,
+      "score": 76,
       "url": "https://progressandpoverty.substack.com/p/how-georgists-valued-land-in-the",
       "time": 1748672605.0,
       "comments_url": "https://news.ycombinator.com/item?id=44142255"
     },
     {
       "title": "Structured Errors in Go",
-      "score": 35,
+      "score": 57,
       "url": "https://southcla.ws/structured-errors-in-go",
       "time": 1748753664.0,
       "comments_url": "https://news.ycombinator.com/item?id=44148734"
     },
     {
-      "title": "Snake on a Globe",
-      "score": 25,
-      "url": "https://engaging-data.com/snake-globe/",
-      "time": 1748546047.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44129233"
-    },
-    {
       "title": "Precision Clock Mk IV",
-      "score": 473,
+      "score": 492,
       "url": "https://mitxela.com/projects/precision_clock_mk_iv",
       "time": 1748703963.0,
       "comments_url": "https://news.ycombinator.com/item?id=44144750"
     },
     {
-      "title": "Browser extension (Firefox, Chrome, Opera, Edge) to redirect URLs based on regex",
-      "score": 10,
-      "url": "https://github.com/einaregilsson/Redirector",
-      "time": 1748762026.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44149177"
+      "title": "A Pokémon battle simulation engine",
+      "score": 19,
+      "url": "https://github.com/pkmn/engine",
+      "time": 1748525594.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44125964"
+    },
+    {
+      "title": "An optimizing compiler doesn't help much with long instruction dependencies",
+      "score": 14,
+      "url": "https://johnnysswlab.com/an-optimizing-compiler-doesnt-help-much-with-long-instruction-dependencies/",
+      "time": 1748762230.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44149185"
+    },
+    {
+      "title": "A Library in New Zealand Replaces Dewey with System Rooted in Māori Tradition",
+      "score": 17,
+      "url": "https://magazine.1000libraries.com/this-library-in-new-zealand-is-replacing-dewey-with-a-system-rooted-in-maori-tradition/",
+      "time": 1748511636.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44124443"
+    },
+    {
+      "title": "The Future of Comments Is Lies, I Guess",
+      "score": 14,
+      "url": "https://aphyr.com/posts/388-the-future-of-comments-is-lies-i-guess",
+      "time": 1748555520.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44130743"
+    },
+    {
+      "title": "Father Ted Kilnettle Shrine Tape Dispenser",
+      "score": 119,
+      "url": "https://stephencoyle.net/kilnettle",
+      "time": 1748755880.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44148853"
+    },
+    {
+      "title": "Google AI Edge – on-device cross-platform AI deployment",
+      "score": 25,
+      "url": "https://ai.google.dev/edge",
+      "time": 1748759540.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44149019"
     },
     {
       "title": "Ovld – Efficient and featureful multiple dispatch for Python",
-      "score": 53,
+      "score": 68,
       "url": "https://github.com/breuleux/ovld",
       "time": 1748547922.0,
       "comments_url": "https://news.ycombinator.com/item?id=44129567"
     },
     {
-      "title": "Beyond Attention: Toward Machines with Intrinsic Higher Mental States",
-      "score": 44,
-      "url": "https://arxiv.org/abs/2505.06257",
-      "time": 1748752082.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44148662"
-    },
-    {
-      "title": "New adaptive optics shows details of our star's atmosphere",
-      "score": 93,
-      "url": "https://nso.edu/press-release/new-adaptive-optics-shows-stunning-details-of-our-stars-atmosphere/",
-      "time": 1748732909.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44147573"
-    },
-    {
-      "title": "Show HN: Patio – Rent tools, learn DIY, reduce waste",
-      "score": 108,
-      "url": "https://patio.so",
-      "time": 1748737045.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44147803"
-    },
-    {
-      "title": "Stepping Back",
-      "score": 60,
-      "url": "https://rjp.io/blog/2025-05-31-stepping-back",
-      "time": 1748739869.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44147966"
-    },
-    {
-      "title": "Show HN: A new programming language inspired by Go, no LLVM",
-      "score": 62,
-      "url": "https://github.com/nature-lang/nature",
-      "time": 1748539542.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44128191"
-    },
-    {
-      "title": "Reviving Astoria – Windows's Lost Android",
-      "score": 24,
-      "url": "https://trungnt2910.com/astoria-windows-android/",
-      "time": 1748754353.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44148781"
-    },
-    {
-      "title": "Show HN: A Implementation of Alpha Zero for Chess in MLX",
-      "score": 8,
-      "url": "https://github.com/koogle/mlx-playground/tree/main/chesszero",
-      "time": 1748522213.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44125462"
-    },
-    {
-      "title": "YOLO-World: Real-Time Open-Vocabulary Object Detection",
-      "score": 124,
-      "url": "https://arxiv.org/abs/2401.17270",
-      "time": 1748724870.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44146858"
-    },
-    {
-      "title": "CCD co-inventor George E. Smith dies at 95",
-      "score": 107,
-      "url": "https://www.nytimes.com/2025/05/30/science/george-e-smith-dead.html",
-      "time": 1748721397.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44146619"
+      "title": "Browser extension (Firefox, Chrome, Opera, Edge) to redirect URLs based on regex",
+      "score": 27,
+      "url": "https://github.com/einaregilsson/Redirector",
+      "time": 1748762026.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44149177"
     }
   ]
 }
