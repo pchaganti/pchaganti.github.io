@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-01T17:10:23.702831-04:00",
+  "last_updated": "2025-06-01T21:01:00.172084-04:00",
   "papers": [
     {
       "title": "From Chat Logs to Collective Insights: Aggregative Question Answering",
@@ -94,7 +94,7 @@
     {
       "title": "OpenUni: A Simple Baseline for Unified Multimodal Understanding and\n  Generation",
       "summary": "In this report, we present OpenUni, a simple, lightweight, and fully\nopen-source baseline for unifying multimodal understanding and generation.\nInspired by prevailing practices in unified model learning, we adopt an\nefficient training strategy that minimizes the training complexity and overhead\nby bridging the off-the-shelf multimodal large language models (LLMs) and\ndiffusion models through a set of learnable queries and a light-weight\ntransformer-based connector. With a minimalist choice of architecture, we\ndemonstrate that OpenUni can: 1) generate high-quality and instruction-aligned\nimages, and 2) achieve exceptional performance on standard benchmarks such as\nGenEval, DPG- Bench, and WISE, with only 1.1B and 3.1B activated parameters. To\nsupport open research and community advancement, we release all model weights,\ntraining code, and our curated training datasets (including 23M image-text\npairs) at https://github.com/wusize/OpenUni.",
-      "url": "http://arxiv.org/abs/2505.23661v1",
+      "url": "http://arxiv.org/abs/2505.23661v2",
       "published_time_eastern_timestamp": 1748538584.0
     },
     {

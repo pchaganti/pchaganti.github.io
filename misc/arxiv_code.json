@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-01T17:10:25.380522-04:00",
+  "last_updated": "2025-06-01T21:01:01.218423-04:00",
   "papers": [
     {
       "title": "TextRegion: Text-Aligned Region Tokens from Frozen Image-Text Models",
@@ -58,7 +58,7 @@
     {
       "title": "ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS",
       "summary": "Feed-forward 3D Gaussian Splatting (3DGS) models have recently emerged as a\npromising solution for novel view synthesis, enabling one-pass inference\nwithout the need for per-scene 3DGS optimization. However, their scalability is\nfundamentally constrained by the limited capacity of their encoders, leading to\ndegraded performance or excessive memory consumption as the number of input\nviews increases. In this work, we analyze feed-forward 3DGS frameworks through\nthe lens of the Information Bottleneck principle and introduce ZPressor, a\nlightweight architecture-agnostic module that enables efficient compression of\nmulti-view inputs into a compact latent state $Z$ that retains essential scene\ninformation while discarding redundancy. Concretely, ZPressor enables existing\nfeed-forward 3DGS models to scale to over 100 input views at 480P resolution on\nan 80GB GPU, by partitioning the views into anchor and support sets and using\ncross attention to compress the information from the support views into anchor\nviews, forming the compressed latent state $Z$. We show that integrating\nZPressor into several state-of-the-art feed-forward 3DGS models consistently\nimproves performance under moderate input views and enhances robustness under\ndense view settings on two large-scale benchmarks DL3DV-10K and RealEstate10K.\nThe video results, code and trained models are available on our project page:\nhttps://lhmd.top/zpressor.",
-      "url": "http://arxiv.org/abs/2505.23734v1",
+      "url": "http://arxiv.org/abs/2505.23734v2",
       "published_time_eastern_timestamp": 1748541424.0
     },
     {
