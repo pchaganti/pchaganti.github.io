@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-02T20:59:30.019571-04:00",
+  "last_updated": "2025-06-02T23:41:41.328740-04:00",
   "papers": [
     {
       "title": "Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and\n  Benchmarking Multimodal LLM Agents",
@@ -28,7 +28,7 @@
     {
       "title": "EXP-Bench: Can AI Conduct AI Research Experiments?",
       "summary": "Automating AI research holds immense potential for accelerating scientific\nprogress, yet current AI agents struggle with the complexities of rigorous,\nend-to-end experimentation. We introduce EXP-Bench, a novel benchmark designed\nto systematically evaluate AI agents on complete research experiments sourced\nfrom influential AI publications. Given a research question and incomplete\nstarter code, EXP-Bench challenges AI agents to formulate hypotheses, design\nand implement experimental procedures, execute them, and analyze results. To\nenable the creation of such intricate and authentic tasks with high-fidelity,\nwe design a semi-autonomous pipeline to extract and structure crucial\nexperimental details from these research papers and their associated\nopen-source code. With the pipeline, EXP-Bench curated 461 AI research tasks\nfrom 51 top-tier AI research papers. Evaluations of leading LLM-based agents,\nsuch as OpenHands and IterativeAgent on EXP-Bench demonstrate partial\ncapabilities: while scores on individual experimental aspects such as design or\nimplementation correctness occasionally reach 20-35%, the success rate for\ncomplete, executable experiments was a mere 0.5%. By identifying these\nbottlenecks and providing realistic step-by-step experiment procedures,\nEXP-Bench serves as a vital tool for future AI agents to improve their ability\nto conduct AI research experiments. EXP-Bench is open-sourced at\nhttps://github.com/Just-Curieous/Curie/tree/main/benchmark/exp_bench.",
-      "url": "http://arxiv.org/abs/2505.24785v1",
+      "url": "http://arxiv.org/abs/2505.24785v2",
       "published_time_eastern_timestamp": 1748623589.0
     },
     {
@@ -88,7 +88,7 @@
     {
       "title": "AutoChemSchematic AI: A Closed-Loop, Physics-Aware Agentic Framework for\n  Auto-Generating Chemical Process and Instrumentation Diagrams",
       "summary": "Recent advancements in generative AI have accelerated the discovery of novel\nchemicals and materials; however, transitioning these discoveries to\nindustrial-scale production remains a critical bottleneck, as it requires the\ndevelopment of entirely new chemical manufacturing processes. Current AI\nmethods cannot auto-generate PFDs or PIDs, despite their critical role in\nscaling chemical processes, while adhering to engineering constraints. We\npresent a closed loop, physics aware framework for the automated generation of\nindustrially viable PFDs and PIDs. The framework integrates domain specialized\nsmall scale language models (SLMs) (trained for chemical process QA tasks) with\nfirst principles simulation, leveraging three key components: (1) a\nhierarchical knowledge graph of process flow and instrumentation descriptions\nfor 1,020+ chemicals, (2) a multi-stage training pipeline that fine tunes\ndomain specialized SLMs on synthetic datasets via Supervised Fine-Tuning (SFT),\nDirect Preference Optimization (DPO), and Retrieval-Augmented Instruction\nTuning (RAIT), and (3) DWSIM based simulator in the loop validation to ensure\nfeasibility. To improve both runtime efficiency and model compactness, the\nframework incorporates advanced inference time optimizations including\nFlashAttention, Lookahead Decoding, PagedAttention with KV-cache quantization,\nand Test Time Inference Scaling and independently applies structural pruning\ntechniques (width and depth) guided by importance heuristics to reduce model\nsize with minimal accuracy loss. Experiments demonstrate that the framework\ngenerates simulator-validated process descriptions with high fidelity,\noutperforms baseline methods in correctness, and generalizes to unseen\nchemicals. By bridging AI-driven design with industrial-scale feasibility, this\nwork significantly reduces R&D timelines from lab discovery to plant\ndeployment.",
-      "url": "http://arxiv.org/abs/2505.24584v1",
+      "url": "http://arxiv.org/abs/2505.24584v2",
       "published_time_eastern_timestamp": 1748611920.0
     },
     {
