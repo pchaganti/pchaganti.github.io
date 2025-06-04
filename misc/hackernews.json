@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-06-04T11:36:33.286131-04:00",
+  "last_updated": "2025-06-04T14:16:43.697646-04:00",
   "stories": [
     {
-      "title": "Why I Wrote the BEAM Book",
-      "score": 180,
+      "title": "FFmpeg merges WebRTC support",
+      "score": 191,
+      "url": "https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00",
+      "time": 1749052730.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44182186"
+    },
+    {
+      "title": "Why I wrote the BEAM book",
+      "score": 286,
       "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
       "time": 1749033409.0,
       "comments_url": "https://news.ycombinator.com/item?id=44179257"
     },
     {
-      "title": "Cloud Run GPUs, now GA, makes running AI workloads easier for everyone",
-      "score": 193,
-      "url": "https://cloud.google.com/blog/products/serverless/cloud-run-gpus-are-now-generally-available",
-      "time": 1749025726.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44178468"
+      "title": "IRS Direct File on GitHub",
+      "score": 140,
+      "url": "https://chrisgiven.com/2025/05/direct-file-on-github/",
+      "time": 1749053799.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44182356"
     },
     {
-      "title": "DiffX – Next-Generation Extensible Diff Format",
-      "score": 302,
-      "url": "https://diffx.org/",
-      "time": 1749004726.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44176737"
+      "title": "Show HN: GPT image editing, but for 3D models",
+      "score": 53,
+      "url": "https://www.adamcad.com/",
+      "time": 1749052852.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44182206"
     },
     {
-      "title": "Merlin Bird ID",
-      "score": 411,
-      "url": "https://merlin.allaboutbirds.org/",
-      "time": 1749005920.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44176829"
-    },
-    {
-      "title": "Against \"Against Life Extension\"",
-      "score": 17,
-      "url": "https://www.alexkesin.com/p/contra-fukuyama-on-against-life-extension",
-      "time": 1749049359.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44181449"
-    },
-    {
-      "title": "Twain Dreams",
-      "score": 13,
-      "url": "https://harpers.org/archive/2025/06/twain-dreams-samuel-clemens-john-jeremiah-sullivan/",
-      "time": 1748885155.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44161102"
-    },
-    {
-      "title": "Cockatoos have learned to operate drinking fountains in Australia",
-      "score": 165,
-      "url": "https://www.science.org/content/article/cockatoos-have-learned-operate-drinking-fountains-australia",
-      "time": 1749030149.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44178902"
-    },
-    {
-      "title": "From Steam to Silicon: Patterns of Technological Revolutions",
-      "score": 3,
-      "url": "https://ianreppel.org/from-steam-to-silicon/",
-      "time": 1749048612.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44181305"
-    },
-    {
-      "title": "How Should We Think About the Renaissance?",
-      "score": 14,
-      "url": "https://www.chronicle.com/article/how-should-we-think-about-the-renaissance",
-      "time": 1749044575.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44180661"
+      "title": "VC money is fueling a global boom in worker surveillance tech",
+      "score": 80,
+      "url": "https://restofworld.org/2025/employee-surveillance-software-vc-funding/",
+      "time": 1749054958.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44182582"
     },
     {
       "title": "The Right to Repair Is Law in Washington State",
-      "score": 18,
+      "score": 210,
       "url": "https://www.eff.org/deeplinks/2025/06/right-repair-law-washington-state",
       "time": 1749049229.0,
       "comments_url": "https://news.ycombinator.com/item?id=44181421"
     },
     {
+      "title": "Cloud Run GPUs, now GA, makes running AI workloads easier for everyone",
+      "score": 246,
+      "url": "https://cloud.google.com/blog/products/serverless/cloud-run-gpus-are-now-generally-available",
+      "time": 1749025726.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44178468"
+    },
+    {
+      "title": "When memory was measured in kilobytes: The art of efficient vision",
+      "score": 9,
+      "url": "https://www.softwareheritage.org/2025/06/04/history_computer_vision/",
+      "time": 1749055584.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44182698"
+    },
+    {
+      "title": "A practical guide to building agents [pdf]",
+      "score": 15,
+      "url": "https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf",
+      "time": 1749050482.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44181700"
+    },
+    {
+      "title": "Preventing Flash of Incomplete Markdown when streaming AI responses",
+      "score": 9,
+      "url": "https://engineering.streak.com/p/preventing-unstyled-markdown-streaming-ai",
+      "time": 1749056778.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44182941"
+    },
+    {
+      "title": "How We Reduced the Impact of Zombie Clients",
+      "score": 14,
+      "url": "https://letsencrypt.org/2025/06/04/how-we-reduced-the-impact-of-zombie-clients/",
+      "time": 1749052716.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44182184"
+    },
+    {
+      "title": "Merlin Bird ID",
+      "score": 482,
+      "url": "https://merlin.allaboutbirds.org/",
+      "time": 1749005920.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44176829"
+    },
+    {
+      "title": "DiffX – Next-Generation Extensible Diff Format",
+      "score": 326,
+      "url": "https://diffx.org/",
+      "time": 1749004726.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44176737"
+    },
+    {
+      "title": "From Steam to Silicon: Patterns of Technological Revolutions",
+      "score": 18,
+      "url": "https://ianreppel.org/from-steam-to-silicon/",
+      "time": 1749048612.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44181305"
+    },
+    {
+      "title": "Cockatoos have learned to operate drinking fountains in Australia",
+      "score": 224,
+      "url": "https://www.science.org/content/article/cockatoos-have-learned-operate-drinking-fountains-australia",
+      "time": 1749030149.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44178902"
+    },
+    {
+      "title": "Giant planet discovered orbiting tiny star",
+      "score": 12,
+      "url": "https://www.ucl.ac.uk/news/2025/jun/giant-planet-discovered-orbiting-tiny-star",
+      "time": 1749057831.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44183175"
+    },
+    {
+      "title": "Twain Dreams",
+      "score": 21,
+      "url": "https://harpers.org/archive/2025/06/twain-dreams-samuel-clemens-john-jeremiah-sullivan/",
+      "time": 1748885155.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44161102"
+    },
+    {
+      "title": "The Prompt Engineering Playbook for Programmers",
+      "score": 9,
+      "url": "https://addyo.substack.com/p/the-prompt-engineering-playbook-for",
+      "time": 1749052737.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44182188"
+    },
+    {
       "title": "Binary Wordle",
-      "score": 190,
+      "score": 225,
       "url": "https://wordle.chengeric.com/",
       "time": 1749005831.0,
       "comments_url": "https://news.ycombinator.com/item?id=44176825"
     },
     {
-      "title": "Ask HN: Has anybody built search on top of Anna's Archive?",
-      "score": 203,
-      "url": "https://news.ycombinator.com/item?id=44176514",
-      "time": 1749001646.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44176514"
-    },
-    {
-      "title": "Consider Knitting",
-      "score": 115,
-      "url": "https://journal.stuffwithstuff.com/2025/05/30/consider-knitting/",
-      "time": 1748685976.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44143199"
-    },
-    {
-      "title": "The Sky's the limit: AI automation on Mac",
-      "score": 74,
-      "url": "https://taoofmac.com/space/blog/2025/06/03/2155",
-      "time": 1749037859.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44179691"
-    },
-    {
-      "title": "Machine Code Isn't Scary",
-      "score": 83,
-      "url": "https://jimmyhmiller.com/machine-code-isnt-scary",
-      "time": 1749014350.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44177446"
-    },
-    {
-      "title": "A critical look at NetBSD’s installer",
-      "score": 86,
-      "url": "https://eerielinux.wordpress.com/2025/05/31/installing-bsd-in-2025-part-3-a-critical-look-at-netbsds-installer/",
-      "time": 1749007185.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44176919"
-    },
-    {
-      "title": "Just how bad are we at treating age-related diseases?",
-      "score": 91,
-      "url": "https://www.ladanuzhna.xyz/writing/just-how-bad-are-we-at-treating-age-related-diseases",
-      "time": 1749034318.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44179329"
-    },
-    {
-      "title": "Depot (YC W23) is hiring an enterprise support engineer (UK/EU)",
-      "score": 1,
-      "url": "https://www.ycombinator.com/companies/depot/jobs/NdCr76D-enterprise-support-engineer",
-      "time": 1749020454.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44177901"
-    },
-    {
-      "title": "Writing a postmortem: an interview exercise I like (2017)",
-      "score": 51,
-      "url": "https://www.danielputtick.com/writing/mapbox-postmortem-interview.html",
-      "time": 1748699671.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44144299"
-    },
-    {
-      "title": "Ask HN: Startup getting spammed with PayPal disputes, what should we do?",
-      "score": 134,
-      "url": "https://news.ycombinator.com/item?id=44176510",
-      "time": 1749001609.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44176510"
+      "title": "Doubling Down on Open Source",
+      "score": 14,
+      "url": "https://langfuse.com/blog/2025-06-04-open-sourcing-langfuse-product",
+      "time": 1749046480.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44180954"
     }
   ]
 }
