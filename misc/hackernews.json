@@ -1,40 +1,89 @@
 {
-  "last_updated": "2025-06-03T17:10:44.063613-04:00",
+  "last_updated": "2025-06-03T20:59:14.663917-04:00",
   "stories": [
     {
+      "title": "Deep learning gets the glory, deep fact checking gets ignored",
+      "score": 251,
+      "url": "https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html",
+      "time": 1748986316.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44174965"
+    },
+    {
+      "title": "Precious Plastic Is in Trouble",
+      "score": 29,
+      "url": "https://www.preciousplastic.com//news/problems-in-precious-plastic",
+      "time": 1748992285.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44175773"
+    },
+    {
+      "title": "A deep dive into self-improving AI and the Darwin-Gödel Machine",
+      "score": 46,
+      "url": "https://richardcsuwandi.github.io/blog/2025/dgm/",
+      "time": 1748985572.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44174856"
+    },
+    {
+      "title": "Show HN: Ephe – A Minimalist Open-Source Markdown Paper for Today",
+      "score": 36,
+      "url": "https://github.com/unvalley/ephe",
+      "time": 1748990493.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44175557"
+    },
+    {
       "title": "Destination: Jupiter",
-      "score": 37,
+      "score": 64,
       "url": "https://clarkesworldmagazine.com/liptak_06_25/",
       "time": 1748979810.0,
       "comments_url": "https://news.ycombinator.com/item?id=44173853"
     },
     {
+      "title": "Human Brain Cells on Chip for Sale – First biocomputing platform hits the market",
+      "score": 27,
+      "url": "https://spectrum.ieee.org/biological-computer-for-sale",
+      "time": 1748986876.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44175048"
+    },
+    {
+      "title": "Brain aging shows nonlinear transitions, suggesting a midlife \"critical window\"",
+      "score": 38,
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2416433122",
+      "time": 1748993824.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44175905"
+    },
+    {
+      "title": "The Small World of English",
+      "score": 115,
+      "url": "https://www.inotherwords.app/linguabase/",
+      "time": 1748963692.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44170968"
+    },
+    {
+      "title": "Mapping latitude and longitude to country, state, or city",
+      "score": 17,
+      "url": "https://austinhenley.com/blog/coord2state.html",
+      "time": 1748988781.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44175356"
+    },
+    {
       "title": "Show HN: AirAP AirPlay server - AirPlay to an iOS Device",
-      "score": 71,
+      "score": 138,
       "url": "https://github.com/neon443/AirAP",
       "time": 1748981553.0,
       "comments_url": "https://news.ycombinator.com/item?id=44174190"
     },
     {
-      "title": "Where in the world are babies at the lowest risk of dying?",
-      "score": 37,
-      "url": "https://ourworldindata.org/where-are-babies-at-lowest-risk-of-dying",
-      "time": 1748974404.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44172915"
+      "title": "Show HN: I wrote a Java decompiler in pure C language",
+      "score": 148,
+      "url": "https://github.com/neocanable/garlic",
+      "time": 1748952869.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44169132"
     },
     {
-      "title": "Don't just check errors, handle them gracefully (2016)",
-      "score": 34,
-      "url": "https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully",
-      "time": 1748976573.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44173291"
-    },
-    {
-      "title": "The Small World of English",
-      "score": 99,
-      "url": "https://www.inotherwords.app/linguabase/",
-      "time": 1748963692.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44170968"
+      "title": "Show HN: Gradle plugin for faster Java compiles",
+      "score": 14,
+      "url": "https://github.com/elide-dev/gradle",
+      "time": 1748980759.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44174036"
     },
     {
       "title": "Activeloop (YC S18) Is Hiring Senior Back End and AI Search Engineers(Onsite, MV)",
@@ -44,102 +93,53 @@
       "comments_url": "https://news.ycombinator.com/item?id=44174676"
     },
     {
-      "title": "Quarkdown: A modern Markdown-based typesetting system",
-      "score": 529,
-      "url": "https://github.com/iamgio/quarkdown",
-      "time": 1748937988.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44167592"
-    },
-    {
-      "title": "CVE-2024-47081: Netrc credential leak in PSF requests library",
-      "score": 26,
-      "url": "https://seclists.org/fulldisclosure/2025/Jun/2",
-      "time": 1748975969.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44173193"
-    },
-    {
       "title": "Show HN: An Alfred workflow to open GCP services and browse resources within",
-      "score": 18,
+      "score": 36,
       "url": "https://github.com/dineshgowda24/alfred-gcp-workflow",
       "time": 1748978757.0,
       "comments_url": "https://news.ycombinator.com/item?id=44173667"
     },
     {
+      "title": "Polish engineer creates postage stamp-sized 1980s Atari computer",
+      "score": 38,
+      "url": "https://arstechnica.com/gadgets/2025/06/polish-engineer-creates-postage-stamp-sized-1980s-atari-computer/",
+      "time": 1748990108.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44175510"
+    },
+    {
       "title": "(On | No) Syntactic Support for Error Handling",
-      "score": 238,
+      "score": 282,
       "url": "https://go.dev/blog/error-syntax",
       "time": 1748967525.0,
       "comments_url": "https://news.ycombinator.com/item?id=44171677"
     },
     {
-      "title": "Show HN: Controlling 3D models with voice and hand gestures",
-      "score": 69,
-      "url": "https://github.com/collidingScopes/3d-model-playground",
-      "time": 1748961952.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44170694"
+      "title": "CVE-2024-47081: Netrc credential leak in PSF requests library",
+      "score": 41,
+      "url": "https://seclists.org/fulldisclosure/2025/Jun/2",
+      "time": 1748975969.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44173193"
+    },
+    {
+      "title": "Show HN: Localize React apps without rewriting code",
+      "score": 58,
+      "url": "https://github.com/lingodotdev/lingo.dev",
+      "time": 1748971652.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44172428"
     },
     {
       "title": "Ask HN: Options for One-Handed Typing",
-      "score": 30,
+      "score": 64,
       "url": "https://news.ycombinator.com/item?id=44173581",
       "time": 1748978270.0,
       "comments_url": "https://news.ycombinator.com/item?id=44173581"
     },
     {
       "title": "The Shape of the Essay Field",
-      "score": 43,
+      "score": 52,
       "url": "https://paulgraham.com/field.html",
       "time": 1748944555.0,
       "comments_url": "https://news.ycombinator.com/item?id=44168201"
-    },
-    {
-      "title": "Show HN: Localize React apps without rewriting code",
-      "score": 38,
-      "url": "https://github.com/lingodotdev/lingo.dev",
-      "time": 1748971652.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44172428"
-    },
-    {
-      "title": "Show HN: I wrote a Java decompiler in pure C language",
-      "score": 127,
-      "url": "https://github.com/neocanable/garlic",
-      "time": 1748952869.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44169132"
-    },
-    {
-      "title": "Swift at Apple: Migrating the Password Monitoring Service from Java",
-      "score": 143,
-      "url": "https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/",
-      "time": 1748970193.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44172166"
-    },
-    {
-      "title": "Yoshua Bengio Launches LawZero: A New Nonprofit Advancing Safe-by-Design AI",
-      "score": 5,
-      "url": "https://lawzero.org/en/news/yoshua-bengio-launches-lawzero-new-nonprofit-advancing-safe-design-ai",
-      "time": 1748984249.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44174643"
-    },
-    {
-      "title": "Vision Language Models Are Biased",
-      "score": 91,
-      "url": "https://vlmsarebiased.github.io/",
-      "time": 1748954850.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44169413"
-    },
-    {
-      "title": "Covert Web-to-App Tracking via Localhost on Android",
-      "score": 240,
-      "url": "https://localmess.github.io/",
-      "time": 1748954106.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44169314"
-    },
-    {
-      "title": "When the sun dies, could life survive on the Jupiter ocean moon Europa?",
-      "score": 27,
-      "url": "https://www.space.com/astronomy/when-the-sun-dies-could-life-survive-on-the-jupiter-ocean-moon-europa",
-      "time": 1748977015.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44173377"
     }
   ]
 }
