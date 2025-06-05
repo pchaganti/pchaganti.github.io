@@ -1,103 +1,138 @@
 {
-  "last_updated": "2025-06-04T23:42:36.695105-04:00",
+  "last_updated": "2025-06-05T02:18:14.644489-04:00",
   "stories": [
     {
+      "title": "Old payphones get new life, thanks to Vermont engineer",
+      "score": 66,
+      "url": "https://www.core77.com/posts/137183/Engineer-Fixes-and-Re-Installs-Old-Payphones-Provides-Free-Calls-to-the-Public",
+      "time": 1749096024.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44188204"
+    },
+    {
       "title": "Show HN: I made a 3D SVG Renderer that projects textures without rasterization",
-      "score": 33,
+      "score": 81,
       "url": "https://seve.blog/p/i-made-a-3d-svg-renderer-that-projects",
       "time": 1749089133.0,
       "comments_url": "https://news.ycombinator.com/item?id=44187645"
     },
     {
+      "title": "Modeling land value taxes",
+      "score": 35,
+      "url": "https://progressandpoverty.substack.com/p/want-to-model-a-land-value-tax-shift",
+      "time": 1749095803.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44188186"
+    },
+    {
       "title": "FFmpeg merges WebRTC support",
-      "score": 597,
+      "score": 646,
       "url": "https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00",
       "time": 1749052730.0,
       "comments_url": "https://news.ycombinator.com/item?id=44182186"
     },
     {
-      "title": "A Spiral Structure in the Inner Oort Cloud",
-      "score": 63,
-      "url": "https://iopscience.iop.org/article/10.3847/1538-4357/adbf9b",
-      "time": 1749079327.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44186660"
-    },
-    {
       "title": "A proposal to restrict sites from accessing a users’ local network",
-      "score": 269,
+      "score": 325,
       "url": "https://github.com/explainers-by-googlers/local-network-access",
       "time": 1749060954.0,
       "comments_url": "https://news.ycombinator.com/item?id=44183799"
     },
     {
-      "title": "After court order, OpenAI is now preserving all ChatGPT user logs",
-      "score": 521,
-      "url": "https://mastodon.laurenweinstein.org/@lauren/114627064774788581",
-      "time": 1749073653.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44185913"
-    },
-    {
-      "title": "Why I wrote the BEAM book",
-      "score": 434,
-      "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
-      "time": 1749033409.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44179257"
-    },
-    {
-      "title": "Autonomous drone defeats human champions in racing first",
-      "score": 136,
-      "url": "https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first",
-      "time": 1749067423.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44184900"
-    },
-    {
       "title": "Cursor 1.0",
-      "score": 175,
+      "score": 262,
       "url": "https://www.cursor.com/en/changelog/1-0",
       "time": 1749069593.0,
       "comments_url": "https://news.ycombinator.com/item?id=44185256"
     },
     {
-      "title": "The iPhone 15 Pro’s Depth Maps",
-      "score": 231,
-      "url": "https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html",
-      "time": 1749059835.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44183591"
+      "title": "Why I wrote the BEAM book",
+      "score": 466,
+      "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
+      "time": 1749033409.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44179257"
+    },
+    {
+      "title": "Differences in link hallucination and source comprehension across different LLM",
+      "score": 17,
+      "url": "https://mikecaulfield.substack.com/p/differences-in-link-hallucination",
+      "time": 1749094067.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44188068"
+    },
+    {
+      "title": "After court order, OpenAI is now preserving all ChatGPT user logs",
+      "score": 645,
+      "url": "https://mastodon.laurenweinstein.org/@lauren/114627064774788581",
+      "time": 1749073653.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44185913"
+    },
+    {
+      "title": "A Spiral Structure in the Inner Oort Cloud",
+      "score": 76,
+      "url": "https://iopscience.iop.org/article/10.3847/1538-4357/adbf9b",
+      "time": 1749079327.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44186660"
+    },
+    {
+      "title": "Autonomous drone defeats human champions in racing first",
+      "score": 156,
+      "url": "https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first",
+      "time": 1749067423.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44184900"
     },
     {
       "title": "Apple Notes Expected to Gain Markdown Support in iOS 26",
-      "score": 171,
+      "score": 211,
       "url": "https://www.macrumors.com/2025/06/04/apple-notes-rumored-markdown-support-ios-26/",
       "time": 1749061786.0,
       "comments_url": "https://news.ycombinator.com/item?id=44183923"
     },
     {
-      "title": "Tesla seeks to guard crash data from public disclosure",
-      "score": 173,
-      "url": "https://www.reuters.com/legal/government/musks-tesla-seeks-guard-crash-data-public-disclosure-2025-06-04/",
-      "time": 1749080447.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44186780"
-    },
-    {
-      "title": "The Prompt Engineering Playbook for Programmers",
-      "score": 199,
+      "title": "Prompt engineering playbook for programmers",
+      "score": 238,
       "url": "https://addyo.substack.com/p/the-prompt-engineering-playbook-for",
       "time": 1749052737.0,
       "comments_url": "https://news.ycombinator.com/item?id=44182188"
     },
     {
+      "title": "The iPhone 15 Pro’s Depth Maps",
+      "score": 252,
+      "url": "https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html",
+      "time": 1749059835.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44183591"
+    },
+    {
       "title": "LLMs and Elixir: Windfall or Deathblow?",
-      "score": 19,
+      "score": 48,
       "url": "https://www.zachdaniel.dev/p/llms-and-elixir-windfall-or-deathblow",
       "time": 1749078035.0,
       "comments_url": "https://news.ycombinator.com/item?id=44186496"
     },
     {
+      "title": "Tesla seeks to guard crash data from public disclosure",
+      "score": 230,
+      "url": "https://www.reuters.com/legal/government/musks-tesla-seeks-guard-crash-data-public-disclosure-2025-06-04/",
+      "time": 1749080447.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44186780"
+    },
+    {
+      "title": "parrot.live",
+      "score": 42,
+      "url": "https://github.com/hugomd/parrot.live",
+      "time": 1749078332.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44186536"
+    },
+    {
       "title": "Authentication with Axum",
-      "score": 26,
+      "score": 41,
       "url": "https://mattrighetti.com/2025/05/03/authentication-with-axum",
       "time": 1749080021.0,
       "comments_url": "https://news.ycombinator.com/item?id=44186736"
+    },
+    {
+      "title": "Ada and SPARK enter the automotive ISO-26262 market with Nvidia",
+      "score": 74,
+      "url": "https://www.adacore.com/press/ada-and-spark-enter-the-automotive-iso-26262-market-with-nvidia",
+      "time": 1749067191.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44184861"
     },
     {
       "title": "PromptArmor (YC W24) Is Hiring in San Francisco",
@@ -105,41 +140,6 @@
       "url": "https://www.ycombinator.com/companies/promptarmor/jobs/hZ3xFlj-founding-engineer-full-stack",
       "time": 1749076556.0,
       "comments_url": "https://news.ycombinator.com/item?id=44186284"
-    },
-    {
-      "title": "Not All Tokens Are Meant to Be Forgotten",
-      "score": 18,
-      "url": "https://arxiv.org/abs/2506.03142",
-      "time": 1749078948.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44186607"
-    },
-    {
-      "title": "IRS Direct File on GitHub",
-      "score": 498,
-      "url": "https://chrisgiven.com/2025/05/direct-file-on-github/",
-      "time": 1749053799.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44182356"
-    },
-    {
-      "title": "Ada and SPARK enter the automotive ISO-26262 market with Nvidia",
-      "score": 48,
-      "url": "https://www.adacore.com/press/ada-and-spark-enter-the-automotive-iso-26262-market-with-nvidia",
-      "time": 1749067191.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44184861"
-    },
-    {
-      "title": "Amelia Earhart's Reckless Final Flights",
-      "score": 60,
-      "url": "https://www.newyorker.com/magazine/2025/06/09/amelia-earharts-reckless-final-flights",
-      "time": 1749068647.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44185078"
-    },
-    {
-      "title": "parrot.live",
-      "score": 18,
-      "url": "https://github.com/hugomd/parrot.live",
-      "time": 1749078332.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44186536"
     }
   ]
 }
