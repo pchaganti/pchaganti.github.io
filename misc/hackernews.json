@@ -1,47 +1,75 @@
 {
-  "last_updated": "2025-06-05T08:23:51.936306-04:00",
+  "last_updated": "2025-06-05T11:12:43.291051-04:00",
   "stories": [
     {
-      "title": "Canadian Government Buries \"Lawful Access\" Provisions in New Border Bill",
-      "score": 30,
-      "url": "https://www.michaelgeist.ca/2025/06/privacy-at-risk-government-buries-lawful-access-provisions-in-new-border-bill/",
-      "time": 1749125398.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44190832"
+      "title": "The impossible predicament of the death newts",
+      "score": 89,
+      "url": "https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/",
+      "time": 1749130848.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44191620"
     },
     {
-      "title": "10 Years of Betting on Rust",
-      "score": 88,
-      "url": "https://tably.com/tably/10-years-of-betting-on-rust",
-      "time": 1749118789.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44190190"
+      "title": "Twitter's new encrypted DMs aren't better than the old ones",
+      "score": 52,
+      "url": "https://mjg59.dreamwidth.org/71646.html",
+      "time": 1749130649.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44191591"
     },
     {
-      "title": "DNS4EU for Public Is Available",
-      "score": 64,
-      "url": "https://www.joindns4.eu/for-public",
-      "time": 1749117439.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44190071"
+      "title": "Phptop: Simple PHP ressource profiler, safe and useful for production sites",
+      "score": 59,
+      "url": "https://github.com/bearstech/phptop",
+      "time": 1749113576.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44189741"
     },
     {
-      "title": "Track Errors First",
-      "score": 7,
-      "url": "https://www.bugsink.com/blog/track-errors-first/",
-      "time": 1749123773.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44190643"
+      "title": "A proposal to restrict sites from accessing a users’ local network",
+      "score": 493,
+      "url": "https://github.com/explainers-by-googlers/local-network-access",
+      "time": 1749060954.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44183799"
     },
     {
-      "title": "Sodern launches Astradia, a star tracker for GNSS-denied navigation",
-      "score": 15,
-      "url": "https://sodern.com/fr/astradia-le-viseur-detoiles-diurne-pour-un-systeme-de-navigation-sur-et-robuste/",
-      "time": 1749122416.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44190498"
+      "title": "Why I wrote the BEAM book",
+      "score": 543,
+      "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
+      "time": 1749033409.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44179257"
     },
     {
       "title": "Air Lab – A portable and open air quality measuring device",
-      "score": 165,
+      "score": 213,
       "url": "https://networkedartifacts.com/airlab/simulator",
       "time": 1749109345.0,
       "comments_url": "https://news.ycombinator.com/item?id=44189329"
+    },
+    {
+      "title": "From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning",
+      "score": 45,
+      "url": "https://arxiv.org/abs/2505.17117",
+      "time": 1749110361.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44189426"
+    },
+    {
+      "title": "Show HN: I made a 3D SVG Renderer that projects textures without rasterization",
+      "score": 170,
+      "url": "https://seve.blog/p/i-made-a-3d-svg-renderer-that-projects",
+      "time": 1749089133.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44187645"
+    },
+    {
+      "title": "OpenAI slams court order to save all ChatGPT logs, including deleted chats",
+      "score": 914,
+      "url": "https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/",
+      "time": 1749073653.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44185913"
+    },
+    {
+      "title": "Autonomous drone defeats human champions in racing first",
+      "score": 240,
+      "url": "https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first",
+      "time": 1749067423.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44184900"
     },
     {
       "title": "AtoB (YC S20) – Stripe for Transportation – is hiring engineers",
@@ -51,95 +79,67 @@
       "comments_url": "https://news.ycombinator.com/item?id=44190758"
     },
     {
-      "title": "FFmpeg merges WebRTC support",
-      "score": 779,
-      "url": "https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00",
-      "time": 1749052730.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44182186"
-    },
-    {
-      "title": "Cursor 1.0",
-      "score": 441,
-      "url": "https://www.cursor.com/en/changelog/1-0",
-      "time": 1749069593.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44185256"
-    },
-    {
-      "title": "A proposal to restrict sites from accessing a users’ local network",
-      "score": 424,
-      "url": "https://github.com/explainers-by-googlers/local-network-access",
-      "time": 1749060954.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44183799"
-    },
-    {
-      "title": "Why I wrote the BEAM book",
-      "score": 512,
-      "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
-      "time": 1749033409.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44179257"
-    },
-    {
-      "title": "Phptop: Simple PHP ressource profiler, safe and useful for production sites",
-      "score": 26,
-      "url": "https://github.com/bearstech/phptop",
-      "time": 1749113576.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44189741"
-    },
-    {
-      "title": "Show HN: I made a 3D SVG Renderer that projects textures without rasterization",
-      "score": 144,
-      "url": "https://seve.blog/p/i-made-a-3d-svg-renderer-that-projects",
-      "time": 1749089133.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44187645"
-    },
-    {
-      "title": "Autonomous drone defeats human champions in racing first",
-      "score": 210,
-      "url": "https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first",
-      "time": 1749067423.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44184900"
-    },
-    {
-      "title": "OpenAI slams court order to save all ChatGPT logs, including deleted chats",
-      "score": 829,
-      "url": "https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/",
-      "time": 1749073653.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44185913"
-    },
-    {
-      "title": "Prompt engineering playbook for programmers",
-      "score": 304,
-      "url": "https://addyo.substack.com/p/the-prompt-engineering-playbook-for",
-      "time": 1749052737.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44182188"
-    },
-    {
-      "title": "A Spiral Structure in the Inner Oort Cloud",
-      "score": 94,
-      "url": "https://iopscience.iop.org/article/10.3847/1538-4357/adbf9b",
-      "time": 1749079327.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44186660"
-    },
-    {
       "title": "LLMs and Elixir: Windfall or Deathblow?",
-      "score": 112,
+      "score": 148,
       "url": "https://www.zachdaniel.dev/p/llms-and-elixir-windfall-or-deathblow",
       "time": 1749078035.0,
       "comments_url": "https://news.ycombinator.com/item?id=44186496"
     },
     {
-      "title": "Apple Notes Expected to Gain Markdown Support in iOS 26",
-      "score": 270,
-      "url": "https://www.macrumors.com/2025/06/04/apple-notes-rumored-markdown-support-ios-26/",
-      "time": 1749061786.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44183923"
+      "title": "End of an Era: Landsat 7 Decommissioned After 25 Years of Earth Observation",
+      "score": 55,
+      "url": "https://www.usgs.gov/news/national-news-release/end-era-landsat-7-decommissioned-after-25-years-earth-observation",
+      "time": 1749096540.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44188248"
     },
     {
       "title": "parrot.live",
-      "score": 107,
+      "score": 148,
       "url": "https://github.com/hugomd/parrot.live",
       "time": 1749078332.0,
       "comments_url": "https://news.ycombinator.com/item?id=44186536"
+    },
+    {
+      "title": "A Spiral Structure in the Inner Oort Cloud",
+      "score": 106,
+      "url": "https://iopscience.iop.org/article/10.3847/1538-4357/adbf9b",
+      "time": 1749079327.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44186660"
+    },
+    {
+      "title": "Track Errors First",
+      "score": 40,
+      "url": "https://www.bugsink.com/blog/track-errors-first/",
+      "time": 1749123773.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44190643"
+    },
+    {
+      "title": "Experimenting with no-build Web Applications",
+      "score": 10,
+      "url": "https://andregarzia.com/2025/06/experimenting-with-no-build-web-applications.html",
+      "time": 1749120852.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44190371"
+    },
+    {
+      "title": "Cursor 1.0",
+      "score": 505,
+      "url": "https://www.cursor.com/en/changelog/1-0",
+      "time": 1749069593.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44185256"
+    },
+    {
+      "title": "The iPhone 15 Pro’s Depth Maps",
+      "score": 304,
+      "url": "https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html",
+      "time": 1749059835.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44183591"
+    },
+    {
+      "title": "Apple Notes Will Gain Markdown Export at WWDC, and, I Have Thoughts",
+      "score": 95,
+      "url": "https://daringfireball.net/linked/2025/06/04/apple-notes-markdown",
+      "time": 1749130368.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44191558"
     }
   ]
 }
