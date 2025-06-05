@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-04T17:09:08.971489-04:00",
+  "last_updated": "2025-06-04T20:58:25.728490-04:00",
   "papers": [
     {
       "title": "GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents",
@@ -104,9 +104,9 @@
       "published_time_eastern_timestamp": 1748961866.0
     },
     {
-      "title": "A Multi-agent LLM-based JUit Test Generation with Strong Oracles",
+      "title": "A Multi-agent LLM-based JUnit Test Generation with Strong Oracles",
       "summary": "Unit testing plays a critical role in ensuring software correctness. However,\nwriting unit tests manually is laborious, especially for strong typed languages\nlike Java, motivating the need for automated approaches. Traditional methods\nprimarily rely on search-based or randomized algorithms to generate tests that\nachieve high code coverage and produce regression oracles, which are derived\nfrom the program's current behavior rather than its intended functionality.\nRecent advances in large language models (LLMs) have enabled oracle generation\nfrom natural language descriptions. However, existing LLM-based methods often\nrequire LLM fine-tuning or rely on external tools such as EvoSuite for test\nprefix generation.\n  In this work, we propose CANDOR, a novel end-to-end, prompt-based LLM\nframework for automated JUnit test generation. CANDOR orchestrates multiple\nspecialized LLM agents to generate JUnit tests, including both high-quality\ntest prefixes and accurate oracles. To mitigate the notorious hallucinations in\nLLMs, we introduce a novel strategy that engages multiple reasoning LLMs in a\npanel discussion and generate accurate oracles based on consensus.\nAdditionally, to reduce the verbosity of reasoning LLMs' outputs, we propose a\nnovel dual-LLM pipeline to produce concise and structured oracle evaluations.\n  Our experiments on the HumanEvalJava and LeetCodeJava datasets show that\nCANDOR can generate accurate oracles and is slightly better than EvoSuite in\ngenerating tests with high line coverage and clearly superior in terms of\nmutation score. Moreover, CANDOR significantly outperforms the\nstate-of-the-art, prompt-based test generator LLM-Empirical, achieving\nimprovements of 15.8 to 25.1 percentage points in oracle correctness on both\ncorrect and faulty source code. Ablation studies confirm the critical\ncontributions of key agents in improving test prefix quality and oracle\naccuracy.",
-      "url": "http://arxiv.org/abs/2506.02943v1",
+      "url": "http://arxiv.org/abs/2506.02943v2",
       "published_time_eastern_timestamp": 1748961785.0
     },
     {

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-04T17:09:08.228036-04:00",
+  "last_updated": "2025-06-04T20:58:24.827209-04:00",
   "papers": [
     {
       "title": "Entity-Augmented Neuroscience Knowledge Retrieval Using Ontology and\n  Semantic Understanding Capability of LLM",
@@ -40,7 +40,7 @@
     {
       "title": "Critique-GRPO: Advancing LLM Reasoning with Natural Language and\n  Numerical Feedback",
       "summary": "Recent advances in reinforcement learning (RL) with numerical feedback, such\nas scalar rewards, have significantly enhanced the complex reasoning\ncapabilities of large language models (LLMs). Despite this success, we identify\nthree key challenges encountered by RL with solely numerical feedback:\nperformance plateaus, limited effectiveness of self-reflection, and persistent\nfailures. We then demonstrate that RL-finetuned models, even after exhibiting\nperformance plateaus, can generate correct refinements on persistently failed\nproblems by leveraging natural language feedback in the form of critiques.\nBuilding on this insight, we propose Critique-GRPO, an online RL framework that\nintegrates both natural language and numerical feedback for effective policy\noptimization. Critique-GRPO enables LLMs to learn from initial responses and\ncritique-guided refinements simultaneously while maintaining exploration.\nExtensive experiments using Qwen2.5-7B-Base and Qwen3-8B-Base show that\nCritique-GRPO consistently outperforms supervised learning-based and RL-based\nfine-tuning approaches across eight challenging mathematical, STEM, and general\nreasoning tasks, improving average pass@1 scores by approximately 4.5% and 5%,\nrespectively. Notably, Critique-GRPO surpasses a strong baseline that\nincorporates expert demonstrations within online RL. Further analysis reveals\ntwo critical insights about policy exploration: (1) higher entropy does not\nalways guarantee efficient learning from exploration, and (2) longer responses\ndo not necessarily lead to more effective exploration.",
-      "url": "http://arxiv.org/abs/2506.03106v1",
+      "url": "http://arxiv.org/abs/2506.03106v2",
       "published_time_eastern_timestamp": 1748972342.0
     },
     {
