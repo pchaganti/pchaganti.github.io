@@ -1,47 +1,68 @@
 {
-  "last_updated": "2025-06-06T08:22:39.214670-04:00",
+  "last_updated": "2025-06-06T11:10:34.219495-04:00",
   "stories": [
     {
-      "title": "Fuzzer Blind Spots: Meet Jepsen",
-      "score": 27,
-      "url": "https://tigerbeetle.com/blog/2025-06-06-fuzzer-blind-spots-meet-jepsen/",
-      "time": 1749208178.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44199662"
+      "title": "Odyc.js – A tiny JavaScript library for narrative games",
+      "score": 48,
+      "url": "https://odyc.dev",
+      "time": 1749217561.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44200866"
+    },
+    {
+      "title": "A masochist's guide to web development",
+      "score": 36,
+      "url": "https://sebastiano.tronto.net/blog/2025-06-06-webdev/",
+      "time": 1749217732.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44200895"
+    },
+    {
+      "title": "An Interactive Guide to Rate Limiting",
+      "score": 6,
+      "url": "https://blog.sagyamthapa.com.np/interactive-guide-to-rate-limiting",
+      "time": 1749221897.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44201583"
     },
     {
       "title": "Swift and Cute 2D Game Framework: Setting Up a Project with CMake",
-      "score": 14,
+      "score": 53,
       "url": "https://layer22.com/swift-and-cute-framework-setting-up-a-project-with-cmake",
       "time": 1749208516.0,
       "comments_url": "https://news.ycombinator.com/item?id=44199699"
     },
     {
+      "title": "Weaponizing Dependabot: Pwn Request at its finest",
+      "score": 37,
+      "url": "https://boostsecurity.io/blog/weaponizing-dependabot-pwn-request-at-its-finest",
+      "time": 1749207317.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44199597"
+    },
+    {
+      "title": "Small Programs and Languages",
+      "score": 43,
+      "url": "https://ratfactor.com/cards/pl-small",
+      "time": 1749217111.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44200797"
+    },
+    {
+      "title": "Dystopian tales of that time when I sold out to Google",
+      "score": 121,
+      "url": "https://wordsmith.social/elilla/deep-in-mordor-where-the-shadows-lie-dystopian-stories-of-my-time-as-a-googler",
+      "time": 1749216966.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44200773"
+    },
+    {
       "title": "Self-hosting your own media considered harmful according to YouTube",
-      "score": 864,
+      "score": 1188,
       "url": "https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful",
       "time": 1749185998.0,
       "comments_url": "https://news.ycombinator.com/item?id=44197932"
     },
     {
       "title": "Jepsen: TigerBeetle 0.16.11",
-      "score": 63,
+      "score": 147,
       "url": "https://jepsen.io/analyses/tigerbeetle-0.16.11",
       "time": 1749207231.0,
       "comments_url": "https://news.ycombinator.com/item?id=44199592"
-    },
-    {
-      "title": "Freight rail fueled a new luxury overnight train startup",
-      "score": 15,
-      "url": "https://www.freightwaves.com/news/how-freight-rail-fueled-a-new-luxury-overnight-train-startup",
-      "time": 1749200258.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44199005"
-    },
-    {
-      "title": "Czech Republic: Petition for open source in public administration",
-      "score": 64,
-      "url": "https://portal.gov.cz/e-petice/1205-petice-za-povinne-zverejneni-zdrojovych-kodu-softwaru-pouzitych-ve-verejne-sprave",
-      "time": 1749203843.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44199299"
     },
     {
       "title": "Deepnote (YC S19) is hiring engineers to build an AI-powered data notebook",
@@ -51,95 +72,74 @@
       "comments_url": "https://news.ycombinator.com/item?id=44199967"
     },
     {
+      "title": "ThornWalli/web-workbench: Old operating system as homepage",
+      "score": 10,
+      "url": "https://github.com/ThornWalli/web-workbench",
+      "time": 1749212386.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44200101"
+    },
+    {
       "title": "The impossible predicament of the death newts",
-      "score": 493,
+      "score": 525,
       "url": "https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/",
       "time": 1749130848.0,
       "comments_url": "https://news.ycombinator.com/item?id=44191620"
     },
     {
+      "title": "How to (actually) send DTMF on Android without being the default call app",
+      "score": 7,
+      "url": "https://edm115.dev/blog/2025/01/22/how-to-send-dtmf-on-android",
+      "time": 1749209351.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44199770"
+    },
+    {
+      "title": "Top researchers leave Intel to build startup with 'the biggest, baddest CPU'",
+      "score": 13,
+      "url": "https://www.oregonlive.com/silicon-forest/2025/06/top-researchers-leave-intel-to-build-startup-with-the-biggest-baddest-cpu.html",
+      "time": 1749218848.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44201072"
+    },
+    {
+      "title": "Show HN: Air Lab – A portable and open air quality measuring device",
+      "score": 427,
+      "url": "https://networkedartifacts.com/airlab/simulator",
+      "time": 1749109345.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44189329"
+    },
+    {
+      "title": "How we’re responding to The NYT’s data demands in order to protect user privacy",
+      "score": 238,
+      "url": "https://openai.com/index/response-to-nyt-data-demands/",
+      "time": 1749170117.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44196850"
+    },
+    {
       "title": "Tokasaurus: An LLM inference engine for high-throughput workloads",
-      "score": 179,
+      "score": 192,
       "url": "https://scalingintelligence.stanford.edu/blogs/tokasaurus/",
       "time": 1749158827.0,
       "comments_url": "https://news.ycombinator.com/item?id=44195961"
     },
     {
       "title": "Test Postgres in Python Like SQLite",
-      "score": 113,
+      "score": 131,
       "url": "https://github.com/wey-gu/py-pglite",
       "time": 1749171380.0,
       "comments_url": "https://news.ycombinator.com/item?id=44196945"
     },
     {
-      "title": "X changes its terms to bar training of AI models using its content",
-      "score": 157,
-      "url": "https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/",
-      "time": 1749142330.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44193390"
-    },
-    {
       "title": "Show HN: Claude Composer",
-      "score": 128,
+      "score": 140,
       "url": "https://github.com/possibilities/claude-composer",
       "time": 1749164001.0,
       "comments_url": "https://news.ycombinator.com/item?id=44196417"
     },
     {
-      "title": "How we’re responding to The NYT’s data demands in order to protect user privacy",
-      "score": 199,
-      "url": "https://openai.com/index/response-to-nyt-data-demands/",
-      "time": 1749170117.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44196850"
-    },
-    {
-      "title": "Show HN: Air Lab – A portable and open air quality measuring device",
-      "score": 408,
-      "url": "https://networkedartifacts.com/airlab/simulator",
-      "time": 1749109345.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44189329"
-    },
-    {
       "title": "What a developer needs to know about SCIM",
-      "score": 116,
+      "score": 133,
       "url": "https://tesseral.com/blog/what-a-developer-needs-to-know-about-scim",
       "time": 1749163701.0,
       "comments_url": "https://news.ycombinator.com/item?id=44196393"
-    },
-    {
-      "title": "APL Interpreter – An implementation of APL, written in Haskell (2024)",
-      "score": 113,
-      "url": "https://scharenbroch.dev/projects/apl-interpreter/",
-      "time": 1749158544.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44195931"
-    },
-    {
-      "title": "Seven Days at the Bin Store",
-      "score": 189,
-      "url": "https://defector.com/seven-days-at-the-bin-store",
-      "time": 1749139623.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44192995"
-    },
-    {
-      "title": "AMD Radeon 8050S \"Strix Halo\" Linux Graphics Performance Review",
-      "score": 14,
-      "url": "https://www.phoronix.com/review/amd-radeon-8050s-graphics",
-      "time": 1749206064.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44199495"
-    },
-    {
-      "title": "Aether: A CMS That Gets Out of Your Way",
-      "score": 14,
-      "url": "https://lebcit.github.io/post/meet-aether-a-cms-that-actually-gets-out-of-your-way/",
-      "time": 1749194056.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44198503"
-    },
-    {
-      "title": "Show HN: Ask-human-mcp – zero-config human-in-loop hatch to stop hallucinations",
-      "score": 89,
-      "url": "https://masonyarbrough.com/blog/ask-human",
-      "time": 1749164236.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44196433"
     }
   ]
 }
