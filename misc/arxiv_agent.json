@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-05T17:11:06.467288-04:00",
+  "last_updated": "2025-06-05T20:58:22.244313-04:00",
   "papers": [
     {
       "title": "OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data\n  Synthesis",
@@ -46,7 +46,7 @@
     {
       "title": "macOSWorld: A Multilingual Interactive Benchmark for GUI Agents",
       "summary": "Graphical User Interface (GUI) agents show promising capabilities for\nautomating computer-use tasks and facilitating accessibility, but existing\ninteractive benchmarks are mostly English-only, covering web-use or Windows,\nLinux, and Android environments, but not macOS. macOS is a major OS with\ndistinctive GUI patterns and exclusive applications. To bridge the gaps, we\npresent macOSWorld, the first comprehensive benchmark for evaluating GUI agents\non macOS. macOSWorld features 202 multilingual interactive tasks across 30\napplications (28 macOS-exclusive), with task instructions and OS interfaces\noffered in 5 languages (English, Chinese, Arabic, Japanese, and Russian). As\nGUI agents are shown to be vulnerable to deception attacks, macOSWorld also\nincludes a dedicated safety benchmarking subset. Our evaluation on six GUI\nagents reveals a dramatic gap: proprietary computer-use agents lead at above\n30% success rate, while open-source lightweight research models lag at below\n2%, highlighting the need for macOS domain adaptation. Multilingual benchmarks\nalso expose common weaknesses, especially in Arabic, with a 27.5% average\ndegradation compared to English. Results from safety benchmarking also\nhighlight that deception attacks are more general and demand immediate\nattention. macOSWorld is available at https://github.com/showlab/macosworld.",
-      "url": "http://arxiv.org/abs/2506.04135v1",
+      "url": "http://arxiv.org/abs/2506.04135v2",
       "published_time_eastern_timestamp": 1749054416.0
     },
     {

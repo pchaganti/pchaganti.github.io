@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-05T17:11:07.181412-04:00",
+  "last_updated": "2025-06-05T20:58:23.045789-04:00",
   "papers": [
     {
       "title": "Struct2D: A Perception-Guided Framework for Spatial Reasoning in Large\n  Multimodal Models",
@@ -57,8 +57,8 @@
     },
     {
       "title": "OpenThoughts: Data Recipes for Reasoning Models",
-      "summary": "Reasoning models have made rapid progress on many benchmarks involving math,\ncode, and science. Yet, there are still many open questions about the best\ntraining recipes for reasoning since state-of-the-art models often rely on\nproprietary datasets with little to no public information available. To address\nthis, the goal of the OpenThoughts project is to create open-source datasets\nfor training reasoning models. After initial explorations, our OpenThoughts2-1M\ndataset led to OpenThinker2-32B, the first model trained on public reasoning\ndata to match DeepSeek-R1-Distill-32B on standard reasoning benchmarks such as\nAIME and LiveCodeBench. We then improve our dataset further by systematically\ninvestigating each step of our data generation pipeline with 1,000+ controlled\nexperiments, which led to OpenThoughts3. Scaling the pipeline to 1.2M examples\nand using QwQ-32B as teacher yields our OpenThinker3-7B model, which achieves\nstate-of-the-art results: 53% on AIME 2025, 51% on LiveCodeBench 06/24-01/25,\nand 54% on GPQA Diamond. All of our datasets and models are available on\nhttps://openthoughts.ai.",
-      "url": "http://arxiv.org/abs/2506.04178v1",
+      "summary": "Reasoning models have made rapid progress on many benchmarks involving math,\ncode, and science. Yet, there are still many open questions about the best\ntraining recipes for reasoning since state-of-the-art models often rely on\nproprietary datasets with little to no public information available. To address\nthis, the goal of the OpenThoughts project is to create open-source datasets\nfor training reasoning models. After initial explorations, our OpenThoughts2-1M\ndataset led to OpenThinker2-32B, the first model trained on public reasoning\ndata to match DeepSeek-R1-Distill-32B on standard reasoning benchmarks such as\nAIME and LiveCodeBench. We then improve our dataset further by systematically\ninvestigating each step of our data generation pipeline with 1,000+ controlled\nexperiments, which led to OpenThoughts3. Scaling the pipeline to 1.2M examples\nand using QwQ-32B as teacher yields our OpenThoughts3-7B model, which achieves\nstate-of-the-art results: 53% on AIME 2025, 51% on LiveCodeBench 06/24-01/25,\nand 54% on GPQA Diamond - improvements of 15.3, 17.2, and 20.5 percentage\npoints compared to the DeepSeek-R1-Distill-Qwen-7B. All of our datasets and\nmodels are available on https://openthoughts.ai.",
+      "url": "http://arxiv.org/abs/2506.04178v2",
       "published_time_eastern_timestamp": 1749057939.0
     },
     {

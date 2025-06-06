@@ -1,40 +1,96 @@
 {
-  "last_updated": "2025-06-05T17:11:04.206143-04:00",
+  "last_updated": "2025-06-05T20:58:19.814369-04:00",
   "stories": [
     {
+      "title": "Tokasaurus: An LLM Inference Engine for High-Throughput Workloads",
+      "score": 86,
+      "url": "https://scalingintelligence.stanford.edu/blogs/tokasaurus/",
+      "time": 1749158827.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44195961"
+    },
+    {
+      "title": "Show HN: Claude Composer",
+      "score": 40,
+      "url": "https://github.com/possibilities/claude-composer",
+      "time": 1749164001.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44196417"
+    },
+    {
       "title": "The impossible predicament of the death newts",
-      "score": 325,
+      "score": 389,
       "url": "https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/",
       "time": 1749130848.0,
       "comments_url": "https://news.ycombinator.com/item?id=44191620"
     },
     {
-      "title": "Google restricts Android sideloading",
-      "score": 357,
-      "url": "https://puri.sm/posts/google-restricts-android-sideloading-what-it-means-for-user-autonomy-and-the-future-of-mobile-freedom/",
-      "time": 1749140942.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44193198"
+      "title": "I Do Not Remember My Life and It's Fine",
+      "score": 23,
+      "url": "https://aethermug.com/posts/i-do-not-remember-my-life-and-it-s-fine",
+      "time": 1749165979.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44196576"
+    },
+    {
+      "title": "APL Interpreter – An implementation of APL, written in Haskell (2024)",
+      "score": 50,
+      "url": "https://scharenbroch.dev/projects/apl-interpreter/",
+      "time": 1749158544.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44195931"
+    },
+    {
+      "title": "Machine Learning: The Native Language of Biology",
+      "score": 12,
+      "url": "https://decodingbiology.substack.com/p/machine-learning-the-native-language",
+      "time": 1749163912.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44196410"
+    },
+    {
+      "title": "Show HN: Ask-human-mcp – zero-config human-in-loop hatch to stop hallucinations",
+      "score": 21,
+      "url": "https://masonyarbrough.com/blog/ask-human",
+      "time": 1749164236.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44196433"
+    },
+    {
+      "title": "What a developer needs to know about SCIM",
+      "score": 14,
+      "url": "https://tesseral.com/blog/what-a-developer-needs-to-know-about-scim",
+      "time": 1749163701.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44196393"
+    },
+    {
+      "title": "Anthropic co-founder on cutting access to Windsurf",
+      "score": 22,
+      "url": "https://techcrunch.com/2025/06/05/anthropic-co-founder-on-cutting-access-to-windsurf-it-would-be-odd-for-us-to-sell-claude-to-openai/",
+      "time": 1749169483.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44196807"
+    },
+    {
+      "title": "SkyRoof: New Ham Satellite Tracking and SDR Receiver Software",
+      "score": 51,
+      "url": "https://www.rtl-sdr.com/skyroof-new-ham-satellite-tracking-and-sdr-receiver-software/",
+      "time": 1749150941.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44194859"
+    },
+    {
+      "title": "Air Lab – A portable and open air quality measuring device",
+      "score": 325,
+      "url": "https://networkedartifacts.com/airlab/simulator",
+      "time": 1749109345.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44189329"
+    },
+    {
+      "title": "The Universal Tech Tree",
+      "score": 60,
+      "url": "https://asteriskmag.com/issues/10/the-universal-tech-tree",
+      "time": 1748888756.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44161607"
     },
     {
       "title": "Seven Days at the Bin Store",
-      "score": 87,
+      "score": 132,
       "url": "https://defector.com/seven-days-at-the-bin-store",
       "time": 1749139623.0,
       "comments_url": "https://news.ycombinator.com/item?id=44192995"
-    },
-    {
-      "title": "Show HN: iOS Screen Time from a REST API",
-      "score": 52,
-      "url": "https://www.thescreentimenetwork.com/api/",
-      "time": 1749146781.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44194120"
-    },
-    {
-      "title": "Show HN: ClickStack – Open-source Datadog alternative by ClickHouse and HyperDX",
-      "score": 93,
-      "url": "https://github.com/hyperdxio/hyperdx",
-      "time": 1749146481.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44194082"
     },
     {
       "title": "Converge (YC S23) Well-capitalized New York startup seeks product developers",
@@ -44,102 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=44195720"
     },
     {
-      "title": "Understanding the PURL Specification (Package URL)",
-      "score": 55,
-      "url": "https://fossa.com/blog/understanding-purl-specification-package-url/",
-      "time": 1749139374.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44192955"
+      "title": "Show HN: iOS Screen Time from a REST API",
+      "score": 76,
+      "url": "https://www.thescreentimenetwork.com/api/",
+      "time": 1749146781.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44194120"
+    },
+    {
+      "title": "Show HN: Lambduck, a Functional Programming Brainfuck",
+      "score": 4,
+      "url": "https://imjakingit.github.io/lambduck/",
+      "time": 1749166175.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44196589"
+    },
+    {
+      "title": "ICANN fee price hike by 11% [pdf]",
+      "score": 58,
+      "url": "https://itp.cdn.icann.org/en/files/contracted-parties-communications/attn-planned-variable-accreditation-fee-adjustment-24oct24-en.pdf",
+      "time": 1749146047.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44194014"
+    },
+    {
+      "title": "Show HN: ClickStack – Open-source Datadog alternative by ClickHouse and HyperDX",
+      "score": 161,
+      "url": "https://github.com/hyperdxio/hyperdx",
+      "time": 1749146481.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44194082"
     },
     {
       "title": "Programming language Dino and its implementation",
-      "score": 13,
+      "score": 34,
       "url": "https://github.com/dino-lang/dino",
       "time": 1749145643.0,
       "comments_url": "https://news.ycombinator.com/item?id=44193965"
     },
     {
-      "title": "Aurora, a foundation model for the Earth system",
-      "score": 40,
-      "url": "https://www.nytimes.com/2025/05/21/climate/ai-weather-models-aurora-microsoft.html",
-      "time": 1749151020.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44194871"
-    },
-    {
-      "title": "The Universal Tech Tree",
-      "score": 17,
-      "url": "https://asteriskmag.com/issues/10/the-universal-tech-tree",
-      "time": 1748888756.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44161607"
-    },
-    {
-      "title": "A proposal to restrict sites from accessing a users’ local network",
-      "score": 569,
-      "url": "https://github.com/explainers-by-googlers/local-network-access",
-      "time": 1749060954.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44183799"
-    },
-    {
-      "title": "Phptop: Simple PHP ressource profiler, safe and useful for production sites",
-      "score": 87,
-      "url": "https://github.com/bearstech/phptop",
-      "time": 1749113576.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44189741"
-    },
-    {
-      "title": "Rare black iceberg spotted off Labrador coast could be 100k years old",
-      "score": 76,
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/black-iceberg-labrador-coast-1.7551078",
-      "time": 1749140464.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44193120"
-    },
-    {
-      "title": "Air Lab – A portable and open air quality measuring device",
-      "score": 292,
-      "url": "https://networkedartifacts.com/airlab/simulator",
-      "time": 1749109345.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44189329"
-    },
-    {
-      "title": "Gemini-2.5-pro-preview-06-05",
-      "score": 254,
-      "url": "https://deepmind.google/models/gemini/pro/",
-      "time": 1749141889.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44193328"
-    },
-    {
-      "title": "!Camera",
-      "score": 23,
-      "url": "https://notbor.ing/product/camera",
-      "time": 1749151424.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44194922"
-    },
-    {
-      "title": "Cysteine depletion triggers adipose tissue thermogenesis and weight loss",
-      "score": 73,
-      "url": "https://www.nature.com/articles/s42255-025-01297-8",
-      "time": 1749141180.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44193225"
-    },
-    {
-      "title": "Autonomous drone defeats human champions in racing first",
-      "score": 284,
-      "url": "https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first",
-      "time": 1749067423.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44184900"
-    },
-    {
-      "title": "From tokens to thoughts: How LLMs and humans trade compression for meaning",
-      "score": 91,
-      "url": "https://arxiv.org/abs/2505.17117",
-      "time": 1749110361.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44189426"
-    },
-    {
-      "title": "OpenAI slams court order to save all ChatGPT logs, including deleted chats",
-      "score": 1040,
-      "url": "https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/",
-      "time": 1749073653.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44185913"
+      "title": "Eleven v3",
+      "score": 150,
+      "url": "https://elevenlabs.io/v3",
+      "time": 1749148914.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44194521"
     }
   ]
 }
