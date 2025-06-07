@@ -1,40 +1,82 @@
 {
-  "last_updated": "2025-06-07T08:20:27.164218-04:00",
+  "last_updated": "2025-06-07T11:10:50.440175-04:00",
   "stories": [
     {
+      "title": "What was Radiant AI, anyway?",
+      "score": 31,
+      "url": "https://blog.paavo.me/radiant-ai/",
+      "time": 1749302573.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44209497"
+    },
+    {
+      "title": "Why We're Moving on from Nix",
+      "score": 76,
+      "url": "https://blog.railway.com/p/introducing-railpack",
+      "time": 1749296173.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44208968"
+    },
+    {
       "title": "Low-Level Optimization with Zig",
-      "score": 118,
+      "score": 154,
       "url": "https://alloc.dev/2025/06/07/zig_optimization",
       "time": 1749281184.0,
       "comments_url": "https://news.ycombinator.com/item?id=44208060"
     },
     {
+      "title": "The time bomb in the tax code that's fueling mass tech layoffs",
+      "score": 1050,
+      "url": "https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502",
+      "time": 1749043821.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44180533"
+    },
+    {
+      "title": "A tool for burning visible pictures on a compact disc surface",
+      "score": 47,
+      "url": "https://github.com/arduinocelentano/cdimage",
+      "time": 1749285023.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44208283"
+    },
+    {
       "title": "The FAIR Package Manager: Decentralized WordPress infrastructure",
-      "score": 117,
+      "score": 145,
       "url": "https://joost.blog/path-forward-for-wordpress/",
       "time": 1749271513.0,
       "comments_url": "https://news.ycombinator.com/item?id=44207503"
     },
     {
       "title": "Researchers develop ‘transparent paper’ as alternative to plastics",
-      "score": 291,
+      "score": 315,
       "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/",
       "time": 1749246190.0,
       "comments_url": "https://news.ycombinator.com/item?id=44205282"
     },
     {
-      "title": "The time bomb in the tax code that's fueling mass tech layoffs",
-      "score": 925,
-      "url": "https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502",
-      "time": 1749043821.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44180533"
+      "title": "If it works, it's not AI: a commercial look at AI startups (1999)",
+      "score": 26,
+      "url": "https://dspace.mit.edu/handle/1721.1/80558",
+      "time": 1749304356.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44209665"
     },
     {
-      "title": "Falsehoods programmers believe about aviation",
-      "score": 301,
-      "url": "https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/",
-      "time": 1749248433.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44205590"
+      "title": "How we decreased GitLab repo backup times from 48 hours to 41 minutes",
+      "score": 464,
+      "url": "https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/",
+      "time": 1749224585.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44201975"
+    },
+    {
+      "title": "Getting Past Procrastination",
+      "score": 175,
+      "url": "https://spectrum.ieee.org/getting-past-procastination",
+      "time": 1749265615.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44207095"
+    },
+    {
+      "title": "Why are smokestacks so tall?",
+      "score": 121,
+      "url": "https://practical.engineering/blog/2025/6/3/why-are-smokestacks-so-tall",
+      "time": 1749258399.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44206553"
     },
     {
       "title": "Gander (YC F24) Is Hiring Founding Engineers and Interns",
@@ -44,102 +86,60 @@
       "comments_url": "https://news.ycombinator.com/item?id=44209082"
     },
     {
-      "title": "How we decreased GitLab repo backup times from 48 hours to 41 minutes",
-      "score": 446,
-      "url": "https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/",
-      "time": 1749224585.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44201975"
-    },
-    {
-      "title": "Why are smokestacks so tall?",
-      "score": 95,
-      "url": "https://practical.engineering/blog/2025/6/3/why-are-smokestacks-so-tall",
-      "time": 1749258399.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44206553"
-    },
-    {
       "title": "A year of funded FreeBSD development",
-      "score": 288,
+      "score": 303,
       "url": "https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html",
       "time": 1749238554.0,
       "comments_url": "https://news.ycombinator.com/item?id=44204224"
     },
     {
       "title": "Sharing everything I could understand about gradient noise",
-      "score": 80,
+      "score": 97,
       "url": "https://blog.pkh.me/p/42-sharing-everything-i-could-understand-about-gradient-noise.html",
       "time": 1749221597.0,
       "comments_url": "https://news.ycombinator.com/item?id=44201527"
     },
     {
-      "title": "The Illusion of Thinking: Understanding the Limitations of Reasoning LLMs [pdf]",
-      "score": 220,
-      "url": "https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf",
-      "time": 1749233916.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44203562"
-    },
-    {
-      "title": "Highly efficient matrix transpose in Mojo",
-      "score": 110,
-      "url": "https://veitner.bearblog.dev/highly-efficient-matrix-transpose-in-mojo/",
-      "time": 1749238109.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44204155"
-    },
-    {
-      "title": "Medieval Africans had a unique process for purifying gold with glass (2019)",
-      "score": 106,
-      "url": "https://www.atlasobscura.com/articles/medieval-african-gold",
-      "time": 1749248499.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44205599"
-    },
-    {
-      "title": "Sandia turns on brain-like storage-free supercomputer",
-      "score": 180,
-      "url": "https://blocksandfiles.com/2025/06/06/sandia-turns-on-brain-like-storage-free-supercomputer/",
-      "time": 1749223484.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44201812"
-    },
-    {
       "title": "Reverse Engineering Cursor's LLM Client",
-      "score": 31,
+      "score": 68,
       "url": "https://www.tensorzero.com/blog/reverse-engineering-cursors-llm-client/",
       "time": 1749265166.0,
       "comments_url": "https://news.ycombinator.com/item?id=44207063"
     },
     {
+      "title": "The Illusion of Thinking: Understanding the Limitations of Reasoning LLMs [pdf]",
+      "score": 255,
+      "url": "https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf",
+      "time": 1749233916.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44203562"
+    },
+    {
+      "title": "Medieval Africans had a unique process for purifying gold with glass (2019)",
+      "score": 111,
+      "url": "https://www.atlasobscura.com/articles/medieval-african-gold",
+      "time": 1749248499.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44205599"
+    },
+    {
+      "title": "Highly efficient matrix transpose in Mojo",
+      "score": 111,
+      "url": "https://veitner.bearblog.dev/highly-efficient-matrix-transpose-in-mojo/",
+      "time": 1749238109.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44204155"
+    },
+    {
       "title": "NASA delays next flight of Boeing's alternative to SpaceX Dragon",
-      "score": 32,
+      "score": 50,
       "url": "https://theedgemalaysia.com/node/758199",
       "time": 1749266191.0,
       "comments_url": "https://news.ycombinator.com/item?id=44207144"
     },
     {
-      "title": "A masochist's guide to web development",
-      "score": 225,
-      "url": "https://sebastiano.tronto.net/blog/2025-06-06-webdev/",
-      "time": 1749217732.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44200895"
-    },
-    {
-      "title": "I Read All of Cloudflare's Claude-Generated Commits",
-      "score": 140,
-      "url": "https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/",
-      "time": 1749249301.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44205697"
-    },
-    {
-      "title": "Show HN: AI game animation sprite generator",
-      "score": 94,
-      "url": "https://www.godmodeai.cloud/ai-sprite-generator",
-      "time": 1749238229.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44204181"
-    },
-    {
-      "title": "Getting Past Procrastination",
-      "score": 134,
-      "url": "https://spectrum.ieee.org/getting-past-procastination",
-      "time": 1749265615.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44207095"
+      "title": "Sandia turns on brain-like storage-free supercomputer",
+      "score": 187,
+      "url": "https://blocksandfiles.com/2025/06/06/sandia-turns-on-brain-like-storage-free-supercomputer/",
+      "time": 1749223484.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44201812"
     }
   ]
 }
