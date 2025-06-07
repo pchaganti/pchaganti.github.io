@@ -1,54 +1,89 @@
 {
-  "last_updated": "2025-06-07T14:14:52.207986-04:00",
+  "last_updated": "2025-06-07T17:10:03.592194-04:00",
   "stories": [
     {
+      "title": "Convert Photos to Atkinson Dithering",
+      "score": 30,
+      "url": "https://gazs.github.io/canvas-atkinson-dither/",
+      "time": 1749328398.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44212446"
+    },
+    {
       "title": "Bill Atkinson has died",
-      "score": 224,
-      "url": "https://m.facebook.com/story.php?story_fbid=10238073579963378&id=1378467145",
+      "score": 615,
+      "url": "https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip",
       "time": 1749313198.0,
       "comments_url": "https://news.ycombinator.com/item?id=44210606"
     },
     {
-      "title": "Hate Radio",
-      "score": 95,
-      "url": "https://rwandanstories.org/genocide/hate_radio.html",
-      "time": 1749306125.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44209833"
+      "title": "BorgBackup 2 has no server-side append-only anymore",
+      "score": 64,
+      "url": "https://github.com/borgbackup/borg/pull/8798",
+      "time": 1749321561.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44211612"
     },
     {
-      "title": "Why We're Moving on from Nix",
-      "score": 132,
-      "url": "https://blog.railway.com/p/introducing-railpack",
-      "time": 1749296173.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44208968"
+      "title": "Self-Host and Tech Independence: The Joy of Building Your Own",
+      "score": 27,
+      "url": "https://www.ssp.sh/blog/self-host-self-independence/",
+      "time": 1749318711.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44211273"
     },
     {
-      "title": "What was Radiant AI, anyway?",
-      "score": 87,
-      "url": "https://blog.paavo.me/radiant-ai/",
-      "time": 1749302573.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44209497"
+      "title": "Updates to Advanced Voice Mode for paid users",
+      "score": 8,
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "time": 1749328058.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44212413"
+    },
+    {
+      "title": "Discovering a JDK Race Condition, and Debugging It in 30 Minutes with Fray",
+      "score": 20,
+      "url": "https://aoli.al/blogs/jdk-bug/",
+      "time": 1749322877.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44211779"
     },
     {
       "title": "Washington Post's Privacy Tip: Stop Using Chrome, Delete Meta Apps (and Yandex)",
-      "score": 36,
+      "score": 170,
       "url": "https://tech.slashdot.org/story/25/06/07/035249/washington-posts-privacy-tip-stop-using-chrome-delete-metas-apps-and-yandex",
       "time": 1749313993.0,
       "comments_url": "https://news.ycombinator.com/item?id=44210689"
     },
     {
+      "title": "The time bomb in the tax code that's fueling mass tech layoffs",
+      "score": 1233,
+      "url": "https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502",
+      "time": 1749043821.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44180533"
+    },
+    {
+      "title": "Why We're Moving on from Nix",
+      "score": 171,
+      "url": "https://blog.railway.com/p/introducing-railpack",
+      "time": 1749296173.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44208968"
+    },
+    {
       "title": "Low-Level Optimization with Zig",
-      "score": 183,
+      "score": 221,
       "url": "https://alloc.dev/2025/06/07/zig_optimization",
       "time": 1749281184.0,
       "comments_url": "https://news.ycombinator.com/item?id=44208060"
     },
     {
-      "title": "The time bomb in the tax code that's fueling mass tech layoffs",
-      "score": 1158,
-      "url": "https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502",
-      "time": 1749043821.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44180533"
+      "title": "A tool for burning visible pictures on a compact disc surface",
+      "score": 110,
+      "url": "https://github.com/arduinocelentano/cdimage",
+      "time": 1749285023.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44208283"
+    },
+    {
+      "title": "Researchers develop ‘transparent paper’ as alternative to plastics",
+      "score": 359,
+      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/",
+      "time": 1749246190.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44205282"
     },
     {
       "title": "OneText (YC W23) Is Hiring a DevOps/DBA Lead Engineer",
@@ -58,88 +93,53 @@
       "comments_url": "https://news.ycombinator.com/item?id=44210895"
     },
     {
-      "title": "After Pornhub left France, this VPN saw a 1,000% surge in signups in 30 minutes",
-      "score": 72,
-      "url": "https://mashable.com/article/proton-vpn-pornhub-france",
-      "time": 1749312757.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44210557"
+      "title": "Hollywood Is Already Using AI (and Hiding It)",
+      "score": 31,
+      "url": "https://www.vulture.com/article/generative-ai-hollywood-movies-tv.html",
+      "time": 1749323645.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44211882"
     },
     {
-      "title": "I'm Wirecutter's Water-Quality Expert. I Don't Filter My Water",
-      "score": 18,
-      "url": "https://www.nytimes.com/wirecutter/reviews/know-your-water-quality/",
-      "time": 1749317566.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44211130"
-    },
-    {
-      "title": "A tool for burning visible pictures on a compact disc surface",
-      "score": 83,
-      "url": "https://github.com/arduinocelentano/cdimage",
-      "time": 1749285023.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44208283"
-    },
-    {
-      "title": "Researchers develop ‘transparent paper’ as alternative to plastics",
-      "score": 341,
-      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/",
-      "time": 1749246190.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44205282"
-    },
-    {
-      "title": "If it works, it's not AI: a commercial look at AI startups (1999)",
-      "score": 67,
-      "url": "https://dspace.mit.edu/handle/1721.1/80558",
-      "time": 1749304356.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44209665"
-    },
-    {
-      "title": "EFF to the FTC: DMCA Section 1201 Creates Anti-Competitive Regulatory Barriers",
-      "score": 42,
-      "url": "https://www.eff.org/deeplinks/2025/06/eff-files-comments-ftc-regarding-reducing-anti-competitive-regulatory-barriers",
-      "time": 1749311486.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44210441"
+      "title": "What was Radiant AI, anyway?",
+      "score": 127,
+      "url": "https://blog.paavo.me/radiant-ai/",
+      "time": 1749302573.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44209497"
     },
     {
       "title": "The FAIR Package Manager: Decentralized WordPress infrastructure",
-      "score": 160,
+      "score": 174,
       "url": "https://joost.blog/path-forward-for-wordpress/",
       "time": 1749271513.0,
       "comments_url": "https://news.ycombinator.com/item?id=44207503"
     },
     {
       "title": "Getting Past Procrastination",
-      "score": 220,
+      "score": 262,
       "url": "https://spectrum.ieee.org/getting-past-procastination",
       "time": 1749265615.0,
       "comments_url": "https://news.ycombinator.com/item?id=44207095"
     },
     {
       "title": "How we decreased GitLab repo backup times from 48 hours to 41 minutes",
-      "score": 482,
+      "score": 500,
       "url": "https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/",
       "time": 1749224585.0,
       "comments_url": "https://news.ycombinator.com/item?id=44201975"
     },
     {
-      "title": "My experiment living in a tent in Hong Kong's jungle",
-      "score": 37,
-      "url": "https://corentin.trebaol.com/Blog/8.+The+Homelessness+Experiment",
-      "time": 1749314409.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44210736"
+      "title": "Musk-Trump dispute includes threats to SpaceX contracts",
+      "score": 88,
+      "url": "https://spacenews.com/musk-trump-dispute-includes-threats-to-spacex-contracts/",
+      "time": 1749302715.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44209515"
     },
     {
-      "title": "A year of funded FreeBSD development",
-      "score": 322,
-      "url": "https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html",
-      "time": 1749238554.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44204224"
-    },
-    {
-      "title": "Why are smokestacks so tall?",
-      "score": 141,
-      "url": "https://practical.engineering/blog/2025/6/3/why-are-smokestacks-so-tall",
-      "time": 1749258399.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44206553"
+      "title": "PyOpticL – Code-to-CAD optical system engineering",
+      "score": 8,
+      "url": "https://github.com/UMassIonTrappers/PyOpticL",
+      "time": 1749312977.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44210582"
     }
   ]
 }
