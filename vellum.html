@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Simple words arranged, One door opens to a room,The vellum holds its breath."
+    />
+    <meta name="author" content="Prabhakar Chaganti" />
+    <meta name="keywords" content="Vellum, Blog" />
+    <meta property="og:title" content="Vellum" />
+    <meta
+      property="og:description"
+      content="Simple words arranged, One door opens to a room,The vellum holds its breath."
+    />
+    <title>Vellum</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&family=Montserrat:wght@700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+    <style>
+      /* CSS has been updated for better focus mode */
+      body {
+        font-family: "Merriweather", serif;
+        line-height: 1.7;
+        background-color: #f8f9fa; /* Page background */
+        color: #333;
+        margin: 0;
+        padding: 0;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+      }
+      .container {
+        max-width: 720px;
+        margin: 0 auto;
+        padding: 40px 20px;
+      }
+      .page-header {
+        text-align: center;
+        margin-bottom: 60px;
+      }
+      .page-header h1 {
+        font-family: "Montserrat", sans-serif;
+        font-size: 2.5rem;
+        color: #1a1a1a;
+        margin: 0;
+      }
+
+      .containerh {
+        padding: 5px 20px; /* Adjusted padding for mobile */
+        background-color: var(--container-bg);
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+        position: relative;
+        z-index: 2;
+      }
+
+      h1 {
+        text-align: left; /* ADD this */
+        color: var(--text-color);
+        font-weight: 500; /* Slightly bolder main title */
+        font-size: 1.7em;
+        line-height: 1.3; /* Adjust line height if needed */
+        margin: 0.5em 0;
+        word-break: break-word; /* Prevent text overflow */
+      }
+
+      /* Styles for the new spans */
+      .h1-separator {
+        font-weight: 300; /* Lighter weight for the pipe */
+        color: #555; /* Use a less prominent color */
+        margin: 0 0.2em; /* Add a little space around the pipe */
+      }
+
+      .h1-subtitle {
+        font-weight: 300; /* Lighter weight for the subtitle */
+        color: #555; /* Match separator or use main text color */
+        /* color: var(--text-color); */ /* Alternative: Keep main color but lighter weight */
+      }
+
+      .h1-link {
+        color: inherit; /* Make the link inherit the H1's text color */
+        text-decoration: none; /* Remove the default underline */
+        transition: color 0.2s ease; /* Add smooth transition for hover */
+        padding: 8px 12px; /* Larger touch target */
+        margin: -8px -12px; /* Offset padding to maintain layout */
+        display: inline-block;
+        min-height: 44px; /* Minimum touch target size */
+        line-height: 44px;
+      }
+
+      .h1-link:hover {
+        color: #0077cc; /* Change color on hover (optional, use var(--text-color) to keep it same) */
+        /* text-decoration: underline; */ /* Optionally add underline on hover */
+      }
+
+      /* UPDATED: Inactive posts now have a transparent background */
+      .blog-post {
+        background-color: transparent;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        padding: 25px;
+        margin-bottom: 20px;
+        transition: background-color 0.3s ease, box-shadow 0.3s ease,
+          border-color 0.3s ease;
+      }
+
+      /* UPDATED: Expanded post becomes white and lifts off the page */
+      .blog-post.expanded {
+        background-color: #ffffff;
+        border-color: #dee2e6;
+        box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
+      }
+
+      .post-header {
+        cursor: pointer;
+        position: relative;
+      }
+
+      .post-title {
+        font-family: "Montserrat", sans-serif;
+        font-size: 1.8rem;
+        margin: 0;
+        color: #222;
+        display: flex;
+        align-items: center;
+        margin-bottom: 5px;
+      }
+
+      .expander-icon {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: 12px;
+        flex-shrink: 0;
+        transition: transform 0.3s ease-out;
+        color: #888;
+      }
+      .expander-icon svg {
+        width: 24px;
+        height: 24px;
+      }
+      .blog-post.expanded .expander-icon {
+        transform: rotate(90deg);
+        color: #333;
+      }
+
+      .post-body {
+        margin-left: 36px;
+      }
+      .post-date {
+        font-size: 0.85rem;
+        color: #888;
+        display: block;
+        font-family: sans-serif;
+        font-style: normal;
+        font-weight: 300;
+      }
+      .post-excerpt p {
+        font-weight: 300;
+        font-style: italic;
+        color: #555;
+        margin-top: 10px;
+      }
+      .post-full-content {
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.7s ease-in-out, margin-top 0.5s ease;
+        font-weight: 400;
+        margin-left: 36px;
+      }
+      .blog-post.expanded .post-full-content {
+        margin-top: 25px;
+        max-height: 5000px;
+      }
+      .post-full-content p {
+        margin-bottom: 1.5em;
+      }
+      .post-full-content blockquote {
+        border-left: 2px solid #ccc;
+        margin-left: 0;
+        padding-left: 20px;
+        font-style: italic;
+        color: #666;
+      }
+      #loading-state {
+        text-align: center;
+        color: #777;
+        font-style: italic;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="containerh">
+      <h1 style="font-family: Raleway">
+        <a
+          href="https://prabhakar.chaganti.net"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="h1-link"
+          >pchaganti</a
+        >
+        <span class="h1-separator">|</span>
+        <span class="h1-subtitle">vellum</span>
+      </h1>
+    </div>
+    <div class="container">
+      <main id="blog-posts-container">
+        <p id="loading-state">Loading posts...</p>
+      </main>
+    </div>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        const postFiles = [{"filename": "Journey.md", "timestamp": "June 07, 2025"}, {"filename": "epictetus.md", "timestamp": "June 07, 2025"}, {"filename": "bradman.md", "timestamp": "June 07, 2025"}, {"filename": "piano.md", "timestamp": "June 07, 2025"}];
+        const container = document.getElementById("blog-posts-container");
+        const loadingIndicator = document.getElementById("loading-state");
+
+        const fetchPost = async (postObject) => {
+          const response = await fetch(`posts/${postObject.filename}`);
+          if (!response.ok)
+            throw new Error(`Could not load ${postObject.filename}.`);
+          const markdown = await response.text();
+
+          const fullHtmlContent = marked.parse(markdown);
+          const tempDiv = document.createElement("div");
+          tempDiv.innerHTML = fullHtmlContent;
+
+          const titleElement = tempDiv.querySelector("h1, h2");
+          const firstParagraphElement = tempDiv.querySelector("p");
+          const titleText = titleElement?.textContent || "Untitled Post";
+          const firstParagraphHtml =
+            firstParagraphElement?.innerHTML || "No content available.";
+
+          if (titleElement) titleElement.remove();
+          if (firstParagraphElement) firstParagraphElement.remove();
+
+          const remainingContent = tempDiv.innerHTML.trim();
+
+          const postElement = document.createElement("article");
+          postElement.className = "blog-post";
+
+          postElement.innerHTML = `
+                    <div class="post-header">
+                        <h2 class="post-title">
+                            <span class="expander-icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <polyline points="9 18 15 12 9 6"></polyline>
+                                </svg>
+                            </span>
+                            <span>${titleText}</span>
+                        </h2>
+                        <div class="post-body">
+                            <time class="post-date">${postObject.timestamp}</time>
+                            <div class="post-excerpt">
+                                <p>${firstParagraphHtml}</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="post-full-content">
+                        ${remainingContent}
+                    </div>
+                `;
+          return postElement;
+        };
+
+        const loadAllPosts = async () => {
+          if (postFiles.length === 0) {
+            loadingIndicator.textContent =
+              "No posts found. Try running 'python build.py'.";
+            return;
+          }
+          try {
+            const postElements = await Promise.all(postFiles.map(fetchPost));
+            loadingIndicator.remove();
+            postElements.forEach((element) => container.appendChild(element));
+          } catch (error) {
+            loadingIndicator.textContent = `Error: ${error.message}`;
+          }
+        };
+
+        container.addEventListener("click", (event) => {
+          const postHeader = event.target.closest(".post-header");
+          if (postHeader) {
+            postHeader.closest(".blog-post").classList.toggle("expanded");
+          }
+        });
+
+        loadAllPosts();
+      });
+    </script>
+  </body>
+</html>
