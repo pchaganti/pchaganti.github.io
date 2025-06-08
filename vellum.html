@@ -59,8 +59,10 @@
         padding: 5px 20px; /* Adjusted padding for mobile */
         background-color: var(--container-bg);
         box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
-        position: relative;
-        z-index: 2;
+        position: sticky;      /* Make header sticky */
+        top: 0;                /* Stick to top */
+        z-index: 100;          /* Ensure it's above other content */
+        background: #fff;      /* Ensure background covers content below */
       }
 
       h1 {
@@ -123,6 +125,7 @@
       .post-header {
         cursor: pointer;
         position: relative;
+        scroll-margin-top: 70px; /* Adjust this value to match .containerh height */
       }
 
       .post-title {
@@ -209,7 +212,7 @@
           >pchaganti</a
         >
         <span class="h1-separator">|</span>
-        <span class="h1-subtitle">vellum</span>
+        <span class="h1-subtitle" id="vellum-refresh">vellum</span>
       </h1>
     </div>
     <div class="container">
@@ -220,7 +223,7 @@
 
     <script>
       document.addEventListener("DOMContentLoaded", () => {
-        const postFiles = [{"filename": "Neural_Networks_20250608T143135.md", "timestamp": "June 08, 2025"}, {"filename": "bradman_20250605T134210.md", "timestamp": "June 08, 2025"}, {"filename": "Akhenaten_20250608T141140.md", "timestamp": "June 08, 2025"}, {"filename": "Sherlock_Holmes_20250608T154210.md", "timestamp": "June 08, 2025"}, {"filename": "Akhenaten_20250606T154210.md", "timestamp": "June 08, 2025"}, {"filename": "Acropolis_20250608T142217.md", "timestamp": "June 08, 2025"}, {"filename": "Joy_Division_20250607T154210.md", "timestamp": "June 08, 2025"}];
+        const postFiles = [{"filename": "Sherlock_Holmes_20250608T154210.md", "timestamp": "June 08, 2025", "iso_timestamp": "20250608T154210"}, {"filename": "Machiavelli_20250608T151537.md", "timestamp": "June 08, 2025", "iso_timestamp": "20250608T151537"}, {"filename": "Neural_Networks_20250608T143135.md", "timestamp": "June 08, 2025", "iso_timestamp": "20250608T143135"}, {"filename": "Acropolis_20250608T142217.md", "timestamp": "June 08, 2025", "iso_timestamp": "20250608T142217"}, {"filename": "Akhenaten_20250608T141140.md", "timestamp": "June 08, 2025", "iso_timestamp": "20250608T141140"}, {"filename": "Joy_Division_20250607T154210.md", "timestamp": "June 07, 2025", "iso_timestamp": "20250607T154210"}, {"filename": "Akhenaten_20250606T154210.md", "timestamp": "June 06, 2025", "iso_timestamp": "20250606T154210"}, {"filename": "bradman_20250605T134210.md", "timestamp": "June 05, 2025", "iso_timestamp": "20250605T134210"}];
         const container = document.getElementById("blog-posts-container");
         const loadingIndicator = document.getElementById("loading-state");
 
@@ -339,6 +342,11 @@
         });
 
         loadAllPosts().then(expandPostFromHash);
+
+        document.getElementById('vellum-refresh').style.cursor = 'pointer';
+        document.getElementById('vellum-refresh').addEventListener('click', () => {
+          window.location.href = window.location.pathname;
+        });
       });
     </script>
   </body>
