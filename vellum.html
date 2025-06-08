@@ -220,7 +220,7 @@
 
     <script>
       document.addEventListener("DOMContentLoaded", () => {
-        const postFiles = [{"filename": "Kintsugi.md", "timestamp": "June 08, 2025"}, {"filename": "bradman.md", "timestamp": "June 08, 2025"}];
+        const postFiles = [{"filename": "Julian_the_Apostate.md", "timestamp": "June 08, 2025"}, {"filename": "bradman.md", "timestamp": "June 08, 2025"}];
         const container = document.getElementById("blog-posts-container");
         const loadingIndicator = document.getElementById("loading-state");
 
@@ -235,9 +235,10 @@
           tempDiv.innerHTML = fullHtmlContent;
 
           const titleElement = tempDiv.querySelector("h1, h2");
+          const firstParagraphElement = tempDiv.querySelector("p");
           let titleText = titleElement?.textContent || "Untitled Post";
           if (titleText.includes(":")) {
-            titleText = titleText.split(":")[0].trim();
+            titleText = titleText.split(":")[1].trim();
           }
           const firstParagraphHtml =
             firstParagraphElement?.innerHTML || "No content available.";
