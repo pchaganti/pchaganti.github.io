@@ -220,68 +220,72 @@
 
     <script>
       document.addEventListener("DOMContentLoaded", () => {
-        const postFiles = [{"filename": "Seneca.md", "timestamp": "June 08, 2025"}, {"filename": "Kintsugi.md", "timestamp": "June 08, 2025"}, {"filename": "bradman.md", "timestamp": "June 08, 2025"}];
+        const postFiles = [{"filename": "Constantinople.md", "timestamp": "June 08, 2025"}, {"filename": "Kintsugi.md", "timestamp": "June 08, 2025"}, {"filename": "bradman.md", "timestamp": "June 08, 2025"}];
         const container = document.getElementById("blog-posts-container");
         const loadingIndicator = document.getElementById("loading-state");
 
         const fetchPost = async (postObject) => {
-          const response = await fetch(`posts/${postObject.filename}`);
-          if (!response.ok)
-            throw new Error(`Could not load ${postObject.filename}.`);
-          const markdown = await response.text();
+          try {
+            const response = await fetch(`posts/${postObject.filename}`);
+            if (!response.ok) return null; // Skip if file not found or fetch fails
+            const markdown = await response.text();
 
-          const fullHtmlContent = marked.parse(markdown);
-          const tempDiv = document.createElement("div");
-          tempDiv.innerHTML = fullHtmlContent;
+            const fullHtmlContent = marked.parse(markdown);
+            const tempDiv = document.createElement("div");
+            tempDiv.innerHTML = fullHtmlContent;
 
-          const titleElement = tempDiv.querySelector("h1, h2");
-          const firstParagraphElement = tempDiv.querySelector("p");
-          let titleText = titleElement?.textContent || "Untitled Post";
-          if (titleText.includes(":")) {
-            titleText = titleText.split(":")[1].trim();
-          }
-          const firstParagraphHtml =
-            firstParagraphElement?.innerHTML || "No content available.";
+            const titleElement = tempDiv.querySelector("h1, h2");
+            const firstParagraphElement = tempDiv.querySelector("p");
+            let titleText = titleElement?.textContent || "Untitled Post";
+            if (titleText.includes(":")) {
+              titleText = titleText.split(":")[1].trim();
+            }
+            const firstParagraphHtml =
+              firstParagraphElement?.innerHTML || "No content available.";
 
-          // Skip post if first paragraph is the prompt message
-          if (
-            firstParagraphHtml.startsWith(
-              "Okay, please provide the word or words you'd like me to use for the post."
-            )
-          ) {
+            // Skip post if first paragraph is the prompt message
+            if (
+              firstParagraphHtml.startsWith(
+                "Okay, please provide the word or words you'd like me to use for the post."
+              )
+            ) {
+              return null;
+            }
+
+            if (titleElement) titleElement.remove();
+            if (firstParagraphElement) firstParagraphElement.remove();
+
+            const remainingContent = tempDiv.innerHTML.trim();
+
+            const postElement = document.createElement("article");
+            postElement.className = "blog-post";
+
+            postElement.innerHTML = `
+              <div class="post-header">
+                  <h2 class="post-title">
+                      <span class="expander-icon">
+                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                              <polyline points="9 18 15 12 9 6"></polyline>
+                          </svg>
+                      </span>
+                      <span>${titleText}</span>
+                  </h2>
+                  <div class="post-body">
+                      <time class="post-date">${postObject.timestamp}</time>
+                      <div class="post-excerpt">
+                          <p>${firstParagraphHtml}</p>
+                      </div>
+                  </div>
+              </div>
+              <div class="post-full-content">
+                  ${remainingContent}
+              </div>
+          `;
+            return postElement;
+          } catch (error) {
+            // Skip this post if any error occurs (e.g., file missing)
             return null;
           }
-
-          if (titleElement) titleElement.remove();
-          if (firstParagraphElement) firstParagraphElement.remove();
-
-          const remainingContent = tempDiv.innerHTML.trim();
-
-          const postElement = document.createElement("article");
-          postElement.className = "blog-post";
-
-          postElement.innerHTML = `
-                    <div class="post-header">
-                        <h2 class="post-title">
-                            <span class="expander-icon">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                                    <polyline points="9 18 15 12 9 6"></polyline>
-                                </svg>
-                            </span>
-                            <span>${titleText}</span>
-                        </h2>
-                        <div class="post-body">
-                            <time class="post-date">${postObject.timestamp}</time>
-                            <div class="post-excerpt">
-                                <p>${firstParagraphHtml}</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="post-full-content">
-                        ${remainingContent}
-                    </div>
-                `;
-          return postElement;
         };
 
         const loadAllPosts = async () => {
