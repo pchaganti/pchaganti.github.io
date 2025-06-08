@@ -220,7 +220,7 @@
 
     <script>
       document.addEventListener("DOMContentLoaded", () => {
-        const postFiles = [{"filename": "Bastille_day.md", "timestamp": "June 08, 2025"}, {"filename": "Julian_the_Apostate.md", "timestamp": "June 08, 2025"}, {"filename": "Kintsugi.md", "timestamp": "June 08, 2025"}, {"filename": "bradman.md", "timestamp": "June 08, 2025"}];
+        const postFiles = [{"filename": "Seville.md", "timestamp": "June 08, 2025"}, {"filename": "Julian_the_Apostate.md", "timestamp": "June 08, 2025"}, {"filename": "Kintsugi.md", "timestamp": "June 08, 2025"}, {"filename": "bradman.md", "timestamp": "June 08, 2025"}];
         const container = document.getElementById("blog-posts-container");
         const loadingIndicator = document.getElementById("loading-state");
 
@@ -242,6 +242,15 @@
           }
           const firstParagraphHtml =
             firstParagraphElement?.innerHTML || "No content available.";
+
+          // Skip post if first paragraph is the prompt message
+          if (
+            firstParagraphHtml.startsWith(
+              "Okay, please provide the word or words you'd like me to use for the post."
+            )
+          ) {
+            return null;
+          }
 
           if (titleElement) titleElement.remove();
           if (firstParagraphElement) firstParagraphElement.remove();
@@ -284,7 +293,9 @@
           try {
             const postElements = await Promise.all(postFiles.map(fetchPost));
             loadingIndicator.remove();
-            postElements.forEach((element) => container.appendChild(element));
+            postElements
+              .filter(Boolean) // Filter out nulls (skipped posts)
+              .forEach((element) => container.appendChild(element));
           } catch (error) {
             loadingIndicator.textContent = `Error: ${error.message}`;
           }
