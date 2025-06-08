@@ -220,7 +220,7 @@
 
     <script>
       document.addEventListener("DOMContentLoaded", () => {
-        const postFiles = [{"filename": "Acropolis_20250608T142217.md", "timestamp": "June 08, 2025"}, {"filename": "Akhenaten_20250608T141140.md", "timestamp": "June 08, 2025"}, {"filename": "Sherlock_Holmes_20250608T154210.md", "timestamp": "June 08, 2025"}, {"filename": "Akhenaten_20250606T154210.md", "timestamp": "June 08, 2025"}, {"filename": "Joy_Division_20250607T154210.md", "timestamp": "June 08, 2025"}, {"filename": "bradman_20250605T134210.md", "timestamp": "June 08, 2025"}];
+        const postFiles = [{"filename": "Neural_Networks_20250608T143135.md", "timestamp": "June 08, 2025"}, {"filename": "bradman_20250605T134210.md", "timestamp": "June 08, 2025"}, {"filename": "Akhenaten_20250608T141140.md", "timestamp": "June 08, 2025"}, {"filename": "Sherlock_Holmes_20250608T154210.md", "timestamp": "June 08, 2025"}, {"filename": "Akhenaten_20250606T154210.md", "timestamp": "June 08, 2025"}, {"filename": "Acropolis_20250608T142217.md", "timestamp": "June 08, 2025"}, {"filename": "Joy_Division_20250607T154210.md", "timestamp": "June 08, 2025"}];
         const container = document.getElementById("blog-posts-container");
         const loadingIndicator = document.getElementById("loading-state");
 
@@ -315,7 +315,13 @@
             const post = document.querySelector(hash);
             if (post) {
               post.classList.add("expanded");
-              post.scrollIntoView({ behavior: "smooth", block: "center" });
+              // Scroll to the post-header (title), not the whole post
+              const header = post.querySelector('.post-header');
+              if (header) {
+                header.scrollIntoView({ behavior: "smooth", block: "start" });
+              } else {
+                post.scrollIntoView({ behavior: "smooth", block: "start" });
+              }
             }
           }
         };
