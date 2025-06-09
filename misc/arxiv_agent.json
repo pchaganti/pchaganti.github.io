@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-08T17:10:06.686912-04:00",
+  "last_updated": "2025-06-08T21:02:31.335668-04:00",
   "papers": [
     {
       "title": "Time to Talk: LLM Agents for Asynchronous Group Communication in Mafia\n  Games",
@@ -34,7 +34,7 @@
     {
       "title": "Teaming in the AI Era: AI-Augmented Frameworks for Forming, Simulating,\n  and Optimizing Human Teams",
       "summary": "Effective teamwork is essential across diverse domains. During the team\nformation stage, a key challenge is forming teams that effectively balance user\npreferences with task objectives to enhance overall team satisfaction. In the\nteam performing stage, maintaining cohesion and engagement is critical for\nsustaining high team performance. However, existing computational tools and\nalgorithms for team optimization often rely on static data inputs, narrow\nalgorithmic objectives, or solutions tailored for specific contexts, failing to\naccount for the dynamic interplay of team members personalities, evolving\ngoals, and changing individual preferences. Therefore, teams may encounter\nmember dissatisfaction, as purely algorithmic assignments can reduce members\ncommitment to team goals or experience suboptimal engagement due to the absence\nof timely, personalized guidance to help members adjust their behaviors and\ninteractions as team dynamics evolve. Ultimately, these challenges can lead to\nreduced overall team performance. My Ph.D. dissertation aims to develop\nAI-augmented team optimization frameworks and practical systems that enhance\nteam satisfaction, engagement, and performance. First, I propose a team\nformation framework that leverages a multi-armed bandit algorithm to\niteratively refine team composition based on user preferences, ensuring\nalignment between individual needs and collective team goals to enhance team\nsatisfaction. Second, I introduce tAIfa (Team AI Feedback Assistant), an\nAI-powered system that utilizes large language models (LLMs) to deliver\nimmediate, personalized feedback to both teams and individual members,\nenhancing cohesion and engagement. Finally, I present PuppeteerLLM, an\nLLM-based simulation framework that simulates multi-agent teams to model\ncomplex team dynamics within realistic environments, incorporating task-driven\ncollaboration and long-term coordination.",
-      "url": "http://arxiv.org/abs/2506.05265v1",
+      "url": "http://arxiv.org/abs/2506.05265v2",
       "published_time_eastern_timestamp": 1749144277.0
     },
     {
