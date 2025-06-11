@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-06-11T08:24:07.769092-04:00",
+  "last_updated": "2025-06-11T11:13:20.397745-04:00",
   "stories": [
     {
+      "title": "S5cmd: Parallel S3 and local filesystem execution tool",
+      "score": 45,
+      "url": "https://github.com/peak/s5cmd",
+      "time": 1749649080.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44247507"
+    },
+    {
+      "title": "Show HN: Ikuyo a Travel Planning Web Application",
+      "score": 82,
+      "url": "https://ikuyo.kenrick95.org/",
+      "time": 1749645855.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44247029"
+    },
+    {
+      "title": "Show HN: RomM – An open-source, self-hosted ROM manager and player",
+      "score": 27,
+      "url": "https://github.com/rommapp/romm",
+      "time": 1749651905.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44247964"
+    },
+    {
+      "title": "Bypassing GitHub Actions policies in the dumbest way possible",
+      "score": 27,
+      "url": "https://blog.yossarian.net/2025/06/11/github-actions-policies-dumb-bypass",
+      "time": 1749651354.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44247881"
+    },
+    {
       "title": "Show HN: S3mini – Tiny and fast S3-compatible client, no-deps, edge-ready",
-      "score": 53,
+      "score": 137,
       "url": "https://github.com/good-lly/s3mini",
       "time": 1749632147.0,
       "comments_url": "https://news.ycombinator.com/item?id=44245577"
     },
     {
+      "title": "How I Program with Agents",
+      "score": 125,
+      "url": "https://crawshaw.io/blog/programming-with-agents",
+      "time": 1749447014.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44221655"
+    },
+    {
+      "title": "OpenPlanetData – Free Daily Planet OSM PBF and GOL Indexed Snapshots",
+      "score": 17,
+      "url": "https://openplanetdata.com",
+      "time": 1749646543.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44247119"
+    },
+    {
       "title": "Launch HN: Vassar Robotics (YC X25) – $219 robot arm that learns new skills",
-      "score": 460,
+      "score": 494,
       "url": "https://news.ycombinator.com/item?id=44240302",
       "time": 1749582737.0,
       "comments_url": "https://news.ycombinator.com/item?id=44240302"
     },
     {
+      "title": "Plants hear their pollinators, and produce sweet nectar in response",
+      "score": 14,
+      "url": "https://www.cbc.ca/listen/live-radio/1-51-quirks-and-quarks/clip/16150976-plants-hear-pollinators-produce-sweet-nectar-response",
+      "time": 1749324458.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44211971"
+    },
+    {
       "title": "Lessons from That 1834 Landscape Gardening Guidebook",
-      "score": 18,
+      "score": 65,
       "url": "https://fi-le.net/pueckler/",
       "time": 1749332895.0,
       "comments_url": "https://news.ycombinator.com/item?id=44212911"
     },
     {
+      "title": "Menstrual tracking app data is gold mine for advertisers that risks women safety",
+      "score": 115,
+      "url": "https://www.cam.ac.uk/research/news/menstrual-tracking-app-data-is-a-gold-mine-for-advertisers-that-risks-womens-safety-report",
+      "time": 1749645075.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44246920"
+    },
+    {
       "title": "Magistral — the first reasoning model by Mistral AI",
-      "score": 794,
+      "score": 836,
       "url": "https://mistral.ai/news/magistral",
       "time": 1749564481.0,
       "comments_url": "https://news.ycombinator.com/item?id=44236997"
     },
     {
-      "title": "The \"Frankfurt Kitchen\"",
-      "score": 38,
-      "url": "https://museumderdinge.org/programme/exhibitions/the-frankfurt-kitchen/",
-      "time": 1749313569.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44210649"
-    },
-    {
-      "title": "AlphaWrite: AI that improves at writing by evolving its own stories",
-      "score": 19,
-      "url": "https://tobysimonds.com/research/2025/06/06/AlphaWrite.html",
-      "time": 1749626625.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44245053"
-    },
-    {
-      "title": "The Hashtable Packing Problem (2020)",
+      "title": "Mapbox Geospatial MCP Server",
       "score": 21,
-      "url": "https://backscattering.de/chess/hashtable-packing/",
-      "time": 1749366281.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44215160"
-    },
-    {
-      "title": "Show HN: I made a 3D printed VTOL drone",
-      "score": 305,
-      "url": "https://www.tsungxu.com/p/i-made-a-3d-printed-vtol-that-can",
-      "time": 1749588431.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44241278"
-    },
-    {
-      "title": "Firefox OS's story from a Mozilla insider not working on the project (2024)",
-      "score": 34,
-      "url": "https://ludovic.hirlimann.net/2024/01/firefox-oss-story-from-mozila-insider.html",
-      "time": 1749641807.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44246518"
-    },
-    {
-      "title": "Demystifying Debuggers",
-      "score": 88,
-      "url": "https://www.rfleury.com/p/demystifying-debuggers-part-1-a-busy",
-      "time": 1749367130.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44215236"
-    },
-    {
-      "title": "Air-dried vs. Kiln-dried Wood",
-      "score": 44,
-      "url": "https://christopherschwarz.substack.com/p/air-dried-vs-kiln-dried-wood",
-      "time": 1749397539.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44217663"
+      "url": "https://github.com/mapbox/mcp-server",
+      "time": 1749646586.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44247124"
     },
     {
       "title": "Show HN: DIY virtual HDMI monitor using \"AR\" glasses",
-      "score": 4,
+      "score": 27,
       "url": "https://github.com/mgschwan/viture_virtual_display",
       "time": 1749633651.0,
       "comments_url": "https://news.ycombinator.com/item?id=44245709"
     },
     {
-      "title": "Xeneva Operating System",
-      "score": 196,
-      "url": "https://github.com/manaskamal/XenevaOS",
-      "time": 1749582509.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44240265"
+      "title": "Rohde and Schwarz AMIQ Modulation Generator Teardown",
+      "score": 16,
+      "url": "https://tomverbeure.github.io/2025/04/26/RS-AMIQ-Teardown-Analog-Deep-Dive.html",
+      "time": 1749394287.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44217356"
     },
     {
-      "title": "Malleable software: Restoring user agency in a world of locked-down apps",
-      "score": 229,
-      "url": "https://www.inkandswitch.com/essay/malleable-software/",
-      "time": 1749568587.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44237881"
+      "title": "Show HN: I made a 3D printed VTOL drone",
+      "score": 341,
+      "url": "https://www.tsungxu.com/p/i-made-a-3d-printed-vtol-that-can",
+      "time": 1749588431.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44241278"
     },
     {
-      "title": "Detection of hidden cellular GPS vehicle trackers",
-      "score": 153,
-      "url": "https://www.researchgate.net/publication/391704077_You_Can_Drive_But_You_Cannot_Hide_Detection_of_Hidden_Cellular_GPS_Vehicle_Trackers",
-      "time": 1749582612.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44240286"
-    },
-    {
-      "title": "We’re secretly winning the war on cancer",
-      "score": 263,
-      "url": "https://www.vox.com/health/415812/cancer-death-rates-myeloma-immunotherapy-smoking",
-      "time": 1749415546.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44219379"
-    },
-    {
-      "title": "Denuvo Analysis",
-      "score": 275,
-      "url": "https://connorjaydunn.github.io/blog/posts/denuvo-analysis/",
-      "time": 1749487837.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44226406"
-    },
-    {
-      "title": "It's the end of observability as we know it (and I feel fine)",
-      "score": 211,
-      "url": "https://www.honeycomb.io/blog/its-the-end-of-observability-as-we-know-it-and-i-feel-fine",
-      "time": 1749602095.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44243050"
-    },
-    {
-      "title": "Show HN: Chili3d – A open-source, browser-based 3D CAD application",
-      "score": 327,
-      "url": "https://news.ycombinator.com/item?id=44238171",
-      "time": 1749569997.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44238171"
+      "title": "Air-dried vs. Kiln-dried Wood",
+      "score": 91,
+      "url": "https://christopherschwarz.substack.com/p/air-dried-vs-kiln-dried-wood",
+      "time": 1749397539.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44217663"
     },
     {
       "title": "The librarian immediately attempts to sell you a vuvuzela",
-      "score": 238,
+      "score": 302,
       "url": "https://kaveland.no/posts/2025-06-06-library",
       "time": 1749315889.0,
       "comments_url": "https://news.ycombinator.com/item?id=44210921"
+    },
+    {
+      "title": "The Hashtable Packing Problem (2020)",
+      "score": 33,
+      "url": "https://backscattering.de/chess/hashtable-packing/",
+      "time": 1749366281.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44215160"
+    },
+    {
+      "title": "AI at Amazon: A case study of brittleness",
+      "score": 19,
+      "url": "https://surfingcomplexity.blog/2025/06/08/ai-at-amazon-a-case-study-of-brittleness/",
+      "time": 1749652133.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44247998"
     }
   ]
 }
