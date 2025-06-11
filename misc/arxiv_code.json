@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-10T17:11:45.979869-04:00",
+  "last_updated": "2025-06-10T20:59:40.582262-04:00",
   "papers": [
     {
       "title": "StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning\n  from Partially Annotated Synthetic Datasets",
@@ -118,7 +118,7 @@
     {
       "title": "Stone Soup: ADS-B-based Multi-Target Tracking with Stochastic\n  Integration Filter",
       "summary": "This paper focuses on the multi-target tracking using the Stone Soup\nframework. In particular, we aim at evaluation of two multi-target tracking\nscenarios based on the simulated class-B dataset and ADS-B class-A dataset\nprovided by OpenSky Network. The scenarios are evaluated w.r.t. selection of a\nlocal state estimator using a range of the Stone Soup metrics. Source code with\nscenario definitions and Stone Soup set-up are provided along with the paper.",
-      "url": "http://arxiv.org/abs/2506.07889v1",
+      "url": "http://arxiv.org/abs/2506.07889v2",
       "published_time_eastern_timestamp": 1749484907.0
     }
   ]
