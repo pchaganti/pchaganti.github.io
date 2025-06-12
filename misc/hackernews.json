@@ -1,40 +1,89 @@
 {
-  "last_updated": "2025-06-11T17:11:17.754896-04:00",
+  "last_updated": "2025-06-11T20:58:42.487483-04:00",
   "stories": [
     {
+      "title": "Chatterbox TTS",
+      "score": 187,
+      "url": "https://github.com/resemble-ai/chatterbox",
+      "time": 1749673432.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44251411"
+    },
+    {
       "title": "Research suggests Big Bang may have taken place inside a black hole",
-      "score": 126,
+      "score": 316,
       "url": "https://www.port.ac.uk/news-events-and-blogs/blogs/space-cosmology-and-the-universe/what-if-the-big-bang-wasnt-the-beginning-our-research-suggests-it-may-have-taken-place-inside-a-black-hole",
       "time": 1749671069.0,
       "comments_url": "https://news.ycombinator.com/item?id=44251047"
     },
     {
-      "title": "Show HN: Spark, An advanced 3D Gaussian Splatting renderer for Three.js",
-      "score": 157,
-      "url": "https://sparkjs.dev/",
-      "time": 1749661376.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44249565"
+      "title": "Congratulations on creating the one billionth repository on GitHub",
+      "score": 312,
+      "url": "https://github.com/AasishPokhrel/shit/issues/1",
+      "time": 1749677824.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44252076"
     },
     {
       "title": "V-JEPA 2 world model and new benchmarks for physical reasoning",
-      "score": 191,
+      "score": 217,
       "url": "https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/",
       "time": 1749653007.0,
       "comments_url": "https://news.ycombinator.com/item?id=44248165"
     },
     {
+      "title": "Show HN: Spark, An advanced 3D Gaussian Splatting renderer for Three.js",
+      "score": 210,
+      "url": "https://sparkjs.dev/",
+      "time": 1749661376.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44249565"
+    },
+    {
+      "title": "Show HN: Eyesite - experimental website combining computer vision and web design",
+      "score": 4,
+      "url": "https://blog.andykhau.com/blog/eyesite",
+      "time": 1749688647.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44253307"
+    },
+    {
+      "title": "My Cord-Cutting Adventure",
+      "score": 19,
+      "url": "http://brander.ca/cordcut/",
+      "time": 1749434850.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44220890"
+    },
+    {
+      "title": "Plants hear their pollinators, and produce sweet nectar in response",
+      "score": 202,
+      "url": "https://www.cbc.ca/listen/live-radio/1-51-quirks-and-quarks/clip/16150976-plants-hear-pollinators-produce-sweet-nectar-response",
+      "time": 1749324458.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44211971"
+    },
+    {
+      "title": "How I Program with Agents",
+      "score": 356,
+      "url": "https://crawshaw.io/blog/programming-with-agents",
+      "time": 1749447014.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44221655"
+    },
+    {
+      "title": "Show HN: Ikuyo a Travel Planning Web Application",
+      "score": 227,
+      "url": "https://ikuyo.kenrick95.org/",
+      "time": 1749645855.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44247029"
+    },
+    {
       "title": "EchoLeak – 0-Click AI Vulnerability Enabling Data Exfiltration from 365 Copilot",
-      "score": 93,
+      "score": 156,
       "url": "https://www.aim.security/lp/aim-labs-echoleak-blogpost",
       "time": 1749669060.0,
       "comments_url": "https://news.ycombinator.com/item?id=44250774"
     },
     {
-      "title": "Show HN: RomM – An open-source, self-hosted ROM manager and player",
-      "score": 150,
-      "url": "https://github.com/rommapp/romm",
-      "time": 1749651905.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44247964"
+      "title": "The Seymour Cray Era of Supercomputers",
+      "score": 18,
+      "url": "https://ztoz.blog/posts/cray-era-supercomputers/",
+      "time": 1749684003.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44252858"
     },
     {
       "title": "Shaped (YC W22) Is Hiring",
@@ -44,102 +93,53 @@
       "comments_url": "https://news.ycombinator.com/item?id=44251755"
     },
     {
-      "title": "Plants hear their pollinators, and produce sweet nectar in response",
-      "score": 160,
-      "url": "https://www.cbc.ca/listen/live-radio/1-51-quirks-and-quarks/clip/16150976-plants-hear-pollinators-produce-sweet-nectar-response",
-      "time": 1749324458.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44211971"
-    },
-    {
-      "title": "Show HN: Ikuyo a Travel Planning Web Application",
-      "score": 206,
-      "url": "https://ikuyo.kenrick95.org/",
-      "time": 1749645855.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44247029"
-    },
-    {
-      "title": "How I Program with Agents",
-      "score": 301,
-      "url": "https://crawshaw.io/blog/programming-with-agents",
-      "time": 1749447014.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44221655"
+      "title": "Show HN: RomM – An open-source, self-hosted ROM manager and player",
+      "score": 174,
+      "url": "https://github.com/rommapp/romm",
+      "time": 1749651905.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44247964"
     },
     {
       "title": "Bypassing GitHub Actions policies in the dumbest way possible",
-      "score": 127,
+      "score": 159,
       "url": "https://blog.yossarian.net/2025/06/11/github-actions-policies-dumb-bypass",
       "time": 1749651354.0,
       "comments_url": "https://news.ycombinator.com/item?id=44247881"
     },
     {
-      "title": "Dolly Parton's Dollywood Express",
-      "score": 117,
-      "url": "https://thetransitguy.substack.com/p/dolly-parton-runs-a-train-busier",
-      "time": 1749660408.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44249417"
+      "title": "How Long it takes to know if a Job Is Right for You or Not",
+      "score": 8,
+      "url": "https://charity.wtf/2025/06/08/on-how-long-it-takes-to-know-if-a-job-is-right-for-you-or-not/",
+      "time": 1749478309.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44224729"
     },
     {
-      "title": "DeskHog, an open-source developer toy",
-      "score": 114,
-      "url": "https://posthog.com/deskhog",
-      "time": 1749649051.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44247501"
+      "title": "Characterizing my first attempt at copper-only passives",
+      "score": 14,
+      "url": "https://moroso.emarhavil.com/~joshua/2pf-characterization.html",
+      "time": 1749362510.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44214878"
     },
     {
       "title": "Show HN: S3mini – Tiny and fast S3-compatible client, no-deps, edge-ready",
-      "score": 192,
+      "score": 213,
       "url": "https://github.com/good-lly/s3mini",
       "time": 1749632147.0,
       "comments_url": "https://news.ycombinator.com/item?id=44245577"
     },
     {
-      "title": "OpenPlanetData – Free Daily Planet OSM PBF and GOL Indexed Snapshots",
-      "score": 76,
-      "url": "https://openplanetdata.com",
-      "time": 1749646543.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44247119"
-    },
-    {
-      "title": "The Diary of Samuel Pepys",
-      "score": 44,
-      "url": "https://www.historytoday.com/archive/feature/hidden-diary-samuel-pepys",
-      "time": 1749357699.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44214588"
-    },
-    {
-      "title": "Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents",
-      "score": 20,
-      "url": "https://arxiv.org/abs/2505.22954",
-      "time": 1749665224.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44250206"
-    },
-    {
       "title": "Launch HN: Vassar Robotics (YC X25) – $219 robot arm that learns new skills",
-      "score": 532,
+      "score": 546,
       "url": "https://news.ycombinator.com/item?id=44240302",
       "time": 1749582737.0,
       "comments_url": "https://news.ycombinator.com/item?id=44240302"
     },
     {
-      "title": "Menstrual tracking app data is gold mine for advertisers that risks women safety",
-      "score": 247,
-      "url": "https://www.cam.ac.uk/research/news/menstrual-tracking-app-data-is-a-gold-mine-for-advertisers-that-risks-womens-safety-report",
-      "time": 1749645075.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44246920"
-    },
-    {
-      "title": "Magistral — the first reasoning model by Mistral AI",
-      "score": 882,
-      "url": "https://mistral.ai/news/magistral",
-      "time": 1749564481.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44236997"
-    },
-    {
-      "title": "Show HN: DIY virtual HDMI monitor using \"AR\" glasses",
-      "score": 72,
-      "url": "https://github.com/mgschwan/viture_virtual_display",
-      "time": 1749633651.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44245709"
+      "title": "Dolly Parton's Dollywood Express",
+      "score": 137,
+      "url": "https://thetransitguy.substack.com/p/dolly-parton-runs-a-train-busier",
+      "time": 1749660408.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44249417"
     }
   ]
 }

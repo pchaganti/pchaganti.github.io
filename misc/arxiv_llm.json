@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-11T17:11:19.530702-04:00",
+  "last_updated": "2025-06-11T20:58:51.455535-04:00",
   "papers": [
     {
       "title": "ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm\n  Engineering",
@@ -58,7 +58,7 @@
     {
       "title": "Comparing human and LLM proofreading in L2 writing: Impact on lexical\n  and syntactic features",
       "summary": "This study examines the lexical and syntactic interventions of human and LLM\nproofreading aimed at improving overall intelligibility in identical second\nlanguage writings, and evaluates the consistency of outcomes across three LLMs\n(ChatGPT-4o, Llama3.1-8b, Deepseek-r1-8b). Findings show that both human and\nLLM proofreading enhance bigram lexical features, which may contribute to\nbetter coherence and contextual connectedness between adjacent words. However,\nLLM proofreading exhibits a more generative approach, extensively reworking\nvocabulary and sentence structures, such as employing more diverse and\nsophisticated vocabulary and incorporating a greater number of adjective\nmodifiers in noun phrases. The proofreading outcomes are highly consistent in\nmajor lexical and syntactic features across the three models.",
-      "url": "http://arxiv.org/abs/2506.09021v1",
+      "url": "http://arxiv.org/abs/2506.09021v2",
       "published_time_eastern_timestamp": 1749577750.0
     },
     {
@@ -70,7 +70,7 @@
     {
       "title": "Boosting Rust Unit Test Coverage through Hybrid Program Analysis and\n  Large Language Models",
       "summary": "Unit testing is essential for ensuring software reliability and correctness.\nClassic Search-Based Software Testing (SBST) methods and concolic\nexecution-based approaches for generating unit tests often fail to achieve high\ncoverage due to difficulties in handling complex program units, such as\nbranching conditions and external dependencies. Recent work has increasingly\nutilized large language models (LLMs) to generate test cases, improving the\nquality of test generation by providing better context and correcting errors in\nthe model's output. However, these methods rely on fixed prompts, resulting in\nrelatively low compilation success rates and coverage. This paper presents\nPALM, an approach that leverages large language models (LLMs) to enhance the\ngeneration of high-coverage unit tests. PALM performs program analysis to\nidentify branching conditions within functions, which are then combined into\npath constraints. These constraints and relevant contextual information are\nused to construct prompts that guide the LLMs in generating unit tests. We\nimplement the approach and evaluate it in 10 open-source Rust crates.\nExperimental results show that within just two or three hours, PALM can\nsignificantly improves test coverage compared to classic methods, with\nincreases in overall project coverage exceeding 50% in some instances and its\ngenerated tests achieving an average coverage of 75.77%, comparable to human\neffort (71.30%), highlighting the potential of LLMs in automated test\ngeneration. We submitted 91 PALM-generated unit tests targeting new code. Of\nthese submissions, 80 were accepted, 5 were rejected, and 6 remain pending\nreview. The results demonstrate the effectiveness of integrating program\nanalysis with AI and open new avenues for future research in automated software\ntesting.",
-      "url": "http://arxiv.org/abs/2506.09002v1",
+      "url": "http://arxiv.org/abs/2506.09002v2",
       "published_time_eastern_timestamp": 1749576081.0
     },
     {
@@ -80,9 +80,9 @@
       "published_time_eastern_timestamp": 1749574920.0
     },
     {
-      "title": "AdaDec: Uncertainty-Guided Adaptive Decoding for LLM-based Code\n  Generation",
-      "summary": "Code generation with large language models (LLMs) is highly sensitive to\ntoken selection during decoding, particularly at uncertain decision points that\ninfluence program logic. While standard strategies like greedy and beam search\ntreat all tokens uniformly, they overlook code-specific uncertainty patterns,\nleading to suboptimal performance. This paper presents an empirical study\nrevealing that many generation errors stem from ranking mistakes at\nhigh-uncertainty steps, where the correct token is present but not top-ranked.\n  Motivated by these findings, we propose AdaDec, an uncertainty-guided\nadaptive decoding framework that integrates a token-level pause-then-rerank\nmechanism driven by token uncertainty (Shannon entropy). AdaDec learns\nmodel-specific uncertainty thresholds and applies a lookahead-based reranking\nstrategy when uncertainty is high. Experiments on HumanEval and MBPP benchmarks\nshow that AdaDec improves Pass@1 accuracy by up to 15.5% over greedy decoding,\noutperforms or matches beam search, and reduces computational cost and latency\nthrough efficient, selective pausing. Our results highlight the promise of\nuncertainty-aware adaptive decoding for improving the reliability and\nefficiency of LLM-based code generation.",
-      "url": "http://arxiv.org/abs/2506.08980v1",
+      "title": "Towards Better Code Generation: Adaptive Decoding with Uncertainty\n  Guidance",
+      "summary": "Code generation using large language models (LLMs) is highly sensitive to the\nchoice of tokens during decoding, especially at points of uncertainty that\ncritically affect the generated program's logic. Conventional decoding methods\nsuch as greedy search and beam search apply uniform treatment to all tokens,\nneglecting the unique uncertainty characteristics inherent in code generation,\nwhich can result in suboptimal outputs. In this work, we conduct an empirical\nanalysis demonstrating that a significant portion of generation errors arises\nfrom incorrect token ranking at high-uncertainty steps, where the ground truth\ntoken exists in the candidate set but fails to be ranked first.\n  Inspired by this insight, we introduce AdaDec, an adaptive decoding framework\nguided by token-level uncertainty quantified via Shannon entropy. AdaDec\ndynamically learns uncertainty thresholds tailored to each model and employs a\npause-then-rerank mechanism with lookahead when the uncertainty surpasses these\nthresholds. Evaluation on the HumanEval and MBPP benchmarks reveals that AdaDec\nachieves up to a 15.5% improvement in Pass@1 accuracy compared to greedy\ndecoding, matches or outperforms traditional beam search, and reduces both\ncomputational overhead and latency through targeted, selective pausing. Our\nfindings suggest that uncertainty-aware adaptive decoding holds considerable\npotential for enhancing both the reliability and efficiency of code generation\nwith LLMs.",
+      "url": "http://arxiv.org/abs/2506.08980v2",
       "published_time_eastern_timestamp": 1749574186.0
     },
     {
@@ -100,7 +100,7 @@
     {
       "title": "Can LLMs Ground when they (Don't) Know: A Study on Direct and Loaded\n  Political Questions",
       "summary": "Communication among humans relies on conversational grounding, allowing\ninterlocutors to reach mutual understanding even when they do not have perfect\nknowledge and must resolve discrepancies in each other's beliefs. This paper\ninvestigates how large language models (LLMs) manage common ground in cases\nwhere they (don't) possess knowledge, focusing on facts in the political domain\nwhere the risk of misinformation and grounding failure is high. We examine the\nability of LLMs to answer direct knowledge questions and loaded questions that\npresuppose misinformation. We evaluate whether loaded questions lead LLMs to\nengage in active grounding and correct false user beliefs, in connection to\ntheir level of knowledge and their political bias. Our findings highlight\nsignificant challenges in LLMs' ability to engage in grounding and reject false\nuser beliefs, raising concerns about their role in mitigating misinformation in\npolitical discourse.",
-      "url": "http://arxiv.org/abs/2506.08952v1",
+      "url": "http://arxiv.org/abs/2506.08952v2",
       "published_time_eastern_timestamp": 1749572409.0
     },
     {

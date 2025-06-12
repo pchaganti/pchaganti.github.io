@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-11T17:11:21.312916-04:00",
+  "last_updated": "2025-06-11T20:59:11.211052-04:00",
   "papers": [
     {
       "title": "ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm\n  Engineering",
@@ -70,13 +70,13 @@
     {
       "title": "SWE-Flow: Synthesizing Software Engineering Data in a Test-Driven Manner",
       "summary": "We introduce **SWE-Flow**, a novel data synthesis framework grounded in\nTest-Driven Development (TDD). Unlike existing software engineering data that\nrely on human-submitted issues, **SWE-Flow** automatically infers incremental\ndevelopment steps directly from unit tests, which inherently encapsulate\nhigh-level requirements. The core of **SWE-Flow** is the construction of a\nRuntime Dependency Graph (RDG), which precisely captures function interactions,\nenabling the generation of a structured, step-by-step *development schedule*.\nAt each step, **SWE-Flow** produces a partial codebase, the corresponding unit\ntests, and the necessary code modifications, resulting in fully verifiable TDD\ntasks. With this approach, we generated 16,061 training instances and 2,020\ntest instances from real-world GitHub projects, creating the **SWE-Flow-Eval**\nbenchmark. Our experiments show that fine-tuning open model on this dataset\nsignificantly improves performance in TDD-based coding. To facilitate further\nresearch, we release all code, datasets, models, and Docker images at\n[Github](https://github.com/Hambaobao/SWE-Flow).",
-      "url": "http://arxiv.org/abs/2506.09003v1",
+      "url": "http://arxiv.org/abs/2506.09003v2",
       "published_time_eastern_timestamp": 1749576213.0
     },
     {
       "title": "Boosting Rust Unit Test Coverage through Hybrid Program Analysis and\n  Large Language Models",
       "summary": "Unit testing is essential for ensuring software reliability and correctness.\nClassic Search-Based Software Testing (SBST) methods and concolic\nexecution-based approaches for generating unit tests often fail to achieve high\ncoverage due to difficulties in handling complex program units, such as\nbranching conditions and external dependencies. Recent work has increasingly\nutilized large language models (LLMs) to generate test cases, improving the\nquality of test generation by providing better context and correcting errors in\nthe model's output. However, these methods rely on fixed prompts, resulting in\nrelatively low compilation success rates and coverage. This paper presents\nPALM, an approach that leverages large language models (LLMs) to enhance the\ngeneration of high-coverage unit tests. PALM performs program analysis to\nidentify branching conditions within functions, which are then combined into\npath constraints. These constraints and relevant contextual information are\nused to construct prompts that guide the LLMs in generating unit tests. We\nimplement the approach and evaluate it in 10 open-source Rust crates.\nExperimental results show that within just two or three hours, PALM can\nsignificantly improves test coverage compared to classic methods, with\nincreases in overall project coverage exceeding 50% in some instances and its\ngenerated tests achieving an average coverage of 75.77%, comparable to human\neffort (71.30%), highlighting the potential of LLMs in automated test\ngeneration. We submitted 91 PALM-generated unit tests targeting new code. Of\nthese submissions, 80 were accepted, 5 were rejected, and 6 remain pending\nreview. The results demonstrate the effectiveness of integrating program\nanalysis with AI and open new avenues for future research in automated software\ntesting.",
-      "url": "http://arxiv.org/abs/2506.09002v1",
+      "url": "http://arxiv.org/abs/2506.09002v2",
       "published_time_eastern_timestamp": 1749576081.0
     },
     {
@@ -92,9 +92,9 @@
       "published_time_eastern_timestamp": 1749574947.0
     },
     {
-      "title": "AdaDec: Uncertainty-Guided Adaptive Decoding for LLM-based Code\n  Generation",
-      "summary": "Code generation with large language models (LLMs) is highly sensitive to\ntoken selection during decoding, particularly at uncertain decision points that\ninfluence program logic. While standard strategies like greedy and beam search\ntreat all tokens uniformly, they overlook code-specific uncertainty patterns,\nleading to suboptimal performance. This paper presents an empirical study\nrevealing that many generation errors stem from ranking mistakes at\nhigh-uncertainty steps, where the correct token is present but not top-ranked.\n  Motivated by these findings, we propose AdaDec, an uncertainty-guided\nadaptive decoding framework that integrates a token-level pause-then-rerank\nmechanism driven by token uncertainty (Shannon entropy). AdaDec learns\nmodel-specific uncertainty thresholds and applies a lookahead-based reranking\nstrategy when uncertainty is high. Experiments on HumanEval and MBPP benchmarks\nshow that AdaDec improves Pass@1 accuracy by up to 15.5% over greedy decoding,\noutperforms or matches beam search, and reduces computational cost and latency\nthrough efficient, selective pausing. Our results highlight the promise of\nuncertainty-aware adaptive decoding for improving the reliability and\nefficiency of LLM-based code generation.",
-      "url": "http://arxiv.org/abs/2506.08980v1",
+      "title": "Towards Better Code Generation: Adaptive Decoding with Uncertainty\n  Guidance",
+      "summary": "Code generation using large language models (LLMs) is highly sensitive to the\nchoice of tokens during decoding, especially at points of uncertainty that\ncritically affect the generated program's logic. Conventional decoding methods\nsuch as greedy search and beam search apply uniform treatment to all tokens,\nneglecting the unique uncertainty characteristics inherent in code generation,\nwhich can result in suboptimal outputs. In this work, we conduct an empirical\nanalysis demonstrating that a significant portion of generation errors arises\nfrom incorrect token ranking at high-uncertainty steps, where the ground truth\ntoken exists in the candidate set but fails to be ranked first.\n  Inspired by this insight, we introduce AdaDec, an adaptive decoding framework\nguided by token-level uncertainty quantified via Shannon entropy. AdaDec\ndynamically learns uncertainty thresholds tailored to each model and employs a\npause-then-rerank mechanism with lookahead when the uncertainty surpasses these\nthresholds. Evaluation on the HumanEval and MBPP benchmarks reveals that AdaDec\nachieves up to a 15.5% improvement in Pass@1 accuracy compared to greedy\ndecoding, matches or outperforms traditional beam search, and reduces both\ncomputational overhead and latency through targeted, selective pausing. Our\nfindings suggest that uncertainty-aware adaptive decoding holds considerable\npotential for enhancing both the reliability and efficiency of code generation\nwith LLMs.",
+      "url": "http://arxiv.org/abs/2506.08980v2",
       "published_time_eastern_timestamp": 1749574186.0
     },
     {
