@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-06-12T02:18:20.538460-04:00",
+  "last_updated": "2025-06-12T05:13:19.622648-04:00",
   "stories": [
     {
+      "title": "How much EU is in DNS4EU?",
+      "score": 80,
+      "url": "https://techlog.jenslink.net/posts/dns4eu/",
+      "time": 1749714771.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44255116"
+    },
+    {
+      "title": "Build a minimal decorator with Ruby in 30 minutes",
+      "score": 25,
+      "url": "https://remimercier.com/minimal-decorator-ruby/",
+      "time": 1749712943.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44254984"
+    },
+    {
       "title": "Expanding Racks [video]",
-      "score": 30,
+      "score": 80,
       "url": "https://www.youtube.com/watch?v=iWknov3Xpts",
       "time": 1749704521.0,
       "comments_url": "https://news.ycombinator.com/item?id=44254439"
     },
     {
       "title": "Chatterbox TTS",
-      "score": 347,
+      "score": 403,
       "url": "https://github.com/resemble-ai/chatterbox",
       "time": 1749673432.0,
       "comments_url": "https://news.ycombinator.com/item?id=44251411"
     },
     {
       "title": "Microsoft Office migration from Source Depot to Git",
-      "score": 95,
+      "score": 134,
       "url": "https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/",
       "time": 1749687323.0,
       "comments_url": "https://news.ycombinator.com/item?id=44253212"
     },
     {
-      "title": "Show HN: Eyesite - experimental website combining computer vision and web design",
-      "score": 48,
-      "url": "https://blog.andykhau.com/blog/eyesite",
-      "time": 1749688647.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44253307"
-    },
-    {
-      "title": "AOSP project is coming to an end",
-      "score": 27,
-      "url": "https://old.reddit.com/r/StallmanWasRight/comments/1l8rhon/aosp_project_is_coming_to_an_end/",
-      "time": 1749706061.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44254540"
-    },
-    {
-      "title": "Show HN: Spark, An advanced 3D Gaussian Splatting renderer for Three.js",
-      "score": 258,
-      "url": "https://sparkjs.dev/",
-      "time": 1749661376.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44249565"
-    },
-    {
-      "title": "Research suggests Big Bang may have taken place inside a black hole",
-      "score": 439,
-      "url": "https://www.port.ac.uk/news-events-and-blogs/blogs/space-cosmology-and-the-universe/what-if-the-big-bang-wasnt-the-beginning-our-research-suggests-it-may-have-taken-place-inside-a-black-hole",
-      "time": 1749671069.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44251047"
+      "title": "SchemeFlow (YC S24) Is Hiring a Founding Engineer (London) to Speed Up Construction",
+      "score": 1,
+      "url": "https://www.ycombinator.com/companies/schemeflow/jobs/SbxEFHv-founding-engineer-full-stack",
+      "time": 1749719323.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44255527"
     },
     {
       "title": "The hunt for Marie Curie's radioactive fingerprints in Paris",
-      "score": 9,
+      "score": 43,
       "url": "https://www.bbc.com/future/article/20250605-the-hunt-for-marie-curies-radioactive-fingerprints-in-paris",
       "time": 1749517333.0,
       "comments_url": "https://news.ycombinator.com/item?id=44231386"
     },
     {
-      "title": "DNS4EU, an EU-based DNS resolution service",
-      "score": 18,
-      "url": "https://www.helpnetsecurity.com/2025/06/09/eu-launches-eu-based-privacy-focused-dns-resolution-service/",
-      "time": 1749707245.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44254610"
+      "title": "In case of emergency, break glass",
+      "score": 45,
+      "url": "https://morrick.me/archives/10048",
+      "time": 1749703532.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44254383"
+    },
+    {
+      "title": "AOSP project is coming to an end",
+      "score": 174,
+      "url": "https://old.reddit.com/r/StallmanWasRight/comments/1l8rhon/aosp_project_is_coming_to_an_end/",
+      "time": 1749706061.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44254540"
+    },
+    {
+      "title": "Show HN: Eyesite - experimental website combining computer vision and web design",
+      "score": 74,
+      "url": "https://blog.andykhau.com/blog/eyesite",
+      "time": 1749688647.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44253307"
+    },
+    {
+      "title": "Research suggests Big Bang may have taken place inside a black hole",
+      "score": 500,
+      "url": "https://www.port.ac.uk/news-events-and-blogs/blogs/space-cosmology-and-the-universe/what-if-the-big-bang-wasnt-the-beginning-our-research-suggests-it-may-have-taken-place-inside-a-black-hole",
+      "time": 1749671069.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44251047"
+    },
+    {
+      "title": "Show HN: Spark, An advanced 3D Gaussian Splatting renderer for Three.js",
+      "score": 280,
+      "url": "https://sparkjs.dev/",
+      "time": 1749661376.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44249565"
     },
     {
       "title": "Plants hear their pollinators, and produce sweet nectar in response",
-      "score": 231,
+      "score": 255,
       "url": "https://www.cbc.ca/listen/live-radio/1-51-quirks-and-quarks/clip/16150976-plants-hear-pollinators-produce-sweet-nectar-response",
       "time": 1749324458.0,
       "comments_url": "https://news.ycombinator.com/item?id=44211971"
     },
     {
-      "title": "V-JEPA 2 world model and new benchmarks for physical reasoning",
-      "score": 234,
-      "url": "https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/",
-      "time": 1749653007.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44248165"
-    },
-    {
       "title": "How I Program with Agents",
-      "score": 424,
+      "score": 448,
       "url": "https://crawshaw.io/blog/programming-with-agents",
       "time": 1749447014.0,
       "comments_url": "https://news.ycombinator.com/item?id=44221655"
     },
     {
-      "title": "How long it takes to know if a job is right for you or not",
-      "score": 142,
-      "url": "https://charity.wtf/2025/06/08/on-how-long-it-takes-to-know-if-a-job-is-right-for-you-or-not/",
-      "time": 1749478309.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44224729"
-    },
-    {
-      "title": "My Cord-Cutting Adventure",
-      "score": 54,
-      "url": "http://brander.ca/cordcut/",
-      "time": 1749434850.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44220890"
-    },
-    {
-      "title": "Unveiling the EndBOX – A microcomputer prototype for EndBASIC",
-      "score": 22,
-      "url": "https://www.endbasic.dev/2025/06/unveiling-the-endbox.html",
-      "time": 1749685782.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44253065"
+      "title": "V-JEPA 2 world model and new benchmarks for physical reasoning",
+      "score": 240,
+      "url": "https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/",
+      "time": 1749653007.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44248165"
     },
     {
       "title": "Show HN: Ikuyo a Travel Planning Web Application",
-      "score": 250,
+      "score": 267,
       "url": "https://ikuyo.kenrick95.org/",
       "time": 1749645855.0,
       "comments_url": "https://news.ycombinator.com/item?id=44247029"
     },
     {
-      "title": "TV Fool: See OTA channels you can receive",
-      "score": 14,
-      "url": "https://www.tvfool.com/index.php?option=com_wrapper&Itemid=29",
-      "time": 1749698173.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44253993"
+      "title": "How long it takes to know if a job is right for you or not",
+      "score": 176,
+      "url": "https://charity.wtf/2025/06/08/on-how-long-it-takes-to-know-if-a-job-is-right-for-you-or-not/",
+      "time": 1749478309.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44224729"
     },
     {
-      "title": "Congratulations on creating the one billionth repository on GitHub",
-      "score": 452,
-      "url": "https://github.com/AasishPokhrel/shit/issues/1",
-      "time": 1749677824.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44252076"
+      "title": "OpenAI o3-pro",
+      "score": 233,
+      "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+      "time": 1749586547.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44240999"
     },
     {
       "title": "Bypassing GitHub Actions policies in the dumbest way possible",
-      "score": 183,
+      "score": 191,
       "url": "https://blog.yossarian.net/2025/06/11/github-actions-policies-dumb-bypass",
       "time": 1749651354.0,
       "comments_url": "https://news.ycombinator.com/item?id=44247881"
     },
     {
-      "title": "OpenAI o3-pro",
-      "score": 213,
-      "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
-      "time": 1749586547.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44240999"
+      "title": "The curious case of shell commands, or how \"this bug is required by POSIX\" (2021)",
+      "score": 119,
+      "url": "https://notes.volution.ro/v1/2021/01/notes/502e747f/",
+      "time": 1749560196.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44236241"
     }
   ]
 }
