@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-06-13T05:13:22.706388-04:00",
+  "last_updated": "2025-06-13T08:23:21.843354-04:00",
   "stories": [
     {
+      "title": "If the moon were only 1 pixel: A tediously accurate solar system model (2014)",
+      "score": 127,
+      "url": "https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html",
+      "time": 1749804005.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44266828"
+    },
+    {
       "title": "Jemalloc Postmortem",
-      "score": 411,
+      "score": 516,
       "url": "https://jasone.github.io/2025/06/12/jemalloc-postmortem/",
       "time": 1749778637.0,
       "comments_url": "https://news.ycombinator.com/item?id=44264958"
     },
     {
       "title": "Frequent reauth doesn't make you more secure",
-      "score": 839,
+      "score": 919,
       "url": "https://tailscale.com/blog/frequent-reath-security",
       "time": 1749755112.0,
       "comments_url": "https://news.ycombinator.com/item?id=44261777"
     },
     {
+      "title": "The European public DNS that makes your Internet safer",
+      "score": 33,
+      "url": "https://www.dns0.eu",
+      "time": 1749807853.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44267091"
+    },
+    {
       "title": "Rendering Crispy Text on the GPU",
-      "score": 178,
+      "score": 255,
       "url": "https://osor.io/text",
       "time": 1749781644.0,
       "comments_url": "https://news.ycombinator.com/item?id=44265233"
     },
     {
+      "title": "Coming to Apple OSes: A seamless, secure way to import and export passkeys",
+      "score": 9,
+      "url": "https://arstechnica.com/security/2025/06/apple-previews-new-import-export-feature-to-make-passkeys-more-interoperable/",
+      "time": 1749816228.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44267763"
+    },
+    {
+      "title": "Kyber (YC W23) Is Hiring a Technical Account Manager",
+      "score": 1,
+      "url": "https://www.ycombinator.com/companies/kyber/jobs/5kSq3Jd-technical-account-manager-tam",
+      "time": 1749816071.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44267746"
+    },
+    {
       "title": "A receipt printer cured my procrastination",
-      "score": 905,
+      "score": 955,
       "url": "https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination",
       "time": 1749728464.0,
       "comments_url": "https://news.ycombinator.com/item?id=44256499"
     },
     {
       "title": "A Dark Adtech Empire Fed by Fake CAPTCHAs",
-      "score": 150,
+      "score": 173,
       "url": "https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/",
       "time": 1749766543.0,
       "comments_url": "https://news.ycombinator.com/item?id=44263780"
     },
     {
       "title": "iPhone 11 emulation done in QEMU",
-      "score": 290,
+      "score": 315,
       "url": "https://github.com/ChefKissInc/QEMUAppleSilicon",
       "time": 1749740699.0,
       "comments_url": "https://news.ycombinator.com/item?id=44258670"
     },
     {
       "title": "Slow and steady, this poem will win your heart",
-      "score": 30,
+      "score": 44,
       "url": "https://www.nytimes.com/interactive/2025/06/12/books/kay-ryan-turtle-poem.html",
       "time": 1749791556.0,
       "comments_url": "https://news.ycombinator.com/item?id=44265869"
     },
     {
       "title": "Show HN: Tritium – The Legal IDE in Rust",
-      "score": 195,
+      "score": 218,
       "url": "https://tritium.legal/preview",
       "time": 1749730019.0,
       "comments_url": "https://news.ycombinator.com/item?id=44256765"
     },
     {
+      "title": "They Asked an A.I. Chatbot Questions. The Answers Sent Them Spiraling",
+      "score": 18,
+      "url": "https://www.nytimes.com/2025/06/13/technology/chatgpt-ai-chatbots-conspiracies.html",
+      "time": 1749811723.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44267371"
+    },
+    {
       "title": "Three Algorithms for YSH Syntax Highlighting",
-      "score": 20,
+      "score": 31,
       "url": "https://github.com/oils-for-unix/oils.vim/blob/main/doc/algorithms.md",
       "time": 1749781494.0,
       "comments_url": "https://news.ycombinator.com/item?id=44265216"
     },
     {
-      "title": "Show HN: McWig – A modal, Vim-like text editor written in Go",
-      "score": 114,
-      "url": "https://github.com/firstrow/mcwig",
-      "time": 1749735176.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44257609"
-    },
-    {
-      "title": "Urban Design and Adaptive Reuse in North Korea, Japan, and Singapore",
-      "score": 28,
-      "url": "https://www.governance.fyi/p/adaptive-reuse-across-asia-singapores",
-      "time": 1749780116.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44265105"
-    },
-    {
       "title": "Maximizing Battery Storage Profits via High-Frequency Intraday Trading",
-      "score": 242,
+      "score": 253,
       "url": "https://arxiv.org/abs/2504.06932",
       "time": 1749721427.0,
       "comments_url": "https://news.ycombinator.com/item?id=44255728"
     },
     {
-      "title": "Worldwide power grid with glass insulated HVDC cables",
-      "score": 85,
-      "url": "https://omattos.com/2025/06/12/glass-hvdc-cables.html",
-      "time": 1749758649.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44262537"
-    },
-    {
       "title": "Rust compiler performance",
-      "score": 209,
+      "score": 223,
       "url": "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html",
       "time": 1749543884.0,
       "comments_url": "https://news.ycombinator.com/item?id=44234080"
     },
     {
-      "title": "Why does my ripped CD have messed up track names? And why is one track missing?",
-      "score": 129,
-      "url": "https://www.akpain.net/blog/inside-a-cd/",
-      "time": 1749740632.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44258654"
-    },
-    {
       "title": "Show HN: Tool-Assisted Speedrunning the Boring Parts of Animal Crossing (GCN)",
-      "score": 100,
+      "score": 124,
       "url": "https://github.com/hunterirving/pico-crossing",
       "time": 1749735426.0,
       "comments_url": "https://news.ycombinator.com/item?id=44257655"
     },
     {
-      "title": "Show HN: I wrote a BitTorrent Client from scratch",
-      "score": 107,
-      "url": "https://github.com/piyushgupta53/go-torrent-client",
-      "time": 1749791285.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44265851"
+      "title": "Show HN: McWig – A modal, Vim-like text editor written in Go",
+      "score": 123,
+      "url": "https://github.com/firstrow/mcwig",
+      "time": 1749735176.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44257609"
     },
     {
-      "title": "Show HN: GetHooky – a language-agnostic Git hook manager",
-      "score": 10,
-      "url": "https://ezpieco.github.io/GetHooky/",
-      "time": 1749785504.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44265501"
+      "title": "Why does my ripped CD have messed up track names? And why is one track missing?",
+      "score": 138,
+      "url": "https://www.akpain.net/blog/inside-a-cd/",
+      "time": 1749740632.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44258654"
     },
     {
       "title": "Chatterbox TTS",
-      "score": 612,
+      "score": 621,
       "url": "https://github.com/resemble-ai/chatterbox",
       "time": 1749673432.0,
       "comments_url": "https://news.ycombinator.com/item?id=44251411"
-    },
-    {
-      "title": "The curse of Toumaï: an ancient skull and a bitter feud over humanity's origins",
-      "score": 50,
-      "url": "https://www.theguardian.com/science/2025/may/27/the-curse-of-toumai-ancient-skull-disputed-femur-feud-humanity-origins",
-      "time": 1749765008.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44263562"
     }
   ]
 }
