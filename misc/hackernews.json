@@ -1,40 +1,96 @@
 {
-  "last_updated": "2025-06-12T17:11:37.948717-04:00",
+  "last_updated": "2025-06-12T20:59:20.644148-04:00",
   "stories": [
     {
       "title": "Frequent reauth doesn't make you more secure",
-      "score": 279,
+      "score": 558,
       "url": "https://tailscale.com/blog/frequent-reath-security",
       "time": 1749755112.0,
       "comments_url": "https://news.ycombinator.com/item?id=44261777"
     },
     {
-      "title": "macOS Tahoe brings a new disk image format",
-      "score": 267,
-      "url": "https://eclecticlight.co/2025/06/12/macos-tahoe-brings-a-new-disk-image-format/",
-      "time": 1749743380.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44259132"
+      "title": "A Dark Adtech Empire Fed by Fake CAPTCHAs",
+      "score": 54,
+      "url": "https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/",
+      "time": 1749766543.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44263780"
     },
     {
       "title": "A receipt printer cured my procrastination",
-      "score": 670,
+      "score": 757,
       "url": "https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination",
       "time": 1749728464.0,
       "comments_url": "https://news.ycombinator.com/item?id=44256499"
     },
     {
       "title": "iPhone 11 emulation done in QEMU",
-      "score": 164,
+      "score": 208,
       "url": "https://github.com/ChefKissInc/QEMUAppleSilicon",
       "time": 1749740699.0,
       "comments_url": "https://news.ycombinator.com/item?id=44258670"
     },
     {
       "title": "Show HN: Tritium – The Legal IDE in Rust",
-      "score": 45,
+      "score": 120,
       "url": "https://tritium.legal/preview",
       "time": 1749730019.0,
       "comments_url": "https://news.ycombinator.com/item?id=44256765"
+    },
+    {
+      "title": "The curse of Toumaï: an ancient skull and a bitter feud over humanity's origins",
+      "score": 22,
+      "url": "https://www.theguardian.com/science/2025/may/27/the-curse-of-toumai-ancient-skull-disputed-femur-feud-humanity-origins",
+      "time": 1749765008.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44263562"
+    },
+    {
+      "title": "Being Full of Value‑Added Shit",
+      "score": 51,
+      "url": "https://feld.com/archives/2025/06/being-full-of-value%e2%80%91added-shit/",
+      "time": 1749758622.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44262528"
+    },
+    {
+      "title": "Show HN: Tool-Assisted Speedrunning the Boring Parts of Animal Crossing (GCN)",
+      "score": 49,
+      "url": "https://github.com/hunterirving/pico-crossing",
+      "time": 1749735426.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44257655"
+    },
+    {
+      "title": "Worldwide power grid with glass insulated HVDC cables",
+      "score": 23,
+      "url": "https://omattos.com/2025/06/12/glass-hvdc-cables.html",
+      "time": 1749758649.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44262537"
+    },
+    {
+      "title": "Show HN: Vim-like text editor in go. (LSP, TreeSitter, Themes)",
+      "score": 56,
+      "url": "https://github.com/firstrow/mcwig",
+      "time": 1749735176.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44257609"
+    },
+    {
+      "title": "Maximizing Battery Storage Profits via High-Frequency Intraday Trading",
+      "score": 206,
+      "url": "https://arxiv.org/abs/2504.06932",
+      "time": 1749721427.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44255728"
+    },
+    {
+      "title": "Rust compiler performance",
+      "score": 155,
+      "url": "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html",
+      "time": 1749543884.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44234080"
+    },
+    {
+      "title": "Solving LinkedIn Queens with SMT",
+      "score": 82,
+      "url": "https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/",
+      "time": 1749745081.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44259476"
     },
     {
       "title": "Roundtable (YC S23) Is Hiring a President / CRO",
@@ -44,102 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=44263139"
     },
     {
-      "title": "Show HN: Tool-Assisted Speedrunning the Boring Parts of Animal Crossing (GCN)",
-      "score": 19,
-      "url": "https://github.com/hunterirving/pico-crossing",
-      "time": 1749735426.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44257655"
+      "title": "The Case for Software Craftsmanship in the Era of Vibes",
+      "score": 5,
+      "url": "https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes",
+      "time": 1749771720.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44264376"
     },
     {
-      "title": "Solving LinkedIn Queens with SMT",
-      "score": 67,
-      "url": "https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/",
-      "time": 1749745081.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44259476"
-    },
-    {
-      "title": "GCP Outage",
-      "score": 1089,
-      "url": "https://status.cloud.google.com/",
-      "time": 1749751867.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44260810"
-    },
-    {
-      "title": "Maximizing Battery Storage Profits via High-Frequency Intraday Trading",
-      "score": 187,
-      "url": "https://arxiv.org/abs/2504.06932",
-      "time": 1749721427.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44255728"
-    },
-    {
-      "title": "Show HN: Vim-like text editor in go. (LSP, TreeSitter, Themes)",
-      "score": 19,
-      "url": "https://github.com/firstrow/mcwig",
-      "time": 1749735176.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44257609"
-    },
-    {
-      "title": "Builder.ai did not \"fake AI with 700 engineers\"",
-      "score": 21,
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-137",
-      "time": 1749750466.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44260556"
+      "title": "Why does my ripped CD have messed up track names? And why is one track missing?",
+      "score": 83,
+      "url": "https://www.akpain.net/blog/inside-a-cd/",
+      "time": 1749740632.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44258654"
     },
     {
       "title": "Helion: A modern fast paced Doom FPS engine in C#",
-      "score": 109,
+      "score": 128,
       "url": "https://github.com/Helion-Engine/Helion",
       "time": 1749596211.0,
       "comments_url": "https://news.ycombinator.com/item?id=44242435"
     },
     {
-      "title": "US-backed Israeli company's spyware used to target European journalists",
-      "score": 368,
-      "url": "https://apnews.com/article/spyware-italy-paragon-meloni-pegasus-f36dd32106f44398ee24001317ccf2bb",
-      "time": 1749744765.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44259398"
-    },
-    {
-      "title": "Humans have nasal respiratory fingerprints",
-      "score": 22,
-      "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(25)00583-4",
-      "time": 1749759969.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44262799"
-    },
-    {
       "title": "Microsoft Office migration from Source Depot to Git",
-      "score": 279,
+      "score": 295,
       "url": "https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/",
       "time": 1749687323.0,
       "comments_url": "https://news.ycombinator.com/item?id=44253212"
     },
     {
+      "title": "First thoughts on o3 pro",
+      "score": 97,
+      "url": "https://www.latent.space/p/o3-pro",
+      "time": 1749588139.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44241242"
+    },
+    {
       "title": "Chatterbox TTS",
-      "score": 561,
+      "score": 577,
       "url": "https://github.com/resemble-ai/chatterbox",
       "time": 1749673432.0,
       "comments_url": "https://news.ycombinator.com/item?id=44251411"
-    },
-    {
-      "title": "Quantum Computation Lecture Notes (2022)",
-      "score": 101,
-      "url": "https://math.mit.edu/~shor/435-LN/",
-      "time": 1749455699.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44222307"
-    },
-    {
-      "title": "Researchers confirm two journalists were hacked with Paragon spyware",
-      "score": 140,
-      "url": "https://techcrunch.com/2025/06/12/researchers-confirm-two-journalists-were-hacked-with-paragon-spyware/",
-      "time": 1749742797.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44259039"
-    },
-    {
-      "title": "Seedance 1.0",
-      "score": 141,
-      "url": "https://seed.bytedance.com/en/seedance",
-      "time": 1749738419.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44258213"
     }
   ]
 }

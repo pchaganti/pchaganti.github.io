@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-12T17:11:41.086665-04:00",
+  "last_updated": "2025-06-12T20:59:24.380061-04:00",
   "papers": [
     {
       "title": "eFlesh: Highly customizable Magnetic Touch Sensing using Cut-Cell\n  Microstructures",
@@ -106,7 +106,7 @@
     {
       "title": "CoRT: Code-integrated Reasoning within Thinking",
       "summary": "Large Reasoning Models (LRMs) like o1 and DeepSeek-R1 have shown remarkable\nprogress in natural language reasoning with long chain-of-thought (CoT), yet\nthey remain inefficient or inaccurate when handling complex mathematical\noperations. Addressing these limitations through computational tools (e.g.,\ncomputation libraries and symbolic solvers) is promising, but it introduces a\ntechnical challenge: Code Interpreter (CI) brings external knowledge beyond the\nmodel's internal text representations, thus the direct combination is not\nefficient. This paper introduces CoRT, a post-training framework for teaching\nLRMs to leverage CI effectively and efficiently. As a first step, we address\nthe data scarcity issue by synthesizing code-integrated reasoning data through\nHint-Engineering, which strategically inserts different hints at appropriate\npositions to optimize LRM-CI interaction. We manually create 30 high-quality\nsamples, upon which we post-train models ranging from 1.5B to 32B parameters,\nwith supervised fine-tuning, rejection fine-tuning and reinforcement learning.\nOur experimental results demonstrate that Hint-Engineering models achieve 4\\%\nand 8\\% absolute improvements on DeepSeek-R1-Distill-Qwen-32B and\nDeepSeek-R1-Distill-Qwen-1.5B respectively, across five challenging\nmathematical reasoning datasets. Furthermore, Hint-Engineering models use about\n30\\% fewer tokens for the 32B model and 50\\% fewer tokens for the 1.5B model\ncompared with the natural language models. The models and code are available at\nhttps://github.com/ChengpengLi1003/CoRT.",
-      "url": "http://arxiv.org/abs/2506.09820v1",
+      "url": "http://arxiv.org/abs/2506.09820v2",
       "published_time_eastern_timestamp": 1749653942.0
     },
     {
