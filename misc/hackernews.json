@@ -1,96 +1,110 @@
 {
-  "last_updated": "2025-06-12T20:59:20.644148-04:00",
+  "last_updated": "2025-06-12T23:43:18.573243-04:00",
   "stories": [
     {
+      "title": "Jemalloc Postmortem",
+      "score": 166,
+      "url": "https://jasone.github.io/2025/06/12/jemalloc-postmortem/",
+      "time": 1749778637.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44264958"
+    },
+    {
       "title": "Frequent reauth doesn't make you more secure",
-      "score": 558,
+      "score": 669,
       "url": "https://tailscale.com/blog/frequent-reath-security",
       "time": 1749755112.0,
       "comments_url": "https://news.ycombinator.com/item?id=44261777"
     },
     {
+      "title": "Rendering Crispy Text on the GPU",
+      "score": 38,
+      "url": "https://osor.io/text",
+      "time": 1749781644.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44265233"
+    },
+    {
       "title": "A Dark Adtech Empire Fed by Fake CAPTCHAs",
-      "score": 54,
+      "score": 90,
       "url": "https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/",
       "time": 1749766543.0,
       "comments_url": "https://news.ycombinator.com/item?id=44263780"
     },
     {
       "title": "A receipt printer cured my procrastination",
-      "score": 757,
+      "score": 800,
       "url": "https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination",
       "time": 1749728464.0,
       "comments_url": "https://news.ycombinator.com/item?id=44256499"
     },
     {
+      "title": "Three Algorithms for YSH Syntax Highlighting",
+      "score": 7,
+      "url": "https://codeberg.org/oils/oils.vim/src/branch/main/doc/algorithms.md",
+      "time": 1749781494.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44265216"
+    },
+    {
       "title": "iPhone 11 emulation done in QEMU",
-      "score": 208,
+      "score": 233,
       "url": "https://github.com/ChefKissInc/QEMUAppleSilicon",
       "time": 1749740699.0,
       "comments_url": "https://news.ycombinator.com/item?id=44258670"
     },
     {
+      "title": "Urban Design and Adaptive Reuse in North Korea, Japan, and Singapore",
+      "score": 10,
+      "url": "https://www.governance.fyi/p/adaptive-reuse-across-asia-singapores",
+      "time": 1749780116.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44265105"
+    },
+    {
       "title": "Show HN: Tritium – The Legal IDE in Rust",
-      "score": 120,
+      "score": 156,
       "url": "https://tritium.legal/preview",
       "time": 1749730019.0,
       "comments_url": "https://news.ycombinator.com/item?id=44256765"
     },
     {
       "title": "The curse of Toumaï: an ancient skull and a bitter feud over humanity's origins",
-      "score": 22,
+      "score": 39,
       "url": "https://www.theguardian.com/science/2025/may/27/the-curse-of-toumai-ancient-skull-disputed-femur-feud-humanity-origins",
       "time": 1749765008.0,
       "comments_url": "https://news.ycombinator.com/item?id=44263562"
     },
     {
-      "title": "Being Full of Value‑Added Shit",
-      "score": 51,
-      "url": "https://feld.com/archives/2025/06/being-full-of-value%e2%80%91added-shit/",
-      "time": 1749758622.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44262528"
-    },
-    {
-      "title": "Show HN: Tool-Assisted Speedrunning the Boring Parts of Animal Crossing (GCN)",
-      "score": 49,
-      "url": "https://github.com/hunterirving/pico-crossing",
-      "time": 1749735426.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44257655"
-    },
-    {
-      "title": "Worldwide power grid with glass insulated HVDC cables",
-      "score": 23,
-      "url": "https://omattos.com/2025/06/12/glass-hvdc-cables.html",
-      "time": 1749758649.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44262537"
-    },
-    {
-      "title": "Show HN: Vim-like text editor in go. (LSP, TreeSitter, Themes)",
-      "score": 56,
-      "url": "https://github.com/firstrow/mcwig",
-      "time": 1749735176.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44257609"
-    },
-    {
       "title": "Maximizing Battery Storage Profits via High-Frequency Intraday Trading",
-      "score": 206,
+      "score": 216,
       "url": "https://arxiv.org/abs/2504.06932",
       "time": 1749721427.0,
       "comments_url": "https://news.ycombinator.com/item?id=44255728"
     },
     {
+      "title": "Show HN: Tool-Assisted Speedrunning the Boring Parts of Animal Crossing (GCN)",
+      "score": 71,
+      "url": "https://github.com/hunterirving/pico-crossing",
+      "time": 1749735426.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44257655"
+    },
+    {
+      "title": "Show HN: McWig – A modal, Vim-like text editor written in Go",
+      "score": 78,
+      "url": "https://github.com/firstrow/mcwig",
+      "time": 1749735176.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44257609"
+    },
+    {
       "title": "Rust compiler performance",
-      "score": 155,
+      "score": 171,
       "url": "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html",
       "time": 1749543884.0,
       "comments_url": "https://news.ycombinator.com/item?id=44234080"
     },
     {
-      "title": "Solving LinkedIn Queens with SMT",
-      "score": 82,
-      "url": "https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/",
-      "time": 1749745081.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44259476"
+      "title": "Worldwide power grid with glass insulated HVDC cables",
+      "score": 45,
+      "url": "https://omattos.com/2025/06/12/glass-hvdc-cables.html",
+      "time": 1749758649.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44262537"
     },
     {
       "title": "Roundtable (YC S23) Is Hiring a President / CRO",
@@ -100,46 +114,32 @@
       "comments_url": "https://news.ycombinator.com/item?id=44263139"
     },
     {
-      "title": "The Case for Software Craftsmanship in the Era of Vibes",
-      "score": 5,
-      "url": "https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes",
-      "time": 1749771720.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44264376"
-    },
-    {
       "title": "Why does my ripped CD have messed up track names? And why is one track missing?",
-      "score": 83,
+      "score": 101,
       "url": "https://www.akpain.net/blog/inside-a-cd/",
       "time": 1749740632.0,
       "comments_url": "https://news.ycombinator.com/item?id=44258654"
     },
     {
-      "title": "Helion: A modern fast paced Doom FPS engine in C#",
-      "score": 128,
-      "url": "https://github.com/Helion-Engine/Helion",
-      "time": 1749596211.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44242435"
-    },
-    {
-      "title": "Microsoft Office migration from Source Depot to Git",
-      "score": 295,
-      "url": "https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/",
-      "time": 1749687323.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44253212"
+      "title": "Solving LinkedIn Queens with SMT",
+      "score": 90,
+      "url": "https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/",
+      "time": 1749745081.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44259476"
     },
     {
       "title": "First thoughts on o3 pro",
-      "score": 97,
+      "score": 120,
       "url": "https://www.latent.space/p/o3-pro",
       "time": 1749588139.0,
       "comments_url": "https://news.ycombinator.com/item?id=44241242"
     },
     {
-      "title": "Chatterbox TTS",
-      "score": 577,
-      "url": "https://github.com/resemble-ai/chatterbox",
-      "time": 1749673432.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44251411"
+      "title": "Microsoft Office migration from Source Depot to Git",
+      "score": 303,
+      "url": "https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/",
+      "time": 1749687323.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44253212"
     }
   ]
 }
