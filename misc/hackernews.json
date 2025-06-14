@@ -1,47 +1,68 @@
 {
-  "last_updated": "2025-06-14T08:20:38.689451-04:00",
+  "last_updated": "2025-06-14T11:10:52.198012-04:00",
   "stories": [
     {
-      "title": "Peano arithmetic is enough, because Peano arithmetic  encodes computation",
-      "score": 108,
-      "url": "https://math.stackexchange.com/a/5075056/6708",
-      "time": 1749831038.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44269822"
+      "title": "I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch",
+      "score": 49,
+      "url": "https://github.com/yousef-rafat/miniDiffusion",
+      "time": 1749909406.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44276476"
     },
     {
-      "title": "Last fifty years of integer linear programming: Recent practical advances",
-      "score": 46,
-      "url": "https://inria.hal.science/hal-04776866v1",
-      "time": 1749881708.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44274567"
+      "title": "Unsupervised Elicitation of Language Models",
+      "score": 60,
+      "url": "https://arxiv.org/abs/2506.10139",
+      "time": 1749904340.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44276041"
     },
     {
       "title": "Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix",
-      "score": 10,
+      "score": 79,
       "url": "https://netflixtechblog.com/uda-unified-data-architecture-6a6aee261d8d",
       "time": 1749898612.0,
       "comments_url": "https://news.ycombinator.com/item?id=44275575"
     },
     {
-      "title": "Google Cloud Incident Report – 2025-06-13",
-      "score": 64,
-      "url": "https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW",
-      "time": 1749881580.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44274563"
+      "title": "Peano arithmetic is enough, because Peano arithmetic  encodes computation",
+      "score": 146,
+      "url": "https://math.stackexchange.com/a/5075056/6708",
+      "time": 1749831038.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44269822"
     },
     {
-      "title": "SIMD-friendly algorithms for substring searching",
-      "score": 118,
+      "title": "Solar Orbiter gets world-first views of the Sun's poles",
+      "score": 26,
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_poles",
+      "time": 1749682850.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44252717"
+    },
+    {
+      "title": "Last fifty years of integer linear programming: Recent practical advances",
+      "score": 92,
+      "url": "https://inria.hal.science/hal-04776866v1",
+      "time": 1749881708.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44274567"
+    },
+    {
+      "title": "The Many Sides of Erik Satie",
+      "score": 63,
+      "url": "https://thereader.mitpress.mit.edu/the-many-sides-of-erik-satie/",
+      "time": 1749389771.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44216921"
+    },
+    {
+      "title": "SIMD-friendly algorithms for substring searching (2018)",
+      "score": 135,
       "url": "http://0x80.pl/notesen/2016-11-28-simd-strfind.html",
       "time": 1749871878.0,
       "comments_url": "https://news.ycombinator.com/item?id=44274001"
     },
     {
-      "title": "The Many Sides of Erik Satie",
-      "score": 18,
-      "url": "https://thereader.mitpress.mit.edu/the-many-sides-of-erik-satie/",
-      "time": 1749389771.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44216921"
+      "title": "How to Build Conscious Machines",
+      "score": 17,
+      "url": "https://osf.io/preprints/thesiscommons/wehmg_v1",
+      "time": 1749898393.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44275559"
     },
     {
       "title": "Solidroad (YC W25) Is Hiring",
@@ -52,94 +73,73 @@
     },
     {
       "title": "Slowing the flow of core-dump-related CVEs",
-      "score": 30,
+      "score": 43,
       "url": "https://lwn.net/SubscriberLink/1024160/f18b880c8cd1eef1/",
       "time": 1749586061.0,
       "comments_url": "https://news.ycombinator.com/item?id=44240909"
     },
     {
       "title": "Endometriosis is an interesting disease",
-      "score": 184,
+      "score": 226,
       "url": "https://www.owlposting.com/p/endometriosis-is-an-incredibly-interesting",
       "time": 1749854422.0,
       "comments_url": "https://news.ycombinator.com/item?id=44272933"
     },
     {
-      "title": "Filedb: Disk-based key-value store inspired by Bitcask",
-      "score": 71,
-      "url": "https://github.com/rajivharlalka/filedb",
-      "time": 1749869103.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44273857"
-    },
-    {
-      "title": "Implementing Logic Programming",
-      "score": 146,
-      "url": "https://btmc.substack.com/p/implementing-logic-programming",
-      "time": 1749850341.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44272467"
-    },
-    {
-      "title": "Me an' Algernon – grappling with (temporary) cognitive decline",
-      "score": 30,
-      "url": "https://tidyfirst.substack.com/p/me-an-algernon",
-      "time": 1749567654.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44237654"
+      "title": "Texting myself the weather every day",
+      "score": 8,
+      "url": "https://bensilverman.co.uk/posts/daily-weather-sms/",
+      "time": 1749659618.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44249305"
     },
     {
       "title": "TimeGuessr",
-      "score": 116,
+      "score": 155,
       "url": "https://timeguessr.com/",
       "time": 1749534983.0,
       "comments_url": "https://news.ycombinator.com/item?id=44233063"
     },
     {
-      "title": "Saab achieves AI milestone with Gripen E",
-      "score": 31,
-      "url": "https://www.saab.com/newsroom/press-releases/2025/saab-achieves-ai-milestone-with-gripen-e",
-      "time": 1749886991.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44274883"
+      "title": "Filedb: Disk-based key-value store inspired by Bitcask",
+      "score": 85,
+      "url": "https://github.com/rajivharlalka/filedb",
+      "time": 1749869103.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44273857"
     },
     {
-      "title": "Self-Adapting Language Models",
-      "score": 153,
-      "url": "https://arxiv.org/abs/2506.10943",
-      "time": 1749841422.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44271284"
+      "title": "Me an' Algernon – grappling with (temporary) cognitive decline",
+      "score": 49,
+      "url": "https://tidyfirst.substack.com/p/me-an-algernon",
+      "time": 1749567654.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44237654"
     },
     {
-      "title": "Man Killed by Police After Spiraling into ChatGPT-Driven Psychosis",
-      "score": 15,
-      "url": "https://futurism.com/man-killed-police-chatgpt",
-      "time": 1749898143.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44275551"
-    },
-    {
-      "title": "The Army’s Newest Recruits: Tech Execs From Meta, OpenAI and More",
-      "score": 99,
-      "url": "https://www.wsj.com/tech/army-reserve-tech-executives-meta-palantir-796f5360",
-      "time": 1749822702.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44268547"
-    },
-    {
-      "title": "How I uncovered a potential ancient Rome wine scam",
-      "score": 21,
-      "url": "https://phys.org/news/2025-06-uncovered-potential-ancient-rome-wine.html",
-      "time": 1749666816.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44250461"
+      "title": "Implementing Logic Programming",
+      "score": 159,
+      "url": "https://btmc.substack.com/p/implementing-logic-programming",
+      "time": 1749850341.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44272467"
     },
     {
       "title": "Liquid Glass – WWDC25 [video]",
-      "score": 85,
+      "score": 105,
       "url": "https://developer.apple.com/videos/play/wwdc2025/219",
       "time": 1749556127.0,
       "comments_url": "https://news.ycombinator.com/item?id=44235612"
     },
     {
-      "title": "The international standard for identifying postal items",
-      "score": 62,
-      "url": "https://www.akpain.net/blog/s10-upu/",
-      "time": 1749740543.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44258633"
+      "title": "Self-Adapting Language Models",
+      "score": 169,
+      "url": "https://arxiv.org/abs/2506.10943",
+      "time": 1749841422.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44271284"
+    },
+    {
+      "title": "Mollusk shell assemblages as a tool for identifying unaltered seagrass beds",
+      "score": 9,
+      "url": "https://www.int-res.com/abstracts/meps/v760/meps14839",
+      "time": 1749685210.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44252999"
     }
   ]
 }
