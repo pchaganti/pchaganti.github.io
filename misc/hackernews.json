@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-06-14T21:05:19.869260-04:00",
+  "last_updated": "2025-06-14T23:47:41.722708-04:00",
   "stories": [
     {
+      "title": "Q-learning is not yet scalable",
+      "score": 48,
+      "url": "https://seohong.me/blog/q-learning-is-not-yet-scalable/",
+      "time": 1749949014.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44279850"
+    },
+    {
+      "title": "Large Language Models Often Know When They Are Being Evaluated",
+      "score": 20,
+      "url": "https://arxiv.org/abs/2505.23836",
+      "time": 1749953862.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44280113"
+    },
+    {
       "title": "Infinite Grid of Resistors",
-      "score": 76,
+      "score": 110,
       "url": "https://www.mathpages.com/home/kmath668/kmath668.htm",
       "time": 1749939132.0,
       "comments_url": "https://news.ycombinator.com/item?id=44279181"
     },
     {
       "title": "I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch",
-      "score": 327,
+      "score": 355,
       "url": "https://github.com/yousef-rafat/miniDiffusion",
       "time": 1749909406.0,
       "comments_url": "https://news.ycombinator.com/item?id=44276476"
     },
     {
+      "title": "How to Bring Back Oddly Shaped App Icons in macOS 26 Tahoe",
+      "score": 41,
+      "url": "https://simonbs.dev/posts/how-to-bring-back-oddly-shaped-app-icons-on-macos-26-tahoe/",
+      "time": 1749640318.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44246340"
+    },
+    {
+      "title": "AMD's AI Future Is Rack Scale 'Helios'",
+      "score": 31,
+      "url": "https://morethanmoore.substack.com/p/amds-ai-future-is-rack-scale-helios",
+      "time": 1749934271.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44278746"
+    },
+    {
       "title": "Inside the Apollo \"8-Ball\" FDAI (Flight Director / Attitude Indicator)",
-      "score": 121,
+      "score": 129,
       "url": "https://www.righto.com/2025/06/inside-apollo-fdai.html",
       "time": 1749915783.0,
       "comments_url": "https://news.ycombinator.com/item?id=44277051"
     },
     {
       "title": "Have a damaged painting? Restore it in just hours with an AI-generated \"mask\"",
-      "score": 14,
+      "score": 35,
       "url": "https://news.mit.edu/2025/restoring-damaged-paintings-using-ai-generated-mask-0611",
       "time": 1749751163.0,
       "comments_url": "https://news.ycombinator.com/item?id=44260659"
     },
     {
-      "title": "Solar Orbiter gets world-first views of the Sun's poles",
-      "score": 169,
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_poles",
-      "time": 1749682850.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44252717"
-    },
-    {
       "title": "Chicken Eyeglasses",
-      "score": 38,
+      "score": 57,
       "url": "https://en.wikipedia.org/wiki/Chicken_eyeglasses",
       "time": 1749622429.0,
       "comments_url": "https://news.ycombinator.com/item?id=44244675"
     },
     {
-      "title": "Seven replies to the viral Apple reasoning paper and why they fall short",
-      "score": 199,
-      "url": "https://garymarcus.substack.com/p/seven-replies-to-the-viral-apple",
-      "time": 1749930758.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44278403"
-    },
-    {
-      "title": "Clinical knowledge in LLMs does not translate to human interactions",
-      "score": 42,
-      "url": "https://arxiv.org/pdf/2504.18919",
-      "time": 1749939526.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44279209"
-    },
-    {
-      "title": "Debunking HDR [video]",
-      "score": 50,
-      "url": "https://yedlin.net/DebunkingHDR/index.html",
-      "time": 1749657360.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44248968"
-    },
-    {
-      "title": "Waymo rides cost more than Uber or Lyft and people are paying anyway",
-      "score": 214,
-      "url": "https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/",
-      "time": 1749737983.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44258139"
-    },
-    {
-      "title": "Unsupervised Elicitation of Language Models",
-      "score": 117,
-      "url": "https://arxiv.org/abs/2506.10139",
-      "time": 1749904340.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44276041"
-    },
-    {
       "title": "Wrong ways to use the databases, when the pendulum swung too far",
-      "score": 9,
+      "score": 37,
       "url": "https://www.luu.io/posts/2025-database-pendulum",
       "time": 1749752353.0,
       "comments_url": "https://news.ycombinator.com/item?id=44260964"
     },
     {
-      "title": "Last fifty years of integer linear programming: Recent practical advances",
-      "score": 171,
-      "url": "https://inria.hal.science/hal-04776866v1",
-      "time": 1749881708.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44274567"
-    },
-    {
-      "title": "How the Final Cartridge III Freezer Works",
-      "score": 58,
-      "url": "https://www.pagetable.com/?p=1810",
-      "time": 1749920242.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44277431"
-    },
-    {
-      "title": "AMD's AI Future Is Rack Scale 'Helios'",
-      "score": 8,
-      "url": "https://morethanmoore.substack.com/p/amds-ai-future-is-rack-scale-helios",
-      "time": 1749934271.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44278746"
+      "title": "Solar Orbiter gets world-first views of the Sun's poles",
+      "score": 186,
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_poles",
+      "time": 1749682850.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44252717"
     },
     {
       "title": "Fixing the mechanics of my bullet chess",
-      "score": 13,
+      "score": 19,
       "url": "https://jacobbrazeal.wordpress.com/2025/06/14/fixing-the-mechanics-of-my-bullet-chess/",
       "time": 1749944446.0,
       "comments_url": "https://news.ycombinator.com/item?id=44279579"
     },
     {
-      "title": "The Many Sides of Erik Satie",
-      "score": 128,
-      "url": "https://thereader.mitpress.mit.edu/the-many-sides-of-erik-satie/",
-      "time": 1749389771.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44216921"
+      "title": "Waymo rides cost more than Uber or Lyft and people are paying anyway",
+      "score": 264,
+      "url": "https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/",
+      "time": 1749737983.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44258139"
     },
     {
-      "title": "SIMD-friendly algorithms for substring searching (2018)",
-      "score": 192,
-      "url": "http://0x80.pl/notesen/2016-11-28-simd-strfind.html",
-      "time": 1749871878.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44274001"
+      "title": "Sperm are very different from all other cells",
+      "score": 22,
+      "url": "https://www.bbc.com/future/article/20250613-untangling-the-mysteries-of-what-we-dont-know-about-sperm",
+      "time": 1749950998.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44279978"
     },
     {
-      "title": "Peano arithmetic is enough, because Peano arithmetic  encodes computation",
-      "score": 217,
-      "url": "https://math.stackexchange.com/a/5075056/6708",
-      "time": 1749831038.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44269822"
+      "title": "Iconic icons to showcase your skills",
+      "score": 5,
+      "url": "https://github.com/YuheshPandian/ICONIC",
+      "time": 1749737707.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44258083"
     },
     {
-      "title": "Endometriosis is an interesting disease",
-      "score": 318,
-      "url": "https://www.owlposting.com/p/endometriosis-is-an-incredibly-interesting",
-      "time": 1749854422.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44272933"
+      "title": "Debunking HDR [video]",
+      "score": 62,
+      "url": "https://yedlin.net/DebunkingHDR/index.html",
+      "time": 1749657360.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44248968"
+    },
+    {
+      "title": "Flies grow their gyroscopes: Study reveals how flight stabilizers take shape",
+      "score": 4,
+      "url": "https://phys.org/news/2025-06-flies-gyroscopes-reveals-flight-stabilizers.html",
+      "time": 1749772920.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44264475"
+    },
+    {
+      "title": "Unsupervised Elicitation of Language Models",
+      "score": 121,
+      "url": "https://arxiv.org/abs/2506.10139",
+      "time": 1749904340.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44276041"
+    },
+    {
+      "title": "Last fifty years of integer linear programming: Recent practical advances",
+      "score": 176,
+      "url": "https://inria.hal.science/hal-04776866v1",
+      "time": 1749881708.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44274567"
+    },
+    {
+      "title": "Seven replies to the viral Apple reasoning paper and why they fall short",
+      "score": 224,
+      "url": "https://garymarcus.substack.com/p/seven-replies-to-the-viral-apple",
+      "time": 1749930758.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44278403"
     }
   ]
 }
