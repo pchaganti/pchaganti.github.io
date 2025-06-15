@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-06-15T05:11:54.838506-04:00",
+  "last_updated": "2025-06-15T08:21:03.685349-04:00",
   "stories": [
     {
+      "title": "Datalog in Rust",
+      "score": 27,
+      "url": "https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md",
+      "time": 1749986320.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44281727"
+    },
+    {
       "title": "The Art of Lisp and Writing",
-      "score": 20,
+      "score": 69,
       "url": "https://www.dreamsongs.com/ArtOfLisp.html",
       "time": 1749971262.0,
       "comments_url": "https://news.ycombinator.com/item?id=44281016"
     },
     {
+      "title": "Ruby on Rails Audit Complete",
+      "score": 49,
+      "url": "https://ostif.org/ruby-on-rails-audit-complete/",
+      "time": 1749716118.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44255232"
+    },
+    {
       "title": "Q-learning is not yet scalable",
-      "score": 116,
+      "score": 150,
       "url": "https://seohong.me/blog/q-learning-is-not-yet-scalable/",
       "time": 1749949014.0,
       "comments_url": "https://news.ycombinator.com/item?id=44279850"
     },
     {
-      "title": "Infinite Grid of Resistors",
-      "score": 156,
-      "url": "https://www.mathpages.com/home/kmath668/kmath668.htm",
-      "time": 1749939132.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44279181"
-    },
-    {
-      "title": "I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch",
-      "score": 405,
-      "url": "https://github.com/yousef-rafat/miniDiffusion",
-      "time": 1749909406.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44276476"
-    },
-    {
       "title": "CI/CD Observability with OpenTelemetry Step by Step Guide",
-      "score": 21,
+      "score": 60,
       "url": "https://signoz.io/blog/cicd-observability-with-opentelemetry/",
       "time": 1749645770.0,
       "comments_url": "https://news.ycombinator.com/item?id=44247020"
     },
     {
+      "title": "Infinite Grid of Resistors",
+      "score": 177,
+      "url": "https://www.mathpages.com/home/kmath668/kmath668.htm",
+      "time": 1749939132.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44279181"
+    },
+    {
+      "title": "The Algebra of an Infinite Grid of Resistors",
+      "score": 27,
+      "url": "https://www.mathpages.com/home/kmath669/kmath669.htm",
+      "time": 1749966468.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44280796"
+    },
+    {
+      "title": "I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch",
+      "score": 420,
+      "url": "https://github.com/yousef-rafat/miniDiffusion",
+      "time": 1749909406.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44276476"
+    },
+    {
       "title": "Breaking My Security Assignments",
-      "score": 40,
+      "score": 55,
       "url": "https://www.akpain.net/blog/breaking-secnet-assignments/",
       "time": 1749740692.0,
       "comments_url": "https://news.ycombinator.com/item?id=44258665"
     },
     {
-      "title": "Dance Captcha",
-      "score": 35,
-      "url": "https://dance-captcha.vercel.app/",
-      "time": 1749778679.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44264962"
+      "title": "Text-to-LoRA: Hypernetwork that generates task-specific LLM adapters (LoRAs)",
+      "score": 8,
+      "url": "https://github.com/SakanaAI/text-to-lora",
+      "time": 1749707470.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44254627"
+    },
+    {
+      "title": "Waymo rides cost more than Uber or Lyft and people are paying anyway",
+      "score": 380,
+      "url": "https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/",
+      "time": 1749737983.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44258139"
     },
     {
       "title": "AMD's AI Future Is Rack Scale 'Helios'",
-      "score": 73,
+      "score": 90,
       "url": "https://morethanmoore.substack.com/p/amds-ai-future-is-rack-scale-helios",
       "time": 1749934271.0,
       "comments_url": "https://news.ycombinator.com/item?id=44278746"
     },
     {
       "title": "Chicken Eyeglasses",
-      "score": 101,
+      "score": 118,
       "url": "https://en.wikipedia.org/wiki/Chicken_eyeglasses",
       "time": 1749622429.0,
       "comments_url": "https://news.ycombinator.com/item?id=44244675"
     },
     {
-      "title": "Waymo rides cost more than Uber or Lyft and people are paying anyway",
-      "score": 342,
-      "url": "https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/",
-      "time": 1749737983.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44258139"
-    },
-    {
-      "title": "The Algebra of an Infinite Grid of Resistors",
-      "score": 5,
-      "url": "https://www.mathpages.com/home/kmath669/kmath669.htm",
-      "time": 1749966468.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44280796"
-    },
-    {
-      "title": "Inside the Apollo “8-Ball” FDAI (Flight Director / Attitude Indicator)",
-      "score": 143,
-      "url": "https://www.righto.com/2025/06/inside-apollo-fdai.html",
-      "time": 1749915783.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44277051"
-    },
-    {
       "title": "Solar Orbiter gets world-first views of the Sun's poles",
-      "score": 221,
+      "score": 234,
       "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_poles",
       "time": 1749682850.0,
       "comments_url": "https://news.ycombinator.com/item?id=44252717"
     },
     {
-      "title": "Have a damaged painting? Restore it in just hours with an AI-generated “mask”",
-      "score": 60,
-      "url": "https://news.mit.edu/2025/restoring-damaged-paintings-using-ai-generated-mask-0611",
-      "time": 1749751163.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44260659"
-    },
-    {
-      "title": "Bioprospectors mine microbial genomes for antibiotic gold",
-      "score": 10,
-      "url": "https://cen.acs.org/pharmaceuticals/drug-discovery/Bioprospectors-mine-microbial-genomes-antibiotic/103/web/2025/06",
-      "time": 1749638794.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44246187"
-    },
-    {
-      "title": "Last fifty years of integer linear programming: Recent practical advances",
-      "score": 194,
-      "url": "https://inria.hal.science/hal-04776866v1",
-      "time": 1749881708.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44274567"
-    },
-    {
-      "title": "Fixing the mechanics of my bullet chess",
-      "score": 33,
-      "url": "https://jacobbrazeal.wordpress.com/2025/06/14/fixing-the-mechanics-of-my-bullet-chess/",
-      "time": 1749944446.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44279579"
-    },
-    {
-      "title": "Debunking HDR [video]",
-      "score": 83,
-      "url": "https://yedlin.net/DebunkingHDR/index.html",
-      "time": 1749657360.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44248968"
+      "title": "Inside the Apollo “8-Ball” FDAI (Flight Director / Attitude Indicator)",
+      "score": 148,
+      "url": "https://www.righto.com/2025/06/inside-apollo-fdai.html",
+      "time": 1749915783.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44277051"
     },
     {
       "title": "Meta-analysis of three different notions of software complexity",
-      "score": 15,
+      "score": 39,
       "url": "https://typesanitizer.com/blog/complexity-definitions.html",
       "time": 1749884085.0,
       "comments_url": "https://news.ycombinator.com/item?id=44274696"
     },
     {
-      "title": "Cray versus Raspberry Pi",
-      "score": 98,
-      "url": "https://www.aardvark.co.nz/daily/2025/0611.shtml",
-      "time": 1749621509.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44244595"
+      "title": "Bioprospectors mine microbial genomes for antibiotic gold",
+      "score": 15,
+      "url": "https://cen.acs.org/pharmaceuticals/drug-discovery/Bioprospectors-mine-microbial-genomes-antibiotic/103/web/2025/06",
+      "time": 1749638794.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44246187"
+    },
+    {
+      "title": "How multiplication is defined in Peano arithmetic",
+      "score": 20,
+      "url": "http://devlinsangle.blogspot.com/2011/11/how-multiplication-is-really-defined-in.html",
+      "time": 1749886578.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44274854"
+    },
+    {
+      "title": "Have a damaged painting? Restore it in just hours with an AI-generated “mask”",
+      "score": 70,
+      "url": "https://news.mit.edu/2025/restoring-damaged-paintings-using-ai-generated-mask-0611",
+      "time": 1749751163.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44260659"
+    },
+    {
+      "title": "Last fifty years of integer linear programming: Recent practical advances",
+      "score": 198,
+      "url": "https://inria.hal.science/hal-04776866v1",
+      "time": 1749881708.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44274567"
     }
   ]
 }
