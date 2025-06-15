@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-06-15T11:10:48.963589-04:00",
+  "last_updated": "2025-06-15T14:14:57.402044-04:00",
   "stories": [
     {
-      "title": "Canyon.mid",
+      "title": "Modifying an HDMI dummy plug's EDID using a Raspberry Pi",
+      "score": 75,
+      "url": "https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/",
+      "time": 1750003243.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44282998"
+    },
+    {
+      "title": "I want to be a Journey Programmer Again",
+      "score": 31,
+      "url": "https://hexhowells.com/posts/journey.html",
+      "time": 1750006667.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44283388"
+    },
+    {
+      "title": "Red Hat Linux in 1998 (2009)",
       "score": 46,
+      "url": "https://linuxgazette.net/165/laycock.html",
+      "time": 1750003722.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44283047"
+    },
+    {
+      "title": "Canyon.mid",
+      "score": 155,
       "url": "https://canyonmid.com/",
       "time": 1749993835.0,
       "comments_url": "https://news.ycombinator.com/item?id=44282177"
     },
     {
-      "title": "Datalog in Rust",
-      "score": 118,
-      "url": "https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md",
-      "time": 1749986320.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44281727"
-    },
-    {
       "title": "How to modify Starlink Mini to run without the built-in WiFi router",
-      "score": 72,
+      "score": 154,
       "url": "https://olegkutkov.me/2025/06/15/how-to-modify-starlink-mini-to-run-without-the-built-in-wifi-router/",
       "time": 1749991207.0,
       "comments_url": "https://news.ycombinator.com/item?id=44282017"
     },
     {
-      "title": "Show HN: Meow – An Image File Format I made because PNGs and JPEGs suck for AI",
-      "score": 51,
-      "url": "https://github.com/Kuberwastaken/meow",
-      "time": 1749990415.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44281958"
+      "title": "Datalog in Rust",
+      "score": 176,
+      "url": "https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md",
+      "time": 1749986320.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44281727"
+    },
+    {
+      "title": "Social anxiety disorder-associated gut microbiota increases social fear",
+      "score": 89,
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2308706120",
+      "time": 1750004172.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44283095"
     },
     {
       "title": "1k year old 3 sisters crop farm found in Northern Michigan",
-      "score": 53,
+      "score": 102,
       "url": "https://www.smithsonianmag.com/smart-news/massive-field-where-native-american-farmers-grew-corn-beans-and-squash-1000-years-ago-discovered-in-michigan-180986758/",
       "time": 1749734019.0,
       "comments_url": "https://news.ycombinator.com/item?id=44257422"
     },
     {
-      "title": "An origin trial for a new HTML <permission> element",
-      "score": 48,
-      "url": "https://developer.chrome.com/blog/permission-element-origin-trial",
-      "time": 1749984860.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44281633"
-    },
-    {
-      "title": "The Art of Lisp and Writing",
-      "score": 104,
-      "url": "https://www.dreamsongs.com/ArtOfLisp.html",
-      "time": 1749971262.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44281016"
-    },
-    {
-      "title": "Ruby on Rails Audit Complete",
-      "score": 104,
-      "url": "https://ostif.org/ruby-on-rails-audit-complete/",
-      "time": 1749716118.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44255232"
-    },
-    {
-      "title": "That 'unsubscribe' button may be a scam",
-      "score": 15,
-      "url": "https://www.popsci.com/technology/email-unsubscribe-scam/",
-      "time": 1749996678.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44282384"
-    },
-    {
-      "title": "Tiny-diffusion: A minimal implementation of probabilistic diffusion models",
-      "score": 31,
-      "url": "https://github.com/tanelp/tiny-diffusion",
-      "time": 1749973969.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44281148"
-    },
-    {
-      "title": "The Keyset",
-      "score": 4,
-      "url": "https://dougengelbart.org/content/view/273/",
-      "time": 1749994771.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44282232"
-    },
-    {
-      "title": "Q-learning is not yet scalable",
-      "score": 171,
-      "url": "https://seohong.me/blog/q-learning-is-not-yet-scalable/",
-      "time": 1749949014.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44279850"
-    },
-    {
-      "title": "Text-to-LoRA: Hypernetwork that generates task-specific LLM adapters (LoRAs)",
-      "score": 32,
-      "url": "https://github.com/SakanaAI/text-to-lora",
-      "time": 1749707470.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44254627"
+      "title": "Datalog in miniKanren",
+      "score": 12,
+      "url": "https://deosjr.github.io/dynamicland/datalog.html",
+      "time": 1750004168.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44283093"
     },
     {
       "title": "Childhood leukemia: how a deadly cancer became treatable",
-      "score": 6,
+      "score": 50,
       "url": "https://ourworldindata.org/childhood-leukemia-treatment-history",
       "time": 1749993162.0,
       "comments_url": "https://news.ycombinator.com/item?id=44282143"
     },
     {
-      "title": "CI/CD Observability with OpenTelemetry Step by Step Guide",
-      "score": 83,
-      "url": "https://signoz.io/blog/cicd-observability-with-opentelemetry/",
-      "time": 1749645770.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44247020"
+      "title": "The experience continues until you stop experiencing it",
+      "score": 21,
+      "url": "https://strangemachine.tv/safespace/popov/",
+      "time": 1750005387.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44283239"
     },
     {
-      "title": "I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch",
-      "score": 432,
-      "url": "https://github.com/yousef-rafat/miniDiffusion",
-      "time": 1749909406.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44276476"
+      "title": "Biofuels Policy, a Mainstay of American Agriculture, a Failure for the Climate",
+      "score": 35,
+      "url": "https://insideclimatenews.org/news/13062025/agriculture-ethanol-biofuel-policy-climate-failure/",
+      "time": 1750003342.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44283008"
     },
     {
-      "title": "Infinite Grid of Resistors",
-      "score": 188,
-      "url": "https://www.mathpages.com/home/kmath668/kmath668.htm",
-      "time": 1749939132.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44279181"
+      "title": "The Art of Lisp and Writing (2003)",
+      "score": 135,
+      "url": "https://www.dreamsongs.com/ArtOfLisp.html",
+      "time": 1749971262.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44281016"
     },
     {
       "title": "Foundations of Computer Vision",
-      "score": 10,
+      "score": 59,
       "url": "https://visionbook.mit.edu",
       "time": 1749982301.0,
       "comments_url": "https://news.ycombinator.com/item?id=44281506"
     },
     {
-      "title": "The Talented Ms. Highsmith",
-      "score": 14,
-      "url": "https://yalereview.org/article/working-for-patricia-highsmith",
-      "time": 1749879560.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44274440"
+      "title": "How easy is it for a developer to \"sandbox\" a program?",
+      "score": 24,
+      "url": "https://kristaps.bsd.lv/devsecflops/",
+      "time": 1749661044.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44249511"
     },
     {
-      "title": "Notes on the History of the Map Tile",
-      "score": 18,
-      "url": "https://placing.technology/notes-on-the-history-of-the-map-tile",
-      "time": 1749978849.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44281371"
+      "title": "Text-to-LoRA: Hypernetwork that generates task-specific LLM adapters (LoRAs)",
+      "score": 66,
+      "url": "https://github.com/SakanaAI/text-to-lora",
+      "time": 1749707470.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44254627"
+    },
+    {
+      "title": "The Skyscraper That Could Have Toppled over in the Wind (1995)",
+      "score": 5,
+      "url": "https://www.newyorker.com/magazine/1995/05/29/the-fifty-nine-story-crisis-citicorp-center",
+      "time": 1750002016.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44282868"
+    },
+    {
+      "title": "SQLite Date and Time Functions",
+      "score": 8,
+      "url": "https://www2.sqlite.org/cvstrac/wiki?p=DateAndTimeFunctions",
+      "time": 1749876898.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44274280"
+    },
+    {
+      "title": "Q-learning is not yet scalable",
+      "score": 193,
+      "url": "https://seohong.me/blog/q-learning-is-not-yet-scalable/",
+      "time": 1749949014.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44279850"
+    },
+    {
+      "title": "The Keyset",
+      "score": 9,
+      "url": "https://dougengelbart.org/content/view/273/",
+      "time": 1749994771.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44282232"
     }
   ]
 }
