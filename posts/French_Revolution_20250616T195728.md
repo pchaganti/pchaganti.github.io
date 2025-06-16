@@ -1,4 +1,4 @@
-# The Crucible of Liberty Is Lined with Ash
+# Crucible of Liberty
 
 I am an alchemist of the human spirit, and I tell you the French Revolution was no mere event; it was a crucible. It was the great, roaring furnace into which an entire civilization was thrown, with the mad, divine promise that from the melting of base lead—the dross of monarchy, the rust of privilege—a pure, golden ingot of *Liberté* could be forged. We imagine the fire as a cleansing force, a necessary heat to purify the soul of a nation. We listen for the triumphant ring of new metal, solid and bright.
 
