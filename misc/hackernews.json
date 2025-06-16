@@ -1,68 +1,103 @@
 {
-  "last_updated": "2025-06-16T11:13:19.670873-04:00",
+  "last_updated": "2025-06-16T14:17:16.018903-04:00",
   "stories": [
     {
+      "title": "Benzene at 200",
+      "score": 93,
+      "url": "https://www.chemistryworld.com/opinion/benzene-at-200/4021504.article",
+      "time": 1750087007.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44290413"
+    },
+    {
       "title": "Working on databases from prison",
-      "score": 246,
+      "score": 485,
       "url": "https://turso.tech/blog/working-on-databases-from-prison",
       "time": 1750077122.0,
       "comments_url": "https://news.ycombinator.com/item?id=44288937"
     },
     {
-      "title": "Mathematical Illustrations: A Manual of Geometry and PostScript",
-      "score": 13,
-      "url": "https://personal.math.ubc.ca/~cass/graphics/text/www/",
-      "time": 1750083294.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44289705"
+      "title": "OpenTelemetry for Go: Measuring overhead costs",
+      "score": 27,
+      "url": "https://coroot.com/blog/opentelemetry-for-go-measuring-the-overhead/",
+      "time": 1750086557.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44290331"
     },
     {
       "title": "Show HN: Zeekstd – Rust Implementation of the ZSTD Seekable Format",
-      "score": 104,
+      "score": 132,
       "url": "https://github.com/rorosen/zeekstd",
       "time": 1750020558.0,
       "comments_url": "https://news.ycombinator.com/item?id=44284871"
     },
     {
+      "title": "ZjsComponent: A Pragmatic Approach to Reusable UI Fragments for Web Development",
+      "score": 33,
+      "url": "https://arxiv.org/abs/2506.11016",
+      "time": 1750086462.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44290315"
+    },
+    {
+      "title": "Use Copilot Agent Mode in Visual Studio (Preview)",
+      "score": 17,
+      "url": "https://learn.microsoft.com/en-us/visualstudio/ide/copilot-agent-mode?view=vs-2022",
+      "time": 1750061349.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44287545"
+    },
+    {
       "title": "Show HN: dk – A script runner and cross-compiler, written in OCaml",
-      "score": 6,
+      "score": 28,
       "url": "https://diskuv.com/dk/help/latest/",
       "time": 1750085374.0,
       "comments_url": "https://news.ycombinator.com/item?id=44290121"
     },
     {
+      "title": "The Renegade Richard Foreman",
+      "score": 6,
+      "url": "https://yalereview.org/article/jennifer-krasinski-richard-foreman",
+      "time": 1750091073.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44291026"
+    },
+    {
+      "title": "Darklang Goes Open Source",
+      "score": 67,
+      "url": "https://blog.darklang.com/darklang-goes-open-source/",
+      "time": 1750088504.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44290653"
+    },
+    {
       "title": "Nanonets-OCR-s – OCR model that transforms documents into structured markdown",
-      "score": 131,
+      "score": 193,
       "url": "https://huggingface.co/nanonets/Nanonets-OCR-s",
       "time": 1750054496.0,
       "comments_url": "https://news.ycombinator.com/item?id=44287043"
     },
     {
-      "title": "Show HN: Socket-call – Call socket.io events like normal JavaScript functions",
-      "score": 20,
-      "url": "https://github.com/bperel/socket-call",
-      "time": 1750074054.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44288643"
+      "title": "Salesforce study finds LLM agents flunk CRM and confidentiality tests",
+      "score": 114,
+      "url": "https://www.theregister.com/2025/06/16/salesforce_llm_agents_benchmark/",
+      "time": 1750082358.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44289554"
     },
     {
-      "title": "Start your own Internet Resiliency Club",
-      "score": 358,
-      "url": "https://bowshock.nl/irc/",
-      "time": 1750059497.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44287395"
-    },
-    {
-      "title": "Jokes and Humour in the Public Android API",
-      "score": 211,
-      "url": "https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/",
-      "time": 1750032895.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44285781"
+      "title": "Adding public transport data to Transitous",
+      "score": 12,
+      "url": "https://www.volkerkrause.eu/2025/06/14/transitous-adding-data.html",
+      "time": 1749903789.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44275974"
     },
     {
       "title": "Is gravity just entropy rising? Long-shot idea gets another look",
-      "score": 138,
+      "score": 194,
       "url": "https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/",
       "time": 1750034201.0,
       "comments_url": "https://news.ycombinator.com/item?id=44285874"
+    },
+    {
+      "title": "Start your own Internet Resiliency Club",
+      "score": 440,
+      "url": "https://bowshock.nl/irc/",
+      "time": 1750059497.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44287395"
     },
     {
       "title": "Infracost (YC W21) is hiring software engineers (GMT+2 to GMT-6)",
@@ -72,74 +107,39 @@
       "comments_url": "https://news.ycombinator.com/item?id=44288748"
     },
     {
-      "title": "Salesforce study finds LLM agents flunk CRM and confidentiality tests",
-      "score": 31,
-      "url": "https://www.theregister.com/2025/06/16/salesforce_llm_agents_benchmark/",
-      "time": 1750082358.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44289554"
-    },
-    {
       "title": "Maya Blue: Unlocking the Mysteries of an Ancient Pigment",
-      "score": 29,
+      "score": 45,
       "url": "https://www.mexicolore.co.uk/maya/home/maya-blue-unlocking-the-mysteries-of-an-ancient-pigment",
       "time": 1749890905.0,
       "comments_url": "https://news.ycombinator.com/item?id=44275134"
     },
     {
-      "title": "Why SSL was renamed to TLS in late 90s (2014)",
-      "score": 410,
-      "url": "https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html",
-      "time": 1749996637.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44282378"
+      "title": "Show HN: Socket-call – Call socket.io events like normal JavaScript functions",
+      "score": 30,
+      "url": "https://github.com/bperel/socket-call",
+      "time": 1750074054.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44288643"
     },
     {
-      "title": "A Framework for Characterizing Emergent Conflict Between Non-Coordinating Agents [pdf]",
-      "score": 7,
-      "url": "https://paperclipmaximizer.ai/Unaware_Adversaries.pdf",
-      "time": 1749900961.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44275737"
-    },
-    {
-      "title": "Mechanisms for Detection and Repair of Puncture Damage in Soft Robotics [pdf]",
-      "score": 5,
-      "url": "https://smr.unl.edu/papers/Krings_et_al-2025-ICRA.pdf",
-      "time": 1749889755.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44275063"
-    },
-    {
-      "title": "Modifying an HDMI dummy plug's EDID using a Raspberry Pi",
-      "score": 262,
-      "url": "https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/",
-      "time": 1750003243.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44282998"
-    },
-    {
-      "title": "Solving LinkedIn Queens with APL",
-      "score": 47,
-      "url": "https://pitr.ca/2025-06-14-queens",
-      "time": 1749902991.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44275900"
+      "title": "Quantum mechanics provide truly random numbers on demand",
+      "score": 15,
+      "url": "https://phys.org/news/2025-06-quantum-mechanics-random-demand.html",
+      "time": 1749900398.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44275696"
     },
     {
       "title": "Occurences of swearing in the Linux kernel source code over time",
-      "score": 58,
+      "score": 89,
       "url": "https://www.vidarholen.net/contents/wordcount/#fuck*,shit*,damn*,idiot*,retard*,crap*",
       "time": 1749888931.0,
       "comments_url": "https://news.ycombinator.com/item?id=44275014"
     },
     {
-      "title": "Childhood leukemia: how a deadly cancer became treatable",
-      "score": 246,
-      "url": "https://ourworldindata.org/childhood-leukemia-treatment-history",
-      "time": 1749993162.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44282143"
-    },
-    {
-      "title": "Real-time CO2 monitoring without batteries or external power",
-      "score": 77,
-      "url": "https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=47450",
-      "time": 1750026574.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44285392"
+      "title": "Why SSL was renamed to TLS in late 90s (2014)",
+      "score": 456,
+      "url": "https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html",
+      "time": 1749996637.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44282378"
     }
   ]
 }
