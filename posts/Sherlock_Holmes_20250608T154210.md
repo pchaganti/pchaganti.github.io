@@ -1,4 +1,4 @@
-# Sherlock Holmes: The Austere Geometry of Light
+# Sherlock Holmes: An Austere Geometry of Light
 
 Is 'Sherlock Holmes' merely a name, or is it a beacon – a solitary lighthouse built of **austere geometry**, its unwavering beam of pure reason slicing through the dense fog of human complexity? This lighthouse, this *Sherlock Holmes*, stands not on a terrestrial shore, but on the precipice of understanding itself, a stark monument to the relentless pursuit of clarity.
 
