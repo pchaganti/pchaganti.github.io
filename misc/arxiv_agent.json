@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-15T17:10:28.972066-04:00",
+  "last_updated": "2025-06-15T21:01:33.880167-04:00",
   "papers": [
     {
       "title": "AutoMind: Adaptive Knowledgeable Agent for Automated Data Science",
@@ -76,7 +76,7 @@
     {
       "title": "Joint Beamforming with Extremely Large Scale RIS: A Sequential\n  Multi-Agent A2C Approach",
       "summary": "It is a challenging problem to jointly optimize the base station (BS)\nprecoding matrix and the reconfigurable intelligent surface (RIS) phases\nsimultaneously in a RIS-assisted multiple-user multiple-input-multiple-output\n(MU-MIMO) scenario when the size of the RIS becomes extremely large. In this\npaper, we propose a deep reinforcement learning algorithm called sequential\nmulti-agent advantage actor-critic (A2C) to solve this problem. In addition,\nthe discrete phase of RISs, imperfect channel state information (CSI), and\nchannel correlations between users are taken into consideration. The\ncomputational complexity is also analyzed, and the performance of the proposed\nalgorithm is compared with the zero-forcing (ZF) beamformer in terms of the sum\nspectral efficiency (SE). It is noted that the computational complexity of the\nproposed algorithm is lower than the benchmark, while the performance is better\nthan the benchmark. Throughout simulations, it is also found that the proposed\nalgorithm is robust to medium channel estimation error.",
-      "url": "http://arxiv.org/abs/2506.10815v1",
+      "url": "http://arxiv.org/abs/2506.10815v2",
       "published_time_eastern_timestamp": 1749742197.0
     },
     {
