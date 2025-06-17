@@ -1,40 +1,89 @@
 {
-  "last_updated": "2025-06-16T17:11:29.609891-04:00",
+  "last_updated": "2025-06-16T20:59:10.120565-04:00",
   "stories": [
     {
-      "title": "Show HN: Canine – A Heroku alternative built on Kubernetes",
-      "score": 74,
-      "url": "https://github.com/czhu12/canine",
-      "time": 1750098479.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44292103"
+      "title": "George Orwell's 1984 and How Power Manufactures Truth",
+      "score": 14,
+      "url": "https://www.openculture.com/2025/06/an-introduction-to-george-orwells-1984-and-how-power-manufactures-truth.html",
+      "time": 1750120399.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44294629"
+    },
+    {
+      "title": "Snorting the AGI with Claude Code",
+      "score": 182,
+      "url": "https://kadekillary.work/blog/#2025-06-16-snorting-the-agi-with-claude-code",
+      "time": 1750071692.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44288377"
+    },
+    {
+      "title": "DRM Can Watch You Too: Privacy Effects of Browsers' Widevine EME (2023)",
+      "score": 45,
+      "url": "https://hal.science/hal-04179324v1/document",
+      "time": 1750111618.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44293837"
+    },
+    {
+      "title": "Show HN: Chawan TUI web browser",
+      "score": 156,
+      "url": "https://chawan.net/news/chawan-0-2-0.html",
+      "time": 1750106923.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44293260"
     },
     {
       "title": "Benzene at 200",
-      "score": 146,
+      "score": 170,
       "url": "https://www.chemistryworld.com/opinion/benzene-at-200/4021504.article",
       "time": 1750087007.0,
       "comments_url": "https://news.ycombinator.com/item?id=44290413"
     },
     {
-      "title": "Breaking Quadratic Barriers: A Non-Attention LLM for Ultra-Long Context Horizons",
-      "score": 16,
-      "url": "https://arxiv.org/abs/2506.01963",
-      "time": 1750101597.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44292601"
+      "title": "Show HN: Canine – A Heroku alternative built on Kubernetes",
+      "score": 145,
+      "url": "https://github.com/czhu12/canine",
+      "time": 1750098479.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44292103"
     },
     {
       "title": "Retrobootstrapping Rust for some reason",
-      "score": 34,
+      "score": 89,
       "url": "https://graydon2.dreamwidth.org/317484.html",
       "time": 1750105184.0,
       "comments_url": "https://news.ycombinator.com/item?id=44293044"
     },
     {
-      "title": "Show HN: Chawan TUI web browser",
-      "score": 13,
-      "url": "https://chawan.net/news/chawan-0-2-0.html",
-      "time": 1750106923.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44293260"
+      "title": "Open-Source RISC-V: Energy Efficiency of Superscalar, Out-of-Order Execution",
+      "score": 57,
+      "url": "https://arxiv.org/abs/2505.24363",
+      "time": 1750092415.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44291204"
+    },
+    {
+      "title": "Battle to eradicate invasive pythons in Florida achieves milestone",
+      "score": 6,
+      "url": "https://phys.org/news/2025-06-eradicate-invasive-pythons-florida-stunning.html",
+      "time": 1750112553.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44293922"
+    },
+    {
+      "title": "OpenTelemetry for Go: Measuring overhead costs",
+      "score": 94,
+      "url": "https://coroot.com/blog/opentelemetry-for-go-measuring-the-overhead/",
+      "time": 1750086557.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44290331"
+    },
+    {
+      "title": "Working on databases from prison",
+      "score": 678,
+      "url": "https://turso.tech/blog/working-on-databases-from-prison",
+      "time": 1750077122.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44288937"
+    },
+    {
+      "title": "Show HN: Zeekstd – Rust Implementation of the ZSTD Seekable Format",
+      "score": 172,
+      "url": "https://github.com/rorosen/zeekstd",
+      "time": 1750020558.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44284871"
     },
     {
       "title": "Blaze (YC S24) Is Hiring",
@@ -44,102 +93,53 @@
       "comments_url": "https://news.ycombinator.com/item?id=44293358"
     },
     {
-      "title": "Snorting the AGI with Claude Code",
-      "score": 9,
-      "url": "https://kadekillary.work/blog/#2025-06-16-snorting-the-agi-with-claude-code",
-      "time": 1750071692.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44288377"
-    },
-    {
-      "title": "OpenTelemetry for Go: Measuring overhead costs",
-      "score": 61,
-      "url": "https://coroot.com/blog/opentelemetry-for-go-measuring-the-overhead/",
-      "time": 1750086557.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44290331"
-    },
-    {
-      "title": "Working on databases from prison",
-      "score": 597,
-      "url": "https://turso.tech/blog/working-on-databases-from-prison",
-      "time": 1750077122.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44288937"
+      "title": "OpenAI wins $200M U.S. defense contract",
+      "score": 53,
+      "url": "https://www.cnbc.com/2025/06/16/openai-wins-200-million-us-defense-contract.html",
+      "time": 1750113118.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44293988"
     },
     {
       "title": "Show HN: Nexus.js - Fabric.js for 3D",
-      "score": 10,
+      "score": 40,
       "url": "https://punk.cam/lab/nexus",
       "time": 1750106025.0,
       "comments_url": "https://news.ycombinator.com/item?id=44293147"
     },
     {
-      "title": "WhatsApp introduces ads in its app",
-      "score": 99,
-      "url": "https://www.nytimes.com/2025/06/16/technology/whatsapp-ads.html",
-      "time": 1750081139.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44289412"
-    },
-    {
-      "title": "Open-Source RISC-V: Energy Efficiency of Superscalar, Out-of-Order Execution",
-      "score": 29,
-      "url": "https://arxiv.org/abs/2505.24363",
-      "time": 1750092415.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44291204"
-    },
-    {
-      "title": "Show HN: Zeekstd – Rust Implementation of the ZSTD Seekable Format",
-      "score": 153,
-      "url": "https://github.com/rorosen/zeekstd",
-      "time": 1750020558.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44284871"
-    },
-    {
-      "title": "ZjsComponent: A Pragmatic Approach to Reusable UI Fragments for Web Development",
-      "score": 52,
-      "url": "https://arxiv.org/abs/2506.11016",
-      "time": 1750086462.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44290315"
-    },
-    {
-      "title": "Transparent peer review to be extended to all of Nature's research papers",
-      "score": 69,
-      "url": "https://www.nature.com/articles/d41586-025-01880-9",
-      "time": 1750099893.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44292342"
-    },
-    {
       "title": "Nanonets-OCR-s – OCR model that transforms documents into structured markdown",
-      "score": 248,
+      "score": 278,
       "url": "https://huggingface.co/nanonets/Nanonets-OCR-s",
       "time": 1750054496.0,
       "comments_url": "https://news.ycombinator.com/item?id=44287043"
     },
     {
+      "title": "Breaking Quadratic Barriers: A Non-Attention LLM for Ultra-Long Context Horizons",
+      "score": 40,
+      "url": "https://arxiv.org/abs/2506.01963",
+      "time": 1750101597.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44292601"
+    },
+    {
+      "title": "Is gravity just entropy rising? Long-shot idea gets another look",
+      "score": 253,
+      "url": "https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/",
+      "time": 1750034201.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44285874"
+    },
+    {
       "title": "Show HN: dk – A script runner and cross-compiler, written in OCaml",
-      "score": 41,
+      "score": 52,
       "url": "https://diskuv.com/dk/help/latest/",
       "time": 1750085374.0,
       "comments_url": "https://news.ycombinator.com/item?id=44290121"
     },
     {
       "title": "Adding public transport data to Transitous",
-      "score": 33,
+      "score": 47,
       "url": "https://www.volkerkrause.eu/2025/06/14/transitous-adding-data.html",
       "time": 1749903789.0,
       "comments_url": "https://news.ycombinator.com/item?id=44275974"
-    },
-    {
-      "title": "Is gravity just entropy rising? Long-shot idea gets another look",
-      "score": 228,
-      "url": "https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/",
-      "time": 1750034201.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44285874"
-    },
-    {
-      "title": "The Renegade Richard Foreman",
-      "score": 9,
-      "url": "https://yalereview.org/article/jennifer-krasinski-richard-foreman",
-      "time": 1750091073.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44291026"
     }
   ]
 }
