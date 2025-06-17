@@ -19,30 +19,37 @@
         line-height: 1.6;
         margin: 0;
         padding: 0;
-        background-color: #f8f9fa; /* Slightly off-white */
-        color: #343a40; /* Darker gray */
+        background-color: #f8f9fa;
+        color: #343a40;
+        height: 100vh;
+        overflow: hidden;
       }
 
       /* --- Container --- */
       .container {
         max-width: 800px;
-        margin: 25px auto;
+        margin: 0 auto;
         padding: 20px 30px;
         background-color: #ffffff;
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
         border-radius: 8px;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
       }
 
       h1 {
-        /* text-align: center; */ /* REMOVE this */
-        text-align: left; /* ADD this */
+        text-align: left;
         color: #333;
-        /* margin-bottom: 2rem; */ /* Adjust margin */
-        margin-bottom: 2.5rem; /* Reduce bottom margin */
-        padding-bottom: 0.75rem; /* Add padding for the border */
-        font-weight: 500; /* Slightly bolder main title */
+        margin: 0 0 2.5rem 0;
+        padding: 0.75rem;
+        font-weight: 500;
         font-size: 1.8em;
-        line-height: 1.3; /* Adjust line height if needed */
+        line-height: 1.3;
+        background: #ffffff;
+        position: sticky;
+        top: 0;
+        z-index: 100;
       }
 
       /* Styles for the new spans */
@@ -99,7 +106,9 @@
 
       /* --- Feed Entries --- */
       #feed-entries {
-        /* Container for dynamically added entries */
+        flex: 1;
+        overflow-y: auto;
+        padding-right: 10px;
       }
 
       .feed-entry {
@@ -162,20 +171,24 @@
         padding: 20px;
         font-style: italic;
         color: #6c757d;
+        background: #ffffff;
+        position: sticky;
+        top: 80px;
+        z-index: 99;
       }
       #status.error {
-        color: #dc3545; /* Red for errors */
+        color: #dc3545;
         font-weight: bold;
       }
 
       /* --- Footer --- */
       footer {
         text-align: center;
-        margin-top: 30px;
-        padding-top: 15px;
+        padding: 15px 0;
         border-top: 1px solid #dee2e6;
         font-size: 0.85em;
         color: #6c757d;
+        background: #ffffff;
       }
     </style>
   </head>
