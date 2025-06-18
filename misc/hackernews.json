@@ -1,61 +1,96 @@
 {
-  "last_updated": "2025-06-18T14:16:57.767523-04:00",
+  "last_updated": "2025-06-18T17:11:31.270193-04:00",
   "stories": [
     {
+      "title": "Andrej Karpathy's YC AI SUS talk on the future of the industry",
+      "score": 181,
+      "url": "https://www.donnamagi.com/articles/karpathy-yc-talk",
+      "time": 1750265778.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44311509"
+    },
+    {
       "title": "The Unreasonable Effectiveness of Fuzzing for Porting Programs",
-      "score": 40,
+      "score": 116,
       "url": "https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing",
       "time": 1750263995.0,
       "comments_url": "https://news.ycombinator.com/item?id=44311241"
     },
     {
       "title": "Show HN: Workout.cool – Open-source fitness coaching platform",
-      "score": 343,
+      "score": 451,
       "url": "https://github.com/Snouzy/workout-cool",
       "time": 1750250029.0,
       "comments_url": "https://news.ycombinator.com/item?id=44309320"
     },
     {
-      "title": "Game Hacking – Valve Anti-Cheat (VAC)",
-      "score": 22,
-      "url": "https://codeneverdies.github.io/posts/gh-2/",
-      "time": 1750267171.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44311682"
+      "title": "My iPhone 8 Refuses to Die: Now It's a Solar-Powered Vision OCR Server",
+      "score": 101,
+      "url": "https://terminalbytes.com/iphone-8-solar-powered-vision-ocr-server/",
+      "time": 1750261793.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44310944"
+    },
+    {
+      "title": "Writing documentation for AI: best practices",
+      "score": 90,
+      "url": "https://docs.kapa.ai/improving/writing-best-practices",
+      "time": 1750263826.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44311217"
     },
     {
       "title": "Show HN: I built a tensor library from scratch in C++/CUDA",
-      "score": 43,
+      "score": 72,
       "url": "https://github.com/nirw4nna/dsc",
       "time": 1750260005.0,
       "comments_url": "https://news.ycombinator.com/item?id=44310678"
     },
     {
       "title": "Homomorphically Encrypting CRDTs",
-      "score": 136,
+      "score": 166,
       "url": "https://jakelazaroff.com/words/homomorphically-encrypted-crdts/",
       "time": 1750251598.0,
       "comments_url": "https://news.ycombinator.com/item?id=44309520"
     },
     {
-      "title": "\"poline\" is an enigmatic color palette generator using polar coordinates",
-      "score": 107,
+      "title": "Poline – An enigmatic color palette generator using polar coordinates",
+      "score": 152,
       "url": "https://meodai.github.io/poline/",
       "time": 1749944336.0,
       "comments_url": "https://news.ycombinator.com/item?id=44279569"
     },
     {
-      "title": "Writing documentation for AI: best practices",
-      "score": 37,
-      "url": "https://docs.kapa.ai/improving/writing-best-practices",
-      "time": 1750263826.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44311217"
+      "title": "Yes I Will Read Ulysses Yes",
+      "score": 42,
+      "url": "https://www.theatlantic.com/magazine/archive/2025/07/zachary-leader-richard-ellmann-james-joyce-review/682907/",
+      "time": 1750267885.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44311776"
     },
     {
-      "title": "The Invisible Light That's Harming Our Health",
-      "score": 10,
-      "url": "https://caseorganic.medium.com/the-invisible-light-thats-harming-our-health-and-how-we-can-light-things-better-d3916de90521",
-      "time": 1750267920.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44311781"
+      "title": "Terpstra Keyboard",
+      "score": 188,
+      "url": "http://terpstrakeyboard.com/web-app/keys.htm",
+      "time": 1750242704.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44308558"
+    },
+    {
+      "title": "MiniMax-M1 open-weight, large-scale hybrid-attention reasoning model",
+      "score": 298,
+      "url": "https://github.com/MiniMax-AI/MiniMax-M1",
+      "time": 1750229614.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44307290"
+    },
+    {
+      "title": "Introduction to the A* Algorithm (2014)",
+      "score": 201,
+      "url": "https://www.redblobgames.com/pathfinding/a-star/introduction.html",
+      "time": 1750145123.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44296523"
+    },
+    {
+      "title": "Is There a Half-Life for the Success Rates of AI Agents?",
+      "score": 166,
+      "url": "https://www.tobyord.com/writing/half-life",
+      "time": 1750244039.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44308711"
     },
     {
       "title": "Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Engineer",
@@ -65,81 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=44311538"
     },
     {
-      "title": "Andrej Karpathy's YC AI SUS talk on the future of the industry",
-      "score": 8,
-      "url": "https://www.donnamagi.com/articles/karpathy-yc-talk",
-      "time": 1750265778.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44311509"
-    },
-    {
       "title": "Framework Laptop 12 review",
-      "score": 91,
+      "score": 162,
       "url": "https://arstechnica.com/gadgets/2025/06/framework-laptop-12-review-im-excited-to-see-what-the-2nd-generation-looks-like/",
       "time": 1750259374.0,
       "comments_url": "https://news.ycombinator.com/item?id=44310583"
     },
     {
-      "title": "Terpstra Keyboard",
-      "score": 166,
-      "url": "http://terpstrakeyboard.com/web-app/keys.htm",
-      "time": 1750242704.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44308558"
-    },
-    {
-      "title": "Is There a Half-Life for the Success Rates of AI Agents?",
-      "score": 135,
-      "url": "https://www.tobyord.com/writing/half-life",
-      "time": 1750244039.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44308711"
-    },
-    {
-      "title": "Building agents using streaming SQL queries",
-      "score": 59,
-      "url": "https://www.morling.dev/blog/this-ai-agent-should-have-been-sql-query/",
-      "time": 1750261095.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44310834"
-    },
-    {
-      "title": "MiniMax-M1 open-weight, large-scale hybrid-attention reasoning model",
-      "score": 270,
-      "url": "https://github.com/MiniMax-AI/MiniMax-M1",
-      "time": 1750229614.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44307290"
-    },
-    {
-      "title": "Introduction to the A* Algorithm",
-      "score": 157,
-      "url": "https://www.redblobgames.com/pathfinding/a-star/introduction.html",
-      "time": 1750145123.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44296523"
-    },
-    {
-      "title": "Yes I Will Read Ulysses Yes",
-      "score": 14,
-      "url": "https://www.theatlantic.com/magazine/archive/2025/07/zachary-leader-richard-ellmann-james-joyce-review/682907/",
-      "time": 1750267885.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44311776"
-    },
-    {
       "title": "Revisiting Minsky's Society of Mind in 2025",
-      "score": 18,
+      "score": 44,
       "url": "https://suthakamal.substack.com/p/revisiting-minskys-society-of-mind",
       "time": 1750261212.0,
       "comments_url": "https://news.ycombinator.com/item?id=44310851"
     },
     {
-      "title": "Scrappy - make little apps for you and your friends",
-      "score": 364,
+      "title": "Scrappy – Make little apps for you and your friends",
+      "score": 392,
       "url": "https://pontus.granstrom.me/scrappy/",
       "time": 1750223772.0,
       "comments_url": "https://news.ycombinator.com/item?id=44306859"
     },
     {
       "title": "Locally hosting an internet-connected server",
-      "score": 99,
+      "score": 129,
       "url": "https://mjg59.dreamwidth.org/72095.html",
       "time": 1750222733.0,
       "comments_url": "https://news.ycombinator.com/item?id=44306792"
+    },
+    {
+      "title": "I counted all of the yurts in Mongolia using machine learning",
+      "score": 196,
+      "url": "https://monroeclinton.com/counting-all-yurts-in-mongolia/",
+      "time": 1750233498.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44307629"
+    },
+    {
+      "title": "After millions of years, why are carnivorous plants still so small?",
+      "score": 181,
+      "url": "https://www.smithsonianmag.com/articles/carnivorous-plants-have-been-trapping-animals-for-millions-of-years-so-why-have-they-never-grown-larger-180986708/",
+      "time": 1749845043.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44271760"
     }
   ]
 }
