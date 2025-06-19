@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-06-18T20:59:30.454644-04:00",
+  "last_updated": "2025-06-18T23:43:22.902031-04:00",
   "stories": [
     {
-      "title": "Show HN: Unregistry – \"docker push\" directly to servers without a registry",
-      "score": 83,
+      "title": "Andrej Karpathy: Software in the era of AI [video]",
+      "score": 121,
+      "url": "https://www.youtube.com/watch?v=LCEmiRjPEtQ",
+      "time": 1750293201.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44314423"
+    },
+    {
+      "title": "Show HN: Unregistry – “docker push” directly to servers without a registry",
+      "score": 210,
       "url": "https://github.com/psviderski/unregistry",
       "time": 1750288630.0,
       "comments_url": "https://news.ycombinator.com/item?id=44314085"
     },
     {
-      "title": "Fang, the CLI Starter Kit",
-      "score": 45,
-      "url": "https://github.com/charmbracelet/fang",
-      "time": 1750286432.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44313901"
+      "title": "TI to invest $60B to manufacture foundational semiconductors in the U.S.",
+      "score": 32,
+      "url": "https://www.ti.com/about-ti/newsroom/news-releases/2025/texas-instruments-plans-to-invest-more-than--60-billion-to-manufacture-billions-of-foundational-semiconductors-in-the-us.html",
+      "time": 1750297847.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44314759"
     },
     {
-      "title": "Websites Are Tracking You via Browser Fingerprinting",
-      "score": 83,
+      "title": "Websites are tracking you via browser fingerprinting",
+      "score": 145,
       "url": "https://engineering.tamu.edu/news/2025/06/websites-are-tracking-you-via-browser-fingerprinting.html",
       "time": 1750280106.0,
       "comments_url": "https://news.ycombinator.com/item?id=44313206"
     },
     {
-      "title": "Show HN: Workout.cool – Open-source fitness coaching platform",
-      "score": 550,
-      "url": "https://github.com/Snouzy/workout-cool",
-      "time": 1750250029.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44309320"
-    },
-    {
-      "title": "The unreasonable effectiveness of fuzzing for porting programs",
-      "score": 175,
-      "url": "https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing",
-      "time": 1750263995.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44311241"
-    },
-    {
-      "title": "My iPhone 8 Refuses to Die: Now It's a Solar-Powered Vision OCR Server",
-      "score": 201,
-      "url": "https://terminalbytes.com/iphone-8-solar-powered-vision-ocr-server/",
-      "time": 1750261793.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44310944"
-    },
-    {
-      "title": "Bento: A Steam Deck in a Keyboard",
-      "score": 43,
-      "url": "https://github.com/lunchbox-computer/bento",
-      "time": 1750281686.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44313379"
-    },
-    {
-      "title": "Icons of Aviation History: Boeing X-29",
-      "score": 14,
-      "url": "https://lflank.wordpress.com/2025/06/17/icons-of-aviation-history-boeing-x-29/",
-      "time": 1750172582.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44300111"
+      "title": "MCP Specification – version 2025-06-18 changes",
+      "score": 54,
+      "url": "https://modelcontextprotocol.io/specification/2025-06-18/changelog",
+      "time": 1750291187.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44314289"
     },
     {
       "title": "The Missing 11th of the Month",
-      "score": 17,
+      "score": 71,
       "url": "https://drhagen.com/blog/the-missing-11th-of-the-month/",
       "time": 1750283146.0,
       "comments_url": "https://news.ycombinator.com/item?id=44313550"
     },
     {
-      "title": "Writing documentation for AI: best practices",
-      "score": 139,
-      "url": "https://docs.kapa.ai/improving/writing-best-practices",
-      "time": 1750263826.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44311217"
+      "title": "Show HN: Workout.cool – Open-source fitness coaching platform",
+      "score": 579,
+      "url": "https://github.com/Snouzy/workout-cool",
+      "time": 1750250029.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44309320"
+    },
+    {
+      "title": "My iPhone 8 Refuses to Die: Now It's a Solar-Powered Vision OCR Server",
+      "score": 237,
+      "url": "https://terminalbytes.com/iphone-8-solar-powered-vision-ocr-server/",
+      "time": 1750261793.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44310944"
+    },
+    {
+      "title": "The unreasonable effectiveness of fuzzing for porting programs",
+      "score": 187,
+      "url": "https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing",
+      "time": 1750263995.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44311241"
+    },
+    {
+      "title": "Fang, the CLI Starter Kit",
+      "score": 79,
+      "url": "https://github.com/charmbracelet/fang",
+      "time": 1750286432.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44313901"
+    },
+    {
+      "title": "Bento: A Steam Deck in a Keyboard",
+      "score": 84,
+      "url": "https://github.com/lunchbox-computer/bento",
+      "time": 1750281686.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44313379"
+    },
+    {
+      "title": "The Matrix (1999) Filming Locations – Shot-for-Shot – Sydney, Australia [video]",
+      "score": 75,
+      "url": "https://www.youtube.com/watch?v=UVf7rMqnwI0",
+      "time": 1750067310.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44287964"
+    },
+    {
+      "title": "Dr. Demento Announces Retirement After 55-Year Radio Career",
+      "score": 8,
+      "url": "https://sopghreporter.com/2025/06/01/dr-demento-announces-retirement/",
+      "time": 1750303659.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44315185"
     },
     {
       "title": "Poline – An enigmatic color palette generator using polar coordinates",
-      "score": 197,
+      "score": 215,
       "url": "https://meodai.github.io/poline/",
       "time": 1749944336.0,
       "comments_url": "https://news.ycombinator.com/item?id=44279569"
     },
     {
+      "title": "New US visa rules will force foreign students to unlock social media profiles",
+      "score": 138,
+      "url": "https://www.theguardian.com/us-news/2025/jun/18/social-media-student-visa-screening",
+      "time": 1750288263.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44314054"
+    },
+    {
+      "title": "Writing documentation for AI: best practices",
+      "score": 151,
+      "url": "https://docs.kapa.ai/improving/writing-best-practices",
+      "time": 1750263826.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44311217"
+    },
+    {
       "title": "Homomorphically Encrypting CRDTs",
-      "score": 189,
+      "score": 198,
       "url": "https://jakelazaroff.com/words/homomorphically-encrypted-crdts/",
       "time": 1750251598.0,
       "comments_url": "https://news.ycombinator.com/item?id=44309520"
     },
     {
-      "title": "DropZap World – my falling block game with lasers, released after years of work",
-      "score": 16,
-      "url": "https://apps.apple.com/us/app/dropzap-world/id1072858930",
-      "time": 1750072204.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44288450"
-    },
-    {
-      "title": "Introduction to the A* Algorithm (2014)",
-      "score": 241,
-      "url": "https://www.redblobgames.com/pathfinding/a-star/introduction.html",
-      "time": 1750145123.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44296523"
-    },
-    {
-      "title": "Terpstra Keyboard",
-      "score": 213,
-      "url": "http://terpstrakeyboard.com/web-app/keys.htm",
-      "time": 1750242704.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44308558"
-    },
-    {
-      "title": "Show HN: I built a tensor library from scratch in C++/CUDA",
-      "score": 88,
-      "url": "https://github.com/nirw4nna/dsc",
-      "time": 1750260005.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44310678"
+      "title": "Citizen science illuminates the nature of city lights",
+      "score": 6,
+      "url": "https://www.nature.com/articles/s44284-025-00239-5",
+      "time": 1750069522.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44288154"
     },
     {
       "title": "Is there a half-life for the success rates of AI agents?",
-      "score": 201,
+      "score": 217,
       "url": "https://www.tobyord.com/writing/half-life",
       "time": 1750244039.0,
       "comments_url": "https://news.ycombinator.com/item?id=44308711"
     },
     {
-      "title": "USDA Pomological Watercolors",
-      "score": 23,
-      "url": "https://search.nal.usda.gov/discovery/collectionDiscovery?vid=01NAL_INST:MAIN&collectionId=81279629860007426",
-      "time": 1750054222.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44287019"
-    },
-    {
-      "title": "Yes I Will Read Ulysses Yes",
-      "score": 62,
-      "url": "https://www.theatlantic.com/magazine/archive/2025/07/zachary-leader-richard-ellmann-james-joyce-review/682907/",
-      "time": 1750267885.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44311776"
-    },
-    {
-      "title": "Game Hacking – Valve Anti-Cheat (VAC)",
-      "score": 91,
-      "url": "https://codeneverdies.github.io/posts/gh-2/",
-      "time": 1750267171.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44311682"
+      "title": "Terpstra Keyboard",
+      "score": 217,
+      "url": "http://terpstrakeyboard.com/web-app/keys.htm",
+      "time": 1750242704.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44308558"
     }
   ]
 }
