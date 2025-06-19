@@ -1,61 +1,96 @@
 {
-  "last_updated": "2025-06-19T14:16:03.483387-04:00",
+  "last_updated": "2025-06-19T17:10:53.245352-04:00",
   "stories": [
     {
-      "title": "In Praise of \"Normal\" Engineers",
-      "score": 16,
-      "url": "https://charity.wtf/2025/06/19/in-praise-of-normal-engineers/",
-      "time": 1750354601.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44320806"
+      "title": "Compiling LLMs into a MegaKernel: A path to low-latency inference",
+      "score": 47,
+      "url": "https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17",
+      "time": 1750360854.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44321672"
     },
     {
-      "title": "Curved-Crease Origami Sculptures",
-      "score": 98,
+      "title": "Curved-Crease Sculpture",
+      "score": 128,
       "url": "https://erikdemaine.org/curved/",
       "time": 1750342395.0,
       "comments_url": "https://news.ycombinator.com/item?id=44318874"
     },
     {
-      "title": "Andrej Karpathy: Software in the era of AI [video]",
-      "score": 903,
-      "url": "https://www.youtube.com/watch?v=LCEmiRjPEtQ",
-      "time": 1750293201.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44314423"
+      "title": "Homegrown Closures for Uxn",
+      "score": 36,
+      "url": "https://krzysckh.org/b/Homegrown-closures-for-uxn.html",
+      "time": 1750354175.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44320747"
     },
     {
-      "title": "Show HN: A DOS-like hobby OS written in Rust and x86 assembly",
-      "score": 78,
-      "url": "https://github.com/krustowski/rou2exOS",
-      "time": 1750340337.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44318588"
-    },
-    {
-      "title": "Posit floating point numbers: thin triangles and other tricks (2019)",
-      "score": 30,
-      "url": "http://marc-b-reynolds.github.io/math/2019/02/06/Posit1.html",
-      "time": 1750344123.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44319144"
-    },
-    {
-      "title": "How OpenElections Uses LLMs",
-      "score": 14,
+      "title": "How OpenElections uses LLMs",
+      "score": 60,
       "url": "https://thescoop.org/archives/2025/06/09/how-openelections-uses-llms/index.html",
       "time": 1750349506.0,
       "comments_url": "https://news.ycombinator.com/item?id=44320001"
     },
     {
-      "title": "Show HN: Claude Code Usage Monitor – real-time tracker to dodge usage cut-offs",
-      "score": 140,
-      "url": "https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor",
-      "time": 1750326403.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44317012"
+      "title": "Show HN: A DOS-like hobby OS written in Rust and x86 assembly",
+      "score": 116,
+      "url": "https://github.com/krustowski/rou2exOS",
+      "time": 1750340337.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44318588"
+    },
+    {
+      "title": "Show HN: EnrichMCP – A Python ORM for Agents",
+      "score": 51,
+      "url": "https://github.com/featureform/enrichmcp",
+      "time": 1750354341.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44320772"
+    },
+    {
+      "title": "Star Quakes and Monster Shock Waves",
+      "score": 21,
+      "url": "https://www.caltech.edu/about/news/star-quakes-and-monster-shock-waves",
+      "time": 1750182400.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44301765"
+    },
+    {
+      "title": "Andrej Karpathy: Software in the era of AI [video]",
+      "score": 1012,
+      "url": "https://www.youtube.com/watch?v=LCEmiRjPEtQ",
+      "time": 1750293201.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44314423"
+    },
+    {
+      "title": "Estrogen: A Trip Report",
+      "score": 37,
+      "url": "https://smoothbrains.net/posts/2025-06-15-estrogen.html",
+      "time": 1750364115.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44322153"
     },
     {
       "title": "We Can Just Measure Things",
-      "score": 19,
+      "score": 47,
       "url": "https://lucumr.pocoo.org/2025/6/17/measuring/",
       "time": 1750158925.0,
       "comments_url": "https://news.ycombinator.com/item?id=44297761"
+    },
+    {
+      "title": "Testing a Robust Netcode with Godot",
+      "score": 14,
+      "url": "https://studios.ptilouk.net/little-brats/blog/2024-10-23_netcode.html",
+      "time": 1750157829.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44297656"
+    },
+    {
+      "title": "Guess I'm a Rationalist Now",
+      "score": 172,
+      "url": "https://scottaaronson.blog/?p=8908",
+      "time": 1750328526.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44317180"
+    },
+    {
+      "title": "Show HN: Claude Code Usage Monitor – real-time tracker to dodge usage cut-offs",
+      "score": 167,
+      "url": "https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor",
+      "time": 1750326403.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44317012"
     },
     {
       "title": "Flowspace (YC S17) Is Hiring Software Engineers",
@@ -65,81 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=44320460"
     },
     {
-      "title": "Guess I'm a Rationalist Now",
-      "score": 131,
-      "url": "https://scottaaronson.blog/?p=8908",
-      "time": 1750328526.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44317180"
-    },
-    {
-      "title": "Geochronology supports LGM age for human tracks at White Sands, New Mexico",
-      "score": 14,
-      "url": "https://www.science.org/doi/10.1126/sciadv.adv4951",
-      "time": 1750346864.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44319585"
-    },
-    {
-      "title": "Public/protected/private is an unnecessary feature",
-      "score": 7,
-      "url": "https://catern.com/private.html",
-      "time": 1750182964.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44301875"
-    },
-    {
-      "title": "From LLM to AI Agent: What's the Real Journey Behind AI System Development?",
-      "score": 91,
-      "url": "https://www.codelink.io/blog/post/ai-system-development-llm-rag-ai-workflow-agent",
-      "time": 1750325368.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44316909"
-    },
-    {
-      "title": "Show HN: Unregistry – “docker push” directly to servers without a registry",
-      "score": 559,
-      "url": "https://github.com/psviderski/unregistry",
-      "time": 1750288630.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44314085"
-    },
-    {
-      "title": "Why do we need DNSSEC?",
-      "score": 8,
-      "url": "https://howdnssec.works/why-do-we-need-dnssec/",
-      "time": 1750352613.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44320497"
-    },
-    {
-      "title": "Researchers are now vacuuming DNA from the air",
-      "score": 34,
-      "url": "https://www.sciencedaily.com/releases/2025/06/250603114822.htm",
-      "time": 1750066680.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44287926"
-    },
-    {
       "title": "What would a Kubernetes 2.0 look like",
-      "score": 51,
+      "score": 92,
       "url": "https://matduggan.com/what-would-a-kubernetes-2-0-look-like/",
       "time": 1750334454.0,
       "comments_url": "https://news.ycombinator.com/item?id=44317825"
     },
     {
+      "title": "Extracting memorized pieces of books from open-weight language models",
+      "score": 16,
+      "url": "https://arxiv.org/abs/2505.12546",
+      "time": 1750095687.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44291642"
+    },
+    {
+      "title": "Posit floating point numbers: thin triangles and other tricks (2019)",
+      "score": 39,
+      "url": "http://marc-b-reynolds.github.io/math/2019/02/06/Posit1.html",
+      "time": 1750344123.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44319144"
+    },
+    {
+      "title": "DNA floating in the air tracks wildlife, viruses, even drugs",
+      "score": 46,
+      "url": "https://www.sciencedaily.com/releases/2025/06/250603114822.htm",
+      "time": 1750066680.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44287926"
+    },
+    {
+      "title": "Show HN: Unregistry – “docker push” directly to servers without a registry",
+      "score": 594,
+      "url": "https://github.com/psviderski/unregistry",
+      "time": 1750288630.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44314085"
+    },
+    {
       "title": "Juneteenth in Photos",
-      "score": 13,
+      "score": 127,
       "url": "https://texashighways.com/travel-news/the-history-of-juneteenth-in-photos/",
       "time": 1750354919.0,
       "comments_url": "https://news.ycombinator.com/item?id=44320851"
-    },
-    {
-      "title": "Finding Dead Websites",
-      "score": 78,
-      "url": "https://www.marginalia.nu/log/a_122_dead_websites/",
-      "time": 1750161781.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44298087"
-    },
-    {
-      "title": "Munich from a Hamburger's perspective",
-      "score": 75,
-      "url": "https://mertbulan.com/2025/06/14/munich-from-a-hamburgers-perspective/",
-      "time": 1750020925.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44284908"
     }
   ]
 }
