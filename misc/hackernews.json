@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-06-19T20:59:07.302388-04:00",
+  "last_updated": "2025-06-19T23:42:30.344598-04:00",
   "stories": [
     {
+      "title": "Open source can't coordinate",
+      "score": 47,
+      "url": "https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html",
+      "time": 1750381572.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44323904"
+    },
+    {
       "title": "Show HN: I wrote a new BitTorrent tracker in Elixir",
-      "score": 54,
+      "score": 151,
       "url": "https://github.com/Dahrkael/ExTracker",
       "time": 1750373389.0,
       "comments_url": "https://news.ycombinator.com/item?id=44323253"
     },
     {
+      "title": "FedFlix — Public Domain Stock Footage Library",
+      "score": 27,
+      "url": "https://public.resource.org/ntis.gov/index.html",
+      "time": 1750381663.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44323914"
+    },
+    {
+      "title": "Infinite Mac OS X",
+      "score": 74,
+      "url": "https://blog.persistent.info/2025/03/infinite-mac-os-x.html",
+      "time": 1750378617.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44323719"
+    },
+    {
       "title": "Compiling LLMs into a MegaKernel: A path to low-latency inference",
-      "score": 147,
+      "score": 173,
       "url": "https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17",
       "time": 1750360854.0,
       "comments_url": "https://news.ycombinator.com/item?id=44321672"
     },
     {
       "title": "Literate programming tool for any language",
-      "score": 33,
+      "score": 59,
       "url": "https://github.com/zyedidia/Literate",
       "time": 1750371525.0,
       "comments_url": "https://news.ycombinator.com/item?id=44323045"
     },
     {
-      "title": "Curved-Crease Sculpture",
-      "score": 153,
-      "url": "https://erikdemaine.org/curved/",
-      "time": 1750342395.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44318874"
+      "title": "Giant, All-Seeing Telescope Is Set to Revolutionize Astronomy",
+      "score": 26,
+      "url": "https://www.science.org/content/article/giant-all-seeing-telescope-set-revolutionize-astronomy",
+      "time": 1750375059.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44323389"
+    },
+    {
+      "title": "Octobass",
+      "score": 26,
+      "url": "https://www.atlasobscura.com/places/octobass",
+      "time": 1750073625.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44288595"
+    },
+    {
+      "title": "Sunsonic 986-II – A Thai Famicom clone with keyboard and mini CRT built-in",
+      "score": 20,
+      "url": "https://mastodon.gamedev.place/@pikuma/114711138512697712",
+      "time": 1750375300.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44323411"
     },
     {
       "title": "Andrej Karpathy: Software in the era of AI [video]",
-      "score": 1099,
+      "score": 1145,
       "url": "https://www.youtube.com/watch?v=LCEmiRjPEtQ",
       "time": 1750293201.0,
       "comments_url": "https://news.ycombinator.com/item?id=44314423"
     },
     {
-      "title": "Homegrown Closures for Uxn",
-      "score": 68,
-      "url": "https://krzysckh.org/b/Homegrown-closures-for-uxn.html",
-      "time": 1750354175.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44320747"
+      "title": "Curved-Crease Sculpture",
+      "score": 162,
+      "url": "https://erikdemaine.org/curved/",
+      "time": 1750342395.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44318874"
+    },
+    {
+      "title": "Show HN: ATAC, an event verification platform evidence based",
+      "score": 5,
+      "url": "https://atac.seraum.com",
+      "time": 1750382836.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44323982"
     },
     {
       "title": "Show HN: A DOS-like hobby OS written in Rust and x86 assembly",
-      "score": 143,
+      "score": 153,
       "url": "https://github.com/krustowski/rou2exOS",
       "time": 1750340337.0,
       "comments_url": "https://news.ycombinator.com/item?id=44318588"
     },
     {
-      "title": "Show HN: EnrichMCP – A Python ORM for Agents",
-      "score": 81,
-      "url": "https://github.com/featureform/enrichmcp",
-      "time": 1750354341.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44320772"
-    },
-    {
-      "title": "How OpenElections uses LLMs",
-      "score": 82,
-      "url": "https://thescoop.org/archives/2025/06/09/how-openelections-uses-llms/index.html",
-      "time": 1750349506.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44320001"
-    },
-    {
-      "title": "Show HN: RM2000 Tape Recorder, an audio sampler for macOS",
-      "score": 28,
-      "url": "https://rm2000.app",
-      "time": 1750177259.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44300854"
-    },
-    {
-      "title": "String Interpolation in C++ Using Glaze Stencil/Mustache",
-      "score": 15,
-      "url": "https://stephenberry.github.io/glaze/stencil-mustache/",
-      "time": 1750100714.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44292460"
-    },
-    {
-      "title": "Guess I'm a Rationalist Now",
-      "score": 218,
-      "url": "https://scottaaronson.blog/?p=8908",
-      "time": 1750328526.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44317180"
-    },
-    {
       "title": "Extracting memorized pieces of books from open-weight language models",
-      "score": 44,
+      "score": 57,
       "url": "https://arxiv.org/abs/2505.12546",
       "time": 1750095687.0,
       "comments_url": "https://news.ycombinator.com/item?id=44291642"
     },
     {
-      "title": "Show HN: Unregistry – “docker push” directly to servers without a registry",
-      "score": 626,
-      "url": "https://github.com/psviderski/unregistry",
-      "time": 1750288630.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44314085"
+      "title": "Show HN: EnrichMCP – A Python ORM for Agents",
+      "score": 90,
+      "url": "https://github.com/featureform/enrichmcp",
+      "time": 1750354341.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44320772"
+    },
+    {
+      "title": "Guess I'm a Rationalist Now",
+      "score": 230,
+      "url": "https://scottaaronson.blog/?p=8908",
+      "time": 1750328526.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44317180"
+    },
+    {
+      "title": "How OpenElections uses LLMs",
+      "score": 89,
+      "url": "https://thescoop.org/archives/2025/06/09/how-openelections-uses-llms/index.html",
+      "time": 1750349506.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44320001"
+    },
+    {
+      "title": "Homegrown Closures for Uxn",
+      "score": 79,
+      "url": "https://krzysckh.org/b/Homegrown-closures-for-uxn.html",
+      "time": 1750354175.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44320747"
     },
     {
       "title": "DNA floating in the air tracks wildlife, viruses, even drugs",
-      "score": 68,
+      "score": 78,
       "url": "https://www.sciencedaily.com/releases/2025/06/250603114822.htm",
       "time": 1750066680.0,
       "comments_url": "https://news.ycombinator.com/item?id=44287926"
     },
     {
-      "title": "Show HN: Claude Code Usage Monitor – real-time tracker to dodge usage cut-offs",
-      "score": 191,
-      "url": "https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor",
-      "time": 1750326403.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44317012"
-    },
-    {
-      "title": "We Can Just Measure Things",
-      "score": 61,
-      "url": "https://lucumr.pocoo.org/2025/6/17/measuring/",
-      "time": 1750158925.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44297761"
-    },
-    {
-      "title": "Star Quakes and Monster Shock Waves",
-      "score": 33,
-      "url": "https://www.caltech.edu/about/news/star-quakes-and-monster-shock-waves",
-      "time": 1750182400.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44301765"
-    },
-    {
-      "title": "Public/protected/private is an unnecessary feature",
-      "score": 49,
-      "url": "https://catern.com/private.html",
-      "time": 1750182964.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44301875"
-    },
-    {
-      "title": "Flowspace (YC S17) Is Hiring Software Engineers",
-      "score": 1,
-      "url": "https://flowspace.applytojob.com/apply/6oDtY2q6E9/Software-Engineer-II",
-      "time": 1750352439.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44320460"
+      "title": "What would a Kubernetes 2.0 look like",
+      "score": 157,
+      "url": "https://matduggan.com/what-would-a-kubernetes-2-0-look-like/",
+      "time": 1750334454.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44317825"
     }
   ]
 }
