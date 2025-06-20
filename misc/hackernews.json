@@ -1,96 +1,138 @@
 {
-  "last_updated": "2025-06-19T17:10:53.245352-04:00",
+  "last_updated": "2025-06-19T20:59:07.302388-04:00",
   "stories": [
     {
+      "title": "Show HN: I wrote a new BitTorrent tracker in Elixir",
+      "score": 54,
+      "url": "https://github.com/Dahrkael/ExTracker",
+      "time": 1750373389.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44323253"
+    },
+    {
       "title": "Compiling LLMs into a MegaKernel: A path to low-latency inference",
-      "score": 47,
+      "score": 147,
       "url": "https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17",
       "time": 1750360854.0,
       "comments_url": "https://news.ycombinator.com/item?id=44321672"
     },
     {
+      "title": "Literate programming tool for any language",
+      "score": 33,
+      "url": "https://github.com/zyedidia/Literate",
+      "time": 1750371525.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44323045"
+    },
+    {
       "title": "Curved-Crease Sculpture",
-      "score": 128,
+      "score": 153,
       "url": "https://erikdemaine.org/curved/",
       "time": 1750342395.0,
       "comments_url": "https://news.ycombinator.com/item?id=44318874"
     },
     {
+      "title": "Andrej Karpathy: Software in the era of AI [video]",
+      "score": 1099,
+      "url": "https://www.youtube.com/watch?v=LCEmiRjPEtQ",
+      "time": 1750293201.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44314423"
+    },
+    {
       "title": "Homegrown Closures for Uxn",
-      "score": 36,
+      "score": 68,
       "url": "https://krzysckh.org/b/Homegrown-closures-for-uxn.html",
       "time": 1750354175.0,
       "comments_url": "https://news.ycombinator.com/item?id=44320747"
     },
     {
-      "title": "How OpenElections uses LLMs",
-      "score": 60,
-      "url": "https://thescoop.org/archives/2025/06/09/how-openelections-uses-llms/index.html",
-      "time": 1750349506.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44320001"
-    },
-    {
       "title": "Show HN: A DOS-like hobby OS written in Rust and x86 assembly",
-      "score": 116,
+      "score": 143,
       "url": "https://github.com/krustowski/rou2exOS",
       "time": 1750340337.0,
       "comments_url": "https://news.ycombinator.com/item?id=44318588"
     },
     {
       "title": "Show HN: EnrichMCP – A Python ORM for Agents",
-      "score": 51,
+      "score": 81,
       "url": "https://github.com/featureform/enrichmcp",
       "time": 1750354341.0,
       "comments_url": "https://news.ycombinator.com/item?id=44320772"
     },
     {
-      "title": "Star Quakes and Monster Shock Waves",
-      "score": 21,
-      "url": "https://www.caltech.edu/about/news/star-quakes-and-monster-shock-waves",
-      "time": 1750182400.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44301765"
+      "title": "How OpenElections uses LLMs",
+      "score": 82,
+      "url": "https://thescoop.org/archives/2025/06/09/how-openelections-uses-llms/index.html",
+      "time": 1750349506.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44320001"
     },
     {
-      "title": "Andrej Karpathy: Software in the era of AI [video]",
-      "score": 1012,
-      "url": "https://www.youtube.com/watch?v=LCEmiRjPEtQ",
-      "time": 1750293201.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44314423"
+      "title": "Show HN: RM2000 Tape Recorder, an audio sampler for macOS",
+      "score": 28,
+      "url": "https://rm2000.app",
+      "time": 1750177259.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44300854"
     },
     {
-      "title": "Estrogen: A Trip Report",
-      "score": 37,
-      "url": "https://smoothbrains.net/posts/2025-06-15-estrogen.html",
-      "time": 1750364115.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44322153"
-    },
-    {
-      "title": "We Can Just Measure Things",
-      "score": 47,
-      "url": "https://lucumr.pocoo.org/2025/6/17/measuring/",
-      "time": 1750158925.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44297761"
-    },
-    {
-      "title": "Testing a Robust Netcode with Godot",
-      "score": 14,
-      "url": "https://studios.ptilouk.net/little-brats/blog/2024-10-23_netcode.html",
-      "time": 1750157829.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44297656"
+      "title": "String Interpolation in C++ Using Glaze Stencil/Mustache",
+      "score": 15,
+      "url": "https://stephenberry.github.io/glaze/stencil-mustache/",
+      "time": 1750100714.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44292460"
     },
     {
       "title": "Guess I'm a Rationalist Now",
-      "score": 172,
+      "score": 218,
       "url": "https://scottaaronson.blog/?p=8908",
       "time": 1750328526.0,
       "comments_url": "https://news.ycombinator.com/item?id=44317180"
     },
     {
+      "title": "Extracting memorized pieces of books from open-weight language models",
+      "score": 44,
+      "url": "https://arxiv.org/abs/2505.12546",
+      "time": 1750095687.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44291642"
+    },
+    {
+      "title": "Show HN: Unregistry – “docker push” directly to servers without a registry",
+      "score": 626,
+      "url": "https://github.com/psviderski/unregistry",
+      "time": 1750288630.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44314085"
+    },
+    {
+      "title": "DNA floating in the air tracks wildlife, viruses, even drugs",
+      "score": 68,
+      "url": "https://www.sciencedaily.com/releases/2025/06/250603114822.htm",
+      "time": 1750066680.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44287926"
+    },
+    {
       "title": "Show HN: Claude Code Usage Monitor – real-time tracker to dodge usage cut-offs",
-      "score": 167,
+      "score": 191,
       "url": "https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor",
       "time": 1750326403.0,
       "comments_url": "https://news.ycombinator.com/item?id=44317012"
+    },
+    {
+      "title": "We Can Just Measure Things",
+      "score": 61,
+      "url": "https://lucumr.pocoo.org/2025/6/17/measuring/",
+      "time": 1750158925.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44297761"
+    },
+    {
+      "title": "Star Quakes and Monster Shock Waves",
+      "score": 33,
+      "url": "https://www.caltech.edu/about/news/star-quakes-and-monster-shock-waves",
+      "time": 1750182400.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44301765"
+    },
+    {
+      "title": "Public/protected/private is an unnecessary feature",
+      "score": 49,
+      "url": "https://catern.com/private.html",
+      "time": 1750182964.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44301875"
     },
     {
       "title": "Flowspace (YC S17) Is Hiring Software Engineers",
@@ -98,48 +140,6 @@
       "url": "https://flowspace.applytojob.com/apply/6oDtY2q6E9/Software-Engineer-II",
       "time": 1750352439.0,
       "comments_url": "https://news.ycombinator.com/item?id=44320460"
-    },
-    {
-      "title": "What would a Kubernetes 2.0 look like",
-      "score": 92,
-      "url": "https://matduggan.com/what-would-a-kubernetes-2-0-look-like/",
-      "time": 1750334454.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44317825"
-    },
-    {
-      "title": "Extracting memorized pieces of books from open-weight language models",
-      "score": 16,
-      "url": "https://arxiv.org/abs/2505.12546",
-      "time": 1750095687.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44291642"
-    },
-    {
-      "title": "Posit floating point numbers: thin triangles and other tricks (2019)",
-      "score": 39,
-      "url": "http://marc-b-reynolds.github.io/math/2019/02/06/Posit1.html",
-      "time": 1750344123.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44319144"
-    },
-    {
-      "title": "DNA floating in the air tracks wildlife, viruses, even drugs",
-      "score": 46,
-      "url": "https://www.sciencedaily.com/releases/2025/06/250603114822.htm",
-      "time": 1750066680.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44287926"
-    },
-    {
-      "title": "Show HN: Unregistry – “docker push” directly to servers without a registry",
-      "score": 594,
-      "url": "https://github.com/psviderski/unregistry",
-      "time": 1750288630.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44314085"
-    },
-    {
-      "title": "Juneteenth in Photos",
-      "score": 127,
-      "url": "https://texashighways.com/travel-news/the-history-of-juneteenth-in-photos/",
-      "time": 1750354919.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44320851"
     }
   ]
 }
