@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-06-21T08:20:31.808279-04:00",
+  "last_updated": "2025-06-21T11:10:46.943646-04:00",
   "stories": [
     {
-      "title": "Scaling our observability platform by embracing wide events and replacing OTel",
-      "score": 55,
-      "url": "https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel",
-      "time": 1750497801.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44336015"
-    },
-    {
       "title": "Cosmoe: BeOS Class Library on Top of Wayland",
-      "score": 41,
+      "score": 115,
       "url": "https://cosmoe.org/index.html",
       "time": 1750496401.0,
       "comments_url": "https://news.ycombinator.com/item?id=44335907"
     },
     {
+      "title": "Scaling our observability platform by embracing wide events and replacing OTel",
+      "score": 98,
+      "url": "https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel",
+      "time": 1750497801.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44336015"
+    },
+    {
+      "title": "Behind the scenes: Redpanda Cloud's response to the GCP outage",
+      "score": 3,
+      "url": "https://www.redpanda.com/blog/gcp-outage-june-redpanda-cloud",
+      "time": 1750517827.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44338089"
+    },
+    {
+      "title": "Using Microsoft's New CLI Text Editor on Ubuntu",
+      "score": 98,
+      "url": "https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu",
+      "time": 1750224336.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44306892"
+    },
+    {
       "title": "Samsung embeds IronSource spyware app on phones across WANA",
-      "score": 442,
+      "score": 516,
       "url": "https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region/",
       "time": 1750475202.0,
       "comments_url": "https://news.ycombinator.com/item?id=44334167"
     },
     {
-      "title": "Unexpected security footguns in Go's parsers",
-      "score": 72,
-      "url": "https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/",
-      "time": 1750246512.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44308953"
-    },
-    {
-      "title": "AbsenceBench: Language models can't tell what's missing",
-      "score": 250,
-      "url": "https://arxiv.org/abs/2506.11440",
-      "time": 1750458412.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44332699"
-    },
-    {
-      "title": "Phoenix.new – Remote AI Runtime for Phoenix",
-      "score": 480,
-      "url": "https://fly.io/blog/phoenix-new-the-remote-ai-runtime/",
-      "time": 1750431424.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44328326"
-    },
-    {
-      "title": "Life as Slime",
-      "score": 7,
-      "url": "https://www.asimov.press/p/slime",
-      "time": 1750165416.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44298666"
-    },
-    {
       "title": "Delta Chat is a decentralized and secure messenger app",
-      "score": 46,
+      "score": 112,
       "url": "https://delta.chat/en/",
       "time": 1750487340.0,
       "comments_url": "https://news.ycombinator.com/item?id=44335065"
     },
     {
-      "title": "Harper – an open-source alternative to Grammarly",
-      "score": 373,
-      "url": "https://writewithharper.com",
-      "time": 1750449105.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44331362"
-    },
-    {
-      "title": "YouTube's new anti-adblock measures",
-      "score": 580,
-      "url": "https://iter.ca/post/yt-adblock/",
-      "time": 1750438895.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44329712"
-    },
-    {
-      "title": "Show HN: A color name API that maps hex to the closest human-readable name",
-      "score": 46,
-      "url": "https://meodai.github.io/color-name-api/",
-      "time": 1750329601.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44317291"
-    },
-    {
-      "title": "Mathematicians hunting prime numbers discover infinite new pattern",
-      "score": 75,
-      "url": "https://www.scientificamerican.com/article/mathematicians-hunting-prime-numbers-discover-infinite-new-pattern-for/",
-      "time": 1750303709.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44315188"
-    },
-    {
-      "title": "Learn You Galois Fields for Great Good (00)",
-      "score": 81,
-      "url": "https://xorvoid.com/galois_fields_for_great_good_00.html",
-      "time": 1750465285.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44333388"
-    },
-    {
-      "title": "Show HN: We moved from AWS to Hetzner, saved 90%, kept ISO 27001 with Ansible",
-      "score": 99,
-      "url": "https://medium.com/@accounts_73078/goodbye-aws-how-we-kept-iso-27001-slashed-costs-by-90-914ccb4b89fc",
-      "time": 1750496549.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44335920"
-    },
-    {
-      "title": "Augmented Vertex Block Descent (AVBD)",
-      "score": 34,
-      "url": "https://graphics.cs.utah.edu/research/projects/avbd/",
-      "time": 1750478696.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44334403"
-    },
-    {
-      "title": "Chromium Switching from Ninja to Siso",
-      "score": 75,
-      "url": "https://groups.google.com/a/chromium.org/g/chromium-dev/c/v-WOvWUtOpg",
-      "time": 1750236582.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44307972"
-    },
-    {
       "title": "A new blood type discovered in France: \"Gwada negative\", a global exception",
-      "score": 20,
+      "score": 64,
       "url": "https://entrevue.fr/en/un-groupe-sanguin-inedit-decouvert-en-france-gwada-negatif-une-exception-mondiale/",
       "time": 1750491522.0,
       "comments_url": "https://news.ycombinator.com/item?id=44335517"
     },
     {
-      "title": "Tiny Undervalued Hardware Companions (2024)",
-      "score": 81,
-      "url": "https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/",
-      "time": 1750472387.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44333960"
+      "title": "Fundamental Problems of Lisp, the Cons Cell (2024)",
+      "score": 23,
+      "url": "http://xahlee.info/comp/lisp_cons_problem.html",
+      "time": 1750262206.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44310996"
     },
     {
-      "title": "Visualizing environmental costs of war in Hayao Miyazaki's Nausicaä",
-      "score": 223,
-      "url": "https://jgeekstudies.org/2025/06/20/wilted-lands-and-wounded-worlds-visualizing-environmental-costs-of-war-in-hayao-miyazakis-nausicaa-of-the-valley-of-the-wind/",
-      "time": 1750433009.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44328598"
+      "title": "Show HN: EchoStream – A Local AI Agent That Lives on Your iPhone",
+      "score": 8,
+      "url": "https://news.ycombinator.com/item?id=44318655",
+      "time": 1750340837.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44318655"
+    },
+    {
+      "title": "Life as Slime",
+      "score": 24,
+      "url": "https://www.asimov.press/p/slime",
+      "time": 1750165416.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44298666"
+    },
+    {
+      "title": "Phoenix.new – Remote AI Runtime for Phoenix",
+      "score": 495,
+      "url": "https://fly.io/blog/phoenix-new-the-remote-ai-runtime/",
+      "time": 1750431424.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44328326"
+    },
+    {
+      "title": "AbsenceBench: Language models can't tell what's missing",
+      "score": 270,
+      "url": "https://arxiv.org/abs/2506.11440",
+      "time": 1750458412.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44332699"
+    },
+    {
+      "title": "Harper – an open-source alternative to Grammarly",
+      "score": 432,
+      "url": "https://writewithharper.com",
+      "time": 1750449105.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44331362"
+    },
+    {
+      "title": "Unexpected security footguns in Go's parsers",
+      "score": 118,
+      "url": "https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/",
+      "time": 1750246512.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44308953"
+    },
+    {
+      "title": "YouTube's new anti-adblock measures",
+      "score": 654,
+      "url": "https://iter.ca/post/yt-adblock/",
+      "time": 1750438895.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44329712"
     },
     {
       "title": "Captain Cook's missing ship found after sinking 250 years ago",
-      "score": 7,
+      "score": 88,
       "url": "https://www.independent.co.uk/news/science/captain-cook-missing-ship-found-hms-endeavour-b2771322.html",
       "time": 1750193195.0,
       "comments_url": "https://news.ycombinator.com/item?id=44303767"
+    },
+    {
+      "title": "Record DDoS pummels site with once-unimaginable 7.3Tbps of junk traffic",
+      "score": 36,
+      "url": "https://arstechnica.com/security/2025/06/record-ddos-pummels-site-with-once-unimaginable-7-3tbps-of-junk-traffic/",
+      "time": 1750510617.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44337225"
+    },
+    {
+      "title": "Plastic bag bans and fees reduce harmful bag litter on shorelines",
+      "score": 132,
+      "url": "https://www.science.org/doi/10.1126/science.adp9274",
+      "time": 1750463210.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44333187"
+    },
+    {
+      "title": "Sega mistakenly reveals sales numbers of popular games",
+      "score": 165,
+      "url": "https://www.gematsu.com/2025/06/sega-mistakenly-reveals-sales-numbers-for-like-a-dragon-infinite-wealth-persona-3-reload-shin-megami-tensei-v-and-more",
+      "time": 1750486981.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44335038"
+    },
+    {
+      "title": "Show HN: A color name API that maps hex to the closest human-readable name",
+      "score": 64,
+      "url": "https://meodai.github.io/color-name-api/",
+      "time": 1750329601.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44317291"
     }
   ]
 }
