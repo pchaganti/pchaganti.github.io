@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-06-22T02:16:35.334599-04:00",
+  "last_updated": "2025-06-22T05:11:39.840682-04:00",
   "stories": [
     {
       "title": "TPU (Tensor Processing Unit) Deep Dive",
-      "score": 80,
+      "score": 160,
       "url": "https://henryhmko.github.io/posts/tpu/tpu.html",
       "time": 1750560663.0,
       "comments_url": "https://news.ycombinator.com/item?id=44342977"
     },
     {
       "title": "Sound As Pure Form: Music Language Inspired by Supercollider, APL, and Forth",
-      "score": 48,
+      "score": 83,
       "url": "https://github.com/lfnoise/sapf",
       "time": 1750558671.0,
       "comments_url": "https://news.ycombinator.com/item?id=44342731"
     },
     {
+      "title": "A web extension to redirects YouTube, X, etc. to privacy-friendly front ends",
+      "score": 21,
+      "url": "https://libredirect.github.io",
+      "time": 1750572468.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44344246"
+    },
+    {
       "title": "P-Hacking in Startups",
-      "score": 119,
+      "score": 156,
       "url": "https://briefer.cloud/blog/posts/p-hacking/",
       "time": 1750240588.0,
       "comments_url": "https://news.ycombinator.com/item?id=44308328"
     },
     {
       "title": "LaborBerlin: State-of-the-Art 16mm Projector",
-      "score": 157,
+      "score": 175,
       "url": "https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start",
       "time": 1750536510.0,
       "comments_url": "https://news.ycombinator.com/item?id=44340386"
     },
     {
-      "title": "The bad boy of bar charts: William Playfair (2023)",
-      "score": 43,
-      "url": "https://blog.engora.com/2023/05/the-bad-boy-of-bar-charts-william.html",
-      "time": 1750253371.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44309734"
-    },
-    {
-      "title": "Denmark's Archaeology Experiment Is Paying Off in Gold and Knowledge",
-      "score": 122,
-      "url": "https://www.scientificamerican.com/article/denmark-let-amateurs-dig-for-treasure-and-it-paid-off/",
-      "time": 1750248795.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44309191"
-    },
-    {
-      "title": "Type Inference Zoo",
-      "score": 57,
-      "url": "https://zoo.cuichen.cc/",
-      "time": 1750233752.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44307667"
-    },
-    {
-      "title": "U.S. bombs Iranian nuclear sites",
-      "score": 541,
-      "url": "https://www.bbc.co.uk/news/live/ckg3rzj8emjt",
-      "time": 1750550416.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44341639"
-    },
-    {
-      "title": "Airpass – easily overcome WiFi time limits",
-      "score": 290,
-      "url": "https://airpass.tiagoalves.me/",
-      "time": 1750260570.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44310763"
-    },
-    {
-      "title": "Linux on the Behringer X32 [video]",
-      "score": 11,
-      "url": "https://www.youtube.com/watch?v=6CfLC5xVy90",
-      "time": 1750568707.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44343840"
+      "title": "Finally, a Makefile formatter (50 years overdue)",
+      "score": 50,
+      "url": "https://github.com/EbodShojaei/bake",
+      "time": 1750381573.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44323905"
     },
     {
       "title": "Remote MCP Support in Claude Code",
-      "score": 8,
+      "score": 48,
       "url": "https://www.anthropic.com/news/claude-code-remote-mcp?campaignId=13926158&source=i_email&medium=email&content=Oct2024AnalysisTool&messageTypeId=140367",
       "time": 1750272744.0,
       "comments_url": "https://news.ycombinator.com/item?id=44312363"
     },
     {
+      "title": "The bad boy of bar charts: William Playfair (2023)",
+      "score": 58,
+      "url": "https://blog.engora.com/2023/05/the-bad-boy-of-bar-charts-william.html",
+      "time": 1750253371.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44309734"
+    },
+    {
+      "title": "Type Inference Zoo",
+      "score": 87,
+      "url": "https://zoo.cuichen.cc/",
+      "time": 1750233752.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44307667"
+    },
+    {
+      "title": "Denmark's Archaeology Experiment Is Paying Off in Gold and Knowledge",
+      "score": 143,
+      "url": "https://www.scientificamerican.com/article/denmark-let-amateurs-dig-for-treasure-and-it-paid-off/",
+      "time": 1750248795.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44309191"
+    },
+    {
+      "title": "Airpass – Easily overcome WiFi time limits",
+      "score": 308,
+      "url": "https://airpass.tiagoalves.me/",
+      "time": 1750260570.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44310763"
+    },
+    {
+      "title": "Announcing the Clippy feature freeze",
+      "score": 27,
+      "url": "https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/",
+      "time": 1750576038.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44344601"
+    },
+    {
+      "title": "U.S. bombs Iranian nuclear sites",
+      "score": 709,
+      "url": "https://www.bbc.co.uk/news/live/ckg3rzj8emjt",
+      "time": 1750550416.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44341639"
+    },
+    {
       "title": "Samsung embeds IronSource spyware app on phones across WANA",
-      "score": 731,
+      "score": 746,
       "url": "https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region/",
       "time": 1750475202.0,
       "comments_url": "https://news.ycombinator.com/item?id=44334167"
     },
     {
-      "title": "AllTracker: Efficient Dense Point Tracking at High Resolution",
-      "score": 72,
-      "url": "https://alltracker.github.io/",
-      "time": 1750525775.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44339076"
+      "title": "P2piano: A P2P collaboration space for the musically inclined",
+      "score": 21,
+      "url": "https://p2piano.com/",
+      "time": 1750232722.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44307552"
     },
     {
       "title": "Show HN: Luna Rail – treating night trains as a spatial optimization problem",
-      "score": 62,
+      "score": 79,
       "url": "https://luna-rail.com/en/home-2",
       "time": 1750236630.0,
       "comments_url": "https://news.ycombinator.com/item?id=44307976"
     },
     {
+      "title": "When Humans Learned to Live Everywhere",
+      "score": 6,
+      "url": "https://www.nytimes.com/2025/06/18/science/ancient-human-adaptation-environments.html",
+      "time": 1750284858.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44313722"
+    },
+    {
       "title": "Phoenix.new – Remote AI Runtime for Phoenix",
-      "score": 553,
+      "score": 557,
       "url": "https://fly.io/blog/phoenix-new-the-remote-ai-runtime/",
       "time": 1750431424.0,
       "comments_url": "https://news.ycombinator.com/item?id=44328326"
     },
     {
-      "title": "Compact Representations for Arrays in Lua [pdf]",
-      "score": 54,
-      "url": "https://sol.sbc.org.br/index.php/sblp/article/view/30252/30059",
-      "time": 1750290558.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44314234"
+      "title": "Polylogarithm Values at a Golden Ratio-Based Argument",
+      "score": 3,
+      "url": "https://zenodo.org/records/15696357",
+      "time": 1750322697.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44316678"
     },
     {
-      "title": "Scaling our observability platform by embracing wide events and replacing OTel",
-      "score": 177,
-      "url": "https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel",
-      "time": 1750497801.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44336015"
-    },
-    {
-      "title": "Using Microsoft's New CLI Text Editor on Ubuntu",
-      "score": 242,
-      "url": "https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu",
-      "time": 1750224336.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44306892"
-    },
-    {
-      "title": "Compiler for the B Programming Language",
-      "score": 39,
-      "url": "https://github.com/tsoding/b",
-      "time": 1750249671.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44309279"
-    },
-    {
-      "title": "Tell HN: Beware confidentiality agreements that act as lifetime non competes",
-      "score": 288,
-      "url": "https://news.ycombinator.com/item?id=44338562",
-      "time": 1750521744.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44338562"
+      "title": "AllTracker: Efficient Dense Point Tracking at High Resolution",
+      "score": 82,
+      "url": "https://alltracker.github.io/",
+      "time": 1750525775.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44339076"
     }
   ]
 }
