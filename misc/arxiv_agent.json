@@ -1,10 +1,10 @@
 {
-  "last_updated": "2025-06-22T17:10:31.766423-04:00",
+  "last_updated": "2025-06-22T21:03:18.514673-04:00",
   "papers": [
     {
       "title": "Embodied Web Agents: Bridging Physical-Digital Realms for Integrated\n  Agent Intelligence",
       "summary": "AI agents today are mostly siloed - they either retrieve and reason over vast\namount of digital information and knowledge obtained online; or interact with\nthe physical world through embodied perception, planning and action - but\nrarely both. This separation limits their ability to solve tasks that require\nintegrated physical and digital intelligence, such as cooking from online\nrecipes, navigating with dynamic map data, or interpreting real-world landmarks\nusing web knowledge. We introduce Embodied Web Agents, a novel paradigm for AI\nagents that fluidly bridge embodiment and web-scale reasoning. To\noperationalize this concept, we first develop the Embodied Web Agents task\nenvironments, a unified simulation platform that tightly integrates realistic\n3D indoor and outdoor environments with functional web interfaces. Building\nupon this platform, we construct and release the Embodied Web Agents Benchmark,\nwhich encompasses a diverse suite of tasks including cooking, navigation,\nshopping, tourism, and geolocation - all requiring coordinated reasoning across\nphysical and digital realms for systematic assessment of cross-domain\nintelligence. Experimental results reveal significant performance gaps between\nstate-of-the-art AI systems and human capabilities, establishing both\nchallenges and opportunities at the intersection of embodied cognition and\nweb-scale knowledge access. All datasets, codes and websites are publicly\navailable at our project page https://embodied-web-agent.github.io/.",
-      "url": "http://arxiv.org/abs/2506.15677v1",
+      "url": "http://arxiv.org/abs/2506.15677v2",
       "published_time_eastern_timestamp": 1750269497.0
     },
     {
