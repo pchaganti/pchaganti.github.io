@@ -1,61 +1,96 @@
 {
-  "last_updated": "2025-06-24T14:16:47.410768-04:00",
+  "last_updated": "2025-06-24T17:11:25.766564-04:00",
   "stories": [
     {
+      "title": "Fun with uv and PEP 723",
+      "score": 139,
+      "url": "https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723",
+      "time": 1750790486.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44369388"
+    },
+    {
       "title": "Writing toy software is a joy",
-      "score": 272,
+      "score": 402,
       "url": "https://blog.jsbarretto.com/post/software-is-joy",
       "time": 1750777752.0,
       "comments_url": "https://news.ycombinator.com/item?id=44367084"
     },
     {
+      "title": "The German automotive industry wants to develop open-source software together",
+      "score": 35,
+      "url": "https://www.vda.de/en/press/press-releases/2025/250624_PM_Automotive_industry_signs_Memorandum_of_Understanding",
+      "time": 1750795671.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44370494"
+    },
+    {
+      "title": "ChatGPT's enterprise success against Copilot fuels OpenAI/Microsoft rivalry",
+      "score": 48,
+      "url": "https://www.bloomberg.com/news/articles/2025-06-24/chatgpt-vs-copilot-inside-the-openai-and-microsoft-rivalry",
+      "time": 1750780922.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44367638"
+    },
+    {
       "title": "PlasticList – Plastic Levels in Foods",
-      "score": 130,
+      "score": 216,
       "url": "https://www.plasticlist.org/",
       "time": 1750774691.0,
       "comments_url": "https://news.ycombinator.com/item?id=44366548"
     },
     {
+      "title": "Forbidden secrets of ancient X11 scaling technology revealed",
+      "score": 100,
+      "url": "https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed",
+      "time": 1750791512.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44369646"
+    },
+    {
       "title": "Finding a 27-year-old easter egg in the Power Mac G3 ROM",
-      "score": 204,
+      "score": 250,
       "url": "https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/",
       "time": 1750770405.0,
       "comments_url": "https://news.ycombinator.com/item?id=44365806"
     },
     {
-      "title": "Starship: The minimal, fast, and customizable prompt for any shell",
-      "score": 261,
-      "url": "https://starship.rs/",
-      "time": 1750763512.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44364874"
+      "title": "Analyzing a Critique of the AI 2027 Timeline Forecasts",
+      "score": 17,
+      "url": "https://thezvi.substack.com/p/analyzing-a-critique-of-the-ai-2027",
+      "time": 1750794293.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44370249"
     },
     {
       "title": "The Bitter Lesson is coming for Tokenization",
-      "score": 85,
+      "score": 159,
       "url": "https://lucalp.dev/bitter-lesson-tokenization-and-blt/",
       "time": 1750774443.0,
       "comments_url": "https://news.ycombinator.com/item?id=44366494"
     },
     {
-      "title": "Basic Facts about GPUs",
-      "score": 156,
-      "url": "https://damek.github.io/random/basic-facts-about-gpus/",
-      "time": 1750767312.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44365320"
+      "title": "XBOW, an autonomous penetration tester, has reached the top spot on HackerOne",
+      "score": 84,
+      "url": "https://xbow.com/blog/top-1-how-xbow-did-it/",
+      "time": 1750780392.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44367548"
+    },
+    {
+      "title": "How to Think About Time in Programming",
+      "score": 12,
+      "url": "https://shanrauf.com/archive/how-to-think-about-time-in-programming",
+      "time": 1750795302.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44370426"
+    },
+    {
+      "title": "Starship: The minimal, fast, and customizable prompt for any shell",
+      "score": 316,
+      "url": "https://starship.rs/",
+      "time": 1750763512.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44364874"
     },
     {
       "title": "Gemini Robotics On-Device brings AI to local robotic devices",
-      "score": 82,
+      "score": 125,
       "url": "https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/",
       "time": 1750773910.0,
       "comments_url": "https://news.ycombinator.com/item?id=44366409"
-    },
-    {
-      "title": "Nordic Semiconductor Acquires Memfault",
-      "score": 61,
-      "url": "https://www.nordicsemi.com/Nordic-news/2025/06/Nordic-Semiconductor-acquires-Memfault",
-      "time": 1750777669.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44367071"
     },
     {
       "title": "Expand.ai (YC S24) is hiring a founding engineer",
@@ -65,81 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=44368315"
     },
     {
-      "title": "SFStreets: History of San Francisco place names",
-      "score": 12,
-      "url": "http://sfstreets.noahveltman.com/",
-      "time": 1750783925.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44368217"
+      "title": "Subsecond: A runtime hotpatching engine for Rust hot-reloading",
+      "score": 16,
+      "url": "https://docs.rs/subsecond/0.7.0-alpha.1/subsecond/index.html",
+      "time": 1750791491.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44369642"
     },
     {
-      "title": "The best Hacker on HackerOne is now an AI",
-      "score": 31,
-      "url": "https://xbow.com/blog/top-1-how-xbow-did-it/",
-      "time": 1750780392.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44367548"
-    },
-    {
-      "title": "Show HN: Oasis – an open-source, 3D-printed smart terrarium",
-      "score": 67,
-      "url": "https://github.com/justbuchanan/oasis",
-      "time": 1750773821.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44366395"
-    },
-    {
-      "title": "Timdle – Place historical events in chronological order",
-      "score": 105,
-      "url": "https://www.timdle.com/",
-      "time": 1750660760.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44353055"
-    },
-    {
-      "title": "MCP is eating the world",
-      "score": 102,
-      "url": "https://www.stainless.com/blog/mcp-is-eating-the-world--and-its-here-to-stay",
-      "time": 1750523440.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44338793"
+      "title": "Basic Facts about GPUs",
+      "score": 197,
+      "url": "https://damek.github.io/random/basic-facts-about-gpus/",
+      "time": 1750767312.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44365320"
     },
     {
       "title": "Show HN: Autumn – Open-source infra over Stripe",
-      "score": 52,
+      "score": 77,
       "url": "https://github.com/useautumn/autumn",
       "time": 1750769328.0,
       "comments_url": "https://news.ycombinator.com/item?id=44365620"
     },
     {
-      "title": "Higher: Favourite Haskell type classes for Rust (2023)",
-      "score": 9,
-      "url": "https://github.com/bodil/higher",
-      "time": 1750515889.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44337839"
+      "title": "Mapping LLMs over excel saved my passion for game dev",
+      "score": 12,
+      "url": "https://danieltan.weblog.lol/2025/06/map-llms-excel-saved-my-passion-for-game-dev",
+      "time": 1750524482.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44338933"
     },
     {
-      "title": "Circular Microcomputers embedded and powered by repurposed smartphone components",
-      "score": 59,
-      "url": "https://citronics.eu/",
-      "time": 1750759842.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44364541"
+      "title": "Nordic Semiconductor Acquires Memfault",
+      "score": 87,
+      "url": "https://www.nordicsemi.com/Nordic-news/2025/06/Nordic-Semiconductor-acquires-Memfault",
+      "time": 1750777669.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44367071"
     },
     {
-      "title": "A federal judge sides with Anthropic in lawsuit over training AI on books",
-      "score": 52,
-      "url": "https://techcrunch.com/2025/06/24/a-federal-judge-sides-with-anthropic-in-lawsuit-over-training-ai-on-books-without-authors-permission/",
-      "time": 1750782134.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44367850"
-    },
-    {
-      "title": "How Cloudflare blocked a monumental 7.3 Tbps DDoS attack",
-      "score": 161,
-      "url": "https://blog.cloudflare.com/defending-the-internet-how-cloudflare-blocked-a-monumental-7-3-tbps-ddos/",
-      "time": 1750444461.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44330585"
-    },
-    {
-      "title": "Switching Pip to Uv in a Dockerized Flask / Django App",
-      "score": 205,
-      "url": "https://nickjanetakis.com/blog/switching-pip-to-uv-in-a-dockerized-flask-or-django-app",
-      "time": 1750758387.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44364406"
+      "title": "Timdle – Place historical events in chronological order",
+      "score": 133,
+      "url": "https://www.timdle.com/",
+      "time": 1750660760.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44353055"
     }
   ]
 }
