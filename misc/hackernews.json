@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-06-24T05:14:24.088937-04:00",
+  "last_updated": "2025-06-24T08:23:56.628874-04:00",
   "stories": [
     {
+      "title": "Switching Pip to Uv in a Dockerized Flask / Django App",
+      "score": 76,
+      "url": "https://nickjanetakis.com/blog/switching-pip-to-uv-in-a-dockerized-flask-or-django-app",
+      "time": 1750758387.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44364406"
+    },
+    {
+      "title": "Starship: The minimal, fast, and customizable prompt for any shell",
+      "score": 15,
+      "url": "https://starship.rs/",
+      "time": 1750763512.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44364874"
+    },
+    {
       "title": "Solving LinkedIn Queens Using Haskell",
-      "score": 29,
+      "score": 52,
       "url": "https://imiron.io/post/linkedin-queens/",
       "time": 1750750148.0,
       "comments_url": "https://news.ycombinator.com/item?id=44363696"
     },
     {
       "title": "Vera C. Rubin Observatory first images",
-      "score": 453,
+      "score": 485,
       "url": "https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest",
       "time": 1750693260.0,
       "comments_url": "https://news.ycombinator.com/item?id=44356890"
     },
     {
       "title": "Can your terminal do emojis? How big?",
-      "score": 91,
+      "score": 128,
       "url": "https://dgl.cx/2025/06/can-your-terminal-do-emojis",
       "time": 1750731182.0,
       "comments_url": "https://news.ycombinator.com/item?id=44362272"
     },
     {
-      "title": "Backyard Coffee and Jazz in Kyoto",
-      "score": 507,
-      "url": "https://thedeletedscenes.substack.com/p/backyard-coffee-and-jazz-in-kyoto",
-      "time": 1750689425.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44356248"
+      "title": "Removal of unwanted drivers from Windows Update",
+      "score": 34,
+      "url": "https://techcommunity.microsoft.com/blog/hardwaredevcenter/removal-of-unwanted-drivers-from-windows-update/4425647",
+      "time": 1750437508.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44329490"
     },
     {
-      "title": "Fairphone 6 is switching to a new design that's even more sustainable",
-      "score": 284,
-      "url": "https://www.androidcentral.com/phones/fairphone-6-official-render-leaks-showcase-its-sustainable-design",
-      "time": 1750692591.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44356788"
+      "title": "Microplastics shed by food packaging are contaminating our food, study finds",
+      "score": 40,
+      "url": "https://www.cnn.com/2025/06/24/health/microplastics-food-packaging-study-wellness",
+      "time": 1750759691.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44364526"
+    },
+    {
+      "title": "Amoeba: A distributed operating system for the 1990s (1990) [pdf]",
+      "score": 21,
+      "url": "https://www.cs.cornell.edu/home/rvr/papers/Amoeba1990s.pdf",
+      "time": 1750428845.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44327942"
     },
     {
       "title": "FICO to incorporate buy-now-pay-later loans into credit scores",
-      "score": 76,
+      "score": 117,
       "url": "https://www.axios.com/2025/06/23/fico-credit-scores-bnpl-buy-now-pay-later",
       "time": 1750723436.0,
       "comments_url": "https://news.ycombinator.com/item?id=44361494"
     },
     {
+      "title": "Central Park hits temp record last seen in 1888",
+      "score": 31,
+      "url": "https://www.cnn.com/2025/06/23/weather/heat-dome-midwest-east-coast-climate",
+      "time": 1750762671.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44364788"
+    },
+    {
+      "title": "Fairphone 6 is switching to a new design that's even more sustainable",
+      "score": 340,
+      "url": "https://www.androidcentral.com/phones/fairphone-6-official-render-leaks-showcase-its-sustainable-design",
+      "time": 1750692591.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44356788"
+    },
+    {
+      "title": "Backyard Coffee and Jazz in Kyoto",
+      "score": 542,
+      "url": "https://thedeletedscenes.substack.com/p/backyard-coffee-and-jazz-in-kyoto",
+      "time": 1750689425.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44356248"
+    },
+    {
+      "title": "Svalboard: Datahand Lives",
+      "score": 19,
+      "url": "https://svalboard.com/",
+      "time": 1750451668.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44331827"
+    },
+    {
+      "title": "SourceHut moves business operations from US to Europe",
+      "score": 6,
+      "url": "https://lists.sr.ht/~sircmpwn/sr.ht-dev/patches/60282",
+      "time": 1750766789.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44365246"
+    },
+    {
       "title": "How I use my terminal",
-      "score": 408,
+      "score": 454,
       "url": "https://jyn.dev/how-i-use-my-terminal/",
       "time": 1750691669.0,
       "comments_url": "https://news.ycombinator.com/item?id=44356646"
     },
     {
-      "title": "Touring the Zig-EM code-scape (2024)",
-      "score": 14,
-      "url": "https://zigem.openem.org/post-003/",
-      "time": 1750444907.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44330647"
-    },
-    {
-      "title": "Is Mathematics Mostly Chaos or Mostly Order?",
-      "score": 60,
-      "url": "https://www.quantamagazine.org/is-mathematics-mostly-chaos-or-mostly-order-20250620/",
-      "time": 1750432886.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44328575"
-    },
-    {
       "title": "The FPGA turns 40",
-      "score": 110,
+      "score": 123,
       "url": "https://www.adiuvoengineering.com/post/the-fpga-turns-40",
       "time": 1750461592.0,
       "comments_url": "https://news.ycombinator.com/item?id=44333033"
     },
     {
+      "title": "Is Mathematics Mostly Chaos or Mostly Order?",
+      "score": 70,
+      "url": "https://www.quantamagazine.org/is-mathematics-mostly-chaos-or-mostly-order-20250620/",
+      "time": 1750432886.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44328575"
+    },
+    {
       "title": "'Dragon prince' dinosaur discovery 'rewrites' T.rex family tree",
-      "score": 55,
+      "score": 68,
       "url": "https://www.bbc.com/news/articles/cy8dzv3vp5jo",
       "time": 1750423387.0,
       "comments_url": "https://news.ycombinator.com/item?id=44327163"
     },
     {
-      "title": "Excalidraw+ Is Now SoC 2 Certified",
-      "score": 179,
-      "url": "https://plus.excalidraw.com/blog/excalidraw-soc2",
-      "time": 1750730052.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44362165"
+      "title": "Show HN: Weather Watching",
+      "score": 25,
+      "url": "https://walzr.com/weather-watching",
+      "time": 1750695948.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44357391"
     },
     {
-      "title": "Tell HN: Meta developer account suspended",
-      "score": 92,
-      "url": "https://news.ycombinator.com/item?id=44363262",
-      "time": 1750745061.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44363262"
-    },
-    {
-      "title": "A Deep Dive into Solid Queue for Ruby on Rails",
-      "score": 114,
-      "url": "https://blog.appsignal.com/2025/06/18/a-deep-dive-into-solid-queue-for-ruby-on-rails.html",
-      "time": 1750415469.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44326382"
-    },
-    {
-      "title": "Show HN: Comparator - I built a free, open-source app to compare job offers",
-      "score": 44,
-      "url": "https://comparator-one.vercel.app/",
-      "time": 1750723247.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44361475"
-    },
-    {
-      "title": "QuEra Quantum System Leverages Neutral Atoms to Compute",
-      "score": 14,
-      "url": "https://www.nextplatform.com/2025/06/20/quera-quantum-system-leverages-neutral-atoms-to-compute/",
-      "time": 1750427884.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44327792"
-    },
-    {
-      "title": "U.S. Chemical Safety Board could be eliminated",
-      "score": 259,
-      "url": "https://www.ishn.com/articles/114776-us-chemical-safety-board-could-be-eliminated",
-      "time": 1750722800.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44361430"
-    },
-    {
-      "title": "ASUSpicious Flaw – Users' Information Exposed Since 2022",
-      "score": 18,
-      "url": "https://mrbruh.com/asus_p2/",
-      "time": 1750425978.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44327546"
-    },
-    {
-      "title": "Making TRAMP faster",
-      "score": 194,
-      "url": "https://coredumped.dev/2025/06/18/making-tramp-go-brrrr./",
-      "time": 1750689963.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44356346"
-    },
-    {
-      "title": "Launch HN: Reducto Studio (YC W24) – Build accurate document pipelines, fast",
-      "score": 74,
-      "url": "https://news.ycombinator.com/item?id=44356799",
-      "time": 1750692633.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44356799"
+      "title": "Touring the Zig-EM code-scape (2024)",
+      "score": 22,
+      "url": "https://zigem.openem.org/post-003/",
+      "time": 1750444907.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44330647"
     }
   ]
 }
