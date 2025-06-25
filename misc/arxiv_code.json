@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-24T17:11:27.924540-04:00",
+  "last_updated": "2025-06-24T21:00:20.688600-04:00",
   "papers": [
     {
       "title": "TC-Light: Temporally Consistent Relighting for Dynamic Long Videos",
@@ -9,8 +9,8 @@
     },
     {
       "title": "jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual\n  Retrieval",
-      "summary": "We introduce jina-embeddings-v4, a 3.8 billion parameter multimodal embedding\nmodel that unifies text and image representations through a novel architecture\nsupporting both single-vector and multi-vector embeddings in the late\ninteraction style. The model incorporates task-specific Low-Rank Adaptation\n(LoRA) adapters to optimize performance across diverse retrieval scenarios,\nincluding query-based information retrieval, cross-modal semantic similarity,\nand programming code search. Comprehensive evaluations demonstrate that\njina-embeddings-v4 achieves state-of-the-art performance on both single- modal\nand cross-modal retrieval tasks, with particular strength in processing\nvisually rich content such as tables, charts, diagrams, and mixed-media\nformats. To facilitate evaluation of this capability, we also introduce\nJina-VDR, a novel benchmark specifically designed for visually rich image\nretrieval.",
-      "url": "http://arxiv.org/abs/2506.18902v1",
+      "summary": "We introduce jina-embeddings-v4, a 3.8 billion parameter multimodal embedding\nmodel that unifies text and image representations through a novel architecture\nsupporting both single-vector and multi-vector embeddings in the late\ninteraction style. The model incorporates task-specific Low-Rank Adaptation\n(LoRA) adapters to optimize performance across diverse retrieval scenarios,\nincluding query-document retrieval, semantic text similarity, and code search.\nComprehensive evaluations demonstrate that jina-embeddings-v4 achieves\nstate-of-the-art performance on both single-modal and cross-modal retrieval\ntasks, with particular strength in processing visually rich content such as\ntables, charts, diagrams, and mixed-media formats. To facilitate evaluation of\nthis capability, we also introduce Jina-VDR, a novel benchmark specifically\ndesigned for visually rich image retrieval.",
+      "url": "http://arxiv.org/abs/2506.18902v2",
       "published_time_eastern_timestamp": 1750701595.0
     },
     {
@@ -64,13 +64,13 @@
     {
       "title": "ConciseHint: Boosting Efficient Reasoning via Continuous Concise Hints\n  during Generation",
       "summary": "Recent advancements in large reasoning models (LRMs) like DeepSeek-R1 and\nOpenAI o1 series have achieved notable performance enhancements on complex\nreasoning tasks by scaling up the generation length by Chain-of-Thought (CoT).\nHowever, an emerging issue is their inclination to produce excessively verbose\nreasoning processes, leading to the inefficiency problem. Existing literature\non improving efficiency mainly adheres to the before-reasoning paradigms such\nas prompting and reasoning or fine-tuning and reasoning, but ignores the\npromising direction of directly encouraging the model to speak concisely by\nintervening during the generation of reasoning. In order to fill the blank, we\npropose a framework dubbed ConciseHint, which continuously encourages the\nreasoning model to speak concisely by injecting the textual hint (manually\ndesigned or trained on the concise data) during the token generation of the\nreasoning process. Besides, ConciseHint is adaptive to the complexity of the\nquery by adaptively adjusting the hint intensity, which ensures it will not\nundermine model performance. Experiments on the state-of-the-art LRMs,\nincluding DeepSeek-R1 and Qwen-3 series, demonstrate that our method can\neffectively produce concise reasoning processes while maintaining performance\nwell. For instance, we achieve a reduction ratio of 65\\% for the reasoning\nlength on GSM8K benchmark with Qwen-3 4B with nearly no accuracy loss.",
-      "url": "http://arxiv.org/abs/2506.18810v1",
+      "url": "http://arxiv.org/abs/2506.18810v2",
       "published_time_eastern_timestamp": 1750695644.0
     },
     {
       "title": "A Practical Introduction to Regression-based Causal Inference in\n  Meteorology (I): All confounders measured",
       "summary": "Whether a variable is the cause of another, or simply associated with it, is\noften an important scientific question. Causal Inference is the name associated\nwith the body of techniques for addressing that question in a statistical\nsetting. Although assessing causality is relatively straightforward in the\npresence of temporal information, outside of that setting - the situation\nconsidered here - it is more difficult to assess causal effects. The\ndevelopment of the field of causal inference has involved concepts from a wide\nrange of topics, thereby limiting its adoption across some fields, including\nmeteorology. However, at its core, the requisite knowledge for causal inference\ninvolves little more than basic probability theory and regression, topics\nfamiliar to most meteorologists. By focusing on these core areas, this and a\ncompanion article provide a steppingstone for the meteorology community into\nthe field of (non-temporal) causal inference. Although some theoretical\nfoundations are presented, the main goal is the application of a specific\nmethod, called matching, to a problem in meteorology. The data for the\napplication are in public domain, and R code is provided as well, forming an\neasy path for meteorology students and researchers to enter the field.",
-      "url": "http://arxiv.org/abs/2506.18808v1",
+      "url": "http://arxiv.org/abs/2506.18808v2",
       "published_time_eastern_timestamp": 1750695542.0
     },
     {
@@ -111,8 +111,8 @@
     },
     {
       "title": "MuseControlLite: Multifunctional Music Generation with Lightweight\n  Conditioners",
-      "summary": "We propose MuseControlLite, a lightweight mechanism designed to fine-tune\ntext-to-music generation models for precise conditioning using various\ntime-varying musical attributes and reference audio signals. The key finding is\nthat positional embeddings, which have been seldom used by text-to-music\ngeneration models in the conditioner for text conditions, are critical when the\ncondition of interest is a function of time. Using melody control as an\nexample, our experiments show that simply adding rotary positional embeddings\nto the decoupled cross-attention layers increases control accuracy from 56.6%\nto 61.1%, while requiring 6.75 times fewer trainable parameters than\nstate-of-the-art fine-tuning mechanisms, using the same pre-trained diffusion\nTransformer model of Stable Audio Open. We evaluate various forms of musical\nattribute control, audio inpainting, and audio outpainting, demonstrating\nimproved controllability over MusicGen-Large and Stable Audio Open ControlNet\nat a significantly lower fine-tuning cost, with only 85M trainble parameters.\nSource code, model checkpoints, and demo examples are available at: https:\n//MuseControlLite.github.io/web/.",
-      "url": "http://arxiv.org/abs/2506.18729v1",
+      "summary": "We propose MuseControlLite, a lightweight mechanism designed to fine-tune\ntext-to-music generation models for precise conditioning using various\ntime-varying musical attributes and reference audio signals. The key finding is\nthat positional embeddings, which have been seldom used by text-to-music\ngeneration models in the conditioner for text conditions, are critical when the\ncondition of interest is a function of time. Using melody control as an\nexample, our experiments show that simply adding rotary positional embeddings\nto the decoupled cross-attention layers increases control accuracy from 56.6%\nto 61.1%, while requiring 6.75 times fewer trainable parameters than\nstate-of-the-art fine-tuning mechanisms, using the same pre-trained diffusion\nTransformer model of Stable Audio Open. We evaluate various forms of musical\nattribute control, audio inpainting, and audio outpainting, demonstrating\nimproved controllability over MusicGen-Large and Stable Audio Open ControlNet\nat a significantly lower fine-tuning cost, with only 85M trainble parameters.\nSource code, model checkpoints, and demo examples are available at:\nhttps://musecontrollite.github.io/web/.",
+      "url": "http://arxiv.org/abs/2506.18729v2",
       "published_time_eastern_timestamp": 1750691283.0
     },
     {

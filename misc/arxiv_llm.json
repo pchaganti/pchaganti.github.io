@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-24T17:11:27.123942-04:00",
+  "last_updated": "2025-06-24T21:00:19.712109-04:00",
   "papers": [
     {
       "title": "FilMaster: Bridging Cinematic Principles and Generative AI for Automated\n  Film Generation",
@@ -94,7 +94,7 @@
     {
       "title": "Benchmarking the Pedagogical Knowledge of Large Language Models",
       "summary": "Benchmarks like Massive Multitask Language Understanding (MMLU) have played a\npivotal role in evaluating AI's knowledge and abilities across diverse domains.\nHowever, existing benchmarks predominantly focus on content knowledge, leaving\na critical gap in assessing models' understanding of pedagogy - the method and\npractice of teaching. This paper introduces The Pedagogy Benchmark, a novel\ndataset designed to evaluate large language models on their Cross-Domain\nPedagogical Knowledge (CDPK) and Special Education Needs and Disability (SEND)\npedagogical knowledge. These benchmarks are built on a carefully curated set of\nquestions sourced from professional development exams for teachers, which cover\na range of pedagogical subdomains such as teaching strategies and assessment\nmethods. Here we outline the methodology and development of these benchmarks.\nWe report results for 97 models, with accuracies spanning a range from 28% to\n89% on the pedagogical knowledge questions. We consider the relationship\nbetween cost and accuracy and chart the progression of the Pareto value\nfrontier over time. We provide online leaderboards at\nhttps://rebrand.ly/pedagogy which are updated with new models and allow\ninteractive exploration and filtering based on various model properties, such\nas cost per token and open-vs-closed weights, as well as looking at performance\nin different subjects. LLMs and generative AI have tremendous potential to\ninfluence education and help to address the global learning crisis.\nEducation-focused benchmarks are crucial to measure models' capacities to\nunderstand pedagogical concepts, respond appropriately to learners' needs, and\nsupport effective teaching practices across diverse contexts. They are needed\nfor informing the responsible and evidence-based deployment of LLMs and\nLLM-based tools in educational settings, and for guiding both development and\npolicy decisions.",
-      "url": "http://arxiv.org/abs/2506.18710v1",
+      "url": "http://arxiv.org/abs/2506.18710v2",
       "published_time_eastern_timestamp": 1750690141.0
     },
     {
@@ -118,7 +118,7 @@
     {
       "title": "ReDit: Reward Dithering for Improved LLM Policy Optimization",
       "summary": "DeepSeek-R1 has successfully enhanced Large Language Model (LLM) reasoning\ncapabilities through its rule-based reward system. While it's a ''perfect''\nreward system that effectively mitigates reward hacking, such reward functions\nare often discrete. Our experimental observations suggest that discrete rewards\ncan lead to gradient anomaly, unstable optimization, and slow convergence. To\naddress this issue, we propose ReDit (Reward Dithering), a method that dithers\nthe discrete reward signal by adding simple random noise. With this perturbed\nreward, exploratory gradients are continuously provided throughout the learning\nprocess, enabling smoother gradient updates and accelerating convergence. The\ninjected noise also introduces stochasticity into flat reward regions,\nencouraging the model to explore novel policies and escape local optima.\nExperiments across diverse tasks demonstrate the effectiveness and efficiency\nof ReDit. On average, ReDit achieves performance comparable to vanilla GRPO\nwith only approximately 10% the training steps, and furthermore, still exhibits\na 4% performance improvement over vanilla GRPO when trained for a similar\nduration. Visualizations confirm significant mitigation of gradient issues with\nReDit. Moreover, theoretical analyses are provided to further validate these\nadvantages.",
-      "url": "http://arxiv.org/abs/2506.18631v1",
+      "url": "http://arxiv.org/abs/2506.18631v2",
       "published_time_eastern_timestamp": 1750685784.0
     }
   ]
