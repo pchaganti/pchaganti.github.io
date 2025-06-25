@@ -1,61 +1,96 @@
 {
-  "last_updated": "2025-06-25T14:17:28.581009-04:00",
+  "last_updated": "2025-06-25T17:11:32.145195-04:00",
   "stories": [
     {
-      "title": "A new PNG spec",
-      "score": 322,
-      "url": "https://www.programmax.net/articles/png-is-back/",
-      "time": 1750770077.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44365754"
+      "title": "A new pyramid-like shape always lands the same side up",
+      "score": 74,
+      "url": "https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/",
+      "time": 1750881667.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44381297"
     },
     {
       "title": "Gemini CLI",
-      "score": 566,
+      "score": 769,
       "url": "https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/",
       "time": 1750857046.0,
       "comments_url": "https://news.ycombinator.com/item?id=44376919"
     },
     {
-      "title": "OpenAI Charges by the Minute, So Make the Minutes Shorter",
-      "score": 260,
-      "url": "https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/",
-      "time": 1750857445.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44376989"
+      "title": "A new PNG spec",
+      "score": 397,
+      "url": "https://www.programmax.net/articles/png-is-back/",
+      "time": 1750770077.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44365754"
     },
     {
-      "title": "Getting ready to issue IP address certificates",
-      "score": 70,
-      "url": "https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777",
-      "time": 1750868505.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44379034"
-    },
-    {
-      "title": "What Problems to Solve – By Richard Feynman",
-      "score": 36,
+      "title": "What Problems to Solve (1966)",
+      "score": 215,
       "url": "http://genius.cat-v.org/richard-feynman/writtings/letters/problems",
       "time": 1750871324.0,
       "comments_url": "https://news.ycombinator.com/item?id=44379606"
     },
     {
+      "title": "Negative Two-Thousand Lines of Code",
+      "score": 40,
+      "url": "https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt",
+      "time": 1750881193.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44381252"
+    },
+    {
+      "title": "Getting ready to issue IP address certificates",
+      "score": 164,
+      "url": "https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777",
+      "time": 1750868505.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44379034"
+    },
+    {
+      "title": "The Offline Club",
+      "score": 22,
+      "url": "https://www.theoffline-club.com",
+      "time": 1750880577.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44381168"
+    },
+    {
+      "title": "Build and Host AI-Powered Apps with Claude – No Deployment Needed",
+      "score": 111,
+      "url": "https://www.anthropic.com/news/claude-powered-artifacts",
+      "time": 1750871675.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44379673"
+    },
+    {
+      "title": "OpenAI Charges by the Minute, So Make the Minutes Shorter",
+      "score": 345,
+      "url": "https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/",
+      "time": 1750857445.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44376989"
+    },
+    {
       "title": "LM Studio is now an MCP Host",
-      "score": 27,
+      "score": 103,
       "url": "https://lmstudio.ai/blog/lmstudio-v0.3.17",
       "time": 1750872455.0,
       "comments_url": "https://news.ycombinator.com/item?id=44379792"
     },
     {
-      "title": "Web Embeddable Common Lisp",
-      "score": 45,
-      "url": "https://turtleware.eu/static/paste/wecl-test-gl/main.html",
-      "time": 1750865600.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44378486"
+      "title": "Writing a basic Linux device driver when you know nothing about Linux drivers",
+      "score": 80,
+      "url": "https://crescentro.se/posts/writing-drivers/",
+      "time": 1750588182.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44345681"
     },
     {
-      "title": "Build and Host AI-Powered Apps with Claude – No Deployment Needed",
-      "score": 24,
-      "url": "https://www.anthropic.com/news/claude-powered-artifacts",
-      "time": 1750871675.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44379673"
+      "title": "Iroh: A library to establish direct connection between peers",
+      "score": 97,
+      "url": "https://github.com/n0-computer/iroh",
+      "time": 1750869291.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44379173"
+    },
+    {
+      "title": "Coccinelle for Rust Progress Report",
+      "score": 12,
+      "url": "https://www.collabora.com/news-and-blog/blog/2025/06/25/coccinelle-for-rust-progress-report/",
+      "time": 1750879223.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44380955"
     },
     {
       "title": "FurtherAI (YC W24) Is Hiring for Software and AI Roles",
@@ -65,81 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=44379509"
     },
     {
-      "title": "Interstellar Flight: Perspectives and Patience",
-      "score": 18,
-      "url": "https://www.centauri-dreams.org/2025/06/25/interstellar-flight-perspectives-and-patience/",
-      "time": 1750869356.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44379191"
+      "title": "LLM Hallucinations in Practical Code Generation",
+      "score": 15,
+      "url": "https://dl.acm.org/doi/10.1145/3728894",
+      "time": 1750662849.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44353241"
     },
     {
-      "title": "Bot or Human? Creating the Invisible Turing Test for the Internet",
-      "score": 52,
+      "title": "Microsoft Dependency Has Risks",
+      "score": 10,
+      "url": "https://blog.miloslavhomer.cz/p/microsoft-dependency-has-risks",
+      "time": 1750882106.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44381358"
+    },
+    {
+      "title": "Bot or human? Creating an invisible Turing test for the internet",
+      "score": 75,
       "url": "https://research.roundtable.ai/proof-of-human/",
       "time": 1750863600.0,
       "comments_url": "https://news.ycombinator.com/item?id=44378127"
     },
     {
-      "title": "Iroh: A library to establish direct connection between peers",
-      "score": 19,
-      "url": "https://github.com/n0-computer/iroh",
-      "time": 1750869291.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44379173"
+      "title": "Web Embeddable Common Lisp",
+      "score": 83,
+      "url": "https://turtleware.eu/static/paste/wecl-test-gl/main.html",
+      "time": 1750865600.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44378486"
     },
     {
-      "title": "DeepSpeech Is Discontinued",
-      "score": 5,
+      "title": "Building a Monostable Tetrahedron",
+      "score": 8,
+      "url": "https://arxiv.org/abs/2506.19244",
+      "time": 1750881638.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44381292"
+    },
+    {
+      "title": "DeepSpeech Is Discontinued (2020)",
+      "score": 33,
       "url": "https://github.com/mozilla/DeepSpeech",
       "time": 1750871745.0,
       "comments_url": "https://news.ycombinator.com/item?id=44379688"
-    },
-    {
-      "title": "Reading NFC Passport Chips in Linux",
-      "score": 228,
-      "url": "https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/",
-      "time": 1750836839.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44374574"
-    },
-    {
-      "title": "Third places and neighborhood entrepreneurship (2024)",
-      "score": 78,
-      "url": "https://www.nber.org/papers/w32604",
-      "time": 1750853421.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44376362"
-    },
-    {
-      "title": "Show HN: Elelem, a tool-calling CLI for Ollama and DeepSeek in C",
-      "score": 17,
-      "url": "https://codeberg.org/politebot/elelem",
-      "time": 1750864252.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44378254"
-    },
-    {
-      "title": "Microsoft Edit",
-      "score": 423,
-      "url": "https://github.com/microsoft/edit",
-      "time": 1750810024.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44372380"
-    },
-    {
-      "title": "Thnickels",
-      "score": 422,
-      "url": "https://thick-coins.net/?_bhlid=8a5736885893b7837e681aa73f890b9805a4673e",
-      "time": 1750810407.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44372424"
-    },
-    {
-      "title": "Deep Down the Rabbit Hole: Bash, OverlayFS, and a 30-Year-Old Surprise",
-      "score": 26,
-      "url": "https://sigma-star.at/blog/2025/06/deep-down-the-rabbit-hole-bash-overlayfs-and-a-30-year-old-surprise/",
-      "time": 1750859039.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44377274"
-    },
-    {
-      "title": "America's Prison Population Is in Serious Decline",
-      "score": 19,
-      "url": "https://www.theatlantic.com/ideas/archive/2025/06/prisoner-populations-are-plummeting/683310/",
-      "time": 1750871669.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44379670"
     }
   ]
 }
