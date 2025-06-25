@@ -1,47 +1,82 @@
 {
-  "last_updated": "2025-06-25T08:24:15.092901-04:00",
+  "last_updated": "2025-06-25T11:13:28.623689-04:00",
   "stories": [
     {
       "title": "A new PNG spec",
-      "score": 475,
+      "score": 169,
       "url": "https://www.programmax.net/articles/png-is-back/",
-      "time": 1750823683.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44373504"
+      "time": 1750770077.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44365754"
+    },
+    {
+      "title": "Gemini CLI",
+      "score": 289,
+      "url": "https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/",
+      "time": 1750857046.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44376919"
+    },
+    {
+      "title": "Is Lovable getting monetization wrong?",
+      "score": 34,
+      "url": "https://getlago.substack.com/p/lovable-makes-60m-in-6-monthsbut",
+      "time": 1750860313.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44377495"
+    },
+    {
+      "title": "OpenAI Charges by the Minute, So Make the Minutes Shorter",
+      "score": 48,
+      "url": "https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/",
+      "time": 1750857445.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44376989"
+    },
+    {
+      "title": "Third places and neighborhood entrepreneurship (2024)",
+      "score": 55,
+      "url": "https://www.nber.org/papers/w32604",
+      "time": 1750853421.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44376362"
+    },
+    {
+      "title": "Bot or Human? Creating the Invisible Turing Test for the Internet",
+      "score": 5,
+      "url": "https://research.roundtable.ai/proof-of-human/",
+      "time": 1750863600.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44378127"
     },
     {
       "title": "Reading NFC Passport Chips in Linux",
-      "score": 127,
+      "score": 188,
       "url": "https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/",
       "time": 1750836839.0,
       "comments_url": "https://news.ycombinator.com/item?id=44374574"
     },
     {
-      "title": "Study: Starbucks as 'Third Places' Increase Neighborhood Startups by 18%",
-      "score": 5,
-      "url": "https://thetreeoflife.cc/demo",
-      "time": 1750853421.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44376362"
+      "title": "How to Write Compelling Release Announcements",
+      "score": 14,
+      "url": "https://refactoringenglish.com/chapters/release-announcements/",
+      "time": 1750861364.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44377666"
     },
     {
-      "title": "Microsoft Edit",
-      "score": 296,
-      "url": "https://github.com/microsoft/edit",
-      "time": 1750810024.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44372380"
+      "title": "Second study finds Uber used opaque algorithm to dramatically boost profits",
+      "score": 81,
+      "url": "https://www.theguardian.com/technology/2025/jun/25/second-study-finds-uber-used-opaque-algorithm-to-dramatically-boost-profits",
+      "time": 1750857075.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44376928"
     },
     {
-      "title": "Thnickels",
-      "score": 235,
-      "url": "https://thick-coins.net/?_bhlid=8a5736885893b7837e681aa73f890b9805a4673e",
-      "time": 1750810407.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44372424"
+      "title": "Introducing Qodo Gen CLI: Build and Run Coding Agents Anywhere in the SDLC",
+      "score": 26,
+      "url": "https://www.qodo.ai/blog/introducing-qodo-gen-cli-build-run-and-automate-agents-anywhere-in-your-sdlc/",
+      "time": 1750853379.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44376353"
     },
     {
-      "title": "Fun with uv and PEP 723",
-      "score": 500,
-      "url": "https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723",
-      "time": 1750790486.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44369388"
+      "title": "How to Think about Parallel Programming: Not! [video] (2021)",
+      "score": 10,
+      "url": "https://www.infoq.com/presentations/Thinking-Parallel-Programming/",
+      "time": 1750612342.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44348493"
     },
     {
       "title": "Yarn (YC W24) is hiring engineers in NYC",
@@ -51,95 +86,60 @@
       "comments_url": "https://news.ycombinator.com/item?id=44376274"
     },
     {
-      "title": "Writing toy software is a joy",
-      "score": 696,
-      "url": "https://blog.jsbarretto.com/post/software-is-joy",
-      "time": 1750777752.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44367084"
+      "title": "Microsoft Edit",
+      "score": 367,
+      "url": "https://github.com/microsoft/edit",
+      "time": 1750810024.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44372380"
     },
     {
-      "title": "The probability of a hash collision (2022)",
-      "score": 78,
-      "url": "https://kevingal.com/blog/collisions.html",
-      "time": 1750563256.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44343293"
+      "title": "Thnickels",
+      "score": 344,
+      "url": "https://thick-coins.net/?_bhlid=8a5736885893b7837e681aa73f890b9805a4673e",
+      "time": 1750810407.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44372424"
     },
     {
-      "title": "Jane Street Boss Says He Was Duped into Funding AK-47s for Coup",
-      "score": 35,
-      "url": "https://www.bloomberg.com/news/articles/2025-06-25/jane-street-s-rob-granieri-says-he-was-duped-into-funding-south-sudan-coup-plot",
-      "time": 1750849132.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44375822"
+      "title": "NSF getting kicked out of headquarters by HUD",
+      "score": 38,
+      "url": "https://www.bloomberg.com/news/articles/2025-06-25/hud-plans-to-move-operations-from-washington-to-virginia",
+      "time": 1750860276.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44377489"
     },
     {
-      "title": "Web Translator API",
-      "score": 28,
-      "url": "https://developer.mozilla.org/en-US/docs/Web/API/Translator",
-      "time": 1750838571.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44374748"
+      "title": "Foreign Scammers Use U.S. Banks to Fleece Americans",
+      "score": 43,
+      "url": "https://www.propublica.org/article/pig-butchering-scam-cybercrime-us-banks-money-laundering",
+      "time": 1750858172.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44377104"
     },
     {
-      "title": "ChatGPT's enterprise success against Copilot fuels OpenAI/Microsoft rivalry",
-      "score": 249,
-      "url": "https://www.bloomberg.com/news/articles/2025-06-24/chatgpt-vs-copilot-inside-the-openai-and-microsoft-rivalry",
-      "time": 1750780922.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44367638"
+      "title": "Show HN: Scream to Unlock – Blocks social media until you scream “I'm a loser”",
+      "score": 106,
+      "url": "https://news.ycombinator.com/item?id=44375761",
+      "time": 1750848596.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44375761"
+    },
+    {
+      "title": "Framework Laptop 12 press reviews are live and Framework Laptop 13 in-stock",
+      "score": 22,
+      "url": "https://frame.work/blog/framework-laptop-12-press-reviews-are-live-and-framework-laptop-13-in-stock",
+      "time": 1750861060.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44377625"
+    },
+    {
+      "title": "Fun with uv and PEP 723",
+      "score": 548,
+      "url": "https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723",
+      "time": 1750790486.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44369388"
     },
     {
       "title": "Bill Atkinson: Polaroids Showing the Evolution of the Lisa GUI [video]",
-      "score": 29,
+      "score": 61,
       "url": "https://www.youtube.com/watch?v=Qg0mHFcB510",
       "time": 1750518780.0,
       "comments_url": "https://news.ycombinator.com/item?id=44338182"
-    },
-    {
-      "title": "Thoughts on Asunción, Paraguay",
-      "score": 43,
-      "url": "https://cpsi.media/p/thoughts-on-asuncion-paraguay",
-      "time": 1750664707.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44353383"
-    },
-    {
-      "title": "Authors hit by bad reviews on Goodreads before review copies are even circulated",
-      "score": 12,
-      "url": "https://www.thebookseller.com/news/authors-hit-by-bad-reviews-on-goodreads-before-review-copies-are-even-circulated",
-      "time": 1750851348.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44376082"
-    },
-    {
-      "title": "PlasticList – Plastic Levels in Foods",
-      "score": 404,
-      "url": "https://www.plasticlist.org/",
-      "time": 1750774691.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44366548"
-    },
-    {
-      "title": "Managing time when time doesn't exist",
-      "score": 116,
-      "url": "https://multiverseemployeehandbook.com/blog/temporal-resources-managing-time-when-time-doesnt-exist/",
-      "time": 1750811292.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44372528"
-    },
-    {
-      "title": "The Fairphone (Gen. 6)",
-      "score": 77,
-      "url": "https://shop.fairphone.com/the-fairphone-gen-6",
-      "time": 1750845528.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44375451"
-    },
-    {
-      "title": "Finding a 27-year-old easter egg in the Power Mac G3 ROM",
-      "score": 371,
-      "url": "https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/",
-      "time": 1750770405.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44365806"
-    },
-    {
-      "title": "XBOW, an autonomous penetration tester, has reached the top spot on HackerOne",
-      "score": 246,
-      "url": "https://xbow.com/blog/top-1-how-xbow-did-it/",
-      "time": 1750780392.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44367548"
     }
   ]
 }
