@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-06-26T11:13:03.023104-04:00",
+  "last_updated": "2025-06-26T14:17:08.840724-04:00",
   "stories": [
     {
-      "title": "Launch HN: Issen (YC F24) – personal AI language tutor",
-      "score": 13,
+      "title": "Launch HN: Issen (YC F24) – Personal AI language tutor",
+      "score": 134,
       "url": "https://news.ycombinator.com/item?id=44387828",
       "time": 1750948348.0,
       "comments_url": "https://news.ycombinator.com/item?id=44387828"
     },
     {
-      "title": "Gemini CLI",
-      "score": 1319,
-      "url": "https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/",
-      "time": 1750857046.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44376919"
+      "title": "Google DeepMind Releases AlphaGenome",
+      "score": 131,
+      "url": "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/",
+      "time": 1750947360.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44387659"
     },
     {
-      "title": "Muvera: Making multi-vector retrieval as fast as single-vector search",
-      "score": 36,
-      "url": "https://research.google/blog/muvera-making-multi-vector-retrieval-as-fast-as-single-vector-search/",
-      "time": 1750933774.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44385981"
+      "title": "A Review of Aerospike Nozzles: Current Trends in Aerospace Applications",
+      "score": 35,
+      "url": "https://www.mdpi.com/2226-4310/12/6/519",
+      "time": 1750951990.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44388395"
+    },
+    {
+      "title": "Introducing Gemma 3n",
+      "score": 97,
+      "url": "https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/",
+      "time": 1750957423.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44389202"
+    },
+    {
+      "title": "Show HN: I built an AI dataset generator",
+      "score": 69,
+      "url": "https://github.com/metabase/dataset-generator",
+      "time": 1750949912.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44388093"
+    },
+    {
+      "title": "Some bits on malloc(0) in C being allowed to return NULL",
+      "score": 22,
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/CZeroSizeMallocSomeNotes",
+      "time": 1750832111.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44374114"
+    },
+    {
+      "title": "FLUX.1 Kontext [Dev] – Open Weights for Image Editing",
+      "score": 72,
+      "url": "https://bfl.ai/announcements/flux-1-kontext-dev",
+      "time": 1750951918.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44388387"
+    },
+    {
+      "title": "Access BMC UART on Supermicro X11SSH",
+      "score": 35,
+      "url": "https://github.com/zarhus/zarhusbmc/discussions/3",
+      "time": 1750948800.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44387904"
+    },
+    {
+      "title": "What Happens When Hertz's AI Scanner Finds Damage on Your Rental",
+      "score": 27,
+      "url": "https://www.thedrive.com/news/this-is-what-happens-when-hertzs-ai-scanner-finds-damage-on-your-rental",
+      "time": 1750687424.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44355923"
     },
     {
       "title": "A new pyramid-like shape always lands the same side up",
-      "score": 510,
+      "score": 568,
       "url": "https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/",
       "time": 1750881667.0,
       "comments_url": "https://news.ycombinator.com/item?id=44381297"
     },
     {
       "title": "Puerto Rico's Solar Microgrids Beat Blackout",
-      "score": 233,
+      "score": 288,
       "url": "https://spectrum.ieee.org/puerto-rico-solar-microgrids",
       "time": 1750894876.0,
       "comments_url": "https://news.ycombinator.com/item?id=44382834"
     },
     {
-      "title": "RSS Server Side Reader",
-      "score": 15,
-      "url": "https://matklad.github.io/2025/06/26/rssssr.html",
-      "time": 1750939912.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44386637"
+      "title": "Muvera: Making multi-vector retrieval as fast as single-vector search",
+      "score": 63,
+      "url": "https://research.google/blog/muvera-making-multi-vector-retrieval-as-fast-as-single-vector-search/",
+      "time": 1750933774.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44385981"
     },
     {
-      "title": "Learnings from building AI agents",
-      "score": 77,
-      "url": "https://www.cubic.dev/blog/learnings-from-building-ai-agents",
-      "time": 1750941904.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44386887"
-    },
-    {
-      "title": "A new PNG spec",
-      "score": 604,
-      "url": "https://www.programmax.net/articles/png-is-back/",
-      "time": 1750770077.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44365754"
+      "title": "As AI kills search traffic, Google launches Offerwall to boost publisher revenue",
+      "score": 20,
+      "url": "https://techcrunch.com/2025/06/26/as-ai-kills-search-traffic-google-launches-offerwall-to-boost-publisher-revenue/",
+      "time": 1750958386.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44389337"
     },
     {
       "title": "-2000 Lines of code",
-      "score": 433,
+      "score": 478,
       "url": "https://www.folklore.org/Negative_2000_Lines_Of_Code.html",
       "time": 1750881193.0,
       "comments_url": "https://news.ycombinator.com/item?id=44381252"
     },
     {
-      "title": "Snow - Classic Macintosh emulator",
-      "score": 101,
-      "url": "https://snowemu.com/",
-      "time": 1750928880.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44385562"
+      "title": "The Business of Betting on Catastrophe",
+      "score": 28,
+      "url": "https://thereader.mitpress.mit.edu/the-business-of-betting-on-catastrophe/",
+      "time": 1750683866.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44355409"
+    },
+    {
+      "title": "Learnings from building AI agents",
+      "score": 128,
+      "url": "https://www.cubic.dev/blog/learnings-from-building-ai-agents",
+      "time": 1750941904.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44386887"
     },
     {
       "title": "OpenAI charges by the minute, so speed up your audio",
-      "score": 640,
+      "score": 674,
       "url": "https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/",
       "time": 1750857445.0,
       "comments_url": "https://news.ycombinator.com/item?id=44376989"
     },
     {
-      "title": "Real-world performance comparison of ebtree/cebtree/rbtree",
-      "score": 18,
-      "url": "http://wtarreau.blogspot.com/2025/06/real-world-performance-comparison-of.html",
-      "time": 1750724871.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44361633"
+      "title": "Snow - Classic Macintosh emulator",
+      "score": 142,
+      "url": "https://snowemu.com/",
+      "time": 1750928880.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44385562"
     },
     {
       "title": "Ambient Garden",
-      "score": 164,
+      "score": 215,
       "url": "https://ambient.garden",
       "time": 1750700288.0,
       "comments_url": "https://news.ycombinator.com/item?id=44358148"
     },
     {
-      "title": "Better Auth, by a self-taught Ethiopian dev, raises $5M from Peak XV, YC",
-      "score": 188,
-      "url": "https://techcrunch.com/2025/06/25/this-self-taught-ethiopian-dev-built-an-authentication-tool-and-got-into-yc/",
-      "time": 1750874822.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44380185"
-    },
-    {
       "title": "Modeling the World in 280 Characters",
-      "score": 56,
+      "score": 79,
       "url": "https://tympanus.net/codrops/2025/06/23/modeling-the-world-in-280-characters/",
       "time": 1750672930.0,
       "comments_url": "https://news.ycombinator.com/item?id=44354032"
-    },
-    {
-      "title": "Writing a basic Linux device driver when you know nothing about Linux drivers",
-      "score": 337,
-      "url": "https://crescentro.se/posts/writing-drivers/",
-      "time": 1750588182.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44345681"
-    },
-    {
-      "title": "Apptainer: Application Containers for Linux",
-      "score": 83,
-      "url": "https://apptainer.org/",
-      "time": 1750931121.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44385742"
-    },
-    {
-      "title": "AccessOwl (YC S22) is hiring an Elixir Engineer to connect 100s of SaaS",
-      "score": 1,
-      "url": "https://www.ycombinator.com/companies/accessowl/jobs/1shGwy2-senior-software-engineer-elixir-focus",
-      "time": 1750921243.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44384913"
-    },
-    {
-      "title": "Structured Output with LangChain and Llamafile",
-      "score": 16,
-      "url": "https://blog.brakmic.com/structured-output-with-langchain-and-llamafile/",
-      "time": 1750611670.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44348415"
-    },
-    {
-      "title": "The first non-opoid painkiller",
-      "score": 185,
-      "url": "https://www.worksinprogress.news/p/the-first-non-opioid-painkiller",
-      "time": 1750929413.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44385612"
     }
   ]
 }
