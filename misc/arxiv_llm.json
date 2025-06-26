@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-25T17:11:36.024443-04:00",
+  "last_updated": "2025-06-25T20:59:38.142018-04:00",
   "papers": [
     {
       "title": "JoyAgents-R1: Joint Evolution Dynamics for Versatile Multi-LLM Agents\n  with Reinforcement Learning",
@@ -106,7 +106,7 @@
     {
       "title": "Adaptive Request Scheduling for CodeLLM Serving with SLA Guarantees",
       "summary": "Code Large Language Models (CodeLLMs) are increasingly integrated into modern\nsoftware development workflows, yet efficiently serving them in\nresource-constrained, self-hosted environments remains a significant challenge.\nExisting LLM serving systems employs Continuous Batching for throughput\nimprovement. However, they rely on static batch size configurations that cannot\nadapt to fluctuating request rates or heterogeneous workloads, leading to\nfrequent SLA (Service Level Agreement) violations and unstable performance. In\nthis study, We propose SABER, a dynamic batching strategy that predicts\nper-request SLA feasibility and adjusts decisions in real time. SABER improves\ngoodput by up to 26% over the best static configurations and reduces latency\nvariability by up to 45%, all without manual tuning or service restarts. Our\nresults demonstrate that SLA-aware, adaptive scheduling is key to robust,\nhigh-performance CodeLLM serving.",
-      "url": "http://arxiv.org/abs/2506.19677v1",
+      "url": "http://arxiv.org/abs/2506.19677v2",
       "published_time_eastern_timestamp": 1750776273.0
     },
     {

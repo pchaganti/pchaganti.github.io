@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-25T17:11:38.701523-04:00",
+  "last_updated": "2025-06-25T20:59:40.388074-04:00",
   "papers": [
     {
       "title": "Radial Attention: $O(n\\log n)$ Sparse Attention with Energy Decay for\n  Long Video Generation",
@@ -46,7 +46,7 @@
     {
       "title": "One Prototype Is Enough: Single-Prototype Activation for Interpretable\n  Image Classification",
       "summary": "In this paper, we propose ProtoSolo, a novel deep neural architecture for\ninterpretable image classification inspired by prototypical networks such as\nProtoPNet. Existing prototype networks usually rely on the collaborative\ndecision-making of multiple prototypes to achieve the classification and\ninterpretation of a single category. In contrast, ProtoSolo only requires the\nactivation of a single prototype to complete the classification. This allows\nthe network to explain each category decision by only providing the features\nthat are most similar to the prototype of that category, significantly reducing\nthe cognitive complexity of the explanation. Secondly, we propose a\nfeature-based comparison method, which uses feature map instead of full-channel\nfeature vector as the object of similarity comparison and prototype learning.\nThis design enables ProtoSolo to utilize richer global information for\nclassification while relying on a single prototype activation. In addition, we\npropose a non-prototype projection learning strategy, which preserves the\ninformation association between the prototype and the training image patches\nwhile avoiding the sharp change of the network structure caused by the\nprojection operation, thus avoiding its negative impact on the classification\nperformance. Experiments on the CUB-200-2011 and Stanford Cars datasets show\nthat ProtoSolo achieves superior performance in classification tasks and\nreaches the best level in terms of cognitive complexity of explanations\ncompared to state-of-the-art interpretable methods. The code is available at\nhttps://github.com/pyt19/ProtoSolo.",
-      "url": "http://arxiv.org/abs/2506.19808v1",
+      "url": "http://arxiv.org/abs/2506.19808v2",
       "published_time_eastern_timestamp": 1750785515.0
     },
     {
@@ -88,7 +88,7 @@
     {
       "title": "Optimization Studies of Radiation Shielding for the PIP-II Project at\n  Fermilab",
       "summary": "The PIP-II project at Fermilab, which includes an 800-MeV superconducting\nLINAC, demands rigorous radiation shielding optimization to meet safety\nrequirements. We updated the MARS geometry model to reflect new magnet and\ncollimator designs and introduced high-resolution detector planes to better\ncapture radiation field distributions. To overcome the significant\ncomputational demands, we implemented a well-known branching technique that\ndrastically reduced simulation runtimes while maintaining statistical\nintegrity. This was achieved through particle splitting and the application of\nRussian Roulette techniques. Additionally, new graphical tools were created to\nstreamline data visualization and MARS code usability.",
-      "url": "http://arxiv.org/abs/2506.19763v1",
+      "url": "http://arxiv.org/abs/2506.19763v2",
       "published_time_eastern_timestamp": 1750782225.0
     },
     {

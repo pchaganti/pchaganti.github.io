@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-06-25T17:11:32.145195-04:00",
+  "last_updated": "2025-06-25T20:59:31.578316-04:00",
   "stories": [
     {
+      "title": "QEMU: Define policy forbidding use of AI code generators",
+      "score": 120,
+      "url": "https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048",
+      "time": 1750894015.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44382752"
+    },
+    {
       "title": "A new pyramid-like shape always lands the same side up",
-      "score": 74,
+      "score": 234,
       "url": "https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/",
       "time": 1750881667.0,
       "comments_url": "https://news.ycombinator.com/item?id=44381297"
     },
     {
+      "title": "The Hollow Men of Hims",
+      "score": 59,
+      "url": "https://www.alexkesin.com/p/the-hollow-men-of-hims",
+      "time": 1750892363.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44382582"
+    },
+    {
+      "title": "-2000 Lines of code",
+      "score": 172,
+      "url": "https://www.folklore.org/Negative_2000_Lines_Of_Code.html",
+      "time": 1750881193.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44381252"
+    },
+    {
       "title": "Gemini CLI",
-      "score": 769,
+      "score": 919,
       "url": "https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/",
       "time": 1750857046.0,
       "comments_url": "https://news.ycombinator.com/item?id=44376919"
     },
     {
       "title": "A new PNG spec",
-      "score": 397,
+      "score": 461,
       "url": "https://www.programmax.net/articles/png-is-back/",
       "time": 1750770077.0,
       "comments_url": "https://news.ycombinator.com/item?id=44365754"
     },
     {
       "title": "What Problems to Solve (1966)",
-      "score": 215,
+      "score": 292,
       "url": "http://genius.cat-v.org/richard-feynman/writtings/letters/problems",
       "time": 1750871324.0,
       "comments_url": "https://news.ycombinator.com/item?id=44379606"
     },
     {
-      "title": "Negative Two-Thousand Lines of Code",
-      "score": 40,
-      "url": "https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt",
-      "time": 1750881193.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44381252"
-    },
-    {
-      "title": "Getting ready to issue IP address certificates",
-      "score": 164,
-      "url": "https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777",
-      "time": 1750868505.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44379034"
-    },
-    {
-      "title": "The Offline Club",
-      "score": 22,
-      "url": "https://www.theoffline-club.com",
-      "time": 1750880577.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44381168"
-    },
-    {
-      "title": "Build and Host AI-Powered Apps with Claude – No Deployment Needed",
-      "score": 111,
-      "url": "https://www.anthropic.com/news/claude-powered-artifacts",
-      "time": 1750871675.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44379673"
-    },
-    {
-      "title": "OpenAI Charges by the Minute, So Make the Minutes Shorter",
-      "score": 345,
+      "title": "OpenAI charges by the minute, so speed up your audio",
+      "score": 426,
       "url": "https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/",
       "time": 1750857445.0,
       "comments_url": "https://news.ycombinator.com/item?id=44376989"
     },
     {
-      "title": "LM Studio is now an MCP Host",
-      "score": 103,
-      "url": "https://lmstudio.ai/blog/lmstudio-v0.3.17",
-      "time": 1750872455.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44379792"
+      "title": "The Offline Club",
+      "score": 71,
+      "url": "https://www.theoffline-club.com",
+      "time": 1750880577.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44381168"
+    },
+    {
+      "title": "Getting ready to issue IP address certificates",
+      "score": 207,
+      "url": "https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777",
+      "time": 1750868505.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44379034"
+    },
+    {
+      "title": "Build and Host AI-Powered Apps with Claude – No Deployment Needed",
+      "score": 160,
+      "url": "https://www.anthropic.com/news/claude-powered-artifacts",
+      "time": 1750871675.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44379673"
     },
     {
       "title": "Writing a basic Linux device driver when you know nothing about Linux drivers",
-      "score": 80,
+      "score": 155,
       "url": "https://crescentro.se/posts/writing-drivers/",
       "time": 1750588182.0,
       "comments_url": "https://news.ycombinator.com/item?id=44345681"
     },
     {
+      "title": "LM Studio is now an MCP Host",
+      "score": 143,
+      "url": "https://lmstudio.ai/blog/lmstudio-v0.3.17",
+      "time": 1750872455.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44379792"
+    },
+    {
+      "title": "Libxml2's \"no security embargoes\" policy",
+      "score": 115,
+      "url": "https://lwn.net/SubscriberLink/1025971/73f269ad3695186d/",
+      "time": 1750880215.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44381093"
+    },
+    {
+      "title": "Better Auth, by a self-taught Ethiopian dev, raises $5M from Peak XV, YC",
+      "score": 46,
+      "url": "https://techcrunch.com/2025/06/25/this-self-taught-ethiopian-dev-built-an-authentication-tool-and-got-into-yc/",
+      "time": 1750874822.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44380185"
+    },
+    {
+      "title": "Ambient Garden",
+      "score": 18,
+      "url": "https://ambient.garden",
+      "time": 1750700288.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44358148"
+    },
+    {
       "title": "Iroh: A library to establish direct connection between peers",
-      "score": 97,
+      "score": 137,
       "url": "https://github.com/n0-computer/iroh",
       "time": 1750869291.0,
       "comments_url": "https://news.ycombinator.com/item?id=44379173"
     },
     {
-      "title": "Coccinelle for Rust Progress Report",
-      "score": 12,
-      "url": "https://www.collabora.com/news-and-blog/blog/2025/06/25/coccinelle-for-rust-progress-report/",
-      "time": 1750879223.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44380955"
+      "title": "Earths largest camera:3B pixel images",
+      "score": 4,
+      "url": "https://www.nytimes.com/interactive/2025/06/19/science/rubin-observatory-camera.html",
+      "time": 1750604039.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44347399"
     },
     {
-      "title": "FurtherAI (YC W24) Is Hiring for Software and AI Roles",
-      "score": 1,
-      "url": "https://www.ycombinator.com/companies/furtherai/jobs",
-      "time": 1750870841.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44379509"
+      "title": "CUDA Ray Tracing 2x Faster Than RTX: My CUDA Ray Tracing Journey",
+      "score": 24,
+      "url": "https://karimsayedre.github.io/RTIOW.html",
+      "time": 1750887758.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44382073"
     },
     {
-      "title": "LLM Hallucinations in Practical Code Generation",
-      "score": 15,
-      "url": "https://dl.acm.org/doi/10.1145/3728894",
-      "time": 1750662849.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44353241"
-    },
-    {
-      "title": "Microsoft Dependency Has Risks",
-      "score": 10,
-      "url": "https://blog.miloslavhomer.cz/p/microsoft-dependency-has-risks",
-      "time": 1750882106.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44381358"
-    },
-    {
-      "title": "Bot or human? Creating an invisible Turing test for the internet",
-      "score": 75,
-      "url": "https://research.roundtable.ai/proof-of-human/",
-      "time": 1750863600.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44378127"
-    },
-    {
-      "title": "Web Embeddable Common Lisp",
-      "score": 83,
-      "url": "https://turtleware.eu/static/paste/wecl-test-gl/main.html",
-      "time": 1750865600.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44378486"
-    },
-    {
-      "title": "Building a Monostable Tetrahedron",
-      "score": 8,
-      "url": "https://arxiv.org/abs/2506.19244",
-      "time": 1750881638.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44381292"
-    },
-    {
-      "title": "DeepSpeech Is Discontinued (2020)",
-      "score": 33,
-      "url": "https://github.com/mozilla/DeepSpeech",
-      "time": 1750871745.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44379688"
+      "title": "Deep Research as a Swim Coach",
+      "score": 18,
+      "url": "https://suthakamal.substack.com/p/swimming-with-an-ai-coach",
+      "time": 1750682494.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44355198"
     }
   ]
 }
