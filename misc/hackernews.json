@@ -1,75 +1,117 @@
 {
-  "last_updated": "2025-06-26T17:11:21.007965-04:00",
+  "last_updated": "2025-06-26T21:00:06.971451-04:00",
   "stories": [
     {
-      "title": "AI Is Dehumanization Technology",
-      "score": 122,
-      "url": "https://thedabbler.patatas.ca/pages/ai-is-dehumanization-technology.html",
-      "time": 1750966895.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44390576"
-    },
-    {
-      "title": "Launch HN: Issen (YC F24) – Personal AI language tutor",
-      "score": 195,
-      "url": "https://news.ycombinator.com/item?id=44387828",
-      "time": 1750948348.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44387828"
-    },
-    {
-      "title": "Google DeepMind Releases AlphaGenome",
-      "score": 252,
+      "title": "AlphaGenome: AI for better understanding the genome",
+      "score": 353,
       "url": "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/",
       "time": 1750947360.0,
       "comments_url": "https://news.ycombinator.com/item?id=44387659"
     },
     {
-      "title": "Robots That Learn – OpenAI",
-      "score": 14,
+      "title": "Launch HN: Issen (YC F24) – Personal AI language tutor",
+      "score": 219,
+      "url": "https://news.ycombinator.com/item?id=44387828",
+      "time": 1750948348.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44387828"
+    },
+    {
+      "title": "Alternative Layout System",
+      "score": 101,
+      "url": "https://alternativelayoutsystem.com/scripts/#same-sizer",
+      "time": 1750966289.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44390501"
+    },
+    {
+      "title": "Kea 3.0, our first LTS version",
+      "score": 45,
+      "url": "https://www.isc.org/blogs/kea-3-0/",
+      "time": 1750969593.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44390962"
+    },
+    {
+      "title": "How much slower is random access, really?",
+      "score": 35,
+      "url": "https://samestep.com/blog/random-access/",
+      "time": 1750690171.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44356385"
+    },
+    {
+      "title": "The time is right for a DOM templating API",
+      "score": 72,
+      "url": "https://justinfagnani.com/2025/06/26/the-time-is-right-for-a-dom-templating-api/",
+      "time": 1750965808.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44390452"
+    },
+    {
+      "title": "Show HN: Magnitude – Open-source AI browser automation framework",
+      "score": 44,
+      "url": "https://github.com/magnitudedev/magnitude",
+      "time": 1750962656.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44390005"
+    },
+    {
+      "title": "Matrix v1.15",
+      "score": 111,
+      "url": "https://matrix.org/blog/2025/06/26/matrix-v1.15-release/",
+      "time": 1750968088.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44390740"
+    },
+    {
+      "title": "Snow - Classic Macintosh emulator",
+      "score": 195,
+      "url": "https://snowemu.com/",
+      "time": 1750928880.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44385562"
+    },
+    {
+      "title": "Fault Tolerant Llama training – PyTorch blog",
+      "score": 12,
+      "url": "https://pytorch.org/blog/fault-tolerant-llama-training-with-2000-synthetic-failures-every-15-seconds-and-no-checkpoints-on-crusoe-l40s/",
+      "time": 1750671002.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44353868"
+    },
+    {
+      "title": "A Review of Aerospike Nozzles: Current Trends in Aerospace Applications",
+      "score": 62,
+      "url": "https://www.mdpi.com/2226-4310/12/6/519",
+      "time": 1750951990.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44388395"
+    },
+    {
+      "title": "Introducing Gemma 3n",
+      "score": 274,
+      "url": "https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/",
+      "time": 1750957423.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44389202"
+    },
+    {
+      "title": "A new pyramid-like shape always lands the same side up",
+      "score": 616,
+      "url": "https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/",
+      "time": 1750881667.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44381297"
+    },
+    {
+      "title": "Robots that learn",
+      "score": 82,
       "url": "https://openai.com/index/robots-that-learn/",
       "time": 1750969374.0,
       "comments_url": "https://news.ycombinator.com/item?id=44390915"
     },
     {
-      "title": "US economy shrank 0.5% in the first quarter, worse than earlier estimates",
-      "score": 155,
-      "url": "https://apnews.com/article/economy-tariffs-trump-gdp-shrink-86d1f15e66c646ac4ce88ffc0a956942",
-      "time": 1750965820.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44390454"
+      "title": "Puerto Rico's Solar Microgrids Beat Blackout",
+      "score": 342,
+      "url": "https://spectrum.ieee.org/puerto-rico-solar-microgrids",
+      "time": 1750894876.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44382834"
     },
     {
-      "title": "Memory Safety Is Merely Table Stakes",
-      "score": 24,
-      "url": "https://www.usenix.org/publications/loginonline/memory-safety-merely-table-stakes",
-      "time": 1750966571.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44390527"
-    },
-    {
-      "title": "\"Why is the Rust compiler so slow?\"",
-      "score": 67,
-      "url": "https://sharnoff.io/blog/why-rust-compiler-slow",
-      "time": 1750966172.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44390488"
-    },
-    {
-      "title": "Starcloud says 1 launch, $8M but ISS tech says 17 launches, $850M+",
-      "score": 10,
-      "url": "https://angadh.com/space-data-centers-1",
-      "time": 1750968388.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44390781"
-    },
-    {
-      "title": "A.I. Is Homogenizing Our Thoughts",
-      "score": 4,
-      "url": "https://www.newyorker.com/culture/infinite-scroll/ai-is-homogenizing-our-thoughts",
-      "time": 1750971242.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44391247"
-    },
-    {
-      "title": "A Review of Aerospike Nozzles: Current Trends in Aerospace Applications",
-      "score": 54,
-      "url": "https://www.mdpi.com/2226-4310/12/6/519",
-      "time": 1750951990.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44388395"
+      "title": "Shifts in diatom and dinoflagellate biomass in the North Atlantic over 6 decades",
+      "score": 42,
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323675",
+      "time": 1750959364.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44389497"
     },
     {
       "title": "SigNoz (YC W21, Open Source Datadog) Is Hiring DevRel Engineers (Remote)(US)",
@@ -79,67 +121,25 @@
       "comments_url": "https://news.ycombinator.com/item?id=44390113"
     },
     {
-      "title": "Matrix v1.15 Release",
-      "score": 41,
-      "url": "https://matrix.org/blog/2025/06/26/matrix-v1.15-release/",
-      "time": 1750968088.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44390740"
-    },
-    {
-      "title": "Introducing Gemma 3n",
-      "score": 206,
-      "url": "https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/",
-      "time": 1750957423.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44389202"
-    },
-    {
       "title": "Show HN: I built an AI dataset generator",
-      "score": 95,
+      "score": 116,
       "url": "https://github.com/metabase/dataset-generator",
       "time": 1750949912.0,
       "comments_url": "https://news.ycombinator.com/item?id=44388093"
     },
     {
-      "title": "The time is right for a DOM templating API",
-      "score": 12,
-      "url": "https://justinfagnani.com/2025/06/26/the-time-is-right-for-a-dom-templating-api/",
-      "time": 1750965808.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44390452"
+      "title": "Dickinson's Dresses on the Moon",
+      "score": 3,
+      "url": "https://www.theparisreview.org/blog/2025/06/20/dickinsons-dresses-on-the-moon/",
+      "time": 1750684543.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44355518"
     },
     {
       "title": "Typr – TUI typing test with a word selection algorithm inspired by keybr",
-      "score": 25,
+      "score": 35,
       "url": "https://github.com/Sakura-sx/typr",
       "time": 1750667223.0,
       "comments_url": "https://news.ycombinator.com/item?id=44353576"
-    },
-    {
-      "title": "Apple announces sweeping App Store changes in the EU",
-      "score": 38,
-      "url": "https://9to5mac.com/2025/06/26/apple-announces-sweeping-app-store-changes-in-the-eu/",
-      "time": 1750967648.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44390668"
-    },
-    {
-      "title": "Shifts in diatom and dinoflagellate biomass in the North Atlantic over 6 decades",
-      "score": 20,
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0323675",
-      "time": 1750959364.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44389497"
-    },
-    {
-      "title": "A new pyramid-like shape always lands the same side up",
-      "score": 596,
-      "url": "https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/",
-      "time": 1750881667.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44381297"
-    },
-    {
-      "title": "Lateralized sleeping positions in domestic cats",
-      "score": 57,
-      "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(25)00507-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS096098222500507X%3Fshowall%3Dtrue",
-      "time": 1750963127.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44390072"
     }
   ]
 }

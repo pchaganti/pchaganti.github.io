@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-26T17:11:26.232427-04:00",
+  "last_updated": "2025-06-26T21:00:10.267893-04:00",
   "papers": [
     {
       "title": "MMSearch-R1: Incentivizing LMMs to Search",
@@ -69,8 +69,8 @@
     },
     {
       "title": "TAPS: Tool-Augmented Personalisation via Structured Tagging",
-      "summary": "Recent advancements in tool-augmented large language models have enabled them\nto interact with external tools, enhancing their ability to perform complex\nuser tasks. However, existing approaches overlook the role of personalisation\nin guiding tool use. This work investigates how user preferences can be\neffectively integrated into goal-oriented dialogue agents. Through extensive\nanalysis, we identify key weaknesses in the ability of LLMs to personalise tool\nuse. To this end, we introduce \\name, a novel solution that enhances\npersonalised tool use by leveraging a structured tagging tool and an\nuncertainty-based tool detector. TAPS significantly improves the ability of\nLLMs to incorporate user preferences, achieving the new state-of-the-art for\nopen source models on the NLSI task.",
-      "url": "http://arxiv.org/abs/2506.20409v1",
+      "summary": "Recent advancements in tool-augmented large language models have enabled them\nto interact with external tools, enhancing their ability to perform complex\nuser tasks. However, existing approaches overlook the role of personalisation\nin guiding tool use. This work investigates how user preferences can be\neffectively integrated into goal-oriented dialogue agents. Through extensive\nanalysis, we identify key weaknesses in the ability of LLMs to personalise tool\nuse. To this end, we introduce TAPS, a novel solution that enhances\npersonalised tool use by leveraging a structured tagging tool and an\nuncertainty-based tool detector. TAPS significantly improves the ability of\nLLMs to incorporate user preferences, achieving the new state-of-the-art for\nopen source models on the NLSI task.",
+      "url": "http://arxiv.org/abs/2506.20409v2",
       "published_time_eastern_timestamp": 1750857886.0
     },
     {
@@ -88,7 +88,7 @@
     {
       "title": "Finding the Easy Way Through -- the Probabilistic Gap Planner for Social\n  Robot Navigation",
       "summary": "In Social Robot Navigation, autonomous agents need to resolve many sequential\ninteractions with other agents. State-of-the art planners can efficiently\nresolve the next, imminent interaction cooperatively and do not focus on longer\nplanning horizons. This makes it hard to maneuver scenarios where the agent\nneeds to select a good strategy to find gaps or channels in the crowd. We\npropose to decompose trajectory planning into two separate steps: Conflict\navoidance for finding good, macroscopic trajectories, and cooperative collision\navoidance (CCA) for resolving the next interaction optimally. We propose the\nProbabilistic Gap Planner (PGP) as a conflict avoidance planner. PGP modifies\nan established probabilistic collision risk model to include a general\nassumption of cooperativity. PGP biases the short-term CCA planner to head\ntowards gaps in the crowd. In extensive simulations with crowds of varying\ndensity, we show that using PGP in addition to state-of-the-art CCA planners\nimproves the agents' performance: On average, agents keep more space to others,\ncreate less tension, and cause fewer collisions. This typically comes at the\nexpense of slightly longer paths. PGP runs in real-time on WaPOCHI mobile robot\nby Honda R&D.",
-      "url": "http://arxiv.org/abs/2506.20320v1",
+      "url": "http://arxiv.org/abs/2506.20320v2",
       "published_time_eastern_timestamp": 1750849311.0
     },
     {
