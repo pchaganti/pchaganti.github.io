@@ -1,96 +1,124 @@
 {
-  "last_updated": "2025-06-27T20:58:05.533210-04:00",
+  "last_updated": "2025-06-27T23:39:58.773398-04:00",
   "stories": [
     {
       "title": "Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights",
-      "score": 1001,
+      "score": 1103,
       "url": "https://jameshard.ing/pilot",
       "time": 1751029614.0,
       "comments_url": "https://news.ycombinator.com/item?id=44396518"
     },
     {
       "title": "Normalizing Flows Are Capable Generative Models",
-      "score": 68,
+      "score": 92,
       "url": "https://machinelearning.apple.com/research/normalizing-flows",
       "time": 1751057410.0,
       "comments_url": "https://news.ycombinator.com/item?id=44400105"
     },
     {
-      "title": "Learn OCaml – Exercises",
-      "score": 58,
+      "title": "Learn OCaml",
+      "score": 80,
       "url": "https://ocaml-sf.org/learn-ocaml-public/#activity=exercises",
       "time": 1751056611.0,
       "comments_url": "https://news.ycombinator.com/item?id=44400025"
     },
     {
-      "title": "Structuring Arrays with Algebraic Shapes",
-      "score": 59,
-      "url": "https://dl.acm.org/doi/abs/10.1145/3736112.3736141",
-      "time": 1751054126.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44399757"
-    },
-    {
-      "title": "SymbolicAI: A neuro-symbolic perspective on LLMs",
-      "score": 89,
-      "url": "https://github.com/ExtensityAI/symbolicai",
-      "time": 1751050197.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44399234"
-    },
-    {
-      "title": "James Webb Space Telescope Reveals Its First Direct Image of an Exoplanet",
-      "score": 98,
-      "url": "https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-its-first-direct-image-discovery-of-an-exoplanet-180986886/",
-      "time": 1751046272.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44398756"
-    },
-    {
-      "title": "Qwen VLo: From \"Understanding\" the World to \"Depicting\" It",
-      "score": 161,
-      "url": "https://qwenlm.github.io/blog/qwen-vlo/",
-      "time": 1751034904.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44397124"
-    },
-    {
-      "title": "10 Years of Pomological Watercolors",
-      "score": 168,
-      "url": "https://parkerhiggins.net/2025/04/10-years-of-pomological-watercolors/",
-      "time": 1751035324.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44397168"
-    },
-    {
-      "title": "Reinforcement learning, explained with a minimum of math and jargon",
-      "score": 30,
-      "url": "https://www.understandingai.org/p/reinforcement-learning-explained",
-      "time": 1750775399.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44366670"
-    },
-    {
-      "title": "A Brief History of Children Sent Through the Mail",
-      "score": 78,
+      "title": "A brief history of children sent through the mail (2016)",
+      "score": 86,
       "url": "https://www.smithsonianmag.com/smart-news/brief-history-children-sent-through-mail-180959372/",
       "time": 1751055120.0,
       "comments_url": "https://news.ycombinator.com/item?id=44399854"
     },
     {
+      "title": "C compiler for Web Assembly (c4wa)",
+      "score": 18,
+      "url": "https://github.com/kign/c4wa",
+      "time": 1750780367.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44367539"
+    },
+    {
+      "title": "James Webb Space Telescope reveals its first direct image of an exoplanet",
+      "score": 140,
+      "url": "https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-its-first-direct-image-discovery-of-an-exoplanet-180986886/",
+      "time": 1751046272.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44398756"
+    },
+    {
+      "title": "SymbolicAI: A neuro-symbolic perspective on LLMs",
+      "score": 124,
+      "url": "https://github.com/ExtensityAI/symbolicai",
+      "time": 1751050197.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44399234"
+    },
+    {
+      "title": "Reinforcement learning, explained with a minimum of math and jargon",
+      "score": 61,
+      "url": "https://www.understandingai.org/p/reinforcement-learning-explained",
+      "time": 1750775399.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44366670"
+    },
+    {
+      "title": "Qwen VLo: From \"Understanding\" the World to \"Depicting\" It",
+      "score": 173,
+      "url": "https://qwenlm.github.io/blog/qwen-vlo/",
+      "time": 1751034904.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44397124"
+    },
+    {
+      "title": "Facebook is starting to feed its AI with private, unpublished photos",
+      "score": 94,
+      "url": "https://www.theverge.com/meta/694685/meta-ai-camera-roll",
+      "time": 1751069308.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44401406"
+    },
+    {
+      "title": "Structuring Arrays with Algebraic Shapes",
+      "score": 67,
+      "url": "https://dl.acm.org/doi/abs/10.1145/3736112.3736141",
+      "time": 1751054126.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44399757"
+    },
+    {
+      "title": "Weird Expressions in Rust",
+      "score": 145,
+      "url": "https://www.wakunguma.com/blog/rust-weird-expr",
+      "time": 1751036906.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44397367"
+    },
+    {
+      "title": "Multi-Stage Programming with Splice Variables",
+      "score": 17,
+      "url": "https://tsung-ju.org/icfp25/",
+      "time": 1751067903.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44401303"
+    },
+    {
+      "title": "10 Years of Pomological Watercolors",
+      "score": 173,
+      "url": "https://parkerhiggins.net/2025/04/10-years-of-pomological-watercolors/",
+      "time": 1751035324.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44397168"
+    },
+    {
       "title": "nimbme – Nim bare-metal environment",
-      "score": 41,
+      "score": 47,
       "url": "https://github.com/mikra01/nimbme",
       "time": 1751049905.0,
       "comments_url": "https://news.ycombinator.com/item?id=44399193"
     },
     {
       "title": "Transmitting data via ultrasound without any special equipment",
-      "score": 86,
+      "score": 99,
       "url": "https://halcy.de/blog/2025/06/27/transmitting-data-via-ultrasound-without-any-special-equipment/",
       "time": 1751043737.0,
       "comments_url": "https://news.ycombinator.com/item?id=44398390"
     },
     {
-      "title": "Rust in the Linux kernel: part 2",
-      "score": 45,
-      "url": "https://lwn.net/SubscriberLink/1025232/fbb2d90d084368e3/",
-      "time": 1751062023.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44400697"
+      "title": "bootc-image-builder: Build your entire OS from a Containerfile",
+      "score": 35,
+      "url": "https://github.com/osbuild/bootc-image-builder",
+      "time": 1750777267.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44367004"
     },
     {
       "title": "Spark AI (YC W24) is hiring a full-stack engineer in SF (founding team)",
@@ -100,46 +128,18 @@
       "comments_url": "https://news.ycombinator.com/item?id=44400190"
     },
     {
-      "title": "bootc-image-builder: Build your entire OS from a Containerfile",
-      "score": 21,
-      "url": "https://github.com/osbuild/bootc-image-builder",
-      "time": 1750777267.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44367004"
-    },
-    {
-      "title": "Multi-Stage Programming with Splice Variables",
-      "score": 3,
-      "url": "https://tsung-ju.org/icfp25/",
-      "time": 1751067903.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44401303"
-    },
-    {
       "title": "Theoretical Analysis of Positional Encodings in Transformer Models",
-      "score": 6,
+      "score": 19,
       "url": "https://arxiv.org/abs/2506.06398",
       "time": 1751062031.0,
       "comments_url": "https://news.ycombinator.com/item?id=44400698"
     },
     {
-      "title": "The Journey of Bypassing Ubuntu's Unprivileged Namespace Restriction",
-      "score": 10,
-      "url": "https://u1f383.github.io/linux/2025/06/26/the-journey-of-bypassing-ubuntus-unprivileged-namespace-restriction.html",
-      "time": 1751060016.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44400440"
-    },
-    {
-      "title": "Show HN: Do you know RGB?",
-      "score": 57,
-      "url": "https://maxwellito.github.io/do-you-know-rgb/",
-      "time": 1750753189.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44363948"
-    },
-    {
-      "title": "Slightly better named character reference tokenization than Chrome, Safari, FF",
-      "score": 41,
-      "url": "https://www.ryanliptak.com/blog/better-named-character-reference-tokenization/",
-      "time": 1750984046.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44392776"
+      "title": "New Process Uses Microbes to Create Valuable Materials from Urine",
+      "score": 27,
+      "url": "https://newscenter.lbl.gov/2025/06/17/new-process-uses-microbes-to-create-valuable-materials-from-urine/",
+      "time": 1751049821.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44399186"
     }
   ]
 }
