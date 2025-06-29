@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-06-29T14:15:05.362838-04:00",
+  "last_updated": "2025-06-29T17:10:30.698364-04:00",
   "stories": [
     {
-      "title": "Personal care products disrupt the human oxidation field",
-      "score": 65,
-      "url": "https://www.science.org/doi/10.1126/sciadv.ads7908",
-      "time": 1751217616.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44414719"
-    },
-    {
       "title": "I made my VM think it has a CPU fan",
-      "score": 246,
+      "score": 336,
       "url": "https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html",
       "time": 1751205318.0,
       "comments_url": "https://news.ycombinator.com/item?id=44413185"
     },
     {
+      "title": "Error handling in Rust",
+      "score": 19,
+      "url": "https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html",
+      "time": 1751228905.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44416157"
+    },
+    {
+      "title": "Personal care products disrupt the human oxidation field",
+      "score": 153,
+      "url": "https://www.science.org/doi/10.1126/sciadv.ads7908",
+      "time": 1751217616.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44414719"
+    },
+    {
+      "title": "4-10x faster in-process pub/sub for Go",
+      "score": 75,
+      "url": "https://github.com/kelindar/event",
+      "time": 1751210359.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44413809"
+    },
+    {
       "title": "Show HN: Octelium – FOSS Alternative to Teleport, Cloudflare, Tailscale, Ngrok",
-      "score": 177,
+      "score": 235,
       "url": "https://github.com/octelium/octelium",
       "time": 1751196257.0,
       "comments_url": "https://news.ycombinator.com/item?id=44412207"
     },
     {
+      "title": "Most ints are not floats",
+      "score": 26,
+      "url": "https://www.johndcook.com/blog/2025/06/27/most-ints-are-not-floats/",
+      "time": 1751039865.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44397809"
+    },
+    {
       "title": "Bloom Filters by Example",
-      "score": 108,
+      "score": 151,
       "url": "https://llimllib.github.io/bloomfilter-tutorial/",
       "time": 1751198169.0,
       "comments_url": "https://news.ycombinator.com/item?id=44412370"
     },
     {
       "title": "Using the Internet without IPv4 connectivity",
-      "score": 216,
+      "score": 239,
       "url": "https://jamesmcm.github.io/blog/no-ipv4/",
       "time": 1751185420.0,
       "comments_url": "https://news.ycombinator.com/item?id=44411273"
     },
     {
-      "title": "Web Numbers",
-      "score": 9,
-      "url": "https://ar.al/2025/06/25/web-numbers/",
-      "time": 1751028899.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44396436"
+      "title": "Many ransomware strains will abort if they detect a Russian keyboard installed",
+      "score": 69,
+      "url": "https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/",
+      "time": 1751221795.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44415233"
     },
     {
       "title": "The Medley Interlisp Project: Reviving a Historical Software System [pdf]",
-      "score": 46,
+      "score": 59,
       "url": "https://interlisp.org/documentation/young-ccece2025.pdf",
       "time": 1751208310.0,
       "comments_url": "https://news.ycombinator.com/item?id=44413574"
     },
     {
-      "title": "4-10x faster in-process pub/sub for Go",
-      "score": 21,
-      "url": "https://github.com/kelindar/event",
-      "time": 1751210359.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44413809"
-    },
-    {
-      "title": "Scientists Retrace 30k-Year-Old Sea Voyage, in a Hollowed-Out Log",
-      "score": 25,
-      "url": "https://www.nytimes.com/2025/06/25/science/anthropology-ocean-migration-japan.html",
-      "time": 1750890569.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44382356"
-    },
-    {
-      "title": "The Unsustainability of Moore's Law",
-      "score": 114,
-      "url": "https://bzolang.blog/p/the-unsustainability-of-moores-law",
-      "time": 1751180823.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44410900"
-    },
-    {
-      "title": "More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad",
-      "score": 639,
-      "url": "https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad",
-      "time": 1751183156.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44411069"
-    },
-    {
-      "title": "MCP: An (Accidentally) Universal Plugin System",
-      "score": 715,
-      "url": "https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin",
-      "time": 1751120530.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44404905"
-    },
-    {
-      "title": "Brad Woods Digital Garden",
-      "score": 18,
-      "url": "https://garden.bradwoods.io",
-      "time": 1751002045.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44393920"
-    },
-    {
       "title": "Loss of key US satellite data could send hurricane forecasting back 'decades'",
-      "score": 8,
+      "score": 133,
       "url": "https://www.theguardian.com/us-news/2025/jun/28/noaa-cuts-hurricane-forecasting-climate",
       "time": 1751218748.0,
       "comments_url": "https://news.ycombinator.com/item?id=44414853"
     },
     {
-      "title": "Solving `Passport Application` with Haskell",
-      "score": 260,
-      "url": "https://jameshaydon.github.io/passport/",
-      "time": 1751151675.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44408872"
+      "title": "Why Go Rocks for Building a Lua Interpreter",
+      "score": 42,
+      "url": "https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/",
+      "time": 1750915681.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44384425"
     },
     {
-      "title": "Implementing fast TCP fingerprinting with eBPF",
-      "score": 44,
-      "url": "https://halb.it/posts/ebpf-fingerprinting-1/",
-      "time": 1751194766.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44412080"
+      "title": "Show HN: A tool to benchmark LLM APIs (OpenAI, Claude, local/self-hosted)",
+      "score": 19,
+      "url": "https://llmapitest.com/",
+      "time": 1751211237.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44413921"
     },
     {
-      "title": "Sequence and first differences together list all positive numbers exactly once",
-      "score": 58,
-      "url": "https://oeis.org/A005228",
-      "time": 1750841952.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44375075"
+      "title": "The Unsustainability of Moore's Law",
+      "score": 123,
+      "url": "https://bzolang.blog/p/the-unsustainability-of-moores-law",
+      "time": 1751180823.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44410900"
     },
     {
-      "title": "The Death of the Middle-Class Musician",
-      "score": 235,
-      "url": "https://thewalrus.ca/the-death-of-the-middle-class-musician/",
-      "time": 1751148391.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44408552"
+      "title": "Tools I love: mise(-en-place)",
+      "score": 103,
+      "url": "https://blog.vbang.dk/2025/06/29/tools-i-love-mise/",
+      "time": 1751219781.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44414987"
+    },
+    {
+      "title": "More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad",
+      "score": 732,
+      "url": "https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad",
+      "time": 1751183156.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44411069"
+    },
+    {
+      "title": "Show HN: Summle – A little maths Game",
+      "score": 8,
+      "url": "https://summle.net",
+      "time": 1750935518.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44386132"
     },
     {
       "title": "America's Coming Smoke Epidemic",
-      "score": 10,
+      "score": 58,
       "url": "https://www.theatlantic.com/science/archive/2025/06/wildfire-smoke-epidemic/683343/",
       "time": 1751217483.0,
       "comments_url": "https://news.ycombinator.com/item?id=44414700"
     },
     {
-      "title": "Show HN: A tool to benchmark LLM APIs (OpenAI, Claude, local/self-hosted)",
-      "score": 3,
-      "url": "https://llmapitest.com/",
-      "time": 1751211237.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44413921"
+      "title": "Brad Woods Digital Garden",
+      "score": 41,
+      "url": "https://garden.bradwoods.io",
+      "time": 1751002045.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44393920"
+    },
+    {
+      "title": "Solving `Passport Application` with Haskell",
+      "score": 278,
+      "url": "https://jameshaydon.github.io/passport/",
+      "time": 1751151675.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44408872"
     }
   ]
 }
