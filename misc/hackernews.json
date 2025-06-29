@@ -1,142 +1,142 @@
 {
-  "last_updated": "2025-06-29T08:21:18.195651-04:00",
+  "last_updated": "2025-06-29T11:10:51.814980-04:00",
   "stories": [
     {
-      "title": "Using the internet without IPv4 connectivity",
-      "score": 111,
+      "title": "I made my VM think it has a CPU fan",
+      "score": 84,
+      "url": "https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html",
+      "time": 1751205318.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44413185"
+    },
+    {
+      "title": "Show HN: Octelium – FOSS Alternative to Teleport, Cloudflare, Tailscale, Ngrok",
+      "score": 95,
+      "url": "https://github.com/octelium/octelium",
+      "time": 1751196257.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44412207"
+    },
+    {
+      "title": "Using the Internet without IPv4 connectivity",
+      "score": 174,
       "url": "https://jamesmcm.github.io/blog/no-ipv4/",
       "time": 1751185420.0,
       "comments_url": "https://news.ycombinator.com/item?id=44411273"
     },
     {
-      "title": "Did lead poisoning create a generation of serial killers?",
-      "score": 48,
-      "url": "https://www.newyorker.com/books/under-review/did-lead-poisoning-create-a-generation-of-serial-killers",
-      "time": 1751189337.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44411577"
+      "title": "Bloom Filters by Example",
+      "score": 52,
+      "url": "https://llimllib.github.io/bloomfilter-tutorial/",
+      "time": 1751198169.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44412370"
     },
     {
       "title": "The Unsustainability of Moore's Law",
-      "score": 60,
+      "score": 89,
       "url": "https://bzolang.blog/p/the-unsustainability-of-moores-law",
       "time": 1751180823.0,
       "comments_url": "https://news.ycombinator.com/item?id=44410900"
     },
     {
-      "title": "A Framework for Recognizing Emergent Consciousness in AI",
-      "score": 7,
-      "url": "https://habr.com/en/articles/922894/",
-      "time": 1751197470.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44412308"
-    },
-    {
-      "title": "JavaScript Trademark Update",
-      "score": 784,
-      "url": "https://deno.com/blog/deno-v-oracle4",
-      "time": 1751136720.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44407139"
+      "title": "Performance Debugging with LLVM-mca: Simulating the CPU",
+      "score": 10,
+      "url": "https://johnnysswlab.com/performance-debugging-with-llvm-mca-simulating-the-cpu/",
+      "time": 1751204469.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44413083"
     },
     {
       "title": "More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad",
-      "score": 222,
+      "score": 433,
       "url": "https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad",
       "time": 1751183156.0,
       "comments_url": "https://news.ycombinator.com/item?id=44411069"
     },
     {
-      "title": "Sequence and first differences together list all positive numbers exactly once",
-      "score": 33,
-      "url": "https://oeis.org/A005228",
-      "time": 1750841952.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44375075"
-    },
-    {
-      "title": "Abusing copyright strings to trick SW into thinking it's running competitor's PC",
-      "score": 38,
-      "url": "https://devblogs.microsoft.com/oldnewthing/20250624-00/?p=111299",
-      "time": 1750897093.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44383050"
-    },
-    {
-      "title": "Bulgaria to Adopt the Euro",
-      "score": 31,
-      "url": "https://www.euronews.com/business/2025/06/05/bulgaria-to-adopt-the-euro-how-do-countries-join-the-eurozone",
-      "time": 1751195471.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44412143"
-    },
-    {
       "title": "MCP: An (Accidentally) Universal Plugin System",
-      "score": 639,
+      "score": 674,
       "url": "https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin",
       "time": 1751120530.0,
       "comments_url": "https://news.ycombinator.com/item?id=44404905"
     },
     {
+      "title": "Sequence and first differences together list all positive numbers exactly once",
+      "score": 45,
+      "url": "https://oeis.org/A005228",
+      "time": 1750841952.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44375075"
+    },
+    {
       "title": "Solving `Passport Application` with Haskell",
-      "score": 199,
+      "score": 232,
       "url": "https://jameshaydon.github.io/passport/",
       "time": 1751151675.0,
       "comments_url": "https://news.ycombinator.com/item?id=44408872"
     },
     {
       "title": "What UI first distinguished radio buttons from checkboxes with circles/squares?",
-      "score": 22,
+      "score": 42,
       "url": "https://retrocomputing.stackexchange.com/questions/31806/what-ui-first-distinguished-radio-buttons-from-checkboxes-with-circles-and-squar",
       "time": 1750940144.0,
       "comments_url": "https://news.ycombinator.com/item?id=44386670"
     },
     {
-      "title": "Engineered Addictions",
-      "score": 567,
-      "url": "https://masonyarbrough.substack.com/p/engineered-addictions",
-      "time": 1751121943.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44405057"
+      "title": "Show HN: SmartStepper – Multi-Step Form Library with Config-Based Flow",
+      "score": 6,
+      "url": "https://github.com/Miladxsar23/smartstepper",
+      "time": 1751205307.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44413184"
     },
     {
-      "title": "The Perils of 'Design Thinking'",
-      "score": 40,
-      "url": "https://www.theatlantic.com/books/archive/2025/06/invention-of-design-maggie-gram-book-review/683302/",
-      "time": 1750976831.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44392104"
+      "title": "Implementing fast TCP fingerprinting with eBPF",
+      "score": 16,
+      "url": "https://halb.it/posts/ebpf-fingerprinting-1/",
+      "time": 1751194766.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44412080"
     },
     {
       "title": "The Death of the Middle-Class Musician",
-      "score": 164,
+      "score": 196,
       "url": "https://thewalrus.ca/the-death-of-the-middle-class-musician/",
       "time": 1751148391.0,
       "comments_url": "https://news.ycombinator.com/item?id=44408552"
     },
     {
-      "title": "Blackwell: Nvidia's GPU",
-      "score": 91,
-      "url": "https://chipsandcheese.com/p/blackwell-nvidias-massive-gpu",
-      "time": 1751157613.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44409391"
+      "title": "Show HN: A different kind of AI Video generation",
+      "score": 27,
+      "url": "https://news.ycombinator.com/item?id=44383086",
+      "time": 1750897460.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44383086"
     },
     {
       "title": "Improving River Simulation",
-      "score": 30,
+      "score": 45,
       "url": "https://undiscoveredworlds.blogspot.com/2025/04/improving-river-simulation.html",
       "time": 1750891073.0,
       "comments_url": "https://news.ycombinator.com/item?id=44382419"
     },
     {
+      "title": "Scientists Retrace 30k-Year-Old Sea Voyage, in a Hollowed-Out Log",
+      "score": 4,
+      "url": "https://www.nytimes.com/2025/06/25/science/anthropology-ocean-migration-japan.html",
+      "time": 1750890569.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44382356"
+    },
+    {
       "title": "We ran a Unix-like OS on our home-built CPU with a home-built C compiler (2020)",
-      "score": 269,
+      "score": 280,
       "url": "https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/",
       "time": 1751113208.0,
       "comments_url": "https://news.ycombinator.com/item?id=44404164"
     },
     {
-      "title": "BusyBeaver(6) Is Quite Large",
-      "score": 233,
-      "url": "https://scottaaronson.blog/?p=8972",
-      "time": 1751129636.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44406171"
+      "title": "Engineered Addictions",
+      "score": 594,
+      "url": "https://masonyarbrough.substack.com/p/engineered-addictions",
+      "time": 1751121943.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44405057"
     },
     {
       "title": "Schizophrenia is the price we pay for minds poised near the edge of a cliff",
-      "score": 108,
+      "score": 133,
       "url": "https://www.psychiatrymargins.com/p/schizophrenia-is-the-price-we-pay",
       "time": 1751145734.0,
       "comments_url": "https://news.ycombinator.com/item?id=44408286"
