@@ -1,61 +1,96 @@
 {
-  "last_updated": "2025-06-30T14:16:49.416471-04:00",
+  "last_updated": "2025-06-30T17:11:17.550914-04:00",
   "stories": [
     {
-      "title": "I Write Type Safe Generic Data Structures in C",
-      "score": 37,
+      "title": "I write type-safe generic data structures in C",
+      "score": 150,
       "url": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
       "time": 1751302520.0,
       "comments_url": "https://news.ycombinator.com/item?id=44425461"
     },
     {
-      "title": "A CarFax for Used PCs; Hewlett Packard wants to give old laptops new life",
-      "score": 21,
-      "url": "https://spectrum.ieee.org/carmax-used-pcs",
-      "time": 1751301523.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44425253"
+      "title": "Xfinity using WiFi signals in your house to detect motion",
+      "score": 82,
+      "url": "https://www.xfinity.com/support/articles/wifi-motion",
+      "time": 1751310230.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44426726"
     },
     {
-      "title": "Show HN: TokenDagger – A tokenizer faster than OpenAI's Tiktoken",
-      "score": 190,
-      "url": "https://github.com/M4THYOU/TokenDagger",
-      "time": 1751286838.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44422480"
+      "title": "The hidden JTAG in a Qualcomm/Snapdragon device’s USB port",
+      "score": 62,
+      "url": "https://www.linaro.org/blog/hidden-jtag-qualcomm-snapdragon-usb/",
+      "time": 1751308467.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44426428"
     },
     {
-      "title": "There Are No New Ideas in AI Only New Datasets",
-      "score": 63,
+      "title": "There are no new ideas in AI only new datasets",
+      "score": 199,
       "url": "https://blog.jxmo.io/p/there-are-no-new-ideas-in-ai-only",
       "time": 1751294626.0,
       "comments_url": "https://news.ycombinator.com/item?id=44423983"
     },
     {
-      "title": "Therapy dogs: stop crafting loopholes to fair, reasonable laws",
-      "score": 12,
-      "url": "https://dirtamericana.com/2025/04/therapy-dogs-business-interior-violations/",
-      "time": 1751305645.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44426027"
+      "title": "They don't make 'em like that any more: Sony DTC-700 audio DAT player/recorder",
+      "score": 44,
+      "url": "https://kevinboone.me/dtc-700.html",
+      "time": 1751306606.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44426171"
     },
     {
-      "title": "Donkey Kong Country 2 and Open Bus",
-      "score": 124,
-      "url": "https://jsgroth.dev/blog/posts/dkc2-open-bus/",
-      "time": 1751295672.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44424194"
+      "title": "Show HN: TokenDagger – A tokenizer faster than OpenAI's Tiktoken",
+      "score": 215,
+      "url": "https://github.com/M4THYOU/TokenDagger",
+      "time": 1751286838.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44422480"
+    },
+    {
+      "title": "Show HN: New Ensō – first public beta",
+      "score": 189,
+      "url": "https://untested.sonnet.io/notes/new-enso-first-public-beta/",
+      "time": 1751281375.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44421776"
+    },
+    {
+      "title": "The Original LZEXE (A.K.A. Kosinski) Compressor Source Code Has Been Released",
+      "score": 7,
+      "url": "https://clownacy.wordpress.com/2025/05/24/the-original-lzexe-a-k-a-kosinski-compressor-source-code-has-been-released/",
+      "time": 1751311192.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44426864"
     },
     {
       "title": "The provenance memory model for C",
-      "score": 166,
+      "score": 183,
       "url": "https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/",
       "time": 1751275514.0,
       "comments_url": "https://news.ycombinator.com/item?id=44421185"
     },
     {
-      "title": "Show HN: New Ensō – first public beta",
-      "score": 162,
-      "url": "https://untested.sonnet.io/notes/new-enso-first-public-beta/",
-      "time": 1751281375.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44421776"
+      "title": "Donkey Kong Country 2 and Open Bus",
+      "score": 169,
+      "url": "https://jsgroth.dev/blog/posts/dkc2-open-bus/",
+      "time": 1751295672.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44424194"
+    },
+    {
+      "title": "Ask HN: What Are You Working On? (June 2025)",
+      "score": 339,
+      "url": "https://news.ycombinator.com/item?id=44416093",
+      "time": 1751228488.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44416093"
+    },
+    {
+      "title": "Show HN: We're two coffee nerds who built an AI app to track beans and recipes",
+      "score": 12,
+      "url": "https://beanbook.app",
+      "time": 1751308727.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44426476"
+    },
+    {
+      "title": "Ask HN: 80s electronics book club; anyone remember this illustrator?",
+      "score": 17,
+      "url": "https://news.ycombinator.com/item?id=44402010",
+      "time": 1751078778.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44402010"
     },
     {
       "title": "14.ai (YC W24) hiring founding engineers in SF to build a Zendesk alternative",
@@ -65,81 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=44425537"
     },
     {
-      "title": "Auth for B2B SaaS: it's not like auth for consumer software",
-      "score": 29,
-      "url": "https://tesseral.com/blog/b2b-auth-isnt-that-similar-to-b2c-auth",
-      "time": 1751295974.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44424256"
+      "title": "Ask HN: What's the 2025 stack for a self-hosted photo library with local AI?",
+      "score": 99,
+      "url": "https://news.ycombinator.com/item?id=44426233",
+      "time": 1751307050.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44426233"
+    },
+    {
+      "title": "Datadog's $65M/year customer mystery solved",
+      "score": 63,
+      "url": "https://blog.pragmaticengineer.com/datadog-65m-year-customer-mystery/",
+      "time": 1751308269.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44426399"
     },
     {
       "title": "The Plot of the Phantom, a text adventure that took 40 years to finish",
-      "score": 138,
+      "score": 162,
       "url": "https://scottandrew.com/blog/2025/06/you-can-now-play-plot-of-the-phantom-the-text-adventure-game/",
       "time": 1751046644.0,
       "comments_url": "https://news.ycombinator.com/item?id=44398809"
     },
     {
+      "title": "Researching LED Displays for the Time Circuits",
+      "score": 14,
+      "url": "https://www.partsnotincluded.com/researching-time-circuit-led-displays/",
+      "time": 1751054535.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44399792"
+    },
+    {
       "title": "Gridfinity: The modular, open-source grid storage system",
-      "score": 342,
+      "score": 377,
       "url": "https://gridfinity.xyz/",
       "time": 1751254641.0,
       "comments_url": "https://news.ycombinator.com/item?id=44419091"
     },
     {
-      "title": "Printegrated Circuits: Merging 3D Printing and Electronics",
-      "score": 43,
-      "url": "https://spectrum.ieee.org/3d-printing-smart-objects",
-      "time": 1751283023.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44421978"
-    },
-    {
-      "title": "Show HN: Open-Source International Space Station Tracker ESP32/Arduino for $20",
-      "score": 40,
-      "url": "https://github.com/GuitarML/SpaceStationTracker",
-      "time": 1751049293.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44399123"
-    },
-    {
-      "title": "Reverse Engineering Vercel's BotID",
-      "score": 49,
-      "url": "https://www.nullpt.rs/reversing-botid",
-      "time": 1751285985.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44422356"
-    },
-    {
-      "title": "Scribble-based forecasting and AI 2027",
-      "score": 30,
-      "url": "https://dynomight.net/scribbles/",
-      "time": 1751300129.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44424996"
-    },
-    {
-      "title": "Asynchronous Error Handling Is Hard",
+      "title": "Jacobi Ellipsoid",
       "score": 9,
-      "url": "https://parallelprogrammer.substack.com/p/asynchronous-error-handling-is-hard",
-      "time": 1751229317.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44416221"
-    },
-    {
-      "title": "New proof dramatically compresses space needed for computation",
-      "score": 127,
-      "url": "https://www.scientificamerican.com/article/new-proof-dramatically-compresses-space-needed-for-computation/",
-      "time": 1751032768.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44396867"
-    },
-    {
-      "title": "Helix: A Modern, High-Performance Language",
-      "score": 21,
-      "url": "https://github.com/helixlang/helix-lang",
-      "time": 1751288904.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44422836"
-    },
-    {
-      "title": "Cloud-forming isoprene & terpenes from crops may drastically improve climate",
-      "score": 14,
-      "url": "https://www.smithsonianmag.com/science-nature/scientists-are-just-beginning-to-understand-how-life-makes-clouds-and-their-discoveries-may-drastically-improve-climate-science-180986872/",
-      "time": 1751291477.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44423263"
+      "url": "https://en.wikipedia.org/wiki/Jacobi_ellipsoid",
+      "time": 1751128078.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44405937"
     }
   ]
 }
