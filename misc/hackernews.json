@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-06-30T11:13:33.485418-04:00",
+  "last_updated": "2025-06-30T14:16:49.416471-04:00",
   "stories": [
     {
+      "title": "I Write Type Safe Generic Data Structures in C",
+      "score": 37,
+      "url": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
+      "time": 1751302520.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44425461"
+    },
+    {
+      "title": "A CarFax for Used PCs; Hewlett Packard wants to give old laptops new life",
+      "score": 21,
+      "url": "https://spectrum.ieee.org/carmax-used-pcs",
+      "time": 1751301523.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44425253"
+    },
+    {
       "title": "Show HN: TokenDagger – A tokenizer faster than OpenAI's Tiktoken",
-      "score": 99,
+      "score": 190,
       "url": "https://github.com/M4THYOU/TokenDagger",
       "time": 1751286838.0,
       "comments_url": "https://news.ycombinator.com/item?id=44422480"
     },
     {
-      "title": "Show HN: New Ensō – first public beta",
-      "score": 93,
-      "url": "https://untested.sonnet.io/notes/new-enso-first-public-beta/",
-      "time": 1751281375.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44421776"
+      "title": "There Are No New Ideas in AI Only New Datasets",
+      "score": 63,
+      "url": "https://blog.jxmo.io/p/there-are-no-new-ideas-in-ai-only",
+      "time": 1751294626.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44423983"
+    },
+    {
+      "title": "Therapy dogs: stop crafting loopholes to fair, reasonable laws",
+      "score": 12,
+      "url": "https://dirtamericana.com/2025/04/therapy-dogs-business-interior-violations/",
+      "time": 1751305645.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44426027"
+    },
+    {
+      "title": "Donkey Kong Country 2 and Open Bus",
+      "score": 124,
+      "url": "https://jsgroth.dev/blog/posts/dkc2-open-bus/",
+      "time": 1751295672.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44424194"
     },
     {
       "title": "The provenance memory model for C",
-      "score": 115,
+      "score": 166,
       "url": "https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/",
       "time": 1751275514.0,
       "comments_url": "https://news.ycombinator.com/item?id=44421185"
     },
     {
+      "title": "Show HN: New Ensō – first public beta",
+      "score": 162,
+      "url": "https://untested.sonnet.io/notes/new-enso-first-public-beta/",
+      "time": 1751281375.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44421776"
+    },
+    {
+      "title": "14.ai (YC W24) hiring founding engineers in SF to build a Zendesk alternative",
+      "score": 1,
+      "url": "https://14.ai/careers",
+      "time": 1751302857.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44425537"
+    },
+    {
+      "title": "Auth for B2B SaaS: it's not like auth for consumer software",
+      "score": 29,
+      "url": "https://tesseral.com/blog/b2b-auth-isnt-that-similar-to-b2c-auth",
+      "time": 1751295974.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44424256"
+    },
+    {
       "title": "The Plot of the Phantom, a text adventure that took 40 years to finish",
-      "score": 89,
+      "score": 138,
       "url": "https://scottandrew.com/blog/2025/06/you-can-now-play-plot-of-the-phantom-the-text-adventure-game/",
       "time": 1751046644.0,
       "comments_url": "https://news.ycombinator.com/item?id=44398809"
     },
     {
       "title": "Gridfinity: The modular, open-source grid storage system",
-      "score": 275,
+      "score": 342,
       "url": "https://gridfinity.xyz/",
       "time": 1751254641.0,
       "comments_url": "https://news.ycombinator.com/item?id=44419091"
     },
     {
-      "title": "Donkey Kong Country 2 and Open Bus",
-      "score": 11,
-      "url": "https://jsgroth.dev/blog/posts/dkc2-open-bus/",
-      "time": 1751295672.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44424194"
-    },
-    {
-      "title": "New proof dramatically compresses space needed for computation",
-      "score": 93,
-      "url": "https://www.scientificamerican.com/article/new-proof-dramatically-compresses-space-needed-for-computation/",
-      "time": 1751032768.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44396867"
-    },
-    {
-      "title": "Ask HN: What Are You Working On? (June 2025)",
-      "score": 269,
-      "url": "https://news.ycombinator.com/item?id=44416093",
-      "time": 1751228488.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44416093"
-    },
-    {
-      "title": "Show HN: Open-Source International Space Station Tracker ESP32/Arduino for $20",
-      "score": 11,
-      "url": "https://github.com/GuitarML/SpaceStationTracker",
-      "time": 1751049293.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44399123"
-    },
-    {
-      "title": "I made my VM think it has a CPU fan",
-      "score": 590,
-      "url": "https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html",
-      "time": 1751205318.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44413185"
-    },
-    {
-      "title": "Cross-Compiling Common Lisp for Windows",
-      "score": 49,
-      "url": "https://www.fosskers.ca/en/blog/cl-windows",
-      "time": 1751068522.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44401358"
-    },
-    {
-      "title": "A glob of 99M-year-old amber trapped a zombie fungus erupting from a fly",
-      "score": 86,
-      "url": "https://www.cnn.com/2025/06/24/science/amber-insect-zombie-fungi-fossil",
-      "time": 1750973145.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44391590"
-    },
-    {
       "title": "Printegrated Circuits: Merging 3D Printing and Electronics",
-      "score": 8,
+      "score": 43,
       "url": "https://spectrum.ieee.org/3d-printing-smart-objects",
       "time": 1751283023.0,
       "comments_url": "https://news.ycombinator.com/item?id=44421978"
     },
     {
-      "title": "Show HN: I built a daily sunlight tracker",
-      "score": 18,
-      "url": "https://www.lumehealth.io/products",
-      "time": 1750980516.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44392459"
-    },
-    {
-      "title": "Revisiting Knuth's “Premature Optimization” Paper",
-      "score": 158,
-      "url": "https://probablydance.com/2025/06/19/revisiting-knuths-premature-optimization-paper/",
-      "time": 1750936632.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44386236"
-    },
-    {
-      "title": "Ultrasound toothbrush promises painless checks for hidden gum problems",
-      "score": 57,
-      "url": "https://phys.org/news/2025-06-ultrasound-toothbrush-painless-hidden-gum.html",
-      "time": 1750965652.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44390440"
+      "title": "Show HN: Open-Source International Space Station Tracker ESP32/Arduino for $20",
+      "score": 40,
+      "url": "https://github.com/GuitarML/SpaceStationTracker",
+      "time": 1751049293.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44399123"
     },
     {
       "title": "Reverse Engineering Vercel's BotID",
-      "score": 11,
+      "score": 49,
       "url": "https://www.nullpt.rs/reversing-botid",
       "time": 1751285985.0,
       "comments_url": "https://news.ycombinator.com/item?id=44422356"
     },
     {
-      "title": "Cell Towers Can Double as Cheap Radar Systems for Ports and Harbors (2014)",
-      "score": 114,
-      "url": "https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security",
-      "time": 1751233692.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44416761"
+      "title": "Scribble-based forecasting and AI 2027",
+      "score": 30,
+      "url": "https://dynomight.net/scribbles/",
+      "time": 1751300129.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44424996"
     },
     {
-      "title": "NativeJIT: A C++ expression –> x64 JIT (2018)",
-      "score": 64,
-      "url": "https://github.com/BitFunnel/NativeJIT",
-      "time": 1751252392.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44418840"
+      "title": "Asynchronous Error Handling Is Hard",
+      "score": 9,
+      "url": "https://parallelprogrammer.substack.com/p/asynchronous-error-handling-is-hard",
+      "time": 1751229317.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44416221"
     },
     {
-      "title": "Jane Austen's Boldest Novel Is Also Her Least Understood",
-      "score": 63,
-      "url": "https://www.nytimes.com/2025/06/27/books/review/jane-austen-mansfield-park.html",
-      "time": 1751068469.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44401350"
+      "title": "New proof dramatically compresses space needed for computation",
+      "score": 127,
+      "url": "https://www.scientificamerican.com/article/new-proof-dramatically-compresses-space-needed-for-computation/",
+      "time": 1751032768.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44396867"
+    },
+    {
+      "title": "Helix: A Modern, High-Performance Language",
+      "score": 21,
+      "url": "https://github.com/helixlang/helix-lang",
+      "time": 1751288904.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44422836"
+    },
+    {
+      "title": "Cloud-forming isoprene & terpenes from crops may drastically improve climate",
+      "score": 14,
+      "url": "https://www.smithsonianmag.com/science-nature/scientists-are-just-beginning-to-understand-how-life-makes-clouds-and-their-discoveries-may-drastically-improve-climate-science-180986872/",
+      "time": 1751291477.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44423263"
     }
   ]
 }
