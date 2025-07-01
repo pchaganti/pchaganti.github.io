@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-30T17:11:18.855404-04:00",
+  "last_updated": "2025-06-30T21:06:49.806000-04:00",
   "papers": [
     {
       "title": "The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT\n  Improvements",
@@ -110,9 +110,9 @@
       "published_time_eastern_timestamp": 1751030965.0
     },
     {
-      "title": "EFRame: Deeper Reasoning via Exploration-Filtering-Replay Reinforcement\n  Learning Framework",
+      "title": "EFRame: Deeper Reasoning via Exploration-Filter-Replay Reinforcement\n  Learning Framework",
       "summary": "Recent advances in reinforcement learning (RL) have significantly enhanced\nthe reasoning capabilities of large language models (LLMs). Group Relative\nPolicy Optimization (GRPO), an efficient variant of PPO that lowers RL's\ncomputational cost, still faces limited exploration, low sample efficiency and\ninstability, constraining its performance on complex reasoning tasks. To\naddress these limitations, we introduce EFRame, an Exploration-Filtering-Replay\nframework that systematically augments GRPO along three critical dimensions.\nEFRame performs additional rollouts to explore high-quality trajectories,\napplies online filtering to eliminate low-quality samples that introduce noise\nand variance, and leverages experience replay to repeatedly exploit rare but\ninformative samples. EFRame establishes a complete and stable learning cycle,\nguiding the model through a structured transition from exploration to\nconvergence. Our experiments across a variety of reasoning benchmarks\ndemonstrate that EFRame not only improves the robustness and efficiency of\ntraining, but also enables access to deeper reasoning capabilities that remain\nunattainable under vanilla GRPO. Furthermore, EFRame enables a more\nfine-grained categorization of training samples, allowing for a deeper analysis\nof how different types of samples contribute to the learning process in RL. Our\ncode is available at https://github.com/597358816/EFRame.",
-      "url": "http://arxiv.org/abs/2506.22200v1",
+      "url": "http://arxiv.org/abs/2506.22200v2",
       "published_time_eastern_timestamp": 1751029745.0
     },
     {
