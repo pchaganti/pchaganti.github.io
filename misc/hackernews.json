@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-06-30T21:06:48.208005-04:00",
+  "last_updated": "2025-06-30T23:56:12.012057-04:00",
   "stories": [
     {
-      "title": "Claude Code now supports Hooks",
-      "score": 63,
-      "url": "https://docs.anthropic.com/en/docs/claude-code/hooks",
-      "time": 1751328075.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44429225"
-    },
-    {
       "title": "Xfinity using WiFi signals in your house to detect motion",
-      "score": 240,
+      "score": 403,
       "url": "https://www.xfinity.com/support/articles/wifi-motion",
       "time": 1751310230.0,
       "comments_url": "https://news.ycombinator.com/item?id=44426726"
     },
     {
-      "title": "The new skill in AI is not prompting, it's context engineering",
-      "score": 334,
-      "url": "https://www.philschmid.de/context-engineering",
-      "time": 1751316835.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44427757"
+      "title": "Rust CLIs with Clap",
+      "score": 35,
+      "url": "https://tucson-josh.com/posts/rust-clap-cli/",
+      "time": 1751333107.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44429695"
+    },
+    {
+      "title": "Proton joins suit against Apple for practices that harm developers and consumers",
+      "score": 191,
+      "url": "https://proton.me/blog/apple-lawsuit",
+      "time": 1751306318.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44426128"
     },
     {
       "title": "I write type-safe generic data structures in C",
-      "score": 218,
+      "score": 235,
       "url": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
       "time": 1751302520.0,
       "comments_url": "https://news.ycombinator.com/item?id=44425461"
     },
     {
+      "title": "The new skill in AI is not prompting, it's context engineering",
+      "score": 449,
+      "url": "https://www.philschmid.de/context-engineering",
+      "time": 1751316835.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44427757"
+    },
+    {
       "title": "There are no new ideas in AI only new datasets",
-      "score": 292,
+      "score": 333,
       "url": "https://blog.jxmo.io/p/there-are-no-new-ideas-in-ai-only",
       "time": 1751294626.0,
       "comments_url": "https://news.ycombinator.com/item?id=44423983"
     },
     {
-      "title": "The hidden JTAG in a Qualcomm/Snapdragon device’s USB port",
-      "score": 114,
-      "url": "https://www.linaro.org/blog/hidden-jtag-qualcomm-snapdragon-usb/",
-      "time": 1751308467.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44426428"
-    },
-    {
-      "title": "Donkey Kong Country 2 and Open Bus",
-      "score": 189,
-      "url": "https://jsgroth.dev/blog/posts/dkc2-open-bus/",
-      "time": 1751295672.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44424194"
-    },
-    {
-      "title": "Melbourne man discovers extensive model train network underneath house",
-      "score": 53,
-      "url": "https://www.sbs.com.au/news/article/i-was-shocked-melbourne-mans-unbelievable-find-after-buying-house/m4sksfer8",
-      "time": 1751327622.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44429182"
-    },
-    {
-      "title": "The Original LZEXE (A.K.A. Kosinski) Compressor Source Code Has Been Released",
-      "score": 53,
-      "url": "https://clownacy.wordpress.com/2025/05/24/the-original-lzexe-a-k-a-kosinski-compressor-source-code-has-been-released/",
-      "time": 1751311192.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44426864"
-    },
-    {
-      "title": "End of an Era",
-      "score": 69,
-      "url": "https://www.erasmatazz.com/personal/self/end-of-an-era.html",
-      "time": 1751311031.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44426845"
-    },
-    {
-      "title": "Entropy of a Mixture",
-      "score": 26,
-      "url": "https://cgad.ski/blog/entropy-of-a-mixture.html",
-      "time": 1751317890.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44427929"
-    },
-    {
-      "title": "Jim Boddie codeveloped the first successful DSP at Bell Labs",
-      "score": 13,
-      "url": "https://spectrum.ieee.org/dsp-pioneer-jim-boddie",
-      "time": 1751321093.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44428399"
-    },
-    {
-      "title": "GPEmu: A GPU emulator for rapid, low-cost deep learning prototyping [pdf]",
-      "score": 14,
-      "url": "https://vldb.org/pvldb/vol18/p1919-wang.pdf",
-      "time": 1751323026.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44428674"
-    },
-    {
-      "title": "Show HN: TokenDagger – A tokenizer faster than OpenAI's Tiktoken",
-      "score": 244,
-      "url": "https://github.com/M4THYOU/TokenDagger",
-      "time": 1751286838.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44422480"
+      "title": "YouTube No Translation",
+      "score": 47,
+      "url": "https://addons.mozilla.org/en-GB/firefox/addon/youtube-no-translation/",
+      "time": 1751227854.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44416009"
     },
     {
       "title": "People Keep Inventing Prolly Trees",
-      "score": 16,
+      "score": 60,
       "url": "https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/",
       "time": 1751140914.0,
       "comments_url": "https://news.ycombinator.com/item?id=44407708"
     },
     {
+      "title": "Claude Code now supports Hooks",
+      "score": 123,
+      "url": "https://docs.anthropic.com/en/docs/claude-code/hooks",
+      "time": 1751328075.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44429225"
+    },
+    {
+      "title": "The hidden JTAG in a Qualcomm/Snapdragon device’s USB port",
+      "score": 128,
+      "url": "https://www.linaro.org/blog/hidden-jtag-qualcomm-snapdragon-usb/",
+      "time": 1751308467.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44426428"
+    },
+    {
+      "title": "Melbourne man discovers extensive model train network underneath house",
+      "score": 151,
+      "url": "https://www.sbs.com.au/news/article/i-was-shocked-melbourne-mans-unbelievable-find-after-buying-house/m4sksfer8",
+      "time": 1751327622.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44429182"
+    },
+    {
+      "title": "Donkey Kong Country 2 and Open Bus",
+      "score": 202,
+      "url": "https://jsgroth.dev/blog/posts/dkc2-open-bus/",
+      "time": 1751295672.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44424194"
+    },
+    {
+      "title": "So you want to serialize some DER?",
+      "score": 36,
+      "url": "https://alexgaynor.net/2025/jun/20/serialize-some-der/",
+      "time": 1751037597.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44397482"
+    },
+    {
+      "title": "GPEmu: A GPU emulator for rapid, low-cost deep learning prototyping [pdf]",
+      "score": 28,
+      "url": "https://vldb.org/pvldb/vol18/p1919-wang.pdf",
+      "time": 1751323026.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44428674"
+    },
+    {
+      "title": "End of an Era",
+      "score": 98,
+      "url": "https://www.erasmatazz.com/personal/self/end-of-an-era.html",
+      "time": 1751311031.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44426845"
+    },
+    {
+      "title": "Jim Boddie codeveloped the first successful DSP at Bell Labs",
+      "score": 26,
+      "url": "https://spectrum.ieee.org/dsp-pioneer-jim-boddie",
+      "time": 1751321093.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44428399"
+    },
+    {
+      "title": "Show HN: TokenDagger – A tokenizer faster than OpenAI's Tiktoken",
+      "score": 253,
+      "url": "https://github.com/M4THYOU/TokenDagger",
+      "time": 1751286838.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44422480"
+    },
+    {
+      "title": "The original LZEXE (A.K.A. Kosinski) compressor source code has been released",
+      "score": 64,
+      "url": "https://clownacy.wordpress.com/2025/05/24/the-original-lzexe-a-k-a-kosinski-compressor-source-code-has-been-released/",
+      "time": 1751311192.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44426864"
+    },
+    {
+      "title": "Publishing Pepys",
+      "score": 3,
+      "url": "https://literaryreview.co.uk/publishing-pepys",
+      "time": 1751120466.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44404897"
+    },
+    {
       "title": "They don't make 'em like that any more: Sony DTC-700 audio DAT player/recorder",
-      "score": 72,
+      "score": 80,
       "url": "https://kevinboone.me/dtc-700.html",
       "time": 1751306606.0,
       "comments_url": "https://news.ycombinator.com/item?id=44426171"
-    },
-    {
-      "title": "Beneath the canopy: Pioneering satellite reveals rainforests' hidden worlds",
-      "score": 5,
-      "url": "https://www.bbc.co.uk/news/resources/idt-d7353b50-0fea-46ba-8495-ae9e25192cfe",
-      "time": 1751099317.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44403117"
-    },
-    {
-      "title": "Price of rice in Japan falls below ¥4k per 5kg",
-      "score": 65,
-      "url": "https://www.japantimes.co.jp/news/2025/06/24/japan/japan-rice-price-falls-below-4000/",
-      "time": 1751313251.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44427147"
-    },
-    {
-      "title": "Creating fair dice from random objects",
-      "score": 30,
-      "url": "https://arstechnica.com/science/2025/05/your-next-gaming-dice-could-be-shaped-like-a-dragon-or-armadillo/",
-      "time": 1751091098.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44402618"
-    },
-    {
-      "title": "Show HN: New Ensō – first public beta",
-      "score": 212,
-      "url": "https://untested.sonnet.io/notes/new-enso-first-public-beta/",
-      "time": 1751281375.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44421776"
     }
   ]
 }
