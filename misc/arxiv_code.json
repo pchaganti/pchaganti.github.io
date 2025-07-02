@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-01T17:11:30.200031-04:00",
+  "last_updated": "2025-07-01T21:00:08.042221-04:00",
   "papers": [
     {
       "title": "How to Design and Train Your Implicit Neural Representation for Video\n  Compression",
@@ -16,7 +16,7 @@
     {
       "title": "Teaching Time Series to See and Speak: Forecasting with Aligned Visual\n  and Textual Perspectives",
       "summary": "Time series forecasting traditionally relies on unimodal numerical inputs,\nwhich often struggle to capture high-level semantic patterns due to their dense\nand unstructured nature. While recent approaches have explored representing\ntime series as text using large language models (LLMs), these methods remain\nlimited by the discrete nature of token sequences and lack the perceptual\nintuition humans typically apply, such as interpreting visual patterns. In this\npaper, we propose a multimodal contrastive learning framework that transforms\nraw time series into structured visual and textual perspectives. Rather than\nusing natural language or real-world images, we construct both modalities\ndirectly from numerical sequences. We then align these views in a shared\nsemantic space via contrastive learning, enabling the model to capture richer\nand more complementary representations. Furthermore, we introduce a variate\nselection module that leverages the aligned representations to identify the\nmost informative variables for multivariate forecasting. Extensive experiments\non fifteen short-term and six long-term forecasting benchmarks demonstrate that\nour approach consistently outperforms strong unimodal and cross-modal\nbaselines, highlighting the effectiveness of multimodal alignment in enhancing\ntime series forecasting. Code is available at:\nhttps://github.com/Ironieser/TimesCLIP.",
-      "url": "http://arxiv.org/abs/2506.24124v1",
+      "url": "http://arxiv.org/abs/2506.24124v2",
       "published_time_eastern_timestamp": 1751306354.0
     },
     {
@@ -106,7 +106,7 @@
     {
       "title": "Graft: Integrating the Domain Knowledge via Efficient Parameter Synergy\n  for MLLMs",
       "summary": "Multimodal Large Language Models (MLLMs) have achieved success across various\ndomains. However, their applicability tends to degrade when confronted with\ndifferent types of data inputs, especially for MLLMs that have been fine-tuned\nfor specific tasks. Despite its importance, the study of knowledge sharing\namong domain-specific MLLMs--such as those trained for mathematics or\ncode--remains largely underexplored. To address the fragmentation of knowledge\nacross domain-specialized MLLMs, we propose a unified parameter integration\nframework that enables modular composition of expert capabilities. Our method\nis grounded in a novel Compatibility-Aware Parameter Splicing (CAPS) strategy,\nwhich leverages both local functional attribution and global\ninformation-theoretic signals to guide selective parameter fusion. By extending\nthis mechanism to the low-rank adaptation layer granularity, we ensure\nefficient integration with minimal inference overhead. Furthermore, we\nintroduce a domain compatibility scoring mechanism that quantifies inter-expert\nalignment at the activation level and correlates with downstream task utility.\nThis principled fusion protocol allows the final model to synergize\nheterogeneous expertise while preserving structural modularity. Extensive\nevaluations across diverse multimodal benchmarks validate the effectiveness of\nour framework, offering a scalable path toward compositional, domain-adaptive\nMLLMs.",
-      "url": "http://arxiv.org/abs/2506.23940v1",
+      "url": "http://arxiv.org/abs/2506.23940v2",
       "published_time_eastern_timestamp": 1751296061.0
     },
     {
