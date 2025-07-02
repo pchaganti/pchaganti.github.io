@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-07-02T02:18:46.237296-04:00",
+  "last_updated": "2025-07-02T05:14:44.583992-04:00",
   "stories": [
     {
+      "title": "Huawei releases an open weight model trained on Huawei Ascend GPUs",
+      "score": 69,
+      "url": "https://arxiv.org/abs/2505.21411",
+      "time": 1751441801.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44441089"
+    },
+    {
       "title": "The Fed says this is a cube of $1M. They're off by half a million",
-      "score": 1090,
+      "score": 1209,
       "url": "https://calvin.sh/blog/fed-lie/",
       "time": 1751386975.0,
       "comments_url": "https://news.ycombinator.com/item?id=44435484"
     },
     {
       "title": "Figma files for proposed IPO",
-      "score": 284,
+      "score": 339,
       "url": "https://www.figma.com/blog/s1-public/",
       "time": 1751398754.0,
       "comments_url": "https://news.ycombinator.com/item?id=44437316"
     },
     {
       "title": "Fakespot shuts down today after 9 years of detecting fake product reviews",
-      "score": 181,
+      "score": 240,
       "url": "https://blog.truestar.pro/fakespot-shuts-down/",
       "time": 1751401595.0,
       "comments_url": "https://news.ycombinator.com/item?id=44437712"
     },
     {
-      "title": "Why Do Swallows Fly to the Korean DMZ?",
-      "score": 33,
-      "url": "https://www.sapiens.org/culture/korean-dmz-estuary-politics-war-borders-diaspora/",
-      "time": 1751114024.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44404243"
-    },
-    {
       "title": "Hilbert's sixth problem: derivation of fluid equations via Boltzmann's theory",
-      "score": 59,
+      "score": 90,
       "url": "https://arxiv.org/abs/2503.01800",
       "time": 1751416308.0,
       "comments_url": "https://news.ycombinator.com/item?id=44439242"
     },
     {
-      "title": "Code-GUI bidirectional editing via LSP",
-      "score": 180,
-      "url": "https://jamesbvaughan.com/bidirectional-editing/",
-      "time": 1751388199.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44435716"
+      "title": "Why Do Swallows Fly to the Korean DMZ?",
+      "score": 51,
+      "url": "https://www.sapiens.org/culture/korean-dmz-estuary-politics-war-borders-diaspora/",
+      "time": 1751114024.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44404243"
     },
     {
       "title": "Sam Altman Slams Meta's AI Talent Poaching: 'Missionaries Will Beat Mercenaries'",
-      "score": 127,
+      "score": 176,
       "url": "https://www.wired.com/story/sam-altman-meta-ai-talent-poaching-spree-leaked-messages/",
       "time": 1751393318.0,
       "comments_url": "https://news.ycombinator.com/item?id=44436579"
     },
     {
+      "title": "Code-GUI bidirectional editing via LSP",
+      "score": 203,
+      "url": "https://jamesbvaughan.com/bidirectional-editing/",
+      "time": 1751388199.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44435716"
+    },
+    {
       "title": "Feasibility study of a mission to Sedna - Nuclear propulsion and solar sailing",
-      "score": 182,
+      "score": 187,
       "url": "https://arxiv.org/abs/2506.17732",
       "time": 1751378891.0,
       "comments_url": "https://news.ycombinator.com/item?id=44434062"
     },
     {
-      "title": "The Roman Roads Research Association",
-      "score": 57,
-      "url": "https://www.romanroads.org/",
-      "time": 1751401972.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44437758"
-    },
-    {
       "title": "Ask HN: Who is hiring? (July 2025)",
-      "score": 204,
+      "score": 224,
       "url": "https://news.ycombinator.com/item?id=44434576",
       "time": 1751382096.0,
       "comments_url": "https://news.ycombinator.com/item?id=44434576"
     },
     {
       "title": "Show HN: Spegel, a Terminal Browser That Uses LLMs to Rewrite Webpages",
-      "score": 339,
+      "score": 366,
       "url": "https://simedw.com/2025/06/23/introducing-spegel/",
       "time": 1751374182.0,
       "comments_url": "https://news.ycombinator.com/item?id=44433409"
     },
     {
-      "title": "Show HN: I made a 2D game engine in Dart",
-      "score": 36,
-      "url": "https://bullseye2d.org/",
-      "time": 1751116039.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44404447"
+      "title": "The Roman Roads Research Association",
+      "score": 80,
+      "url": "https://www.romanroads.org/",
+      "time": 1751401972.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44437758"
     },
     {
       "title": "Soldier's wrist purse discovered at Roman legionary camp",
-      "score": 40,
+      "score": 61,
       "url": "https://www.heritagedaily.com/2025/06/soldiers-wrist-purse-discovered-at-roman-legionary-camp/155513",
       "time": 1751131234.0,
       "comments_url": "https://news.ycombinator.com/item?id=44406401"
     },
     {
-      "title": "Building a Personal AI Factory",
-      "score": 156,
-      "url": "https://www.john-rush.com/posts/ai-20250701.html",
-      "time": 1751404469.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44438065"
+      "title": "Show HN: A modern C++20 AI SDK (GPT‑4o, Claude 3.5, tool‑calling)",
+      "score": 23,
+      "url": "https://news.ycombinator.com/item?id=44412726",
+      "time": 1751201562.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44412726"
+    },
+    {
+      "title": "Show HN: I made a 2D game engine in Dart",
+      "score": 53,
+      "url": "https://bullseye2d.org/",
+      "time": 1751116039.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44404447"
+    },
+    {
+      "title": "The Titanic's Best Lifeboat",
+      "score": 14,
+      "url": "https://99percentinvisible.org/episode/632-the-titanics-best-lifeboat/",
+      "time": 1751202192.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44412808"
+    },
+    {
+      "title": "Mandelbrot in x86 Assembly by Claude",
+      "score": 42,
+      "url": "https://simonwillison.net/2025/Jul/2/mandelbrot-in-x86-assembly-by-claude/",
+      "time": 1751434268.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44440509"
     },
     {
       "title": "Ask HN: Who wants to be hired? (July 2025)",
-      "score": 85,
+      "score": 103,
       "url": "https://news.ycombinator.com/item?id=44434574",
       "time": 1751382096.0,
       "comments_url": "https://news.ycombinator.com/item?id=44434574"
     },
     {
-      "title": "When we die do we still have any of the original cells from our birth? (2020)",
-      "score": 35,
-      "url": "https://www.quora.com/When-we-die-do-we-still-have-any-of-the-original-cells-from-our-birth",
-      "time": 1751430468.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44440262"
-    },
-    {
-      "title": "Hydrogen sulphide gas restricts SARS-CoV-2 replication in host cells",
-      "score": 4,
-      "url": "https://iisc.ac.in/hydrogen-sulphide-gas-restricts-sars-cov-2-replication-in-host-cells/",
-      "time": 1751434943.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44440556"
-    },
-    {
-      "title": "Effectiveness of trees in reducing temperature, outdoor heat exposure in Vegas",
-      "score": 101,
-      "url": "https://iopscience.iop.org/article/10.1088/2752-5295/ade17d",
-      "time": 1751403545.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44437948"
-    },
-    {
-      "title": "OpenFLOW – Quickly make beautiful infrastructure diagrams local to your machine",
-      "score": 301,
-      "url": "https://github.com/stan-smith/OpenFLOW",
-      "time": 1751351397.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44431178"
-    },
-    {
       "title": "HN Slop: AI startup ideas generated from Hacker News",
-      "score": 90,
+      "score": 128,
       "url": "https://www.josh.ing/hn-slop",
       "time": 1751383905.0,
       "comments_url": "https://news.ycombinator.com/item?id=44434938"
+    },
+    {
+      "title": "OpenFLOW – Quickly make beautiful infrastructure diagrams local to your machine",
+      "score": 330,
+      "url": "https://github.com/stan-smith/OpenFLOW",
+      "time": 1751351397.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44431178"
     }
   ]
 }
