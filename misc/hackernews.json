@@ -1,82 +1,117 @@
 {
-  "last_updated": "2025-07-03T11:13:06.895783-04:00",
+  "last_updated": "2025-07-03T14:16:43.697191-04:00",
   "stories": [
     {
-      "title": "Locality of Behaviour (2020)",
-      "score": 36,
-      "url": "https://htmx.org/essays/locality-of-behaviour/",
-      "time": 1751552239.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44455320"
+      "title": "Introducing tmux-rs",
+      "score": 262,
+      "url": "https://richardscollin.github.io/tmux-rs/",
+      "time": 1751554994.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44455787"
     },
     {
-      "title": "Tools: Code Is All You Need",
-      "score": 99,
-      "url": "https://lucumr.pocoo.org/2025/7/3/tools/",
-      "time": 1751539878.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44453688"
+      "title": "Launch HN: K-Scale Labs (YC W24) – Open-Source Humanoid Robots",
+      "score": 42,
+      "url": "https://news.ycombinator.com/item?id=44456904",
+      "time": 1751561058.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44456904"
     },
     {
-      "title": "Peasant Railgun",
-      "score": 13,
-      "url": "https://knightsdigest.com/what-exactly-is-the-peasant-railgun-in-dd-5e/",
-      "time": 1751551505.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44455222"
+      "title": "AV1@Scale: Film Grain Synthesis, The Awakening",
+      "score": 56,
+      "url": "https://netflixtechblog.com/av1-scale-film-grain-synthesis-the-awakening-ee09cfdff40b",
+      "time": 1751560491.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44456779"
     },
     {
-      "title": "Alice's Adventures in a Differentiable Wonderland",
-      "score": 62,
-      "url": "https://arxiv.org/abs/2404.17625",
-      "time": 1751306526.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44426153"
+      "title": "EBAF – eBPF Based Ad Firewall",
+      "score": 29,
+      "url": "https://github.com/Kazedaa/eBAF",
+      "time": 1751558366.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44456389"
+    },
+    {
+      "title": "Opening up ‘Zero-Knowledge Proof’ technology",
+      "score": 14,
+      "url": "https://blog.google/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
+      "time": 1751564173.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44457390"
+    },
+    {
+      "title": "Poor Man's Back End-as-a-Service (BaaS), Similar to Firebase/Supabase/Pocketbase",
+      "score": 79,
+      "url": "https://github.com/zserge/pennybase",
+      "time": 1751556934.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44456135"
+    },
+    {
+      "title": "AI for Scientific Search",
+      "score": 43,
+      "url": "https://arxiv.org/abs/2507.01903",
+      "time": 1751555960.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44455950"
+    },
+    {
+      "title": "Copper is Faster than Fiber (2017) [pdf]",
+      "score": 42,
+      "url": "https://www.arista.com/assets/data/pdf/Copper-Faster-Than-Fiber-Brief.pdf",
+      "time": 1751385936.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44435309"
     },
     {
       "title": "Show HN: HomeBrew HN – generate personal context for content ranking",
-      "score": 34,
+      "score": 74,
       "url": "https://www.hackernews.coffee/",
       "time": 1751545671.0,
       "comments_url": "https://news.ycombinator.com/item?id=44454305"
     },
     {
-      "title": "Doom Didn't Kill the Amiga (2024)",
-      "score": 12,
-      "url": "https://www.datagubbe.se/afb/",
-      "time": 1751551467.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44455218"
+      "title": "Parallelizing SHA256 Calculation on FPGA",
+      "score": 34,
+      "url": "https://www.controlpaths.com/2025/06/29/parallelizing_sha256-calculation-fpga/",
+      "time": 1751556330.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44456027"
+    },
+    {
+      "title": "Alice's Adventures in a Differentiable Wonderland",
+      "score": 96,
+      "url": "https://arxiv.org/abs/2404.17625",
+      "time": 1751306526.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44426153"
+    },
+    {
+      "title": "Stalking the Statistically Improbable Restaurant with Data",
+      "score": 11,
+      "url": "https://ethanzuckerman.com/2025/07/03/stalking-the-statistically-improbable-restaurant-with-data/",
+      "time": 1751562956.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44457215"
+    },
+    {
+      "title": "Tools: Code Is All You Need",
+      "score": 198,
+      "url": "https://lucumr.pocoo.org/2025/7/3/tools/",
+      "time": 1751539878.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44453688"
     },
     {
       "title": "Fei-Fei Li: Spatial intelligence is the next frontier in AI [video]",
-      "score": 182,
+      "score": 214,
       "url": "https://www.youtube.com/watch?v=_PioN-CpOP0",
       "time": 1751378433.0,
       "comments_url": "https://news.ycombinator.com/item?id=44433996"
     },
     {
-      "title": "About AI Evals",
-      "score": 69,
-      "url": "https://hamel.dev/blog/posts/evals-faq/",
-      "time": 1751338096.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44430117"
+      "title": "Postcard is now open source",
+      "score": 17,
+      "url": "https://www.contraption.co/postcard-open-source/",
+      "time": 1751560682.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44456827"
     },
     {
-      "title": "Head in the Clouds",
-      "score": 5,
-      "url": "https://www.commonwealmagazine.org/head-clouds",
-      "time": 1751548739.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44454758"
-    },
-    {
-      "title": "Where is my von Braun wheel?",
-      "score": 11,
-      "url": "https://angadh.com/wherevonbraunwheel",
-      "time": 1751550295.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44455022"
-    },
-    {
-      "title": "Introducing tmux-rs",
-      "score": 4,
-      "url": "https://richardscollin.github.io/tmux-rs/",
-      "time": 1751554994.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44455787"
+      "title": "ViscaCamLink – Camera control application for PTZ cameras",
+      "score": 8,
+      "url": "https://github.com/misorrek/ViscaCamLink",
+      "time": 1751369998.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44432884"
     },
     {
       "title": "Kyber (YC W23) Is Hiring Enterprise BDRs",
@@ -86,60 +121,25 @@
       "comments_url": "https://news.ycombinator.com/item?id=44454114"
     },
     {
-      "title": "Spending Too Much Money on a Coding Agent",
-      "score": 20,
-      "url": "https://allenpike.com/2025/coding-agents",
-      "time": 1751372811.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44433218"
+      "title": "Peasant Railgun",
+      "score": 96,
+      "url": "https://knightsdigest.com/what-exactly-is-the-peasant-railgun-in-dd-5e/",
+      "time": 1751551505.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44455222"
     },
     {
-      "title": "Astronomers discover 3I/ATLAS – Third interstellar object to visit Solar System",
-      "score": 209,
-      "url": "https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180",
-      "time": 1751512764.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44451329"
+      "title": "About AI Evals",
+      "score": 104,
+      "url": "https://hamel.dev/blog/posts/evals-faq/",
+      "time": 1751338096.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44430117"
     },
     {
-      "title": "Importance of context management in AI NPCs",
-      "score": 17,
-      "url": "https://walterfreedom.com/post.html?id=ai-context-management",
-      "time": 1751327737.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44429192"
-    },
-    {
-      "title": "Whole-genome ancestry of an Old Kingdom Egyptian",
-      "score": 126,
-      "url": "https://www.nature.com/articles/s41586-025-09195-5",
-      "time": 1751502286.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44450304"
-    },
-    {
-      "title": "That XOR Trick (2020)",
-      "score": 213,
-      "url": "https://florian.github.io//xor-trick/",
-      "time": 1751304761.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44425880"
-    },
-    {
-      "title": "Exploiting the IKKO Activebuds “AI powered” earbuds (2024)",
-      "score": 538,
-      "url": "https://blog.mgdproductions.com/ikko-activebuds/",
-      "time": 1751465203.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44443919"
-    },
-    {
-      "title": "Trans-Taiga Road (2004)",
-      "score": 126,
-      "url": "https://www.jamesbayroad.com/ttr/index.html",
-      "time": 1751504824.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44450575"
-    },
-    {
-      "title": "Writing Code Was Never the Bottleneck",
-      "score": 526,
-      "url": "https://ordep.dev/posts/writing-code-was-never-the-bottleneck",
-      "time": 1751334237.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44429789"
+      "title": "Pbf2sqlite: Reading OpenStreetMap into a SQLite Database",
+      "score": 29,
+      "url": "https://github.com/osmzoso/pbf2sqlite",
+      "time": 1751361461.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44432058"
     }
   ]
 }
