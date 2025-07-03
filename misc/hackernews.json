@@ -1,47 +1,82 @@
 {
-  "last_updated": "2025-07-03T08:24:00.611421-04:00",
+  "last_updated": "2025-07-03T11:13:06.895783-04:00",
   "stories": [
     {
-      "title": "Writing Code Was Never the Bottleneck",
-      "score": 388,
-      "url": "https://ordep.dev/posts/writing-code-was-never-the-bottleneck",
-      "time": 1751334237.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44429789"
+      "title": "Locality of Behaviour (2020)",
+      "score": 36,
+      "url": "https://htmx.org/essays/locality-of-behaviour/",
+      "time": 1751552239.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44455320"
+    },
+    {
+      "title": "Tools: Code Is All You Need",
+      "score": 99,
+      "url": "https://lucumr.pocoo.org/2025/7/3/tools/",
+      "time": 1751539878.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44453688"
+    },
+    {
+      "title": "Peasant Railgun",
+      "score": 13,
+      "url": "https://knightsdigest.com/what-exactly-is-the-peasant-railgun-in-dd-5e/",
+      "time": 1751551505.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44455222"
+    },
+    {
+      "title": "Alice's Adventures in a Differentiable Wonderland",
+      "score": 62,
+      "url": "https://arxiv.org/abs/2404.17625",
+      "time": 1751306526.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44426153"
+    },
+    {
+      "title": "Show HN: HomeBrew HN – generate personal context for content ranking",
+      "score": 34,
+      "url": "https://www.hackernews.coffee/",
+      "time": 1751545671.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44454305"
+    },
+    {
+      "title": "Doom Didn't Kill the Amiga (2024)",
+      "score": 12,
+      "url": "https://www.datagubbe.se/afb/",
+      "time": 1751551467.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44455218"
     },
     {
       "title": "Fei-Fei Li: Spatial intelligence is the next frontier in AI [video]",
-      "score": 132,
+      "score": 182,
       "url": "https://www.youtube.com/watch?v=_PioN-CpOP0",
       "time": 1751378433.0,
       "comments_url": "https://news.ycombinator.com/item?id=44433996"
     },
     {
-      "title": "Astronomers discover 3I/ATLAS – Third interstellar object to visit Solar System",
-      "score": 165,
-      "url": "https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180",
-      "time": 1751512764.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44451329"
+      "title": "About AI Evals",
+      "score": 69,
+      "url": "https://hamel.dev/blog/posts/evals-faq/",
+      "time": 1751338096.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44430117"
     },
     {
-      "title": "Building Linux kernel on macOS natively",
-      "score": 20,
-      "url": "https://seiya.me/blog/building-linux-on-macos-natively",
-      "time": 1751536383.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44453371"
+      "title": "Head in the Clouds",
+      "score": 5,
+      "url": "https://www.commonwealmagazine.org/head-clouds",
+      "time": 1751548739.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44454758"
     },
     {
-      "title": "CoMaps: New OSM based navigation app",
-      "score": 6,
-      "url": "https://www.comaps.app/news/2025-07-03/Announcing-Navigate-with-Privacy-Discover-more-of-your-journey/",
-      "time": 1751542032.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44453888"
+      "title": "Where is my von Braun wheel?",
+      "score": 11,
+      "url": "https://angadh.com/wherevonbraunwheel",
+      "time": 1751550295.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44455022"
     },
     {
-      "title": "Tools: Code Is All You Need",
+      "title": "Introducing tmux-rs",
       "score": 4,
-      "url": "https://lucumr.pocoo.org/2025/7/3/tools/",
-      "time": 1751539878.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44453688"
+      "url": "https://richardscollin.github.io/tmux-rs/",
+      "time": 1751554994.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44455787"
     },
     {
       "title": "Kyber (YC W23) Is Hiring Enterprise BDRs",
@@ -51,95 +86,60 @@
       "comments_url": "https://news.ycombinator.com/item?id=44454114"
     },
     {
+      "title": "Spending Too Much Money on a Coding Agent",
+      "score": 20,
+      "url": "https://allenpike.com/2025/coding-agents",
+      "time": 1751372811.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44433218"
+    },
+    {
+      "title": "Astronomers discover 3I/ATLAS – Third interstellar object to visit Solar System",
+      "score": 209,
+      "url": "https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180",
+      "time": 1751512764.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44451329"
+    },
+    {
+      "title": "Importance of context management in AI NPCs",
+      "score": 17,
+      "url": "https://walterfreedom.com/post.html?id=ai-context-management",
+      "time": 1751327737.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44429192"
+    },
+    {
       "title": "Whole-genome ancestry of an Old Kingdom Egyptian",
-      "score": 112,
+      "score": 126,
       "url": "https://www.nature.com/articles/s41586-025-09195-5",
       "time": 1751502286.0,
       "comments_url": "https://news.ycombinator.com/item?id=44450304"
     },
     {
-      "title": "Next month, saved passwords will no longer be in Microsoft’s Authenticator app",
-      "score": 131,
-      "url": "https://www.cnet.com/tech/microsoft-will-delete-your-passwords-in-one-month-do-this-asap/",
-      "time": 1751311892.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44426985"
+      "title": "That XOR Trick (2020)",
+      "score": 213,
+      "url": "https://florian.github.io//xor-trick/",
+      "time": 1751304761.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44425880"
     },
     {
       "title": "Exploiting the IKKO Activebuds “AI powered” earbuds (2024)",
-      "score": 521,
+      "score": 538,
       "url": "https://blog.mgdproductions.com/ikko-activebuds/",
       "time": 1751465203.0,
       "comments_url": "https://news.ycombinator.com/item?id=44443919"
     },
     {
       "title": "Trans-Taiga Road (2004)",
-      "score": 111,
+      "score": 126,
       "url": "https://www.jamesbayroad.com/ttr/index.html",
       "time": 1751504824.0,
       "comments_url": "https://news.ycombinator.com/item?id=44450575"
     },
     {
-      "title": "That XOR Trick (2020)",
-      "score": 168,
-      "url": "https://florian.github.io//xor-trick/",
-      "time": 1751304761.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44425880"
-    },
-    {
-      "title": "Nano-engineered thermoelectrics enable scalable, compressor-free cooling",
-      "score": 79,
-      "url": "https://www.jhuapl.edu/news/news-releases/250521-apl-thermoelectrics-enable-compressor-free-cooling",
-      "time": 1751295098.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44424087"
-    },
-    {
-      "title": "ASCIIMoon: The moon's phase live in ASCII art",
-      "score": 225,
-      "url": "https://asciimoon.com/",
-      "time": 1751367201.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44432571"
-    },
-    {
-      "title": "About AI Evals",
-      "score": 18,
-      "url": "https://hamel.dev/blog/posts/evals-faq/",
-      "time": 1751338096.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44430117"
-    },
-    {
-      "title": "ICEBlock, an app for anonymously reporting ICE sightings, goes viral",
-      "score": 206,
-      "url": "https://techcrunch.com/2025/07/01/iceblock-an-app-for-anonymously-reporting-ice-sightings-goes-viral-overnight-after-bondi-criticism/",
-      "time": 1751473597.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44445646"
-    },
-    {
-      "title": "Show HN: CSS generator for a high-def glass effect",
-      "score": 337,
-      "url": "https://glass3d.dev/",
-      "time": 1751471463.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44445238"
-    },
-    {
-      "title": "Gmailtail – Command-line tool to monitor Gmail messages and output them as JSON",
-      "score": 86,
-      "url": "https://github.com/c4pt0r/gmailtail",
-      "time": 1751501176.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44450182"
-    },
-    {
-      "title": "Couchers is officially out of beta",
-      "score": 212,
-      "url": "https://couchers.org/blog/2025/07/01/releasing-couchers-v1",
-      "time": 1751479520.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44446917"
-    },
-    {
-      "title": "AI note takers are flooding Zoom calls as workers opt to skip meetings",
-      "score": 199,
-      "url": "https://www.washingtonpost.com/technology/2025/07/02/ai-note-takers-meetings-bots/",
-      "time": 1751479517.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44446916"
+      "title": "Writing Code Was Never the Bottleneck",
+      "score": 526,
+      "url": "https://ordep.dev/posts/writing-code-was-never-the-bottleneck",
+      "time": 1751334237.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44429789"
     }
   ]
 }
