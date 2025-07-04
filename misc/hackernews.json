@@ -1,37 +1,79 @@
 {
-  "last_updated": "2025-07-04T08:23:15.222506-04:00",
+  "last_updated": "2025-07-04T11:12:16.831965-04:00",
   "stories": [
     {
+      "title": "Why I left my tech job to work on chronic pain",
+      "score": 99,
+      "url": "https://sailhealth.substack.com/p/why-i-left-my-tech-job-to-work-on",
+      "time": 1751633404.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44464068"
+    },
+    {
       "title": "Writing a Game Boy Emulator in OCaml",
-      "score": 74,
+      "score": 146,
       "url": "https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/",
       "time": 1751621696.0,
       "comments_url": "https://news.ycombinator.com/item?id=44462896"
     },
     {
-      "title": "Developing with GitHub Copilot Agent Mode and MCP",
-      "score": 41,
-      "url": "https://austen.info/blog/github-copilot-agent-mcp/",
-      "time": 1751316448.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44427688"
+      "title": "Show HN: I AI-coded a tower defense game and documented the whole process",
+      "score": 61,
+      "url": "https://github.com/maciej-trebacz/tower-of-time-game",
+      "time": 1751632489.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44463967"
     },
     {
-      "title": "Introducing tmux-rs",
-      "score": 783,
-      "url": "https://richardscollin.github.io/tmux-rs/",
-      "time": 1751554994.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44455787"
+      "title": "Show HN: BunkerWeb – the open-source and cloud-native WAF",
+      "score": 39,
+      "url": "https://docs.bunkerweb.io/latest/",
+      "time": 1751630157.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44463747"
     },
     {
-      "title": "DRM Panic QR code generator",
-      "score": 25,
-      "url": "https://rust-for-linux.com/drm-panic-qr-code-generator",
-      "time": 1751615235.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44462174"
+      "title": "Larry (cat)",
+      "score": 102,
+      "url": "https://en.wikipedia.org/wiki/Larry_(cat)",
+      "time": 1751622184.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44462947"
+    },
+    {
+      "title": "Lens: Lenses, Folds and Traversals",
+      "score": 31,
+      "url": "https://hackage.haskell.org/package/lens",
+      "time": 1751371726.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44433062"
+    },
+    {
+      "title": "Kepler.gl",
+      "score": 14,
+      "url": "https://kepler.gl/",
+      "time": 1751637483.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44464641"
+    },
+    {
+      "title": "A Rust-TypeScript integration",
+      "score": 27,
+      "url": "https://github.com/beeeeep54/rust-typescript",
+      "time": 1751629355.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44463654"
+    },
+    {
+      "title": "Is an Intel N100 or N150 a better value than a Raspberry Pi?",
+      "score": 102,
+      "url": "https://www.jeffgeerling.com/blog/2025/intel-n100-better-value-raspberry-pi",
+      "time": 1751630904.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44463813"
+    },
+    {
+      "title": "Serving 200M requests per day with a CGI-bin",
+      "score": 53,
+      "url": "https://jacob.gold/posts/serving-200-million-requests-with-cgi-bin/",
+      "time": 1751634969.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44464272"
     },
     {
       "title": "Show HN: Fast Thermodynamic Calculations in Python",
-      "score": 5,
+      "score": 24,
       "url": "https://dlr-institute-of-future-fuels.github.io/gaspype/",
       "time": 1751629692.0,
       "comments_url": "https://news.ycombinator.com/item?id=44463698"
@@ -44,102 +86,60 @@
       "comments_url": "https://news.ycombinator.com/item?id=44463773"
     },
     {
-      "title": "Killer whales groom each other with pieces of kelp",
-      "score": 26,
-      "url": "https://www.science.org/content/article/killer-whales-groom-each-other-pieces-kelp",
-      "time": 1751325966.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44428997"
+      "title": "Can Large Language Models Play Text Games Well?",
+      "score": 19,
+      "url": "https://arxiv.org/abs/2304.02868",
+      "time": 1751628282.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44463536"
     },
     {
-      "title": "Flounder Mode – Kevin Kelly on a different way to do great work",
-      "score": 264,
-      "url": "https://joincolossus.com/article/flounder-mode/",
-      "time": 1751555881.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44455933"
+      "title": "I want to leave tech: what do I do?",
+      "score": 80,
+      "url": "https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a",
+      "time": 1751637529.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44464647"
     },
     {
-      "title": "One Billion Cells – Another Multiplayer Demo with Clojure",
-      "score": 37,
-      "url": "https://cells.andersmurphy.com/",
-      "time": 1751608448.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44461523"
+      "title": "We're Not Innovating, We're Just Forgetting Slower",
+      "score": 5,
+      "url": "https://www.elektormagazine.com/articles/opinion-no-innovation-forgetting-slower",
+      "time": 1751638405.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44464756"
     },
     {
-      "title": "Raphael discovery emerges from Vatican museum restoration",
-      "score": 32,
-      "url": "https://news.artnet.com/art-world/raphael-rooms-restoration-discovery-2662624",
-      "time": 1751371842.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44433078"
+      "title": "Show HN: A cross-platform terminal emulator written in Java",
+      "score": 10,
+      "url": "https://github.com/sebkur/forceterm",
+      "time": 1751353861.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44431372"
     },
     {
-      "title": "Launch HN: K-Scale Labs (YC W24) – Open-Source Humanoid Robots",
-      "score": 196,
-      "url": "https://news.ycombinator.com/item?id=44456904",
-      "time": 1751561058.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44456904"
+      "title": "Introducing tmux-rs",
+      "score": 806,
+      "url": "https://richardscollin.github.io/tmux-rs/",
+      "time": 1751554994.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44455787"
     },
     {
       "title": "Wind Knitting Factory",
-      "score": 150,
+      "score": 173,
       "url": "https://www.merelkarhof.nl/work/wind-knitting-factory",
       "time": 1751574537.0,
       "comments_url": "https://news.ycombinator.com/item?id=44458890"
     },
     {
-      "title": "AV1@Scale: Film Grain Synthesis, The Awakening",
-      "score": 221,
-      "url": "https://netflixtechblog.com/av1-scale-film-grain-synthesis-the-awakening-ee09cfdff40b",
-      "time": 1751560491.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44456779"
+      "title": "Zig breaking change – initial Writergate",
+      "score": 122,
+      "url": "https://github.com/ziglang/zig/pull/24329",
+      "time": 1751602279.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44461067"
     },
     {
-      "title": "Alternative Blanket Implementations for a Single Rust Trait",
-      "score": 21,
-      "url": "https://www.greyblake.com/blog/alternative-blanket-implementations-for-single-rust-trait/",
-      "time": 1751356136.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44431601"
-    },
-    {
-      "title": "How often is the query plan optimal?",
-      "score": 7,
-      "url": "https://vondra.me/posts/how-often-is-the-query-plan-optimal/",
-      "time": 1751296767.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44424405"
-    },
-    {
-      "title": "Peasant Railgun",
-      "score": 254,
-      "url": "https://knightsdigest.com/what-exactly-is-the-peasant-railgun-in-dd-5e/",
-      "time": 1751551505.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44455222"
-    },
-    {
-      "title": "My open source project was relicensed by a YC company [license updated]",
-      "score": 617,
-      "url": "https://twitter.com/soham_btw/status/1940952786491027886",
-      "time": 1751594695.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44460552"
-    },
-    {
-      "title": "LooksMapping",
-      "score": 70,
-      "url": "https://looksmapping.com/",
-      "time": 1751601347.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44461015"
-    },
-    {
-      "title": "How to render a mesh gradient using RBF interpolation",
-      "score": 5,
-      "url": "https://www.notion.so/Smooth-Mesh-Gradients-with-RBF-Interpolation-1ba8eeb5a3e68046b34cf997fe67d3c1?source=copy_link",
-      "time": 1751629140.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44463631"
-    },
-    {
-      "title": "How AI on Microcontrollers Works: Operators and Kernels",
-      "score": 60,
-      "url": "https://danielmangum.com/posts/ai-microcontrollers-operators-kernels/",
-      "time": 1751287991.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44422662"
+      "title": "DRM Panic QR code generator",
+      "score": 47,
+      "url": "https://rust-for-linux.com/drm-panic-qr-code-generator",
+      "time": 1751615235.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44462174"
     }
   ]
 }
