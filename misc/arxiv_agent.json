@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-03T17:11:12.118434-04:00",
+  "last_updated": "2025-07-03T20:59:33.516747-04:00",
   "papers": [
     {
       "title": "The Thin Line Between Comprehension and Persuasion in LLMs",
@@ -8,9 +8,9 @@
       "published_time_eastern_timestamp": 1751478416.0
     },
     {
-      "title": "Decision-oriented Text Evaluation",
+      "title": "Decision-Oriented Text Evaluation",
       "summary": "Natural language generation (NLG) is increasingly deployed in high-stakes\ndomains, yet common intrinsic evaluation methods, such as n-gram overlap or\nsentence plausibility, weakly correlate with actual decision-making efficacy.\nWe propose a decision-oriented framework for evaluating generated text by\ndirectly measuring its influence on human and large language model (LLM)\ndecision outcomes. Using market digest texts--including objective morning\nsummaries and subjective closing-bell analyses--as test cases, we assess\ndecision quality based on the financial performance of trades executed by human\ninvestors and autonomous LLM agents informed exclusively by these texts. Our\nfindings reveal that neither humans nor LLM agents consistently surpass random\nperformance when relying solely on summaries. However, richer analytical\ncommentaries enable collaborative human-LLM teams to outperform individual\nhuman or agent baselines significantly. Our approach underscores the importance\nof evaluating generated text by its ability to facilitate synergistic\ndecision-making between humans and LLMs, highlighting critical limitations of\ntraditional intrinsic metrics.",
-      "url": "http://arxiv.org/abs/2507.01923v1",
+      "url": "http://arxiv.org/abs/2507.01923v2",
       "published_time_eastern_timestamp": 1751477555.0
     },
     {

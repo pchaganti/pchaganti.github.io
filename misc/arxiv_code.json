@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-03T17:11:12.584771-04:00",
+  "last_updated": "2025-07-03T20:59:33.922646-04:00",
   "papers": [
     {
       "title": "LongAnimation: Long Animation Generation with Dynamic Global-Local\n  Memory",
@@ -15,8 +15,8 @@
     },
     {
       "title": "Large Language Model-Driven Closed-Loop UAV Operation with Semantic\n  Observations",
-      "summary": "Large Language Models (LLMs) have revolutionized robotic autonomy, including\nUnmanned Aerial Vehicles (UAVs). Recent studies have demonstrated the potential\nof LLMs for translating human instructions into executable control code for UAV\noperations. However, LLMs still face challenges from logical reasoning and\ncomplex decision-making, leading to concerns about the reliability of\nLLM-driven UAV operations. In this paper, we propose a LLM-driven closed-loop\ncontrol framework that enables reliable UAV operations powered by effective\nfeedback and refinement using two LLM modules, i.e., a Code Generator and an\nEvaluator. Our framework transforms numerical state observations from UAV\noperations into natural language trajectory descriptions to enhance the\nevaluator LLM's understanding of UAV dynamics for precise feedback generation.\nOur framework also enables a simulation-based refinement process, and hence\neliminates the risks to physical UAVs caused by incorrect code execution during\nthe refinement. Extensive experiments on UAV control tasks with different\ncomplexities are conducted. The experimental results show that our framework\ncan achieve reliable UAV operations using LLMs, which significantly outperforms\nbaseline approaches in terms of success rate and completeness with the increase\nof task complexity.",
-      "url": "http://arxiv.org/abs/2507.01930v1",
+      "summary": "Recent advances in large Language Models (LLMs) have revolutionized mobile\nrobots, including unmanned aerial vehicles (UAVs), enabling their intelligent\noperation within Internet of Things (IoT) ecosystems. However, LLMs still face\nchallenges from logical reasoning and complex decision-making, leading to\nconcerns about the reliability of LLM-driven UAV operations in IoT\napplications. In this paper, we propose a LLM-driven closed-loop control\nframework that enables reliable UAV operations powered by effective feedback\nand refinement using two LLM modules, i.e., a Code Generator and an Evaluator.\nOur framework transforms numerical state observations from UAV operations into\nnatural language trajectory descriptions to enhance the evaluator LLM's\nunderstanding of UAV dynamics for precise feedback generation. Our framework\nalso enables a simulation-based refinement process, and hence eliminates the\nrisks to physical UAVs caused by incorrect code execution during the\nrefinement. Extensive experiments on UAV control tasks with different\ncomplexities are conducted. The experimental results show that our framework\ncan achieve reliable UAV operations using LLMs, which significantly outperforms\nbaseline approaches in terms of success rate and completeness with the increase\nof task complexity.",
+      "url": "http://arxiv.org/abs/2507.01930v2",
       "published_time_eastern_timestamp": 1751478257.0
     },
     {
@@ -64,7 +64,7 @@
     {
       "title": "Generalized ODE reduction algorithm for bounded degree transformation",
       "summary": "The integrability problem of rational first-order ODEs\n$y^{\\prime}=\\frac{M(x,y)}{N(x,y)}$, where $M,N \\in \\mathbb{R}[x,y]$ is a\nlong-term research focus in the area of dynamical systems, physics, etc.\nAlthough the computer algebra system such as Mathematica, Maple has developed\nstandard algorithms to tackle its first integral expressed by Liouvillian or\nspecial function, this problem is quite difficult and the general method\nrequires specifying a tight degree bound for the Darboux polynomial. Computing\nthe bounded degree first integral, in general, is very expensive for a computer\nalgebra system\\cite{duarte2021efficient}\\cite{cheze2020symbolic} and becomes\nimpractical for ODE of large size. In \\cite{huang2025algorithm}, we have\nproposed an algorithm to find the inverse of a local rational transformation $y\n\\to \\frac{A(x,y)}{B(x,y)}$ that transforms a rational ODE to a simpler and more\ntractable structure $y^{\\prime}=\\sum_{i=0}^nf_i(x)y^i$, whose integrability\nunder linear transformation $\\left\\{x \\to F(x),y \\to P(x)y+Q(x)\\right\\}$ can be\ndetected by Maple efficiently \\cite{CHEBTERRAB2000204}\\cite{cheb2000first}. In\nthat paper we have also mentioned when $M(x,y),N(x,y)$ of the reducible\nstructure are not coprime, canceling the common factors in $y$ will alter the\nstructure which makes that algorithm fail. In this paper, we consider this\nissue. We conclude that with the exact tight degree bound for the polynomial\n$A(x,y)$ given, we have an efficient algorithm to compute such transformation\nand the reduced ODE for \"quite a lot of\" cases where $M,N$ are not coprime. We\nhave also implemented this algorithm in Maple and the code is available in\nresearchgate.",
-      "url": "http://arxiv.org/abs/2507.01878v1",
+      "url": "http://arxiv.org/abs/2507.01878v2",
       "published_time_eastern_timestamp": 1751474893.0
     },
     {

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-03T17:11:11.659989-04:00",
+  "last_updated": "2025-07-03T20:59:33.006065-04:00",
   "papers": [
     {
       "title": "SpecCLIP: Aligning and Translating Spectroscopic Measurements for Stars",
@@ -15,14 +15,14 @@
     },
     {
       "title": "Large Language Model-Driven Closed-Loop UAV Operation with Semantic\n  Observations",
-      "summary": "Large Language Models (LLMs) have revolutionized robotic autonomy, including\nUnmanned Aerial Vehicles (UAVs). Recent studies have demonstrated the potential\nof LLMs for translating human instructions into executable control code for UAV\noperations. However, LLMs still face challenges from logical reasoning and\ncomplex decision-making, leading to concerns about the reliability of\nLLM-driven UAV operations. In this paper, we propose a LLM-driven closed-loop\ncontrol framework that enables reliable UAV operations powered by effective\nfeedback and refinement using two LLM modules, i.e., a Code Generator and an\nEvaluator. Our framework transforms numerical state observations from UAV\noperations into natural language trajectory descriptions to enhance the\nevaluator LLM's understanding of UAV dynamics for precise feedback generation.\nOur framework also enables a simulation-based refinement process, and hence\neliminates the risks to physical UAVs caused by incorrect code execution during\nthe refinement. Extensive experiments on UAV control tasks with different\ncomplexities are conducted. The experimental results show that our framework\ncan achieve reliable UAV operations using LLMs, which significantly outperforms\nbaseline approaches in terms of success rate and completeness with the increase\nof task complexity.",
-      "url": "http://arxiv.org/abs/2507.01930v1",
+      "summary": "Recent advances in large Language Models (LLMs) have revolutionized mobile\nrobots, including unmanned aerial vehicles (UAVs), enabling their intelligent\noperation within Internet of Things (IoT) ecosystems. However, LLMs still face\nchallenges from logical reasoning and complex decision-making, leading to\nconcerns about the reliability of LLM-driven UAV operations in IoT\napplications. In this paper, we propose a LLM-driven closed-loop control\nframework that enables reliable UAV operations powered by effective feedback\nand refinement using two LLM modules, i.e., a Code Generator and an Evaluator.\nOur framework transforms numerical state observations from UAV operations into\nnatural language trajectory descriptions to enhance the evaluator LLM's\nunderstanding of UAV dynamics for precise feedback generation. Our framework\nalso enables a simulation-based refinement process, and hence eliminates the\nrisks to physical UAVs caused by incorrect code execution during the\nrefinement. Extensive experiments on UAV control tasks with different\ncomplexities are conducted. The experimental results show that our framework\ncan achieve reliable UAV operations using LLMs, which significantly outperforms\nbaseline approaches in terms of success rate and completeness with the increase\nof task complexity.",
+      "url": "http://arxiv.org/abs/2507.01930v2",
       "published_time_eastern_timestamp": 1751478257.0
     },
     {
-      "title": "Decision-oriented Text Evaluation",
+      "title": "Decision-Oriented Text Evaluation",
       "summary": "Natural language generation (NLG) is increasingly deployed in high-stakes\ndomains, yet common intrinsic evaluation methods, such as n-gram overlap or\nsentence plausibility, weakly correlate with actual decision-making efficacy.\nWe propose a decision-oriented framework for evaluating generated text by\ndirectly measuring its influence on human and large language model (LLM)\ndecision outcomes. Using market digest texts--including objective morning\nsummaries and subjective closing-bell analyses--as test cases, we assess\ndecision quality based on the financial performance of trades executed by human\ninvestors and autonomous LLM agents informed exclusively by these texts. Our\nfindings reveal that neither humans nor LLM agents consistently surpass random\nperformance when relying solely on summaries. However, richer analytical\ncommentaries enable collaborative human-LLM teams to outperform individual\nhuman or agent baselines significantly. Our approach underscores the importance\nof evaluating generated text by its ability to facilitate synergistic\ndecision-making between humans and LLMs, highlighting critical limitations of\ntraditional intrinsic metrics.",
-      "url": "http://arxiv.org/abs/2507.01923v1",
+      "url": "http://arxiv.org/abs/2507.01923v2",
       "published_time_eastern_timestamp": 1751477555.0
     },
     {
