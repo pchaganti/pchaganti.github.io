@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-07-04T11:12:16.831965-04:00",
+  "last_updated": "2025-07-04T14:16:19.010535-04:00",
   "stories": [
     {
+      "title": "Mini NASes marry NVMe to Intel's efficient chip",
+      "score": 134,
+      "url": "https://www.jeffgeerling.com/blog/2025/mini-nases-marry-nvme-intels-efficient-chip",
+      "time": 1751642511.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44465319"
+    },
+    {
+      "title": "EverQuest",
+      "score": 42,
+      "url": "https://www.filfre.net/2025/07/everquest/",
+      "time": 1751645413.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44465731"
+    },
+    {
       "title": "Why I left my tech job to work on chronic pain",
-      "score": 99,
+      "score": 193,
       "url": "https://sailhealth.substack.com/p/why-i-left-my-tech-job-to-work-on",
       "time": 1751633404.0,
       "comments_url": "https://news.ycombinator.com/item?id=44464068"
     },
     {
-      "title": "Writing a Game Boy Emulator in OCaml",
-      "score": 146,
-      "url": "https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/",
-      "time": 1751621696.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44462896"
+      "title": "In a Milestone for Manhattan, a Pair of Coyotes Has Made Central Park Their Home",
+      "score": 71,
+      "url": "https://www.smithsonianmag.com/science-nature/in-a-milestone-for-manhattan-a-pair-of-coyotes-has-made-central-park-their-home-180986892/",
+      "time": 1751371976.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44433094"
+    },
+    {
+      "title": "Compression Dictionary Transport",
+      "score": 35,
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Compression_dictionary_transport",
+      "time": 1751641653.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44465206"
     },
     {
       "title": "Show HN: I AI-coded a tower defense game and documented the whole process",
-      "score": 61,
+      "score": 133,
       "url": "https://github.com/maciej-trebacz/tower-of-time-game",
       "time": 1751632489.0,
       "comments_url": "https://news.ycombinator.com/item?id=44463967"
     },
     {
-      "title": "Show HN: BunkerWeb – the open-source and cloud-native WAF",
-      "score": 39,
-      "url": "https://docs.bunkerweb.io/latest/",
-      "time": 1751630157.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44463747"
-    },
-    {
-      "title": "Larry (cat)",
-      "score": 102,
-      "url": "https://en.wikipedia.org/wiki/Larry_(cat)",
-      "time": 1751622184.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44462947"
-    },
-    {
-      "title": "Lens: Lenses, Folds and Traversals",
-      "score": 31,
-      "url": "https://hackage.haskell.org/package/lens",
-      "time": 1751371726.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44433062"
-    },
-    {
       "title": "Kepler.gl",
-      "score": 14,
+      "score": 69,
       "url": "https://kepler.gl/",
       "time": 1751637483.0,
       "comments_url": "https://news.ycombinator.com/item?id=44464641"
     },
     {
-      "title": "A Rust-TypeScript integration",
-      "score": 27,
-      "url": "https://github.com/beeeeep54/rust-typescript",
-      "time": 1751629355.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44463654"
+      "title": "Larry (cat)",
+      "score": 174,
+      "url": "https://en.wikipedia.org/wiki/Larry_(cat)",
+      "time": 1751622184.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44462947"
     },
     {
-      "title": "Is an Intel N100 or N150 a better value than a Raspberry Pi?",
-      "score": 102,
-      "url": "https://www.jeffgeerling.com/blog/2025/intel-n100-better-value-raspberry-pi",
-      "time": 1751630904.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44463813"
-    },
-    {
-      "title": "Serving 200M requests per day with a CGI-bin",
-      "score": 53,
-      "url": "https://jacob.gold/posts/serving-200-million-requests-with-cgi-bin/",
-      "time": 1751634969.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44464272"
-    },
-    {
-      "title": "Show HN: Fast Thermodynamic Calculations in Python",
-      "score": 24,
-      "url": "https://dlr-institute-of-future-fuels.github.io/gaspype/",
-      "time": 1751629692.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44463698"
-    },
-    {
-      "title": "Enhanced Radar (YC W25) is hiring a founding engineer",
+      "title": "UpCodes (YC S17) is hiring a Head of Ops to automate construction compliance",
       "score": 1,
-      "url": "https://news.ycombinator.com/item?id=44463773",
-      "time": 1751630453.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44463773"
+      "url": "https://up.codes/careers?utm_source=HN",
+      "time": 1751648418.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44466121"
     },
     {
-      "title": "Can Large Language Models Play Text Games Well?",
-      "score": 19,
-      "url": "https://arxiv.org/abs/2304.02868",
-      "time": 1751628282.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44463536"
+      "title": "Writing a Game Boy Emulator in OCaml",
+      "score": 181,
+      "url": "https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/",
+      "time": 1751621696.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44462896"
     },
     {
-      "title": "I want to leave tech: what do I do?",
-      "score": 80,
-      "url": "https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a",
-      "time": 1751637529.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44464647"
+      "title": "Lens: Lenses, Folds and Traversals",
+      "score": 49,
+      "url": "https://hackage.haskell.org/package/lens",
+      "time": 1751371726.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44433062"
+    },
+    {
+      "title": "Show HN: BunkerWeb – the open-source and cloud-native WAF",
+      "score": 63,
+      "url": "https://docs.bunkerweb.io/latest/",
+      "time": 1751630157.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44463747"
+    },
+    {
+      "title": "Bcachefs may be headed out of the kernel",
+      "score": 36,
+      "url": "https://lwn.net/Articles/1027289/",
+      "time": 1751635930.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44464396"
     },
     {
       "title": "We're Not Innovating, We're Just Forgetting Slower",
-      "score": 5,
+      "score": 99,
       "url": "https://www.elektormagazine.com/articles/opinion-no-innovation-forgetting-slower",
       "time": 1751638405.0,
       "comments_url": "https://news.ycombinator.com/item?id=44464756"
     },
     {
-      "title": "Show HN: A cross-platform terminal emulator written in Java",
-      "score": 10,
-      "url": "https://github.com/sebkur/forceterm",
-      "time": 1751353861.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44431372"
+      "title": "Can Large Language Models Play Text Games Well?",
+      "score": 40,
+      "url": "https://arxiv.org/abs/2304.02868",
+      "time": 1751628282.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44463536"
     },
     {
-      "title": "Introducing tmux-rs",
-      "score": 806,
-      "url": "https://richardscollin.github.io/tmux-rs/",
-      "time": 1751554994.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44455787"
+      "title": "Rust and WASM for Form Validation",
+      "score": 29,
+      "url": "https://sebastian.lauwe.rs/blog/rust-wasm-form-validation/",
+      "time": 1751631890.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44463916"
+    },
+    {
+      "title": "Is an Intel N100 or N150 a better value than a Raspberry Pi?",
+      "score": 173,
+      "url": "https://www.jeffgeerling.com/blog/2025/intel-n100-better-value-raspberry-pi",
+      "time": 1751630904.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44463813"
     },
     {
       "title": "Wind Knitting Factory",
-      "score": 173,
+      "score": 193,
       "url": "https://www.merelkarhof.nl/work/wind-knitting-factory",
       "time": 1751574537.0,
       "comments_url": "https://news.ycombinator.com/item?id=44458890"
     },
     {
+      "title": "Show HN: A cross-platform terminal emulator written in Java",
+      "score": 43,
+      "url": "https://github.com/sebkur/forceterm",
+      "time": 1751353861.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44431372"
+    },
+    {
       "title": "Zig breaking change – initial Writergate",
-      "score": 122,
+      "score": 157,
       "url": "https://github.com/ziglang/zig/pull/24329",
       "time": 1751602279.0,
       "comments_url": "https://news.ycombinator.com/item?id=44461067"
-    },
-    {
-      "title": "DRM Panic QR code generator",
-      "score": 47,
-      "url": "https://rust-for-linux.com/drm-panic-qr-code-generator",
-      "time": 1751615235.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44462174"
     }
   ]
 }
