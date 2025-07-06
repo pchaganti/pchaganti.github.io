@@ -1,47 +1,89 @@
 {
-  "last_updated": "2025-07-06T14:15:27.419385-04:00",
+  "last_updated": "2025-07-06T17:10:28.453291-04:00",
   "stories": [
     {
+      "title": "Show HN: I wrote a \"web OS\" based on the Apple Lisa's UI, with 1-bit graphics",
+      "score": 154,
+      "url": "https://alpha.lisagui.com/",
+      "time": 1751826775.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44482965"
+    },
+    {
+      "title": "I extracted the safety filters from Apple Intelligence models",
+      "score": 64,
+      "url": "https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted",
+      "time": 1751831402.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44483485"
+    },
+    {
+      "title": "More than 1 in 5 Show HN posts are now AI-related, get > half the votes/comments",
+      "score": 102,
+      "url": "https://ryanfarley.co/ai-show-hn-data/",
+      "time": 1751625304.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44463249"
+    },
+    {
+      "title": "Async Queue – One of my favorite programming interview questions",
+      "score": 29,
+      "url": "https://davidgomes.com/async-queue-interview-ai/",
+      "time": 1751820361.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44482194"
+    },
+    {
+      "title": "Jane Street barred from Indian markets as regulator freezes $566 million",
+      "score": 69,
+      "url": "https://www.cnbc.com/2025/07/04/indian-regulator-bars-us-trading-firm-jane-street-from-accessing-securities-market.html",
+      "time": 1751810631.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44480916"
+    },
+    {
       "title": "Get the location of the ISS using DNS",
-      "score": 177,
+      "score": 226,
       "url": "https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/",
       "time": 1751805166.0,
       "comments_url": "https://news.ycombinator.com/item?id=44480223"
     },
     {
+      "title": "opencode: AI coding agent, built for the terminal",
+      "score": 45,
+      "url": "https://github.com/sst/opencode",
+      "time": 1751822807.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44482504"
+    },
+    {
       "title": "Functions Are Vectors (2023)",
-      "score": 80,
+      "score": 126,
       "url": "https://thenumb.at/Functions-are-Vectors/",
       "time": 1751815115.0,
       "comments_url": "https://news.ycombinator.com/item?id=44481464"
     },
     {
-      "title": "Hannah Cairo has solved the Mizohata-Takeuchi conjecture",
-      "score": 166,
+      "title": "Lessons from 863 episodes of This American Life",
+      "score": 37,
+      "url": "https://indarktrees.com/misc/tal/",
+      "time": 1751824467.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44482709"
+    },
+    {
+      "title": "Cool People [pdf]",
+      "score": 42,
+      "url": "https://www.apa.org/pubs/journals/releases/xge-xge0001799.pdf",
+      "time": 1751823616.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44482611"
+    },
+    {
+      "title": "Corrected UTF-8 (2022)",
+      "score": 16,
+      "url": "https://www.owlfolio.org/development/corrected-utf-8/",
+      "time": 1751556566.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44456073"
+    },
+    {
+      "title": "Hannah Cairo: 17-year-old teen refutes a math conjecture proposed 40 years ago",
+      "score": 283,
       "url": "https://english.elpais.com/science-tech/2025-07-01/a-17-year-old-teen-refutes-a-mathematical-conjecture-proposed-40-years-ago.html",
       "time": 1751814951.0,
       "comments_url": "https://news.ycombinator.com/item?id=44481441"
-    },
-    {
-      "title": "Claude Code Pro Limit? Hack It While You Sleep",
-      "score": 34,
-      "url": "https://github.com/terryso/claude-auto-resume",
-      "time": 1751813317.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44481235"
-    },
-    {
-      "title": "Overthinking GIS (2024)",
-      "score": 85,
-      "url": "https://scottsexton.co/post/overthinking_gis/",
-      "time": 1751790370.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44478861"
-    },
-    {
-      "title": "Hidden interface controls that affect usability",
-      "score": 517,
-      "url": "https://interactions.acm.org/archive/view/july-august-2025/stop-hiding-my-controls-hidden-interface-controls-are-affecting-usability",
-      "time": 1751757003.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44476297"
     },
     {
       "title": "Metriport (YC S22) is hiring engineers to improve healthcare data exchange",
@@ -51,95 +93,53 @@
       "comments_url": "https://news.ycombinator.com/item?id=44482301"
     },
     {
-      "title": "Serving 200M requests per day with a CGI-bin",
-      "score": 251,
-      "url": "https://simonwillison.net/2025/Jul/5/cgi-bin-performance/",
-      "time": 1751761938.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44476716"
+      "title": "Collatz's Ant and Σ(n)",
+      "score": 17,
+      "url": "https://gbragafibra.github.io/2025/07/06/collatz_ant5.html",
+      "time": 1751821965.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44482405"
     },
     {
-      "title": "Overclocking LLM Reasoning: Monitoring and Controlling LLM Thinking Path Lengths",
-      "score": 15,
-      "url": "https://royeisen.github.io/OverclockingLLMReasoning-paper/",
-      "time": 1751806393.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44480400"
-    },
-    {
-      "title": "Take Two: Eshell",
-      "score": 92,
-      "url": "http://yummymelon.com/devnull/take-two-eshell.html",
-      "time": 1751533089.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44453038"
-    },
-    {
-      "title": "How to get started with Old English poetry",
-      "score": 18,
-      "url": "https://www.deadlanguagesociety.com/p/old-english-poetry",
-      "time": 1751658975.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44467383"
-    },
-    {
-      "title": "Eastern Baltic cod grow much smaller than they did due to overfishing",
-      "score": 251,
-      "url": "https://www.smithsonianmag.com/smart-news/these-cod-have-been-shrinking-dramatically-for-decades-now-scientists-say-theyve-solved-the-mystery-180986920/",
-      "time": 1751742034.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44474759"
-    },
-    {
-      "title": "Building a Mac app with Claude code",
-      "score": 102,
-      "url": "https://www.indragie.com/blog/i-shipped-a-macos-app-built-entirely-by-claude-code",
-      "time": 1751813736.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44481286"
-    },
-    {
-      "title": "Reinforcement Learning from Human Feedback (RLHF) in Notebooks",
-      "score": 45,
-      "url": "https://github.com/ash80/RLHF_in_notebooks",
-      "time": 1751811792.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44481066"
-    },
-    {
-      "title": "What a Hacker Stole from Me",
-      "score": 295,
-      "url": "https://mynoise.net/blog.php",
-      "time": 1751754748.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44476115"
+      "title": "Backlog.md – CLI that auto-generates task files (took my Claude success to 95 %)",
+      "score": 4,
+      "url": "https://github.com/MrLesk/Backlog.md",
+      "time": 1751831730.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44483530"
     },
     {
       "title": "Toys/Lag: Jerk Monitor",
-      "score": 24,
+      "score": 35,
       "url": "https://nothing.pcarrier.com/posts/lag/",
       "time": 1751812414.0,
       "comments_url": "https://news.ycombinator.com/item?id=44481135"
     },
     {
-      "title": "July 5, 1687: When Newton explained why you don't float away",
-      "score": 83,
-      "url": "https://multiverseemployeehandbook.com/blog/when-newton-explained-why-you-dont-float-away/",
-      "time": 1751775113.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44477768"
+      "title": "1945 TV Console Showed Two Programs at Once",
+      "score": 26,
+      "url": "https://spectrum.ieee.org/dumont-duoscopic-tv-set",
+      "time": 1751715833.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44472057"
     },
     {
-      "title": "Show HN: Pixel Art Generator Using Genetic Algorithm",
-      "score": 4,
-      "url": "https://github.com/Yutarop/ga-pixel-art",
-      "time": 1751813362.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44481244"
+      "title": "Overclocking LLM Reasoning: Monitoring and Controlling LLM Thinking Path Lengths",
+      "score": 40,
+      "url": "https://royeisen.github.io/OverclockingLLMReasoning-paper/",
+      "time": 1751806393.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44480400"
     },
     {
-      "title": "Meet Bionode",
-      "score": 20,
-      "url": "https://microship.com/meet-bionode/",
-      "time": 1751483930.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44447742"
+      "title": "Serving 200M requests per day with a CGI-bin",
+      "score": 279,
+      "url": "https://simonwillison.net/2025/Jul/5/cgi-bin-performance/",
+      "time": 1751761938.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44476716"
     },
     {
-      "title": "How to Network as an Introvert",
-      "score": 305,
-      "url": "https://aginfer.bearblog.dev/how-to-network-as-an-introvert/",
-      "time": 1751749601.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44475537"
+      "title": "Can we test it? Yes, was can [video]",
+      "score": 52,
+      "url": "https://www.youtube.com/watch?v=MqC3tudPH6w",
+      "time": 1751515489.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44451532"
     }
   ]
 }
