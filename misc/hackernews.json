@@ -1,47 +1,117 @@
 {
-  "last_updated": "2025-07-08T11:12:48.404255-04:00",
+  "last_updated": "2025-07-08T14:17:10.563967-04:00",
   "stories": [
     {
+      "title": "CVE-2025-48384: Breaking Git with a carriage return and cloning RCE",
+      "score": 65,
+      "url": "https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384",
+      "time": 1751996909.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44502330"
+    },
+    {
+      "title": "Radium – The Music Editor",
+      "score": 18,
+      "url": "http://users.notam02.no/~kjetism/radium/",
+      "time": 1751996675.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44502298"
+    },
+    {
+      "title": "Google can now read your WhatsApp messages",
+      "score": 206,
+      "url": "https://www.neowin.net/guides/google-can-now-read-your-whatsapp-messages-heres-how-to-stop-it/",
+      "time": 1751991080.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44501379"
+    },
+    {
+      "title": "Dynamical origin of Theia, the last giant impactor on Earth",
+      "score": 4,
+      "url": "https://arxiv.org/abs/2507.01826",
+      "time": 1751998246.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44502527"
+    },
+    {
+      "title": "Smollm3: Smol, multilingual, long-context reasoner LLM",
+      "score": 88,
+      "url": "https://huggingface.co/blog/smollm3",
+      "time": 1751991220.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44501413"
+    },
+    {
+      "title": "Taking over 60k spyware user accounts with SQL injection",
+      "score": 80,
+      "url": "https://ericdaigle.ca/posts/taking-over-60k-spyware-user-accounts/",
+      "time": 1751554560.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44455707"
+    },
+    {
+      "title": "Supabase MCP leaks your entire SQL Database, a lethal trifecta attack",
+      "score": 12,
+      "url": "https://simonwillison.net/2025/Jul/6/supabase-mcp-lethal-trifecta/",
+      "time": 1751996815.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44502318"
+    },
+    {
+      "title": "GlobalFoundries to Acquire MIPS",
+      "score": 38,
+      "url": "https://mips.com/press-releases/gf-mips/",
+      "time": 1751993838.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44501821"
+    },
+    {
       "title": "Can an email go 500 miles in 2025?",
-      "score": 87,
+      "score": 195,
       "url": "https://flak.tedunangst.com/post/can-an-email-go-500-miles-in-2025",
       "time": 1751647767.0,
       "comments_url": "https://news.ycombinator.com/item?id=44466030"
     },
     {
-      "title": "Show HN: OffChess – Offline chess puzzles app",
-      "score": 209,
-      "url": "https://offchess.com",
-      "time": 1751965021.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44498296"
+      "title": "TIL you can make \"GIFs\" with SVGs for GitHub README.md files",
+      "score": 166,
+      "url": "https://koaning.io/posts/svg-gifs/",
+      "time": 1751962985.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44498133"
+    },
+    {
+      "title": "Show HN: Jukebox – Free, Open Source Group Playlist with Fair Queueing",
+      "score": 37,
+      "url": "https://www.jukeboxhq.com/",
+      "time": 1751987929.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44500840"
+    },
+    {
+      "title": "Brut: A New Web Framework for Ruby",
+      "score": 10,
+      "url": "https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html",
+      "time": 1751997800.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44502463"
+    },
+    {
+      "title": "On The Meaning of Ritual",
+      "score": 25,
+      "url": "https://alicemaz.substack.com/p/on-the-meaning-of-ritual",
+      "time": 1751715643.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44472036"
+    },
+    {
+      "title": "A compact bitset implementation used in Ocarina of Time save files",
+      "score": 30,
+      "url": "https://github.com/jb55/oot_bitset",
+      "time": 1751660743.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44467607"
     },
     {
       "title": "New sphere-packing record stems from an unexpected source",
-      "score": 368,
+      "score": 388,
       "url": "https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/",
       "time": 1751912353.0,
       "comments_url": "https://news.ycombinator.com/item?id=44493196"
     },
     {
-      "title": "Blind to Disruption – The CEOs Who Missed the Future",
-      "score": 11,
-      "url": "https://steveblank.com/2025/07/08/blind-to-disruption-the-ceos-who-missed-the-future/",
-      "time": 1751982103.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44499873"
-    },
-    {
-      "title": "Berry Script: lightweight embedded scripting language for microcontrollers",
-      "score": 70,
-      "url": "https://berry-lang.github.io/",
-      "time": 1751717630.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44472246"
-    },
-    {
-      "title": "Epanet-JS",
-      "score": 168,
-      "url": "https://macwright.com/2025/07/03/epanet-placemark",
-      "time": 1751637439.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44464628"
+      "title": "Memstop: Use LD_PRELOAD to delay process execution when low on memory",
+      "score": 41,
+      "url": "https://github.com/surban/memstop",
+      "time": 1751664736.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44468022"
     },
     {
       "title": "Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Researcher",
@@ -51,95 +121,25 @@
       "comments_url": "https://news.ycombinator.com/item?id=44499183"
     },
     {
-      "title": "Reflections on 2 years of CPython's JIT Compiler",
-      "score": 46,
-      "url": "https://fidget-spinner.github.io/posts/jit-reflections.html",
-      "time": 1751753708.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44476023"
+      "title": "Particle Lenia Deluxe Edition",
+      "score": 5,
+      "url": "https://www.craftlinks.art/Notebook/particle-lenia/",
+      "time": 1751695716.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44470447"
+    },
+    {
+      "title": "Show HN: OffChess – Offline chess puzzles app",
+      "score": 249,
+      "url": "https://offchess.com",
+      "time": 1751965021.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44498296"
     },
     {
       "title": "Mercury: Ultra-fast language models based on diffusion",
-      "score": 508,
+      "score": 533,
       "url": "https://arxiv.org/abs/2506.17298",
       "time": 1751891468.0,
       "comments_url": "https://news.ycombinator.com/item?id=44489690"
-    },
-    {
-      "title": "I used o3 to profile myself from my saved Pocket links",
-      "score": 441,
-      "url": "https://noperator.dev/posts/o3-pocket-profile/",
-      "time": 1751892259.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44489803"
-    },
-    {
-      "title": "What Microchip doesn't (officially) tell you about the VSC8512",
-      "score": 144,
-      "url": "https://serd.es/2025/07/04/Switch-project-pt3.html",
-      "time": 1751670611.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44468718"
-    },
-    {
-      "title": "LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping",
-      "score": 108,
-      "url": "https://studios.disneyresearch.com/2025/06/09/lookingglass-generative-anamorphoses-via-laplacian-pyramid-warping/",
-      "time": 1751926318.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44495154"
-    },
-    {
-      "title": "Exploring Coroutines in PHP",
-      "score": 80,
-      "url": "https://doeken.org/blog/coroutines-in-php",
-      "time": 1751708053.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44471388"
-    },
-    {
-      "title": "Memstop: Use LD_PRELOAD to delay process execution when low on memory",
-      "score": 13,
-      "url": "https://github.com/surban/memstop",
-      "time": 1751664736.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44468022"
-    },
-    {
-      "title": "SIMD.info – Reference tool for C intrinsics of all major SIMD engines",
-      "score": 56,
-      "url": "https://simd.info/",
-      "time": 1751939099.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44496229"
-    },
-    {
-      "title": "The Miyawaki Method of micro-forestry",
-      "score": 194,
-      "url": "https://www.futureecologies.net/listen/fe-6-5-the-method",
-      "time": 1751702576.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44470942"
-    },
-    {
-      "title": "Adding a feature because ChatGPT incorrectly thinks it exists",
-      "score": 1062,
-      "url": "https://www.holovaty.com/writing/chatgpt-fake-feature/",
-      "time": 1751900289.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44491071"
-    },
-    {
-      "title": "When Figma starts designing us",
-      "score": 264,
-      "url": "https://designsystems.international/ideas/when-figma-starts-designing-us/",
-      "time": 1751798307.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44479502"
-    },
-    {
-      "title": "Running a Certificate Transparency log",
-      "score": 121,
-      "url": "https://words.filippo.io/run-sunlight/",
-      "time": 1751920614.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44494430"
-    },
-    {
-      "title": "Why are there no good dinosaur films?",
-      "score": 139,
-      "url": "https://briannazigler.substack.com/p/why-are-there-no-good-dinosaur-films",
-      "time": 1751658927.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44467379"
     }
   ]
 }
