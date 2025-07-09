@@ -1,142 +1,142 @@
 {
-  "last_updated": "2025-07-09T11:13:16.542879-04:00",
+  "last_updated": "2025-07-09T14:17:12.366094-04:00",
   "stories": [
     {
       "title": "Tree Borrows",
-      "score": 38,
+      "score": 213,
       "url": "https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html",
       "time": 1752072024.0,
       "comments_url": "https://news.ycombinator.com/item?id=44510600"
     },
     {
+      "title": "\"Just Fucking Ship IT\" (Or: On Vibecoding)",
+      "score": 55,
+      "url": "https://coal.sh/blog/pandu_bad",
+      "time": 1752080436.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44512368"
+    },
+    {
+      "title": "Evolution Mail Users Easily Trackable",
+      "score": 8,
+      "url": "https://www.grepular.com/Evolution_Mail_Users_Easily_Trackable",
+      "time": 1752082010.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44512684"
+    },
+    {
       "title": "Why LLMs Can't Write Q/Kdb+: Writing Code Right-to-Left",
-      "score": 88,
+      "score": 130,
       "url": "https://medium.com/@gabiteodoru/why-llms-cant-write-q-kdb-writing-code-right-to-left-ea6df68af443",
       "time": 1751971203.0,
       "comments_url": "https://news.ycombinator.com/item?id=44498766"
     },
     {
-      "title": "Hugging Face just launched a $299 robot that could disrupt the robotics industry",
-      "score": 67,
-      "url": "https://venturebeat.com/ai/hugging-face-just-launched-a-299-robot-that-could-disrupt-the-entire-robotics-industry/",
-      "time": 1752070486.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44510320"
-    },
-    {
-      "title": "X Chief Says She Is Leaving the Social Media Platform",
-      "score": 48,
-      "url": "https://www.nytimes.com/2025/07/09/technology/linda-yaccarino-x-steps-down.html",
-      "time": 1752072724.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44510731"
+      "title": "Archaeologists unveil 3,500-year-old city in Peru",
+      "score": 47,
+      "url": "https://www.bbc.co.uk/news/articles/c07dmx38kyeo",
+      "time": 1751871490.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44487451"
     },
     {
       "title": "Ruby 3.4 frozen string literals: What Rails developers need to know",
-      "score": 119,
+      "score": 159,
       "url": "https://www.prateekcodes.dev/ruby-34-frozen-string-literals-rails-upgrade-guide/",
       "time": 1751795906.0,
       "comments_url": "https://news.ycombinator.com/item?id=44479302"
     },
     {
-      "title": "Is the doc bot docs, or not?",
-      "score": 125,
-      "url": "https://www.robinsloan.com/lab/what-are-we-even-doing-here/",
-      "time": 1752046709.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44507244"
+      "title": "Show HN: FlopperZiro – A DIY open-source Flipper Zero clone",
+      "score": 14,
+      "url": "https://github.com/lraton/FlopperZiro",
+      "time": 1752082449.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44512763"
     },
     {
-      "title": "A fast 3D collision detection algorithm",
-      "score": 23,
-      "url": "https://cairno.substack.com/p/improvements-to-the-separating-axis",
-      "time": 1752070336.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44510282"
-    },
-    {
-      "title": "Helm local code execution via a malicious chart",
-      "score": 127,
-      "url": "https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm",
-      "time": 1752040192.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44506696"
-    },
-    {
-      "title": "Florida is letting companies make it harder for highly paid workers to swap jobs",
-      "score": 22,
-      "url": "https://www.businessinsider.com/florida-made-it-harder-highly-paid-workers-to-swap-jobs-2025-7",
-      "time": 1752071942.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44510584"
+      "title": "I Ported SAP to a 1976 CPU. It Wasn't That Slow",
+      "score": 88,
+      "url": "https://github.com/oisee/zvdb-z80/blob/master/ZVDB-Z80-ABAP.md",
+      "time": 1751866757.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44487110"
     },
     {
       "title": "Most RESTful APIs aren't really RESTful",
-      "score": 156,
+      "score": 223,
       "url": "https://florian-kraemer.net//software-architecture/2025/07/07/Most-RESTful-APIs-are-not-really-RESTful.html",
       "time": 1752044676.0,
       "comments_url": "https://news.ycombinator.com/item?id=44507076"
     },
     {
+      "title": "A fast 3D collision detection algorithm",
+      "score": 91,
+      "url": "https://cairno.substack.com/p/improvements-to-the-separating-axis",
+      "time": 1752070336.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44510282"
+    },
+    {
       "title": "US Court nullifies FTC requirement for click-to-cancel",
-      "score": 307,
+      "score": 434,
       "url": "https://arstechnica.com/tech-policy/2025/07/us-court-cancels-ftc-rule-that-would-have-made-canceling-subscriptions-easier/",
       "time": 1752014559.0,
       "comments_url": "https://news.ycombinator.com/item?id=44504699"
     },
     {
-      "title": "Bootstrapping a side project into a profitable seven-figure business",
-      "score": 644,
-      "url": "https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding",
-      "time": 1751929125.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44495428"
-    },
-    {
-      "title": "IKEA ditches Zigbee for Thread going all in on Matter smart homes",
-      "score": 192,
-      "url": "https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy",
-      "time": 1752054137.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44507971"
-    },
-    {
-      "title": "Phrase origin: Why do we \"call\" functions?",
-      "score": 135,
-      "url": "https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/",
-      "time": 1752033885.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44506251"
-    },
-    {
-      "title": "RapidRAW: A non-destructive and GPU-accelerated RAW image editor",
-      "score": 205,
-      "url": "https://github.com/CyberTimon/RapidRAW",
-      "time": 1752028648.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44505876"
-    },
-    {
-      "title": "Serving a half billion requests per day with Rust and CGI",
-      "score": 78,
-      "url": "https://jacob.gold/posts/serving-half-billion-requests-with-rust-cgi/",
-      "time": 1751912196.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44493174"
-    },
-    {
-      "title": "Astro is a return to the fundamentals of the web",
-      "score": 187,
-      "url": "https://websmith.studio/blog/astro-is-a-developers-dream/",
-      "time": 1752052686.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44507854"
-    },
-    {
-      "title": "Using MPC for Anonymous and Private DNA Analysis",
-      "score": 15,
-      "url": "https://vishakh.blog/2025/07/08/using-mpc-for-anonymous-and-private-dna-analysis/",
-      "time": 1752061949.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44508866"
-    },
-    {
       "title": "7-Zip for Windows can now use more than 64 CPU threads for compression",
-      "score": 149,
+      "score": 208,
       "url": "https://www.7-zip.org/history.txt",
       "time": 1751889130.0,
       "comments_url": "https://news.ycombinator.com/item?id=44489359"
     },
     {
+      "title": "Helm local code execution via a malicious chart",
+      "score": 144,
+      "url": "https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm",
+      "time": 1752040192.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44506696"
+    },
+    {
+      "title": "Bootstrapping a side project into a profitable seven-figure business",
+      "score": 709,
+      "url": "https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding",
+      "time": 1751929125.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44495428"
+    },
+    {
+      "title": "X Chief Says She Is Leaving the Social Media Platform",
+      "score": 240,
+      "url": "https://www.nytimes.com/2025/07/09/technology/linda-yaccarino-x-steps-down.html",
+      "time": 1752072724.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44510731"
+    },
+    {
+      "title": "Is the doc bot docs, or not?",
+      "score": 168,
+      "url": "https://www.robinsloan.com/lab/what-are-we-even-doing-here/",
+      "time": 1752046709.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44507244"
+    },
+    {
+      "title": "Phrase origin: Why do we \"call\" functions?",
+      "score": 188,
+      "url": "https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/",
+      "time": 1752033885.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44506251"
+    },
+    {
+      "title": "A Emoji Reverse Polish Notation Calculator Written in COBOL",
+      "score": 19,
+      "url": "https://github.com/ghuntley/cobol-emoji-rpn-calculator",
+      "time": 1751763477.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44476848"
+    },
+    {
+      "title": "RapidRAW: A non-destructive and GPU-accelerated RAW image editor",
+      "score": 227,
+      "url": "https://github.com/CyberTimon/RapidRAW",
+      "time": 1752028648.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44505876"
+    },
+    {
       "title": "Breaking Git with a carriage return and cloning RCE",
-      "score": 344,
+      "score": 353,
       "url": "https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384",
       "time": 1751996909.0,
       "comments_url": "https://news.ycombinator.com/item?id=44502330"
