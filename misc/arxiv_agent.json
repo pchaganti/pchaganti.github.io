@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-08T17:11:54.523421-04:00",
+  "last_updated": "2025-07-08T21:01:04.523326-04:00",
   "papers": [
     {
       "title": "Spatio-Temporal LLM: Reasoning about Environments and Actions",
@@ -34,7 +34,7 @@
     {
       "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I.\n  X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
       "summary": "The rapid advancements of AI agents have ignited the long-held ambition of\nleveraging them to accelerate scientific discovery. Achieving this goal\nrequires a deep understanding of the frontiers of human knowledge. As such,\nHumanity's Last Exam (HLE) provides an exceptionally challenging touchstone for\nevaluating scientific AI agents. In this work, we aim to construct the\nfoundational architecture for general-purpose agents and validate the\ncapabilities through leading performance on HLE. To achieve this, we introduce\nX-Master, a tool-augmented reasoning agent designed to emulate human\nresearchers by interacting flexibly with external tools during its reasoning\nprocess. This agent, guided by the conceptualization of code as an interaction\nlanguage, can flexibly leverage built-in Python libraries and our customized\ntools to augment the reasoning. We further scale its capabilities through\nX-Masters, a scattered-and-stacked agentic workflow that systematically\nenhances breadth and depth of reasoning. Our open-source solution, X-Masters,\nsets a new state-of-the-art record on HLE with a score of 32.1%, surpassing\nOpenAI's and Google's Deep Research (26.6% and 26.9%) and becoming the first to\nexceed the 30% threshold. This work allows us to gain a deeper understanding of\ncomplex task-solving and accumulates valuable experience that can inform future\nadvancements, guiding subsequent model training.",
-      "url": "http://arxiv.org/abs/2507.05241v1",
+      "url": "http://arxiv.org/abs/2507.05241v2",
       "published_time_eastern_timestamp": 1751910652.0
     },
     {
@@ -46,7 +46,7 @@
     {
       "title": "MedGemma Technical Report",
       "summary": "Artificial intelligence (AI) has significant potential in healthcare\napplications, but its training and deployment faces challenges due to\nhealthcare's diverse data, complex tasks, and the need to preserve privacy.\nFoundation models that perform well on medical tasks and require less\ntask-specific tuning data are critical to accelerate the development of\nhealthcare AI applications. We introduce MedGemma, a collection of medical\nvision-language foundation models based on Gemma 3 4B and 27B. MedGemma\ndemonstrates advanced medical understanding and reasoning on images and text,\nsignificantly exceeding the performance of similar-sized generative models and\napproaching the performance of task-specific models, while maintaining the\ngeneral capabilities of the Gemma 3 base models. For out-of-distribution tasks,\nMedGemma achieves 2.6-10% improvement on medical multimodal question answering,\n15.5-18.1% improvement on chest X-ray finding classification, and 10.8%\nimprovement on agentic evaluations compared to the base models. Fine-tuning\nMedGemma further improves performance in subdomains, reducing errors in\nelectronic health record information retrieval by 50% and reaching comparable\nperformance to existing specialized state-of-the-art methods for pneumothorax\nclassification and histopathology patch classification. We additionally\nintroduce MedSigLIP, a medically-tuned vision encoder derived from SigLIP.\nMedSigLIP powers the visual understanding capabilities of MedGemma and as an\nencoder achieves comparable or better performance than specialized medical\nimage encoders. Taken together, the MedGemma collection provides a strong\nfoundation of medical image and text capabilities, with potential to\nsignificantly accelerate medical research and development of downstream\napplications. The MedGemma collection, including tutorials and model weights,\ncan be found at https://goo.gle/medgemma.",
-      "url": "http://arxiv.org/abs/2507.05201v1",
+      "url": "http://arxiv.org/abs/2507.05201v2",
       "published_time_eastern_timestamp": 1751907704.0
     },
     {

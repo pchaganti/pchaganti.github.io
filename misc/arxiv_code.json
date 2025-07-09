@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-08T17:11:54.970997-04:00",
+  "last_updated": "2025-07-08T21:01:04.944956-04:00",
   "papers": [
     {
       "title": "Beyond One Shot, Beyond One Perspective: Cross-View and Long-Horizon\n  Distillation for Better LiDAR Representations",
@@ -22,7 +22,7 @@
     {
       "title": "SciMaster: Towards General-Purpose Scientific AI Agents, Part I.\n  X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
       "summary": "The rapid advancements of AI agents have ignited the long-held ambition of\nleveraging them to accelerate scientific discovery. Achieving this goal\nrequires a deep understanding of the frontiers of human knowledge. As such,\nHumanity's Last Exam (HLE) provides an exceptionally challenging touchstone for\nevaluating scientific AI agents. In this work, we aim to construct the\nfoundational architecture for general-purpose agents and validate the\ncapabilities through leading performance on HLE. To achieve this, we introduce\nX-Master, a tool-augmented reasoning agent designed to emulate human\nresearchers by interacting flexibly with external tools during its reasoning\nprocess. This agent, guided by the conceptualization of code as an interaction\nlanguage, can flexibly leverage built-in Python libraries and our customized\ntools to augment the reasoning. We further scale its capabilities through\nX-Masters, a scattered-and-stacked agentic workflow that systematically\nenhances breadth and depth of reasoning. Our open-source solution, X-Masters,\nsets a new state-of-the-art record on HLE with a score of 32.1%, surpassing\nOpenAI's and Google's Deep Research (26.6% and 26.9%) and becoming the first to\nexceed the 30% threshold. This work allows us to gain a deeper understanding of\ncomplex task-solving and accumulates valuable experience that can inform future\nadvancements, guiding subsequent model training.",
-      "url": "http://arxiv.org/abs/2507.05241v1",
+      "url": "http://arxiv.org/abs/2507.05241v2",
       "published_time_eastern_timestamp": 1751910652.0
     },
     {
@@ -62,9 +62,9 @@
       "published_time_eastern_timestamp": 1751906022.0
     },
     {
-      "title": "OpenS2S: Advancing Open-Source End-to-End Empathetic Large Speech\n  Language Model",
+      "title": "OpenS2S: Advancing Fully Open-Source End-to-End Empathetic Large Speech\n  Language Model",
       "summary": "Empathetic interaction is a cornerstone of human-machine communication, due\nto the need for understanding speech enriched with paralinguistic cues and\ngenerating emotional and expressive responses. However, the most powerful\nempathetic LSLMs are increasingly closed off, leaving the crucial details about\nthe architecture, data and development opaque to researchers. Given the\ncritical need for transparent research into the LSLMs and empathetic behavior,\nwe present OpenS2S, a fully open-source, transparent and end-to-end LSLM\ndesigned to enable empathetic speech interactions. Based on our empathetic\nspeech-to-text model BLSP-Emo, OpenS2S further employs a streaming interleaved\ndecoding architecture to achieve low-latency speech generation. To facilitate\nend-to-end training, OpenS2S incorporates an automated data construction\npipeline that synthesizes diverse, high-quality empathetic speech dialogues at\nlow cost. By leveraging large language models to generate empathetic content\nand controllable text-to-speech systems to introduce speaker and emotional\nvariation, we construct a scalable training corpus with rich paralinguistic\ndiversity and minimal human supervision. We release the fully open-source\nOpenS2S model, including the dataset, model weights, pre-training and\nfine-tuning codes, to empower the broader research community and accelerate\ninnovation in empathetic speech systems. The project webpage can be accessed at\nhttps://casia-lm.github.io/OpenS2S",
-      "url": "http://arxiv.org/abs/2507.05177v1",
+      "url": "http://arxiv.org/abs/2507.05177v2",
       "published_time_eastern_timestamp": 1751905897.0
     },
     {
