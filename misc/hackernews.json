@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-07-09T05:14:57.893925-04:00",
+  "last_updated": "2025-07-09T08:24:14.092224-04:00",
   "stories": [
     {
-      "title": "Helm local code execution via a malicious chart – CVE-2025-53547",
-      "score": 81,
-      "url": "https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm",
-      "time": 1752040192.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44506696"
+      "title": "Million Times Million",
+      "score": 12,
+      "url": "https://susam.net/million-times-million.html",
+      "time": 1752061761.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44508837"
+    },
+    {
+      "title": "Ruby 3.4 frozen string literals: What Rails developers need to know",
+      "score": 55,
+      "url": "https://www.prateekcodes.dev/ruby-34-frozen-string-literals-rails-upgrade-guide/",
+      "time": 1751795906.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44479302"
     },
     {
       "title": "Is the doc bot docs, or not?",
-      "score": 28,
+      "score": 75,
       "url": "https://www.robinsloan.com/lab/what-are-we-even-doing-here/",
       "time": 1752046709.0,
       "comments_url": "https://news.ycombinator.com/item?id=44507244"
     },
     {
-      "title": "Most RESTful APIs Aren't RESTful",
-      "score": 31,
+      "title": "Helm local code execution via a malicious chart",
+      "score": 113,
+      "url": "https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm",
+      "time": 1752040192.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44506696"
+    },
+    {
+      "title": "ESIM Security",
+      "score": 43,
+      "url": "https://security-explorations.com/esim-security.html",
+      "time": 1752052390.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44507830"
+    },
+    {
+      "title": "Most RESTful APIs aren't really RESTful",
+      "score": 86,
       "url": "https://florian-kraemer.net//software-architecture/2025/07/07/Most-RESTful-APIs-are-not-really-RESTful.html",
       "time": 1752044676.0,
       "comments_url": "https://news.ycombinator.com/item?id=44507076"
     },
     {
-      "title": "AI, Power and Sociolinguistics [pdf]",
-      "score": 18,
-      "url": "https://www.researchgate.net/profile/Ico-Maly-2/publication/385703534_AI_power_and_sociolinguistics/links/6813618cdf0e3f544f502f05/AI-power-and-sociolinguistics.pdf",
-      "time": 1752047283.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44507301"
-    },
-    {
-      "title": "RapidRAW: A non-destructive and GPU-accelerated RAW image editor",
-      "score": 151,
-      "url": "https://github.com/CyberTimon/RapidRAW",
-      "time": 1752028648.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44505876"
+      "title": "Why LLMs Can't Write Q/Kdb+: Writing Code Right-to-Left",
+      "score": 5,
+      "url": "https://medium.com/@gabiteodoru/why-llms-cant-write-q-kdb-writing-code-right-to-left-ea6df68af443",
+      "time": 1751971203.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44498766"
     },
     {
       "title": "7-Zip for Windows can now use more than 64 CPU threads for compression",
-      "score": 66,
+      "score": 112,
       "url": "https://www.7-zip.org/history.txt",
       "time": 1751889130.0,
       "comments_url": "https://news.ycombinator.com/item?id=44489359"
     },
     {
       "title": "Bootstrapping a side project into a profitable seven-figure business",
-      "score": 514,
+      "score": 576,
       "url": "https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding",
       "time": 1751929125.0,
       "comments_url": "https://news.ycombinator.com/item?id=44495428"
     },
     {
-      "title": "Breaking Git with a carriage return and cloning RCE",
-      "score": 314,
-      "url": "https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384",
-      "time": 1751996909.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44502330"
+      "title": "RapidRAW: A non-destructive and GPU-accelerated RAW image editor",
+      "score": 184,
+      "url": "https://github.com/CyberTimon/RapidRAW",
+      "time": 1752028648.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44505876"
     },
     {
-      "title": "Show HN: I rewrote an outdated React Native map clustering library",
-      "score": 9,
-      "url": "https://github.com/suwi-lanji/rn-maps-clustering",
-      "time": 1752044864.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44507084"
-    },
-    {
-      "title": "Bug Stories",
-      "score": 9,
-      "url": "https://500mile.email/",
-      "time": 1752046192.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44507200"
+      "title": "Astro is a return to the fundamentals of the web",
+      "score": 93,
+      "url": "https://websmith.studio/blog/astro-is-a-developers-dream/",
+      "time": 1752052686.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44507854"
     },
     {
       "title": "I'm Building LLM for Satellite Data EarthGPT.app",
-      "score": 28,
+      "score": 59,
       "url": "https://www.earthgpt.app/",
       "time": 1751884394.0,
       "comments_url": "https://news.ycombinator.com/item?id=44488742"
     },
     {
-      "title": "The Dangers of Stochastic Parrots: Can Language Models Be Too Big?",
-      "score": 8,
-      "url": "https://dl.acm.org/doi/10.1145/3442188.3445922",
-      "time": 1751834883.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44483917"
+      "title": "Phrase origin: Why do we \"call\" functions?",
+      "score": 91,
+      "url": "https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/",
+      "time": 1752033885.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44506251"
     },
     {
-      "title": "Supabase MCP can leak your entire SQL database",
-      "score": 703,
-      "url": "https://www.generalanalysis.com/blog/supabase-mcp-blog",
-      "time": 1751996815.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44502318"
+      "title": "IKEA ditches Zigbee for Thread going all in on Matter smart homes",
+      "score": 67,
+      "url": "https://www.theverge.com/smart-home/701697/ikea-matter-thread-new-products-new-smart-home-strategy",
+      "time": 1752054137.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44507971"
     },
     {
-      "title": "Frame of preference A history of Mac settings, 1984–2004",
-      "score": 97,
-      "url": "https://aresluna.org/frame-of-preference/",
-      "time": 1752020059.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44505171"
-    },
-    {
-      "title": "Smollm3: Smol, multilingual, long-context reasoner LLM",
-      "score": 292,
-      "url": "https://huggingface.co/blog/smollm3",
-      "time": 1751991220.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44501413"
+      "title": "Breaking Git with a carriage return and cloning RCE",
+      "score": 331,
+      "url": "https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384",
+      "time": 1751996909.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44502330"
     },
     {
       "title": "US Court nullifies FTC requirement for click-to-cancel",
-      "score": 103,
+      "score": 167,
       "url": "https://arstechnica.com/tech-policy/2025/07/us-court-cancels-ftc-rule-that-would-have-made-canceling-subscriptions-easier/",
       "time": 1752014559.0,
       "comments_url": "https://news.ycombinator.com/item?id=44504699"
     },
     {
-      "title": "iPod Linux – Linux for Your iPod",
-      "score": 36,
-      "url": "http://www.ipodlinux.org/",
-      "time": 1752028059.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44505816"
+      "title": "Where can I see Hokusai's Great Wave today?",
+      "score": 75,
+      "url": "https://greatwavetoday.com/",
+      "time": 1752032077.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44506117"
     },
     {
-      "title": "Radium Music Editor",
-      "score": 202,
-      "url": "http://users.notam02.no/~kjetism/radium/",
-      "time": 1751996675.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44502298"
+      "title": "Proposal: GUI-first, text-based mechanical CAD inspired by software engineering",
+      "score": 12,
+      "url": "https://news.ycombinator.com/item?id=44474620",
+      "time": 1751740620.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44474620"
     },
     {
-      "title": "SUSE launches new European digital sovereignty service to meet surging demand",
-      "score": 22,
-      "url": "https://www.zdnet.com/article/suse-launches-new-european-digital-sovereignty-support-service-to-meet-surging-demand/",
-      "time": 1752045853.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44507166"
+      "title": "Frame of preference A history of Mac settings, 1984–2004",
+      "score": 126,
+      "url": "https://aresluna.org/frame-of-preference/",
+      "time": 1752020059.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44505171"
     },
     {
-      "title": "Brut: A New Web Framework for Ruby",
-      "score": 174,
-      "url": "https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html",
-      "time": 1751997800.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44502463"
+      "title": "Supabase MCP can leak your entire SQL database",
+      "score": 744,
+      "url": "https://www.generalanalysis.com/blog/supabase-mcp-blog",
+      "time": 1751996815.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44502318"
     }
   ]
 }
