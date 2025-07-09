@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-07-08T21:01:02.787834-04:00",
+  "last_updated": "2025-07-08T23:49:44.357308-04:00",
   "stories": [
     {
       "title": "Supabase MCP can leak your entire SQL database",
-      "score": 492,
+      "score": 588,
       "url": "https://www.generalanalysis.com/blog/supabase-mcp-blog",
       "time": 1751996815.0,
       "comments_url": "https://news.ycombinator.com/item?id=44502318"
     },
     {
-      "title": "Breaking Git with a carriage return and cloning RCE",
-      "score": 257,
-      "url": "https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384",
-      "time": 1751996909.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44502330"
-    },
-    {
       "title": "Bootstrapping a side project into a profitable seven-figure business",
-      "score": 213,
+      "score": 309,
       "url": "https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding",
       "time": 1751929125.0,
       "comments_url": "https://news.ycombinator.com/item?id=44495428"
     },
     {
-      "title": "The Day You Became a Better Writer (2007)",
-      "score": 32,
-      "url": "https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html",
-      "time": 1751897004.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44490490"
+      "title": "RapidRAW: A non-destructive and GPU-accelerated RAW image editor",
+      "score": 11,
+      "url": "https://github.com/CyberTimon/RapidRAW",
+      "time": 1752028648.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44505876"
+    },
+    {
+      "title": "Breaking Git with a carriage return and cloning RCE",
+      "score": 276,
+      "url": "https://dgl.cx/2025/07/git-clone-submodule-cve-2025-48384",
+      "time": 1751996909.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44502330"
+    },
+    {
+      "title": "Frame of preference A history of Mac settings, 1984–2004",
+      "score": 33,
+      "url": "https://aresluna.org/frame-of-preference/",
+      "time": 1752020059.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44505171"
     },
     {
       "title": "Smollm3: Smol, multilingual, long-context reasoner LLM",
-      "score": 218,
+      "score": 247,
       "url": "https://huggingface.co/blog/smollm3",
       "time": 1751991220.0,
       "comments_url": "https://news.ycombinator.com/item?id=44501413"
     },
     {
+      "title": "Rules of good writing (2007)",
+      "score": 60,
+      "url": "https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html",
+      "time": 1751897004.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44490490"
+    },
+    {
       "title": "Radium Music Editor",
-      "score": 142,
+      "score": 166,
       "url": "http://users.notam02.no/~kjetism/radium/",
       "time": 1751996675.0,
       "comments_url": "https://news.ycombinator.com/item?id=44502298"
     },
     {
+      "title": "Bulgaria to join euro area on 1 January 2026",
+      "score": 107,
+      "url": "https://www.ecb.europa.eu//press/pr/date/2025/html/ecb.pr250708~b9676a9fa8.en.html",
+      "time": 1752021891.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44505308"
+    },
+    {
       "title": "Xenharmlib: A music theory library that supports non-western harmonic systems",
-      "score": 17,
+      "score": 46,
       "url": "https://xenharmlib.readthedocs.io/en/latest/",
       "time": 1752014241.0,
       "comments_url": "https://news.ycombinator.com/item?id=44504676"
     },
     {
+      "title": "Surfing on a Matchbox (1999)",
+      "score": 4,
+      "url": "http://news.bbc.co.uk/2/hi/science/nature/276762.stm",
+      "time": 1751857532.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44486368"
+    },
+    {
       "title": "Brut: A New Web Framework for Ruby",
-      "score": 118,
+      "score": 132,
       "url": "https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html",
       "time": 1751997800.0,
       "comments_url": "https://news.ycombinator.com/item?id=44502463"
     },
     {
+      "title": "Ptar: Replacing .tgz for petabyte-scale S3 archives",
+      "score": 34,
+      "url": "https://plakar.io/posts/2025-06-30/technical-deep-dive-into-.ptar-replacing-.tgz-for-petabyte-scale-s3-archives/",
+      "time": 1751895084.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44490213"
+    },
+    {
+      "title": "US court strikes down 'click-to-cancel' rule designed to make unsubscribing easy",
+      "score": 112,
+      "url": "https://www.theguardian.com/us-news/2025/jul/08/court-click-to-cancel-ruling",
+      "time": 1752026371.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44505675"
+    },
+    {
+      "title": "Libpostal: C library for parsing/normalizing street addresses around the world",
+      "score": 4,
+      "url": "https://github.com/openvenues/libpostal",
+      "time": 1752025555.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44505610"
+    },
+    {
       "title": "Dynamical origin of Theia, the last giant impactor on Earth",
-      "score": 62,
+      "score": 70,
       "url": "https://arxiv.org/abs/2507.01826",
       "time": 1751998246.0,
       "comments_url": "https://news.ycombinator.com/item?id=44502527"
     },
     {
-      "title": "Plants monitor the integrity of their barrier by sensing gas diffusion",
-      "score": 52,
-      "url": "https://www.nature.com/articles/s41586-025-09223-4",
-      "time": 1751721519.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44472613"
+      "title": "Swahili on the Road",
+      "score": 8,
+      "url": "https://www.historytoday.com/archive/behind-times/swahili-road",
+      "time": 1752022589.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44505359"
     },
     {
       "title": "Taking over 60k spyware user accounts with SQL injection",
-      "score": 153,
+      "score": 168,
       "url": "https://ericdaigle.ca/posts/taking-over-60k-spyware-user-accounts/",
       "time": 1751554560.0,
       "comments_url": "https://news.ycombinator.com/item?id=44455707"
     },
     {
       "title": "Show HN: OffChess – Offline chess puzzles app",
-      "score": 296,
+      "score": 303,
       "url": "https://offchess.com",
       "time": 1751965021.0,
       "comments_url": "https://news.ycombinator.com/item?id=44498296"
     },
     {
-      "title": "Can an email go 500 miles in 2025?",
-      "score": 261,
-      "url": "https://flak.tedunangst.com/post/can-an-email-go-500-miles-in-2025",
-      "time": 1751647767.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44466030"
-    },
-    {
-      "title": "GlobalFoundries to Acquire MIPS",
-      "score": 158,
-      "url": "https://mips.com/press-releases/gf-mips/",
-      "time": 1751993838.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44501821"
-    },
-    {
-      "title": "Show HN: A rain Pomodoro with brown noise, ASMR, and Middle Eastern music",
-      "score": 48,
-      "url": "https://forgetoolz.com/rain-pomodoro",
-      "time": 1751996530.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44502271"
-    },
-    {
-      "title": "The Tradeoffs of SSMs and Transformers",
-      "score": 37,
-      "url": "https://goombalab.github.io/blog/2025/tradeoffs/",
-      "time": 1752001926.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44503056"
-    },
-    {
-      "title": "Ceramic: A cross-platform and open-source 2D framework in Haxe",
-      "score": 51,
-      "url": "https://ceramic-engine.com/",
-      "time": 1751723551.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44472812"
-    },
-    {
-      "title": "Bulgaria to join euro area on 1 January 2026",
-      "score": 5,
-      "url": "https://www.ecb.europa.eu//press/pr/date/2025/html/ecb.pr250708~b9676a9fa8.en.html",
-      "time": 1752021891.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44505308"
-    },
-    {
-      "title": "Blind to Disruption – The CEOs Who Missed the Future",
-      "score": 71,
-      "url": "https://steveblank.com/2025/07/08/blind-to-disruption-the-ceos-who-missed-the-future/",
-      "time": 1751982103.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44499873"
-    },
-    {
-      "title": "Show HN: Jukebox – Free, Open Source Group Playlist with Fair Queueing",
-      "score": 94,
-      "url": "https://www.jukeboxhq.com/",
-      "time": 1751987929.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44500840"
+      "title": "Plants monitor the integrity of their barrier by sensing gas diffusion",
+      "score": 60,
+      "url": "https://www.nature.com/articles/s41586-025-09223-4",
+      "time": 1751721519.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44472613"
     }
   ]
 }
