@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-09T17:11:41.841697-04:00",
+  "last_updated": "2025-07-09T21:00:59.017703-04:00",
   "papers": [
     {
       "title": "Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving",
@@ -76,7 +76,7 @@
     {
       "title": "GTA1: GUI Test-time Scaling Agent",
       "summary": "Graphical user interface (GUI) agents autonomously operate across platforms\n(e.g., Linux) to complete tasks by interacting with visual elements.\nSpecifically, a user instruction is decomposed into a sequence of action\nproposals, each corresponding to an interaction with the GUI. After each\naction, the agent observes the updated GUI environment to plan the next step.\nHowever, two main challenges arise: i) resolving ambiguity in task planning\n(i.e., the action proposal sequence), where selecting an appropriate plan is\nnon-trivial, as many valid ones may exist; ii) accurately grounding actions in\ncomplex and high-resolution interfaces, i.e., precisely interacting with visual\ntargets.\n  This paper investigates the two aforementioned challenges with our GUI\nTest-time Scaling Agent, namely GTA1. First, to select the most appropriate\naction proposal, we introduce a test-time scaling method. At each step, we\nsample multiple candidate action proposals and leverage a judge model to\nevaluate and select the most suitable one. It trades off computation for better\ndecision quality by concurrent sampling, shortening task execution steps, and\nimproving overall performance. Second, we propose a model that achieves\nimproved accuracy when grounding the selected action proposal to its\ncorresponding visual elements. Our key insight is that reinforcement learning\n(RL) facilitates visual grounding through inherent objective alignments,\nrewarding successful clicks on interface elements.\n  Experimentally, our method establishes state-of-the-art performance across\ndiverse benchmarks. For example, GTA1-7B achieves 50.1%, 92.4%, and 67.7%\naccuracies on Screenspot-Pro, Screenspot-V2, and OSWorld-G, respectively. When\npaired with a planner applying our test-time scaling strategy, it exhibits\nstate-of-the-art agentic performance (e.g., 45.2% task success rate on\nOSWorld). We open-source our code and models here.",
-      "url": "http://arxiv.org/abs/2507.05791v1",
+      "url": "http://arxiv.org/abs/2507.05791v2",
       "published_time_eastern_timestamp": 1751964738.0
     },
     {
