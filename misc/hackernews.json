@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-07-09T23:49:00.798040-04:00",
+  "last_updated": "2025-07-10T02:19:10.409111-04:00",
   "stories": [
     {
+      "title": "German court rules Meta tracking technology violates European privacy laws",
+      "score": 78,
+      "url": "https://therecord.media/german-court-meta-tracking-tech",
+      "time": 1752123965.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44517424"
+    },
+    {
       "title": "MCP-B: A Protocol for AI Browser Automation",
-      "score": 145,
+      "score": 186,
       "url": "https://mcp-b.ai/",
       "time": 1752100637.0,
       "comments_url": "https://news.ycombinator.com/item?id=44515403"
     },
     {
       "title": "Tree Borrows",
-      "score": 425,
+      "score": 448,
       "url": "https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html",
       "time": 1752072024.0,
       "comments_url": "https://news.ycombinator.com/item?id=44510600"
     },
     {
       "title": "Biomni: A General-Purpose Biomedical AI Agent",
-      "score": 152,
+      "score": 165,
       "url": "https://github.com/snap-stanford/Biomni",
       "time": 1752088808.0,
       "comments_url": "https://news.ycombinator.com/item?id=44513843"
     },
     {
       "title": "A Typology of Canadianisms",
-      "score": 92,
+      "score": 122,
       "url": "https://dchp.arts.ubc.ca/how-to-use",
       "time": 1752098093.0,
       "comments_url": "https://news.ycombinator.com/item?id=44515101"
     },
     {
+      "title": "The Origin of the Research University",
+      "score": 45,
+      "url": "https://asteriskmag.com/issues/10/the-origin-of-the-research-university",
+      "time": 1751838652.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44484409"
+    },
+    {
       "title": "Show HN: FlopperZiro – A DIY open-source Flipper Zero clone",
-      "score": 208,
+      "score": 237,
       "url": "https://github.com/lraton/FlopperZiro",
       "time": 1752082449.0,
       "comments_url": "https://news.ycombinator.com/item?id=44512763"
     },
     {
       "title": "Show HN: MCP server for searching and downloading documents from Anna's Archive",
-      "score": 83,
+      "score": 106,
       "url": "https://github.com/iosifache/annas-mcp",
       "time": 1752095198.0,
       "comments_url": "https://news.ycombinator.com/item?id=44514753"
     },
     {
       "title": "The jank programming language",
-      "score": 234,
+      "score": 263,
       "url": "https://jank-lang.org/",
       "time": 1751821002.0,
       "comments_url": "https://news.ycombinator.com/item?id=44482273"
     },
     {
-      "title": "The Origin of the Research University",
-      "score": 16,
-      "url": "https://asteriskmag.com/issues/10/the-origin-of-the-research-university",
-      "time": 1751838652.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44484409"
-    },
-    {
-      "title": "Show HN: Petrichor – a free, open-source, offline music player for macOS",
-      "score": 60,
-      "url": "https://github.com/kushalpandya/Petrichor",
-      "time": 1752099451.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44515266"
-    },
-    {
-      "title": "A fast 3D collision detection algorithm",
-      "score": 189,
-      "url": "https://cairno.substack.com/p/improvements-to-the-separating-axis",
-      "time": 1752070336.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44510282"
-    },
-    {
       "title": "Code and Trust: Vibrators to Pacemakers",
-      "score": 8,
+      "score": 23,
       "url": "https://punkx.org/jackdoe/code-and-trust.html",
       "time": 1751840103.0,
       "comments_url": "https://news.ycombinator.com/item?id=44484579"
     },
     {
+      "title": "Evaluating the Effectiveness of Memory Safety Sanitizers",
+      "score": 8,
+      "url": "https://www.computer.org/csdl/proceedings-article/sp/2025/223600a088/21TfesaEHTy",
+      "time": 1751903091.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44491545"
+    },
+    {
+      "title": "A Virginia public library is fighting off a takeover by private equity",
+      "score": 178,
+      "url": "https://lithub.com/a-virginia-public-library-is-fighting-off-a-threatened-takeover-by-private-equity/",
+      "time": 1752116746.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44516793"
+    },
+    {
+      "title": "A fast 3D collision detection algorithm",
+      "score": 205,
+      "url": "https://cairno.substack.com/p/improvements-to-the-separating-axis",
+      "time": 1752070336.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44510282"
+    },
+    {
+      "title": "Show HN: Petrichor – a free, open-source, offline music player for macOS",
+      "score": 81,
+      "url": "https://github.com/kushalpandya/Petrichor",
+      "time": 1752099451.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44515266"
+    },
+    {
       "title": "Configuring Split Horizon DNS with Pi-Hole and Tailscale",
-      "score": 82,
+      "score": 91,
       "url": "https://www.bentasker.co.uk/posts/blog/general/configuring-pihole-to-serve-different-records-to-different-clients.html",
       "time": 1752080934.0,
       "comments_url": "https://news.ycombinator.com/item?id=44512470"
     },
     {
-      "title": "Multi-Region Row Level Security in CockroachDB",
-      "score": 38,
-      "url": "https://www.cockroachlabs.com/blog/fine-grained-access-control-row-level-security/",
-      "time": 1752097999.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44515087"
-    },
-    {
       "title": "Archaeologists unveil 3,500-year-old city in Peru",
-      "score": 136,
+      "score": 144,
       "url": "https://www.bbc.co.uk/news/articles/c07dmx38kyeo",
       "time": 1751871490.0,
       "comments_url": "https://news.ycombinator.com/item?id=44487451"
     },
     {
-      "title": "HyAB k-means for color quantization",
-      "score": 27,
-      "url": "https://30fps.net/pages/hyab-kmeans/",
-      "time": 1752096870.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44514946"
+      "title": "Generic Interfaces",
+      "score": 12,
+      "url": "https://go.dev/blog/generic-interfaces",
+      "time": 1751907408.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44492290"
     },
     {
       "title": "Linda Yaccarino is leaving X",
-      "score": 390,
+      "score": 417,
       "url": "https://www.nytimes.com/2025/07/09/technology/linda-yaccarino-x-steps-down.html",
       "time": 1752072724.0,
       "comments_url": "https://news.ycombinator.com/item?id=44510731"
     },
     {
-      "title": "White Noise – secure and private messenger",
-      "score": 52,
-      "url": "https://www.whitenoise.chat/",
-      "time": 1752097462.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44515023"
+      "title": "Solar power has begun to transform the world’s energy system",
+      "score": 86,
+      "url": "https://www.newyorker.com/news/annals-of-a-warming-planet/46-billion-years-on-the-sun-is-having-a-moment",
+      "time": 1752064316.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44509254"
     },
     {
-      "title": "Ruby 3.4 frozen string literals: What Rails developers need to know",
-      "score": 213,
-      "url": "https://www.prateekcodes.dev/ruby-34-frozen-string-literals-rails-upgrade-guide/",
-      "time": 1751795906.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44479302"
-    },
-    {
-      "title": "Bootstrapping a side project into a profitable seven-figure business",
-      "score": 813,
-      "url": "https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding",
-      "time": 1751929125.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44495428"
-    },
-    {
-      "title": "Understand CPU Branch Instructions Better",
-      "score": 41,
-      "url": "https://chrisfeilbach.com/2025/07/05/understand-cpu-branch-instructions-better/",
-      "time": 1751816044.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44481627"
+      "title": "HyAB k-means for color quantization",
+      "score": 33,
+      "url": "https://30fps.net/pages/hyab-kmeans/",
+      "time": 1752096870.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44514946"
     }
   ]
 }
