@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-10T17:12:27.531384-04:00",
+  "last_updated": "2025-07-10T21:01:31.753705-04:00",
   "papers": [
     {
       "title": "4KAgent: Agentic Any Image to 4K Super-Resolution",
@@ -64,7 +64,7 @@
     {
       "title": "Hallucinating 360°: Panoramic Street-View Generation via Local\n  Scenes Diffusion and Probabilistic Prompting",
       "summary": "Panoramic perception holds significant potential for autonomous driving,\nenabling vehicles to acquire a comprehensive 360{\\deg} surround view in a\nsingle shot. However, autonomous driving is a data-driven task. Complete\npanoramic data acquisition requires complex sampling systems and annotation\npipelines, which are time-consuming and labor-intensive. Although existing\nstreet view generation models have demonstrated strong data regeneration\ncapabilities, they can only learn from the fixed data distribution of existing\ndatasets and cannot achieve high-quality, controllable panoramic generation. In\nthis paper, we propose the first panoramic generation method Percep360 for\nautonomous driving. Percep360 enables coherent generation of panoramic data\nwith control signals based on the stitched panoramic data. Percep360 focuses on\ntwo key aspects: coherence and controllability. Specifically, to overcome the\ninherent information loss caused by the pinhole sampling process, we propose\nthe Local Scenes Diffusion Method (LSDM). LSDM reformulates the panorama\ngeneration as a spatially continuous diffusion process, bridging the gaps\nbetween different data distributions. Additionally, to achieve the controllable\ngeneration of panoramic images, we propose a Probabilistic Prompting Method\n(PPM). PPM dynamically selects the most relevant control cues, enabling\ncontrollable panoramic image generation. We evaluate the effectiveness of the\ngenerated images from three perspectives: image quality assessment (i.e.,\nno-reference and with reference), controllability, and their utility in\nreal-world Bird's Eye View (BEV) segmentation. Notably, the generated data\nconsistently outperforms the original stitched images in no-reference quality\nmetrics and enhances downstream perception models. The source code will be\npublicly available at https://github.com/Bryant-Teng/Percep360.",
-      "url": "http://arxiv.org/abs/2507.06971v1",
+      "url": "http://arxiv.org/abs/2507.06971v2",
       "published_time_eastern_timestamp": 1752076901.0
     },
     {
@@ -76,7 +76,7 @@
     {
       "title": "Rethinking Verification for LLM Code Generation: From Generation to\n  Testing",
       "summary": "Large language models (LLMs) have recently achieved notable success in\ncode-generation benchmarks such as HumanEval and LiveCodeBench. However, a\ndetailed examination reveals that these evaluation suites often comprise only a\nlimited number of homogeneous test cases, resulting in subtle faults going\nundetected. This not only artificially inflates measured performance but also\ncompromises accurate reward estimation in reinforcement learning frameworks\nutilizing verifiable rewards (RLVR). To address these critical shortcomings, we\nsystematically investigate the test-case generation (TCG) task by proposing\nmulti-dimensional metrics designed to rigorously quantify test-suite\nthoroughness. Furthermore, we introduce a human-LLM collaborative method\n(SAGA), leveraging human programming expertise with LLM reasoning capability,\naimed at significantly enhancing both the coverage and the quality of generated\ntest cases. In addition, we develop a TCGBench to facilitate the study of the\nTCG task. Experiments show that SAGA achieves a detection rate of 90.62% and a\nverifier accuracy of 32.58% on TCGBench. The Verifier Accuracy (Verifier Acc)\nof the code generation evaluation benchmark synthesized by SAGA is 10.78%\nhigher than that of LiveCodeBench-v6. These results demonstrate the\neffectiveness of our proposed method. We hope this work contributes to building\na scalable foundation for reliable LLM code evaluation, further advancing RLVR\nin code generation, and paving the way for automated adversarial test synthesis\nand adaptive benchmark integration.",
-      "url": "http://arxiv.org/abs/2507.06920v1",
+      "url": "http://arxiv.org/abs/2507.06920v2",
       "published_time_eastern_timestamp": 1752073127.0
     },
     {
@@ -112,7 +112,7 @@
     {
       "title": "Shifting from Ranking to Set Selection for Retrieval Augmented\n  Generation",
       "summary": "Retrieval in Retrieval-Augmented Generation(RAG) must ensure that retrieved\npassages are not only individually relevant but also collectively form a\ncomprehensive set. Existing approaches primarily rerank top-k passages based on\ntheir individual relevance, often failing to meet the information needs of\ncomplex queries in multi-hop question answering. In this work, we propose a\nset-wise passage selection approach and introduce SETR, which explicitly\nidentifies the information requirements of a query through Chain-of-Thought\nreasoning and selects an optimal set of passages that collectively satisfy\nthose requirements. Experiments on multi-hop RAG benchmarks show that SETR\noutperforms both proprietary LLM-based rerankers and open-source baselines in\nterms of answer correctness and retrieval quality, providing an effective and\nefficient alternative to traditional rerankers in RAG systems. The code is\navailable at https://github.com/LGAI-Research/SetR",
-      "url": "http://arxiv.org/abs/2507.06838v1",
+      "url": "http://arxiv.org/abs/2507.06838v2",
       "published_time_eastern_timestamp": 1752068136.0
     },
     {

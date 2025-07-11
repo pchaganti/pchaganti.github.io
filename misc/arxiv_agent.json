@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-10T17:12:27.066450-04:00",
+  "last_updated": "2025-07-10T21:01:31.290189-04:00",
   "papers": [
     {
       "title": "4KAgent: Agentic Any Image to 4K Super-Resolution",
@@ -74,15 +74,15 @@
       "published_time_eastern_timestamp": 1752069913.0
     },
     {
-      "title": "The Dark Side of LLMs Agent-based Attacks for Complete Computer Takeover",
+      "title": "The Dark Side of LLMs: Agent-based Attacks for Complete Computer\n  Takeover",
       "summary": "The rapid adoption of Large Language Model (LLM) agents and multi-agent\nsystems enables unprecedented capabilities in natural language processing and\ngeneration. However, these systems have introduced unprecedented security\nvulnerabilities that extend beyond traditional prompt injection attacks. This\npaper presents the first comprehensive evaluation of LLM agents as attack\nvectors capable of achieving complete computer takeover through the\nexploitation of trust boundaries within agentic AI systems where autonomous\nentities interact and influence each other. We demonstrate that adversaries can\nleverage three distinct attack surfaces - direct prompt injection, RAG backdoor\nattacks, and inter-agent trust exploitation - to coerce popular LLMs (including\nGPT-4o, Claude-4 and Gemini-2.5) into autonomously installing and executing\nmalware on victim machines. Our evaluation of 17 state-of-the-art LLMs reveals\nan alarming vulnerability hierarchy: while 41.2% of models succumb to direct\nprompt injection, 52.9% are vulnerable to RAG backdoor attacks, and a critical\n82.4% can be compromised through inter-agent trust exploitation. Notably, we\ndiscovered that LLMs which successfully resist direct malicious commands will\nexecute identical payloads when requested by peer agents, revealing a\nfundamental flaw in current multi-agent security models. Our findings\ndemonstrate that only 5.9% of tested models (1/17) proved resistant to all\nattack vectors, with the majority exhibiting context-dependent security\nbehaviors that create exploitable blind spots. Our findings also highlight the\nneed to increase awareness and research on the security risks of LLMs, showing\na paradigm shift in cybersecurity threats, where AI tools themselves become\nsophisticated attack vectors.",
-      "url": "http://arxiv.org/abs/2507.06850v1",
+      "url": "http://arxiv.org/abs/2507.06850v2",
       "published_time_eastern_timestamp": 1752069298.0
     },
     {
       "title": "Artificial Generals Intelligence: Mastering Generals.io with\n  Reinforcement Learning",
-      "summary": "We introduce a real-time strategy game environment built on Generals.io, a\ngame that hosts thousands of active players each week across multiple game\nformats. Our environment is fully compatible with Gymnasium and PettingZoo,\ncapable of running thousands of frames per second on commodity hardware. Our\nreference agent -- trained with supervised pre-training and self-play -- hits\nthe top 0.003\\% of the 1v1 human leaderboard after just 36 hours on a single\nH100 GPU. To accelerate learning, we incorporate potential-based reward shaping\nand memory features. Our contributions -- a modular RTS benchmark and a\ncompetitive, state-of-the-art baseline agent -- provide an accessible yet\nchallenging platform for advancing multi-agent reinforcement learning research.",
-      "url": "http://arxiv.org/abs/2507.06825v1",
+      "summary": "We introduce a real-time strategy game environment based on Generals.io, a\ngame with thousands of weekly active players. Our environment is fully\ncompatible with Gymnasium and PettingZoo and is capable of running thousands of\nframes per second on commodity hardware. We also present a reference agent,\ntrained with supervised pre-training and self-play, which reached the top\n0.003% of the 1v1 human leaderboard after only 36 hours on a single H100 GPU.\nTo accelerate learning, we incorporate potential-based reward shaping and\nmemory features. Our contributions of a modular RTS benchmark and a competitive\nbaseline agent provide an accessible yet challenging platform for advancing\nmulti-agent reinforcement learning research. The documented code, together with\nexamples and tutorials, is available at\nhttps://github.com/strakam/generals-bots.",
+      "url": "http://arxiv.org/abs/2507.06825v2",
       "published_time_eastern_timestamp": 1752066905.0
     },
     {
