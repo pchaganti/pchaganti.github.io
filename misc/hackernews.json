@@ -1,75 +1,117 @@
 {
-  "last_updated": "2025-07-12T11:11:41.636180-04:00",
+  "last_updated": "2025-07-12T14:15:38.480096-04:00",
   "stories": [
     {
+      "title": "Proposed NOAA Budget Kills Program Designed to Prevent Satellite Collisions",
+      "score": 93,
+      "url": "https://skyandtelescope.org/astronomy-news/proposed-noaa-budget-kills-program-to-prevent-satellite-collisions/",
+      "time": 1752337863.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44543150"
+    },
+    {
       "title": "MacPaint Art from the Mid-80s Still Looks Great Today",
-      "score": 381,
+      "score": 580,
       "url": "https://blog.decryption.net.au/posts/macpaint.html",
       "time": 1752309915.0,
       "comments_url": "https://news.ycombinator.com/item?id=44540402"
     },
     {
+      "title": "Show HN: BinaryRPC – Lightweight WebSocket-based RPC framework in modern C++",
+      "score": 31,
+      "url": "https://github.com/efecan0/binaryrpc-framework",
+      "time": 1752337932.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44543156"
+    },
+    {
+      "title": "Arizona resident dies from the plague less than 24 hours after showing symptoms",
+      "score": 67,
+      "url": "https://www.independent.co.uk/news/health/arizona-plague-death-cases-b2787325.html",
+      "time": 1752339914.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44543368"
+    },
+    {
+      "title": "Vibe-Coding a PCB – surprisingly good",
+      "score": 30,
+      "url": "https://atomic14.substack.com/p/vibe-coding-a-pcb-surprisingly-good",
+      "time": 1752335246.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44542880"
+    },
+    {
       "title": "OpenAI’s Windsurf deal is off, and Windsurf’s CEO is going to Google",
-      "score": 792,
+      "score": 882,
       "url": "https://www.theverge.com/openai/705999/google-windsurf-ceo-openai",
       "time": 1752269731.0,
       "comments_url": "https://news.ycombinator.com/item?id=44536988"
     },
     {
-      "title": "Stone–Wales Transformations",
-      "score": 5,
-      "url": "https://johncarlosbaez.wordpress.com/2025/07/12/stone-wales-transformation/",
-      "time": 1752329232.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44542170"
-    },
-    {
-      "title": "Malware found in official gravityforms plugin indicating supply chain breach",
-      "score": 111,
-      "url": "https://patchstack.com/articles/critical-malware-found-in-gravityforms-official-plugin-site/",
-      "time": 1752302519.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44539879"
-    },
-    {
-      "title": "ETH Zurich and EPFL to release a LLM developed on public infrastructure",
-      "score": 546,
-      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html",
-      "time": 1752259510.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44535637"
-    },
-    {
-      "title": "First malaria treatment for babies approved for use",
-      "score": 65,
-      "url": "https://www.bbc.com/news/articles/c89e872jdjxo",
-      "time": 1751987793.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44500815"
-    },
-    {
-      "title": "Faking a JPEG",
-      "score": 301,
-      "url": "https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/",
-      "time": 1752274645.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44537631"
-    },
-    {
-      "title": "Commodore 64 Ultimate",
-      "score": 36,
-      "url": "https://www.commodore.net",
-      "time": 1752312082.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44540589"
+      "title": "Grok 4 Heavy Protects it's System prompt",
+      "score": 32,
+      "url": "https://simonwillison.net/2025/Jul/12/grok-4-heavy/",
+      "time": 1752341775.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44543590"
     },
     {
       "title": "Show HN: DesignArena – crowdsourced benchmark for AI-generated UI/UX",
-      "score": 3,
+      "score": 31,
       "url": "https://www.designarena.ai/",
       "time": 1752332866.0,
       "comments_url": "https://news.ycombinator.com/item?id=44542578"
     },
     {
-      "title": "Preliminary report into Air India crash released",
-      "score": 317,
-      "url": "https://www.bbc.co.uk/news/live/cx20p2x9093t",
-      "time": 1752265398.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44536459"
+      "title": "Malware found in official gravityforms plugin indicating supply chain breach",
+      "score": 162,
+      "url": "https://patchstack.com/articles/critical-malware-found-in-gravityforms-official-plugin-site/",
+      "time": 1752302519.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44539879"
+    },
+    {
+      "title": "Working through 'Writing A C Compiler'",
+      "score": 45,
+      "url": "https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/",
+      "time": 1752323013.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44541565"
+    },
+    {
+      "title": "Context Engineering Guide",
+      "score": 5,
+      "url": "https://nlp.elvissaravia.com/p/context-engineering-guide",
+      "time": 1752055188.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44508068"
+    },
+    {
+      "title": "ETH Zurich and EPFL to release a LLM developed on public infrastructure",
+      "score": 588,
+      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html",
+      "time": 1752259510.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44535637"
+    },
+    {
+      "title": "The fish kick may be the fastest subsurface swim stroke yet (2015)",
+      "score": 110,
+      "url": "https://nautil.us/is-this-new-swim-stroke-the-fastest-yet-235511/",
+      "time": 1752323128.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44541576"
+    },
+    {
+      "title": "First malaria treatment for babies approved for use",
+      "score": 92,
+      "url": "https://www.bbc.com/news/articles/c89e872jdjxo",
+      "time": 1751987793.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44500815"
+    },
+    {
+      "title": "Stone–Wales Transformations",
+      "score": 29,
+      "url": "https://johncarlosbaez.wordpress.com/2025/07/12/stone-wales-transformation/",
+      "time": 1752329232.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44542170"
+    },
+    {
+      "title": "Commodore 64 Ultimate",
+      "score": 106,
+      "url": "https://www.commodore.net",
+      "time": 1752312082.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44540589"
     },
     {
       "title": "Sieve (YC X25) is hiring researchers to build large video datasets for AI labs",
@@ -79,67 +121,25 @@
       "comments_url": "https://news.ycombinator.com/item?id=44541458"
     },
     {
-      "title": "The fish kick may be the fastest subsurface swim stroke yet (2015)",
-      "score": 60,
-      "url": "https://nautil.us/is-this-new-swim-stroke-the-fastest-yet-235511/",
-      "time": 1752323128.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44541576"
+      "title": "Faking a JPEG",
+      "score": 347,
+      "url": "https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/",
+      "time": 1752274645.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44537631"
     },
     {
-      "title": "Upgrading an M4 Pro Mac mini's storage for half the price",
-      "score": 388,
-      "url": "https://www.jeffgeerling.com/blog/2025/upgrading-m4-pro-mac-minis-storage-half-price",
-      "time": 1752242767.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44532306"
+      "title": "Making a Speedrun Timer in D",
+      "score": 28,
+      "url": "https://bradley.chatha.dev/blog/linux-speedrun-timer-dlang/post/",
+      "time": 1751991242.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44501417"
     },
     {
-      "title": "Fundamentals of garbage collection (2023)",
-      "score": 85,
-      "url": "https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/fundamentals",
-      "time": 1752019409.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44505121"
-    },
-    {
-      "title": "jank is C++",
-      "score": 258,
-      "url": "https://jank-lang.org/blog/2025-07-11-jank-is-cpp/",
-      "time": 1752254521.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44534787"
-    },
-    {
-      "title": "Incus – Next-generation system container, application container, and VM manager",
-      "score": 63,
-      "url": "https://linuxcontainers.org/incus/",
-      "time": 1752294990.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44539338"
-    },
-    {
-      "title": "New Date(\"wtf\") – How well do you know JavaScript's Date class?",
-      "score": 174,
-      "url": "https://jsdate.wtf",
-      "time": 1752308042.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44540241"
-    },
-    {
-      "title": "Replication of Quantum Factorisation Records with an 8-bit Home Computer [pdf]",
-      "score": 102,
-      "url": "https://eprint.iacr.org/2025/1237.pdf",
-      "time": 1752285948.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44538693"
-    },
-    {
-      "title": "Bill Atkinson's psychedelic user interface",
-      "score": 438,
-      "url": "https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill",
-      "time": 1752231839.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44530767"
-    },
-    {
-      "title": "Only on Nantucket: The Curious Case of the \"Stolen\" Mercedes",
-      "score": 12,
-      "url": "https://nantucketcurrent.com/news/only-on-nantucket-the-curious-case-of-the",
-      "time": 1752072630.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44510717"
+      "title": "XAI seeks up to $200B valuation in next fundraising",
+      "score": 40,
+      "url": "https://www.ft.com/content/25aab987-c2a1-4fca-8883-38a617269b68",
+      "time": 1752337590.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44543113"
     }
   ]
 }
