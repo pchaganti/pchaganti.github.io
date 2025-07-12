@@ -1,96 +1,138 @@
 {
-  "last_updated": "2025-07-11T21:02:45.634534-04:00",
+  "last_updated": "2025-07-11T23:50:26.829561-04:00",
   "stories": [
     {
       "title": "OpenAI’s Windsurf deal is off, and Windsurf’s CEO is going to Google",
-      "score": 329,
+      "score": 454,
       "url": "https://www.theverge.com/openai/705999/google-windsurf-ceo-openai",
       "time": 1752269731.0,
       "comments_url": "https://news.ycombinator.com/item?id=44536988"
     },
     {
       "title": "ETH Zurich and EPFL to release a LLM developed on public infrastructure",
-      "score": 305,
+      "score": 344,
       "url": "https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html",
       "time": 1752259510.0,
       "comments_url": "https://news.ycombinator.com/item?id=44535637"
     },
     {
+      "title": "Replication of Quantum Factorisation Records with an 8-bit Home Computer [pdf]",
+      "score": 24,
+      "url": "https://eprint.iacr.org/2025/1237.pdf",
+      "time": 1752285948.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44538693"
+    },
+    {
       "title": "Faking a JPEG",
-      "score": 56,
+      "score": 109,
       "url": "https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/",
       "time": 1752274645.0,
       "comments_url": "https://news.ycombinator.com/item?id=44537631"
     },
     {
       "title": "Preliminary report into Air India crash released",
-      "score": 101,
+      "score": 154,
       "url": "https://www.bbc.co.uk/news/live/cx20p2x9093t",
       "time": 1752265398.0,
       "comments_url": "https://news.ycombinator.com/item?id=44536459"
     },
     {
       "title": "jank is C++",
-      "score": 184,
+      "score": 197,
       "url": "https://jank-lang.org/blog/2025-07-11-jank-is-cpp/",
       "time": 1752254521.0,
       "comments_url": "https://news.ycombinator.com/item?id=44534787"
     },
     {
+      "title": "FEMA Didn’t Answer Thousands of Calls From Flood Survivors",
+      "score": 46,
+      "url": "https://www.nytimes.com/2025/07/11/climate/fema-missed-calls-texas-floods.html",
+      "time": 1752289033.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44538923"
+    },
+    {
+      "title": "Tell HN: uBlock Origin on Chrome is finally gone",
+      "score": 63,
+      "url": "https://news.ycombinator.com/item?id=44538517",
+      "time": 1752283735.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44538517"
+    },
+    {
       "title": "A software conference that advocates for quality",
-      "score": 28,
+      "score": 54,
       "url": "https://bettersoftwareconference.com/",
       "time": 1752270651.0,
       "comments_url": "https://news.ycombinator.com/item?id=44537113"
     },
     {
-      "title": "Upgrading an M4 Pro Mac mini's storage for half the price",
-      "score": 301,
-      "url": "https://www.jeffgeerling.com/blog/2025/upgrading-m4-pro-mac-minis-storage-half-price",
-      "time": 1752242767.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44532306"
-    },
-    {
       "title": "Dict Unpacking in Python",
-      "score": 24,
+      "score": 48,
       "url": "https://github.com/asottile/dict-unpacking-at-home",
       "time": 1751990703.0,
       "comments_url": "https://news.ycombinator.com/item?id=44501287"
     },
     {
-      "title": "Bill Atkinson's psychedelic user interface",
-      "score": 363,
-      "url": "https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill",
-      "time": 1752231839.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44530767"
+      "title": "HDD Clicker generates HDD clicking sounds, based on HDD Led activity",
+      "score": 34,
+      "url": "https://www.serdashop.com/HDDClicker",
+      "time": 1752280306.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44538212"
     },
     {
       "title": "Andrew Ng: Building Faster with AI [video]",
-      "score": 152,
+      "score": 176,
       "url": "https://www.youtube.com/watch?v=RNJCfif1dPY",
       "time": 1752156128.0,
       "comments_url": "https://news.ycombinator.com/item?id=44521225"
     },
     {
+      "title": "Bill Atkinson's psychedelic user interface",
+      "score": 381,
+      "url": "https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill",
+      "time": 1752231839.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44530767"
+    },
+    {
+      "title": "Upgrading an M4 Pro Mac mini's storage for half the price",
+      "score": 313,
+      "url": "https://www.jeffgeerling.com/blog/2025/upgrading-m4-pro-mac-minis-storage-half-price",
+      "time": 1752242767.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44532306"
+    },
+    {
+      "title": "Leveraging Elixir's hot code loading capabilities to modularize a monolithic app",
+      "score": 7,
+      "url": "https://lucassifoni.info/blog/leveraging-hot-code-loading-for-fun-and-profit/",
+      "time": 1751958842.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44497808"
+    },
+    {
+      "title": "Measuring power network frequency using junk you have in your closet",
+      "score": 20,
+      "url": "https://halcy.de/blog/2025/02/09/measuring-power-network-frequency-using-junk-you-have-in-your-closet/",
+      "time": 1752272656.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44537373"
+    },
+    {
       "title": "Astronomers race to study interstellar interloper",
-      "score": 98,
+      "score": 107,
       "url": "https://www.science.org/content/article/astronomers-race-study-interstellar-interloper",
       "time": 1752248600.0,
       "comments_url": "https://news.ycombinator.com/item?id=44533464"
     },
     {
+      "title": "Apple vs the Law",
+      "score": 345,
+      "url": "https://formularsumo.co.uk/blog/2025/apple-vs-the-law/",
+      "time": 1752216552.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44529061"
+    },
+    {
       "title": "Repaste Your MacBook",
-      "score": 164,
+      "score": 183,
       "url": "https://christianselig.com/2025/07/repaste-macbook/",
       "time": 1752238407.0,
       "comments_url": "https://news.ycombinator.com/item?id=44531569"
-    },
-    {
-      "title": "Monorail – Turn CSS animations into interactive SVG graphs",
-      "score": 38,
-      "url": "https://muffinman.io/monorail/",
-      "time": 1752010430.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44504250"
     },
     {
       "title": "Activeloop (YC S18) Is Hiring AI Search and Python Back End Engineers(Onsite,MV)",
@@ -98,48 +140,6 @@
       "url": "https://careers.activeloop.ai/",
       "time": 1752267681.0,
       "comments_url": "https://news.ycombinator.com/item?id=44536748"
-    },
-    {
-      "title": "Apple vs the Law",
-      "score": 333,
-      "url": "https://formularsumo.co.uk/blog/2025/apple-vs-the-law/",
-      "time": 1752216552.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44529061"
-    },
-    {
-      "title": "'123456' password exposed chats for 64M McDonald's job applicants",
-      "score": 53,
-      "url": "https://www.bleepingcomputer.com/news/security/123456-password-exposed-chats-for-64-million-mcdonalds-job-applicants/",
-      "time": 1752270525.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44537093"
-    },
-    {
-      "title": "Show HN: RULER – Easily apply RL to any agent",
-      "score": 44,
-      "url": "https://openpipe.ai/blog/ruler",
-      "time": 1752256056.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44535078"
-    },
-    {
-      "title": "Introduction to Digital Filters",
-      "score": 19,
-      "url": "https://ccrma.stanford.edu/~jos/filters/",
-      "time": 1752261864.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44535977"
-    },
-    {
-      "title": "DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Gen",
-      "score": 3,
-      "url": "https://arxiv.org/abs/2506.20639",
-      "time": 1751980363.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44499642"
-    },
-    {
-      "title": "2-4 wire converters / hybrids (2009)",
-      "score": 4,
-      "url": "https://sound-au.com/appnotes/an010.htm",
-      "time": 1751945870.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44496814"
     }
   ]
 }
