@@ -1,142 +1,142 @@
 {
-  "last_updated": "2025-07-12T21:07:34.005001-04:00",
+  "last_updated": "2025-07-12T23:56:07.523326-04:00",
   "stories": [
     {
       "title": "Bypassing Google's big anti-adblock update",
-      "score": 375,
+      "score": 476,
       "url": "https://0x44.xyz/blog/web-request-blocking/",
       "time": 1752347169.0,
       "comments_url": "https://news.ycombinator.com/item?id=44544266"
     },
     {
-      "title": "Light exposure at night predicts incidence of cardiovascular diseases",
-      "score": 34,
-      "url": "https://www.medrxiv.org/content/10.1101/2025.06.20.25329961v1",
-      "time": 1752360494.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44545858"
+      "title": "Hacking Coroutines into C",
+      "score": 40,
+      "url": "https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html",
+      "time": 1752369157.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44546640"
     },
     {
       "title": "Kimi k2 largest open source SOTA model?",
-      "score": 213,
+      "score": 259,
       "url": "https://github.com/MoonshotAI/Kimi-K2",
       "time": 1752341184.0,
       "comments_url": "https://news.ycombinator.com/item?id=44543508"
     },
     {
-      "title": "Zig's New Async I/O",
-      "score": 33,
-      "url": "https://kristoff.it/blog/zig-new-async-io/",
-      "time": 1752361421.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44545949"
-    },
-    {
       "title": "MacPaint Art from the Mid-80s Still Looks Great Today",
-      "score": 748,
+      "score": 788,
       "url": "https://blog.decryption.net.au/posts/macpaint.html",
       "time": 1752309915.0,
       "comments_url": "https://news.ycombinator.com/item?id=44540402"
     },
     {
-      "title": "Show HN: I made a JSFiddle-style playground to test and share prompts fast",
-      "score": 9,
-      "url": "https://langfa.st/",
-      "time": 1752342104.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44543638"
+      "title": "Chrome's hidden X-Browser-Validation header reverse engineered",
+      "score": 62,
+      "url": "https://github.com/dsekz/chrome-x-browser-validation-header",
+      "time": 1752199210.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44527739"
     },
     {
-      "title": "Dépanneurs",
-      "score": 45,
-      "url": "https://walkmontreal.com/curiosities/depanneurs/",
-      "time": 1752106937.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44516055"
-    },
-    {
-      "title": "A better Ghidra MCP server – GhidrAssistMCP",
-      "score": 51,
-      "url": "https://github.com/jtang613/GhidrAssistMCP",
-      "time": 1752344493.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44543913"
-    },
-    {
-      "title": "OpenAI’s Windsurf deal is off, and Windsurf’s CEO is going to Google",
-      "score": 952,
-      "url": "https://www.theverge.com/openai/705999/google-windsurf-ceo-openai",
-      "time": 1752269731.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44536988"
+      "title": "Switching to Claude Code and VSCode Inside Docker",
+      "score": 14,
+      "url": "https://timsh.org/claude-inside-docker/",
+      "time": 1752246684.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44533044"
     },
     {
       "title": "Lost Chapter of Automate the Boring Stuff: Audio, Video, and Webcams in Python",
-      "score": 77,
+      "score": 114,
       "url": "https://inventwithpython.com/blog/lost-av-chapter.html",
       "time": 1752338745.0,
       "comments_url": "https://news.ycombinator.com/item?id=44543240"
     },
     {
-      "title": "Exposing a web service with Cloudflare Tunnel (2022)",
-      "score": 75,
-      "url": "https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel/",
-      "time": 1752052114.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44507799"
+      "title": "A better Ghidra MCP server – GhidrAssistMCP",
+      "score": 65,
+      "url": "https://github.com/jtang613/GhidrAssistMCP",
+      "time": 1752344493.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44543913"
+    },
+    {
+      "title": "Light exposure at night predicts incidence of cardiovascular diseases",
+      "score": 73,
+      "url": "https://www.medrxiv.org/content/10.1101/2025.06.20.25329961v1",
+      "time": 1752360494.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44545858"
+    },
+    {
+      "title": "Show HN: I made a JSFiddle-style playground to test and share prompts fast",
+      "score": 19,
+      "url": "https://langfa.st/",
+      "time": 1752342104.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44543638"
     },
     {
       "title": "The fish kick may be the fastest subsurface swim stroke yet (2015)",
-      "score": 168,
+      "score": 187,
       "url": "https://nautil.us/is-this-new-swim-stroke-the-fastest-yet-235511/",
       "time": 1752323128.0,
       "comments_url": "https://news.ycombinator.com/item?id=44541576"
     },
     {
       "title": "Two-step system makes plastic from carbon dioxide, water and electricity",
-      "score": 24,
+      "score": 40,
       "url": "https://phys.org/news/2025-06-plastic-carbon-dioxide-electricity.html",
       "time": 1752099037.0,
       "comments_url": "https://news.ycombinator.com/item?id=44515210"
     },
     {
+      "title": "Zig's New Async I/O",
+      "score": 80,
+      "url": "https://kristoff.it/blog/zig-new-async-io/",
+      "time": 1752361421.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44545949"
+    },
+    {
       "title": "Supreme Court's ruling practically wipes out free speech for sex writing online",
-      "score": 398,
+      "score": 482,
       "url": "https://ellsberg.substack.com/p/free-speech",
       "time": 1752344077.0,
       "comments_url": "https://news.ycombinator.com/item?id=44543865"
     },
     {
-      "title": "Proposed NOAA Budget Kills Program Designed to Prevent Satellite Collisions",
-      "score": 295,
-      "url": "https://skyandtelescope.org/astronomy-news/proposed-noaa-budget-kills-program-to-prevent-satellite-collisions/",
-      "time": 1752337863.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44543150"
+      "title": "Exposing a web service with Cloudflare Tunnel (2022)",
+      "score": 88,
+      "url": "https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel/",
+      "time": 1752052114.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44507799"
     },
     {
-      "title": "ETH Zurich and EPFL to release a LLM developed on public infrastructure",
-      "score": 651,
-      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html",
-      "time": 1752259510.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44535637"
+      "title": "A.I. Is Making Sure You Pay for That Ding on Your Rental Car",
+      "score": 30,
+      "url": "https://www.nytimes.com/2025/07/09/travel/rental-car-ai-scanner-hertz.html",
+      "time": 1752369953.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44546707"
     },
     {
-      "title": "Second Variety, by Philip K. Dick (1953)",
-      "score": 27,
-      "url": "https://www.gutenberg.org/files/32032/32032-h/32032-h.htm",
-      "time": 1752059654.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44508580"
+      "title": "HNSW as abstract data structure: video intro to Redis vector sets",
+      "score": 9,
+      "url": "https://www.youtube.com/watch?v=kVApsFUeuEA",
+      "time": 1752148775.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44520000"
     },
     {
       "title": "Working through 'Writing A C Compiler'",
-      "score": 106,
+      "score": 124,
       "url": "https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/",
       "time": 1752323013.0,
       "comments_url": "https://news.ycombinator.com/item?id=44541565"
     },
     {
       "title": "New Date(\"wtf\") – How well do you know JavaScript's Date class?",
-      "score": 279,
+      "score": 294,
       "url": "https://jsdate.wtf",
       "time": 1752308042.0,
       "comments_url": "https://news.ycombinator.com/item?id=44540241"
     },
     {
       "title": "Malware found in official gravityforms plugin indicating supply chain breach",
-      "score": 190,
+      "score": 197,
       "url": "https://patchstack.com/articles/critical-malware-found-in-gravityforms-official-plugin-site/",
       "time": 1752302519.0,
       "comments_url": "https://news.ycombinator.com/item?id=44539879"
