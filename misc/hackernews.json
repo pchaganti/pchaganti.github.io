@@ -1,54 +1,96 @@
 {
-  "last_updated": "2025-07-13T14:15:34.447078-04:00",
+  "last_updated": "2025-07-13T17:10:32.623270-04:00",
   "stories": [
     {
-      "title": "How does a screen even work?",
-      "score": 141,
+      "title": "How does a screen work?",
+      "score": 227,
       "url": "https://www.makingsoftware.com/chapters/how-a-screen-works",
       "time": 1752415746.0,
       "comments_url": "https://news.ycombinator.com/item?id=44550572"
     },
     {
-      "title": "Does Showing Seconds in the System Tray Use More Power?",
-      "score": 28,
-      "url": "https://www.lttlabs.com/blog/2025/07/11/does-showing-seconds-in-the-system-tray-actually-use-more-power",
-      "time": 1752427100.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44551913"
-    },
-    {
       "title": "Show HN: A Raycast-compatible launcher for Linux",
-      "score": 41,
+      "score": 101,
       "url": "https://github.com/ByteAtATime/raycast-linux",
       "time": 1752425868.0,
       "comments_url": "https://news.ycombinator.com/item?id=44551762"
     },
     {
+      "title": "A technical look at Iran's internet shutdowns",
+      "score": 54,
+      "url": "https://zola.ink/blog/posts/a-technical-look-at-irans-internet-shutdown",
+      "time": 1752425102.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44551652"
+    },
+    {
+      "title": "Five companies now control over 90% of the restaurant food delivery market",
+      "score": 26,
+      "url": "https://marketsaintefficient.substack.com/p/five-companies-now-control-over-90",
+      "time": 1752438217.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44553389"
+    },
+    {
       "title": "Reading Neuromancer for the first time in 2025",
-      "score": 273,
+      "score": 321,
       "url": "https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson",
       "time": 1752392924.0,
       "comments_url": "https://news.ycombinator.com/item?id=44548353"
     },
     {
-      "title": "Bypassing Google's big anti-adblock update",
-      "score": 905,
-      "url": "https://0x44.xyz/blog/web-request-blocking/",
-      "time": 1752347169.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44544266"
+      "title": "The Gottorf Globe and its reconstruction",
+      "score": 8,
+      "url": "https://gottorfer-globus.de/en/the-gottorf-globe",
+      "time": 1752434167.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44552730"
+    },
+    {
+      "title": "GLP-1s Are Breaking Life Insurance",
+      "score": 151,
+      "url": "https://www.glp1digest.com/p/how-glp-1s-are-breaking-life-insurance",
+      "time": 1752431507.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44552414"
+    },
+    {
+      "title": "Does showing seconds in the system tray actually use more power?",
+      "score": 97,
+      "url": "https://www.lttlabs.com/blog/2025/07/11/does-showing-seconds-in-the-system-tray-actually-use-more-power",
+      "time": 1752427100.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44551913"
+    },
+    {
+      "title": "The North Korean fake IT worker problem is ubiquitous",
+      "score": 92,
+      "url": "https://www.theregister.com/2025/07/13/fake_it_worker_problem/",
+      "time": 1752408394.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44549762"
     },
     {
       "title": "Show HN: Learn LLMs LeetCode Style",
-      "score": 50,
+      "score": 90,
       "url": "https://github.com/Exorust/TorchLeet",
       "time": 1752411793.0,
       "comments_url": "https://news.ycombinator.com/item?id=44550157"
     },
     {
+      "title": "C3 solved memory lifetimes with scopes",
+      "score": 64,
+      "url": "https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/",
+      "time": 1752244062.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44532527"
+    },
+    {
       "title": "Axon's Draft One AI Police Report Generator Is Designed to Defy Transparency",
-      "score": 141,
+      "score": 180,
       "url": "https://www.eff.org/deeplinks/2025/07/axons-draft-one-designed-defy-transparency",
       "time": 1752193276.0,
       "comments_url": "https://news.ycombinator.com/item?id=44527172"
+    },
+    {
+      "title": "How to scale RL to 10^26 FLOPs",
+      "score": 15,
+      "url": "https://blog.jxmo.io/p/how-to-scale-rl-to-1026-flops",
+      "time": 1752180454.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44525405"
     },
     {
       "title": "Infisical (YC W23) Is Hiring DevRel Engineers",
@@ -58,88 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=44551784"
     },
     {
-      "title": "Local Chatbot RAG with FreeBSD Knowledge",
-      "score": 26,
-      "url": "https://hackacad.net/post/2025-07-12-local-chatbot-rag-with-freebsd-knowledge/",
-      "time": 1752414529.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44550450"
+      "title": "Fine dining restaurants researching guests to make their dinner unforgettable",
+      "score": 22,
+      "url": "https://www.sfgate.com/food/article/data-deep-dives-bay-area-fine-dining-restaurants-20404434.php",
+      "time": 1752420629.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44551109"
+    },
+    {
+      "title": "Hungary's oldest library fighting to save 100k books from a beetle infestation",
+      "score": 49,
+      "url": "https://www.nbcnews.com/world/hungary/hungary-pannonhalma-archabbey-beetle-infestation-rcna218539",
+      "time": 1752431093.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44552362"
     },
     {
       "title": "The upcoming GPT-3 moment for RL",
-      "score": 125,
+      "score": 153,
       "url": "https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/",
       "time": 1752080370.0,
       "comments_url": "https://news.ycombinator.com/item?id=44512350"
     },
     {
-      "title": "Notes on Graham's ANSI Common Lisp (2024)",
-      "score": 67,
-      "url": "https://courses.cs.northwestern.edu/325/readings/graham/graham-notes.html",
-      "time": 1752103973.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44515783"
-    },
-    {
-      "title": "The Decipherment of the Dhofari Script",
-      "score": 43,
-      "url": "https://www.science.org/content/article/mysterious-pre-islamic-script-oman-finally-deciphered",
-      "time": 1752402318.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44549145"
+      "title": "Holographic ribbon aims to oust magnetic tape with 50-year life span and 200TB",
+      "score": 11,
+      "url": "https://www.tomshardware.com/pc-components/storage/holographic-ribbon-aims-to-oust-magnetic-tape-with-50-year-life-span-and-200tb-capacity-per-cartridge-holomem-says-optical-ribbon-based-carts-work-with-some-components-of-existing-systems-reducing-fricition",
+      "time": 1752436704.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44553157"
     },
     {
       "title": "The Robot Sculptors of Italy",
-      "score": 16,
+      "score": 40,
       "url": "https://www.bloomberg.com/features/2025-robot-sculptors-marble/",
       "time": 1752125986.0,
       "comments_url": "https://news.ycombinator.com/item?id=44517649"
     },
     {
-      "title": "Zig's New Async I/O",
-      "score": 307,
-      "url": "https://kristoff.it/blog/zig-new-async-io/",
-      "time": 1752361421.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44545949"
-    },
-    {
-      "title": "A Mental Model for C++ Coroutine",
-      "score": 18,
-      "url": "https://uvdn7.github.io/cpp-coro/",
-      "time": 1752254637.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44534809"
-    },
-    {
-      "title": "Understanding Tool Calling in LLMs – Step-by-Step with REST and Spring AI",
-      "score": 52,
-      "url": "https://muthuishere.medium.com/understanding-tool-function-calling-in-llms-step-by-step-examples-in-rest-and-spring-ai-2149ecd6b18b",
-      "time": 1752399887.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44548906"
-    },
-    {
-      "title": "Chrome's hidden X-Browser-Validation header reverse engineered",
-      "score": 318,
-      "url": "https://github.com/dsekz/chrome-x-browser-validation-header",
-      "time": 1752199210.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44527739"
-    },
-    {
-      "title": "The Polyhedral Perspective",
-      "score": 4,
-      "url": "https://publicdomainreview.org/essay/polyhedral-perspective/",
-      "time": 1752130386.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44518078"
-    },
-    {
-      "title": "Monitoring My Homelab, Simply",
-      "score": 44,
-      "url": "https://b.tuxes.uk/simple-homelab-monitoring.html",
-      "time": 1752146884.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44519776"
-    },
-    {
-      "title": "Gaming cancer: How citizen science games could help cure disease",
-      "score": 85,
-      "url": "https://thereader.mitpress.mit.edu/how-citizen-science-games-could-help-cure-disease/",
-      "time": 1752402218.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44549134"
+      "title": "Most people who buy games on Steam never play them",
+      "score": 149,
+      "url": "https://howtomarketagame.com/2025/06/03/most-people-who-buy-your-game-wont-play-it/",
+      "time": 1752428828.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44552095"
     }
   ]
 }
