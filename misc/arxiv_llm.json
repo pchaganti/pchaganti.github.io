@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-13T17:10:33.985604-04:00",
+  "last_updated": "2025-07-13T21:04:41.227028-04:00",
   "papers": [
     {
       "title": "PyVision: Agentic Vision with Dynamic Tooling",
@@ -100,7 +100,7 @@
     {
       "title": "Measuring AI Alignment with Human Flourishing",
       "summary": "This paper introduces the Flourishing AI Benchmark (FAI Benchmark), a novel\nevaluation framework that assesses AI alignment with human flourishing across\nseven dimensions: Character and Virtue, Close Social Relationships, Happiness\nand Life Satisfaction, Meaning and Purpose, Mental and Physical Health,\nFinancial and Material Stability, and Faith and Spirituality. Unlike\ntraditional benchmarks that focus on technical capabilities or harm prevention,\nthe FAI Benchmark measures AI performance on how effectively models contribute\nto the flourishing of a person across these dimensions. The benchmark evaluates\nhow effectively LLM AI systems align with current research models of holistic\nhuman well-being through a comprehensive methodology that incorporates 1,229\nobjective and subjective questions. Using specialized judge Large Language\nModels (LLMs) and cross-dimensional evaluation, the FAI Benchmark employs\ngeometric mean scoring to ensure balanced performance across all flourishing\ndimensions. Initial testing of 28 leading language models reveals that while\nsome models approach holistic alignment (with the highest-scoring models\nachieving 72/100), none are acceptably aligned across all dimensions,\nparticularly in Faith and Spirituality, Character and Virtue, and Meaning and\nPurpose. This research establishes a framework for developing AI systems that\nactively support human flourishing rather than merely avoiding harm, offering\nsignificant implications for AI development, ethics, and evaluation.",
-      "url": "http://arxiv.org/abs/2507.07787v1",
+      "url": "http://arxiv.org/abs/2507.07787v2",
       "published_time_eastern_timestamp": 1752156593.0
     },
     {

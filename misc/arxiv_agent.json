@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-13T17:10:34.387312-04:00",
+  "last_updated": "2025-07-13T21:04:41.764804-04:00",
   "papers": [
     {
       "title": "PyVision: Agentic Vision with Dynamic Tooling",
@@ -34,7 +34,7 @@
     {
       "title": "The Trust Fabric: Decentralized Interoperability and Economic\n  Coordination for the Agentic Web",
       "summary": "The fragmentation of AI agent ecosystems has created urgent demands for\ninteroperability, trust, and economic coordination that current protocols --\nincluding MCP (Hou et al., 2025), A2A (Habler et al., 2025), ACP (Liu et al.,\n2025), and Cisco's AGP (Edwards, 2025) -- cannot address at scale. We present\nthe Nanda Unified Architecture, a decentralized framework built around three\ncore innovations: fast DID-based agent discovery through distributed\nregistries, semantic agent cards with verifiable credentials and composability\nprofiles, and a dynamic trust layer that integrates behavioral attestations\nwith policy compliance. The system introduces X42/H42 micropayments for\neconomic coordination and MAESTRO, a security framework incorporating\nSynergetics' patented AgentTalk protocol (US Patent 12,244,584 B1) and secure\ncontainerization. Real-world deployments demonstrate 99.9 percent compliance in\nhealthcare applications and substantial monthly transaction volumes with strong\nprivacy guarantees. By unifying MIT's trust research with production\ndeployments from Cisco and Synergetics, we show how cryptographic proofs and\npolicy-as-code transform agents into trust-anchored participants in a\ndecentralized economy (Lakshmanan, 2025; Sha, 2025). The result enables a\nglobally interoperable Internet of Agents where trust becomes the native\ncurrency of collaboration across both enterprise and Web3 ecosystems.",
-      "url": "http://arxiv.org/abs/2507.07901v1",
+      "url": "http://arxiv.org/abs/2507.07901v2",
       "published_time_eastern_timestamp": 1752165186.0
     },
     {
@@ -106,13 +106,13 @@
     {
       "title": "Hallucination Stations: On Some Basic Limitations of Transformer-Based\n  Language Models",
       "summary": "With widespread adoption of transformer-based language models in AI, there is\nsignificant interest in the limits of LLMs capabilities, specifically so-called\nhallucinations, occurrences in which LLMs provide spurious, factually incorrect\nor nonsensical information when prompted on certain subjects. Furthermore,\nthere is growing interest in agentic uses of LLMs - that is, using LLMs to\ncreate agents that act autonomously or semi-autonomously to carry out various\ntasks, including tasks with applications in the real world. This makes it\nimportant to understand the types of tasks LLMs can and cannot perform. We\nexplore this topic from the perspective of the computational complexity of LLM\ninference. We show that LLMs are incapable of carrying out computational and\nagentic tasks beyond a certain complexity, and further that LLMs are incapable\nof verifying the accuracy of tasks beyond a certain complexity. We present\nexamples of both, then discuss some consequences of this work.",
-      "url": "http://arxiv.org/abs/2507.07505v1",
+      "url": "http://arxiv.org/abs/2507.07505v2",
       "published_time_eastern_timestamp": 1752133852.0
     },
     {
       "title": "StarDojo: Benchmarking Open-Ended Behaviors of Agentic Multimodal LLMs\n  in Production-Living Simulations with Stardew Valley",
       "summary": "Autonomous agents navigating human society must master both production\nactivities and social interactions, yet existing benchmarks rarely evaluate\nthese skills simultaneously. To bridge this gap, we introduce StarDojo, a novel\nbenchmark based on Stardew Valley, designed to assess AI agents in open-ended\nproduction-living simulations. In StarDojo, agents are tasked to perform\nessential livelihood activities such as farming and crafting, while\nsimultaneously engaging in social interactions to establish relationships\nwithin a vibrant community. StarDojo features 1,000 meticulously curated tasks\nacross five key domains: farming, crafting, exploration, combat, and social\ninteractions. Additionally, we provide a compact subset of 100 representative\ntasks for efficient model evaluation. The benchmark offers a unified,\nuser-friendly interface that eliminates the need for keyboard and mouse\ncontrol, supports all major operating systems, and enables the parallel\nexecution of multiple environment instances, making it particularly well-suited\nfor evaluating the most capable foundation agents, powered by multimodal large\nlanguage models (MLLMs). Extensive evaluations of state-of-the-art MLLMs agents\ndemonstrate substantial limitations, with the best-performing model, GPT-4.1,\nachieving only a 12.7% success rate, primarily due to challenges in visual\nunderstanding, multimodal reasoning and low-level manipulation. As a\nuser-friendly environment and benchmark, StarDojo aims to facilitate further\nresearch towards robust, open-ended agents in complex production-living\nenvironments.",
-      "url": "http://arxiv.org/abs/2507.07445v1",
+      "url": "http://arxiv.org/abs/2507.07445v2",
       "published_time_eastern_timestamp": 1752126508.0
     },
     {

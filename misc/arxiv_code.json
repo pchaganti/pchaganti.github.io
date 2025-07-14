@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-13T17:10:34.790509-04:00",
+  "last_updated": "2025-07-13T21:04:42.302005-04:00",
   "papers": [
     {
       "title": "Impact of Pretraining Word Co-occurrence on Compositional Generalization\n  in Multimodal Models",
@@ -94,7 +94,7 @@
     {
       "title": "The Trust Fabric: Decentralized Interoperability and Economic\n  Coordination for the Agentic Web",
       "summary": "The fragmentation of AI agent ecosystems has created urgent demands for\ninteroperability, trust, and economic coordination that current protocols --\nincluding MCP (Hou et al., 2025), A2A (Habler et al., 2025), ACP (Liu et al.,\n2025), and Cisco's AGP (Edwards, 2025) -- cannot address at scale. We present\nthe Nanda Unified Architecture, a decentralized framework built around three\ncore innovations: fast DID-based agent discovery through distributed\nregistries, semantic agent cards with verifiable credentials and composability\nprofiles, and a dynamic trust layer that integrates behavioral attestations\nwith policy compliance. The system introduces X42/H42 micropayments for\neconomic coordination and MAESTRO, a security framework incorporating\nSynergetics' patented AgentTalk protocol (US Patent 12,244,584 B1) and secure\ncontainerization. Real-world deployments demonstrate 99.9 percent compliance in\nhealthcare applications and substantial monthly transaction volumes with strong\nprivacy guarantees. By unifying MIT's trust research with production\ndeployments from Cisco and Synergetics, we show how cryptographic proofs and\npolicy-as-code transform agents into trust-anchored participants in a\ndecentralized economy (Lakshmanan, 2025; Sha, 2025). The result enables a\nglobally interoperable Internet of Agents where trust becomes the native\ncurrency of collaboration across both enterprise and Web3 ecosystems.",
-      "url": "http://arxiv.org/abs/2507.07901v1",
+      "url": "http://arxiv.org/abs/2507.07901v2",
       "published_time_eastern_timestamp": 1752165186.0
     },
     {
@@ -112,7 +112,7 @@
     {
       "title": "SAMO: A Lightweight Sharpness-Aware Approach for Multi-Task Optimization\n  with Joint Global-Local Perturbation",
       "summary": "Multi-task learning (MTL) enables a joint model to capture commonalities\nacross multiple tasks, reducing computation costs and improving data\nefficiency. However, a major challenge in MTL optimization is task conflicts,\nwhere the task gradients differ in direction or magnitude, limiting model\nperformance compared to single-task counterparts. Sharpness-aware minimization\n(SAM) minimizes task loss while simultaneously reducing the sharpness of the\nloss landscape. Our empirical observations show that SAM effectively mitigates\ntask conflicts in MTL. Motivated by these findings, we explore integrating SAM\ninto MTL but face two key challenges. While both the average loss gradient and\nindividual task gradients-referred to as global and local\ninformation-contribute to SAM, how to combine them remains unclear. Moreover,\ndirectly computing each task gradient introduces significant computational and\nmemory overheads. To address these challenges, we propose SAMO, a lightweight\n\\textbf{S}harpness-\\textbf{A}ware \\textbf{M}ulti-task \\textbf{O}ptimization\napproach, that leverages a joint global-local perturbation. The local\nperturbations are approximated using only forward passes and are layerwise\nnormalized to improve efficiency. Extensive experiments on a suite of\nmulti-task benchmarks demonstrate both the effectiveness and efficiency of our\nmethod. Code is available at https://github.com/OptMN-Lab/SAMO.",
-      "url": "http://arxiv.org/abs/2507.07883v1",
+      "url": "http://arxiv.org/abs/2507.07883v2",
       "published_time_eastern_timestamp": 1752163562.0
     },
     {
