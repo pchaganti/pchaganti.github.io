@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-07-14T21:03:49.987740-04:00",
+  "last_updated": "2025-07-14T23:55:53.854109-04:00",
   "stories": [
     {
       "title": "Apple's MLX adding CUDA support",
-      "score": 123,
+      "score": 233,
       "url": "https://github.com/ml-explore/mlx/pull/1983",
       "time": 1752529230.0,
       "comments_url": "https://news.ycombinator.com/item?id=44565668"
     },
     {
       "title": "LIGO detects most massive black hole merger to date",
-      "score": 168,
+      "score": 207,
       "url": "https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date",
       "time": 1752523611.0,
       "comments_url": "https://news.ycombinator.com/item?id=44564656"
     },
     {
       "title": "RFC: PHP license update",
-      "score": 122,
+      "score": 162,
       "url": "https://wiki.php.net/rfc/php_license_update",
       "time": 1752529047.0,
       "comments_url": "https://news.ycombinator.com/item?id=44565647"
     },
     {
+      "title": "AWS Lambda Silent Crash – A Platform Failure, Not an Application Bug [pdf]",
+      "score": 35,
+      "url": "https://lyons-den.com/whitepapers/aws-lambda-silent-crash.pdf",
+      "time": 1752542569.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44566996"
+    },
+    {
       "title": "Kiro: A new agentic IDE",
-      "score": 671,
+      "score": 722,
       "url": "https://kiro.dev/blog/introducing-kiro/",
       "time": 1752503080.0,
       "comments_url": "https://news.ycombinator.com/item?id=44560662"
     },
     {
-      "title": "DEWLine Museum – The Distant Early Warning Radar Line",
-      "score": 28,
-      "url": "https://dewlinemuseum.com/",
-      "time": 1752532088.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44566034"
-    },
-    {
-      "title": "NeuralOS: An operating system powered by neural networks",
-      "score": 77,
-      "url": "https://neural-os.com/",
-      "time": 1752522866.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44564531"
-    },
-    {
-      "title": "I Solved the Century-Old Mystery of a Miraculous Shipwreck Survivor",
-      "score": 11,
-      "url": "https://thewalrus.ca/empress-of-ireland-survivor-mystery/",
-      "time": 1752359097.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44545695"
-    },
-    {
       "title": "Dog Walk: Blender Studio's official game project",
-      "score": 40,
+      "score": 109,
       "url": "https://blenderstudio.itch.io/dogwalk",
       "time": 1752528796.0,
       "comments_url": "https://news.ycombinator.com/item?id=44565603"
     },
     {
+      "title": "Clashes between web and X11 colors in the CSS color scheme",
+      "score": 9,
+      "url": "https://en.wikipedia.org/wiki/X11_color_names",
+      "time": 1752431566.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44552419"
+    },
+    {
+      "title": "NeuralOS: An operating system powered by neural networks",
+      "score": 100,
+      "url": "https://neural-os.com/",
+      "time": 1752522866.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44564531"
+    },
+    {
+      "title": "DEWLine Museum – The Distant Early Warning Radar Line",
+      "score": 39,
+      "url": "https://dewlinemuseum.com/",
+      "time": 1752532088.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44566034"
+    },
+    {
+      "title": "Protecting My Attention at the Dopamine Carnival",
+      "score": 69,
+      "url": "https://www.amirsharif.com/protecting-my-attention-at-the-dopamine-carnival",
+      "time": 1752539680.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44566748"
+    },
+    {
+      "title": "I Solved the Century-Old Mystery of a Miraculous Shipwreck Survivor",
+      "score": 38,
+      "url": "https://thewalrus.ca/empress-of-ireland-survivor-mystery/",
+      "time": 1752359097.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44545695"
+    },
+    {
       "title": "Context Rot: How increasing input tokens impacts LLM performance",
-      "score": 77,
+      "score": 107,
       "url": "https://research.trychroma.com/context-rot",
       "time": 1752521115.0,
       "comments_url": "https://news.ycombinator.com/item?id=44564248"
     },
     {
+      "title": "SQLite async connection pool for high-performance",
+      "score": 71,
+      "url": "https://github.com/slaily/aiosqlitepool",
+      "time": 1752229592.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44530518"
+    },
+    {
+      "title": "Transition to using 16 KB page sizes for Android apps and games",
+      "score": 20,
+      "url": "https://android-developers.googleblog.com/2025/07/transition-to-16-kb-page-sizes-android-apps-games-android-studio.html",
+      "time": 1752217450.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44529150"
+    },
+    {
       "title": "Show HN: Bedrock – An 8-bit computing system for running programs anywhere",
-      "score": 62,
+      "score": 91,
       "url": "https://benbridle.com/projects/bedrock.html",
       "time": 1752186018.0,
       "comments_url": "https://news.ycombinator.com/item?id=44526322"
     },
     {
       "title": "Replicube: 3D shader puzzle game, online demo",
-      "score": 82,
+      "score": 92,
       "url": "https://replicube.xyz/staging/",
       "time": 1752256801.0,
       "comments_url": "https://news.ycombinator.com/item?id=44535202"
     },
     {
-      "title": "SQLite async connection pool for high-performance",
-      "score": 49,
-      "url": "https://github.com/slaily/aiosqlitepool",
-      "time": 1752229592.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44530518"
+      "title": "C++ Coroutines Advanced: Converting std:future to asio:awaitable",
+      "score": 10,
+      "url": "https://www.ddhigh.com/en/2025/07/15/cpp-coroutine-future-to-awaitable/",
+      "time": 1752544212.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44567134"
     },
     {
-      "title": "Cognition (Devin AI) to Acquire Windsurf",
-      "score": 351,
-      "url": "https://cognition.ai/blog/windsurf",
-      "time": 1752516435.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44563324"
-    },
-    {
-      "title": "Anthropic, Google, OpenAI and XAI Granted Up to $200M from Defense Department",
-      "score": 108,
-      "url": "https://www.cnbc.com/2025/07/14/anthropic-google-openai-xai-granted-up-to-200-million-from-dod.html",
-      "time": 1752527779.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44565416"
+      "title": "The Collapse of the FDA",
+      "score": 79,
+      "url": "https://www.nytimes.com/2025/07/08/magazine/fda-collapse-rfk-kennedy.html",
+      "time": 1752539241.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44566714"
     },
     {
       "title": "Building Modular Rails Applications: A Deep Dive into Rails Engines",
-      "score": 121,
+      "score": 134,
       "url": "https://www.panasiti.me/blog/modular-rails-applications-rails-engines-active-storage-dashboard/",
       "time": 1752507031.0,
       "comments_url": "https://news.ycombinator.com/item?id=44561354"
     },
     {
-      "title": "Cidco MailStation as a Z80 Development Platform (2019)",
-      "score": 43,
-      "url": "https://jcs.org/2019/05/03/mailstation",
-      "time": 1752516685.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44563364"
-    },
-    {
-      "title": "Strategies for Fast Lexers",
-      "score": 123,
-      "url": "https://xnacly.me/posts/2025/fast-lexer-strategies/",
-      "time": 1752504174.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44560871"
-    },
-    {
-      "title": "Embedding user-defined indexes in Apache Parquet",
-      "score": 91,
-      "url": "https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/",
-      "time": 1752510542.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44562036"
-    },
-    {
-      "title": "Show HN: The HTML Maze – Escape an eerie labyrinth built with HTML pages",
-      "score": 26,
-      "url": "https://htmlmaze.com/",
-      "time": 1752525749.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44565004"
-    },
-    {
-      "title": "Japanese grandparents create life-size Totoro with bus stop for grandkids (2020)",
-      "score": 238,
-      "url": "https://mymodernmet.com/totoro-sculpture-bus-stop/",
-      "time": 1752509354.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44561818"
+      "title": "Cognition (Devin AI) to Acquire Windsurf",
+      "score": 375,
+      "url": "https://cognition.ai/blog/windsurf",
+      "time": 1752516435.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44563324"
     }
   ]
 }
