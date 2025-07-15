@@ -1,61 +1,96 @@
 {
-  "last_updated": "2025-07-15T02:19:37.357599-04:00",
+  "last_updated": "2025-07-15T05:21:28.122781-04:00",
   "stories": [
     {
       "title": "LLM Inevitabilism",
-      "score": 184,
+      "score": 474,
       "url": "https://tomrenner.com/posts/llm-inevitabilism/",
       "time": 1752554135.0,
       "comments_url": "https://news.ycombinator.com/item?id=44567857"
     },
     {
-      "title": "Happy 20th Birthday Django",
-      "score": 81,
-      "url": "https://www.djangoproject.com/weblog/2025/jul/13/happy-20th-birthday-django/",
-      "time": 1752402407.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44549154"
-    },
-    {
       "title": "Apple's MLX adding CUDA support",
-      "score": 297,
+      "score": 356,
       "url": "https://github.com/ml-explore/mlx/pull/1983",
       "time": 1752529230.0,
       "comments_url": "https://news.ycombinator.com/item?id=44565668"
     },
     {
-      "title": "Show HN: CallFS – S3-style object store in one Go binary (MIT)",
-      "score": 38,
-      "url": "https://github.com/ebogdum/callfs",
-      "time": 1752551037.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44567650"
-    },
-    {
       "title": "LIGO detects most massive black hole merger to date",
-      "score": 237,
+      "score": 258,
       "url": "https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date",
       "time": 1752523611.0,
       "comments_url": "https://news.ycombinator.com/item?id=44564656"
     },
     {
-      "title": "Clashes between web and X11 colors in the CSS color scheme",
-      "score": 33,
-      "url": "https://en.wikipedia.org/wiki/X11_color_names",
-      "time": 1752431566.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44552419"
-    },
-    {
       "title": "Kiro: A new agentic IDE",
-      "score": 774,
+      "score": 826,
       "url": "https://kiro.dev/blog/introducing-kiro/",
       "time": 1752503080.0,
       "comments_url": "https://news.ycombinator.com/item?id=44560662"
     },
     {
+      "title": "Dog Walk: Blender Studio's official game project",
+      "score": 229,
+      "url": "https://blenderstudio.itch.io/dogwalk",
+      "time": 1752528796.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44565603"
+    },
+    {
       "title": "RFC: PHP license update",
-      "score": 189,
+      "score": 224,
       "url": "https://wiki.php.net/rfc/php_license_update",
       "time": 1752529047.0,
       "comments_url": "https://news.ycombinator.com/item?id=44565647"
+    },
+    {
+      "title": "Clashes between web and X11 colors in the CSS color scheme",
+      "score": 53,
+      "url": "https://en.wikipedia.org/wiki/X11_color_names",
+      "time": 1752431566.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44552419"
+    },
+    {
+      "title": "When Sigterm Does Nothing: A Postgres Mystery",
+      "score": 22,
+      "url": "https://clickhouse.com/blog/sigterm-postgres-mystery",
+      "time": 1752554588.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44567888"
+    },
+    {
+      "title": "VHS, VCDs, and Laserdiscs in Southeast Asia",
+      "score": 6,
+      "url": "https://rubenerd.com/vcds-and-laserdiscs-in-southeast-asia/",
+      "time": 1752249733.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44533759"
+    },
+    {
+      "title": "SQLite async connection pool for high-performance",
+      "score": 115,
+      "url": "https://github.com/slaily/aiosqlitepool",
+      "time": 1752229592.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44530518"
+    },
+    {
+      "title": "C++ Coroutines Advanced: Converting std:future to asio:awaitable",
+      "score": 41,
+      "url": "https://www.ddhigh.com/en/2025/07/15/cpp-coroutine-future-to-awaitable/",
+      "time": 1752544212.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44567134"
+    },
+    {
+      "title": "Context Rot: How increasing input tokens impacts LLM performance",
+      "score": 160,
+      "url": "https://research.trychroma.com/context-rot",
+      "time": 1752521115.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44564248"
+    },
+    {
+      "title": "VMware Workstation: Bringing Virtualization to the x86 Architecture [pdf] (2012)",
+      "score": 9,
+      "url": "https://www.cse.iitb.ac.in/~mythili/virtcc/papers/vmware.pdf",
+      "time": 1752417198.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44550722"
     },
     {
       "title": "Martin (YC S23) Is Hiring Founding Engineers to Build a Better Siri",
@@ -65,81 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=44567871"
     },
     {
-      "title": "Dog Walk: Blender Studio's official game project",
-      "score": 156,
-      "url": "https://blenderstudio.itch.io/dogwalk",
-      "time": 1752528796.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44565603"
-    },
-    {
-      "title": "Context Rot: How increasing input tokens impacts LLM performance",
-      "score": 129,
-      "url": "https://research.trychroma.com/context-rot",
-      "time": 1752521115.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44564248"
-    },
-    {
-      "title": "SQLite async connection pool for high-performance",
-      "score": 92,
-      "url": "https://github.com/slaily/aiosqlitepool",
-      "time": 1752229592.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44530518"
-    },
-    {
-      "title": "Transition to using 16 KB page sizes for Android apps and games",
-      "score": 37,
-      "url": "https://android-developers.googleblog.com/2025/07/transition-to-16-kb-page-sizes-android-apps-games-android-studio.html",
-      "time": 1752217450.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44529150"
-    },
-    {
-      "title": "DEWLine Museum – The Distant Early Warning Radar Line",
-      "score": 46,
-      "url": "https://dewlinemuseum.com/",
-      "time": 1752532088.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44566034"
-    },
-    {
-      "title": "C++ Coroutines Advanced: Converting std:future to asio:awaitable",
-      "score": 23,
-      "url": "https://www.ddhigh.com/en/2025/07/15/cpp-coroutine-future-to-awaitable/",
-      "time": 1752544212.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44567134"
-    },
-    {
-      "title": "I Solved the Century-Old Mystery of a Miraculous Shipwreck Survivor",
-      "score": 50,
-      "url": "https://thewalrus.ca/empress-of-ireland-survivor-mystery/",
-      "time": 1752359097.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44545695"
-    },
-    {
       "title": "Show HN: Bedrock – An 8-bit computing system for running programs anywhere",
-      "score": 109,
+      "score": 136,
       "url": "https://benbridle.com/projects/bedrock.html",
       "time": 1752186018.0,
       "comments_url": "https://news.ycombinator.com/item?id=44526322"
     },
     {
-      "title": "Cognition (Devin AI) to Acquire Windsurf",
-      "score": 397,
-      "url": "https://cognition.ai/blog/windsurf",
-      "time": 1752516435.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44563324"
+      "title": "I Solved the Century-Old Mystery of a Miraculous Shipwreck Survivor",
+      "score": 66,
+      "url": "https://thewalrus.ca/empress-of-ireland-survivor-mystery/",
+      "time": 1752359097.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44545695"
+    },
+    {
+      "title": "We Tested 7 Languages Under Extreme Load and Only One Didn't Crash",
+      "score": 5,
+      "url": "https://freedium.cfd/https:/medium.com/@codeperfect/we-tested-7-languages-under-extreme-load-and-only-one-didnt-crash-it-wasn-t-what-we-expected-67f84c79dc34",
+      "time": 1752562967.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44568666"
     },
     {
       "title": "NeuralOS: An operating system powered by neural networks",
-      "score": 118,
+      "score": 137,
       "url": "https://neural-os.com/",
       "time": 1752522866.0,
       "comments_url": "https://news.ycombinator.com/item?id=44564531"
     },
     {
-      "title": "Replicube: 3D shader puzzle game, online demo",
-      "score": 107,
-      "url": "https://replicube.xyz/staging/",
-      "time": 1752256801.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44535202"
+      "title": "Happy 20th Birthday, Django",
+      "score": 410,
+      "url": "https://www.djangoproject.com/weblog/2025/jul/13/happy-20th-birthday-django/",
+      "time": 1752432296.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44552500"
+    },
+    {
+      "title": "DEWLine Museum – The Distant Early Warning Radar Line",
+      "score": 51,
+      "url": "https://dewlinemuseum.com/",
+      "time": 1752532088.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44566034"
     }
   ]
 }
