@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-07-14T23:55:53.854109-04:00",
+  "last_updated": "2025-07-15T02:19:37.357599-04:00",
   "stories": [
     {
+      "title": "LLM Inevitabilism",
+      "score": 184,
+      "url": "https://tomrenner.com/posts/llm-inevitabilism/",
+      "time": 1752554135.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44567857"
+    },
+    {
+      "title": "Happy 20th Birthday Django",
+      "score": 81,
+      "url": "https://www.djangoproject.com/weblog/2025/jul/13/happy-20th-birthday-django/",
+      "time": 1752402407.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44549154"
+    },
+    {
       "title": "Apple's MLX adding CUDA support",
-      "score": 233,
+      "score": 297,
       "url": "https://github.com/ml-explore/mlx/pull/1983",
       "time": 1752529230.0,
       "comments_url": "https://news.ycombinator.com/item?id=44565668"
     },
     {
+      "title": "Show HN: CallFS – S3-style object store in one Go binary (MIT)",
+      "score": 38,
+      "url": "https://github.com/ebogdum/callfs",
+      "time": 1752551037.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44567650"
+    },
+    {
       "title": "LIGO detects most massive black hole merger to date",
-      "score": 207,
+      "score": 237,
       "url": "https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date",
       "time": 1752523611.0,
       "comments_url": "https://news.ycombinator.com/item?id=44564656"
     },
     {
-      "title": "RFC: PHP license update",
-      "score": 162,
-      "url": "https://wiki.php.net/rfc/php_license_update",
-      "time": 1752529047.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44565647"
-    },
-    {
-      "title": "AWS Lambda Silent Crash – A Platform Failure, Not an Application Bug [pdf]",
-      "score": 35,
-      "url": "https://lyons-den.com/whitepapers/aws-lambda-silent-crash.pdf",
-      "time": 1752542569.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44566996"
-    },
-    {
-      "title": "Kiro: A new agentic IDE",
-      "score": 722,
-      "url": "https://kiro.dev/blog/introducing-kiro/",
-      "time": 1752503080.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44560662"
-    },
-    {
-      "title": "Dog Walk: Blender Studio's official game project",
-      "score": 109,
-      "url": "https://blenderstudio.itch.io/dogwalk",
-      "time": 1752528796.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44565603"
-    },
-    {
       "title": "Clashes between web and X11 colors in the CSS color scheme",
-      "score": 9,
+      "score": 33,
       "url": "https://en.wikipedia.org/wiki/X11_color_names",
       "time": 1752431566.0,
       "comments_url": "https://news.ycombinator.com/item?id=44552419"
     },
     {
-      "title": "NeuralOS: An operating system powered by neural networks",
-      "score": 100,
-      "url": "https://neural-os.com/",
-      "time": 1752522866.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44564531"
+      "title": "Kiro: A new agentic IDE",
+      "score": 774,
+      "url": "https://kiro.dev/blog/introducing-kiro/",
+      "time": 1752503080.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44560662"
     },
     {
-      "title": "DEWLine Museum – The Distant Early Warning Radar Line",
-      "score": 39,
-      "url": "https://dewlinemuseum.com/",
-      "time": 1752532088.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44566034"
+      "title": "RFC: PHP license update",
+      "score": 189,
+      "url": "https://wiki.php.net/rfc/php_license_update",
+      "time": 1752529047.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44565647"
     },
     {
-      "title": "Protecting My Attention at the Dopamine Carnival",
-      "score": 69,
-      "url": "https://www.amirsharif.com/protecting-my-attention-at-the-dopamine-carnival",
-      "time": 1752539680.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44566748"
+      "title": "Martin (YC S23) Is Hiring Founding Engineers to Build a Better Siri",
+      "score": 1,
+      "url": "https://www.ycombinator.com/companies/martin/jobs/",
+      "time": 1752554410.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44567871"
     },
     {
-      "title": "I Solved the Century-Old Mystery of a Miraculous Shipwreck Survivor",
-      "score": 38,
-      "url": "https://thewalrus.ca/empress-of-ireland-survivor-mystery/",
-      "time": 1752359097.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44545695"
+      "title": "Dog Walk: Blender Studio's official game project",
+      "score": 156,
+      "url": "https://blenderstudio.itch.io/dogwalk",
+      "time": 1752528796.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44565603"
     },
     {
       "title": "Context Rot: How increasing input tokens impacts LLM performance",
-      "score": 107,
+      "score": 129,
       "url": "https://research.trychroma.com/context-rot",
       "time": 1752521115.0,
       "comments_url": "https://news.ycombinator.com/item?id=44564248"
     },
     {
       "title": "SQLite async connection pool for high-performance",
-      "score": 71,
+      "score": 92,
       "url": "https://github.com/slaily/aiosqlitepool",
       "time": 1752229592.0,
       "comments_url": "https://news.ycombinator.com/item?id=44530518"
     },
     {
       "title": "Transition to using 16 KB page sizes for Android apps and games",
-      "score": 20,
+      "score": 37,
       "url": "https://android-developers.googleblog.com/2025/07/transition-to-16-kb-page-sizes-android-apps-games-android-studio.html",
       "time": 1752217450.0,
       "comments_url": "https://news.ycombinator.com/item?id=44529150"
     },
     {
-      "title": "Show HN: Bedrock – An 8-bit computing system for running programs anywhere",
-      "score": 91,
-      "url": "https://benbridle.com/projects/bedrock.html",
-      "time": 1752186018.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44526322"
-    },
-    {
-      "title": "Replicube: 3D shader puzzle game, online demo",
-      "score": 92,
-      "url": "https://replicube.xyz/staging/",
-      "time": 1752256801.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44535202"
+      "title": "DEWLine Museum – The Distant Early Warning Radar Line",
+      "score": 46,
+      "url": "https://dewlinemuseum.com/",
+      "time": 1752532088.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44566034"
     },
     {
       "title": "C++ Coroutines Advanced: Converting std:future to asio:awaitable",
-      "score": 10,
+      "score": 23,
       "url": "https://www.ddhigh.com/en/2025/07/15/cpp-coroutine-future-to-awaitable/",
       "time": 1752544212.0,
       "comments_url": "https://news.ycombinator.com/item?id=44567134"
     },
     {
-      "title": "The Collapse of the FDA",
-      "score": 79,
-      "url": "https://www.nytimes.com/2025/07/08/magazine/fda-collapse-rfk-kennedy.html",
-      "time": 1752539241.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44566714"
+      "title": "I Solved the Century-Old Mystery of a Miraculous Shipwreck Survivor",
+      "score": 50,
+      "url": "https://thewalrus.ca/empress-of-ireland-survivor-mystery/",
+      "time": 1752359097.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44545695"
     },
     {
-      "title": "Building Modular Rails Applications: A Deep Dive into Rails Engines",
-      "score": 134,
-      "url": "https://www.panasiti.me/blog/modular-rails-applications-rails-engines-active-storage-dashboard/",
-      "time": 1752507031.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44561354"
+      "title": "Show HN: Bedrock – An 8-bit computing system for running programs anywhere",
+      "score": 109,
+      "url": "https://benbridle.com/projects/bedrock.html",
+      "time": 1752186018.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44526322"
     },
     {
       "title": "Cognition (Devin AI) to Acquire Windsurf",
-      "score": 375,
+      "score": 397,
       "url": "https://cognition.ai/blog/windsurf",
       "time": 1752516435.0,
       "comments_url": "https://news.ycombinator.com/item?id=44563324"
+    },
+    {
+      "title": "NeuralOS: An operating system powered by neural networks",
+      "score": 118,
+      "url": "https://neural-os.com/",
+      "time": 1752522866.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44564531"
+    },
+    {
+      "title": "Replicube: 3D shader puzzle game, online demo",
+      "score": 107,
+      "url": "https://replicube.xyz/staging/",
+      "time": 1752256801.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44535202"
     }
   ]
 }
