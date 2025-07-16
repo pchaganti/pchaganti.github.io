@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-07-16T02:19:03.003550-04:00",
+  "last_updated": "2025-07-16T05:17:42.035984-04:00",
   "stories": [
     {
+      "title": "Shipping WebGPU on Windows in Firefox 141",
+      "score": 66,
+      "url": "https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/",
+      "time": 1752647567.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44579317"
+    },
+    {
       "title": "Cloudflare 1.1.1.1 Incident on July 14, 2025",
-      "score": 88,
+      "score": 219,
       "url": "https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/",
       "time": 1752637479.0,
       "comments_url": "https://news.ycombinator.com/item?id=44578490"
     },
     {
-      "title": "Six Years of Gemini",
-      "score": 83,
-      "url": "https://geminiprotocol.net/news/2025_06_20.gmi",
-      "time": 1752633457.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44578143"
-    },
-    {
       "title": "Tilck: A Tiny Linux-Compatible Kernel",
-      "score": 52,
+      "score": 118,
       "url": "https://github.com/vvaltchev/tilck",
       "time": 1752637800.0,
       "comments_url": "https://news.ycombinator.com/item?id=44578510"
     },
     {
       "title": "GPUHammer: Rowhammer attacks on GPU memories are practical",
-      "score": 140,
+      "score": 171,
       "url": "https://gpuhammer.com/",
       "time": 1752624345.0,
       "comments_url": "https://news.ycombinator.com/item?id=44577268"
     },
     {
+      "title": "Six Years of Gemini",
+      "score": 126,
+      "url": "https://geminiprotocol.net/news/2025_06_20.gmi",
+      "time": 1752633457.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44578143"
+    },
+    {
+      "title": "LLM Daydreaming",
+      "score": 53,
+      "url": "https://gwern.net/ai-daydreaming",
+      "time": 1752632522.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44578070"
+    },
+    {
+      "title": "Ukrainian hackers destroyed the IT infrastructure of Russian drone manufacturer",
+      "score": 45,
+      "url": "https://prm.ua/en/ukrainian-hackers-destroyed-the-it-infrastructure-of-a-russian-drone-manufacturer-what-is-known/",
+      "time": 1752653914.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44579902"
+    },
+    {
+      "title": "Documenting what you're willing to support (and not)",
+      "score": 14,
+      "url": "https://rachelbythebay.com/w/2025/07/07/support/",
+      "time": 1752340137.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44543386"
+    },
+    {
       "title": "Show HN: Shoggoth Mini – A soft tentacle robot powered by GPT-4o and RL",
-      "score": 437,
+      "score": 472,
       "url": "https://www.matthieulc.com/posts/shoggoth-mini",
       "time": 1752594401.0,
       "comments_url": "https://news.ycombinator.com/item?id=44572377"
     },
     {
       "title": "Reflections on OpenAI",
-      "score": 481,
+      "score": 528,
       "url": "https://calv.info/openai-reflections",
       "time": 1752598146.0,
       "comments_url": "https://news.ycombinator.com/item?id=44573195"
     },
     {
       "title": "NIST ion clock sets new record for most accurate clock",
-      "score": 288,
+      "score": 296,
       "url": "https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world",
       "time": 1752595007.0,
       "comments_url": "https://news.ycombinator.com/item?id=44572499"
     },
     {
-      "title": "Running a million-board chess MMO in a single process",
-      "score": 89,
-      "url": "https://eieio.games/blog/a-million-realtime-chess-boards-in-a-single-process/",
-      "time": 1752317784.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44541088"
-    },
-    {
       "title": "Where's Firefox going next?",
-      "score": 147,
+      "score": 197,
       "url": "https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094",
       "time": 1752613430.0,
       "comments_url": "https://news.ycombinator.com/item?id=44575794"
     },
     {
-      "title": "The FIPS 140-3 Go Cryptographic Module",
-      "score": 124,
-      "url": "https://go.dev/blog/fips140",
-      "time": 1752612169.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44575607"
+      "title": "Hijacking Trust? Bitvise Under Fire for Controlling Domain of FOSS Project PuTTY",
+      "score": 33,
+      "url": "https://blog.pupred.com/blog/puttyvsbitvise/",
+      "time": 1752646953.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44579265"
+    },
+    {
+      "title": "Running a million-board chess MMO in a single process",
+      "score": 110,
+      "url": "https://eieio.games/blog/a-million-realtime-chess-boards-in-a-single-process/",
+      "time": 1752317784.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44541088"
     },
     {
       "title": "To be a better programmer, write little proofs in your head",
-      "score": 295,
+      "score": 333,
       "url": "https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/",
       "time": 1752599139.0,
       "comments_url": "https://news.ycombinator.com/item?id=44573409"
     },
     {
+      "title": "The FIPS 140-3 Go Cryptographic Module",
+      "score": 144,
+      "url": "https://go.dev/blog/fips140",
+      "time": 1752612169.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44575607"
+    },
+    {
       "title": "My Family and the Flood",
-      "score": 140,
+      "score": 162,
       "url": "https://www.texasmonthly.com/news-politics/texas-flood-firsthand-account/",
       "time": 1752617267.0,
       "comments_url": "https://news.ycombinator.com/item?id=44576352"
     },
     {
-      "title": "Congress moves to reject bulk of White House's proposed NASA cuts",
-      "score": 88,
-      "url": "https://arstechnica.com/space/2025/07/congress-moves-to-reject-bulk-of-white-houses-proposed-nasa-cuts/",
-      "time": 1752634613.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44578255"
+      "title": "The beauty entrepreneur who made the Jheri curl a sensation",
+      "score": 4,
+      "url": "https://thehustle.co/originals/the-beauty-entrepreneur-who-made-the-jheri-curl-a-sensation",
+      "time": 1752420949.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44551157"
+    },
+    {
+      "title": "I'm Switching to Python and Actually Liking It",
+      "score": 37,
+      "url": "https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html",
+      "time": 1752651872.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44579717"
     },
     {
       "title": "Algorithms for making interesting organic simulations",
-      "score": 43,
+      "score": 59,
       "url": "https://bleuje.com/physarum-explanation/",
       "time": 1752425999.0,
       "comments_url": "https://news.ycombinator.com/item?id=44551777"
-    },
-    {
-      "title": "The Story of Mel, A Real Programmer, Annotated (1996)",
-      "score": 83,
-      "url": "https://users.cs.utah.edu/~elb/folklore/mel-annotated/node1.html#SECTION00010000000000000000",
-      "time": 1752331324.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44542408"
-    },
-    {
-      "title": "Show HN: Reviving a 20 year old OS X App",
-      "score": 25,
-      "url": "https://andrewshaw.nl/blog/reviving-genius",
-      "time": 1752313650.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44540724"
-    },
-    {
-      "title": "Designing for the Eye: Optical corrections in architecture and typography",
-      "score": 141,
-      "url": "https://www.nubero.ch/blog/015/",
-      "time": 1752601715.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44573887"
-    },
-    {
-      "title": "Plasma Bigscreen rises from the dead with a better UI",
-      "score": 140,
-      "url": "https://www.neowin.net/news/kdes-android-tv-alternative-plasma-bigscreen-rises-from-the-dead-with-a-better-ui/",
-      "time": 1752600942.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44573752"
-    },
-    {
-      "title": "Lead GrapheneOS developer was forcibly conscripted into a war",
-      "score": 17,
-      "url": "https://grapheneos.social/@GrapheneOS/114825492698412916",
-      "time": 1752636360.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44578394"
-    },
-    {
-      "title": "The Symbol Grounding Problem (1990)",
-      "score": 7,
-      "url": "https://arxiv.org/html/cs/9906002",
-      "time": 1752368404.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44546567"
     }
   ]
 }
