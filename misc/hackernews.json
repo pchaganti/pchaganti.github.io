@@ -1,61 +1,96 @@
 {
-  "last_updated": "2025-07-16T14:18:07.966271-04:00",
+  "last_updated": "2025-07-16T17:12:12.390946-04:00",
   "stories": [
     {
       "title": "Altermagnets: The first new type of magnet in nearly a century",
-      "score": 120,
+      "score": 208,
       "url": "https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/",
       "time": 1752678714.0,
       "comments_url": "https://news.ycombinator.com/item?id=44583171"
     },
     {
-      "title": "KDB-X: KX releases FREE Commercial KDB license",
-      "score": 19,
-      "url": "https://www.defconq.tech/blog/From%20Elite%20to%20Everyone%20-%20KX%20Community%20Edition%20Breaks%20Loose",
-      "time": 1752685776.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44584603"
+      "title": "PyPI Prohibits inbox.ru email domain registrations",
+      "score": 94,
+      "url": "https://blog.pypi.org/posts/2025-06-15-prohibiting-inbox-ru-emails/",
+      "time": 1752691125.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44585495"
     },
     {
-      "title": "Show HN: Improving search ranking with chess Elo scores",
-      "score": 91,
-      "url": "https://www.zeroentropy.dev/blog/improving-rag-with-elo-scores",
-      "time": 1752675474.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44582662"
+      "title": "How and where will agents ship software?",
+      "score": 64,
+      "url": "https://www.instantdb.com/essays/agents",
+      "time": 1752688028.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44585002"
     },
     {
-      "title": "Pgactive: Postgres active-active replication extension",
-      "score": 193,
-      "url": "https://github.com/aws/pgactive",
-      "time": 1752657328.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44580257"
+      "title": "Artisanal Handcrafted Git Repositories",
+      "score": 17,
+      "url": "https://drew.silcock.dev/blog/artisanal-git/",
+      "time": 1752695124.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44586064"
     },
     {
       "title": "Chain of thought monitorability: A new and fragile opportunity for AI safety",
-      "score": 43,
+      "score": 79,
       "url": "https://arxiv.org/abs/2507.11473",
       "time": 1752676795.0,
       "comments_url": "https://news.ycombinator.com/item?id=44582855"
     },
     {
-      "title": "Mkosi – Build Bespoke OS Images",
-      "score": 28,
-      "url": "https://mkosi.systemd.io/",
-      "time": 1752682460.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44583982"
+      "title": "Pgactive: Postgres active-active replication extension",
+      "score": 224,
+      "url": "https://github.com/aws/pgactive",
+      "time": 1752657328.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44580257"
+    },
+    {
+      "title": "Show HN: Improving search ranking with chess Elo scores",
+      "score": 116,
+      "url": "https://www.zeroentropy.dev/blog/improving-rag-with-elo-scores",
+      "time": 1752675474.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44582662"
+    },
+    {
+      "title": "Show HN: 0xDEAD//Type – A Fast-Paced Typing Shooter with Retro Vibes",
+      "score": 24,
+      "url": "https://0xdeadtype.theden.sh/",
+      "time": 1752375133.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44547105"
+    },
+    {
+      "title": "US Importers Sued for 'Greenwashing' Mexican Avocados",
+      "score": 36,
+      "url": "https://civileats.com/2025/07/09/u-s-importers-sued-for-greenwashing-mexican-avocados/",
+      "time": 1752695049.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44586053"
     },
     {
       "title": "Cloudflare 1.1.1.1 Incident on July 14, 2025",
-      "score": 456,
+      "score": 500,
       "url": "https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/",
       "time": 1752637479.0,
       "comments_url": "https://news.ycombinator.com/item?id=44578490"
     },
     {
       "title": "Shipping WebGPU on Windows in Firefox 141",
-      "score": 280,
+      "score": 317,
       "url": "https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/",
       "time": 1752647567.0,
       "comments_url": "https://news.ycombinator.com/item?id=44579317"
+    },
+    {
+      "title": "I'm switching to Python and actually liking it",
+      "score": 261,
+      "url": "https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html",
+      "time": 1752651872.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44579717"
+    },
+    {
+      "title": "A Recap on May/June Stability at Neon",
+      "score": 7,
+      "url": "https://neon.com/blog/an-apology-and-a-recap-on-may-june-stability",
+      "time": 1752697377.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44586427"
     },
     {
       "title": "Weave (YC W25) is hiring a founding AI engineer",
@@ -65,81 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=44584497"
     },
     {
-      "title": "How and where will agents ship software?",
-      "score": 8,
-      "url": "https://www.instantdb.com/essays/agents",
-      "time": 1752688028.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44585002"
-    },
-    {
-      "title": "I'm switching to Python and actually liking it",
-      "score": 187,
-      "url": "https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html",
-      "time": 1752651872.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44579717"
+      "title": "Mkosi – Build Bespoke OS Images",
+      "score": 45,
+      "url": "https://mkosi.systemd.io/",
+      "time": 1752682460.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44583982"
     },
     {
       "title": "What's happening to reading?",
-      "score": 57,
+      "score": 99,
       "url": "https://www.newyorker.com/culture/open-questions/whats-happening-to-reading",
       "time": 1752401808.0,
       "comments_url": "https://news.ycombinator.com/item?id=44549089"
     },
     {
-      "title": "How I lost my backpack with passports and laptop",
-      "score": 50,
-      "url": "https://psychotechnology.substack.com/p/how-i-lost-my-backpack-with-passports",
-      "time": 1752600935.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44573750"
-    },
-    {
-      "title": "Mill: A better build tool for Java, Scala, and Kotlin",
-      "score": 38,
-      "url": "https://mill-build.org/mill/index.html",
-      "time": 1752680714.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44583565"
+      "title": "Young Graduates Are Facing an Employment Crisis",
+      "score": 29,
+      "url": "https://www.wsj.com/economy/jobs/jobs-unemployment-rise-young-people-ce4704d8",
+      "time": 1752696787.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44586328"
     },
     {
       "title": "Tilck: A Tiny Linux-Compatible Kernel",
-      "score": 234,
+      "score": 250,
       "url": "https://github.com/vvaltchev/tilck",
       "time": 1752637800.0,
       "comments_url": "https://news.ycombinator.com/item?id=44578510"
     },
     {
-      "title": "Thunderbird: Fluent Windows 11 Design",
-      "score": 188,
-      "url": "https://github.com/Deathbyteacup/fluentbird",
-      "time": 1752404873.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44549413"
-    },
-    {
       "title": "'Gentle Parenting' My Smartphone Addiction",
-      "score": 18,
+      "score": 40,
       "url": "https://www.newyorker.com/culture/infinite-scroll/gentle-parenting-my-smartphone-addiction",
       "time": 1752679032.0,
       "comments_url": "https://news.ycombinator.com/item?id=44583224"
     },
     {
-      "title": "MARS.EXE → COM (2021)",
-      "score": 118,
-      "url": "https://chaos.if.uj.edu.pl/~wojtek/MARS.COM/",
-      "time": 1752324192.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44541662"
-    },
-    {
-      "title": "Ukrainian hackers destroyed the IT infrastructure of Russian drone manufacturer",
-      "score": 494,
-      "url": "https://prm.ua/en/ukrainian-hackers-destroyed-the-it-infrastructure-of-a-russian-drone-manufacturer-what-is-known/",
-      "time": 1752653914.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44579902"
-    },
-    {
-      "title": "Show HN: An MCP server that gives LLMs temporal awareness and time calculation",
-      "score": 47,
-      "url": "https://github.com/jlumbroso/passage-of-time-mcp",
-      "time": 1752677731.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44583014"
+      "title": "How I lost my backpack with passports and laptop",
+      "score": 88,
+      "url": "https://psychotechnology.substack.com/p/how-i-lost-my-backpack-with-passports",
+      "time": 1752600935.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44573750"
     }
   ]
 }
