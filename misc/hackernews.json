@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-07-16T08:25:13.869737-04:00",
+  "last_updated": "2025-07-16T11:13:32.522675-04:00",
   "stories": [
     {
-      "title": "Linux Reaches 5% Desktop Market Share in USA",
-      "score": 225,
-      "url": "https://ostechnix.com/linux-reaches-5-desktop-market-share-in-usa/",
-      "time": 1752662228.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44580682"
-    },
-    {
-      "title": "Shipping WebGPU on Windows in Firefox 141",
-      "score": 153,
-      "url": "https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/",
-      "time": 1752647567.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44579317"
-    },
-    {
-      "title": "Tilck: A Tiny Linux-Compatible Kernel",
-      "score": 168,
-      "url": "https://github.com/vvaltchev/tilck",
-      "time": 1752637800.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44578510"
-    },
-    {
-      "title": "Cloudflare 1.1.1.1 Incident on July 14, 2025",
-      "score": 294,
-      "url": "https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/",
-      "time": 1752637479.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44578490"
-    },
-    {
       "title": "Thunderbird: Fluent Windows 11 Design",
-      "score": 12,
+      "score": 150,
       "url": "https://github.com/Deathbyteacup/fluentbird",
       "time": 1752404873.0,
       "comments_url": "https://news.ycombinator.com/item?id=44549413"
     },
     {
+      "title": "Linux Reaches 5% Desktop Market Share in USA",
+      "score": 656,
+      "url": "https://ostechnix.com/linux-reaches-5-desktop-market-share-in-usa/",
+      "time": 1752662228.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44580682"
+    },
+    {
+      "title": "cppyy: Automatic Python-C++ Bindings",
+      "score": 33,
+      "url": "https://cppyy.readthedocs.io/en/latest/",
+      "time": 1752669591.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44581631"
+    },
+    {
+      "title": "AWS open-sourced Postgres active-active replication extension",
+      "score": 88,
+      "url": "https://github.com/aws/pgactive",
+      "time": 1752657328.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44580257"
+    },
+    {
+      "title": "Cloudflare 1.1.1.1 Incident on July 14, 2025",
+      "score": 379,
+      "url": "https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/",
+      "time": 1752637479.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44578490"
+    },
+    {
+      "title": "Shipping WebGPU on Windows in Firefox 141",
+      "score": 215,
+      "url": "https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/",
+      "time": 1752647567.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44579317"
+    },
+    {
+      "title": "Show HN: Improving RAG with Chess Elo Scores? (YC W25)",
+      "score": 7,
+      "url": "https://www.zeroentropy.dev/blog/improving-rag-with-elo-scores",
+      "time": 1752675474.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44582662"
+    },
+    {
+      "title": "Pascal's Scams (2012)",
+      "score": 35,
+      "url": "http://unenumerated.blogspot.com/2012/07/pascals-scams.html",
+      "time": 1752342066.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44543630"
+    },
+    {
+      "title": "I'm Switching to Python and Actually Liking It",
+      "score": 85,
+      "url": "https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html",
+      "time": 1752651872.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44579717"
+    },
+    {
+      "title": "Tilck: A Tiny Linux-Compatible Kernel",
+      "score": 207,
+      "url": "https://github.com/vvaltchev/tilck",
+      "time": 1752637800.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44578510"
+    },
+    {
       "title": "Ukrainian hackers destroyed the IT infrastructure of Russian drone manufacturer",
-      "score": 217,
+      "score": 363,
       "url": "https://prm.ua/en/ukrainian-hackers-destroyed-the-it-infrastructure-of-a-russian-drone-manufacturer-what-is-known/",
       "time": 1752653914.0,
       "comments_url": "https://news.ycombinator.com/item?id=44579902"
     },
     {
-      "title": "Gauntlet AI (YC S17): All expenses paid training in AI and $200k+job",
-      "score": 1,
-      "url": "https://www.crossover.com/jobs/5597/gauntlet-ai/ai-challenger/apply",
-      "time": 1752667341.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44581257"
-    },
-    {
-      "title": "GPUHammer: Rowhammer attacks on GPU memories are practical",
-      "score": 198,
-      "url": "https://gpuhammer.com/",
-      "time": 1752624345.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44577268"
-    },
-    {
       "title": "MARS.EXE → COM (2021)",
-      "score": 43,
+      "score": 81,
       "url": "https://chaos.if.uj.edu.pl/~wojtek/MARS.COM/",
       "time": 1752324192.0,
       "comments_url": "https://news.ycombinator.com/item?id=44541662"
     },
     {
+      "title": "GPUHammer: Rowhammer attacks on GPU memories are practical",
+      "score": 217,
+      "url": "https://gpuhammer.com/",
+      "time": 1752624345.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44577268"
+    },
+    {
+      "title": "Show HN: DataRamen, a Fast SQL Explorer with Automatic Joins and Data Navigation",
+      "score": 24,
+      "url": "https://dataramen.xyz/",
+      "time": 1752666137.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44581098"
+    },
+    {
       "title": "Six Years of Gemini",
-      "score": 151,
+      "score": 173,
       "url": "https://geminiprotocol.net/news/2025_06_20.gmi",
       "time": 1752633457.0,
       "comments_url": "https://news.ycombinator.com/item?id=44578143"
     },
     {
       "title": "LLM Daydreaming",
-      "score": 89,
+      "score": 125,
       "url": "https://gwern.net/ai-daydreaming",
       "time": 1752632522.0,
       "comments_url": "https://news.ycombinator.com/item?id=44578070"
     },
     {
+      "title": "What's Happening to Reading?",
+      "score": 7,
+      "url": "https://www.newyorker.com/culture/open-questions/whats-happening-to-reading",
+      "time": 1752401808.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44549089"
+    },
+    {
       "title": "Show HN: Shoggoth Mini – A soft tentacle robot powered by GPT-4o and RL",
-      "score": 503,
+      "score": 533,
       "url": "https://www.matthieulc.com/posts/shoggoth-mini",
       "time": 1752594401.0,
       "comments_url": "https://news.ycombinator.com/item?id=44572377"
     },
     {
-      "title": "Documenting what you're willing to support (and not)",
-      "score": 43,
-      "url": "https://rachelbythebay.com/w/2025/07/07/support/",
-      "time": 1752340137.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44543386"
+      "title": "Atopile – Design circuit boards with code",
+      "score": 18,
+      "url": "https://atopile.io/atopile/introduction",
+      "time": 1752393937.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44548449"
     },
     {
-      "title": "Reflections on OpenAI",
-      "score": 569,
-      "url": "https://calv.info/openai-reflections",
-      "time": 1752598146.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44573195"
-    },
-    {
-      "title": "NIST ion clock sets new record for most accurate clock",
-      "score": 312,
-      "url": "https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world",
-      "time": 1752595007.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44572499"
-    },
-    {
-      "title": "Pixel Piranhas",
-      "score": 12,
-      "url": "https://rybakov.com/blog/pixel_piranhas/",
-      "time": 1752419303.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44550967"
-    },
-    {
-      "title": "Where's Firefox going next?",
-      "score": 234,
-      "url": "https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698#M39094",
-      "time": 1752613430.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44575794"
-    },
-    {
-      "title": "The beauty entrepreneur who made the Jheri curl a sensation",
-      "score": 25,
-      "url": "https://thehustle.co/originals/the-beauty-entrepreneur-who-made-the-jheri-curl-a-sensation",
-      "time": 1752420949.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44551157"
-    },
-    {
-      "title": "Running a million-board chess MMO in a single process",
-      "score": 129,
-      "url": "https://eieio.games/blog/a-million-realtime-chess-boards-in-a-single-process/",
-      "time": 1752317784.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44541088"
-    },
-    {
-      "title": "To be a better programmer, write little proofs in your head",
-      "score": 366,
-      "url": "https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/",
-      "time": 1752599139.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44573409"
+      "title": "Denver's Deepest Dinosaur",
+      "score": 4,
+      "url": "https://pubs.geoscienceworld.org/uwyo/rmg/article/60/1/1/657560/Denver-s-deepest-dinosaur",
+      "time": 1752673588.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44582349"
     }
   ]
 }
