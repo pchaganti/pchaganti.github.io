@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-15T17:10:59.404902-04:00",
+  "last_updated": "2025-07-15T21:02:39.996239-04:00",
   "papers": [
     {
       "title": "EmbRACE-3K: Embodied Reasoning and Action in Complex Environments",
@@ -98,9 +98,9 @@
       "published_time_eastern_timestamp": 1752489557.0
     },
     {
-      "title": "A PBN-RL-XAI Framework for Discovering a \"Hit-and-Run'' Therapeutic\n  Strategy in Melanoma",
+      "title": "A PBN-RL-XAI Framework for Discovering a \"Hit-and-Run\" Therapeutic\n  Strategy in Melanoma",
       "summary": "Innate resistance to anti-PD-1 immunotherapy remains a major clinical\nchallenge in metastatic melanoma, with the underlying molecular networks being\npoorly understood. To address this, we constructed a dynamic Probabilistic\nBoolean Network model using transcriptomic data from patient tumor biopsies to\nelucidate the regulatory logic governing therapy response. We then employed a\nreinforcement learning agent to systematically discover optimal, multi-step\ntherapeutic interventions and used explainable artificial intelligence to\nmechanistically interpret the agent's control policy. The analysis revealed\nthat a precisely timed, 4-step temporary inhibition of the lysyl oxidase like 2\nprotein (LOXL2) was the most effective strategy. Our explainable analysis\nshowed that this ``hit-and-run\" intervention is sufficient to erase the\nmolecular signature driving resistance, allowing the network to self-correct\nwithout requiring sustained intervention. This study presents a novel,\ntime-dependent therapeutic hypothesis for overcoming immunotherapy resistance\nand provides a powerful computational framework for identifying non-obvious\nintervention protocols in complex biological systems.",
-      "url": "http://arxiv.org/abs/2507.10136v1",
+      "url": "http://arxiv.org/abs/2507.10136v2",
       "published_time_eastern_timestamp": 1752489338.0
     },
     {
