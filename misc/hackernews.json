@@ -1,47 +1,75 @@
 {
-  "last_updated": "2025-07-17T08:24:57.998336-04:00",
+  "last_updated": "2025-07-17T11:13:27.515392-04:00",
   "stories": [
     {
-      "title": "Upcoming coordinated security fix for all Matrix server implementations",
-      "score": 47,
-      "url": "https://matrix.org/blog/2025/07/security-predisclosure/",
-      "time": 1752749398.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44591820"
+      "title": "Hand: open-source Robot Hand",
+      "score": 112,
+      "url": "https://github.com/pollen-robotics/AmazingHand",
+      "time": 1752754118.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44592413"
     },
     {
-      "title": "FOSS4G Europe 2025 live streaming",
-      "score": 42,
-      "url": "https://2025.europe.foss4g.org/livestream/",
-      "time": 1752745018.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44591445"
-    },
-    {
-      "title": "YouTuber faces jail time for showing off Android-based gaming handhelds",
-      "score": 68,
-      "url": "https://arstechnica.com/gadgets/2025/07/youtuber-faces-jail-time-for-showing-off-android-based-gaming-handhelds/",
-      "time": 1752751028.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44591988"
+      "title": "Writing a competitive BZip2 encoder in Ada from scratch in a few days (2024)",
+      "score": 51,
+      "url": "https://gautiersblog.blogspot.com/2024/11/writing-bzip2-encoder-in-ada-from.html",
+      "time": 1752460579.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44555924"
     },
     {
       "title": "Archaeologists Discover Tomb of First King of Caracol",
-      "score": 20,
+      "score": 74,
       "url": "https://uh.edu/news-events/stories/2025/july/07102025-caracol-chase-discovery-maya-ruler.php",
       "time": 1752474088.0,
       "comments_url": "https://news.ycombinator.com/item?id=44556997"
     },
     {
       "title": "Wttr: Console-oriented weather forecast service",
-      "score": 129,
+      "score": 176,
       "url": "https://github.com/chubin/wttr.in",
       "time": 1752732319.0,
       "comments_url": "https://news.ycombinator.com/item?id=44590189"
     },
     {
+      "title": "My bank keeps on undermining anti-phishing education",
+      "score": 175,
+      "url": "http://moritz-mander.de/blog/my_bank_keeps_on_undermining_anti-phishing_education/",
+      "time": 1752753893.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44592377"
+    },
+    {
+      "title": "Ex-Waymo engineers launch Bedrock Robotics to automate construction",
+      "score": 424,
+      "url": "https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/",
+      "time": 1752684528.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44584372"
+    },
+    {
+      "title": "“Reading Rainbow” was created to combat summer reading slumps",
+      "score": 255,
+      "url": "https://www.smithsonianmag.com/smithsonian-institution/to-combat-summer-reading-slumps-this-timeless-childrens-television-show-tried-to-bridge-the-literacy-gap-with-the-magic-of-stories-180986984/",
+      "time": 1752713021.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44588491"
+    },
+    {
       "title": "ESA’s Moonlight programme: Pioneering the path for lunar exploration (2024)",
-      "score": 48,
+      "score": 61,
       "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_s_Moonlight_programme_Pioneering_the_path_for_lunar_exploration",
       "time": 1752501704.0,
       "comments_url": "https://news.ycombinator.com/item?id=44560390"
+    },
+    {
+      "title": "The rise of AI as a threat to the S&P 500 [pdf]",
+      "score": 42,
+      "url": "https://autonomy.work/wp-content/uploads/2025/07/Sp-500-capital-at-risk_-3.pdf",
+      "time": 1752757117.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44592866"
+    },
+    {
+      "title": "I want an iPhone Mini-sized Android phone (2022)",
+      "score": 364,
+      "url": "https://smallandroidphone.com/",
+      "time": 1752699669.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44586723"
     },
     {
       "title": "Rejoy Health (YC W21) Is Hiring",
@@ -51,95 +79,67 @@
       "comments_url": "https://news.ycombinator.com/item?id=44592344"
     },
     {
-      "title": "Ex-Waymo engineers launch Bedrock Robotics to automate construction",
-      "score": 376,
-      "url": "https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/",
-      "time": 1752684528.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44584372"
+      "title": "Upcoming coordinated security fix for all Matrix server implementations",
+      "score": 131,
+      "url": "https://matrix.org/blog/2025/07/security-predisclosure/",
+      "time": 1752749398.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44591820"
     },
     {
-      "title": "“Reading Rainbow” was created to combat summer reading slumps",
-      "score": 198,
-      "url": "https://www.smithsonianmag.com/smithsonian-institution/to-combat-summer-reading-slumps-this-timeless-childrens-television-show-tried-to-bridge-the-literacy-gap-with-the-magic-of-stories-180986984/",
-      "time": 1752713021.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44588491"
-    },
-    {
-      "title": "I want an iPhone Mini-sized Android phone (2022)",
-      "score": 304,
-      "url": "https://smallandroidphone.com/",
-      "time": 1752699669.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44586723"
-    },
-    {
-      "title": "The AI bubble today is bigger than the IT bubble in the 1990s",
-      "score": 26,
-      "url": "https://www.apolloacademy.com/ai-bubble-today-is-bigger-than-the-it-bubble-in-the-1990s/",
-      "time": 1752748922.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44591768"
-    },
-    {
-      "title": "N8n vs. node-red, which to use for AI workloads",
-      "score": 3,
-      "url": "https://daniel-payne-keldan-systems.medium.com/n8n-vs-node-red-485e8382b971",
-      "time": 1752751193.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44592006"
+      "title": "BB(6) Is Hard (Antihydra) (2024)",
+      "score": 13,
+      "url": "https://www.sligocki.com//2024/07/06/bb-6-2-is-hard.html",
+      "time": 1752427838.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44551990"
     },
     {
       "title": "Code Execution Through Email: How I Used Claude to Hack Itself",
-      "score": 67,
+      "score": 94,
       "url": "https://www.pynt.io/blog/llm-security-blogs/code-execution-through-email-how-i-used-claude-mcp-to-hack-itself",
       "time": 1752733962.0,
       "comments_url": "https://news.ycombinator.com/item?id=44590350"
     },
     {
       "title": "Altermagnets: The first new type of magnet in nearly a century",
-      "score": 364,
+      "score": 377,
       "url": "https://www.newscientist.com/article/2487013-weve-discovered-a-new-kind-of-magnetism-what-can-we-do-with-it/",
       "time": 1752678714.0,
       "comments_url": "https://news.ycombinator.com/item?id=44583171"
     },
     {
+      "title": "FOSS4G Europe 2025 live streaming [video]",
+      "score": 68,
+      "url": "https://2025.europe.foss4g.org/livestream/",
+      "time": 1752745018.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44591445"
+    },
+    {
+      "title": "NINA: Rebuilding the original AIM, AOL Desktop, Yahoo and ICQ platforms",
+      "score": 50,
+      "url": "https://nina.chat/",
+      "time": 1752737262.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44590678"
+    },
+    {
       "title": "I was wrong about robots.txt",
-      "score": 110,
+      "score": 133,
       "url": "https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/",
       "time": 1752712557.0,
       "comments_url": "https://news.ycombinator.com/item?id=44588437"
     },
     {
       "title": "Xbox Hacks: The A20 (2021)",
-      "score": 65,
+      "score": 81,
       "url": "https://connortumbleson.com/2021/07/19/the-xbox-and-a20-line/",
       "time": 1752722573.0,
       "comments_url": "https://news.ycombinator.com/item?id=44589384"
     },
     {
       "title": "Metaflow: Build, Manage and Deploy AI/ML Systems",
-      "score": 59,
+      "score": 82,
       "url": "https://github.com/Netflix/metaflow",
       "time": 1752698058.0,
       "comments_url": "https://news.ycombinator.com/item?id=44586530"
-    },
-    {
-      "title": "A Tale of Two Red-Bearded Visionaries",
-      "score": 9,
-      "url": "https://nemanjatrifunovic.substack.com/p/a-tale-of-two-red-bearded-visionaries",
-      "time": 1752500280.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44560103"
-    },
-    {
-      "title": "Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2",
-      "score": 3,
-      "url": "https://gautiersblog.blogspot.com/2025/07/writing-bzip2-encoder-in-ada-from.html",
-      "time": 1752460579.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44555924"
-    },
-    {
-      "title": "Inside the box: Everything I did with an Arduino starter kit",
-      "score": 97,
-      "url": "https://lopespm.com/hardware/2025/07/15/arduino.html",
-      "time": 1752567700.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44569095"
     }
   ]
 }
