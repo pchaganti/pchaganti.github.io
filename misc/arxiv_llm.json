@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-16T17:12:13.694456-04:00",
+  "last_updated": "2025-07-16T21:03:12.575784-04:00",
   "papers": [
     {
       "title": "How Many Instructions Can LLMs Follow at Once?",
@@ -58,7 +58,7 @@
     {
       "title": "Reasoning Strategies in Large Language Models: Can They Follow, Prefer,\n  and Optimize?",
       "summary": "Human reasoning involves different strategies, each suited to specific\nproblems. Prior work shows that large language model (LLMs) tend to favor a\nsingle reasoning strategy, potentially limiting their effectiveness in diverse\nreasoning challenges. In this work, we investigate whether prompting can\ncontrol LLMs reasoning strategies and assess its impact on logical\nproblem-solving. While our experiments show that no single strategy\nconsistently improves accuracy, performance could be enhanced if models could\nadaptively choose the optimal strategy. We propose methods to guide LLMs in\nstrategy selection, highlighting new ways to refine their reasoning abilities.",
-      "url": "http://arxiv.org/abs/2507.11423v1",
+      "url": "http://arxiv.org/abs/2507.11423v2",
       "published_time_eastern_timestamp": 1752594467.0
     },
     {
@@ -111,8 +111,8 @@
     },
     {
       "title": "Automated Novelty Evaluation of Academic Paper: A Collaborative Approach\n  Integrating Human and Large Language Model Knowledge",
-      "summary": "Novelty is a crucial criterion in the peer review process for evaluating\nacademic papers. Traditionally, it's judged by experts or measure by unique\nreference combinations. Both methods have limitations: experts have limited\nknowledge, and the effectiveness of the combination method is uncertain.\nMoreover, it's unclear if unique citations truly measure novelty. The large\nlanguage model (LLM) possesses a wealth of knowledge, while human experts\npossess judgment abilities that the LLM does not possess. Therefore, our\nresearch integrates the knowledge and abilities of LLM and human experts to\naddress the limitations of novelty assessment. The most common novelty in\nacademic papers is the introduction of new methods. In this paper, we propose\nleveraging human knowledge and LLM to assist pretrained language models (PLMs,\ne.g. BERT etc.) in predicting the method novelty of papers. Specifically, we\nextract sentences related to the novelty of the academic paper from peer review\nreports and use LLM to summarize the methodology section of the academic paper,\nwhich are then used to fine-tune PLMs. In addition, we have designed a\ntext-guided fusion module with novel Sparse-Attention to better integrate human\nand LLM knowledge. We compared the method we proposed with a large number of\nbaselines. Extensive experiments demonstrate that our method achieves superior\nperformance.",
-      "url": "http://arxiv.org/abs/2507.11330v1",
+      "summary": "Novelty is a crucial criterion in the peer review process for evaluating\nacademic papers. Traditionally, it's judged by experts or measure by unique\nreference combinations. Both methods have limitations: experts have limited\nknowledge, and the effectiveness of the combination method is uncertain.\nMoreover, it's unclear if unique citations truly measure novelty. The large\nlanguage model (LLM) possesses a wealth of knowledge, while human experts\npossess judgment abilities that the LLM does not possess. Therefore, our\nresearch integrates the knowledge and abilities of LLM and human experts to\naddress the limitations of novelty assessment. One of the most common types of\nnovelty in academic papers is the introduction of new methods. In this paper,\nwe propose leveraging human knowledge and LLM to assist pretrained language\nmodels (PLMs, e.g. BERT etc.) in predicting the method novelty of papers.\nSpecifically, we extract sentences related to the novelty of the academic paper\nfrom peer review reports and use LLM to summarize the methodology section of\nthe academic paper, which are then used to fine-tune PLMs. In addition, we have\ndesigned a text-guided fusion module with novel Sparse-Attention to better\nintegrate human and LLM knowledge. We compared the method we proposed with a\nlarge number of baselines. Extensive experiments demonstrate that our method\nachieves superior performance.",
+      "url": "http://arxiv.org/abs/2507.11330v2",
       "published_time_eastern_timestamp": 1752588235.0
     },
     {

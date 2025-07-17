@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-16T17:12:14.062269-04:00",
+  "last_updated": "2025-07-16T21:03:13.097584-04:00",
   "papers": [
     {
       "title": "DrafterBench: Benchmarking Large Language Models for Tasks Automation in\n  Civil Engineering",
@@ -118,7 +118,7 @@
     {
       "title": "Journalism-Guided Agentic In-Context Learning for News Stance Detection",
       "summary": "As online news consumption grows, personalized recommendation systems have\nbecome integral to digital journalism. However, these systems risk reinforcing\nfilter bubbles and political polarization by failing to incorporate diverse\nperspectives. Stance detection -- identifying a text's position on a target --\ncan help mitigate this by enabling viewpoint-aware recommendations and\ndata-driven analyses of media bias. Yet, existing stance detection research\nremains largely limited to short texts and high-resource languages. To address\nthese gaps, we introduce \\textsc{K-News-Stance}, the first Korean dataset for\narticle-level stance detection, comprising 2,000 news articles with\narticle-level and 19,650 segment-level stance annotations across 47 societal\nissues. We also propose \\textsc{JoA-ICL}, a \\textbf{Jo}urnalism-guided\n\\textbf{A}gentic \\textbf{I}n-\\textbf{C}ontext \\textbf{L}earning framework that\nemploys a language model agent to predict the stances of key structural\nsegments (e.g., leads, quotes), which are then aggregated to infer the overall\narticle stance. Experiments show that \\textsc{JoA-ICL} outperforms existing\nstance detection methods, highlighting the benefits of segment-level agency in\ncapturing the overall position of long-form news articles. Two case studies\nfurther demonstrate its broader utility in promoting viewpoint diversity in\nnews recommendations and uncovering patterns of media bias.",
-      "url": "http://arxiv.org/abs/2507.11049v1",
+      "url": "http://arxiv.org/abs/2507.11049v2",
       "published_time_eastern_timestamp": 1752564124.0
     }
   ]

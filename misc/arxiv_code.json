@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-16T17:12:14.434449-04:00",
+  "last_updated": "2025-07-16T21:03:13.611467-04:00",
   "papers": [
     {
       "title": "Streaming 4D Visual Geometry Transformer",
@@ -15,8 +15,8 @@
     },
     {
       "title": "Sharp Error-Rate Transitions in Quantum QC-LDPC Codes under Joint BP\n  Decoding",
-      "summary": "In this study, we report that quantum quasi-cyclic low-density parity-check\ncodes decoded via joint belief propagation (BP) exhibit steep error-rate\ncurves, despite the presence of error floors. To the best of our knowledge,\nthis is the first observation of such threshold-like behavior for quantum codes\nwith non-vanishing coding rate, excluding those decoded with non-binary BP\ndecoders. Moreover, we find that dominant error events contributing to the\nerror floor typically involve only a small number of bits. These findings\nsuggest that the error floor is caused by trapping sets -- specific subgraph\nstructures in the Tanner graph -- and indicate that identifying and avoiding\nsuch structures may lead to further reduction of the error floor.",
-      "url": "http://arxiv.org/abs/2507.11534v1",
+      "summary": "In this study, we report that quantum quasi-cyclic low-density parity-check\ncodes decoded via joint belief propagation (BP) exhibit steep error-rate\ncurves, despite the presence of error floors. To the best of our knowledge,\nthis is the first observation of such threshold-like behavior for quantum LDPC\ncodes with non-vanishing coding rate, excluding those decoded with non-binary\nBP decoders. Moreover, we find that dominant error events contributing to the\nerror floor typically involve only a small number of bits. These findings\nsuggest that the error floor is caused by trapping sets--specific subgraph\nstructures in the Tanner graph--and indicate that identifying and avoiding such\nstructures may lead to further reduction of the error floor.",
+      "url": "http://arxiv.org/abs/2507.11534v2",
       "published_time_eastern_timestamp": 1752602313.0
     },
     {
