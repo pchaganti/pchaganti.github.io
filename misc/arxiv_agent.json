@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-17T17:11:59.307704-04:00",
+  "last_updated": "2025-07-17T21:02:18.360821-04:00",
   "papers": [
     {
       "title": "Advancing Retrieval-Augmented Generation for Structured Enterprise and\n  Internal Data",
@@ -34,7 +34,7 @@
     {
       "title": "Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction\n  with an Agentic Robot",
       "summary": "Autonomous robots are increasingly being tested into public spaces to enhance\nuser experiences, particularly in cultural and educational settings. This paper\npresents the design, implementation, and evaluation of the autonomous museum\nguide robot Alter-Ego equipped with advanced navigation and interactive\ncapabilities. The robot leverages state-of-the-art Large Language Models (LLMs)\nto provide real-time, context aware question-and-answer (Q&A) interactions,\nallowing visitors to engage in conversations about exhibits. It also employs\nrobust simultaneous localization and mapping (SLAM) techniques, enabling\nseamless navigation through museum spaces and route adaptation based on user\nrequests. The system was tested in a real museum environment with 34\nparticipants, combining qualitative analysis of visitor-robot conversations and\nquantitative analysis of pre and post interaction surveys. Results showed that\nthe robot was generally well-received and contributed to an engaging museum\nexperience, despite some limitations in comprehension and responsiveness. This\nstudy sheds light on HRI in cultural spaces, highlighting not only the\npotential of AI-driven robotics to support accessibility and knowledge\nacquisition, but also the current limitations and challenges of deploying such\ntechnologies in complex, real-world environments.",
-      "url": "http://arxiv.org/abs/2507.12273v1",
+      "url": "http://arxiv.org/abs/2507.12273v2",
       "published_time_eastern_timestamp": 1752675720.0
     },
     {
@@ -112,7 +112,7 @@
     {
       "title": "Aime: Towards Fully-Autonomous Multi-Agent Framework",
       "summary": "Multi-Agent Systems (MAS) powered by Large Language Models (LLMs) are\nemerging as a powerful paradigm for solving complex, multifaceted problems.\nHowever, the potential of these systems is often constrained by the prevalent\nplan-and-execute framework, which suffers from critical limitations: rigid plan\nexecution, static agent capabilities, and inefficient communication. These\nweaknesses hinder their adaptability and robustness in dynamic environments.\nThis paper introduces Aime, a novel multi-agent framework designed to overcome\nthese challenges through dynamic, reactive planning and execution. Aime\nreplaces the conventional static workflow with a fluid and adaptive\narchitecture. Its core innovations include: (1) a Dynamic Planner that\ncontinuously refines the overall strategy based on real-time execution\nfeedback; (2) an Actor Factory that implements Dynamic Actor instantiation,\nassembling specialized agents on-demand with tailored tools and knowledge; and\n(3) a centralized Progress Management Module that serves as a single source of\ntruth for coherent, system-wide state awareness. We empirically evaluated Aime\non a diverse suite of benchmarks spanning general reasoning (GAIA), software\nengineering (SWE-bench Verified), and live web navigation (WebVoyager). The\nresults demonstrate that Aime consistently outperforms even highly specialized\nstate-of-the-art agents in their respective domains. Its superior adaptability\nand task success rate establish Aime as a more resilient and effective\nfoundation for multi-agent collaboration.",
-      "url": "http://arxiv.org/abs/2507.11988v1",
+      "url": "http://arxiv.org/abs/2507.11988v2",
       "published_time_eastern_timestamp": 1752651508.0
     },
     {

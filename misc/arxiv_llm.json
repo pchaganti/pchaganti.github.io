@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-17T17:11:58.887472-04:00",
+  "last_updated": "2025-07-17T21:02:17.912727-04:00",
   "papers": [
     {
       "title": "LLM-Based Config Synthesis requires Disambiguation",
@@ -76,13 +76,13 @@
     {
       "title": "MERA Code: A Unified Framework for Evaluating Code Generation Across\n  Tasks",
       "summary": "Advancements in LLMs have enhanced task automation in software engineering;\nhowever, current evaluations primarily focus on natural language tasks,\noverlooking code quality. Most benchmarks prioritize high-level reasoning over\nexecutable code and real-world performance, leaving gaps in understanding true\ncapabilities and risks associated with these models in production. To address\nthis issue, we propose MERA Code, a new addition to the MERA benchmark family,\nspecifically focused on evaluating code for the latest code generation LLMs in\nRussian. This benchmark includes 11 evaluation tasks that span 8 programming\nlanguages. Our proposed evaluation methodology features a taxonomy that\noutlines the practical coding skills necessary for models to complete these\ntasks. The benchmark comprises an open-source codebase for users to conduct\nMERA assessments, a scoring system compatible with various programming\nenvironments, and a platform featuring a leaderboard and submission system. We\nevaluate open LLMs and frontier API models, analyzing their limitations in\nterms of practical coding tasks in non-English languages. We are publicly\nreleasing MERA to guide future research, anticipate groundbreaking features in\nmodel development, and standardize evaluation procedures.",
-      "url": "http://arxiv.org/abs/2507.12284v1",
+      "url": "http://arxiv.org/abs/2507.12284v2",
       "published_time_eastern_timestamp": 1752676293.0
     },
     {
       "title": "Next-Gen Museum Guides: Autonomous Navigation and Visitor Interaction\n  with an Agentic Robot",
       "summary": "Autonomous robots are increasingly being tested into public spaces to enhance\nuser experiences, particularly in cultural and educational settings. This paper\npresents the design, implementation, and evaluation of the autonomous museum\nguide robot Alter-Ego equipped with advanced navigation and interactive\ncapabilities. The robot leverages state-of-the-art Large Language Models (LLMs)\nto provide real-time, context aware question-and-answer (Q&A) interactions,\nallowing visitors to engage in conversations about exhibits. It also employs\nrobust simultaneous localization and mapping (SLAM) techniques, enabling\nseamless navigation through museum spaces and route adaptation based on user\nrequests. The system was tested in a real museum environment with 34\nparticipants, combining qualitative analysis of visitor-robot conversations and\nquantitative analysis of pre and post interaction surveys. Results showed that\nthe robot was generally well-received and contributed to an engaging museum\nexperience, despite some limitations in comprehension and responsiveness. This\nstudy sheds light on HRI in cultural spaces, highlighting not only the\npotential of AI-driven robotics to support accessibility and knowledge\nacquisition, but also the current limitations and challenges of deploying such\ntechnologies in complex, real-world environments.",
-      "url": "http://arxiv.org/abs/2507.12273v1",
+      "url": "http://arxiv.org/abs/2507.12273v2",
       "published_time_eastern_timestamp": 1752675720.0
     },
     {

@@ -1,10 +1,10 @@
 {
-  "last_updated": "2025-07-17T17:11:59.745046-04:00",
+  "last_updated": "2025-07-17T21:02:18.855797-04:00",
   "papers": [
     {
       "title": "PhysX: Physical-Grounded 3D Asset Generation",
       "summary": "3D modeling is moving from virtual to physical. Existing 3D generation\nprimarily emphasizes geometries and textures while neglecting physical-grounded\nmodeling. Consequently, despite the rapid development of 3D generative models,\nthe synthesized 3D assets often overlook rich and important physical\nproperties, hampering their real-world application in physical domains like\nsimulation and embodied AI. As an initial attempt to address this challenge, we\npropose \\textbf{PhysX}, an end-to-end paradigm for physical-grounded 3D asset\ngeneration. 1) To bridge the critical gap in physics-annotated 3D datasets, we\npresent PhysXNet - the first physics-grounded 3D dataset systematically\nannotated across five foundational dimensions: absolute scale, material,\naffordance, kinematics, and function description. In particular, we devise a\nscalable human-in-the-loop annotation pipeline based on vision-language models,\nwhich enables efficient creation of physics-first assets from raw 3D assets.2)\nFurthermore, we propose \\textbf{PhysXGen}, a feed-forward framework for\nphysics-grounded image-to-3D asset generation, injecting physical knowledge\ninto the pre-trained 3D structural space. Specifically, PhysXGen employs a\ndual-branch architecture to explicitly model the latent correlations between 3D\nstructures and physical properties, thereby producing 3D assets with plausible\nphysical predictions while preserving the native geometry quality. Extensive\nexperiments validate the superior performance and promising generalization\ncapability of our framework. All the code, data, and models will be released to\nfacilitate future research in generative physical AI.",
-      "url": "http://arxiv.org/abs/2507.12465v1",
+      "url": "http://arxiv.org/abs/2507.12465v2",
       "published_time_eastern_timestamp": 1752688775.0
     },
     {
@@ -94,7 +94,7 @@
     {
       "title": "Compositional Discrete Latent Code for High Fidelity, Productive\n  Diffusion Models",
       "summary": "We argue that diffusion models' success in modeling complex distributions is,\nfor the most part, coming from their input conditioning. This paper\ninvestigates the representation used to condition diffusion models from the\nperspective that ideal representations should improve sample fidelity, be easy\nto generate, and be compositional to allow out-of-training samples generation.\nWe introduce Discrete Latent Code (DLC), an image representation derived from\nSimplicial Embeddings trained with a self-supervised learning objective. DLCs\nare sequences of discrete tokens, as opposed to the standard continuous image\nembeddings. They are easy to generate and their compositionality enables\nsampling of novel images beyond the training distribution. Diffusion models\ntrained with DLCs have improved generation fidelity, establishing a new\nstate-of-the-art for unconditional image generation on ImageNet. Additionally,\nwe show that composing DLCs allows the image generator to produce\nout-of-distribution samples that coherently combine the semantics of images in\ndiverse ways. Finally, we showcase how DLCs can enable text-to-image generation\nby leveraging large-scale pretrained language models. We efficiently finetune a\ntext diffusion language model to generate DLCs that produce novel samples\noutside of the image generator training distribution.",
-      "url": "http://arxiv.org/abs/2507.12318v1",
+      "url": "http://arxiv.org/abs/2507.12318v2",
       "published_time_eastern_timestamp": 1752678737.0
     },
     {
