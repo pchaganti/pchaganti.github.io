@@ -1,82 +1,117 @@
 {
-  "last_updated": "2025-07-18T11:13:04.360264-04:00",
+  "last_updated": "2025-07-18T14:17:42.002473-04:00",
   "stories": [
     {
       "title": "lsr: ls with io_uring",
-      "score": 111,
-      "url": "https://tangled.sh/@rockorager.dev/lsr",
+      "score": 211,
+      "url": "https://rockorager.dev/log/lsr-ls-but-with-io-uring/",
       "time": 1752842441.0,
       "comments_url": "https://news.ycombinator.com/item?id=44604050"
     },
     {
-      "title": "CP/M Creator Gary Kildall's Memoirs Released as Free Download",
-      "score": 134,
+      "title": "Trying Guix: A Nixer's impressions",
+      "score": 54,
+      "url": "https://tazj.in/blog/trying-guix",
+      "time": 1752567079.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44569032"
+    },
+    {
+      "title": "CP/M creator Gary Kildall's memoirs released as free download",
+      "score": 175,
       "url": "https://spectrum.ieee.org/cpm-creator-gary-kildalls-memoirs-released-as-free-download",
       "time": 1752834135.0,
       "comments_url": "https://news.ycombinator.com/item?id=44603066"
     },
     {
-      "title": "An average human breathes out roughly 1kg of carbon dioxide a day",
-      "score": 24,
-      "url": "https://twitter.com/ID_AA_Carmack/status/1945948569246027934",
-      "time": 1752847527.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44604775"
-    },
-    {
-      "title": "Ask HN: Any active COBOL devs here? What are you working on?",
-      "score": 105,
-      "url": "https://news.ycombinator.com/item?id=44604257",
-      "time": 1752843955.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44604257"
-    },
-    {
-      "title": "When Root Meets Immutable: OpenBSD Chflags vs. Log Tampering",
-      "score": 90,
-      "url": "https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/",
-      "time": 1752827807.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44602532"
-    },
-    {
-      "title": "Fully homomorphic encryption and the dawn of a private internet",
-      "score": 332,
-      "url": "https://bozmen.io/fhe",
-      "time": 1752810590.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44601023"
-    },
-    {
-      "title": "NYPD Bypassed Facial Recognition Ban to ID Pro-Palestinian Student Protester",
-      "score": 103,
-      "url": "https://www.thecity.nyc/2025/07/18/nypd-fdny-clearview-ai-ban-columbia-palestinian-protest/",
-      "time": 1752844550.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44604328"
-    },
-    {
-      "title": "French villages have no more drinking water. The reason? PFAS pollution",
-      "score": 52,
-      "url": "https://www.lemonde.fr/en/environment/article/2025/07/18/these-french-villages-have-no-more-drinking-water-the-reason-pfas-pollution_6743479_114.html",
-      "time": 1752847821.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44604827"
-    },
-    {
-      "title": "HathiTrust Digital Library – books online",
-      "score": 20,
-      "url": "https://www.hathitrust.org/",
-      "time": 1752589941.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44571549"
-    },
-    {
       "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-      "score": 5,
+      "score": 110,
       "url": "https://news.ycombinator.com/item?id=44605213",
       "time": 1752849897.0,
       "comments_url": "https://news.ycombinator.com/item?id=44605213"
     },
     {
-      "title": "Exposing the Unseen: Mapping MCP Servers Across the Internet",
-      "score": 12,
-      "url": "https://www.knostic.ai/blog/mapping-mcp-servers-study",
-      "time": 1752845390.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44604453"
+      "title": "Fully homomorphic encryption and the dawn of a private internet",
+      "score": 376,
+      "url": "https://bozmen.io/fhe",
+      "time": 1752810590.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44601023"
+    },
+    {
+      "title": "When root meets immutable: OpenBSD chflags vs. log tampering",
+      "score": 112,
+      "url": "https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/",
+      "time": 1752827807.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44602532"
+    },
+    {
+      "title": "CoCo1 composite video",
+      "score": 14,
+      "url": "https://www.leadedsolder.com/2025/07/15/tandy-trs80-coco-composite-mod-aquarius.html",
+      "time": 1752591959.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44571908"
+    },
+    {
+      "title": "HathiTrust Digital Library",
+      "score": 38,
+      "url": "https://www.hathitrust.org/",
+      "time": 1752589941.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44571549"
+    },
+    {
+      "title": "Starbase injury rates outpace rivals as SpaceX chases its Mars moonshot",
+      "score": 20,
+      "url": "https://techcrunch.com/2025/07/18/starbase-injury-rates-outpace-rivals-as-spacex-chases-its-mars-moonshot/",
+      "time": 1752858725.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44607252"
+    },
+    {
+      "title": "Hundred Rabbits – Low-tech living while sailing the world",
+      "score": 160,
+      "url": "https://100r.co/site/home.html",
+      "time": 1752507928.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44561516"
+    },
+    {
+      "title": "Dear valued user, You have reached the error page for the error page",
+      "score": 103,
+      "url": "https://imgur.com/a/2H7HVcU",
+      "time": 1752853191.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44605946"
+    },
+    {
+      "title": "The Art of Roland-Garros",
+      "score": 33,
+      "url": "https://www.garros.gallery/",
+      "time": 1752536417.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44566510"
+    },
+    {
+      "title": "Firefox-patch-bin, librewolf-fix-bin AUR packages contain malware",
+      "score": 15,
+      "url": "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/7EZTJXLIAQLARQNTMEW2HBWZYE626IFJ/",
+      "time": 1752860928.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44607740"
+    },
+    {
+      "title": "Psilocybin decreases depression and anxiety in cancer patients (2016)",
+      "score": 209,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5367557/",
+      "time": 1752836228.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44603267"
+    },
+    {
+      "title": "Ask HN: Any active COBOL devs here? What are you working on?",
+      "score": 187,
+      "url": "https://news.ycombinator.com/item?id=44604257",
+      "time": 1752843955.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44604257"
+    },
+    {
+      "title": "15 Years of Building Jefit",
+      "score": 41,
+      "url": "https://www.jefit.com/our-story",
+      "time": 1752563912.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44568761"
     },
     {
       "title": "Resolve (YC W15) Is Hiring an Operations and Billing Lead for Construction VR",
@@ -86,60 +121,25 @@
       "comments_url": "https://news.ycombinator.com/item?id=44603739"
     },
     {
-      "title": "Psilocybin decreases depression and anxiety in cancer patients (2016)",
-      "score": 151,
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5367557/",
-      "time": 1752836228.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44603267"
+      "title": "Exposed MCP servers across the internet",
+      "score": 46,
+      "url": "https://www.knostic.ai/blog/mapping-mcp-servers-study",
+      "time": 1752845390.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44604453"
     },
     {
-      "title": "Hundred Rabbits – Low-tech living while sailing the world",
-      "score": 87,
-      "url": "https://100r.co/site/home.html",
-      "time": 1752507928.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44561516"
+      "title": "Row Polymorphic Programming",
+      "score": 35,
+      "url": "https://www.stranger.systems/posts/by-slug/row-polymorphic-programming.html",
+      "time": 1752519031.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44563867"
     },
     {
-      "title": "Travelers to the U.S. must pay a new $250 'visa integrity fee' – what to know",
-      "score": 31,
-      "url": "https://www.cnbc.com/2025/07/18/visa-integrity-fee-what-to-know-about-new-travel-fee-to-enter-the-us-.html",
-      "time": 1752846647.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44604633"
-    },
-    {
-      "title": "15 Years of Building Jefit",
-      "score": 25,
-      "url": "https://www.jefit.com/our-story",
-      "time": 1752563912.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44568761"
-    },
-    {
-      "title": "ChatGPT agent: bridging research and action",
-      "score": 642,
-      "url": "https://openai.com/index/introducing-chatgpt-agent/",
-      "time": 1752771707.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44595492"
-    },
-    {
-      "title": "Mistral Releases Deep Research, Voice, Projects in Le Chat",
-      "score": 608,
-      "url": "https://mistral.ai/news/le-chat-dives-deep",
-      "time": 1752764418.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44594156"
-    },
-    {
-      "title": "Inspect ANSI control codes and escape sequences",
-      "score": 63,
-      "url": "https://ansi.tools",
-      "time": 1752566872.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44569019"
-    },
-    {
-      "title": "What’s on offer at a luxury Bay Area longevity clinic",
-      "score": 19,
-      "url": "https://www.sfchronicle.com/health/aging-longevity/article/human-longevity-health-clinic-20277643.php",
-      "time": 1752846962.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44604690"
+      "title": "Ask HN: GCP Outage?",
+      "score": 65,
+      "url": "https://news.ycombinator.com/item?id=44605732",
+      "time": 1752852233.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44605732"
     }
   ]
 }
