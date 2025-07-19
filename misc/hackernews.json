@@ -1,47 +1,82 @@
 {
-  "last_updated": "2025-07-19T08:22:08.448383-04:00",
+  "last_updated": "2025-07-19T11:11:38.538840-04:00",
   "stories": [
     {
+      "title": "Not Even Bronze: Evaluating LLMs on 2025 International Math Olympiad",
+      "score": 43,
+      "url": "https://matharena.ai/imo/",
+      "time": 1752935003.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44615695"
+    },
+    {
+      "title": "Linux and Secure Boot certificate expiration",
+      "score": 53,
+      "url": "https://lwn.net/SubscriberLink/1029767/43b62a7a7408c2a9/",
+      "time": 1752913633.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44613629"
+    },
+    {
       "title": "Fstrings.wtf",
-      "score": 71,
+      "score": 198,
       "url": "https://fstrings.wtf/",
       "time": 1752922355.0,
       "comments_url": "https://news.ycombinator.com/item?id=44614370"
     },
     {
-      "title": "Why your website should be under 14kB in size",
-      "score": 242,
-      "url": "https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/",
-      "time": 1752913605.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44613625"
-    },
-    {
-      "title": "Felix Baumgartner, Who Jumped from Stratosphere, Dies in Italy",
-      "score": 22,
-      "url": "https://www.theinternational.at/felix-baumgartner-who-jumped-from-stratosphere-dies-in-italy/",
-      "time": 1752921532.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44614292"
-    },
-    {
       "title": "My Self-Hosting Setup",
-      "score": 318,
+      "score": 377,
       "url": "https://codecaptured.com/blog/my-ultimate-self-hosting-setup/",
       "time": 1752893762.0,
       "comments_url": "https://news.ycombinator.com/item?id=44612151"
     },
     {
+      "title": "Hyatt Hotels are using algorithmic Rest “smoking detectors”",
+      "score": 261,
+      "url": "https://twitter.com/_ZachGriff/status/1945959030851035223",
+      "time": 1752897777.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44612487"
+    },
+    {
+      "title": "Valve confirms credit card companies pressured it to delist certain adult games",
+      "score": 688,
+      "url": "https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/",
+      "time": 1752854086.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44606184"
+    },
+    {
+      "title": "A 14kb page can load much faster than a 15kb page (2022)",
+      "score": 315,
+      "url": "https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/",
+      "time": 1752913605.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44613625"
+    },
+    {
+      "title": "I avoid using LLMs as a publisher and writer",
+      "score": 110,
+      "url": "https://lifehacky.net/prompt-0b953c089b44",
+      "time": 1752922319.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44614365"
+    },
+    {
       "title": "Pimping My Casio: Part Deux",
-      "score": 59,
+      "score": 99,
       "url": "https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html",
       "time": 1752911906.0,
       "comments_url": "https://news.ycombinator.com/item?id=44613486"
     },
     {
-      "title": "I avoid using LLMs as a publisher and writer",
-      "score": 18,
-      "url": "https://lifehacky.net/prompt-0b953c089b44",
-      "time": 1752922319.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44614365"
+      "title": "OpenAI claims Gold-medal performance at IMO 2025",
+      "score": 117,
+      "url": "https://twitter.com/alexwei_/status/1946477742855532918",
+      "time": 1752916279.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44613840"
+    },
+    {
+      "title": "Babies made using three people's DNA are born free of mitochondrial disease",
+      "score": 60,
+      "url": "https://www.bbc.com/news/articles/cn8179z199vo",
+      "time": 1752702215.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44587116"
     },
     {
       "title": "Piramidal (YC W24) Is Hiring a Full Stack Engineer",
@@ -51,92 +86,57 @@
       "comments_url": "https://news.ycombinator.com/item?id=44614788"
     },
     {
-      "title": "Valve confirms credit card companies pressured it to delist certain adult games",
-      "score": 589,
-      "url": "https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/",
-      "time": 1752854086.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44606184"
-    },
-    {
-      "title": "GPT-5-reasoning alpha found in the wild",
-      "score": 21,
-      "url": "https://twitter.com/btibor91/status/1946532308896628748",
-      "time": 1752925102.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44614644"
-    },
-    {
-      "title": "YouTube No Translation",
-      "score": 42,
-      "url": "https://addons.mozilla.org/en-US/firefox/addon/youtube-no-translation/",
-      "time": 1752911930.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44613491"
-    },
-    {
       "title": "How to write Rust in the Linux kernel: part 3",
-      "score": 206,
+      "score": 223,
       "url": "https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/",
       "time": 1752877637.0,
       "comments_url": "https://news.ycombinator.com/item?id=44610468"
     },
     {
-      "title": "Advertising Without Signal: The Rise of the Grifter Equilibrium",
-      "score": 94,
+      "title": "Advertising without signal: The rise of the grifter equilibrium",
+      "score": 117,
       "url": "https://www.gojiberries.io/advertising-without-signal-whe-amazon-ads-confuse-more-than-they-clarify/",
       "time": 1752891950.0,
       "comments_url": "https://news.ycombinator.com/item?id=44612023"
     },
     {
       "title": "Asynchrony is not concurrency",
-      "score": 253,
+      "score": 268,
       "url": "https://kristoff.it/blog/asynchrony-is-not-concurrency/",
       "time": 1752866498.0,
       "comments_url": "https://news.ycombinator.com/item?id=44608754"
     },
     {
-      "title": "Meta says it won’t sign Europe AI agreement, calling it an overreach",
-      "score": 250,
-      "url": "https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html",
-      "time": 1752861397.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44607838"
-    },
-    {
-      "title": "C# Language Design Meeting for June 30th, 2025",
-      "score": 20,
-      "url": "https://github.com/dotnet/csharplang/blob/main/meetings/2025/LDM-2025-06-30.md",
-      "time": 1752591217.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44571765"
-    },
-    {
-      "title": "A CarFax for Used PCs: Hewlett Packard wants to give old laptops new life",
-      "score": 6,
-      "url": "https://spectrum.ieee.org/carfax-used-pcs",
-      "time": 1752602557.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44574065"
-    },
-    {
       "title": "Every part on a bicycle is safety critical",
-      "score": 23,
+      "score": 49,
       "url": "https://escapecollective.com/threaded-43-every-part-on-a-bike-is-safety-critical/",
       "time": 1752911018.0,
       "comments_url": "https://news.ycombinator.com/item?id=44613419"
     },
     {
-      "title": "Bun adds pnpm-style isolated installation mode",
-      "score": 84,
-      "url": "https://github.com/oven-sh/bun/pull/20440",
-      "time": 1752885788.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44611467"
+      "title": "Meta says it won’t sign Europe AI agreement, calling it an overreach",
+      "score": 273,
+      "url": "https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html",
+      "time": 1752861397.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44607838"
     },
     {
-      "title": "Debcraft – Easiest way to modify and build Debian packages",
-      "score": 63,
-      "url": "https://optimizedbyotto.com/post/debcraft-easy-debian-packaging/",
-      "time": 1752883471.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44611223"
+      "title": "Astronomers use colors of trans-Neptunian objects to track ancient stellar flyby",
+      "score": 7,
+      "url": "https://phys.org/news/2025-07-astronomers-trans-neptunian-track-ancient.html",
+      "time": 1752679574.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44583326"
+    },
+    {
+      "title": "YouTube No Translation",
+      "score": 95,
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/youtube-no-translation/",
+      "time": 1752911930.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44613491"
     },
     {
       "title": "An exponential improvement for Ramsey lower bounds",
-      "score": 5,
+      "score": 17,
       "url": "https://arxiv.org/abs/2507.12926",
       "time": 1752917675.0,
       "comments_url": "https://news.ycombinator.com/item?id=44613947"
