@@ -1,75 +1,131 @@
 {
-  "last_updated": "2025-07-18T17:11:42.040038-04:00",
+  "last_updated": "2025-07-18T21:00:58.602649-04:00",
   "stories": [
     {
-      "title": "AI CapEx Is Eating the Economy",
-      "score": 88,
-      "url": "https://paulkedrosky.com/honey-ai-capex-ate-the-economy/",
-      "time": 1752868744.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44609130"
+      "title": "Shutting Down Clear Linux OS",
+      "score": 59,
+      "url": "https://community.clearlinux.org/t/all-good-things-come-to-an-end-shutting-down-clear-linux-os/10716",
+      "time": 1752882312.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44611098"
     },
     {
-      "title": "Asynchrony Is Not Concurrency",
-      "score": 66,
+      "title": "Asynchrony is not concurrency",
+      "score": 161,
       "url": "https://kristoff.it/blog/asynchrony-is-not-concurrency/",
       "time": 1752866498.0,
       "comments_url": "https://news.ycombinator.com/item?id=44608754"
     },
     {
-      "title": "Show HN: I built library management app for those who outgrew spreadsheets",
-      "score": 26,
-      "url": "https://www.librari.io/",
-      "time": 1752866914.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44608840"
+      "title": "How to write Rust in the Linux kernel: part 3",
+      "score": 39,
+      "url": "https://lwn.net/SubscriberLink/1026694/3413f4b43c862629/",
+      "time": 1752877637.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44610468"
     },
     {
-      "title": "Trying to send a sticker in Steam Chat burned through a month of mobile data",
-      "score": 25,
-      "url": "https://old.reddit.com/r/Steam/comments/1m000kp/trying_to_send_a_sticker_in_steam_chat_burned/",
-      "time": 1752867888.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44608998"
+      "title": "Silence Is a Commons by Ivan Illich (1983)",
+      "score": 72,
+      "url": "http://www.davidtinapple.com/illich/1983_silence_commons.html",
+      "time": 1752873710.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44609969"
     },
     {
-      "title": "lsr: ls with io_uring",
-      "score": 266,
-      "url": "https://rockorager.dev/log/lsr-ls-but-with-io-uring/",
-      "time": 1752842441.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44604050"
+      "title": "Ccusage: A CLI tool for analyzing Claude Code usage from local JSONL files",
+      "score": 21,
+      "url": "https://github.com/ryoppippi/ccusage",
+      "time": 1752880969.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44610925"
     },
     {
-      "title": "Replication of Quantum Factorisation Records with a VIC-20, an Abacus, and a Dog",
-      "score": 37,
-      "url": "https://eprint.iacr.org/2025/1237",
-      "time": 1752865747.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44608622"
+      "title": "Wii U SDBoot1 Exploit “paid the beak”",
+      "score": 73,
+      "url": "https://consolebytes.com/wii-u-sdboot1-exploit-paid-the-beak/",
+      "time": 1752870636.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44609479"
+    },
+    {
+      "title": "Mr Browser – Macintosh Repository file downloader that runs directly on 68k Macs",
+      "score": 4,
+      "url": "https://www.macintoshrepository.org/44146-mr-browser",
+      "time": 1752884448.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44611320"
+    },
+    {
+      "title": "Valve confirms credit card companies pressured it to delist certain adult games",
+      "score": 168,
+      "url": "https://www.pcgamer.com/software/platforms/valve-confirms-credit-card-companies-pressured-it-to-delist-certain-adult-games-from-steam/",
+      "time": 1752854086.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44606184"
+    },
+    {
+      "title": "Broadcom to discontinue free Bitnami Helm charts",
+      "score": 90,
+      "url": "https://github.com/bitnami/charts/issues/35164",
+      "time": 1752866992.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44608856"
     },
     {
       "title": "Multiplatform Matrix Multiplication Kernels",
-      "score": 10,
+      "score": 49,
       "url": "https://burn.dev/blog/sota-multiplatform-matmul/",
       "time": 1752868789.0,
       "comments_url": "https://news.ycombinator.com/item?id=44609137"
     },
     {
+      "title": "lsr: ls with io_uring",
+      "score": 297,
+      "url": "https://rockorager.dev/log/lsr-ls-but-with-io-uring/",
+      "time": 1752842441.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44604050"
+    },
+    {
+      "title": "Meta says it wont sign Europe AI agreement, calling it growth stunting overreach",
+      "score": 96,
+      "url": "https://www.cnbc.com/2025/07/18/meta-europe-ai-code.html",
+      "time": 1752861397.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44607838"
+    },
+    {
+      "title": "Debcraft – Easiest way to modify and build Debian packages",
+      "score": 5,
+      "url": "https://optimizedbyotto.com/post/debcraft-easy-debian-packaging/",
+      "time": 1752883471.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44611223"
+    },
+    {
       "title": "Trying Guix: A Nixer's impressions",
-      "score": 112,
+      "score": 137,
       "url": "https://tazj.in/blog/trying-guix",
       "time": 1752567079.0,
       "comments_url": "https://news.ycombinator.com/item?id=44569032"
     },
     {
-      "title": "How I keep up with AI progress",
-      "score": 120,
-      "url": "https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/",
-      "time": 1752863799.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44608275"
+      "title": "AI capex is so big that it's affecting economic statistics",
+      "score": 191,
+      "url": "https://paulkedrosky.com/honey-ai-capex-ate-the-economy/",
+      "time": 1752868744.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44609130"
     },
     {
-      "title": "Cancer DNA is detectable in blood years before diagnosis",
-      "score": 93,
-      "url": "https://www.sciencenews.org/article/cancer-tumor-dna-blood-test-screening",
-      "time": 1752863946.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44608295"
+      "title": "Show HN: Molab, a cloud-hosted Marimo notebook workspace",
+      "score": 66,
+      "url": "https://molab.marimo.io/notebooks",
+      "time": 1752864030.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44608312"
+    },
+    {
+      "title": "The year of peak might and magic",
+      "score": 74,
+      "url": "https://www.filfre.net/2025/07/the-year-of-peak-might-and-magic/",
+      "time": 1752859309.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44607403"
+    },
+    {
+      "title": "Replication of Quantum Factorisation Records with a VIC-20, an Abacus, and a Dog",
+      "score": 60,
+      "url": "https://eprint.iacr.org/2025/1237",
+      "time": 1752865747.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44608622"
     },
     {
       "title": "Mango Health (YC W24) Is Hiring",
@@ -79,67 +135,11 @@
       "comments_url": "https://news.ycombinator.com/item?id=44608294"
     },
     {
-      "title": "The Year of Peak Might and Magic",
-      "score": 36,
-      "url": "https://www.filfre.net/2025/07/the-year-of-peak-might-and-magic/",
-      "time": 1752859309.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44607403"
-    },
-    {
-      "title": "Broadcom to discontinue free Bitnami Helm charts",
-      "score": 14,
-      "url": "https://github.com/bitnami/charts/issues/35164",
-      "time": 1752866992.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44608856"
-    },
-    {
       "title": "CP/M creator Gary Kildall's memoirs released as free download",
-      "score": 213,
+      "score": 232,
       "url": "https://spectrum.ieee.org/cpm-creator-gary-kildalls-memoirs-released-as-free-download",
       "time": 1752834135.0,
       "comments_url": "https://news.ycombinator.com/item?id=44603066"
-    },
-    {
-      "title": "Hush: Holistic Panoramic 3D Scene Understanding Using Spherical Harmonics",
-      "score": 3,
-      "url": "https://vision3d-lab.github.io/hush/",
-      "time": 1752870767.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44609508"
-    },
-    {
-      "title": "Third patient dies from acute liver failure caused by a Sarepta gene therapy",
-      "score": 121,
-      "url": "https://www.biocentury.com/article/656520/third-death-from-a-sarepta-gene-therapy",
-      "time": 1752863182.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44608170"
-    },
-    {
-      "title": "Benben: An audio player for the terminal, written in Common Lisp",
-      "score": 27,
-      "url": "https://chiselapp.com/user/MistressRemilia/repository/benben/home",
-      "time": 1752538744.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44566673"
-    },
-    {
-      "title": "Making a StringBuffer in C, and questioning my sanity",
-      "score": 9,
-      "url": "https://briandouglas.ie/string-buffer-c/",
-      "time": 1752576514.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44569819"
-    },
-    {
-      "title": "Section 174 is reversed! Mostly, that is.",
-      "score": 97,
-      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-section-174-is-reversed",
-      "time": 1752862077.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44607961"
-    },
-    {
-      "title": "Exhausted man defeats AI model in world coding championship",
-      "score": 11,
-      "url": "https://arstechnica.com/ai/2025/07/exhausted-man-defeats-ai-model-in-world-coding-championship/",
-      "time": 1752871392.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44609616"
     }
   ]
 }
