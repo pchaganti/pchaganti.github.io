@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-07-20T02:17:24.965690-04:00",
+  "last_updated": "2025-07-20T05:12:29.886284-04:00",
   "stories": [
     {
+      "title": "Async I/O on Linux in databases",
+      "score": 48,
+      "url": "https://blog.canoozie.net/async-i-o-on-linux-and-durability/",
+      "time": 1752992402.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44622454"
+    },
+    {
+      "title": "“I noticed a clear violation of our contributing guidelines” – Pull request bot",
+      "score": 29,
+      "url": "https://github.com/antiwork/flexile/pull/427#issuecomment-3079688548",
+      "time": 1752999980.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44623036"
+    },
+    {
+      "title": "The Big LLM Architecture Comparison",
+      "score": 31,
+      "url": "https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison",
+      "time": 1752994561.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44622608"
+    },
+    {
       "title": "Hungary's oldest library is fighting to save books from a beetle infestation",
-      "score": 75,
+      "score": 117,
       "url": "https://www.npr.org/2025/07/14/nx-s1-5467062/hungary-library-books-beetles",
       "time": 1752679530.0,
       "comments_url": "https://news.ycombinator.com/item?id=44583316"
     },
     {
       "title": "Make Your Own Backup System – Part 1: Strategy Before Scripts",
-      "score": 215,
+      "score": 257,
       "url": "https://it-notes.dragas.net/2025/07/18/make-your-own-backup-system-part-1-strategy-before-scripts/",
       "time": 1752954203.0,
       "comments_url": "https://news.ycombinator.com/item?id=44618687"
     },
     {
+      "title": "I tried vibe coding in BASIC and it didn't go well",
+      "score": 93,
+      "url": "https://www.goto10retro.com/p/vibe-coding-in-basic",
+      "time": 1752660882.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44580567"
+    },
+    {
+      "title": "Show HN: MCP server for Blender that builds 3D scenes via natural language",
+      "score": 10,
+      "url": "https://blender-mcp-psi.vercel.app/",
+      "time": 1752991305.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44622374"
+    },
+    {
       "title": "Nobody knows how to build with AI yet",
-      "score": 308,
+      "score": 371,
       "url": "https://worksonmymachine.substack.com/p/nobody-knows-how-to-build-with-ai",
       "time": 1752939901.0,
       "comments_url": "https://news.ycombinator.com/item?id=44616479"
     },
     {
+      "title": "Borg – Deduplicating archiver with compression and encryption",
+      "score": 53,
+      "url": "https://www.borgbackup.org/",
+      "time": 1752979013.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44621487"
+    },
+    {
       "title": "Local LLMs versus offline Wikipedia",
-      "score": 216,
+      "score": 254,
       "url": "https://evanhahn.com/local-llms-versus-offline-wikipedia/",
       "time": 1752943742.0,
       "comments_url": "https://news.ycombinator.com/item?id=44617078"
     },
     {
-      "title": "Mushroom learns to crawl after being given robot body (2024)",
-      "score": 93,
-      "url": "https://www.the-independent.com/tech/robot-mushroom-biohybrid-robotics-cornell-b2610411.html",
-      "time": 1752748985.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44591775"
-    },
-    {
-      "title": "How to Run an Arduino for Years on a Battery",
-      "score": 27,
+      "title": "How to Run an Arduino for Years on a Battery (2021)",
+      "score": 53,
       "url": "https://makecademy.com/arduino-battery",
       "time": 1752734357.0,
       "comments_url": "https://news.ycombinator.com/item?id=44590391"
     },
     {
       "title": "Death by AI",
-      "score": 244,
+      "score": 325,
       "url": "https://davebarry.substack.com/p/death-by-ai",
       "time": 1752935711.0,
       "comments_url": "https://news.ycombinator.com/item?id=44615801"
     },
     {
-      "title": "Ring introducing new feature to allow police to live-stream access to cameras",
-      "score": 216,
-      "url": "https://www.eff.org/deeplinks/2025/07/amazon-ring-cashes-techno-authoritarianism-and-mass-surveillance",
-      "time": 1752963909.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44620002"
+      "title": "Mushroom learns to crawl after being given robot body (2024)",
+      "score": 121,
+      "url": "https://www.the-independent.com/tech/robot-mushroom-biohybrid-robotics-cornell-b2610411.html",
+      "time": 1752748985.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44591775"
     },
     {
-      "title": "What Were the Earliest Laws Like?",
-      "score": 57,
-      "url": "https://worldhistory.substack.com/p/what-were-the-earliest-laws-really",
-      "time": 1752623755.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44577210"
-    },
-    {
-      "title": "Rethinking CLI interfaces for AI",
-      "score": 149,
-      "url": "https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/",
-      "time": 1752944322.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44617184"
-    },
-    {
-      "title": "Matterport walkthrough of the original Microsoft Building 3",
-      "score": 25,
-      "url": "https://my.matterport.com/show/?m=SZSV6vjcf4L",
-      "time": 1752690314.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44585370"
-    },
-    {
-      "title": "\"Bypassing\" Specialization in Rust or How I Learned to Stop Worrying and Love F",
-      "score": 18,
-      "url": "https://oakchris1955.eu/posts/bypassing_specialization/",
-      "time": 1752737182.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44590671"
-    },
-    {
-      "title": "Borg - Deduplicating Archiver with Compression and Encryption",
-      "score": 17,
-      "url": "https://www.borgbackup.org/",
-      "time": 1752979013.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44621487"
-    },
-    {
-      "title": "The curious case of the Unix workstation layout",
-      "score": 80,
-      "url": "https://thejpster.org.uk/blog/blog-2025-07-19/",
-      "time": 1752941717.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44616760"
-    },
-    {
-      "title": "Piano Keys",
-      "score": 46,
-      "url": "https://www.mathpages.com/home/kmath043.htm",
-      "time": 1752616217.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44576183"
-    },
-    {
-      "title": "Airbnb allowed rampant price gouging following L.A. fires, city attorney alleges",
-      "score": 25,
-      "url": "https://www.latimes.com/california/story/2025-07-19/airbnb-allowed-price-gouging-following-l-a-fires-city-attorney-alleges-in-lawsuit",
-      "time": 1752981266.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44621675"
-    },
-    {
-      "title": "New York’s bill banning One-Person Train Operation",
-      "score": 81,
-      "url": "https://www.etany.org/statements/impeding-progress-costing-riders-opto",
-      "time": 1752975227.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44621119"
-    },
-    {
-      "title": "Beyond Meat Fights for Survival",
-      "score": 46,
+      "title": "Beyond Meat fights for survival",
+      "score": 79,
       "url": "https://foodinstitute.com/focus/beyond-meat-fights-for-survival/",
       "time": 1752969280.0,
       "comments_url": "https://news.ycombinator.com/item?id=44620606"
     },
     {
-      "title": "The borrowchecker is what I like the least about Rust",
-      "score": 181,
-      "url": "https://viralinstruction.com/posts/borrowchecker/",
-      "time": 1752953270.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44618535"
+      "title": "Matterport walkthrough of the original Microsoft Building 3",
+      "score": 38,
+      "url": "https://my.matterport.com/show/?m=SZSV6vjcf4L",
+      "time": 1752690314.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44585370"
     },
     {
-      "title": "The future of ultra-fast passenger travel",
-      "score": 26,
-      "url": "https://spaceambition.substack.com/p/beyond-the-sound-barrier",
-      "time": 1752958240.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44619258"
+      "title": "What were the earliest laws like?",
+      "score": 73,
+      "url": "https://worldhistory.substack.com/p/what-were-the-earliest-laws-really",
+      "time": 1752623755.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44577210"
+    },
+    {
+      "title": "Ring introducing new feature to allow police to live-stream access to cameras",
+      "score": 265,
+      "url": "https://www.eff.org/deeplinks/2025/07/amazon-ring-cashes-techno-authoritarianism-and-mass-surveillance",
+      "time": 1752963909.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44620002"
+    },
+    {
+      "title": "Open-Source BCI Platform with Mobile SDK for Rapid Neurotech Prototyping",
+      "score": 8,
+      "url": "https://www.preprints.org/manuscript/202507.1198/v1",
+      "time": 1752704742.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44587486"
+    },
+    {
+      "title": "Rethinking CLI interfaces for AI",
+      "score": 162,
+      "url": "https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/",
+      "time": 1752944322.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44617184"
+    },
+    {
+      "title": "First electronic-photonic quantum chip manufactured in commercial foundry",
+      "score": 3,
+      "url": "https://news.northwestern.edu/stories/2025/07/first-electronic-photonic-quantum-chip-manufactured-in-commercial-foundry/",
+      "time": 1752696521.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44586283"
     }
   ]
 }
