@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-07-20T14:16:07.476384-04:00",
+  "last_updated": "2025-07-20T17:11:11.598931-04:00",
   "stories": [
     {
       "title": "XMLUI",
-      "score": 237,
+      "score": 354,
       "url": "https://blog.jonudell.net/2025/07/18/introducing-xmlui/",
       "time": 1753020219.0,
       "comments_url": "https://news.ycombinator.com/item?id=44625292"
     },
     {
-      "title": "Master Foo and the Script Kiddie",
-      "score": 18,
-      "url": "https://soda.privatevoid.net/foo/arc/02.html",
-      "time": 1753031638.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44627185"
+      "title": "Stdio(3) change: FILE is now opaque (OpenBSD)",
+      "score": 51,
+      "url": "https://undeadly.org/cgi?action=article;sid=20250717103345",
+      "time": 1753035520.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44627793"
+    },
+    {
+      "title": "Staying cool without refrigerants: Next-generation Peltier cooling",
+      "score": 19,
+      "url": "https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling",
+      "time": 1753042734.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44628930"
+    },
+    {
+      "title": "New colors without shooting lasers into your eyes",
+      "score": 76,
+      "url": "https://dynomight.net/colors/",
+      "time": 1752768077.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44594808"
     },
     {
       "title": "Coding with LLMs in the summer of 2025 – an update",
-      "score": 236,
+      "score": 323,
       "url": "https://antirez.com/news/154",
       "time": 1753009442.0,
       "comments_url": "https://news.ycombinator.com/item?id=44623953"
     },
     {
-      "title": "Insights on Teufel's First Open-Source Speaker",
-      "score": 10,
-      "url": "https://blog.teufelaudio.com/visionary-mynds-insights-on-teufels-first-open-source-speaker/",
-      "time": 1753031503.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44627158"
+      "title": "Simulating Hand-Drawn Motion with SVG Filters",
+      "score": 30,
+      "url": "https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters",
+      "time": 1752743546.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44591305"
     },
     {
-      "title": "Speeding Up My ZSH Shell",
-      "score": 36,
-      "url": "https://scottspence.com/posts/speeding-up-my-zsh-shell",
-      "time": 1753026704.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44626363"
+      "title": "Jove (Jonathan's Own Version of Emacs)",
+      "score": 13,
+      "url": "https://en.wikipedia.org/wiki/JOVE",
+      "time": 1752744937.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44591439"
     },
     {
       "title": "Hacking a Toniebox",
-      "score": 14,
+      "score": 50,
       "url": "https://www.schafe-sind-bessere-rasenmaeher.de/tech/hack-all-the-things-toniebox/",
       "time": 1753031796.0,
       "comments_url": "https://news.ycombinator.com/item?id=44627211"
     },
     {
-      "title": "The old Caveman Chemistry website (1996-2000)",
+      "title": "QuakeNotch: Quake Terminal on your MacBook's notch",
+      "score": 46,
+      "url": "https://quakenotch.com",
+      "time": 1753034264.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44627590"
+    },
+    {
+      "title": "Insights on Teufel's First Open-Source Speaker",
       "score": 51,
-      "url": "https://cavemanchemistry.com/oldcave/",
-      "time": 1753020686.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44625360"
+      "url": "https://blog.teufelaudio.com/visionary-mynds-insights-on-teufels-first-open-source-speaker/",
+      "time": 1753031503.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44627158"
+    },
+    {
+      "title": "Subreply – an open source text-only social network",
+      "score": 26,
+      "url": "https://github.com/lucianmarin/subreply",
+      "time": 1753037174.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44628082"
     },
     {
       "title": "Digital vassals? French Government 'exposes citizens' data to US'",
-      "score": 109,
+      "score": 159,
       "url": "https://brusselssignal.eu/2025/07/digital-vassals-french-government-exposes-citizens-data-to-us/",
       "time": 1753010769.0,
       "comments_url": "https://news.ycombinator.com/item?id=44624114"
     },
     {
-      "title": "Show HN: Conductor, a Mac app that lets you run a bunch of Claude Codes at once",
-      "score": 42,
-      "url": "https://conductor.build/",
-      "time": 1752766984.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44594584"
-    },
-    {
       "title": "LLM architecture comparison",
-      "score": 259,
+      "score": 315,
       "url": "https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison",
       "time": 1752994561.0,
       "comments_url": "https://news.ycombinator.com/item?id=44622608"
     },
     {
       "title": "A Tour of Microsoft's Mac Lab (2006)",
-      "score": 134,
+      "score": 150,
       "url": "https://davidweiss.blogspot.com/2006/04/tour-of-microsofts-mac-lab.html",
       "time": 1753006282.0,
       "comments_url": "https://news.ycombinator.com/item?id=44623581"
     },
     {
+      "title": "The old Caveman Chemistry website (1996-2000)",
+      "score": 68,
+      "url": "https://cavemanchemistry.com/oldcave/",
+      "time": 1753020686.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44625360"
+    },
+    {
+      "title": "Payment processors' bar on Japanese adult content endangers democracy (2024)",
+      "score": 92,
+      "url": "https://automaton-media.com/en/news/nier-creator-speaks-out-against-payment-processors-pressuring-japanese-adult-content-platforms/",
+      "time": 1753035721.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44627828"
+    },
+    {
+      "title": "Master Foo and the Script Kiddie (1996)",
+      "score": 63,
+      "url": "https://soda.privatevoid.net/foo/arc/02.html",
+      "time": 1753031638.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44627185"
+    },
+    {
+      "title": "Speeding Up My ZSH Shell",
+      "score": 91,
+      "url": "https://scottspence.com/posts/speeding-up-my-zsh-shell",
+      "time": 1753026704.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44626363"
+    },
+    {
       "title": "Async I/O on Linux in databases",
-      "score": 150,
+      "score": 163,
       "url": "https://blog.canoozie.net/async-i-o-on-linux-and-durability/",
       "time": 1752992402.0,
       "comments_url": "https://news.ycombinator.com/item?id=44622454"
     },
     {
-      "title": "A human metaphor for evaluating AI capability",
-      "score": 104,
-      "url": "https://mathstodon.xyz/@tao/114881418225852441",
-      "time": 1752999195.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44622973"
-    },
-    {
       "title": "\"The Bitter Lesson\" is wrong. Well sort of",
-      "score": 8,
+      "score": 29,
       "url": "https://assaf-pinhasi.medium.com/the-bitter-lesson-is-wrong-sort-of-a3d021864924",
       "time": 1753029226.0,
       "comments_url": "https://news.ycombinator.com/item?id=44626789"
-    },
-    {
-      "title": "Show HN: MCP server for Blender that builds 3D scenes via natural language",
-      "score": 116,
-      "url": "https://blender-mcp-psi.vercel.app/",
-      "time": 1752991305.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44622374"
-    },
-    {
-      "title": "The current hype around autonomous agents, and what actually works in production",
-      "score": 309,
-      "url": "https://utkarshkanwat.com/writing/betting-against-agents/",
-      "time": 1753001959.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44623207"
-    },
-    {
-      "title": "Laminar Flow Airfoil",
-      "score": 6,
-      "url": "http://www.aviation-history.com/theory/lam-flow.htm",
-      "time": 1752800067.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44600043"
-    },
-    {
-      "title": "Hungary's oldest library is fighting to save books from a beetle infestation",
-      "score": 169,
-      "url": "https://www.npr.org/2025/07/14/nx-s1-5467062/hungary-library-books-beetles",
-      "time": 1752679530.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44583316"
-    },
-    {
-      "title": "The Geological Sublime",
-      "score": 4,
-      "url": "https://harpers.org/archive/2025/07/the-geological-sublime-lewis-hyde-deep-time/",
-      "time": 1752718749.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44589064"
-    },
-    {
-      "title": "Make Your Own Backup System – Part 1: Strategy Before Scripts",
-      "score": 317,
-      "url": "https://it-notes.dragas.net/2025/07/18/make-your-own-backup-system-part-1-strategy-before-scripts/",
-      "time": 1752954203.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44618687"
     }
   ]
 }
