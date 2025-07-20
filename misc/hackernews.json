@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-07-19T17:10:56.945879-04:00",
+  "last_updated": "2025-07-19T21:08:59.973610-04:00",
   "stories": [
     {
-      "title": "2025 Infrastructure Report Card",
-      "score": 42,
-      "url": "https://infrastructurereportcard.org/",
-      "time": 1752954143.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44618679"
-    },
-    {
       "title": "Make Your Own Backup System – Part 1: Strategy Before Scripts",
-      "score": 28,
+      "score": 139,
       "url": "https://it-notes.dragas.net/2025/07/18/make-your-own-backup-system-part-1-strategy-before-scripts/",
       "time": 1752954203.0,
       "comments_url": "https://news.ycombinator.com/item?id=44618687"
     },
     {
-      "title": "MCP Security Vulnerabilities and Attack Vectors",
-      "score": 107,
-      "url": "https://forgecode.dev/blog/prevent-attacks-on-mcp/",
-      "time": 1752948859.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44617910"
+      "title": "The borrowchecker is what I like the least about Rust",
+      "score": 142,
+      "url": "https://viralinstruction.com/posts/borrowchecker/",
+      "time": 1752953270.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44618535"
     },
     {
-      "title": "OpenAI claims gold-medal performance at IMO 2025",
-      "score": 325,
-      "url": "https://twitter.com/alexwei_/status/1946477742855532918",
-      "time": 1752916279.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44613840"
-    },
-    {
-      "title": "TSMC to start building four new plants with 1.4nm technology",
-      "score": 45,
-      "url": "https://www.taipeitimes.com/News/front/archives/2025/07/20/2003840583",
-      "time": 1752954750.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44618762"
-    },
-    {
-      "title": "Local LLMs versus Offline Wikipedia",
-      "score": 31,
+      "title": "Local LLMs versus offline Wikipedia",
+      "score": 144,
       "url": "https://evanhahn.com/local-llms-versus-offline-wikipedia/",
       "time": 1752943742.0,
       "comments_url": "https://news.ycombinator.com/item?id=44617078"
     },
     {
-      "title": "The Curious Case of the Unix workstation layout",
-      "score": 42,
-      "url": "https://thejpster.org.uk/blog/blog-2025-07-19/",
-      "time": 1752941717.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44616760"
+      "title": "Ring introducing new feature to allow police to live-stream access to cameras",
+      "score": 97,
+      "url": "https://www.eff.org/deeplinks/2025/07/amazon-ring-cashes-techno-authoritarianism-and-mass-surveillance",
+      "time": 1752963909.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44620002"
     },
     {
-      "title": "Babies made using three people's DNA are born free of mitochondrial disease",
-      "score": 185,
-      "url": "https://www.bbc.com/news/articles/cn8179z199vo",
-      "time": 1752702215.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44587116"
+      "title": "Nobody knows how to build with AI yet",
+      "score": 197,
+      "url": "https://worksonmymachine.substack.com/p/nobody-knows-how-to-build-with-ai",
+      "time": 1752939901.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44616479"
     },
     {
-      "title": "Trigon: Exploiting coprocessors for fun and for profit (part 2)",
-      "score": 5,
-      "url": "https://alfiecg.uk/2025/07/16/Trigon.html",
-      "time": 1752956126.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44618959"
+      "title": "OpenAI claims gold-medal performance at IMO 2025",
+      "score": 391,
+      "url": "https://twitter.com/alexwei_/status/1946477742855532918",
+      "time": 1752916279.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44613840"
     },
     {
-      "title": "Piano Keys",
-      "score": 16,
-      "url": "https://www.mathpages.com/home/kmath043.htm",
-      "time": 1752616217.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44576183"
-    },
-    {
-      "title": "Zig Interface Revisited",
-      "score": 50,
-      "url": "https://williamw520.github.io/2025/07/13/zig-interface-revisited.html",
-      "time": 1752684731.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44584414"
-    },
-    {
-      "title": "The tech that the US Post Office gave us",
-      "score": 31,
-      "url": "https://www.theverge.com/report/709749/usps-250th-anniversary-pioneer-modern-technology",
-      "time": 1752953578.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44618576"
-    },
-    {
-      "title": "What the Fuck Python",
-      "score": 60,
-      "url": "https://colab.research.google.com/github/satwikkansal/wtfpython/blob/master/irrelevant/wtf.ipynb",
-      "time": 1752951716.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44618335"
-    },
-    {
-      "title": "Show HN: Am-I-vibing, detect agentic coding environments",
-      "score": 24,
-      "url": "https://github.com/ascorbic/am-i-vibing",
-      "time": 1752941261.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44616688"
-    },
-    {
-      "title": "Fstrings.wtf",
-      "score": 336,
-      "url": "https://fstrings.wtf/",
-      "time": 1752922355.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44614370"
-    },
-    {
-      "title": "Pimping My Casio: Part Deux",
-      "score": 149,
-      "url": "https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html",
-      "time": 1752911906.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44613486"
+      "title": "Hungary's oldest library is fighting to save books from a beetle infestation",
+      "score": 6,
+      "url": "https://www.npr.org/2025/07/14/nx-s1-5467062/hungary-library-books-beetles",
+      "time": 1752679530.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44583316"
     },
     {
       "title": "Rethinking CLI interfaces for AI",
-      "score": 82,
+      "score": 121,
       "url": "https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/",
       "time": 1752944322.0,
       "comments_url": "https://news.ycombinator.com/item?id=44617184"
     },
     {
-      "title": "How we tracked down a Go 1.24 memory regression",
-      "score": 83,
-      "url": "https://www.datadoghq.com/blog/engineering/go-memory-regression/",
-      "time": 1752782561.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44597550"
+      "title": "Death by AI",
+      "score": 150,
+      "url": "https://davebarry.substack.com/p/death-by-ai",
+      "time": 1752935711.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44615801"
     },
     {
-      "title": "Linux and Secure Boot certificate expiration",
-      "score": 211,
-      "url": "https://lwn.net/SubscriberLink/1029767/08f1d17c020e8292/",
-      "time": 1752810811.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44601045"
+      "title": "What Were the Earliest Laws Like?",
+      "score": 21,
+      "url": "https://worldhistory.substack.com/p/what-were-the-earliest-laws-really",
+      "time": 1752623755.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44577210"
     },
     {
-      "title": "'Universal cancer vaccine' trains the immune system to kill any tumor",
-      "score": 46,
-      "url": "https://newatlas.com/cancer/universal-cancer-vaccine/",
-      "time": 1752953659.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44618595"
+      "title": "Babies made using three people's DNA are born free of mitochondrial disease",
+      "score": 238,
+      "url": "https://www.bbc.com/news/articles/cn8179z199vo",
+      "time": 1752702215.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44587116"
+    },
+    {
+      "title": "TSMC to start building four new plants with 1.4nm technology",
+      "score": 118,
+      "url": "https://www.taipeitimes.com/News/front/archives/2025/07/20/2003840583",
+      "time": 1752954750.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44618762"
+    },
+    {
+      "title": "Mushroom learns to crawl after being given robot body (2024)",
+      "score": 38,
+      "url": "https://www.the-independent.com/tech/robot-mushroom-biohybrid-robotics-cornell-b2610411.html",
+      "time": 1752748985.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44591775"
+    },
+    {
+      "title": "Trigon: Exploiting coprocessors for fun and for profit (part 2)",
+      "score": 27,
+      "url": "https://alfiecg.uk/2025/07/16/Trigon.html",
+      "time": 1752956126.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44618959"
+    },
+    {
+      "title": "The curious case of the Unix workstation layout",
+      "score": 62,
+      "url": "https://thejpster.org.uk/blog/blog-2025-07-19/",
+      "time": 1752941717.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44616760"
+    },
+    {
+      "title": "Intel to boost gross margins – new products must deliver 50% gross profit",
+      "score": 12,
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-draws-a-line-in-the-sand-to-boost-gross-margins-new-products-must-deliver-50-percent-to-get-the-green-light",
+      "time": 1752971147.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44620774"
+    },
+    {
+      "title": "MCP Security Vulnerabilities and Attack Vectors",
+      "score": 145,
+      "url": "https://forgecode.dev/blog/prevent-attacks-on-mcp/",
+      "time": 1752948859.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44617910"
+    },
+    {
+      "title": "Zig Interface Revisited",
+      "score": 75,
+      "url": "https://williamw520.github.io/2025/07/13/zig-interface-revisited.html",
+      "time": 1752684731.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44584414"
+    },
+    {
+      "title": "Show HN: Am-I-vibing, detect agentic coding environments",
+      "score": 47,
+      "url": "https://github.com/ascorbic/am-i-vibing",
+      "time": 1752941261.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44616688"
+    },
+    {
+      "title": "Piano Keys",
+      "score": 40,
+      "url": "https://www.mathpages.com/home/kmath043.htm",
+      "time": 1752616217.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44576183"
     }
   ]
 }
