@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-07-21T05:20:57.364821-04:00",
+  "last_updated": "2025-07-21T08:26:24.729275-04:00",
   "stories": [
     {
       "title": "“Dynamic Programming” is not referring to “computer programming”",
-      "score": 166,
+      "score": 254,
       "url": "https://www.vidarholen.net/contents/blog/?p=1172",
       "time": 1752836947.0,
       "comments_url": "https://news.ycombinator.com/item?id=44603349"
     },
     {
       "title": "The Daily Life of a Medieval King",
-      "score": 78,
+      "score": 143,
       "url": "https://www.medievalists.net/2025/07/medieval-king-daily-life/",
       "time": 1752785642.0,
       "comments_url": "https://news.ycombinator.com/item?id=44598090"
     },
     {
+      "title": "Perl Versioning Scheme and Gentoo",
+      "score": 23,
+      "url": "https://wiki.gentoo.org/wiki/Project:Perl/Version-Scheme",
+      "time": 1752961470.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44619709"
+    },
+    {
       "title": "Staying cool without refrigerants: Next-generation Peltier cooling",
-      "score": 280,
+      "score": 331,
       "url": "https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling",
       "time": 1753042734.0,
       "comments_url": "https://news.ycombinator.com/item?id=44628930"
     },
     {
-      "title": "ESP32-Faikin: ESP32 based module to control Daikin aircon units",
-      "score": 53,
-      "url": "https://github.com/revk/ESP32-Faikin",
-      "time": 1753069283.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44631594"
-    },
-    {
-      "title": "How to handle people dismissing io_uring as insecure?",
-      "score": 74,
-      "url": "https://github.com/axboe/liburing/discussions/1047",
-      "time": 1753078505.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44632240"
-    },
-    {
       "title": "Log by time, not by count",
-      "score": 105,
+      "score": 152,
       "url": "https://johnscolaro.xyz/blog/log-by-time-not-by-count",
       "time": 1753060555.0,
       "comments_url": "https://news.ycombinator.com/item?id=44630927"
     },
     {
+      "title": "Extend (YC W23) is hiring engineers to build SOTA document processing",
+      "score": 1,
+      "url": "https://jobs.ashbyhq.com/extend",
+      "time": 1753099206.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44634166"
+    },
+    {
       "title": "Show HN: X11 desktop widget that shows location of your network peers on a map",
-      "score": 135,
+      "score": 162,
       "url": "https://github.com/h2337/connmap",
       "time": 1753056985.0,
       "comments_url": "https://news.ycombinator.com/item?id=44630648"
     },
     {
-      "title": "XMLUI",
-      "score": 525,
-      "url": "https://blog.jonudell.net/2025/07/18/introducing-xmlui/",
-      "time": 1753020219.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44625292"
-    },
-    {
-      "title": "Debugging Bash Like a Sire",
-      "score": 27,
-      "url": "https://blog.brujordet.no/post/bash/debugging_bash_like_a_sire/",
-      "time": 1752756688.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44592797"
-    },
-    {
-      "title": "Agents built from alloys",
-      "score": 115,
-      "url": "https://xbow.com/blog/alloy-agents/",
-      "time": 1753057984.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44630724"
+      "title": "ESP32-Faikin: ESP32 based module to control Daikin aircon units",
+      "score": 76,
+      "url": "https://github.com/revk/ESP32-Faikin",
+      "time": 1753069283.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44631594"
     },
     {
       "title": "New colors without shooting lasers into your eyes",
-      "score": 384,
+      "score": 455,
       "url": "https://dynomight.net/colors/",
       "time": 1752768077.0,
       "comments_url": "https://news.ycombinator.com/item?id=44594808"
     },
     {
-      "title": "Using the Matrix Cores of AMD RDNA 4 architecture GPUs",
-      "score": 51,
-      "url": "https://gpuopen.com/learn/using_matrix_core_amd_rdna4/",
-      "time": 1752844413.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44604311"
-    },
-    {
-      "title": "Simulating hand-drawn motion with SVG filters",
-      "score": 209,
-      "url": "https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters",
-      "time": 1752743546.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44591305"
-    },
-    {
-      "title": "Vibe coding service Replit deleted production database, faked data, told fibs",
-      "score": 50,
-      "url": "https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/",
-      "time": 1753082455.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44632575"
-    },
-    {
-      "title": "Coding with LLMs in the summer of 2025 – an update",
-      "score": 495,
-      "url": "https://antirez.com/news/154",
-      "time": 1753009442.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44623953"
-    },
-    {
       "title": "The sumerian game early computer game",
-      "score": 9,
+      "score": 30,
       "url": "https://spillhistorie.no/2025/07/10/the-sumerian-game-the-ancestor-of-modern-city-builders/",
       "time": 1752922363.0,
       "comments_url": "https://news.ycombinator.com/item?id=44614372"
     },
     {
-      "title": "Stdio(3) change: FILE is now opaque",
-      "score": 140,
-      "url": "https://undeadly.org/cgi?action=article;sid=20250717103345",
-      "time": 1753035520.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44627793"
+      "title": "Debugging Bash Like a Sire (2023)",
+      "score": 55,
+      "url": "https://blog.brujordet.no/post/bash/debugging_bash_like_a_sire/",
+      "time": 1752756688.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44592797"
+    },
+    {
+      "title": "XMLUI",
+      "score": 544,
+      "url": "https://blog.jonudell.net/2025/07/18/introducing-xmlui/",
+      "time": 1753020219.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44625292"
+    },
+    {
+      "title": "Agents built from alloys",
+      "score": 131,
+      "url": "https://xbow.com/blog/alloy-agents/",
+      "time": 1753057984.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44630724"
+    },
+    {
+      "title": "Super-resolution microscopes reveal new details of cells and disease",
+      "score": 13,
+      "url": "https://knowablemagazine.org/content/article/technology/2025/super-resolution-microscopes-reveal-new-details-cells",
+      "time": 1752873214.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44609893"
+    },
+    {
+      "title": "France launches criminal probe of X over alleged algorithm ‘manipulation’",
+      "score": 18,
+      "url": "https://www.ft.com/content/21818d23-71d7-45a4-ae8c-e7940f5d9e00",
+      "time": 1753096951.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44633902"
+    },
+    {
+      "title": "Simulating hand-drawn motion with SVG filters",
+      "score": 237,
+      "url": "https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters",
+      "time": 1752743546.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44591305"
+    },
+    {
+      "title": "Coding with LLMs in the summer of 2025 – an update",
+      "score": 527,
+      "url": "https://antirez.com/news/154",
+      "time": 1753009442.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44623953"
     },
     {
       "title": "Structuring Arrays with Algebraic Shapes [video]",
-      "score": 9,
+      "score": 23,
       "url": "https://www.youtube.com/watch?v=3Lbs0pJ_OHI",
       "time": 1752842929.0,
       "comments_url": "https://news.ycombinator.com/item?id=44604127"
     },
     {
-      "title": "Show HN: Conductor, a Mac app that lets you run a bunch of Claude Codes at once",
-      "score": 175,
-      "url": "https://conductor.build/",
-      "time": 1752766984.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44594584"
+      "title": "Using the Matrix Cores of AMD RDNA 4 architecture GPUs",
+      "score": 64,
+      "url": "https://gpuopen.com/learn/using_matrix_core_amd_rdna4/",
+      "time": 1752844413.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44604311"
     },
     {
-      "title": "How slow motion became cinema’s dominant special effect",
-      "score": 29,
-      "url": "https://newrepublic.com/article/196262/slow-motion-became-cinema-dominant-special-effect-downtime",
-      "time": 1752766469.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44594486"
+      "title": "Stdio(3) change: FILE is now opaque",
+      "score": 150,
+      "url": "https://undeadly.org/cgi?action=article;sid=20250717103345",
+      "time": 1753035520.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44627793"
     }
   ]
 }
