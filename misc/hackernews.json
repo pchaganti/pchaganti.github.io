@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-07-21T02:20:05.891542-04:00",
+  "last_updated": "2025-07-21T05:20:57.364821-04:00",
   "stories": [
     {
       "title": "“Dynamic Programming” is not referring to “computer programming”",
-      "score": 82,
+      "score": 166,
       "url": "https://www.vidarholen.net/contents/blog/?p=1172",
       "time": 1752836947.0,
       "comments_url": "https://news.ycombinator.com/item?id=44603349"
     },
     {
-      "title": "Show HN: X11 desktop widget that shows location of your network peers on a map",
-      "score": 109,
-      "url": "https://github.com/h2337/connmap",
-      "time": 1753056985.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44630648"
-    },
-    {
-      "title": "Staying cool without refrigerants: Next-generation Peltier cooling",
-      "score": 233,
-      "url": "https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling",
-      "time": 1753042734.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44628930"
-    },
-    {
-      "title": "Log by time, not by count",
-      "score": 70,
-      "url": "https://johnscolaro.xyz/blog/log-by-time-not-by-count",
-      "time": 1753060555.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44630927"
-    },
-    {
       "title": "The Daily Life of a Medieval King",
-      "score": 16,
+      "score": 78,
       "url": "https://www.medievalists.net/2025/07/medieval-king-daily-life/",
       "time": 1752785642.0,
       "comments_url": "https://news.ycombinator.com/item?id=44598090"
     },
     {
-      "title": "Agents built from alloys",
-      "score": 92,
-      "url": "https://xbow.com/blog/alloy-agents/",
-      "time": 1753057984.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44630724"
+      "title": "Staying cool without refrigerants: Next-generation Peltier cooling",
+      "score": 280,
+      "url": "https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling",
+      "time": 1753042734.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44628930"
     },
     {
       "title": "ESP32-Faikin: ESP32 based module to control Daikin aircon units",
-      "score": 19,
+      "score": 53,
       "url": "https://github.com/revk/ESP32-Faikin",
       "time": 1753069283.0,
       "comments_url": "https://news.ycombinator.com/item?id=44631594"
     },
     {
+      "title": "How to handle people dismissing io_uring as insecure?",
+      "score": 74,
+      "url": "https://github.com/axboe/liburing/discussions/1047",
+      "time": 1753078505.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44632240"
+    },
+    {
+      "title": "Log by time, not by count",
+      "score": 105,
+      "url": "https://johnscolaro.xyz/blog/log-by-time-not-by-count",
+      "time": 1753060555.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44630927"
+    },
+    {
+      "title": "Show HN: X11 desktop widget that shows location of your network peers on a map",
+      "score": 135,
+      "url": "https://github.com/h2337/connmap",
+      "time": 1753056985.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44630648"
+    },
+    {
       "title": "XMLUI",
-      "score": 500,
+      "score": 525,
       "url": "https://blog.jonudell.net/2025/07/18/introducing-xmlui/",
       "time": 1753020219.0,
       "comments_url": "https://news.ycombinator.com/item?id=44625292"
     },
     {
+      "title": "Debugging Bash Like a Sire",
+      "score": 27,
+      "url": "https://blog.brujordet.no/post/bash/debugging_bash_like_a_sire/",
+      "time": 1752756688.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44592797"
+    },
+    {
+      "title": "Agents built from alloys",
+      "score": 115,
+      "url": "https://xbow.com/blog/alloy-agents/",
+      "time": 1753057984.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44630724"
+    },
+    {
       "title": "New colors without shooting lasers into your eyes",
-      "score": 343,
+      "score": 384,
       "url": "https://dynomight.net/colors/",
       "time": 1752768077.0,
       "comments_url": "https://news.ycombinator.com/item?id=44594808"
     },
     {
       "title": "Using the Matrix Cores of AMD RDNA 4 architecture GPUs",
-      "score": 34,
+      "score": 51,
       "url": "https://gpuopen.com/learn/using_matrix_core_amd_rdna4/",
       "time": 1752844413.0,
       "comments_url": "https://news.ycombinator.com/item?id=44604311"
     },
     {
       "title": "Simulating hand-drawn motion with SVG filters",
-      "score": 168,
+      "score": 209,
       "url": "https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters",
       "time": 1752743546.0,
       "comments_url": "https://news.ycombinator.com/item?id=44591305"
     },
     {
-      "title": "Stdio(3) change: FILE is now opaque",
-      "score": 129,
-      "url": "https://undeadly.org/cgi?action=article;sid=20250717103345",
-      "time": 1753035520.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44627793"
+      "title": "Vibe coding service Replit deleted production database, faked data, told fibs",
+      "score": 50,
+      "url": "https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/",
+      "time": 1753082455.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44632575"
     },
     {
       "title": "Coding with LLMs in the summer of 2025 – an update",
-      "score": 459,
+      "score": 495,
       "url": "https://antirez.com/news/154",
       "time": 1753009442.0,
       "comments_url": "https://news.ycombinator.com/item?id=44623953"
     },
     {
-      "title": "SIOF (Scheme in One File) – A Minimal R7RS Scheme System",
-      "score": 31,
-      "url": "https://github.com/false-schemers/siof",
-      "time": 1752923868.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44614510"
+      "title": "The sumerian game early computer game",
+      "score": 9,
+      "url": "https://spillhistorie.no/2025/07/10/the-sumerian-game-the-ancestor-of-modern-city-builders/",
+      "time": 1752922363.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44614372"
     },
     {
-      "title": "Peep Show is the most realistic portrayal of evil I have seen (2020)",
-      "score": 107,
-      "url": "https://mattlakeman.org/2020/01/22/peep-show-the-most-realistic-portrayal-of-evil-ive-ever-seen/",
-      "time": 1753045519.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44629299"
+      "title": "Stdio(3) change: FILE is now opaque",
+      "score": 140,
+      "url": "https://undeadly.org/cgi?action=article;sid=20250717103345",
+      "time": 1753035520.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44627793"
     },
     {
-      "title": "How slow motion became cinema’s dominant special effect",
-      "score": 19,
-      "url": "https://newrepublic.com/article/196262/slow-motion-became-cinema-dominant-special-effect-downtime",
-      "time": 1752766469.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44594486"
-    },
-    {
-      "title": "IPv6 Based Canvas",
-      "score": 43,
-      "url": "https://canvas.openbased.org/",
-      "time": 1753050544.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44629962"
+      "title": "Structuring Arrays with Algebraic Shapes [video]",
+      "score": 9,
+      "url": "https://www.youtube.com/watch?v=3Lbs0pJ_OHI",
+      "time": 1752842929.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44604127"
     },
     {
       "title": "Show HN: Conductor, a Mac app that lets you run a bunch of Claude Codes at once",
-      "score": 159,
+      "score": 175,
       "url": "https://conductor.build/",
       "time": 1752766984.0,
       "comments_url": "https://news.ycombinator.com/item?id=44594584"
     },
     {
-      "title": "What my mother didn’t talk about (2020)",
-      "score": 53,
-      "url": "https://www.buzzfeednews.com/article/karolinawaclawiak/what-my-mother-didnt-talk-about-karolina-waclawiak",
-      "time": 1752788603.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44598578"
-    },
-    {
-      "title": "FFmpeg devs boast of another 100x leap thanks to handwritten assembly code",
-      "score": 252,
-      "url": "https://www.tomshardware.com/software/the-biggest-speedup-ive-seen-so-far-ffmpeg-devs-boast-of-another-100x-leap-thanks-to-handwritten-assembly-code",
-      "time": 1753044701.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44629206"
+      "title": "How slow motion became cinema’s dominant special effect",
+      "score": 29,
+      "url": "https://newrepublic.com/article/196262/slow-motion-became-cinema-dominant-special-effect-downtime",
+      "time": 1752766469.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44594486"
     }
   ]
 }
