@@ -1,75 +1,131 @@
 {
-  "last_updated": "2025-07-21T11:13:36.869160-04:00",
+  "last_updated": "2025-07-21T14:18:50.978339-04:00",
   "stories": [
     {
-      "title": "Occasionally USPS sends me pictures of other people's mail",
-      "score": 25,
-      "url": "https://the418.substack.com/p/a-bug-in-the-mail",
-      "time": 1753109681.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44635867"
-    },
-    {
-      "title": "Using MacBook's trackpad as digital weighing scale",
-      "score": 20,
+      "title": "TrackWeight: Turn your MacBook's trackpad into a digital weighing scale",
+      "score": 274,
       "url": "https://github.com/KrishKrosh/TrackWeight",
       "time": 1753109473.0,
       "comments_url": "https://news.ycombinator.com/item?id=44635808"
     },
     {
+      "title": "New records on Wendelstein 7-X",
+      "score": 120,
+      "url": "https://www.iter.org/node/20687/new-records-wendelstein-7-x",
+      "time": 1753111121.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44636204"
+    },
+    {
+      "title": "Accountant Simulator 2025",
+      "score": 76,
+      "url": "https://accounting.penrose.com/",
+      "time": 1753116508.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44637352"
+    },
+    {
+      "title": "Jqfmt like gofmt, but for jq",
+      "score": 34,
+      "url": "https://github.com/noperator/jqfmt",
+      "time": 1753118204.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44637716"
+    },
+    {
+      "title": "Gemini with Deep Think officially achieves gold-medal standard at the IMO",
+      "score": 207,
+      "url": "https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/",
+      "time": 1753115773.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44637191"
+    },
+    {
+      "title": "Germany's Fairytale Castles Added to UNESCO's World Heritage List",
+      "score": 20,
+      "url": "https://www.smithsonianmag.com/smart-news/germanys-stunning-fairytale-castles-added-to-unescos-world-heritage-list-180987007/",
+      "time": 1753118680.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44637815"
+    },
+    {
+      "title": "Modern Debian-based Window Maker distribution",
+      "score": 37,
+      "url": "https://wmlive.sourceforge.net/",
+      "time": 1753115563.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44637151"
+    },
+    {
+      "title": "SecretSpec: Declarative Secrets Management",
+      "score": 68,
+      "url": "https://devenv.sh/blog/2025/07/21/announcing-secretspec-declarative-secrets-management/",
+      "time": 1753113243.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44636691"
+    },
+    {
+      "title": "Solar+storage is so much farther along than you think",
+      "score": 133,
+      "url": "https://www.volts.wtf/p/solarstorage-is-so-much-farther-along",
+      "time": 1753115517.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44637137"
+    },
+    {
+      "title": "Game Genie Retrospective: The Best NES Accessory Ever Was Unlicensed",
+      "score": 8,
+      "url": "https://tedium.co/2025/07/21/the-game-genie-generation/",
+      "time": 1753120740.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44638300"
+    },
+    {
       "title": "UK backing down on Apple encryption backdoor after pressure from US",
-      "score": 48,
+      "score": 268,
       "url": "https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/",
       "time": 1753109200.0,
       "comments_url": "https://news.ycombinator.com/item?id=44635745"
     },
     {
-      "title": "Quadratic forms beyond arithmetic",
-      "score": 33,
-      "url": "https://www.ams.org/journals/notices/202507/noti3192/noti3192.html",
-      "time": 1752800361.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44600070"
+      "title": "Show HN: Pogocache – Fast caching software",
+      "score": 13,
+      "url": "https://github.com/tidwall/pogocache",
+      "time": 1753119750.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44638076"
     },
     {
-      "title": "“Dynamic programming” is not referring to “computer programming”",
-      "score": 322,
-      "url": "https://www.vidarholen.net/contents/blog/?p=1172",
-      "time": 1752836947.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44603349"
+      "title": "Amazon and the \"Profitless Business Model\" Fallacy",
+      "score": 15,
+      "url": "https://www.eugenewei.com/blog/2013/10/25/amazon-and-the-profitless-business-model-narrative",
+      "time": 1752899875.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44612643"
+    },
+    {
+      "title": "Memory Efficiency in iOS: Reducing footprint and beyond",
+      "score": 26,
+      "url": "https://antongubarenko.substack.com/p/memory-efficiency-in-ios-reducing",
+      "time": 1753113580.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44636774"
     },
     {
       "title": "We made Postgres writes faster, but it broke replication",
-      "score": 45,
+      "score": 139,
       "url": "https://www.paradedb.com/blog/lsm_trees_in_postgres",
       "time": 1753097164.0,
       "comments_url": "https://news.ycombinator.com/item?id=44633933"
     },
     {
-      "title": "The daily life of a medieval king",
-      "score": 197,
-      "url": "https://www.medievalists.net/2025/07/medieval-king-daily-life/",
-      "time": 1752785642.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44598090"
+      "title": "Hiding messages in a deck playing cards",
+      "score": 47,
+      "url": "https://asherfalcon.com/blog/posts/3",
+      "time": 1752849664.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44605169"
     },
     {
-      "title": "The Gentoo Perl versioning scheme",
-      "score": 62,
-      "url": "https://wiki.gentoo.org/wiki/Project:Perl/Version-Scheme",
-      "time": 1752961470.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44619709"
+      "title": "Make Map Icons with Orthographic Projections",
+      "score": 11,
+      "url": "https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/custom-orthographic-icons",
+      "time": 1753117266.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44637523"
     },
     {
-      "title": "Shale Drillers Turn on Each Other as Toxic Water Leaks Hit Biggest US Oil Field",
-      "score": 9,
-      "url": "https://www.bloomberg.com/news/articles/2025-07-21/toxic-water-leaks-from-top-us-oil-field-ensnare-devon-dvn-in-texas-court-fight",
-      "time": 1753109887.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44635919"
-    },
-    {
-      "title": "Spanish police arrest five over $542M crypto investment scheme",
-      "score": 25,
-      "url": "https://therecord.media/spain-europol-cryptocurrency-investment-scheme-takedown",
-      "time": 1753107571.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44635403"
+      "title": "Writing your Clojure tests in EDN files",
+      "score": 24,
+      "url": "https://biffweb.com/p/edn-tests/",
+      "time": 1752939419.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44616405"
     },
     {
       "title": "Extend (YC W23) is hiring engineers to build SOTA document processing",
@@ -79,67 +135,11 @@
       "comments_url": "https://news.ycombinator.com/item?id=44634166"
     },
     {
-      "title": "Log by time, not by count",
-      "score": 191,
-      "url": "https://johnscolaro.xyz/blog/log-by-time-not-by-count",
-      "time": 1753060555.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44630927"
-    },
-    {
-      "title": "Please, FOSS world, we need something like ChromeOS",
-      "score": 14,
-      "url": "https://www.theregister.com/2025/07/21/foss_chromeos_please/",
-      "time": 1753108763.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44635640"
-    },
-    {
-      "title": "The Sumerian Game: The ancestor of modern city builders",
-      "score": 52,
-      "url": "https://spillhistorie.no/2025/07/10/the-sumerian-game-the-ancestor-of-modern-city-builders/",
-      "time": 1752922363.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44614372"
-    },
-    {
-      "title": "ESP32-Faikin: ESP32 based module to control Daikin aircon units",
-      "score": 105,
-      "url": "https://github.com/revk/ESP32-Faikin",
-      "time": 1753069283.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44631594"
-    },
-    {
-      "title": "New colors without shooting lasers into your eyes",
-      "score": 498,
-      "url": "https://dynomight.net/colors/",
-      "time": 1752768077.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44594808"
-    },
-    {
-      "title": "XMLUI",
-      "score": 570,
-      "url": "https://blog.jonudell.net/2025/07/18/introducing-xmlui/",
-      "time": 1753020219.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44625292"
-    },
-    {
-      "title": "I've launched 37 products in 5 years and not doing that again",
-      "score": 47,
-      "url": "https://www.indiehackers.com/post/ive-launched-37-products-in-5-years-and-not-doing-that-again-0b66e6e8b3",
-      "time": 1753100844.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44634340"
-    },
-    {
-      "title": "Show HN: X11 desktop widget that shows location of your network peers on a map",
-      "score": 181,
-      "url": "https://github.com/h2337/connmap",
-      "time": 1753056985.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44630648"
-    },
-    {
-      "title": "Cryptocurrency exchanges begin offering tokenized securities",
-      "score": 31,
-      "url": "https://apnews.com/article/crypto-robinhood-openai-tokenization-sec-bfd41220717fe9b6ebcd0305005e0018",
-      "time": 1753103724.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44634734"
+      "title": "Shale Drillers Turn on Each Other as Toxic Water Leaks Hit Biggest US Oil Field",
+      "score": 118,
+      "url": "https://www.bloomberg.com/news/articles/2025-07-21/toxic-water-leaks-from-top-us-oil-field-ensnare-devon-dvn-in-texas-court-fight",
+      "time": 1753109887.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44635919"
     }
   ]
 }
