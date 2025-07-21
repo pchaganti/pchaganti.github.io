@@ -1,40 +1,75 @@
 {
-  "last_updated": "2025-07-21T08:26:24.729275-04:00",
+  "last_updated": "2025-07-21T11:13:36.869160-04:00",
   "stories": [
     {
-      "title": "“Dynamic Programming” is not referring to “computer programming”",
-      "score": 254,
+      "title": "Occasionally USPS sends me pictures of other people's mail",
+      "score": 25,
+      "url": "https://the418.substack.com/p/a-bug-in-the-mail",
+      "time": 1753109681.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44635867"
+    },
+    {
+      "title": "Using MacBook's trackpad as digital weighing scale",
+      "score": 20,
+      "url": "https://github.com/KrishKrosh/TrackWeight",
+      "time": 1753109473.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44635808"
+    },
+    {
+      "title": "UK backing down on Apple encryption backdoor after pressure from US",
+      "score": 48,
+      "url": "https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/",
+      "time": 1753109200.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44635745"
+    },
+    {
+      "title": "Quadratic forms beyond arithmetic",
+      "score": 33,
+      "url": "https://www.ams.org/journals/notices/202507/noti3192/noti3192.html",
+      "time": 1752800361.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44600070"
+    },
+    {
+      "title": "“Dynamic programming” is not referring to “computer programming”",
+      "score": 322,
       "url": "https://www.vidarholen.net/contents/blog/?p=1172",
       "time": 1752836947.0,
       "comments_url": "https://news.ycombinator.com/item?id=44603349"
     },
     {
-      "title": "The Daily Life of a Medieval King",
-      "score": 143,
+      "title": "We made Postgres writes faster, but it broke replication",
+      "score": 45,
+      "url": "https://www.paradedb.com/blog/lsm_trees_in_postgres",
+      "time": 1753097164.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44633933"
+    },
+    {
+      "title": "The daily life of a medieval king",
+      "score": 197,
       "url": "https://www.medievalists.net/2025/07/medieval-king-daily-life/",
       "time": 1752785642.0,
       "comments_url": "https://news.ycombinator.com/item?id=44598090"
     },
     {
-      "title": "Perl Versioning Scheme and Gentoo",
-      "score": 23,
+      "title": "The Gentoo Perl versioning scheme",
+      "score": 62,
       "url": "https://wiki.gentoo.org/wiki/Project:Perl/Version-Scheme",
       "time": 1752961470.0,
       "comments_url": "https://news.ycombinator.com/item?id=44619709"
     },
     {
-      "title": "Staying cool without refrigerants: Next-generation Peltier cooling",
-      "score": 331,
-      "url": "https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling",
-      "time": 1753042734.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44628930"
+      "title": "Shale Drillers Turn on Each Other as Toxic Water Leaks Hit Biggest US Oil Field",
+      "score": 9,
+      "url": "https://www.bloomberg.com/news/articles/2025-07-21/toxic-water-leaks-from-top-us-oil-field-ensnare-devon-dvn-in-texas-court-fight",
+      "time": 1753109887.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44635919"
     },
     {
-      "title": "Log by time, not by count",
-      "score": 152,
-      "url": "https://johnscolaro.xyz/blog/log-by-time-not-by-count",
-      "time": 1753060555.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44630927"
+      "title": "Spanish police arrest five over $542M crypto investment scheme",
+      "score": 25,
+      "url": "https://therecord.media/spain-europol-cryptocurrency-investment-scheme-takedown",
+      "time": 1753107571.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44635403"
     },
     {
       "title": "Extend (YC W23) is hiring engineers to build SOTA document processing",
@@ -44,102 +79,67 @@
       "comments_url": "https://news.ycombinator.com/item?id=44634166"
     },
     {
-      "title": "Show HN: X11 desktop widget that shows location of your network peers on a map",
-      "score": 162,
-      "url": "https://github.com/h2337/connmap",
-      "time": 1753056985.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44630648"
+      "title": "Log by time, not by count",
+      "score": 191,
+      "url": "https://johnscolaro.xyz/blog/log-by-time-not-by-count",
+      "time": 1753060555.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44630927"
+    },
+    {
+      "title": "Please, FOSS world, we need something like ChromeOS",
+      "score": 14,
+      "url": "https://www.theregister.com/2025/07/21/foss_chromeos_please/",
+      "time": 1753108763.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44635640"
+    },
+    {
+      "title": "The Sumerian Game: The ancestor of modern city builders",
+      "score": 52,
+      "url": "https://spillhistorie.no/2025/07/10/the-sumerian-game-the-ancestor-of-modern-city-builders/",
+      "time": 1752922363.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44614372"
     },
     {
       "title": "ESP32-Faikin: ESP32 based module to control Daikin aircon units",
-      "score": 76,
+      "score": 105,
       "url": "https://github.com/revk/ESP32-Faikin",
       "time": 1753069283.0,
       "comments_url": "https://news.ycombinator.com/item?id=44631594"
     },
     {
       "title": "New colors without shooting lasers into your eyes",
-      "score": 455,
+      "score": 498,
       "url": "https://dynomight.net/colors/",
       "time": 1752768077.0,
       "comments_url": "https://news.ycombinator.com/item?id=44594808"
     },
     {
-      "title": "The sumerian game early computer game",
-      "score": 30,
-      "url": "https://spillhistorie.no/2025/07/10/the-sumerian-game-the-ancestor-of-modern-city-builders/",
-      "time": 1752922363.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44614372"
-    },
-    {
-      "title": "Debugging Bash Like a Sire (2023)",
-      "score": 55,
-      "url": "https://blog.brujordet.no/post/bash/debugging_bash_like_a_sire/",
-      "time": 1752756688.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44592797"
-    },
-    {
       "title": "XMLUI",
-      "score": 544,
+      "score": 570,
       "url": "https://blog.jonudell.net/2025/07/18/introducing-xmlui/",
       "time": 1753020219.0,
       "comments_url": "https://news.ycombinator.com/item?id=44625292"
     },
     {
-      "title": "Agents built from alloys",
-      "score": 131,
-      "url": "https://xbow.com/blog/alloy-agents/",
-      "time": 1753057984.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44630724"
+      "title": "I've launched 37 products in 5 years and not doing that again",
+      "score": 47,
+      "url": "https://www.indiehackers.com/post/ive-launched-37-products-in-5-years-and-not-doing-that-again-0b66e6e8b3",
+      "time": 1753100844.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44634340"
     },
     {
-      "title": "Super-resolution microscopes reveal new details of cells and disease",
-      "score": 13,
-      "url": "https://knowablemagazine.org/content/article/technology/2025/super-resolution-microscopes-reveal-new-details-cells",
-      "time": 1752873214.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44609893"
+      "title": "Show HN: X11 desktop widget that shows location of your network peers on a map",
+      "score": 181,
+      "url": "https://github.com/h2337/connmap",
+      "time": 1753056985.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44630648"
     },
     {
-      "title": "France launches criminal probe of X over alleged algorithm ‘manipulation’",
-      "score": 18,
-      "url": "https://www.ft.com/content/21818d23-71d7-45a4-ae8c-e7940f5d9e00",
-      "time": 1753096951.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44633902"
-    },
-    {
-      "title": "Simulating hand-drawn motion with SVG filters",
-      "score": 237,
-      "url": "https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters",
-      "time": 1752743546.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44591305"
-    },
-    {
-      "title": "Coding with LLMs in the summer of 2025 – an update",
-      "score": 527,
-      "url": "https://antirez.com/news/154",
-      "time": 1753009442.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44623953"
-    },
-    {
-      "title": "Structuring Arrays with Algebraic Shapes [video]",
-      "score": 23,
-      "url": "https://www.youtube.com/watch?v=3Lbs0pJ_OHI",
-      "time": 1752842929.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44604127"
-    },
-    {
-      "title": "Using the Matrix Cores of AMD RDNA 4 architecture GPUs",
-      "score": 64,
-      "url": "https://gpuopen.com/learn/using_matrix_core_amd_rdna4/",
-      "time": 1752844413.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44604311"
-    },
-    {
-      "title": "Stdio(3) change: FILE is now opaque",
-      "score": 150,
-      "url": "https://undeadly.org/cgi?action=article;sid=20250717103345",
-      "time": 1753035520.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44627793"
+      "title": "Cryptocurrency exchanges begin offering tokenized securities",
+      "score": 31,
+      "url": "https://apnews.com/article/crypto-robinhood-openai-tokenization-sec-bfd41220717fe9b6ebcd0305005e0018",
+      "time": 1753103724.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44634734"
     }
   ]
 }
