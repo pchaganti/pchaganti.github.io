@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-20T17:11:13.085745-04:00",
+  "last_updated": "2025-07-20T21:06:42.957292-04:00",
   "papers": [
     {
       "title": "VideoITG: Multimodal Video Understanding with Instructed Temporal\n  Grounding",
@@ -76,7 +76,7 @@
     {
       "title": "Automatically assessing oral narratives of Afrikaans and isiXhosa\n  children",
       "summary": "Developing narrative and comprehension skills in early childhood is critical\nfor later literacy. However, teachers in large preschool classrooms struggle to\naccurately identify students who require intervention. We present a system for\nautomatically assessing oral narratives of preschool children in Afrikaans and\nisiXhosa. The system uses automatic speech recognition followed by a machine\nlearning scoring model to predict narrative and comprehension scores. For\nscoring predicted transcripts, we compare a linear model to a large language\nmodel (LLM). The LLM-based system outperforms the linear model in most cases,\nbut the linear system is competitive despite its simplicity. The LLM-based\nsystem is comparable to a human expert in flagging children who require\nintervention. We lay the foundation for automatic oral assessments in\nclassrooms, giving teachers extra capacity to focus on personalised support for\nchildren's learning.",
-      "url": "http://arxiv.org/abs/2507.13205v1",
+      "url": "http://arxiv.org/abs/2507.13205v2",
       "published_time_eastern_timestamp": 1752765343.0
     },
     {
