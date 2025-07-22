@@ -1,75 +1,103 @@
 {
-  "last_updated": "2025-07-22T05:17:38.694011-04:00",
+  "last_updated": "2025-07-22T08:25:28.807146-04:00",
   "stories": [
     {
+      "title": "How to Firefox",
+      "score": 114,
+      "url": "https://kau.sh/blog/how-to-firefox/",
+      "time": 1753181490.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44645353"
+    },
+    {
       "title": "Complete silence is always hallucinated as \"ترجمة نانسي قنقر\" in Arabic",
-      "score": 230,
+      "score": 369,
       "url": "https://github.com/openai/whisper/discussions/2608",
       "time": 1753162930.0,
       "comments_url": "https://news.ycombinator.com/item?id=44643564"
     },
     {
       "title": "Global hack on Microsoft Sharepoint hits U.S., state agencies, researchers say",
-      "score": 620,
+      "score": 680,
       "url": "https://www.washingtonpost.com/technology/2025/07/20/microsoft-sharepoint-hack/",
       "time": 1753048686.0,
       "comments_url": "https://news.ycombinator.com/item?id=44629710"
     },
     {
       "title": "Uv: Running a script with dependencies",
-      "score": 315,
+      "score": 373,
       "url": "https://docs.astral.sh/uv/guides/scripts/#running-a-script-with-dependencies",
       "time": 1753140400.0,
       "comments_url": "https://news.ycombinator.com/item?id=44641521"
     },
     {
-      "title": "How to Migrate from OpenAI to Cerebrium for Cost-Predictable AI Inference",
-      "score": 11,
-      "url": "https://ritza.co/articles/migrate-from-openai-to-cerebrium-with-vllm-for-predictable-inference/",
-      "time": 1753171717.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44644404"
+      "title": "The .a File Is a Relic: Why Static Archives Were a Bad Idea All Along",
+      "score": 33,
+      "url": "https://medium.com/@eyal.itkin/the-a-file-is-a-relic-why-static-archives-were-a-bad-idea-all-along-8cd1cf6310c5",
+      "time": 1752915599.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44613791"
     },
     {
       "title": "An unprecedented window into how diseases take hold years before symptoms appear",
-      "score": 44,
+      "score": 90,
       "url": "https://www.bloomberg.com/news/articles/2025-07-18/what-scientists-learned-scanning-the-bodies-of-100-000-brits",
       "time": 1752828956.0,
       "comments_url": "https://news.ycombinator.com/item?id=44602609"
     },
     {
-      "title": "AI comes up with bizarre physics experiments, but they work",
-      "score": 182,
-      "url": "https://www.quantamagazine.org/ai-comes-up-with-bizarre-physics-experiments-but-they-work-20250721/",
-      "time": 1753147729.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44642349"
-    },
-    {
       "title": "Jujutsu for busy devs",
-      "score": 169,
+      "score": 238,
       "url": "https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs",
       "time": 1753143708.0,
       "comments_url": "https://news.ycombinator.com/item?id=44641961"
     },
     {
       "title": "What went wrong inside recalled Anker PowerCore 10000 power banks?",
-      "score": 402,
+      "score": 441,
       "url": "https://www.lumafield.com/article/what-went-wrong-inside-these-recalled-power-banks",
       "time": 1753122131.0,
       "comments_url": "https://news.ycombinator.com/item?id=44638580"
     },
     {
-      "title": "What happens when an octopus engages with art?",
-      "score": 31,
-      "url": "https://www.cnn.com/2025/07/17/style/what-happens-when-an-octopus-engages-with-art",
-      "time": 1752824149.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44602197"
-    },
-    {
       "title": "Python Audio Processing with Pedalboard",
-      "score": 9,
+      "score": 32,
       "url": "https://lwn.net/Articles/1027814/",
       "time": 1752842200.0,
       "comments_url": "https://news.ycombinator.com/item?id=44604024"
+    },
+    {
+      "title": "TrackWeight: Turn your MacBook's trackpad into a digital weighing scale",
+      "score": 569,
+      "url": "https://github.com/KrishKrosh/TrackWeight",
+      "time": 1753109473.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44635808"
+    },
+    {
+      "title": "AccountingBench: Evaluating LLMs on real long-horizon business tasks",
+      "score": 484,
+      "url": "https://accounting.penrose.com/",
+      "time": 1753116508.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44637352"
+    },
+    {
+      "title": "Don't bother parsing: Just use images for RAG",
+      "score": 278,
+      "url": "https://www.morphik.ai/blog/stop-parsing-docs",
+      "time": 1753118201.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44637715"
+    },
+    {
+      "title": "AI comes up with bizarre physics experiments, but they work",
+      "score": 210,
+      "url": "https://www.quantamagazine.org/ai-comes-up-with-bizarre-physics-experiments-but-they-work-20250721/",
+      "time": 1753147729.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44642349"
+    },
+    {
+      "title": "Show HN: A rudimentary game engine to build four dimensional VR evironments",
+      "score": 20,
+      "url": "https://www.brainpaingames.com/Hypershack.html",
+      "time": 1752956613.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44619020"
     },
     {
       "title": "Kapa.ai (YC S23) is hiring a software engineers (EU remote)",
@@ -79,67 +107,39 @@
       "comments_url": "https://news.ycombinator.com/item?id=44643981"
     },
     {
-      "title": "TrackWeight: Turn your MacBook's trackpad into a digital weighing scale",
-      "score": 540,
-      "url": "https://github.com/KrishKrosh/TrackWeight",
-      "time": 1753109473.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44635808"
+      "title": "Largest piece of Mars on Earth fetches $5.3M at auction",
+      "score": 4,
+      "url": "https://apnews.com/article/mars-rock-meteorite-auction-dinosaur-sothebys-01d7ccfc8dc580ad86f8e97a305fc8fa",
+      "time": 1752868882.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44609154"
     },
     {
-      "title": "AccountingBench: Evaluating LLMs on real long-horizon business tasks",
-      "score": 465,
-      "url": "https://accounting.penrose.com/",
-      "time": 1753116508.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44637352"
-    },
-    {
-      "title": "Don't bother parsing: Just use images for RAG",
-      "score": 251,
-      "url": "https://www.morphik.ai/blog/stop-parsing-docs",
-      "time": 1753118201.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44637715"
-    },
-    {
-      "title": "Look up macOS system binaries",
-      "score": 36,
-      "url": "https://macosbin.com",
-      "time": 1752856302.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44606653"
-    },
-    {
-      "title": "New records on Wendelstein 7-X",
-      "score": 218,
-      "url": "https://www.iter.org/node/20687/new-records-wendelstein-7-x",
-      "time": 1753111121.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44636204"
-    },
-    {
-      "title": "Erlang 28 on GRiSP Nano using only 16 MB",
-      "score": 152,
-      "url": "https://www.grisp.org/blog/posts/2025-06-11-grisp-nano-codebeam-sto",
-      "time": 1753126815.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44639524"
+      "title": "How to Migrate from OpenAI to Cerebrium for Cost-Predictable AI Inference",
+      "score": 23,
+      "url": "https://ritza.co/articles/migrate-from-openai-to-cerebrium-with-vllm-for-predictable-inference/",
+      "time": 1753171717.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44644404"
     },
     {
       "title": "Nasa’s X-59 quiet supersonic aircraft begins taxi tests",
-      "score": 74,
+      "score": 93,
       "url": "https://www.nasa.gov/image-article/nasas-x-59-quiet-supersonic-aircraft-begins-taxi-tests/",
       "time": 1752928875.0,
       "comments_url": "https://news.ycombinator.com/item?id=44615033"
     },
     {
-      "title": "Losing language features: some stories about disjoint unions",
-      "score": 79,
-      "url": "https://graydon2.dreamwidth.org/318788.html",
-      "time": 1752850036.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44605245"
+      "title": "'Shameful' CBA hiring Indian ICT workers after firing Australians",
+      "score": 98,
+      "url": "https://ia.acs.org.au/article/2025/-shameful--cba-hiring-indian-ict-workers-after-firing-australian.html",
+      "time": 1753174184.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44644645"
     },
     {
-      "title": "The Game Genie Generation",
-      "score": 125,
-      "url": "https://tedium.co/2025/07/21/the-game-genie-generation/",
-      "time": 1753120740.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44638300"
+      "title": "Erlang 28 on GRiSP Nano using only 16 MB",
+      "score": 170,
+      "url": "https://www.grisp.org/blog/posts/2025-06-11-grisp-nano-codebeam-sto",
+      "time": 1753126815.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44639524"
     }
   ]
 }
