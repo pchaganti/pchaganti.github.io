@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-07-21T17:12:02.554698-04:00",
+  "last_updated": "2025-07-21T21:02:53.847156-04:00",
   "stories": [
     {
       "title": "Global hack on Microsoft Sharepoint hits U.S., state agencies, researchers say",
-      "score": 115,
+      "score": 365,
       "url": "https://www.washingtonpost.com/technology/2025/07/20/microsoft-sharepoint-hack/",
       "time": 1753048686.0,
       "comments_url": "https://news.ycombinator.com/item?id=44629710"
     },
     {
+      "title": "Uv: Running a script with dependencies",
+      "score": 60,
+      "url": "https://docs.astral.sh/uv/guides/scripts/#running-a-script-with-dependencies",
+      "time": 1753140400.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44641521"
+    },
+    {
+      "title": "If writing is thinking then what happens if AI is doing the writing and reading?",
+      "score": 35,
+      "url": "https://hardcoresoftware.learningbyshipping.com/p/234-if-writing-is-thinking",
+      "time": 1753141515.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44641669"
+    },
+    {
+      "title": "Jujutsu for Busy Devs",
+      "score": 13,
+      "url": "https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs",
+      "time": 1753143708.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44641961"
+    },
+    {
       "title": "What went wrong inside recalled Anker PowerCore 10000 power banks?",
-      "score": 166,
+      "score": 273,
       "url": "https://www.lumafield.com/article/what-went-wrong-inside-these-recalled-power-banks",
       "time": 1753122131.0,
       "comments_url": "https://news.ycombinator.com/item?id=44638580"
     },
     {
       "title": "AccountingBench: Evaluating LLMs on real long-horizon business tasks",
-      "score": 291,
+      "score": 381,
       "url": "https://accounting.penrose.com/",
       "time": 1753116508.0,
       "comments_url": "https://news.ycombinator.com/item?id=44637352"
     },
     {
       "title": "Don't bother parsing: Just use images for RAG",
-      "score": 78,
+      "score": 164,
       "url": "https://www.morphik.ai/blog/stop-parsing-docs",
       "time": 1753118201.0,
       "comments_url": "https://news.ycombinator.com/item?id=44637715"
     },
     {
       "title": "TrackWeight: Turn your MacBook's trackpad into a digital weighing scale",
-      "score": 382,
+      "score": 453,
       "url": "https://github.com/KrishKrosh/TrackWeight",
       "time": 1753109473.0,
       "comments_url": "https://news.ycombinator.com/item?id=44635808"
     },
     {
+      "title": "Losing language features: some stories about disjoint unions",
+      "score": 20,
+      "url": "https://graydon2.dreamwidth.org/318788.html",
+      "time": 1752850036.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44605245"
+    },
+    {
       "title": "Scarcity, Inventory, and Inequity: A Deep Dive into Airline Fare Buckets",
-      "score": 37,
+      "score": 78,
       "url": "https://blog.getjetback.com/scarcity-inventory-and-inequity-a-deep-dive-into-airline-fare-buckets/",
       "time": 1753126303.0,
       "comments_url": "https://news.ycombinator.com/item?id=44639421"
     },
     {
       "title": "New records on Wendelstein 7-X",
-      "score": 158,
+      "score": 180,
       "url": "https://www.iter.org/node/20687/new-records-wendelstein-7-x",
       "time": 1753111121.0,
       "comments_url": "https://news.ycombinator.com/item?id=44636204"
     },
     {
-      "title": "Jqfmt like gofmt, but for jq",
-      "score": 101,
-      "url": "https://github.com/noperator/jqfmt",
-      "time": 1753118204.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44637716"
-    },
-    {
-      "title": "Game Genie Retrospective: The Best NES Accessory Ever Was Unlicensed",
-      "score": 68,
-      "url": "https://tedium.co/2025/07/21/the-game-genie-generation/",
-      "time": 1753120740.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44638300"
-    },
-    {
-      "title": "Show HN: Lotas – Cursor for RStudio",
-      "score": 32,
-      "url": "https://www.lotas.ai/",
-      "time": 1753121770.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44638510"
-    },
-    {
-      "title": "The Fundamentals of Asyncio",
-      "score": 53,
-      "url": "https://github.com/anordin95/a-conceptual-overview-of-asyncio/blob/main/readme.md",
-      "time": 1753122746.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44638710"
-    },
-    {
-      "title": "The special hell of Bolt, Europe's Uber clone",
-      "score": 17,
-      "url": "https://brandur.org/fragments/special-hell-of-bolt-app",
-      "time": 1753129420.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44640005"
-    },
-    {
-      "title": "Gemini with Deep Think officially achieves gold-medal standard at the IMO",
-      "score": 357,
-      "url": "https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/",
-      "time": 1753115773.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44637191"
-    },
-    {
       "title": "Erlang 28 on GRiSP Nano using only 16 MB",
-      "score": 24,
+      "score": 95,
       "url": "https://www.grisp.org/blog/posts/2025-06-11-grisp-nano-codebeam-sto",
       "time": 1753126815.0,
       "comments_url": "https://news.ycombinator.com/item?id=44639524"
     },
     {
+      "title": "Spice Data (YC S19) Is Hiring a Product Associate (New Grad)",
+      "score": 1,
+      "url": "https://www.ycombinator.com/companies/spice-data/jobs/RJz1peY-product-associate-new-grad",
+      "time": 1753133483.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44640651"
+    },
+    {
+      "title": "LetsEncrypt Outage",
+      "score": 130,
+      "url": "https://letsencrypt.status.io/",
+      "time": 1753136968.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44641117"
+    },
+    {
+      "title": "Game Genie Retrospective: The Best NES Accessory Ever Was Unlicensed",
+      "score": 102,
+      "url": "https://tedium.co/2025/07/21/the-game-genie-generation/",
+      "time": 1753120740.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44638300"
+    },
+    {
+      "title": "Sutton SignWriting is a writing system for sign languages",
+      "score": 17,
+      "url": "https://en.m.wikipedia.org/wiki/SignWriting",
+      "time": 1752926080.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44614747"
+    },
+    {
+      "title": "The Fundamentals of Asyncio",
+      "score": 94,
+      "url": "https://github.com/anordin95/a-conceptual-overview-of-asyncio/blob/main/readme.md",
+      "time": 1753122746.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44638710"
+    },
+    {
+      "title": "Show HN: Lotas – Cursor for RStudio",
+      "score": 54,
+      "url": "https://www.lotas.ai/",
+      "time": 1753121770.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44638510"
+    },
+    {
       "title": "Occasionally USPS sends me pictures of other people's mail",
-      "score": 121,
+      "score": 151,
       "url": "https://the418.substack.com/p/a-bug-in-the-mail",
       "time": 1753109681.0,
       "comments_url": "https://news.ycombinator.com/item?id=44635867"
     },
     {
-      "title": "Jane Jacobs Got Americans Stuck",
-      "score": 9,
-      "url": "https://www.riskgaming.com/p/how-jane-jacobs-got-americans-stuck",
-      "time": 1753130590.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44640178"
-    },
-    {
-      "title": "MIPS – The hyperactive history and legacy of the pioneering RISC architecture",
-      "score": 26,
-      "url": "https://thechipletter.substack.com/p/mips",
-      "time": 1753122680.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44638689"
-    },
-    {
-      "title": "SecretSpec: Declarative Secrets Management",
-      "score": 95,
-      "url": "https://devenv.sh/blog/2025/07/21/announcing-secretspec-declarative-secrets-management/",
-      "time": 1753113243.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44636691"
-    },
-    {
-      "title": "Modern Debian-based Window Maker distribution",
-      "score": 60,
-      "url": "https://wmlive.sourceforge.net/",
-      "time": 1753115563.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44637151"
-    },
-    {
-      "title": "Amazon and the \"Profitless Business Model\" Fallacy",
-      "score": 59,
-      "url": "https://www.eugenewei.com/blog/2013/10/25/amazon-and-the-profitless-business-model-narrative",
-      "time": 1752899875.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44612643"
+      "title": "UK backing down on Apple encryption backdoor after pressure from US",
+      "score": 420,
+      "url": "https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/",
+      "time": 1753109200.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44635745"
     }
   ]
 }
