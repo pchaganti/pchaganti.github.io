@@ -1,96 +1,131 @@
 {
-  "last_updated": "2025-07-22T21:03:53.390168-04:00",
+  "last_updated": "2025-07-22T23:57:24.171188-04:00",
   "stories": [
     {
       "title": "Qwen3-Coder: Agentic coding in the world",
-      "score": 238,
+      "score": 363,
       "url": "https://qwenlm.github.io/blog/qwen3-coder/",
       "time": 1753218750.0,
       "comments_url": "https://news.ycombinator.com/item?id=44653072"
     },
     {
-      "title": "You can't color calibrate deep space photos",
-      "score": 19,
-      "url": "https://maurycyz.com/misc/cc/",
-      "time": 1753229778.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44654444"
-    },
-    {
       "title": "More than you wanted to know about how Game Boy cartridges work",
-      "score": 170,
+      "score": 222,
       "url": "https://abc.decontextualize.com/more-than-you-wanted-to-know/",
       "time": 1753211858.0,
       "comments_url": "https://news.ycombinator.com/item?id=44651770"
     },
     {
+      "title": "Algorithms for Modern Processor Architectures",
+      "score": 93,
+      "url": "https://lemire.github.io/talks/2025/sea/sea2025.html",
+      "time": 1753225015.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44653965"
+    },
+    {
       "title": "Android Earthquake Alerts: A global system for early warning",
-      "score": 170,
+      "score": 212,
       "url": "https://research.google/blog/android-earthquake-alerts-a-global-system-for-early-warning/",
       "time": 1753208594.0,
       "comments_url": "https://news.ycombinator.com/item?id=44651092"
     },
     {
       "title": "Swift-erlang-actor-system",
-      "score": 212,
+      "score": 236,
       "url": "https://forums.swift.org/t/introducing-swift-erlang-actor-system/81248",
       "time": 1753210744.0,
       "comments_url": "https://news.ycombinator.com/item?id=44651539"
     },
     {
-      "title": "Algorithms for Modern Processor Architectures",
-      "score": 33,
-      "url": "https://lemire.github.io/talks/2025/sea/sea2025.html",
-      "time": 1753225015.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44653965"
-    },
-    {
       "title": "We built an air-gapped Jira alternative for regulated industries",
-      "score": 135,
+      "score": 178,
       "url": "https://plane.so/blog/everything-you-need-to-know-about-plane-air-gapped",
       "time": 1753211852.0,
       "comments_url": "https://news.ycombinator.com/item?id=44651766"
     },
     {
-      "title": "A media company demanded a license fee for an Open Graph image I used on Twitter",
-      "score": 52,
-      "url": "https://alistairshepherd.uk/writing/open-graph-licensing/",
-      "time": 1753230463.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44654494"
-    },
-    {
-      "title": "Comparing the Glove80 and Maltron Keyboards",
-      "score": 31,
-      "url": "https://tratt.net/laurie/blog/2025/comparing_the_glove80_and_maltron_keyboards.html",
-      "time": 1753222345.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44653586"
-    },
-    {
-      "title": "Why Does Raising the Retirement Age Hurt Young People?",
-      "score": 6,
-      "url": "https://www.governance.fyi/p/why-does-raising-the-retirement-age",
-      "time": 1753230440.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44654493"
-    },
-    {
-      "title": "Subliminal learning: Models transmit behaviors via hidden signals in data",
-      "score": 114,
-      "url": "https://alignment.anthropic.com/2025/subliminal-learning/",
-      "time": 1753207331.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44650840"
-    },
-    {
       "title": "Don't animate height",
-      "score": 272,
+      "score": 313,
       "url": "https://www.granola.ai/blog/dont-animate-height",
       "time": 1752957859.0,
       "comments_url": "https://news.ycombinator.com/item?id=44619206"
     },
     {
-      "title": "Americans are paying for tariffs, not foreign companies",
-      "score": 84,
-      "url": "https://www.bloomberg.com/news/articles/2025-07-22/us-companies-and-consumers-are-paying-for-trump-s-tariffs",
-      "time": 1753211124.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44651616"
+      "title": "Subliminal learning: Models transmit behaviors via hidden signals in data",
+      "score": 137,
+      "url": "https://alignment.anthropic.com/2025/subliminal-learning/",
+      "time": 1753207331.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44650840"
+    },
+    {
+      "title": "TapTrap: Animation‑Driven Tapjacking on Android",
+      "score": 39,
+      "url": "https://taptrap.click/",
+      "time": 1753228519.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44654299"
+    },
+    {
+      "title": "TODOs aren't for doing",
+      "score": 298,
+      "url": "https://sophiebits.com/2025/07/21/todos-arent-for-doing",
+      "time": 1753191796.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44646801"
+    },
+    {
+      "title": "I watched Gemini CLI hallucinate and delete my files",
+      "score": 106,
+      "url": "https://anuraag2601.github.io/gemini_cli_disaster.html",
+      "time": 1753210445.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44651485"
+    },
+    {
+      "title": "Comparing the Glove80 and Maltron Keyboards",
+      "score": 42,
+      "url": "https://tratt.net/laurie/blog/2025/comparing_the_glove80_and_maltron_keyboards.html",
+      "time": 1753222345.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44653586"
+    },
+    {
+      "title": "Gemini North telescope discovers long-predicted stellar companion of Betelgeuse",
+      "score": 111,
+      "url": "https://www.science.org/content/article/betelgeuse-s-long-predicted-stellar-companion-may-have-been-found-last",
+      "time": 1753202491.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44649651"
+    },
+    {
+      "title": "Hegel Dust",
+      "score": 18,
+      "url": "https://www.bookforum.com/print/3201/hegel-dust-62209",
+      "time": 1753111405.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44636277"
+    },
+    {
+      "title": "Show HN: Phind.design – Image editor & design tool powered by 4o / custom models",
+      "score": 39,
+      "url": "https://phind.design",
+      "time": 1753206273.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44650622"
+    },
+    {
+      "title": "A media company demanded a license fee for an Open Graph image I used",
+      "score": 110,
+      "url": "https://alistairshepherd.uk/writing/open-graph-licensing/",
+      "time": 1753230463.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44654494"
+    },
+    {
+      "title": "Font Comparison: Atkinson Hyperlegible Mono vs. JetBrains Mono and Fira Code",
+      "score": 186,
+      "url": "https://www.anthes.is/font-comparison-review-atkinson-hyperlegible-mono.html",
+      "time": 1753193825.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44647190"
+    },
+    {
+      "title": "Show HN: Compass CNC – Open-source handheld CNC router",
+      "score": 121,
+      "url": "https://www.compassrouter.com",
+      "time": 1752911295.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44613438"
     },
     {
       "title": "Firebender (YC W24) Is Hiring",
@@ -100,46 +135,11 @@
       "comments_url": "https://news.ycombinator.com/item?id=44652938"
     },
     {
-      "title": "TODOs aren't for doing",
-      "score": 259,
-      "url": "https://sophiebits.com/2025/07/21/todos-arent-for-doing",
-      "time": 1753191796.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44646801"
-    },
-    {
-      "title": "Gemini North telescope discovers long-predicted stellar companion of Betelgeuse",
-      "score": 100,
-      "url": "https://www.science.org/content/article/betelgeuse-s-long-predicted-stellar-companion-may-have-been-found-last",
-      "time": 1753202491.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44649651"
-    },
-    {
-      "title": "NonRAID – fork of unRAID array kernel module",
-      "score": 47,
-      "url": "https://github.com/qvr/nonraid",
-      "time": 1753215378.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44652482"
-    },
-    {
-      "title": "Show HN: Compass CNC – Open-source handheld CNC router",
-      "score": 105,
-      "url": "https://www.compassrouter.com",
-      "time": 1752911295.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44613438"
-    },
-    {
-      "title": "Font Comparison: Atkinson Hyperlegible Mono vs. JetBrains Mono and Fira Code",
-      "score": 172,
-      "url": "https://www.anthes.is/font-comparison-review-atkinson-hyperlegible-mono.html",
-      "time": 1753193825.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44647190"
-    },
-    {
-      "title": "Hegel Dust",
-      "score": 4,
-      "url": "https://www.bookforum.com/print/3201/hegel-dust-62209",
-      "time": 1753111405.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44636277"
+      "title": "No Cheese Please",
+      "score": 3,
+      "url": "https://www.lrb.co.uk/the-paper/v47/n13/anthony-grafton/no-cheese-please",
+      "time": 1753108931.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44635676"
     }
   ]
 }
