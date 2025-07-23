@@ -1,47 +1,82 @@
 {
-  "last_updated": "2025-07-23T08:25:44.976767-04:00",
+  "last_updated": "2025-07-23T11:14:11.301127-04:00",
   "stories": [
     {
-      "title": "Cerebras Launches Qwen3-235B, Achieving 1,500 Tokens per Second",
-      "score": 74,
+      "title": "Reverse engineering GitHub Actions cache to make it fast",
+      "score": 59,
+      "url": "https://www.blacksmith.sh/blog/cache",
+      "time": 1753276663.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44658909"
+    },
+    {
+      "title": "Proxmox Donates €10k to the Perl and Raku Foundation",
+      "score": 12,
+      "url": "https://www.perl.com/article/proxmox-donates-to-tprf/",
+      "time": 1753282102.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44659822"
+    },
+    {
+      "title": "Using Radicle CI",
+      "score": 41,
+      "url": "https://radicle.xyz/2025/07/23/using-radicle-ci-for-development",
+      "time": 1753276141.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44658820"
+    },
+    {
+      "title": "Stop Building AI Tools Backwards",
+      "score": 5,
+      "url": "https://hazelweakly.me/blog/stop-building-ai-tools-backwards/",
+      "time": 1753282591.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44659921"
+    },
+    {
+      "title": "Cerebras launches Qwen3-235B, achieving 1.5k tokens per second",
+      "score": 239,
       "url": "https://www.cerebras.ai/press-release/cerebras-launches-qwen3-235b-world-s-fastest-frontier-ai-model-with-full-131k-context-support",
       "time": 1753267911.0,
       "comments_url": "https://news.ycombinator.com/item?id=44657727"
     },
     {
-      "title": "Show HN: Header-only GIF decoder in pure C – no malloc, easy to use",
-      "score": 19,
-      "url": "https://news.ycombinator.com/item?id=44658027",
-      "time": 1753270593.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44658027"
+      "title": "Reverse Engineering the GHA Cache to Improve Performance",
+      "score": 5,
+      "url": "https://depot.dev/blog/github-actions-cache",
+      "time": 1753283067.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44660041"
     },
     {
-      "title": "Brave blocks Microsoft Recall by default",
-      "score": 83,
-      "url": "https://brave.com/privacy-updates/35-block-recall/",
-      "time": 1753263203.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44657291"
+      "title": "Manticore Search: Fast, efficient, drop-in replacement for Elasticsearch",
+      "score": 27,
+      "url": "https://github.com/manticoresoftware/manticoresearch",
+      "time": 1753277029.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44658978"
     },
     {
-      "title": "Qwen3-Coder: Agentic coding in the world",
-      "score": 635,
-      "url": "https://qwenlm.github.io/blog/qwen3-coder/",
-      "time": 1753218750.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44653072"
+      "title": "Uber will let women drivers and riders request to avoid being paired with men",
+      "score": 31,
+      "url": "https://www.cnbc.com/2025/07/23/uber-women-drivers-riders.html",
+      "time": 1753281041.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44659635"
     },
     {
-      "title": "Extending Emacs with Fennel (2024)",
-      "score": 85,
-      "url": "https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/",
-      "time": 1753250061.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44656073"
+      "title": "Geocities Backgrounds",
+      "score": 77,
+      "url": "https://pixelmoondust.neocities.org/archives/archivedtiles",
+      "time": 1753062142.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44631042"
     },
     {
-      "title": "AI groups spend to replace low-cost 'data labellers' with high-paid experts",
-      "score": 70,
-      "url": "https://www.ft.com/content/e17647f0-4c3b-49b4-a031-b56158bbb3b8",
-      "time": 1752994923.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44622637"
+      "title": "20 years of Linux on the Desktop (part 4)",
+      "score": 73,
+      "url": "https://ploum.net/2025-07-23-linux_desktop4.html",
+      "time": 1753275802.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44658770"
+    },
+    {
+      "title": "Cops say criminals use a Google Pixel with GrapheneOS – I say that's freedom",
+      "score": 167,
+      "url": "https://www.androidauthority.com/why-i-use-grapheneos-on-pixel-3575477/",
+      "time": 1753276658.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44658908"
     },
     {
       "title": "QuestDB (YC S20) Is Hiring a Technical Content Lead",
@@ -51,95 +86,60 @@
       "comments_url": "https://news.ycombinator.com/item?id=44658233"
     },
     {
-      "title": "Geocities Backgrounds",
-      "score": 15,
-      "url": "https://pixelmoondust.neocities.org/archives/archivedtiles",
-      "time": 1753062142.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44631042"
+      "title": "The Surprising gRPC Client Bottleneck in Low-Latency Networks",
+      "score": 25,
+      "url": "https://blog.ydb.tech/the-surprising-grpc-client-bottleneck-in-low-latency-networks-and-how-to-get-around-it-69d6977a1d02",
+      "time": 1753277000.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44658973"
+    },
+    {
+      "title": "Reversing a Fingerprint Reader Protocol (2021)",
+      "score": 21,
+      "url": "https://blog.th0m.as/misc/fingerprint-reversing/",
+      "time": 1752962557.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44619835"
+    },
+    {
+      "title": "Qwen3-Coder: Agentic coding in the world",
+      "score": 680,
+      "url": "https://qwenlm.github.io/blog/qwen3-coder/",
+      "time": 1753218750.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44653072"
+    },
+    {
+      "title": "AI groups spend to replace low-cost 'data labellers' with high-paid experts",
+      "score": 111,
+      "url": "https://www.ft.com/content/e17647f0-4c3b-49b4-a031-b56158bbb3b8",
+      "time": 1752994923.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44622637"
     },
     {
       "title": "SQL Injection as a Feature",
-      "score": 20,
+      "score": 49,
       "url": "https://idiallo.com/blog/sql-injection-as-a-feature",
       "time": 1753120763.0,
       "comments_url": "https://news.ycombinator.com/item?id=44638304"
     },
     {
-      "title": "Mathematics for Computer Science (2024)",
-      "score": 167,
-      "url": "https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/",
-      "time": 1753242438.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44655565"
+      "title": "Extending Emacs with Fennel (2024)",
+      "score": 117,
+      "url": "https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/",
+      "time": 1753250061.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44656073"
     },
     {
-      "title": "More than you wanted to know about how Game Boy cartridges work",
-      "score": 331,
-      "url": "https://abc.decontextualize.com/more-than-you-wanted-to-know/",
-      "time": 1753211858.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44651770"
+      "title": "When Is WebAssembly Going to Get DOM Support?",
+      "score": 100,
+      "url": "https://queue.acm.org/detail.cfm?id=3746174",
+      "time": 1753247784.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44655921"
     },
     {
-      "title": "Rescuing two PDP-11s from a former British Telecom underground shelter (2023)",
-      "score": 70,
-      "url": "https://forum.vcfed.org/index.php?threads/rescuing-two-pdp-11-systems-in-uk-from-a-former-big-british-telecom-underground-shelter-in-central-london.1244723/page-2",
-      "time": 1753250560.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44656105"
-    },
-    {
-      "title": "Org tutorials",
-      "score": 110,
-      "url": "https://orgmode.org/worg/org-tutorials/index.html",
-      "time": 1753240160.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44655385"
-    },
-    {
-      "title": "Algorithms for Modern Processor Architectures",
-      "score": 210,
-      "url": "https://lemire.github.io/talks/2025/sea/sea2025.html",
-      "time": 1753225015.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44653965"
-    },
-    {
-      "title": "Android Earthquake Alerts: A global system for early warning",
-      "score": 292,
-      "url": "https://research.google/blog/android-earthquake-alerts-a-global-system-for-early-warning/",
-      "time": 1753208594.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44651092"
-    },
-    {
-      "title": "Why you can't color calibrate deep space photos",
-      "score": 156,
-      "url": "https://maurycyz.com/misc/cc/",
-      "time": 1753229778.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44654444"
-    },
-    {
-      "title": "I watched Gemini CLI hallucinate and delete my files",
-      "score": 224,
-      "url": "https://anuraag2601.github.io/gemini_cli_disaster.html",
-      "time": 1753210445.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44651485"
-    },
-    {
-      "title": "Swift-erlang-actor-system",
-      "score": 289,
-      "url": "https://forums.swift.org/t/introducing-swift-erlang-actor-system/81248",
-      "time": 1753210744.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44651539"
-    },
-    {
-      "title": "Don't animate height",
-      "score": 411,
-      "url": "https://www.granola.ai/blog/dont-animate-height",
-      "time": 1752957859.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44619206"
-    },
-    {
-      "title": "We built an air-gapped Jira alternative for regulated industries",
-      "score": 242,
-      "url": "https://plane.so/blog/everything-you-need-to-know-about-plane-air-gapped",
-      "time": 1753211852.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44651766"
+      "title": "I'm Unsatisfied with Easing Functions",
+      "score": 33,
+      "url": "https://www.davepagurek.com/blog/easing-functions/",
+      "time": 1753021468.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44625500"
     }
   ]
 }
