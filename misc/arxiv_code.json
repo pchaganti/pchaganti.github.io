@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-22T17:12:12.983282-04:00",
+  "last_updated": "2025-07-22T21:03:55.536961-04:00",
   "papers": [
     {
       "title": "Diffusion Beats Autoregressive in Data-Constrained Settings",
@@ -16,7 +16,7 @@
     {
       "title": "SeC: Advancing Complex Video Object Segmentation via Progressive Concept\n  Construction",
       "summary": "Video Object Segmentation (VOS) is a core task in computer vision, requiring\nmodels to track and segment target objects across video frames. Despite notable\nadvances with recent efforts, current techniques still lag behind human\ncapabilities in handling drastic visual variations, occlusions, and complex\nscene changes. This limitation arises from their reliance on appearance\nmatching, neglecting the human-like conceptual understanding of objects that\nenables robust identification across temporal dynamics. Motivated by this gap,\nwe propose Segment Concept (SeC), a concept-driven segmentation framework that\nshifts from conventional feature matching to the progressive construction and\nutilization of high-level, object-centric representations. SeC employs Large\nVision-Language Models (LVLMs) to integrate visual cues across diverse frames,\nconstructing robust conceptual priors. During inference, SeC forms a\ncomprehensive semantic representation of the target based on processed frames,\nrealizing robust segmentation of follow-up frames. Furthermore, SeC adaptively\nbalances LVLM-based semantic reasoning with enhanced feature matching,\ndynamically adjusting computational efforts based on scene complexity. To\nrigorously assess VOS methods in scenarios demanding high-level conceptual\nreasoning and robust semantic understanding, we introduce the Semantic Complex\nScenarios Video Object Segmentation benchmark (SeCVOS). SeCVOS comprises 160\nmanually annotated multi-scenario videos designed to challenge models with\nsubstantial appearance variations and dynamic scene transformations. In\nparticular, SeC achieves an 11.8-point improvement over SAM 2.1 on SeCVOS,\nestablishing a new state-of-the-art in concept-aware video object segmentation.",
-      "url": "http://arxiv.org/abs/2507.15852v1",
+      "url": "http://arxiv.org/abs/2507.15852v2",
       "published_time_eastern_timestamp": 1753120742.0
     },
     {
@@ -34,7 +34,7 @@
     {
       "title": "Hierarchical Budget Policy Optimization for Adaptive Reasoning",
       "summary": "Large reasoning models achieve remarkable performance through extensive\nchain-of-thought generation, yet exhibit significant computational inefficiency\nby applying uniform reasoning strategies regardless of problem complexity. We\npresent Hierarchical Budget Policy Optimization (HBPO), a reinforcement\nlearning framework that enables models to learn problem-specific reasoning\ndepths without sacrificing capability. HBPO addresses the fundamental challenge\nof exploration space collapse in efficiency-oriented training, where penalties\non long output length systematically bias models away from necessary long\nreasoning paths. Through hierarchical budget exploration, our approach\npartitions rollout samples into multiple subgroups with distinct token budgets,\naiming to enable efficient resource allocation while preventing degradation of\ncapability. We introduce differentiated reward mechanisms that create\nbudget-aware incentives aligned with the complexity of the problem, allowing\nmodels to discover natural correspondences between task requirements and\ncomputational effort. Extensive experiments demonstrate that HBPO reduces\naverage token usage by up to 60.6% while improving accuracy by 3.14% across\nfour reasoning benchmarks. Unlike existing methods that impose external\nconstraints or rely on discrete mode selection, HBPO exhibits emergent adaptive\nbehavior where models automatically adjust reasoning depth based on problem\ncomplexity. Our results suggest that reasoning efficiency and capability are\nnot inherently conflicting, and can be simultaneously optimized through\nappropriately structured hierarchical training that preserves exploration\ndiversity.",
-      "url": "http://arxiv.org/abs/2507.15844v1",
+      "url": "http://arxiv.org/abs/2507.15844v2",
       "published_time_eastern_timestamp": 1753120354.0
     },
     {

@@ -1,40 +1,96 @@
 {
-  "last_updated": "2025-07-22T17:12:10.343304-04:00",
+  "last_updated": "2025-07-22T21:03:53.390168-04:00",
   "stories": [
     {
-      "title": "Swift-erlang-actor-system",
-      "score": 129,
-      "url": "https://forums.swift.org/t/introducing-swift-erlang-actor-system/81248",
-      "time": 1753210744.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44651539"
+      "title": "Qwen3-Coder: Agentic coding in the world",
+      "score": 238,
+      "url": "https://qwenlm.github.io/blog/qwen3-coder/",
+      "time": 1753218750.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44653072"
+    },
+    {
+      "title": "You can't color calibrate deep space photos",
+      "score": 19,
+      "url": "https://maurycyz.com/misc/cc/",
+      "time": 1753229778.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44654444"
+    },
+    {
+      "title": "More than you wanted to know about how Game Boy cartridges work",
+      "score": 170,
+      "url": "https://abc.decontextualize.com/more-than-you-wanted-to-know/",
+      "time": 1753211858.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44651770"
     },
     {
       "title": "Android Earthquake Alerts: A global system for early warning",
-      "score": 78,
+      "score": 170,
       "url": "https://research.google/blog/android-earthquake-alerts-a-global-system-for-early-warning/",
       "time": 1753208594.0,
       "comments_url": "https://news.ycombinator.com/item?id=44651092"
     },
     {
-      "title": "Fun with gzip bombs and email clients",
-      "score": 68,
-      "url": "https://www.grepular.com/Fun_with_Gzip_Bombs_and_Email_Clients",
-      "time": 1753210703.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44651536"
+      "title": "Swift-erlang-actor-system",
+      "score": 212,
+      "url": "https://forums.swift.org/t/introducing-swift-erlang-actor-system/81248",
+      "time": 1753210744.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44651539"
     },
     {
-      "title": "NonRAID – fork of unRAID array kernel module",
-      "score": 18,
-      "url": "https://github.com/qvr/nonraid",
-      "time": 1753215378.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44652482"
+      "title": "Algorithms for Modern Processor Architectures",
+      "score": 33,
+      "url": "https://lemire.github.io/talks/2025/sea/sea2025.html",
+      "time": 1753225015.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44653965"
     },
     {
-      "title": "Subliminal Learning: Models Transmit Behaviors via Hidden Signals in Data",
-      "score": 57,
+      "title": "We built an air-gapped Jira alternative for regulated industries",
+      "score": 135,
+      "url": "https://plane.so/blog/everything-you-need-to-know-about-plane-air-gapped",
+      "time": 1753211852.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44651766"
+    },
+    {
+      "title": "A media company demanded a license fee for an Open Graph image I used on Twitter",
+      "score": 52,
+      "url": "https://alistairshepherd.uk/writing/open-graph-licensing/",
+      "time": 1753230463.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44654494"
+    },
+    {
+      "title": "Comparing the Glove80 and Maltron Keyboards",
+      "score": 31,
+      "url": "https://tratt.net/laurie/blog/2025/comparing_the_glove80_and_maltron_keyboards.html",
+      "time": 1753222345.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44653586"
+    },
+    {
+      "title": "Why Does Raising the Retirement Age Hurt Young People?",
+      "score": 6,
+      "url": "https://www.governance.fyi/p/why-does-raising-the-retirement-age",
+      "time": 1753230440.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44654493"
+    },
+    {
+      "title": "Subliminal learning: Models transmit behaviors via hidden signals in data",
+      "score": 114,
       "url": "https://alignment.anthropic.com/2025/subliminal-learning/",
       "time": 1753207331.0,
       "comments_url": "https://news.ycombinator.com/item?id=44650840"
+    },
+    {
+      "title": "Don't animate height",
+      "score": 272,
+      "url": "https://www.granola.ai/blog/dont-animate-height",
+      "time": 1752957859.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44619206"
+    },
+    {
+      "title": "Americans are paying for tariffs, not foreign companies",
+      "score": 84,
+      "url": "https://www.bloomberg.com/news/articles/2025-07-22/us-companies-and-consumers-are-paying-for-trump-s-tariffs",
+      "time": 1753211124.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44651616"
     },
     {
       "title": "Firebender (YC W24) Is Hiring",
@@ -44,102 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=44652938"
     },
     {
-      "title": "More than you wanted to know about how Game Boy cartridges work",
-      "score": 29,
-      "url": "https://abc.decontextualize.com/more-than-you-wanted-to-know/",
-      "time": 1753211858.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44651770"
-    },
-    {
-      "title": "Don't animate height",
-      "score": 182,
-      "url": "https://www.granola.ai/blog/dont-animate-height",
-      "time": 1752957859.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44619206"
-    },
-    {
-      "title": "Tiny Code Reader: a $7 QR code sensor",
-      "score": 90,
-      "url": "https://excamera.substack.com/p/tiny-code-reader-a-7-qr-code-sensor",
-      "time": 1753201371.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44649319"
-    },
-    {
-      "title": "We built an air-gapped Jira alternative for regulated industries",
-      "score": 43,
-      "url": "https://plane.so/blog/everything-you-need-to-know-about-plane-air-gapped",
-      "time": 1753211852.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44651766"
+      "title": "TODOs aren't for doing",
+      "score": 259,
+      "url": "https://sophiebits.com/2025/07/21/todos-arent-for-doing",
+      "time": 1753191796.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44646801"
     },
     {
       "title": "Gemini North telescope discovers long-predicted stellar companion of Betelgeuse",
-      "score": 74,
+      "score": 100,
       "url": "https://www.science.org/content/article/betelgeuse-s-long-predicted-stellar-companion-may-have-been-found-last",
       "time": 1753202491.0,
       "comments_url": "https://news.ycombinator.com/item?id=44649651"
     },
     {
+      "title": "NonRAID – fork of unRAID array kernel module",
+      "score": 47,
+      "url": "https://github.com/qvr/nonraid",
+      "time": 1753215378.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44652482"
+    },
+    {
       "title": "Show HN: Compass CNC – Open-source handheld CNC router",
-      "score": 72,
+      "score": 105,
       "url": "https://www.compassrouter.com",
       "time": 1752911295.0,
       "comments_url": "https://news.ycombinator.com/item?id=44613438"
     },
     {
-      "title": "Unsafe and Unpredictable: My Volvo EX90 Experience",
-      "score": 165,
-      "url": "https://www.myvolvoex90.com/",
-      "time": 1753214793.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44652374"
+      "title": "Font Comparison: Atkinson Hyperlegible Mono vs. JetBrains Mono and Fira Code",
+      "score": 172,
+      "url": "https://www.anthes.is/font-comparison-review-atkinson-hyperlegible-mono.html",
+      "time": 1753193825.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44647190"
     },
     {
-      "title": "First Hubble telescope images of interstellar comet 3I/ATLAS",
-      "score": 69,
-      "url": "https://bsky.app/profile/astrafoxen.bsky.social/post/3luiwnar3j22o",
-      "time": 1753202492.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44649653"
-    },
-    {
-      "title": "Asymmetry of Verification and Verifier's Law",
-      "score": 6,
-      "url": "https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law",
-      "time": 1752968727.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44620546"
-    },
-    {
-      "title": "Go allocation probe",
-      "score": 75,
-      "url": "https://www.scattered-thoughts.net/writing/go-allocation-probe/",
-      "time": 1753195545.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44647572"
-    },
-    {
-      "title": "OSS Rebuild: open-source, rebuilt to last",
-      "score": 106,
-      "url": "https://security.googleblog.com/2025/07/introducing-oss-rebuild-open-source.html",
-      "time": 1753192426.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44646925"
-    },
-    {
-      "title": "Cosmic Dawn: The Untold Story of the James Webb Space Telescope",
-      "score": 34,
-      "url": "https://plus.nasa.gov/video/cosmic-dawn-the-untold-story-of-the-james-webb-space-telescope/",
-      "time": 1752953086.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44618509"
-    },
-    {
-      "title": "Show HN: Any-LLM – Lightweight router to access any LLM Provider",
-      "score": 73,
-      "url": "https://github.com/mozilla-ai/any-llm",
-      "time": 1753206040.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44650567"
-    },
-    {
-      "title": "TODOs aren't for doing",
-      "score": 200,
-      "url": "https://sophiebits.com/2025/07/21/todos-arent-for-doing",
-      "time": 1753191796.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44646801"
+      "title": "Hegel Dust",
+      "score": 4,
+      "url": "https://www.bookforum.com/print/3201/hegel-dust-62209",
+      "time": 1753111405.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44636277"
     }
   ]
 }
