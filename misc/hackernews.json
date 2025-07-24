@@ -1,68 +1,131 @@
 {
-  "last_updated": "2025-07-24T11:13:13.061804-04:00",
+  "last_updated": "2025-07-24T14:18:15.477795-04:00",
   "stories": [
     {
       "title": "PSA: SQLite WAL checksums fail silently and may lose data",
-      "score": 30,
+      "score": 147,
       "url": "https://avi.im/blag/2025/sqlite-wal-checksum/",
       "time": 1753368484.0,
       "comments_url": "https://news.ycombinator.com/item?id=44671373"
     },
     {
-      "title": "Vet is a safety net for the risky curl | bash pattern",
-      "score": 91,
-      "url": "https://github.com/vet-run/vet",
-      "time": 1753361249.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44669998"
+      "title": "UK: Phone networks down: EE, BT, Three, Vodafone, O2 not working in mass outage",
+      "score": 65,
+      "url": "https://www.the-independent.com/tech/ee-bt-three-vodafone-o2-down-phone-networks-outage-latest-b2795260.html",
+      "time": 1753363044.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44670326"
     },
     {
-      "title": "WiX Toolset: Introduce the Open Source Maintenance Fee",
-      "score": 103,
-      "url": "https://github.com/wixtoolset/issues/issues/8974",
-      "time": 1753360175.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44669858"
+      "title": "There is no memory safety without thread safety",
+      "score": 167,
+      "url": "https://www.ralfj.de/blog/2025/07/24/memory-safety.html",
+      "time": 1753371339.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44672003"
     },
     {
       "title": "Use Your Type System",
-      "score": 4,
+      "score": 103,
       "url": "https://www.dzombak.com/blog/2025/07/use-your-type-system/",
       "time": 1753369025.0,
       "comments_url": "https://news.ycombinator.com/item?id=44671484"
     },
     {
-      "title": "Web fingerprinting is worse than I thought (2023)",
-      "score": 148,
-      "url": "https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html",
-      "time": 1753360111.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44669853"
+      "title": "Major Quantum Computing Advance Made Obsolete by Teenager (2018)",
+      "score": 41,
+      "url": "https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/",
+      "time": 1753375345.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44672859"
     },
     {
-      "title": "CARA – High precision robot dog using rope",
-      "score": 878,
-      "url": "https://www.aaedmusa.com/projects/cara",
-      "time": 1753292300.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44661846"
+      "title": "I wasted weeks hand optimizing assembly because I benchmarked on random data",
+      "score": 37,
+      "url": "https://www.vidarholen.net/contents/blog/?p=1160",
+      "time": 1753083601.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44632674"
     },
     {
-      "title": "Covers as a way of learning music and code",
-      "score": 35,
-      "url": "https://ntietz.com/blog/covers-as-a-way-of-learning/",
-      "time": 1753111249.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44636240"
+      "title": "AMD CEO sees chips from TSMC's US plant costing 5%-20% more",
+      "score": 49,
+      "url": "https://www.bloomberg.com/news/articles/2025-07-23/amd-ceo-su-sees-chips-from-us-tsmc-plant-costing-5-to-20-more",
+      "time": 1753299296.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44663074"
+    },
+    {
+      "title": "The FastLanes File Format [pdf]",
+      "score": 41,
+      "url": "https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf",
+      "time": 1753369436.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44671584"
+    },
+    {
+      "title": "Lslvr/mwm: The smallest (usable) X11 window manager",
+      "score": 61,
+      "url": "https://github.com/lslvr/mwm",
+      "time": 1753099489.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44634208"
+    },
+    {
+      "title": "Show HN: Nia – MCP server that gives more context to coding agents",
+      "score": 11,
+      "url": "https://www.trynia.ai/",
+      "time": 1753369512.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44671601"
+    },
+    {
+      "title": "The POSIX specification of vi",
+      "score": 5,
+      "url": "https://pubs.opengroup.org/onlinepubs/9799919799/utilities/vi.html",
+      "time": 1753084887.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44632783"
     },
     {
       "title": "AI overviews cause massive drop in search clicks",
-      "score": 550,
+      "score": 639,
       "url": "https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/",
       "time": 1753300212.0,
       "comments_url": "https://news.ycombinator.com/item?id=44663227"
     },
     {
+      "title": "Covers as a way of learning music and code",
+      "score": 84,
+      "url": "https://ntietz.com/blog/covers-as-a-way-of-learning/",
+      "time": 1753111249.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44636240"
+    },
+    {
+      "title": "Two narratives about AI",
+      "score": 187,
+      "url": "https://calnewport.com/no-one-knows-anything-about-ai/",
+      "time": 1753373289.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44672414"
+    },
+    {
+      "title": "CARA – High precision robot dog using rope",
+      "score": 943,
+      "url": "https://www.aaedmusa.com/projects/cara",
+      "time": 1753292300.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44661846"
+    },
+    {
+      "title": "A valid HTML zip bomb",
+      "score": 61,
+      "url": "https://ache.one/notes/html_zip_bomb",
+      "time": 1753362989.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44670319"
+    },
+    {
       "title": "Writing is thinking",
-      "score": 107,
+      "score": 163,
       "url": "https://www.nature.com/articles/s44222-025-00323-4",
       "time": 1753079421.0,
       "comments_url": "https://news.ycombinator.com/item?id=44632314"
+    },
+    {
+      "title": "A list of changes to make it easier to build beautiful and walkable places",
+      "score": 48,
+      "url": "https://chrisbarber.co/A+list+of+changes+to+make+it+easier+to+build+beautiful+%26+walkable+places",
+      "time": 1753368953.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44671472"
     },
     {
       "title": "Thunder Compute (YC S24) Is Hiring a C++ Systems Engineer",
@@ -72,74 +135,11 @@
       "comments_url": "https://news.ycombinator.com/item?id=44669631"
     },
     {
-      "title": "BGP.Tools: Browse the Internet Ecosystem",
-      "score": 239,
-      "url": "https://bgp.tools/",
-      "time": 1753319534.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44665815"
-    },
-    {
-      "title": "Detekt – A static code analyzer for Kotlin",
-      "score": 64,
-      "url": "https://detekt.dev/",
-      "time": 1753355779.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44669365"
-    },
-    {
-      "title": "AMD CEO says U.S.-made TSMC chips are 5%-20% more expensive, but worth it",
-      "score": 92,
-      "url": "https://www.tomshardware.com/tech-industry/amd-ceo-says-u-s-made-tsmc-chips-are-more-expensive-but-worth-it-costs-more-than-5-percent-but-less-than-20-percent-higher-than-taiwan-sourced-alternative",
-      "time": 1753364774.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44670624"
-    },
-    {
-      "title": "XOR_singleheader: Header-only binary fuse and XOR filter library",
-      "score": 14,
-      "url": "https://github.com/FastFilter/xor_singleheader",
-      "time": 1753355366.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44669318"
-    },
-    {
-      "title": "Apache HTTP Server: 'RewriteCond expr' always evaluates to true",
-      "score": 109,
-      "url": "https://github.com/apache/httpd/commit/8abb3d06b23975705ebcf4bf4476464fd0b9bd0b",
-      "time": 1753330852.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44666896"
-    },
-    {
-      "title": "Vanishing home field advantage in English football",
-      "score": 41,
-      "url": "https://blog.engora.com/2025/07/vanishing-home-field-advantage-in.html",
-      "time": 1753045519.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44629300"
-    },
-    {
-      "title": "Distillation makes AI models smaller and cheaper",
-      "score": 128,
-      "url": "https://www.quantamagazine.org/how-distillation-makes-ai-models-smaller-and-cheaper-20250718/",
-      "time": 1753049367.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44629805"
-    },
-    {
-      "title": "Electric cars produce far less brake dust pollution than combustion-engine cars",
-      "score": 398,
-      "url": "https://modernengineeringmarvels.com/2025/07/22/surprising-science-how-electric-cars-quietly-transform-urban-air/",
-      "time": 1753323200.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44666157"
-    },
-    {
-      "title": "The Promised LAN",
-      "score": 366,
-      "url": "https://tpl.house/",
-      "time": 1753291472.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44661682"
-    },
-    {
-      "title": "Lslvr/mwm: The smallest (usable) X11 window manager",
-      "score": 5,
-      "url": "https://github.com/lslvr/mwm",
-      "time": 1753099489.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44634208"
+      "title": "Vet is a safety net for the risky curl | bash pattern",
+      "score": 124,
+      "url": "https://github.com/vet-run/vet",
+      "time": 1753361249.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44669998"
     }
   ]
 }
