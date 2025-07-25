@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-07-25T02:19:37.688794-04:00",
+  "last_updated": "2025-07-25T05:16:40.694605-04:00",
   "stories": [
     {
       "title": "Google spoofed via DKIM replay attack: A technical breakdown",
-      "score": 26,
+      "score": 129,
       "url": "https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/",
       "time": 1753421320.0,
       "comments_url": "https://news.ycombinator.com/item?id=44679854"
     },
     {
+      "title": "Terence Tao: Quantitative AI progress needs accurate and transparent evaluation",
+      "score": 62,
+      "url": "https://mathstodon.xyz/@tao/114910028356641733",
+      "time": 1753426027.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44680308"
+    },
+    {
       "title": "Graphene OS: a security-enhanced Android build",
-      "score": 302,
+      "score": 428,
       "url": "https://lwn.net/SubscriberLink/1030004/898017c7953c0946/",
       "time": 1753393733.0,
       "comments_url": "https://news.ycombinator.com/item?id=44676691"
     },
     {
+      "title": "Games Look Bad: HDR and Tone Mapping",
+      "score": 23,
+      "url": "https://ventspace.wordpress.com/2017/10/20/games-look-bad-part-1-hdr-and-tone-mapping/",
+      "time": 1753428397.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44680547"
+    },
+    {
       "title": "Asciinema: Record and share your terminal sessions",
-      "score": 57,
+      "score": 117,
       "url": "https://asciinema.org",
       "time": 1753411832.0,
       "comments_url": "https://news.ycombinator.com/item?id=44679048"
     },
     {
-      "title": "Positron – A next-generation data science IDE",
-      "score": 148,
-      "url": "https://positron.posit.co/",
-      "time": 1753102796.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44634598"
+      "title": "Celebrating 20 Years of MDN",
+      "score": 115,
+      "url": "https://developer.mozilla.org/en-US/blog/mdn-turns-20/",
+      "time": 1753407611.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44678512"
     },
     {
       "title": "AMD CEO sees chips from TSMC's US plant costing 5%-20% more",
-      "score": 309,
+      "score": 335,
       "url": "https://www.bloomberg.com/news/articles/2025-07-23/amd-ceo-su-sees-chips-from-us-tsmc-plant-costing-5-to-20-more",
       "time": 1753299296.0,
       "comments_url": "https://news.ycombinator.com/item?id=44663074"
     },
     {
-      "title": "Scientists may have found a way to eliminate chromosome linked to Down syndrome",
-      "score": 262,
-      "url": "https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019",
-      "time": 1753394359.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44676817"
-    },
-    {
       "title": "I wasted weeks hand optimizing assembly because I benchmarked on random data",
-      "score": 280,
+      "score": 318,
       "url": "https://www.vidarholen.net/contents/blog/?p=1160",
       "time": 1753083601.0,
       "comments_url": "https://news.ycombinator.com/item?id=44632674"
     },
     {
       "title": "There is no memory safety without thread safety",
-      "score": 320,
+      "score": 353,
       "url": "https://www.ralfj.de/blog/2025/07/24/memory-safety.html",
       "time": 1753371339.0,
       "comments_url": "https://news.ycombinator.com/item?id=44672003"
     },
     {
+      "title": "Positron – A next-generation data science IDE",
+      "score": 176,
+      "url": "https://positron.posit.co/",
+      "time": 1753102796.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44634598"
+    },
+    {
+      "title": "Scientists may have found a way to eliminate chromosome linked to Down syndrome",
+      "score": 304,
+      "url": "https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019",
+      "time": 1753394359.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44676817"
+    },
+    {
       "title": "Inter-Planetary Network Special Interest Group",
-      "score": 128,
+      "score": 140,
       "url": "https://www.ipnsig.org",
       "time": 1753388397.0,
       "comments_url": "https://news.ycombinator.com/item?id=44675553"
     },
     {
-      "title": "A GPU Calculator That Helps Calculate What GPU to Use",
-      "score": 65,
-      "url": "https://calculator.inference.ai/",
-      "time": 1753395260.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44676961"
-    },
-    {
-      "title": "Celebrating 20 Years of MDN",
-      "score": 22,
-      "url": "https://developer.mozilla.org/en-US/blog/mdn-turns-20/",
-      "time": 1753407611.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44678512"
-    },
-    {
-      "title": "Air Force unit suspends use of Sig Sauer pistol after shooting death of airman",
-      "score": 150,
-      "url": "https://www.nhpr.org/nh-news/2025-07-23/sig-sauer-pistol-air-force-shooting-death",
-      "time": 1753380963.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44674123"
-    },
-    {
-      "title": "PSA: SQLite WAL checksums fail silently and may lose data",
-      "score": 254,
-      "url": "https://avi.im/blag/2025/sqlite-wal-checksum/",
-      "time": 1753368484.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44671373"
-    },
-    {
-      "title": "Use Your Type System",
-      "score": 254,
-      "url": "https://www.dzombak.com/blog/2025/07/use-your-type-system/",
-      "time": 1753369025.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44671484"
-    },
-    {
-      "title": "Revisiting Moneyball",
-      "score": 84,
-      "url": "https://djpardis.medium.com/revisiting-moneyball-074fc2435b07",
-      "time": 1753392135.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44676348"
-    },
-    {
-      "title": "New Aarch64 Back End",
-      "score": 91,
-      "url": "https://ziglang.org/devlog/2025/#2025-07-23",
-      "time": 1753392001.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44676315"
-    },
-    {
       "title": "Modernish – A library for writing programs for POSIX-based shells and utilities",
-      "score": 17,
+      "score": 36,
       "url": "https://github.com/modernish/modernish",
       "time": 1753112559.0,
       "comments_url": "https://news.ycombinator.com/item?id=44636534"
     },
     {
-      "title": "Open Source Maintenance Fee",
-      "score": 249,
-      "url": "https://github.com/wixtoolset/issues/issues/8974",
-      "time": 1753360175.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44669858"
-    },
-    {
       "title": "Show HN: tsbro – TypeScript for the Browser, No Build Step",
-      "score": 3,
+      "score": 15,
       "url": "https://github.com/stagas/tsbro",
       "time": 1753098995.0,
       "comments_url": "https://news.ycombinator.com/item?id=44634143"
     },
     {
-      "title": "Visa and Mastercard: The global payment duopoly (2024)",
-      "score": 298,
-      "url": "https://quartr.com/insights/edge/visa-and-mastercard-the-global-payment-duopoly",
-      "time": 1753393148.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44676559"
+      "title": "Developing with Kiro: Amazon's New Agentic IDE",
+      "score": 16,
+      "url": "https://yehudacohen.substack.com/p/developing-with-kiro-amazons-new",
+      "time": 1753101899.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44634469"
+    },
+    {
+      "title": "A GPU Calculator That Helps Calculate What GPU to Use",
+      "score": 77,
+      "url": "https://calculator.inference.ai/",
+      "time": 1753395260.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44676961"
+    },
+    {
+      "title": "Finding Robert Bogucki, the man who disappeared on purpose",
+      "score": 9,
+      "url": "https://www.abc.net.au/news/2025-07-06/robert-bogucki-nowhere-man-on-his-43-days-in-the-desert/105234668",
+      "time": 1753109368.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44635783"
+    },
+    {
+      "title": "Revisiting Moneyball",
+      "score": 100,
+      "url": "https://djpardis.medium.com/revisiting-moneyball-074fc2435b07",
+      "time": 1753392135.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44676348"
+    },
+    {
+      "title": "Open Source Maintenance Fee",
+      "score": 278,
+      "url": "https://github.com/wixtoolset/issues/issues/8974",
+      "time": 1753360175.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44669858"
+    },
+    {
+      "title": "New Aarch64 Back End",
+      "score": 110,
+      "url": "https://ziglang.org/devlog/2025/#2025-07-23",
+      "time": 1753392001.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44676315"
     }
   ]
 }
