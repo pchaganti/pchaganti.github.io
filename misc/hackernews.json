@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-07-24T23:56:16.001807-04:00",
+  "last_updated": "2025-07-25T02:19:37.688794-04:00",
   "stories": [
     {
+      "title": "Google spoofed via DKIM replay attack: A technical breakdown",
+      "score": 26,
+      "url": "https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/",
+      "time": 1753421320.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44679854"
+    },
+    {
       "title": "Graphene OS: a security-enhanced Android build",
-      "score": 179,
+      "score": 302,
       "url": "https://lwn.net/SubscriberLink/1030004/898017c7953c0946/",
       "time": 1753393733.0,
       "comments_url": "https://news.ycombinator.com/item?id=44676691"
     },
     {
-      "title": "Scientists may have found a way to eliminate chromosome linked to Down syndrome",
-      "score": 220,
-      "url": "https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019",
-      "time": 1753394359.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44676817"
-    },
-    {
-      "title": "Inter-Planetary Network Special Interest Group",
-      "score": 113,
-      "url": "https://www.ipnsig.org",
-      "time": 1753388397.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44675553"
+      "title": "Asciinema: Record and share your terminal sessions",
+      "score": 57,
+      "url": "https://asciinema.org",
+      "time": 1753411832.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44679048"
     },
     {
       "title": "Positron – A next-generation data science IDE",
-      "score": 123,
+      "score": 148,
       "url": "https://positron.posit.co/",
       "time": 1753102796.0,
       "comments_url": "https://news.ycombinator.com/item?id=44634598"
     },
     {
-      "title": "I wasted weeks hand optimizing assembly because I benchmarked on random data",
-      "score": 248,
-      "url": "https://www.vidarholen.net/contents/blog/?p=1160",
-      "time": 1753083601.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44632674"
-    },
-    {
       "title": "AMD CEO sees chips from TSMC's US plant costing 5%-20% more",
-      "score": 281,
+      "score": 309,
       "url": "https://www.bloomberg.com/news/articles/2025-07-23/amd-ceo-su-sees-chips-from-us-tsmc-plant-costing-5-to-20-more",
       "time": 1753299296.0,
       "comments_url": "https://news.ycombinator.com/item?id=44663074"
     },
     {
+      "title": "Scientists may have found a way to eliminate chromosome linked to Down syndrome",
+      "score": 262,
+      "url": "https://academic.oup.com/pnasnexus/article/4/2/pgaf022/8016019",
+      "time": 1753394359.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44676817"
+    },
+    {
+      "title": "I wasted weeks hand optimizing assembly because I benchmarked on random data",
+      "score": 280,
+      "url": "https://www.vidarholen.net/contents/blog/?p=1160",
+      "time": 1753083601.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44632674"
+    },
+    {
       "title": "There is no memory safety without thread safety",
-      "score": 283,
+      "score": 320,
       "url": "https://www.ralfj.de/blog/2025/07/24/memory-safety.html",
       "time": 1753371339.0,
       "comments_url": "https://news.ycombinator.com/item?id=44672003"
     },
     {
-      "title": "Alto turns your Apple Notes into a website",
-      "score": 37,
-      "url": "https://alto.so/",
-      "time": 1753403995.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44678112"
+      "title": "Inter-Planetary Network Special Interest Group",
+      "score": 128,
+      "url": "https://www.ipnsig.org",
+      "time": 1753388397.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44675553"
     },
     {
       "title": "A GPU Calculator That Helps Calculate What GPU to Use",
-      "score": 51,
+      "score": 65,
       "url": "https://calculator.inference.ai/",
       "time": 1753395260.0,
       "comments_url": "https://news.ycombinator.com/item?id=44676961"
     },
     {
+      "title": "Celebrating 20 Years of MDN",
+      "score": 22,
+      "url": "https://developer.mozilla.org/en-US/blog/mdn-turns-20/",
+      "time": 1753407611.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44678512"
+    },
+    {
       "title": "Air Force unit suspends use of Sig Sauer pistol after shooting death of airman",
-      "score": 126,
+      "score": 150,
       "url": "https://www.nhpr.org/nh-news/2025-07-23/sig-sauer-pistol-air-force-shooting-death",
       "time": 1753380963.0,
       "comments_url": "https://news.ycombinator.com/item?id=44674123"
     },
     {
-      "title": "RE#: High performance derivative-based regular expression matching (2024)",
-      "score": 32,
-      "url": "https://arxiv.org/abs/2407.20479",
-      "time": 1753087325.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44633024"
-    },
-    {
       "title": "PSA: SQLite WAL checksums fail silently and may lose data",
-      "score": 245,
+      "score": 254,
       "url": "https://avi.im/blag/2025/sqlite-wal-checksum/",
       "time": 1753368484.0,
       "comments_url": "https://news.ycombinator.com/item?id=44671373"
     },
     {
-      "title": "Visa and Mastercard: The global payment duopoly (2024)",
-      "score": 251,
-      "url": "https://quartr.com/insights/edge/visa-and-mastercard-the-global-payment-duopoly",
-      "time": 1753393148.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44676559"
+      "title": "Use Your Type System",
+      "score": 254,
+      "url": "https://www.dzombak.com/blog/2025/07/use-your-type-system/",
+      "time": 1753369025.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44671484"
     },
     {
       "title": "Revisiting Moneyball",
-      "score": 67,
+      "score": 84,
       "url": "https://djpardis.medium.com/revisiting-moneyball-074fc2435b07",
       "time": 1753392135.0,
       "comments_url": "https://news.ycombinator.com/item?id=44676348"
     },
     {
       "title": "New Aarch64 Back End",
-      "score": 73,
+      "score": 91,
       "url": "https://ziglang.org/devlog/2025/#2025-07-23",
       "time": 1753392001.0,
       "comments_url": "https://news.ycombinator.com/item?id=44676315"
     },
     {
-      "title": "Information Warfare",
-      "score": 12,
-      "url": "https://yuxi.ml/sketches/posts/info-warfare/",
-      "time": 1753080118.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44632369"
-    },
-    {
-      "title": "Use Your Type System",
-      "score": 233,
-      "url": "https://www.dzombak.com/blog/2025/07/use-your-type-system/",
-      "time": 1753369025.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44671484"
-    },
-    {
-      "title": "How Anthropic teams use Claude Code",
-      "score": 114,
-      "url": "https://www.anthropic.com/news/how-anthropic-teams-use-claude-code",
-      "time": 1753407807.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44678535"
+      "title": "Modernish – A library for writing programs for POSIX-based shells and utilities",
+      "score": 17,
+      "url": "https://github.com/modernish/modernish",
+      "time": 1753112559.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44636534"
     },
     {
       "title": "Open Source Maintenance Fee",
-      "score": 231,
+      "score": 249,
       "url": "https://github.com/wixtoolset/issues/issues/8974",
       "time": 1753360175.0,
       "comments_url": "https://news.ycombinator.com/item?id=44669858"
     },
     {
-      "title": "Covers as a way of learning music and code",
-      "score": 137,
-      "url": "https://ntietz.com/blog/covers-as-a-way-of-learning/",
-      "time": 1753111249.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44636240"
+      "title": "Show HN: tsbro – TypeScript for the Browser, No Build Step",
+      "score": 3,
+      "url": "https://github.com/stagas/tsbro",
+      "time": 1753098995.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44634143"
+    },
+    {
+      "title": "Visa and Mastercard: The global payment duopoly (2024)",
+      "score": 298,
+      "url": "https://quartr.com/insights/edge/visa-and-mastercard-the-global-payment-duopoly",
+      "time": 1753393148.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44676559"
     }
   ]
 }
