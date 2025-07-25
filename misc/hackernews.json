@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-07-25T11:13:29.467784-04:00",
+  "last_updated": "2025-07-25T14:17:58.529294-04:00",
   "stories": [
     {
       "title": "It's DE9, Not DB9",
-      "score": 54,
+      "score": 212,
       "url": "https://news.sparkfun.com/14298",
       "time": 1753450509.0,
       "comments_url": "https://news.ycombinator.com/item?id=44682964"
     },
     {
-      "title": "Who has the fastest F1 website (2021)",
-      "score": 90,
-      "url": "https://jakearchibald.com/2021/f1-perf-part-3/",
-      "time": 1753450254.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44682932"
-    },
-    {
       "title": "Programming Vehicles in Games",
-      "score": 17,
+      "score": 147,
       "url": "https://wassimulator.com/blog/programming/programming_vehicles_in_games.html",
       "time": 1753454463.0,
       "comments_url": "https://news.ycombinator.com/item?id=44683682"
     },
     {
-      "title": "Dwl: Dwm for Wayland",
-      "score": 36,
-      "url": "https://codeberg.org/dwl/dwl",
-      "time": 1753450819.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44683011"
+      "title": "Never write your own Date Parsing Library",
+      "score": 9,
+      "url": "https://www.zachleat.com/web/adventures-in-date-parsing/",
+      "time": 1753464985.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44685875"
     },
     {
-      "title": "Up to date prices for LLM APIs all in one place",
-      "score": 100,
+      "title": "The sad state of font rendering on Linux",
+      "score": 47,
+      "url": "https://pandasauce.org/post/linux-fonts/",
+      "time": 1753463691.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44685587"
+    },
+    {
+      "title": "Implementing a Functional Language with Graph Reduction",
+      "score": 11,
+      "url": "https://thma.github.io/posts/2021-12-27-Implementing-a-functional-language-with-Graph-Reduction.html",
+      "time": 1753464020.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44685669"
+    },
+    {
+      "title": "How to configure X11 in a simple way",
+      "score": 14,
+      "url": "https://eugene-andrienko.com/en/it/2025/07/24/x11-configuration-simple.html",
+      "time": 1753462957.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44685445"
+    },
+    {
+      "title": "100X More Efficient Than ARM Processors – Electron E1",
+      "score": 25,
+      "url": "https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu",
+      "time": 1753461044.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44685050"
+    },
+    {
+      "title": "Show HN: Price Per Token – LLM API Pricing Data",
+      "score": 234,
       "url": "https://pricepertoken.com/",
       "time": 1753447181.0,
       "comments_url": "https://news.ycombinator.com/item?id=44682465"
     },
     {
-      "title": "Show HN: The Montana MiniComputer",
+      "title": "Who has the fastest F1 website (2021)",
+      "score": 152,
+      "url": "https://jakearchibald.com/2021/f1-perf-part-3/",
+      "time": 1753450254.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44682932"
+    },
+    {
+      "title": "CO2 Battery",
+      "score": 40,
+      "url": "https://energydome.com/co2-battery/",
+      "time": 1753461152.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44685067"
+    },
+    {
+      "title": "Monotonic and Wall Clock Time in the Go Time Package",
+      "score": 4,
+      "url": "https://victoriametrics.com/blog/go-time-monotonic-wall-clock/index.html",
+      "time": 1753466746.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44686246"
+    },
+    {
+      "title": "nullable but not null",
+      "score": 37,
+      "url": "https://efe.me/posts/nullable-but-not-null/",
+      "time": 1753456922.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44684168"
+    },
+    {
+      "title": "Steam, Itch.io are pulling 'porn' games. critics say it's a slippery slope",
+      "score": 73,
+      "url": "https://www.wired.com/story/steam-itchio-are-pulling-porn-games-censorship/",
+      "time": 1753460871.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44685011"
+    },
+    {
+      "title": "Neon Now Runs in VS Code",
       "score": 16,
-      "url": "https://mtmc.cs.montana.edu/",
-      "time": 1753453553.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44683490"
+      "url": "https://neon.com/blog/neon-now-runs-in-vs-code",
+      "time": 1753133342.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44640618"
     },
     {
-      "title": "Show HN: Apple Health MCP Server",
-      "score": 74,
-      "url": "https://github.com/neiltron/apple-health-mcp",
-      "time": 1753291403.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44661673"
+      "title": "Internet Archive Is Now a Federal Depository Library",
+      "score": 61,
+      "url": "https://www.kqed.org/news/12049420/sf-based-internet-archive-is-now-a-federal-depository-library-what-does-that-mean",
+      "time": 1753462564.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44685342"
     },
     {
-      "title": "Quantitative AI progress needs accurate and transparent evaluation",
-      "score": 169,
-      "url": "https://mathstodon.xyz/@tao/114910028356641733",
-      "time": 1753426027.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44680308"
+      "title": "Guns and Violence",
+      "score": 7,
+      "url": "https://rajivsethi.substack.com/p/guns-violence",
+      "time": 1753463831.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44685616"
     },
     {
-      "title": "Graphene OS: a security-enhanced Android build",
-      "score": 602,
-      "url": "https://lwn.net/SubscriberLink/1030004/898017c7953c0946/",
-      "time": 1753393733.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44676691"
+      "title": "Researchers value null results, but struggle to publish them",
+      "score": 30,
+      "url": "https://www.nature.com/articles/d41586-025-02312-4",
+      "time": 1753262186.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44657188"
     },
     {
-      "title": "Celebrating 20 Years of MDN",
-      "score": 273,
-      "url": "https://developer.mozilla.org/en-US/blog/mdn-turns-20/",
-      "time": 1753407611.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44678512"
+      "title": "WhoFi: Deep Person Re-Identification via Wi-Fi Channel Signal Encoding",
+      "score": 4,
+      "url": "https://arxiv.org/abs/2507.12869",
+      "time": 1753464929.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44685869"
     },
     {
-      "title": "Games Look Bad: HDR and Tone Mapping",
-      "score": 130,
-      "url": "https://ventspace.wordpress.com/2017/10/20/games-look-bad-part-1-hdr-and-tone-mapping/",
-      "time": 1753428397.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44680547"
+      "title": "Animated Cursors",
+      "score": 4,
+      "url": "https://tattoy.sh/news/animated-cursors/",
+      "time": 1753466365.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44686164"
     },
     {
-      "title": "Meta to stop running political ads on Facebook and Instagram in the EU",
-      "score": 49,
-      "url": "https://www.euractiv.com/section/tech/news/meta-to-stop-running-political-ads-on-facebook-and-instagram/",
-      "time": 1753451631.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44683148"
-    },
-    {
-      "title": "Google spoofed via DKIM replay attack: A technical breakdown",
-      "score": 221,
-      "url": "https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/",
-      "time": 1753421320.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44679854"
-    },
-    {
-      "title": "Google's shortened goo.gl links will stop working next month",
-      "score": 26,
-      "url": "https://www.theverge.com/news/713125/google-url-shortener-links-shutdown-deadline",
-      "time": 1753453530.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44683481"
-    },
-    {
-      "title": "3-JSON",
-      "score": 74,
-      "url": "https://rgbcu.be/blog/3-json/",
-      "time": 1753094369.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44633648"
-    },
-    {
-      "title": "Brazil central bank to launch Pix installment feature in September",
-      "score": 67,
-      "url": "https://www.reuters.com/technology/brazil-central-bank-launch-pix-installment-feature-september-2025-04-03/",
-      "time": 1753117295.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44637532"
-    },
-    {
-      "title": "When photography was born, fascination, obsession, and danger followed",
-      "score": 17,
-      "url": "https://www.washingtonpost.com/books/2025/07/12/flashes-brilliance-history-early-photography-anika-burgess-review/",
-      "time": 1753321864.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44666032"
-    },
-    {
-      "title": "Asciinema: Record and share your terminal sessions",
-      "score": 197,
-      "url": "https://asciinema.org",
-      "time": 1753411832.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44679048"
-    },
-    {
-      "title": "Air Canada returned lost bag, it now had knife,toiletries, ticket scanner inside",
-      "score": 23,
-      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/air-canada-mystery-baggage-1.7592756",
-      "time": 1753453355.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44683447"
-    },
-    {
-      "title": "Lisp project of the day",
-      "score": 22,
-      "url": "https://40ants.com/lisp-project-of-the-day/index.html",
-      "time": 1753442631.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44681950"
+      "title": "Quantum Scientists Have Built a New Math of Cryptography",
+      "score": 20,
+      "url": "https://www.quantamagazine.org/quantum-scientists-have-built-a-new-math-of-cryptography-20250725/",
+      "time": 1753457123.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44684212"
     }
   ]
 }
