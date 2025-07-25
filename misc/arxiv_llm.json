@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-24T17:12:25.679291-04:00",
+  "last_updated": "2025-07-24T21:02:44.177412-04:00",
   "papers": [
     {
       "title": "BetterCheck: Towards Safeguarding VLMs for Automotive Perception Systems",
@@ -28,7 +28,7 @@
     {
       "title": "Towards Greater Leverage: Scaling Laws for Efficient Mixture-of-Experts\n  Language Models",
       "summary": "Mixture-of-Experts (MoE) has become a dominant architecture for scaling Large\nLanguage Models (LLMs) efficiently by decoupling total parameters from\ncomputational cost. However, this decoupling creates a critical challenge:\npredicting the model capacity of a given MoE configurations (e.g., expert\nactivation ratio and granularity) remains an unresolved problem. To address\nthis gap, we introduce Efficiency Leverage (EL), a metric quantifying the\ncomputational advantage of an MoE model over a dense equivalent. We conduct a\nlarge-scale empirical study, training over 300 models up to 28B parameters, to\nsystematically investigate the relationship between MoE architectural\nconfigurations and EL. Our findings reveal that EL is primarily driven by the\nexpert activation ratio and the total compute budget, both following\npredictable power laws, while expert granularity acts as a non-linear modulator\nwith a clear optimal range. We integrate these discoveries into a unified\nscaling law that accurately predicts the EL of an MoE architecture based on its\nconfiguration. To validate our derived scaling laws, we designed and trained\nLing-mini-beta, a pilot model for Ling-2.0 series with only 0.85B active\nparameters, alongside a 6.1B dense model for comparison. When trained on an\nidentical 1T high-quality token dataset, Ling-mini-beta matched the performance\nof the 6.1B dense model while consuming over 7x fewer computational resources,\nthereby confirming the accuracy of our scaling laws. This work provides a\nprincipled and empirically-grounded foundation for the scaling of efficient MoE\nmodels.",
-      "url": "http://arxiv.org/abs/2507.17702v1",
+      "url": "http://arxiv.org/abs/2507.17702v2",
       "published_time_eastern_timestamp": 1753290623.0
     },
     {

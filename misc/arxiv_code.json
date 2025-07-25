@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-24T17:12:26.747290-04:00",
+  "last_updated": "2025-07-24T21:02:45.109728-04:00",
   "papers": [
     {
       "title": "Leave No One Behind: Fairness-Aware Cross-Domain Recommender Systems for\n  Non-Overlapping Users",
@@ -106,7 +106,7 @@
     {
       "title": "PRIX: Learning to Plan from Raw Pixels for End-to-End Autonomous Driving",
       "summary": "While end-to-end autonomous driving models show promising results, their\npractical deployment is often hindered by large model sizes, a reliance on\nexpensive LiDAR sensors and computationally intensive BEV feature\nrepresentations. This limits their scalability, especially for mass-market\nvehicles equipped only with cameras. To address these challenges, we propose\nPRIX (Plan from Raw Pixels). Our novel and efficient end-to-end driving\narchitecture operates using only camera data, without explicit BEV\nrepresentation and forgoing the need for LiDAR. PRIX leverages a visual feature\nextractor coupled with a generative planning head to predict safe trajectories\nfrom raw pixel inputs directly. A core component of our architecture is the\nContext-aware Recalibration Transformer (CaRT), a novel module designed to\neffectively enhance multi-level visual features for more robust planning. We\ndemonstrate through comprehensive experiments that PRIX achieves\nstate-of-the-art performance on the NavSim and nuScenes benchmarks, matching\nthe capabilities of larger, multimodal diffusion planners while being\nsignificantly more efficient in terms of inference speed and model size, making\nit a practical solution for real-world deployment. Our work is open-source and\nthe code will be at https://maxiuw.github.io/prix.",
-      "url": "http://arxiv.org/abs/2507.17596v1",
+      "url": "http://arxiv.org/abs/2507.17596v2",
       "published_time_eastern_timestamp": 1753284503.0
     },
     {
