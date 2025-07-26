@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-07-26T05:12:23.264704-04:00",
+  "last_updated": "2025-07-26T08:22:21.100147-04:00",
   "stories": [
     {
+      "title": "Rust on Every GPU",
+      "score": 151,
+      "url": "https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/",
+      "time": 1753524489.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44692876"
+    },
+    {
+      "title": "Bringing a Decade Old Bicycle Navigator Back to Life with Open Source Software",
+      "score": 28,
+      "url": "https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html",
+      "time": 1753528083.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44693129"
+    },
+    {
       "title": "Do not download the app, use the website",
-      "score": 839,
+      "score": 998,
       "url": "https://idiallo.com/blog/dont-download-apps",
       "time": 1753481229.0,
       "comments_url": "https://news.ycombinator.com/item?id=44689059"
     },
     {
       "title": "Open Sauce is a confoundingly brilliant Bay Area event",
-      "score": 99,
+      "score": 142,
       "url": "https://www.jeffgeerling.com/blog/2025/open-sauce-confoundingly-brilliant-bay-area-event",
       "time": 1753266125.0,
       "comments_url": "https://news.ycombinator.com/item?id=44657550"
     },
     {
-      "title": "Turn any diagram image into an editable Draw.io file. No more redrawing",
-      "score": 48,
-      "url": "https://imagetodrawio.com/",
-      "time": 1753511787.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44691896"
+      "title": "Breaking the WASM/JS communication performance barrier",
+      "score": 18,
+      "url": "https://github.com/ealmloff/sledgehammer_bindgen",
+      "time": 1753254691.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44656516"
     },
     {
       "title": "It's time for modern CSS to kill the SPA",
-      "score": 458,
+      "score": 524,
       "url": "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/",
       "time": 1753477680.0,
       "comments_url": "https://news.ycombinator.com/item?id=44688489"
     },
     {
       "title": "CCTV Footage Captures the First-Ever Video of an Earthquake Fault in Motion",
-      "score": 116,
+      "score": 176,
       "url": "https://www.smithsonianmag.com/smart-news/cctv-footage-captures-the-first-ever-video-of-an-earthquake-fault-in-motion-shining-a-rare-light-on-seismic-dynamics-180987034/",
       "time": 1753498483.0,
       "comments_url": "https://news.ycombinator.com/item?id=44690911"
     },
     {
-      "title": "Show HN: Auto Favicon MCP Server",
-      "score": 10,
-      "url": "https://github.com/dh1011/auto-favicon-mcp",
-      "time": 1753513367.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44692015"
-    },
-    {
-      "title": "Users claim Discord's age verification can be tricked with video game characters",
-      "score": 37,
-      "url": "https://www.thepinknews.com/2025/07/25/discord-video-game-characters-age-verification-checks-uk-online-safety-act/",
-      "time": 1753503816.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44691312"
-    },
-    {
-      "title": "Simon Tatham's Portable Puzzle Collection",
-      "score": 17,
-      "url": "https://www.chiark.greenend.org.uk/~sgtatham/puzzles/",
-      "time": 1753512404.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44691935"
-    },
-    {
       "title": "The Rise and Fall of the Hanseatic League",
-      "score": 10,
+      "score": 47,
       "url": "https://worksinprogress.co/issue/the-rise-and-fall-of-the-hanseatic-league/",
       "time": 1753259764.0,
       "comments_url": "https://news.ycombinator.com/item?id=44656961"
     },
     {
+      "title": "Simon Tatham's Portable Puzzle Collection",
+      "score": 53,
+      "url": "https://www.chiark.greenend.org.uk/~sgtatham/puzzles/",
+      "time": 1753512404.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44691935"
+    },
+    {
+      "title": "Keep Pydantic out of your Domain Layer",
+      "score": 18,
+      "url": "https://coderik.nl/posts/keep-pydantic-out-of-your-domain-layer/",
+      "time": 1753253651.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44656419"
+    },
+    {
+      "title": "Yes, the Book of PF, Fourth Edition Is Coming Soon",
+      "score": 22,
+      "url": "https://bsdly.blogspot.com/2025/07/yes-book-of-pf-4th-edition-is-coming.html",
+      "time": 1753268687.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44657803"
+    },
+    {
       "title": "It's a DE9, not a DB9 (but we know what you mean)",
-      "score": 383,
+      "score": 390,
       "url": "https://news.sparkfun.com/14298",
       "time": 1753450509.0,
       "comments_url": "https://news.ycombinator.com/item?id=44682964"
     },
     {
       "title": "Never write your own date parsing library",
-      "score": 184,
+      "score": 206,
       "url": "https://www.zachleat.com/web/adventures-in-date-parsing/",
       "time": 1753464985.0,
       "comments_url": "https://news.ycombinator.com/item?id=44685875"
     },
     {
-      "title": "Windsurf employee #2: I was given a payout of only 1% what my shares where worth",
-      "score": 559,
-      "url": "https://twitter.com/premqnair/status/1948420769945682413",
-      "time": 1753377341.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44673296"
-    },
-    {
-      "title": "Why MIT switched from Scheme to Python (2009)",
-      "score": 221,
-      "url": "https://www.wisdomandwonder.com/link/2110/why-mit-switched-from-scheme-to-python",
-      "time": 1753461496.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44685119"
-    },
-    {
-      "title": "Vanilla JavaScript support for Tailwind Plus",
-      "score": 244,
-      "url": "https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus",
-      "time": 1753467081.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44686317"
-    },
-    {
-      "title": "Efficient Computer's Electron E1 CPU – 100x more efficient than Arm?",
-      "score": 200,
-      "url": "https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu",
-      "time": 1753461044.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44685050"
-    },
-    {
-      "title": "Ambigrammia: Between Creation and Discovery (Hofstadter, 2025)",
-      "score": 4,
-      "url": "https://yalebooks.yale.edu/book/9780300275438/ambigrammia/",
-      "time": 1753514677.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44692118"
-    },
-    {
-      "title": "Animated Cursors",
-      "score": 180,
-      "url": "https://tattoy.sh/news/animated-cursors/",
-      "time": 1753466365.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44686164"
-    },
-    {
       "title": "Why I Do Programming",
-      "score": 11,
+      "score": 38,
       "url": "https://esafev.com/notes/why-i-do-programming/",
       "time": 1753509440.0,
       "comments_url": "https://news.ycombinator.com/item?id=44691722"
     },
     {
+      "title": "Why MIT switched from Scheme to Python (2009)",
+      "score": 235,
+      "url": "https://www.wisdomandwonder.com/link/2110/why-mit-switched-from-scheme-to-python",
+      "time": 1753461496.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44685119"
+    },
+    {
+      "title": "Efficient Computer's Electron E1 CPU – 100x more efficient than Arm?",
+      "score": 212,
+      "url": "https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu",
+      "time": 1753461044.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44685050"
+    },
+    {
+      "title": "Animated Cursors",
+      "score": 198,
+      "url": "https://tattoy.sh/news/animated-cursors/",
+      "time": 1753466365.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44686164"
+    },
+    {
+      "title": "The future is not self-hosted",
+      "score": 343,
+      "url": "https://www.drewlyton.com/story/the-future-is-not-self-hosted/",
+      "time": 1753444805.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44682175"
+    },
+    {
       "title": "Experimental surgery performed by AI-driven surgical robot",
-      "score": 92,
+      "score": 96,
       "url": "https://arstechnica.com/science/2025/07/experimental-surgery-performed-by-ai-driven-surgical-robot/",
       "time": 1753475662.0,
       "comments_url": "https://news.ycombinator.com/item?id=44688096"
     },
     {
-      "title": "The future is not self-hosted",
-      "score": 307,
-      "url": "https://www.drewlyton.com/story/the-future-is-not-self-hosted/",
-      "time": 1753444805.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44682175"
+      "title": "Steam, Itch.io are pulling ‘porn’ games. Critics say it's a slippery slope",
+      "score": 514,
+      "url": "https://www.wired.com/story/steam-itchio-are-pulling-porn-games-censorship/",
+      "time": 1753460871.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44685011"
     }
   ]
 }
