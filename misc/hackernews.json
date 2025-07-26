@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-07-26T08:22:21.100147-04:00",
+  "last_updated": "2025-07-26T11:11:49.525387-04:00",
   "stories": [
     {
-      "title": "Rust on Every GPU",
-      "score": 151,
+      "title": "Rust running on every GPU",
+      "score": 276,
       "url": "https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/",
       "time": 1753524489.0,
       "comments_url": "https://news.ycombinator.com/item?id=44692876"
     },
     {
-      "title": "Bringing a Decade Old Bicycle Navigator Back to Life with Open Source Software",
-      "score": 28,
+      "title": "Font-size-adjust Is Useful",
+      "score": 51,
+      "url": "https://matklad.github.io/2025/07/16/font-size-adjust.html",
+      "time": 1753270481.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44658009"
+    },
+    {
+      "title": "Bringing a decade old bicycle navigator back to life with open source software",
+      "score": 93,
       "url": "https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html",
       "time": 1753528083.0,
       "comments_url": "https://news.ycombinator.com/item?id=44693129"
     },
     {
-      "title": "Do not download the app, use the website",
-      "score": 998,
-      "url": "https://idiallo.com/blog/dont-download-apps",
-      "time": 1753481229.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44689059"
-    },
-    {
-      "title": "Open Sauce is a confoundingly brilliant Bay Area event",
-      "score": 142,
-      "url": "https://www.jeffgeerling.com/blog/2025/open-sauce-confoundingly-brilliant-bay-area-event",
-      "time": 1753266125.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44657550"
-    },
-    {
       "title": "Breaking the WASM/JS communication performance barrier",
-      "score": 18,
+      "score": 65,
       "url": "https://github.com/ealmloff/sledgehammer_bindgen",
       "time": 1753254691.0,
       "comments_url": "https://news.ycombinator.com/item?id=44656516"
     },
     {
-      "title": "It's time for modern CSS to kill the SPA",
-      "score": 524,
-      "url": "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/",
-      "time": 1753477680.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44688489"
+      "title": "Open Sauce is a confoundingly brilliant Bay Area event",
+      "score": 196,
+      "url": "https://www.jeffgeerling.com/blog/2025/open-sauce-confoundingly-brilliant-bay-area-event",
+      "time": 1753266125.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44657550"
     },
     {
-      "title": "CCTV Footage Captures the First-Ever Video of an Earthquake Fault in Motion",
-      "score": 176,
+      "title": "CCTV footage captures the first-ever video of an earthquake fault in motion",
+      "score": 232,
       "url": "https://www.smithsonianmag.com/smart-news/cctv-footage-captures-the-first-ever-video-of-an-earthquake-fault-in-motion-shining-a-rare-light-on-seismic-dynamics-180987034/",
       "time": 1753498483.0,
       "comments_url": "https://news.ycombinator.com/item?id=44690911"
     },
     {
-      "title": "The Rise and Fall of the Hanseatic League",
-      "score": 47,
+      "title": "It's time for modern CSS to kill the SPA",
+      "score": 587,
+      "url": "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/",
+      "time": 1753477680.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44688489"
+    },
+    {
+      "title": "The rise and fall of the Hanseatic League",
+      "score": 84,
       "url": "https://worksinprogress.co/issue/the-rise-and-fall-of-the-hanseatic-league/",
       "time": 1753259764.0,
       "comments_url": "https://news.ycombinator.com/item?id=44656961"
     },
     {
       "title": "Simon Tatham's Portable Puzzle Collection",
-      "score": 53,
+      "score": 95,
       "url": "https://www.chiark.greenend.org.uk/~sgtatham/puzzles/",
       "time": 1753512404.0,
       "comments_url": "https://news.ycombinator.com/item?id=44691935"
     },
     {
-      "title": "Keep Pydantic out of your Domain Layer",
-      "score": 18,
-      "url": "https://coderik.nl/posts/keep-pydantic-out-of-your-domain-layer/",
-      "time": 1753253651.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44656419"
-    },
-    {
       "title": "Yes, the Book of PF, Fourth Edition Is Coming Soon",
-      "score": 22,
+      "score": 47,
       "url": "https://bsdly.blogspot.com/2025/07/yes-book-of-pf-4th-edition-is-coming.html",
       "time": 1753268687.0,
       "comments_url": "https://news.ycombinator.com/item?id=44657803"
     },
     {
+      "title": "The append-and-review note",
+      "score": 32,
+      "url": "https://karpathy.bearblog.dev/the-append-and-review-note/",
+      "time": 1753275686.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44658745"
+    },
+    {
+      "title": "I am a SOTA 0-shot classifier of your slop",
+      "score": 48,
+      "url": "https://christopherkrapu.com/blog/2025/i-know-you-didnt-write-that/",
+      "time": 1753535115.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44693803"
+    },
+    {
+      "title": "Users claim Discord's age verification can be tricked with video game characters",
+      "score": 78,
+      "url": "https://www.thepinknews.com/2025/07/25/discord-video-game-characters-age-verification-checks-uk-online-safety-act/",
+      "time": 1753503816.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44691312"
+    },
+    {
+      "title": "Keep Pydantic out of your Domain Layer",
+      "score": 33,
+      "url": "https://coderik.nl/posts/keep-pydantic-out-of-your-domain-layer/",
+      "time": 1753253651.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44656419"
+    },
+    {
+      "title": "Do not download the app, use the website",
+      "score": 1085,
+      "url": "https://idiallo.com/blog/dont-download-apps",
+      "time": 1753481229.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44689059"
+    },
+    {
       "title": "It's a DE9, not a DB9 (but we know what you mean)",
-      "score": 390,
+      "score": 399,
       "url": "https://news.sparkfun.com/14298",
       "time": 1753450509.0,
       "comments_url": "https://news.ycombinator.com/item?id=44682964"
     },
     {
+      "title": "Instapaper Rakuten Kobo Integration",
+      "score": 9,
+      "url": "https://blog.instapaper.com/post/789685899750424576/instapaper-rakuten-kobo-integration",
+      "time": 1753271297.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44658127"
+    },
+    {
       "title": "Never write your own date parsing library",
-      "score": 206,
+      "score": 218,
       "url": "https://www.zachleat.com/web/adventures-in-date-parsing/",
       "time": 1753464985.0,
       "comments_url": "https://news.ycombinator.com/item?id=44685875"
     },
     {
-      "title": "Why I Do Programming",
-      "score": 38,
-      "url": "https://esafev.com/notes/why-i-do-programming/",
-      "time": 1753509440.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44691722"
+      "title": "Vanilla JavaScript support for Tailwind Plus",
+      "score": 272,
+      "url": "https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus",
+      "time": 1753467081.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44686317"
     },
     {
       "title": "Why MIT switched from Scheme to Python (2009)",
-      "score": 235,
+      "score": 244,
       "url": "https://www.wisdomandwonder.com/link/2110/why-mit-switched-from-scheme-to-python",
       "time": 1753461496.0,
       "comments_url": "https://news.ycombinator.com/item?id=44685119"
-    },
-    {
-      "title": "Efficient Computer's Electron E1 CPU – 100x more efficient than Arm?",
-      "score": 212,
-      "url": "https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu",
-      "time": 1753461044.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44685050"
-    },
-    {
-      "title": "Animated Cursors",
-      "score": 198,
-      "url": "https://tattoy.sh/news/animated-cursors/",
-      "time": 1753466365.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44686164"
-    },
-    {
-      "title": "The future is not self-hosted",
-      "score": 343,
-      "url": "https://www.drewlyton.com/story/the-future-is-not-self-hosted/",
-      "time": 1753444805.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44682175"
-    },
-    {
-      "title": "Experimental surgery performed by AI-driven surgical robot",
-      "score": 96,
-      "url": "https://arstechnica.com/science/2025/07/experimental-surgery-performed-by-ai-driven-surgical-robot/",
-      "time": 1753475662.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44688096"
-    },
-    {
-      "title": "Steam, Itch.io are pulling ‘porn’ games. Critics say it's a slippery slope",
-      "score": 514,
-      "url": "https://www.wired.com/story/steam-itchio-are-pulling-porn-games-censorship/",
-      "time": 1753460871.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44685011"
     }
   ]
 }
