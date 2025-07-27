@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-07-26T17:10:51.084356-04:00",
+  "last_updated": "2025-07-26T21:09:09.933577-04:00",
   "stories": [
     {
-      "title": "Test Results for AMD Zen 5",
-      "score": 119,
-      "url": "https://www.agner.org/forum/viewtopic.php?t=287&start=10",
-      "time": 1753555497.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44696167"
+      "title": "Resizable Structs in Zig",
+      "score": 73,
+      "url": "https://tristanpemble.com/resizable-structs-in-zig/",
+      "time": 1753566237.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44697131"
+    },
+    {
+      "title": "Asyncio: A library with too many sharp corners",
+      "score": 20,
+      "url": "https://sailor.li/asyncio",
+      "time": 1753572920.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44697761"
+    },
+    {
+      "title": "Epic Recall, Epic Fail",
+      "score": 62,
+      "url": "https://taipology.substack.com/p/epic-recall-epic-fail",
+      "time": 1753564655.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44696973"
+    },
+    {
+      "title": "Show HN: QuickTunes: Apple Music player for Mac with iPod vibes",
+      "score": 19,
+      "url": "https://furnacecreek.org/quicktunes/",
+      "time": 1753573406.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44697798"
+    },
+    {
+      "title": "Personal aviation is about to get interesting (2023)",
+      "score": 20,
+      "url": "https://www.elidourado.com/p/personal-aviation",
+      "time": 1753571006.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44697590"
     },
     {
       "title": "How We Rooted Copilot",
-      "score": 187,
+      "score": 233,
       "url": "https://research.eye.security/how-we-rooted-copilot/",
       "time": 1753545969.0,
       "comments_url": "https://news.ycombinator.com/item?id=44695098"
     },
     {
+      "title": "Paul Dirac and the religion of mathematical beauty (2011) [video]",
+      "score": 23,
+      "url": "https://www.youtube.com/watch?v=jPwo1XsKKXg",
+      "time": 1753569165.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44697437"
+    },
+    {
       "title": "Purple Earth hypothesis",
-      "score": 112,
+      "score": 165,
       "url": "https://en.wikipedia.org/wiki/Purple_Earth_hypothesis",
       "time": 1753317818.0,
       "comments_url": "https://news.ycombinator.com/item?id=44665644"
     },
     {
-      "title": "Rust running on every GPU",
-      "score": 425,
-      "url": "https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/",
-      "time": 1753524489.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44692876"
-    },
-    {
-      "title": "The Sail instruction-set semantics specification language",
-      "score": 8,
-      "url": "https://alasdair.github.io/manual.html",
-      "time": 1753559940.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44696543"
-    },
-    {
-      "title": "What Went Wrong for Yahoo",
-      "score": 66,
+      "title": "What went wrong for Yahoo",
+      "score": 106,
       "url": "https://dfarq.homeip.net/what-went-wrong-for-yahoo/",
       "time": 1753554313.0,
       "comments_url": "https://news.ycombinator.com/item?id=44696033"
     },
     {
-      "title": "Font-size-adjust Is Useful",
-      "score": 135,
-      "url": "https://matklad.github.io/2025/07/16/font-size-adjust.html",
-      "time": 1753270481.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44658009"
+      "title": "Rust running on every GPU",
+      "score": 474,
+      "url": "https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/",
+      "time": 1753524489.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44692876"
     },
     {
-      "title": "Inverted Indexes: A Step-by-Step Implementation Guide",
-      "score": 39,
-      "url": "https://www.chashnikov.dev/post/inverted-indexes-a-step-by-step-implementation-guide",
-      "time": 1753275200.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44658665"
+      "title": "Getting decent error reports in Bash when you're using 'set -e'",
+      "score": 53,
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports",
+      "time": 1753332027.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44666984"
+    },
+    {
+      "title": "Arvo Pärt at 90",
+      "score": 28,
+      "url": "https://www.theguardian.com/music/2025/jul/24/the-god-of-small-things-celebrating-arvo-part-at-90",
+      "time": 1753563783.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44696894"
+    },
+    {
+      "title": "Tinyio: A tiny (~200 line) event loop for Python",
+      "score": 23,
+      "url": "https://github.com/patrick-kidger/tinyio",
+      "time": 1753221741.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44653509"
+    },
+    {
+      "title": "Algos and Code Performance: Your Code Works but Can It Handle Real Traffic?",
+      "score": 5,
+      "url": "https://beon.tech/blog/optimizing-algorithms-code-performance",
+      "time": 1753281878.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44659792"
+    },
+    {
+      "title": "Coronary artery calcium testing can reveal plaque in arteries, but is underused",
+      "score": 15,
+      "url": "https://www.nytimes.com/2025/07/26/health/coronary-artery-calcium-heart.html",
+      "time": 1753566307.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44697145"
+    },
+    {
+      "title": "OCaml Programming: Correct and Efficient and Beautiful",
+      "score": 77,
+      "url": "https://cs3110.github.io/textbook/cover.html",
+      "time": 1753564718.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44696979"
+    },
+    {
+      "title": "Test Results for AMD Zen 5",
+      "score": 191,
+      "url": "https://www.agner.org/forum/viewtopic.php?t=287&start=10",
+      "time": 1753555497.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44696167"
+    },
+    {
+      "title": "Torqued Accelerator Using Radiation from the Sun (Tars) for Interstellar Payload",
+      "score": 13,
+      "url": "https://arxiv.org/abs/2507.17615",
+      "time": 1753569559.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44697465"
     },
     {
       "title": "Large ancient Hawaiian petroglyphs uncovered by waves on Oahu",
-      "score": 27,
+      "score": 67,
       "url": "https://www.sfgate.com/hawaii/article/hawaii-petroglyphs-uncovered-20780579.php",
       "time": 1753225507.0,
       "comments_url": "https://news.ycombinator.com/item?id=44654031"
     },
     {
-      "title": "Documents detail U.S. soldiers shot by their own Sig Sauer guns (2024)",
-      "score": 3,
-      "url": "https://www.nhpr.org/nh-news/2024-06-25/documents-detail-u-s-soldiers-shot-by-their-own-sig-sauer-guns-military-says-no-reason-for-concern",
-      "time": 1753560233.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44696576"
-    },
-    {
-      "title": "CCTV footage captures video of an earthquake fault in motion",
-      "score": 378,
-      "url": "https://www.smithsonianmag.com/smart-news/cctv-footage-captures-the-first-ever-video-of-an-earthquake-fault-in-motion-shining-a-rare-light-on-seismic-dynamics-180987034/",
-      "time": 1753498483.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44690911"
-    },
-    {
-      "title": "Where are vacation homes located in the US?",
-      "score": 52,
-      "url": "https://www.construction-physics.com/p/where-are-vacation-homes-located",
-      "time": 1753552832.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44695877"
-    },
-    {
-      "title": "Open Sauce is a confoundingly brilliant Bay Area event",
-      "score": 286,
-      "url": "https://www.jeffgeerling.com/blog/2025/open-sauce-confoundingly-brilliant-bay-area-event",
-      "time": 1753266125.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44657550"
-    },
-    {
-      "title": "Bringing a decade old bicycle navigator back to life with open source software",
-      "score": 141,
-      "url": "https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html",
-      "time": 1753528083.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44693129"
-    },
-    {
-      "title": "Ageing accelerates around age 50 ― some organs faster than others",
-      "score": 131,
-      "url": "https://www.nature.com/articles/d41586-025-02333-z",
-      "time": 1753546751.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44695190"
-    },
-    {
-      "title": "The natural diamond industry is getting rocked. Thank the lab-grown variety",
-      "score": 46,
-      "url": "https://www.cbc.ca/news/business/lab-grown-diamonds-1.7592336",
-      "time": 1753532455.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44693570"
-    },
-    {
-      "title": "Breaking the WASM/JS communication performance barrier",
-      "score": 105,
-      "url": "https://github.com/ealmloff/sledgehammer_bindgen",
-      "time": 1753254691.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44656516"
-    },
-    {
-      "title": "It's time for modern CSS to kill the SPA",
-      "score": 669,
-      "url": "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/",
-      "time": 1753477680.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44688489"
-    },
-    {
-      "title": "The rise and fall of the Hanseatic League",
-      "score": 141,
-      "url": "https://worksinprogress.co/issue/the-rise-and-fall-of-the-hanseatic-league/",
-      "time": 1753259764.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44656961"
-    },
-    {
-      "title": "Yes, the Book of PF, Fourth Edition Is Coming Soon",
-      "score": 104,
-      "url": "https://bsdly.blogspot.com/2025/07/yes-book-of-pf-4th-edition-is-coming.html",
-      "time": 1753268687.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44657803"
+      "title": "Millet mystery: Why staple crop failed to take root in ancient Japanese kitchens",
+      "score": 13,
+      "url": "https://phys.org/news/2025-07-millet-mystery-staple-crop-root.html",
+      "time": 1753285665.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44660547"
     }
   ]
 }
