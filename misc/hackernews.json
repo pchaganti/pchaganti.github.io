@@ -1,47 +1,82 @@
 {
-  "last_updated": "2025-07-29T08:26:51.560583-04:00",
+  "last_updated": "2025-07-29T11:15:44.300305-04:00",
   "stories": [
     {
+      "title": "My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air)",
+      "score": 157,
+      "url": "https://simonwillison.net/2025/Jul/29/space-invaders/",
+      "time": 1753796707.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44723316"
+    },
+    {
+      "title": "Learning Is Slower Than You Think",
+      "score": 29,
+      "url": "https://nisheethvishnoi.substack.com/p/learning-is-slower-than-you-think",
+      "time": 1753799021.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44723763"
+    },
+    {
+      "title": "Linux Performance Analysis in 60 seconds (2015)",
+      "score": 77,
+      "url": "https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55",
+      "time": 1753794949.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44722951"
+    },
+    {
+      "title": "Observable Notebooks 2.0 Technology Preview",
+      "score": 8,
+      "url": "https://observablehq.com/notebook-kit/",
+      "time": 1753800240.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44724068"
+    },
+    {
+      "title": "Claude Finds Contradictions in My Thinking",
+      "score": 13,
+      "url": "https://angadh.com/contradictions-1",
+      "time": 1753800375.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44724088"
+    },
+    {
+      "title": "Coverage.py Regex Pragmas",
+      "score": 14,
+      "url": "https://nedbatchelder.com/blog/202507/coveragepy_regex_pragmas.html",
+      "time": 1753795847.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44723131"
+    },
+    {
       "title": "Show HN: Terminal-Bench-RL: Training Long-Horizon Terminal Agents with RL",
-      "score": 37,
+      "score": 83,
       "url": "https://github.com/Danau5tin/terminal-bench-rl",
       "time": 1753787523.0,
       "comments_url": "https://news.ycombinator.com/item?id=44721791"
     },
     {
-      "title": "Nothing to watch – Experimental gallery visualizing 50k film posters",
-      "score": 44,
-      "url": "https://nothing-to-watch.port80.ch",
-      "time": 1753782134.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44721204"
-    },
-    {
-      "title": "Wikimedia Foundation Challenges UK Online Safety Act Regulations",
-      "score": 98,
-      "url": "https://wikimediafoundation.org/news/2025/07/17/wikimedia-foundation-challenges-uk-online-safety-act-regulations/",
-      "time": 1753783949.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44721403"
-    },
-    {
-      "title": "Stop selling “unlimited”, when you mean “until we change our minds”",
-      "score": 177,
-      "url": "https://blog.kilocode.ai/p/ai-pricing-playbook-strikes-again",
-      "time": 1753780519.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44721003"
+      "title": "Project Zero – Policy and Disclosure: 2025 Edition",
+      "score": 3,
+      "url": "https://googleprojectzero.blogspot.com/2025/07/reporting-transparency.html",
+      "time": 1753801420.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44724287"
     },
     {
       "title": "Pony: An actor-model, capabilities-secure, high-performance programming language",
-      "score": 148,
+      "score": 203,
       "url": "https://www.ponylang.io/discover/",
       "time": 1753767255.0,
       "comments_url": "https://news.ycombinator.com/item?id=44719413"
     },
     {
-      "title": "Show HN: CUDA Fractal Renderer",
-      "score": 11,
-      "url": "https://github.com/tripplyons/cuda-fractal-renderer",
-      "time": 1753489327.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44690117"
+      "title": "Show HN: ELF Injector",
+      "score": 4,
+      "url": "https://github.com/dillstead/elf_injector",
+      "time": 1753801202.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44724248"
+    },
+    {
+      "title": "Wikimedia Foundation Challenges UK Online Safety Act Regulations",
+      "score": 243,
+      "url": "https://wikimediafoundation.org/news/2025/07/17/wikimedia-foundation-challenges-uk-online-safety-act-regulations/",
+      "time": 1753783949.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44721403"
     },
     {
       "title": "Sendblue (YC S23) is hiring senior engineers",
@@ -51,95 +86,60 @@
       "comments_url": "https://news.ycombinator.com/item?id=44722217"
     },
     {
-      "title": "Sign in with Google in Chrome",
-      "score": 421,
-      "url": "https://underpassapp.com/news/2025/7/5.html",
-      "time": 1753734278.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44715166"
-    },
-    {
-      "title": "Copyparty – Turn almost any device into a file server",
-      "score": 839,
-      "url": "https://github.com/9001/copyparty",
-      "time": 1753714675.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44711519"
-    },
-    {
-      "title": "I designed my own fast game streaming video codec – PyroWave",
-      "score": 362,
-      "url": "https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/",
-      "time": 1753732886.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44714914"
-    },
-    {
-      "title": "Exploiting zero days in abandoned hardware",
-      "score": 34,
-      "url": "https://blog.trailofbits.com/2025/07/25/exploiting-zero-days-in-abandoned-hardware/",
-      "time": 1753447110.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44682450"
-    },
-    {
-      "title": "Tao on “blue team” vs. “red team” LLMs",
-      "score": 475,
-      "url": "https://mathstodon.xyz/@tao/114915604830689046",
-      "time": 1753713399.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44711306"
-    },
-    {
-      "title": "Rotring 600 Ballpoint Pen",
-      "score": 109,
-      "url": "https://www.shellshore.com/review-rotring-600-ballpoint-pen/",
-      "time": 1753468522.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44686624"
-    },
-    {
-      "title": "Truchet Tiles",
-      "score": 58,
-      "url": "https://en.wikipedia.org/wiki/Truchet_tiles",
-      "time": 1753484030.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44689453"
-    },
-    {
-      "title": "Hologram v0.5.0",
-      "score": 33,
-      "url": "https://hologram.page/blog/hologram-v0-5-0-released",
-      "time": 1753489674.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44690158"
+      "title": "Nothing to watch – Experimental gallery visualizing 50k film posters",
+      "score": 113,
+      "url": "https://nothing-to-watch.port80.ch",
+      "time": 1753782134.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44721204"
     },
     {
       "title": "Age Verification Laws Send VPN Use Soaring–and Threaten the Open Internet",
-      "score": 12,
+      "score": 117,
       "url": "https://www.wired.com/story/vpn-use-spike-age-verification-laws-uk/",
       "time": 1753787358.0,
       "comments_url": "https://news.ycombinator.com/item?id=44721772"
     },
     {
-      "title": "Different Clocks",
-      "score": 197,
-      "url": "https://ianto-cannon.github.io/clock.html",
-      "time": 1753729547.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44714223"
+      "title": "Do variable names matter for AI code completion? (2025)",
+      "score": 10,
+      "url": "https://yakubov.org/blogs/2025-07-25-variable-naming-impact-on-ai-code-completion",
+      "time": 1753486525.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44689778"
     },
     {
-      "title": "Tour de France confronts a new threat: Are cyclists using tiny motors?",
-      "score": 75,
-      "url": "https://www.washingtonpost.com/world/2025/07/25/tour-france-bikes-hidden-motors/",
-      "time": 1753479142.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44688738"
+      "title": "Sign in with Google in Chrome",
+      "score": 484,
+      "url": "https://underpassapp.com/news/2025/7/5.html",
+      "time": 1753734278.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44715166"
     },
     {
-      "title": "Show HN: Companies use AI to take your calls. I built AI to make them for you",
-      "score": 121,
-      "url": "https://www.pipervoice.com/",
-      "time": 1753741034.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44716414"
+      "title": "RP2350 A4, RP2354, and a New Hacking Challenge",
+      "score": 34,
+      "url": "https://www.raspberrypi.com/news/rp2350-a4-rp2354-and-a-new-hacking-challenge/",
+      "time": 1753796293.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44723234"
     },
     {
-      "title": "SQLx – Rust SQL Toolkit",
-      "score": 164,
-      "url": "https://github.com/launchbadge/sqlx",
-      "time": 1753498486.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44690914"
+      "title": "Show HN: CUDA Fractal Renderer",
+      "score": 27,
+      "url": "https://github.com/tripplyons/cuda-fractal-renderer",
+      "time": 1753489327.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44690117"
+    },
+    {
+      "title": "Copyparty – Turn almost any device into a file server",
+      "score": 906,
+      "url": "https://github.com/9001/copyparty",
+      "time": 1753714675.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44711519"
+    },
+    {
+      "title": "Exploiting zero days in abandoned hardware",
+      "score": 67,
+      "url": "https://blog.trailofbits.com/2025/07/25/exploiting-zero-days-in-abandoned-hardware/",
+      "time": 1753447110.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44682450"
     }
   ]
 }
