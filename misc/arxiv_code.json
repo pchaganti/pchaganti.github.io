@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-29T00:03:41.393001-04:00",
+  "last_updated": "2025-07-29T02:20:18.451966-04:00",
   "papers": [
     {
       "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super\n  Intelligence",
@@ -14,7 +14,7 @@
       "published_time_eastern_timestamp": 1753725308.0
     },
     {
-      "title": "Quantum Simulation of Molecular Dynamics Processes - A Benchmark Study\n  Using Classical Simulator and Present-Day Quantum Hardware",
+      "title": "Quantum Simulation of Molecular Dynamics Processes -- A Benchmark Study\n  Using Classical Simulator and Present-Day Quantum Hardware",
       "summary": "We explore how the fundamental problems in quantum molecular dynamics can be\nmodelled using classical simulators (emulators) of quantum computers and the\nactual quantum hardware available to us today. The list of problems we tackle\nincludes propagation of a free wave packet, vibration of a harmonic oscillator,\nand tunneling through a barrier. Each of these problems starts with the initial\nwave packet setup. Although Qiskit provides a general method for initializing\nwavefunctions, in most cases it generates deep quantum circuits. While these\ncircuits perform well on noiseless simulators, they suffer from excessive noise\non quantum hardware. To overcome this issue, we designed a shallower quantum\ncircuit for preparing a Gaussian-like initial wave packet, which improves the\nperformance on real hardware. Next, quantum circuits are implemented to apply\nthe kinetic and potential energy operators for the evolution of a wavefunction\nover time. The results of our modelling on classical emulators of quantum\nhardware agree perfectly with the results obtained using the traditional\n(classical) methods. This serves as a benchmark and demonstrates that the\nquantum algorithms and Qiskit codes we developed are accurate. However, the\nresults obtained on the actual quantum hardware available today, such as IBM's\nsuperconducting qubits and IonQ's trapped ions, indicate large discrepancies\ndue to hardware limitations. This work highlights both the potential and\nchallenges of using quantum computers to solve fundamental quantum molecular\ndynamics problems.",
       "url": "http://arxiv.org/abs/2507.21030v1",
       "published_time_eastern_timestamp": 1753725024.0
