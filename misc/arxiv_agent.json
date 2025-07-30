@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-29T17:12:36.225427-04:00",
+  "last_updated": "2025-07-29T21:04:06.630847-04:00",
   "papers": [
     {
       "title": "A Survey of Self-Evolving Agents: On Path to Artificial Super\n  Intelligence",
@@ -112,7 +112,7 @@
     {
       "title": "T2I-Copilot: A Training-Free Multi-Agent Text-to-Image System for\n  Enhanced Prompt Interpretation and Interactive Generation",
       "summary": "Text-to-Image (T2I) generative models have revolutionized content creation\nbut remain highly sensitive to prompt phrasing, often requiring users to\nrepeatedly refine prompts multiple times without clear feedback. While\ntechniques such as automatic prompt engineering, controlled text embeddings,\ndenoising, and multi-turn generation mitigate these issues, they offer limited\ncontrollability, or often necessitate additional training, restricting the\ngeneralization abilities. Thus, we introduce T2I-Copilot, a training-free\nmulti-agent system that leverages collaboration between (Multimodal) Large\nLanguage Models to automate prompt phrasing, model selection, and iterative\nrefinement. This approach significantly simplifies prompt engineering while\nenhancing generation quality and text-image alignment compared to direct\ngeneration. Specifically, T2I-Copilot consists of three agents: (1) Input\nInterpreter, which parses the input prompt, resolves ambiguities, and generates\na standardized report; (2) Generation Engine, which selects the appropriate\nmodel from different types of T2I models and organizes visual and textual\nprompts to initiate generation; and (3) Quality Evaluator, which assesses\naesthetic quality and text-image alignment, providing scores and feedback for\npotential regeneration. T2I-Copilot can operate fully autonomously while also\nsupporting human-in-the-loop intervention for fine-grained control. On\nGenAI-Bench, using open-source generation models, T2I-Copilot achieves a VQA\nscore comparable to commercial models RecraftV3 and Imagen 3, surpasses\nFLUX1.1-pro by 6.17% at only 16.59% of its cost, and outperforms FLUX.1-dev and\nSD 3.5 Large by 9.11% and 6.36%. Code will be released at:\nhttps://github.com/SHI-Labs/T2I-Copilot.",
-      "url": "http://arxiv.org/abs/2507.20536v1",
+      "url": "http://arxiv.org/abs/2507.20536v2",
       "published_time_eastern_timestamp": 1753681282.0
     },
     {
