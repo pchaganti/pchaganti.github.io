@@ -1,10 +1,10 @@
 {
-  "last_updated": "2025-07-30T17:12:05.739423-04:00",
+  "last_updated": "2025-07-30T21:03:58.135482-04:00",
   "papers": [
     {
       "title": "DeepSieve: Information Sieving via LLM-as-a-Knowledge-Router",
-      "summary": "Large Language Models (LLMs) excel at many reasoning tasks but struggle with\nknowledge-intensive queries due to their inability to dynamically access\nup-to-date or domain-specific information. Retrieval-Augmented Generation (RAG)\nhas emerged as a promising solution, enabling LLMs to ground their responses in\nexternal sources. However, existing RAG methods lack fine-grained control over\nboth the query and source sides, often resulting in noisy retrieval and shallow\nreasoning. In this work, we introduce DeepSieve, an agentic RAG framework that\nincorporates information sieving via LLM-as-a-knowledge-router. DeepSieve\ndecomposes complex queries into structured sub-questions and recursively routes\neach to the most suitable knowledge source, filtering irrelevant information\nthrough a multi-stage distillation process. Our design emphasizes modularity,\ntransparency, and adaptability, leveraging recent advances in agentic system\ndesign. Experiments on multi-hop QA tasks across heterogeneous sources\ndemonstrate improved reasoning depth, retrieval precision, and interpretability\nover conventional RAG approaches.",
-      "url": "http://arxiv.org/abs/2507.22050v1",
+      "summary": "Large Language Models (LLMs) excel at many reasoning tasks but struggle with\nknowledge-intensive queries due to their inability to dynamically access\nup-to-date or domain-specific information. Retrieval-Augmented Generation (RAG)\nhas emerged as a promising solution, enabling LLMs to ground their responses in\nexternal sources. However, existing RAG methods lack fine-grained control over\nboth the query and source sides, often resulting in noisy retrieval and shallow\nreasoning. In this work, we introduce DeepSieve, an agentic RAG framework that\nincorporates information sieving via LLM-as-a-knowledge-router. DeepSieve\ndecomposes complex queries into structured sub-questions and recursively routes\neach to the most suitable knowledge source, filtering irrelevant information\nthrough a multi-stage distillation process. Our design emphasizes modularity,\ntransparency, and adaptability, leveraging recent advances in agentic system\ndesign. Experiments on multi-hop QA tasks across heterogeneous sources\ndemonstrate improved reasoning depth, retrieval precision, and interpretability\nover conventional RAG approaches. Our codes are available at\nhttps://github.com/MinghoKwok/DeepSieve.",
+      "url": "http://arxiv.org/abs/2507.22050v2",
       "published_time_eastern_timestamp": 1753811723.0
     },
     {
@@ -28,7 +28,7 @@
     {
       "title": "UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and\n  Precise Inference-Time Grounding",
       "summary": "The emergence of Multimodal Large Language Models (MLLMs) has driven\nsignificant advances in Graphical User Interface (GUI) agent capabilities.\nNevertheless, existing GUI agent training and inference techniques still suffer\nfrom a dilemma for reasoning designs, ineffective reward, and visual noise. To\naddress these issues, we introduce UI-AGILE, a comprehensive framework\nenhancing GUI agents at both the training and inference stages. For training,\nwe propose a suite of improvements to the Supervised Fine-Tuning (SFT) process:\n1) a Continuous Reward function to incentivize high-precision grounding; 2) a\n\"Simple Thinking\" reward to balance planning with speed and grounding accuracy;\nand 3) a Cropping-based Resampling strategy to mitigate the sparse reward\nproblem and improve learning on complex tasks. For inference, we present\nDecomposed Grounding with Selection, a novel method that dramatically improves\ngrounding accuracy on high-resolution displays by breaking the image into\nsmaller, manageable parts. Experiments show that UI-AGILE achieves the\nstate-of-the-art performance on two benchmarks ScreenSpot-Pro and\nScreenSpot-v2. For instance, using both our proposed training and inference\nenhancement methods brings 23% grounding accuracy improvement over the best\nbaseline on ScreenSpot-Pro.",
-      "url": "http://arxiv.org/abs/2507.22025v1",
+      "url": "http://arxiv.org/abs/2507.22025v2",
       "published_time_eastern_timestamp": 1753809727.0
     },
     {

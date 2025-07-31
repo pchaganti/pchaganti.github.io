@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-30T17:12:05.221169-04:00",
+  "last_updated": "2025-07-30T21:03:57.689688-04:00",
   "papers": [
     {
       "title": "MetaCLIP 2: A Worldwide Scaling Recipe",
@@ -9,8 +9,8 @@
     },
     {
       "title": "DeepSieve: Information Sieving via LLM-as-a-Knowledge-Router",
-      "summary": "Large Language Models (LLMs) excel at many reasoning tasks but struggle with\nknowledge-intensive queries due to their inability to dynamically access\nup-to-date or domain-specific information. Retrieval-Augmented Generation (RAG)\nhas emerged as a promising solution, enabling LLMs to ground their responses in\nexternal sources. However, existing RAG methods lack fine-grained control over\nboth the query and source sides, often resulting in noisy retrieval and shallow\nreasoning. In this work, we introduce DeepSieve, an agentic RAG framework that\nincorporates information sieving via LLM-as-a-knowledge-router. DeepSieve\ndecomposes complex queries into structured sub-questions and recursively routes\neach to the most suitable knowledge source, filtering irrelevant information\nthrough a multi-stage distillation process. Our design emphasizes modularity,\ntransparency, and adaptability, leveraging recent advances in agentic system\ndesign. Experiments on multi-hop QA tasks across heterogeneous sources\ndemonstrate improved reasoning depth, retrieval precision, and interpretability\nover conventional RAG approaches.",
-      "url": "http://arxiv.org/abs/2507.22050v1",
+      "summary": "Large Language Models (LLMs) excel at many reasoning tasks but struggle with\nknowledge-intensive queries due to their inability to dynamically access\nup-to-date or domain-specific information. Retrieval-Augmented Generation (RAG)\nhas emerged as a promising solution, enabling LLMs to ground their responses in\nexternal sources. However, existing RAG methods lack fine-grained control over\nboth the query and source sides, often resulting in noisy retrieval and shallow\nreasoning. In this work, we introduce DeepSieve, an agentic RAG framework that\nincorporates information sieving via LLM-as-a-knowledge-router. DeepSieve\ndecomposes complex queries into structured sub-questions and recursively routes\neach to the most suitable knowledge source, filtering irrelevant information\nthrough a multi-stage distillation process. Our design emphasizes modularity,\ntransparency, and adaptability, leveraging recent advances in agentic system\ndesign. Experiments on multi-hop QA tasks across heterogeneous sources\ndemonstrate improved reasoning depth, retrieval precision, and interpretability\nover conventional RAG approaches. Our codes are available at\nhttps://github.com/MinghoKwok/DeepSieve.",
+      "url": "http://arxiv.org/abs/2507.22050v2",
       "published_time_eastern_timestamp": 1753811723.0
     },
     {
@@ -39,8 +39,8 @@
     },
     {
       "title": "ChemDFM-R: An Chemical Reasoner LLM Enhanced with Atomized Chemical\n  Knowledge",
-      "summary": "While large language models (LLMs) have achieved impressive progress, their\napplication in scientific domains such as chemistry remains hindered by shallow\ndomain understanding and limited reasoning capabilities. In this work, we focus\non the specific field of chemistry and develop a Chemical Reasoner LLM,\nChemDFM-R. We first construct a comprehensive dataset of atomized knowledge\npoints to enhance the model's understanding of the fundamental principles and\nlogical structure of chemistry. Then, we propose a mix-sourced distillation\nstrategy that integrates expert-curated knowledge with general-domain reasoning\nskills, followed by domain-specific reinforcement learning to enhance chemical\nreasoning. Experiments on diverse chemical benchmarks demonstrate that\nChemDFM-R achieves state-of-the-art performance while providing interpretable,\nrationale-driven outputs. Further case studies illustrate how explicit\nreasoning chains significantly improve the reliability, transparency, and\npractical utility of the model in real-world human-AI collaboration scenarios.",
-      "url": "http://arxiv.org/abs/2507.21990v1",
+      "summary": "While large language models (LLMs) have achieved impressive progress, their\napplication in scientific domains such as chemistry remains hindered by shallow\ndomain understanding and limited reasoning capabilities. In this work, we focus\non the specific field of chemistry and develop a Chemical Reasoner LLM,\nChemDFM-R. We first construct a comprehensive dataset of atomized knowledge\npoints to enhance the model's understanding of the fundamental principles and\nlogical structure of chemistry. Then, we propose a mix-sourced distillation\nstrategy that integrates expert-curated knowledge with general-domain reasoning\nskills, followed by domain-specific reinforcement learning to enhance chemical\nreasoning. Experiments on diverse chemical benchmarks demonstrate that\nChemDFM-R achieves cutting-edge performance while providing interpretable,\nrationale-driven outputs. Further case studies illustrate how explicit\nreasoning chains significantly improve the reliability, transparency, and\npractical utility of the model in real-world human-AI collaboration scenarios.",
+      "url": "http://arxiv.org/abs/2507.21990v2",
       "published_time_eastern_timestamp": 1753807249.0
     },
     {

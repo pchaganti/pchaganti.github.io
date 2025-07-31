@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-30T17:12:06.258075-04:00",
+  "last_updated": "2025-07-30T21:03:58.555201-04:00",
   "papers": [
     {
       "title": "Zak-OTFS Based Coded Random Access for Uplink mMTC",
@@ -21,8 +21,8 @@
     },
     {
       "title": "See Different, Think Better: Visual Variations Mitigating Hallucinations\n  in LVLMs",
-      "summary": "Large Vision-Language Models (LVLMs) have demonstrated remarkable\ncapabilities in visual understanding and multimodal reasoning. However, LVLMs\nfrequently exhibit hallucination phenomena, manifesting as the generated\ntextual responses that demonstrate inconsistencies with the provided visual\ncontent. Existing hallucination mitigation methods are predominantly\ntext-centric, the challenges of visual-semantic alignment significantly limit\ntheir effectiveness, especially when confronted with fine-grained visual\nunderstanding scenarios. To this end, this paper presents ViHallu, a\nVision-Centric Hallucination mitigation framework that enhances visual-semantic\nalignment through Visual Variation Image Generation and Visual Instruction\nConstruction. ViHallu introduces \\textbf{\\textit{visual variation images}} with\ncontrollable visual alterations while maintaining the overall image structure.\nThese images, combined with carefully constructed visual instructions, enable\nLVLMs to better understand fine-grained visual content through fine-tuning,\nallowing models to more precisely capture the correspondence between visual\ncontent and text, thereby enhancing visual-semantic alignment. Extensive\nexperiments on multiple benchmarks show that ViHallu effectively enhances\nmodels' fine-grained visual understanding while significantly reducing\nhallucination tendencies. Furthermore, we release ViHallu-Instruction, a visual\ninstruction dataset specifically designed for hallucination mitigation and\nvisual-semantic alignment. Code is available at\nhttps://github.com/oliviadzy/ViHallu.",
-      "url": "http://arxiv.org/abs/2507.22003v1",
+      "summary": "Large Vision-Language Models (LVLMs) have demonstrated remarkable\ncapabilities in visual understanding and multimodal reasoning. However, LVLMs\nfrequently exhibit hallucination phenomena, manifesting as the generated\ntextual responses that demonstrate inconsistencies with the provided visual\ncontent. Existing hallucination mitigation methods are predominantly\ntext-centric, the challenges of visual-semantic alignment significantly limit\ntheir effectiveness, especially when confronted with fine-grained visual\nunderstanding scenarios. To this end, this paper presents ViHallu, a\nVision-Centric Hallucination mitigation framework that enhances visual-semantic\nalignment through Visual Variation Image Generation and Visual Instruction\nConstruction. ViHallu introduces visual variation images with controllable\nvisual alterations while maintaining the overall image structure. These images,\ncombined with carefully constructed visual instructions, enable LVLMs to better\nunderstand fine-grained visual content through fine-tuning, allowing models to\nmore precisely capture the correspondence between visual content and text,\nthereby enhancing visual-semantic alignment. Extensive experiments on multiple\nbenchmarks show that ViHallu effectively enhances models' fine-grained visual\nunderstanding while significantly reducing hallucination tendencies.\nFurthermore, we release ViHallu-Instruction, a visual instruction dataset\nspecifically designed for hallucination mitigation and visual-semantic\nalignment. Code is available at https://github.com/oliviadzy/ViHallu.",
+      "url": "http://arxiv.org/abs/2507.22003v2",
       "published_time_eastern_timestamp": 1753808007.0
     },
     {
@@ -82,7 +82,7 @@
     {
       "title": "Predict Patient Self-reported Race from Skin Histological Images",
       "summary": "Artificial Intelligence (AI) has demonstrated success in computational\npathology (CPath) for disease detection, biomarker classification, and\nprognosis prediction. However, its potential to learn unintended demographic\nbiases, particularly those related to social determinants of health, remains\nunderstudied. This study investigates whether deep learning models can predict\nself-reported race from digitized dermatopathology slides and identifies\npotential morphological shortcuts. Using a multisite dataset with a racially\ndiverse population, we apply an attention-based mechanism to uncover\nrace-associated morphological features. After evaluating three dataset curation\nstrategies to control for confounding factors, the final experiment showed that\nWhite and Black demographic groups retained high prediction performance (AUC:\n0.799, 0.762), while overall performance dropped to 0.663. Attention analysis\nrevealed the epidermis as a key predictive feature, with significant\nperformance declines when these regions were removed. These findings highlight\nthe need for careful data curation and bias mitigation to ensure equitable AI\ndeployment in pathology. Code available at:\nhttps://github.com/sinai-computational-pathology/CPath_SAIF.",
-      "url": "http://arxiv.org/abs/2507.21912v1",
+      "url": "http://arxiv.org/abs/2507.21912v2",
       "published_time_eastern_timestamp": 1753802859.0
     },
     {
@@ -100,7 +100,7 @@
     {
       "title": "Tiny-BioMoE: a Lightweight Embedding Model for Biosignal Analysis",
       "summary": "Pain is a complex and pervasive condition that affects a significant portion\nof the population. Accurate and consistent assessment is essential for\nindividuals suffering from pain, as well as for developing effective management\nstrategies in a healthcare system. Automatic pain assessment systems enable\ncontinuous monitoring, support clinical decision-making, and help minimize\npatient distress while mitigating the risk of functional deterioration.\nLeveraging physiological signals offers objective and precise insights into a\nperson's state, and their integration in a multimodal framework can further\nenhance system performance. This study has been submitted to the \\textit{Second\nMultimodal Sensing Grand Challenge for Next-Gen Pain Assessment (AI4PAIN)}. The\nproposed approach introduces \\textit{Tiny-BioMoE}, a lightweight pretrained\nembedding model for biosignal analysis. Trained on $4.4$ million biosignal\nimage representations and consisting of only $7.3$ million parameters, it\nserves as an effective tool for extracting high-quality embeddings for\ndownstream tasks. Extensive experiments involving electrodermal activity, blood\nvolume pulse, respiratory signals, peripheral oxygen saturation, and their\ncombinations highlight the model's effectiveness across diverse modalities in\nautomatic pain recognition tasks. \\textit{\\textcolor{blue}{The model's\narchitecture (code) and weights are available at\nhttps://github.com/GkikasStefanos/Tiny-BioMoE.",
-      "url": "http://arxiv.org/abs/2507.21875v1",
+      "url": "http://arxiv.org/abs/2507.21875v2",
       "published_time_eastern_timestamp": 1753800399.0
     },
     {
