@@ -1,40 +1,82 @@
 {
-  "last_updated": "2025-07-30T21:03:56.378470-04:00",
+  "last_updated": "2025-07-30T23:59:44.812534-04:00",
   "stories": [
     {
       "title": "Fast",
-      "score": 751,
+      "score": 935,
       "url": "https://www.catherinejue.com/fast",
       "time": 1753896077.0,
       "comments_url": "https://news.ycombinator.com/item?id=44736967"
     },
     {
-      "title": "Ollama has a native front end chatbot now",
-      "score": 149,
+      "title": "Classic Common Desktop Environment coming to OpenBSD",
+      "score": 41,
+      "url": "https://undeadly.org/cgi?action=article;sid=20250730080301",
+      "time": 1753926178.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44741539"
+    },
+    {
+      "title": "Ollama's new app",
+      "score": 241,
       "url": "https://ollama.com/blog/new-app",
       "time": 1753910343.0,
       "comments_url": "https://news.ycombinator.com/item?id=44739632"
     },
     {
+      "title": "Figma will IPO on July 31",
+      "score": 129,
+      "url": "https://www.figma.com/blog/ipo-pricing/",
+      "time": 1753914298.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44740222"
+    },
+    {
       "title": "The math is haunted",
-      "score": 99,
+      "score": 147,
       "url": "https://overreacted.io/the-math-is-haunted/",
       "time": 1753908409.0,
       "comments_url": "https://news.ycombinator.com/item?id=44739315"
     },
     {
       "title": "Vibe code is legacy code",
-      "score": 283,
+      "score": 381,
       "url": "https://blog.val.town/vibe-code",
       "time": 1753910000.0,
       "comments_url": "https://news.ycombinator.com/item?id=44739556"
     },
     {
+      "title": "Optician Sans – A free font based on historical eye charts and optotypes",
+      "score": 225,
+      "url": "https://optician-sans.com/",
+      "time": 1753891918.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44736090"
+    },
+    {
       "title": "Early universe's 'little red dots' may be black hole stars",
-      "score": 36,
+      "score": 56,
       "url": "https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars",
       "time": 1753910301.0,
       "comments_url": "https://news.ycombinator.com/item?id=44739618"
+    },
+    {
+      "title": "Pentagon Pizza Index",
+      "score": 52,
+      "url": "https://www.pizzint.watch/",
+      "time": 1753914063.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44740185"
+    },
+    {
+      "title": "Ferroelectric helps break transistor limits",
+      "score": 15,
+      "url": "https://spectrum.ieee.org/negative-capacitance-schottky-limit",
+      "time": 1753707769.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44710461"
+    },
+    {
+      "title": "A short post on short trains",
+      "score": 66,
+      "url": "https://shakeddown.substack.com/p/a-short-post-on-short-trains",
+      "time": 1753884907.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44734522"
     },
     {
       "title": "Sei (YC W22) Is Hiring a Full Stack Engineer in Chennai, India",
@@ -44,102 +86,60 @@
       "comments_url": "https://news.ycombinator.com/item?id=44741305"
     },
     {
-      "title": "Optician Sans – A free font based on historical eye charts and optotypes",
-      "score": 205,
-      "url": "https://optician-sans.com/",
-      "time": 1753891918.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44736090"
-    },
-    {
-      "title": "Figma Announces IPO",
-      "score": 24,
-      "url": "https://www.figma.com/blog/ipo-pricing/",
-      "time": 1753914298.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44740222"
-    },
-    {
-      "title": "A short post on short trains",
-      "score": 52,
-      "url": "https://shakeddown.substack.com/p/a-short-post-on-short-trains",
-      "time": 1753884907.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44734522"
-    },
-    {
-      "title": "Show HN: Open-source alternative to ChatGPT Agents for browsing",
-      "score": 54,
-      "url": "https://github.com/trymeka/agent",
-      "time": 1753884696.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44734471"
-    },
-    {
-      "title": "Poor child process management in Rust terminal apps leads to terminal corruption",
-      "score": 46,
+      "title": "Fixing Ctrl+C in Rust terminal apps: Child process management",
+      "score": 65,
       "url": "https://www.fiveonefour.com/blog/Fixing-ctrl-c-in-terminal-apps-child-process-management",
       "time": 1753826704.0,
       "comments_url": "https://news.ycombinator.com/item?id=44728796"
     },
     {
-      "title": "Launch HN: Lucidic (YC W25) – Debug, test, and evaluate AI agents in production",
-      "score": 88,
-      "url": "https://news.ycombinator.com/item?id=44735843",
-      "time": 1753890842.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44735843"
-    },
-    {
       "title": "Problem solving often a matter of cooking up an appropriate Markov chain (2007)",
-      "score": 199,
+      "score": 212,
       "url": "http://math.uchicago.edu/~shmuel/Network-course-readings/Markov_chain_tricks.pdf",
       "time": 1753878592.0,
       "comments_url": "https://news.ycombinator.com/item?id=44733341"
     },
     {
-      "title": "The Preserving Machine by Philip K. Dick (1953)",
-      "score": 40,
-      "url": "https://archive.org/details/Fantasy_Science_Fiction_v004n06_1953-06",
-      "time": 1753901743.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44738161"
-    },
-    {
-      "title": "Critical Vulnerability in AI Vibe Coding platform Base44",
-      "score": 90,
-      "url": "https://www.wiz.io/blog/critical-vulnerability-base44",
-      "time": 1753891952.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44736101"
-    },
-    {
-      "title": "Australia widens teen social media ban to YouTube, scraps exemption",
-      "score": 157,
-      "url": "https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/",
-      "time": 1753894749.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44736646"
-    },
-    {
-      "title": "Show HN: An AI agent that learns your product and guides your users",
-      "score": 38,
-      "url": "https://frigade.ai",
-      "time": 1753881890.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44733892"
+      "title": "Launch HN: Lucidic (YC W25) – Debug, test, and evaluate AI agents in production",
+      "score": 97,
+      "url": "https://news.ycombinator.com/item?id=44735843",
+      "time": 1753890842.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44735843"
     },
     {
       "title": "Our $100M Series B",
-      "score": 610,
+      "score": 649,
       "url": "https://oxide.computer/blog/our-100m-series-b",
       "time": 1753881448.0,
       "comments_url": "https://news.ycombinator.com/item?id=44733817"
     },
     {
-      "title": "Writing memory efficient C structs",
-      "score": 125,
-      "url": "https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html",
-      "time": 1753882343.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44733968"
+      "title": "Emacs: The macOS Bug",
+      "score": 96,
+      "url": "https://xlii.space/eng/emacs-the-macos-bug/",
+      "time": 1753899335.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44737676"
     },
     {
-      "title": "Ultra-Rapid Vision in Birds",
-      "score": 48,
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151099",
-      "time": 1753633966.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44702478"
+      "title": "Australia widens teen social media ban to YouTube, scraps exemption",
+      "score": 209,
+      "url": "https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/",
+      "time": 1753894749.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44736646"
+    },
+    {
+      "title": "Show HN: Open-source alternative to ChatGPT Agents for browsing",
+      "score": 66,
+      "url": "https://github.com/trymeka/agent",
+      "time": 1753884696.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44734471"
+    },
+    {
+      "title": "Critical vulnerability in AI coding platform Base44 allowing unauthorized access",
+      "score": 98,
+      "url": "https://www.wiz.io/blog/critical-vulnerability-base44",
+      "time": 1753891952.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44736101"
     }
   ]
 }
