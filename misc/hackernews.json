@@ -1,61 +1,96 @@
 {
-  "last_updated": "2025-07-31T14:19:00.267327-04:00",
+  "last_updated": "2025-07-31T17:12:15.719268-04:00",
   "stories": [
     {
+      "title": "Slow",
+      "score": 239,
+      "url": "https://michaelnotebook.com/slow/index.html",
+      "time": 1753988458.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44748934"
+    },
+    {
+      "title": "Denver rent is back to 2022 prices after 20k new units hit the market",
+      "score": 32,
+      "url": "https://denverite.com/2025/07/25/denver-rent-prices-drop-q2/",
+      "time": 1753993795.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44749772"
+    },
+    {
+      "title": "Releasing open weights for FLUX.1 Krea",
+      "score": 80,
+      "url": "https://www.krea.ai/blog/flux-krea-open-source-release",
+      "time": 1753969305.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44745555"
+    },
+    {
       "title": "QUIC for the kernel",
-      "score": 81,
+      "score": 152,
       "url": "https://lwn.net/Articles/1029851/",
       "time": 1753977452.0,
       "comments_url": "https://news.ycombinator.com/item?id=44746948"
     },
     {
-      "title": "Ubiquiti launches UniFi OS Server for self-hosting",
-      "score": 86,
-      "url": "https://lazyadmin.nl/home-network/unifi-os-server/",
-      "time": 1753975445.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44746603"
+      "title": "Gemini Embedding: Powering RAG and context engineering",
+      "score": 112,
+      "url": "https://developers.googleblog.com/en/gemini-embedding-powering-rag-context-engineering/",
+      "time": 1753980474.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44747457"
+    },
+    {
+      "title": "Show HN: Mcp-use – Connect any LLM to any MCP",
+      "score": 53,
+      "url": "https://github.com/mcp-use/mcp-use",
+      "time": 1753979151.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44747229"
+    },
+    {
+      "title": "Secure boot certificate rollover is real but probably won't hurt you",
+      "score": 66,
+      "url": "https://mjg59.dreamwidth.org/72892.html",
+      "time": 1753982467.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44747843"
     },
     {
       "title": "How was the Universal Pictures 1936 opening logo created?",
-      "score": 344,
+      "score": 398,
       "url": "https://movies.stackexchange.com/questions/128020/how-was-the-universal-pictures-1936-opening-logo-created",
       "time": 1753960794.0,
       "comments_url": "https://news.ycombinator.com/item?id=44744454"
     },
     {
       "title": "MacBook Pro Insomnia",
-      "score": 173,
+      "score": 250,
       "url": "https://manuel.bernhardt.io/posts/2025-07-24-macbook-pro-insomnia",
       "time": 1753971367.0,
       "comments_url": "https://news.ycombinator.com/item?id=44745897"
     },
     {
-      "title": "Gemini Embedding: Powering RAG and context engineering",
-      "score": 36,
-      "url": "https://developers.googleblog.com/en/gemini-embedding-powering-rag-context-engineering/",
-      "time": 1753980474.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44747457"
+      "title": "Kaleidos – A portable nuclear microreactor that replaces diesel generators",
+      "score": 54,
+      "url": "https://radiantnuclear.com/",
+      "time": 1753991682.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44749438"
     },
     {
-      "title": "Secure boot certificate rollover is real but probably won't hurt you",
-      "score": 17,
-      "url": "https://mjg59.dreamwidth.org/72892.html",
-      "time": 1753982467.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44747843"
-    },
-    {
-      "title": "Launch HN: Gecko Security (YC F24) – AI That Finds Vulnerabilities in Code",
-      "score": 17,
-      "url": "https://news.ycombinator.com/item?id=44747204",
-      "time": 1753978989.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44747204"
+      "title": "Show HN: Sourcebot – Self-hosted Perplexity for your codebase",
+      "score": 35,
+      "url": "https://github.com/sourcebot-dev/sourcebot/releases/tag/v4.6.0",
+      "time": 1753886653.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44734891"
     },
     {
       "title": "Introduction to Computer Music",
-      "score": 194,
+      "score": 217,
       "url": "https://cmtext.com/",
       "time": 1753961842.0,
       "comments_url": "https://news.ycombinator.com/item?id=44744578"
+    },
+    {
+      "title": "Launch HN: Gecko Security (YC F24) – AI That Finds Vulnerabilities in Code",
+      "score": 35,
+      "url": "https://news.ycombinator.com/item?id=44747204",
+      "time": 1753978989.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44747204"
     },
     {
       "title": "Kaizen (YC X25) is hiring engineers to build browser agents that work",
@@ -66,80 +101,45 @@
     },
     {
       "title": "I tried Servo",
-      "score": 236,
+      "score": 280,
       "url": "https://www.spacebar.news/servo-undercover-web-browser-engine/",
       "time": 1753959381.0,
       "comments_url": "https://news.ycombinator.com/item?id=44744324"
     },
     {
-      "title": "Ursa: A Leaderless, Object Storage–Based Alternative to Kafka",
-      "score": 60,
-      "url": "https://streamnative.io/products/ursa",
-      "time": 1753974068.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44746415"
+      "title": "AI is a floor raiser, not a ceiling raiser",
+      "score": 144,
+      "url": "https://elroy.bot/blog/2025/07/29/ai-is-a-floor-raiser-not-a-ceiling-raiser.html",
+      "time": 1753981297.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44747634"
     },
     {
-      "title": "The Chrome Speculation Rules API allows the browser to preload and prerender",
-      "score": 72,
-      "url": "https://www.docuseal.com/blog/make-any-website-load-faster-with-6-lines-html",
-      "time": 1753979230.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44747241"
+      "title": "We revamped our docs for AI-driven development",
+      "score": 47,
+      "url": "https://docs.freestyle.sh/blog/docs-revamp",
+      "time": 1753571999.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44697689"
     },
     {
-      "title": "Face it: you're a crazy person",
-      "score": 209,
-      "url": "https://www.experimental-history.com/p/face-it-youre-a-crazy-person",
-      "time": 1753709015.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44710651"
+      "title": "Programmers aren’t so humble anymore, maybe because nobody codes in Perl",
+      "score": 12,
+      "url": "https://www.wired.com/story/programmers-arent-humble-anymore-nobody-codes-in-perl/",
+      "time": 1753811482.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44726347"
     },
     {
-      "title": "Zig Profiling on Apple Silicon",
-      "score": 53,
-      "url": "https://blog.bugsiki.dev/posts/zig-profilers/",
-      "time": 1753755336.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44718211"
+      "title": "Ferrari Status",
+      "score": 39,
+      "url": "https://collabfund.com/blog/ferrari-status/",
+      "time": 1753708994.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44710647"
     },
     {
       "title": "Carbon Language: An experimental successor to C++",
-      "score": 47,
+      "score": 70,
       "url": "https://docs.carbon-lang.dev/",
       "time": 1753971820.0,
       "comments_url": "https://news.ycombinator.com/item?id=44745984"
-    },
-    {
-      "title": "How to Scan Force Pushed Commits for Secrets",
-      "score": 6,
-      "url": "https://trufflesecurity.com/blog/how-to-scan-force-pushed-commits-for-secrets",
-      "time": 1753981821.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44747728"
-    },
-    {
-      "title": "Show HN: Astro dev blog template with 60 interactive colorschemes",
-      "score": 8,
-      "url": "https://multiterm.stelclementine.com",
-      "time": 1753981690.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44747699"
-    },
-    {
-      "title": "NSW Fair Trading – Dark Patterns",
-      "score": 48,
-      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/dark-patterns",
-      "time": 1753967855.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44745347"
-    },
-    {
-      "title": "Go Assembly Mutation Testing",
-      "score": 10,
-      "url": "https://words.filippo.io/assembly-mutation/",
-      "time": 1753982597.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44747870"
-    },
-    {
-      "title": "Advanced Rust macros with derive-deftly",
-      "score": 10,
-      "url": "https://diziet.pages.torproject.net/rust-derive-deftly/latest/guide/",
-      "time": 1753802494.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44724507"
     }
   ]
 }
