@@ -1,82 +1,117 @@
 {
-  "last_updated": "2025-07-30T23:59:44.812534-04:00",
+  "last_updated": "2025-07-31T02:19:53.337959-04:00",
   "stories": [
     {
+      "title": "Stargate Norway",
+      "score": 46,
+      "url": "https://openai.com/index/introducing-stargate-norway/",
+      "time": 1753938536.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44742513"
+    },
+    {
       "title": "Fast",
-      "score": 935,
+      "score": 1098,
       "url": "https://www.catherinejue.com/fast",
       "time": 1753896077.0,
       "comments_url": "https://news.ycombinator.com/item?id=44736967"
     },
     {
       "title": "Classic Common Desktop Environment coming to OpenBSD",
-      "score": 41,
+      "score": 69,
       "url": "https://undeadly.org/cgi?action=article;sid=20250730080301",
       "time": 1753926178.0,
       "comments_url": "https://news.ycombinator.com/item?id=44741539"
     },
     {
+      "title": "You know what: Microsoft became miserably incompetent in IT",
+      "score": 105,
+      "url": "https://mikekaganski.wordpress.com/2025/07/25/microsoft-anybody-home/",
+      "time": 1753924948.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44741442"
+    },
+    {
+      "title": "Show HN: AgentGuard – Auto-kill AI agents before they burn through your budget",
+      "score": 3,
+      "url": "https://github.com/dipampaul17/AgentGuard",
+      "time": 1753941244.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44742710"
+    },
+    {
       "title": "Ollama's new app",
-      "score": 241,
+      "score": 303,
       "url": "https://ollama.com/blog/new-app",
       "time": 1753910343.0,
       "comments_url": "https://news.ycombinator.com/item?id=44739632"
     },
     {
       "title": "Figma will IPO on July 31",
-      "score": 129,
+      "score": 181,
       "url": "https://www.figma.com/blog/ipo-pricing/",
       "time": 1753914298.0,
       "comments_url": "https://news.ycombinator.com/item?id=44740222"
     },
     {
       "title": "The math is haunted",
-      "score": 147,
+      "score": 188,
       "url": "https://overreacted.io/the-math-is-haunted/",
       "time": 1753908409.0,
       "comments_url": "https://news.ycombinator.com/item?id=44739315"
     },
     {
+      "title": "Tracking source locations in the Futhark compiler",
+      "score": 7,
+      "url": "https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html",
+      "time": 1753936831.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44742359"
+    },
+    {
+      "title": "I Know When You're Vibe Coding",
+      "score": 59,
+      "url": "https://alexkondov.com/i-know-when-youre-vibe-coding/",
+      "time": 1753935400.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44742251"
+    },
+    {
       "title": "Vibe code is legacy code",
-      "score": 381,
+      "score": 458,
       "url": "https://blog.val.town/vibe-code",
       "time": 1753910000.0,
       "comments_url": "https://news.ycombinator.com/item?id=44739556"
     },
     {
+      "title": "Open source BOM management (for me)",
+      "score": 8,
+      "url": "https://www.vincentuden.xyz/blog/pcb_management",
+      "time": 1753642369.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44703581"
+    },
+    {
       "title": "Optician Sans – A free font based on historical eye charts and optotypes",
-      "score": 225,
+      "score": 242,
       "url": "https://optician-sans.com/",
       "time": 1753891918.0,
       "comments_url": "https://news.ycombinator.com/item?id=44736090"
     },
     {
+      "title": "150 years of Hans Christian Andersen",
+      "score": 29,
+      "url": "https://www.newstatesman.com/culture/books/book-of-the-day/2025/07/150-years-of-the-bizarre-hans-christian-andersen",
+      "time": 1753909633.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44739494"
+    },
+    {
+      "title": "Fixing Ctrl+C in Rust terminal apps: Child process management",
+      "score": 79,
+      "url": "https://www.fiveonefour.com/blog/Fixing-ctrl-c-in-terminal-apps-child-process-management",
+      "time": 1753826704.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44728796"
+    },
+    {
       "title": "Early universe's 'little red dots' may be black hole stars",
-      "score": 56,
+      "score": 67,
       "url": "https://www.science.org/content/article/early-universe-s-little-red-dots-may-be-black-hole-stars",
       "time": 1753910301.0,
       "comments_url": "https://news.ycombinator.com/item?id=44739618"
-    },
-    {
-      "title": "Pentagon Pizza Index",
-      "score": 52,
-      "url": "https://www.pizzint.watch/",
-      "time": 1753914063.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44740185"
-    },
-    {
-      "title": "Ferroelectric helps break transistor limits",
-      "score": 15,
-      "url": "https://spectrum.ieee.org/negative-capacitance-schottky-limit",
-      "time": 1753707769.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44710461"
-    },
-    {
-      "title": "A short post on short trains",
-      "score": 66,
-      "url": "https://shakeddown.substack.com/p/a-short-post-on-short-trains",
-      "time": 1753884907.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44734522"
     },
     {
       "title": "Sei (YC W22) Is Hiring a Full Stack Engineer in Chennai, India",
@@ -86,60 +121,25 @@
       "comments_url": "https://news.ycombinator.com/item?id=44741305"
     },
     {
-      "title": "Fixing Ctrl+C in Rust terminal apps: Child process management",
-      "score": 65,
-      "url": "https://www.fiveonefour.com/blog/Fixing-ctrl-c-in-terminal-apps-child-process-management",
-      "time": 1753826704.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44728796"
+      "title": "Show HN: Open-source physical rack-mounted GUI for home lab",
+      "score": 19,
+      "url": "https://www.getubo.com/post/gui-for-raspberry-pi-inside-mini-racks",
+      "time": 1753650832.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44704742"
     },
     {
-      "title": "Problem solving often a matter of cooking up an appropriate Markov chain (2007)",
-      "score": 212,
-      "url": "http://math.uchicago.edu/~shmuel/Network-course-readings/Markov_chain_tricks.pdf",
-      "time": 1753878592.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44733341"
+      "title": "Friction and Not Being Touched",
+      "score": 8,
+      "url": "https://tante.cc/2025/07/30/friction-and-not-being-touched/",
+      "time": 1753931911.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44742021"
     },
     {
       "title": "Launch HN: Lucidic (YC W25) – Debug, test, and evaluate AI agents in production",
-      "score": 97,
+      "score": 100,
       "url": "https://news.ycombinator.com/item?id=44735843",
       "time": 1753890842.0,
       "comments_url": "https://news.ycombinator.com/item?id=44735843"
-    },
-    {
-      "title": "Our $100M Series B",
-      "score": 649,
-      "url": "https://oxide.computer/blog/our-100m-series-b",
-      "time": 1753881448.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44733817"
-    },
-    {
-      "title": "Emacs: The macOS Bug",
-      "score": 96,
-      "url": "https://xlii.space/eng/emacs-the-macos-bug/",
-      "time": 1753899335.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44737676"
-    },
-    {
-      "title": "Australia widens teen social media ban to YouTube, scraps exemption",
-      "score": 209,
-      "url": "https://www.reuters.com/legal/litigation/australia-widens-teen-social-media-ban-youtube-scraps-exemption-2025-07-29/",
-      "time": 1753894749.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44736646"
-    },
-    {
-      "title": "Show HN: Open-source alternative to ChatGPT Agents for browsing",
-      "score": 66,
-      "url": "https://github.com/trymeka/agent",
-      "time": 1753884696.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44734471"
-    },
-    {
-      "title": "Critical vulnerability in AI coding platform Base44 allowing unauthorized access",
-      "score": 98,
-      "url": "https://www.wiz.io/blog/critical-vulnerability-base44",
-      "time": 1753891952.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44736101"
     }
   ]
 }
