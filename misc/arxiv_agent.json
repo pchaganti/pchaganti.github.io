@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-31T17:12:17.455930-04:00",
+  "last_updated": "2025-07-31T21:11:17.690252-04:00",
   "papers": [
     {
       "title": "A Bit of Freedom Goes a Long Way: Classical and Quantum Algorithms for\n  Reinforcement Learning under a Generative Model",
@@ -52,7 +52,7 @@
     {
       "title": "Enhancing Multi-Agent Collaboration with Attention-Based Actor-Critic\n  Policies",
       "summary": "This paper introduces Team-Attention-Actor-Critic (TAAC), a reinforcement\nlearning algorithm designed to enhance multi-agent collaboration in cooperative\nenvironments. TAAC employs a Centralized Training/Centralized Execution scheme\nincorporating multi-headed attention mechanisms in both the actor and critic.\nThis design facilitates dynamic, inter-agent communication, allowing agents to\nexplicitly query teammates, thereby efficiently managing the exponential growth\nof joint-action spaces while ensuring a high degree of collaboration. We\nfurther introduce a penalized loss function which promotes diverse yet\ncomplementary roles among agents. We evaluate TAAC in a simulated soccer\nenvironment against benchmark algorithms representing other multi-agent\nparadigms, including Proximal Policy Optimization and Multi-Agent\nActor-Attention-Critic. We find that TAAC exhibits superior performance and\nenhanced collaborative behaviors across a variety of metrics (win rates, goal\ndifferentials, Elo ratings, inter-agent connectivity, balanced spatial\ndistributions, and frequent tactical interactions such as ball possession\nswaps).",
-      "url": "http://arxiv.org/abs/2507.22782v1",
+      "url": "http://arxiv.org/abs/2507.22782v2",
       "published_time_eastern_timestamp": 1753890518.0
     },
     {

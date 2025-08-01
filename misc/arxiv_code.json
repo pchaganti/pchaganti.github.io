@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-31T17:12:17.936695-04:00",
+  "last_updated": "2025-07-31T21:11:18.131091-04:00",
   "papers": [
     {
       "title": "Viser: Imperative, Web-based 3D Visualization in Python",
@@ -106,7 +106,7 @@
     {
       "title": "H2Tune: Federated Foundation Model Fine-Tuning with Hybrid Heterogeneity",
       "summary": "Different from existing federated fine-tuning (FFT) methods for foundation\nmodels, hybrid heterogeneous federated fine-tuning (HHFFT) is an under-explored\nscenario where clients exhibit double heterogeneity in model architectures and\ndownstream tasks. This hybrid heterogeneity introduces two significant\nchallenges: 1) heterogeneous matrix aggregation, where clients adopt different\nlarge-scale foundation models based on their task requirements and resource\nlimitations, leading to dimensional mismatches during LoRA parameter\naggregation; and 2) multi-task knowledge interference, where local shared\nparameters, trained with both task-shared and task-specific knowledge, cannot\nensure only task-shared knowledge is transferred between clients. To address\nthese challenges, we propose H2Tune, a federated foundation model fine-tuning\nwith hybrid heterogeneity. Our framework H2Tune consists of three key\ncomponents: (i) sparsified triple matrix decomposition to align hidden\ndimensions across clients through constructing rank-consistent middle matrices,\nwith adaptive sparsification based on client resources; (ii) relation-guided\nmatrix layer alignment to handle heterogeneous layer structures and\nrepresentation capabilities; and (iii) alternating task-knowledge\ndisentanglement mechanism to decouple shared and specific knowledge of local\nmodel parameters through alternating optimization. Theoretical analysis proves\na convergence rate of O(1/\\sqrt{T}). Extensive experiments show our method\nachieves up to 15.4% accuracy improvement compared to state-of-the-art\nbaselines. Our code is available at\nhttps://anonymous.4open.science/r/H2Tune-1407.",
-      "url": "http://arxiv.org/abs/2507.22633v1",
+      "url": "http://arxiv.org/abs/2507.22633v2",
       "published_time_eastern_timestamp": 1753879998.0
     },
     {

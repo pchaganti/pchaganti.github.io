@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-31T17:12:17.006102-04:00",
+  "last_updated": "2025-07-31T21:11:17.277347-04:00",
   "papers": [
     {
       "title": "Where to show Demos in Your Prompt: A Positional Bias of In-Context\n  Learning",
@@ -10,7 +10,7 @@
     {
       "title": "RecGPT Technical Report",
       "summary": "Recommender systems are among the most impactful applications of artificial\nintelligence, serving as critical infrastructure connecting users, merchants,\nand platforms. However, most current industrial systems remain heavily reliant\non historical co-occurrence patterns and log-fitting objectives, i.e.,\noptimizing for past user interactions without explicitly modeling user intent.\nThis log-fitting approach often leads to overfitting to narrow historical\npreferences, failing to capture users' evolving and latent interests. As a\nresult, it reinforces filter bubbles and long-tail phenomena, ultimately\nharming user experience and threatening the sustainability of the whole\nrecommendation ecosystem.\n  To address these challenges, we rethink the overall design paradigm of\nrecommender systems and propose RecGPT, a next-generation framework that places\nuser intent at the center of the recommendation pipeline. By integrating large\nlanguage models (LLMs) into key stages of user interest mining, item retrieval,\nand explanation generation, RecGPT transforms log-fitting recommendation into\nan intent-centric process. To effectively align general-purpose LLMs to the\nabove domain-specific recommendation tasks at scale, RecGPT incorporates a\nmulti-stage training paradigm, which integrates reasoning-enhanced\npre-alignment and self-training evolution, guided by a Human-LLM cooperative\njudge system. Currently, RecGPT has been fully deployed on the Taobao App.\nOnline experiments demonstrate that RecGPT achieves consistent performance\ngains across stakeholders: users benefit from increased content diversity and\nsatisfaction, merchants and the platform gain greater exposure and conversions.\nThese comprehensive improvement results across all stakeholders validates that\nLLM-driven, intent-centric design can foster a more sustainable and mutually\nbeneficial recommendation ecosystem.",
-      "url": "http://arxiv.org/abs/2507.22879v1",
+      "url": "http://arxiv.org/abs/2507.22879v2",
       "published_time_eastern_timestamp": 1753898106.0
     },
     {
@@ -58,7 +58,7 @@
     {
       "title": "G-Core: A Simple, Scalable and Balanced RLHF Trainer",
       "summary": "Reinforcement Learning from Human Feedback (RLHF) has become an increasingly\npopular paradigm for training large language models (LLMs) and diffusion\nmodels. While existing RLHF training systems have enabled significant progress,\nthey often face challenges in scaling to multi-modal and diffusion workflows\nand adapting to dynamic workloads. In particular, current approaches may\nencounter limitations in controller scalability, flexible resource placement,\nand efficient orchestration when handling complex RLHF pipelines, especially in\nscenarios involving dynamic sampling or generative reward modeling. In this\npaper, we present \\textbf{G-Core}, a simple, scalable, and balanced RLHF\ntraining framework designed to address these challenges. G-Core introduces a\nparallel controller programming model, enabling flexible and efficient\norchestration of complex RLHF workflows without the bottlenecks of a single\ncentralized controller. Furthermore, we propose a dynamic placement schema that\nadaptively partitions resources and schedules workloads, significantly reducing\nhardware idle time and improving utilization, even under highly variable\ntraining conditions. G-Core has successfully trained models that support WeChat\nproduct features serving a large-scale user base, demonstrating its\neffectiveness and robustness in real-world scenarios. Our results show that\nG-Core advances the state of the art in RLHF training, providing a solid\nfoundation for future research and deployment of large-scale, human-aligned\nmodels.",
-      "url": "http://arxiv.org/abs/2507.22789v1",
+      "url": "http://arxiv.org/abs/2507.22789v2",
       "published_time_eastern_timestamp": 1753890908.0
     },
     {
