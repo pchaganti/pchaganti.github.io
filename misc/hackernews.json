@@ -1,110 +1,131 @@
 {
-  "last_updated": "2025-08-01T00:10:29.783689-04:00",
+  "last_updated": "2025-08-01T02:21:32.967104-04:00",
   "stories": [
     {
+      "title": "Every satellite orbiting earth and who owns them (2023)",
+      "score": 27,
+      "url": "https://dewesoft.com/blog/every-satellite-orbiting-earth-and-who-owns-them",
+      "time": 1754026280.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44753298"
+    },
+    {
       "title": "Slow",
-      "score": 614,
+      "score": 678,
       "url": "https://michaelnotebook.com/slow/index.html",
       "time": 1753988458.0,
       "comments_url": "https://news.ycombinator.com/item?id=44748934"
     },
     {
+      "title": "Mountain of Ink",
+      "score": 53,
+      "url": "https://mountainofink.com",
+      "time": 1753773059.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44720077"
+    },
+    {
       "title": "Releasing weights for FLUX.1 Krea",
-      "score": 217,
+      "score": 247,
       "url": "https://www.krea.ai/blog/flux-krea-open-source-release",
       "time": 1753969305.0,
       "comments_url": "https://news.ycombinator.com/item?id=44745555"
     },
     {
       "title": "The anti-abundance critique on housing is wrong",
-      "score": 237,
+      "score": 296,
       "url": "https://www.derekthompson.org/p/the-anti-abundance-critique-on-housing",
       "time": 1753997287.0,
       "comments_url": "https://news.ycombinator.com/item?id=44750416"
     },
     {
       "title": "QUIC for the kernel",
-      "score": 213,
+      "score": 228,
       "url": "https://lwn.net/Articles/1029851/",
       "time": 1753977452.0,
       "comments_url": "https://news.ycombinator.com/item?id=44746948"
     },
     {
-      "title": "Show HN: I made a website that makes you cry",
-      "score": 133,
-      "url": "https://www.cryonceaweek.com",
-      "time": 1753661977.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44705960"
-    },
-    {
-      "title": "MacBook Pro Insomnia",
-      "score": 338,
-      "url": "https://manuel.bernhardt.io/posts/2025-07-24-macbook-pro-insomnia",
-      "time": 1753971367.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44745897"
-    },
-    {
       "title": "Ubiquiti launches UniFi OS Server for self-hosting",
-      "score": 247,
+      "score": 265,
       "url": "https://lazyadmin.nl/home-network/unifi-os-server/",
       "time": 1753975445.0,
       "comments_url": "https://news.ycombinator.com/item?id=44746603"
     },
     {
-      "title": "Fountain Pen Ink and Paper Review Blog",
-      "score": 6,
-      "url": "https://mountainofink.com",
-      "time": 1753773059.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44720077"
+      "title": "MacBook Pro Insomnia",
+      "score": 363,
+      "url": "https://manuel.bernhardt.io/posts/2025-07-24-macbook-pro-insomnia",
+      "time": 1753971367.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44745897"
     },
     {
       "title": "Gemini Embedding: Powering RAG and context engineering",
-      "score": 182,
+      "score": 204,
       "url": "https://developers.googleblog.com/en/gemini-embedding-powering-rag-context-engineering/",
       "time": 1753980474.0,
       "comments_url": "https://news.ycombinator.com/item?id=44747457"
     },
     {
-      "title": "Telephone colophon: Or, how I overengineered my call audio (2020)",
-      "score": 12,
-      "url": "https://noahliebman.net/2020/12/telephone-colophon-or-how-i-overengineered-my-call-audio/",
-      "time": 1753771316.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44719860"
+      "title": "Show HN: I made a website that makes you cry",
+      "score": 165,
+      "url": "https://www.cryonceaweek.com",
+      "time": 1753661977.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44705960"
     },
     {
-      "title": "Show HN: Mcp-use – Connect any LLM to any MCP",
-      "score": 104,
-      "url": "https://github.com/mcp-use/mcp-use",
-      "time": 1753979151.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44747229"
-    },
-    {
-      "title": "LLM leaderboard – Comparing models from OpenAI, Google, DeepSeek and others",
-      "score": 12,
-      "url": "https://artificialanalysis.ai/leaderboards/models",
-      "time": 1754016352.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44752546"
+      "title": "Show HN: KubeForge – A GUI for Kubernetes YAMLs",
+      "score": 19,
+      "url": "https://github.com/kubenote/KubeForge",
+      "time": 1754015459.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44752469"
     },
     {
       "title": "Replacing cron jobs with a centralized task scheduler",
-      "score": 32,
+      "score": 53,
       "url": "https://mayhul.com/posts/scheduled-tasks/",
       "time": 1753727031.0,
       "comments_url": "https://news.ycombinator.com/item?id=44713716"
     },
     {
+      "title": "Show HN: Mcp-use – Connect any LLM to any MCP",
+      "score": 108,
+      "url": "https://github.com/mcp-use/mcp-use",
+      "time": 1753979151.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44747229"
+    },
+    {
       "title": "Many countries that said no to ChatControl in 2024 are now undecided",
-      "score": 325,
+      "score": 350,
       "url": "https://digitalcourage.social/@echo_pbreyer/114946559233051667",
       "time": 1753962862.0,
       "comments_url": "https://news.ycombinator.com/item?id=44744715"
     },
     {
-      "title": "Show HN: AgentMail – Email infra for AI agents",
-      "score": 66,
-      "url": "https://chat.agentmail.to/",
-      "time": 1753970913.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44745820"
+      "title": "LLM leaderboard – Comparing models from OpenAI, Google, DeepSeek and others",
+      "score": 33,
+      "url": "https://artificialanalysis.ai/leaderboards/models",
+      "time": 1754016352.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44752546"
+    },
+    {
+      "title": "Telephone colophon: Or, how I overengineered my call audio (2020)",
+      "score": 17,
+      "url": "https://noahliebman.net/2020/12/telephone-colophon-or-how-i-overengineered-my-call-audio/",
+      "time": 1753771316.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44719860"
+    },
+    {
+      "title": "Scientists and engineers craft radio telescope bound for the moon",
+      "score": 16,
+      "url": "https://www.bnl.gov/newsroom/news.php?a=122408",
+      "time": 1753732271.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44714796"
+    },
+    {
+      "title": "Secure boot certificate rollover is real but probably won't hurt you",
+      "score": 118,
+      "url": "https://mjg59.dreamwidth.org/72892.html",
+      "time": 1753982467.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44747843"
     },
     {
       "title": "Launch HN: Gecko Security (YC F24) – AI That Finds Vulnerabilities in Code",
@@ -114,32 +135,11 @@
       "comments_url": "https://news.ycombinator.com/item?id=44747204"
     },
     {
-      "title": "Scientists and engineers craft radio telescope bound for the moon",
-      "score": 9,
-      "url": "https://www.bnl.gov/newsroom/news.php?a=122408",
-      "time": 1753732271.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44714796"
-    },
-    {
-      "title": "Secure boot certificate rollover is real but probably won't hurt you",
-      "score": 110,
-      "url": "https://mjg59.dreamwidth.org/72892.html",
-      "time": 1753982467.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44747843"
-    },
-    {
-      "title": "Raspberry Pi 5 Gets a MicroSD Express Hat",
-      "score": 44,
-      "url": "https://www.cnx-software.com/2025/07/28/raspberry-pi-5-gets-a-microsd-express-hat/",
-      "time": 1753674587.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44707062"
-    },
-    {
-      "title": "Show HN: KubeForge – A GUI for Kubernetes YAMLs",
-      "score": 8,
-      "url": "https://github.com/kubenote/KubeForge",
-      "time": 1754015459.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44752469"
+      "title": "Show HN: AgentMail – Email infra for AI agents",
+      "score": 70,
+      "url": "https://chat.agentmail.to/",
+      "time": 1753970913.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44745820"
     }
   ]
 }
