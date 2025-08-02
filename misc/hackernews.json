@@ -1,61 +1,96 @@
 {
-  "last_updated": "2025-08-02T14:16:47.484412-04:00",
+  "last_updated": "2025-08-02T17:11:16.948188-04:00",
   "stories": [
     {
-      "title": "Why Exercise Is a Miracle Drug",
-      "score": 168,
-      "url": "https://www.derekthompson.org/p/the-sunday-morning-post-why-exercise",
-      "time": 1754150536.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44768704"
-    },
-    {
-      "title": "The Art of Multiprocessor Programming 2nd Edition Book Club",
-      "score": 155,
-      "url": "https://eatonphil.com/2025-art-of-multiprocessor-programming.html",
-      "time": 1754142190.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44767555"
-    },
-    {
       "title": "Telo MT1",
-      "score": 42,
+      "score": 248,
       "url": "https://www.telotrucks.com/",
       "time": 1754152851.0,
       "comments_url": "https://news.ycombinator.com/item?id=44769039"
     },
     {
-      "title": "We may not like what we become if A.I. solves loneliness",
+      "title": "6 Weeks of Claude Code",
+      "score": 134,
+      "url": "https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/",
+      "time": 1753975549.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44746621"
+    },
+    {
+      "title": "Helsinki records zero traffic deaths for full year",
       "score": 233,
+      "url": "https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html",
+      "time": 1753891682.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44736025"
+    },
+    {
+      "title": "I tried living on IPv6 for a day, and here's what happened",
+      "score": 32,
+      "url": "https://www.xda-developers.com/the-internet-isnt-fully-ipv6-ready/",
+      "time": 1753974903.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44746529"
+    },
+    {
+      "title": "The Art of Multiprocessor Programming 2nd Edition Book Club",
+      "score": 205,
+      "url": "https://eatonphil.com/2025-art-of-multiprocessor-programming.html",
+      "time": 1754142190.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44767555"
+    },
+    {
+      "title": "Browser extension and local backend that automatically archives YouTube videos",
+      "score": 83,
+      "url": "https://github.com/andrewarrow/starchive",
+      "time": 1754150611.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44768714"
+    },
+    {
+      "title": "We may not like what we become if A.I. solves loneliness",
+      "score": 293,
       "url": "https://www.newyorker.com/magazine/2025/07/21/ai-is-about-to-solve-loneliness-thats-a-problem",
       "time": 1754131956.0,
       "comments_url": "https://news.ycombinator.com/item?id=44766508"
     },
     {
-      "title": "WebGPU enables local LLM in the browser. Demo site with AI chat",
-      "score": 82,
+      "title": "Helion begins work on Washington nuclear fusion plant",
+      "score": 40,
+      "url": "https://www.nucnet.org/news/microsoft-backed-fusion-company-begins-work-on-washington-nuclear-fusion-plant-7-4-2025",
+      "time": 1753965710.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44745067"
+    },
+    {
+      "title": "Anandtech.com now redirects to its forums",
+      "score": 62,
+      "url": "https://forums.anandtech.com/",
+      "time": 1754141245.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44767433"
+    },
+    {
+      "title": "Online Collection of Keygen Music",
+      "score": 131,
+      "url": "https://keygenmusic.tk",
+      "time": 1753843990.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44730544"
+    },
+    {
+      "title": "Modeling Open-World Cognition as On-Demand Synthesis of Probabilistic Models",
+      "score": 5,
+      "url": "https://arxiv.org/abs/2507.12547",
+      "time": 1754166098.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44771060"
+    },
+    {
+      "title": "Double-slit experiment holds up when stripped to its quantum essentials",
+      "score": 28,
+      "url": "https://news.mit.edu/2025/famous-double-slit-experiment-holds-when-stripped-to-quantum-essentials-0728",
+      "time": 1753948819.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44743432"
+    },
+    {
+      "title": "Show HN: WebGPU enables local LLM in the browser – demo site with AI chat",
+      "score": 94,
       "url": "https://andreinwald.github.io/browser-llm/",
       "time": 1754143752.0,
       "comments_url": "https://news.ycombinator.com/item?id=44767775"
-    },
-    {
-      "title": "Compressing Icelandic name declension patterns into a 3.27 kB trie",
-      "score": 159,
-      "url": "https://alexharri.com/blog/icelandic-name-declension-trie",
-      "time": 1754134113.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44766718"
-    },
-    {
-      "title": "Hiding secret codes in light protects against fake videos",
-      "score": 35,
-      "url": "https://news.cornell.edu/stories/2025/07/hiding-secret-codes-light-protects-against-fake-videos",
-      "time": 1754149227.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44768513"
-    },
-    {
-      "title": "The /o in Ruby regex stands for \"oh the humanity \"",
-      "score": 60,
-      "url": "https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html",
-      "time": 1754145471.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44767959"
     },
     {
       "title": "Great Question (YC W21) Is Hiring a VP of Engineering (Remote)",
@@ -65,81 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=44769231"
     },
     {
-      "title": "6 Weeks of Claude Code",
-      "score": 158,
-      "url": "https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/",
-      "time": 1754137259.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44767003"
+      "title": "The /o in Ruby regex stands for \"oh the humanity \"",
+      "score": 96,
+      "url": "https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html",
+      "time": 1754145471.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44767959"
     },
     {
-      "title": "Online Collection of Keygen Music",
-      "score": 45,
-      "url": "https://keygenmusic.tk",
-      "time": 1753843990.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44730544"
-    },
-    {
-      "title": "Browser extension and local backend that automatically archives YouTube videos",
-      "score": 17,
-      "url": "https://github.com/andrewarrow/starchive",
-      "time": 1754150611.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44768714"
-    },
-    {
-      "title": "The unreasonable likelihood of being: origin of life, terraforming, and AI",
-      "score": 7,
-      "url": "https://arxiv.org/abs/2507.18545",
-      "time": 1754153714.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44769170"
-    },
-    {
-      "title": "Unikernel Guide: Build and Deploy Lightweight, Secure Apps",
-      "score": 32,
-      "url": "https://tallysolutions.com/technology/introduction-to-unikernel-2/",
-      "time": 1754145364.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44767947"
-    },
-    {
-      "title": "The Rubik's Cube Perfect Scramble",
-      "score": 50,
-      "url": "https://www.solutionslookingforproblems.com/post/the-rubik-s-cube-perfect-scramble",
-      "time": 1754145118.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44767928"
-    },
-    {
-      "title": "Caches: LRU vs. Random",
+      "title": "PixiEditor 2.0 – A FOSS universal 2D graphics editor",
       "score": 74,
-      "url": "https://danluu.com/2choices-eviction/",
-      "time": 1753944302.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44743034"
+      "url": "https://pixieditor.net/blog/2025/07/30/20-release/",
+      "time": 1753975291.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44746583"
     },
     {
-      "title": "Microsoft is open sourcing Windows 11's UI framework",
-      "score": 134,
-      "url": "https://www.neowin.net/news/microsoft-is-taking-steps-to-open-sourcing-windows-11-user-interface-framework/",
-      "time": 1754121160.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44765600"
+      "title": "Australia’s gains in wheat-farm productivity",
+      "score": 45,
+      "url": "https://www.reuters.com/investigations/less-rain-more-wheat-how-australian-farmers-defied-climate-doom-2025-07-29/",
+      "time": 1753870018.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44732508"
     },
     {
-      "title": "How to reverse engineer an analog chip: the TDA7000 FM radio receiver",
-      "score": 10,
-      "url": "https://www.righto.com/2025/08/reverse-engineering-analog-TDA7000.html",
-      "time": 1754150391.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44768677"
+      "title": "Compressing Icelandic name declension patterns into a 3.27 kB trie",
+      "score": 182,
+      "url": "https://alexharri.com/blog/icelandic-name-declension-trie",
+      "time": 1754134113.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44766718"
     },
     {
-      "title": "Show HN: Wordle-style game for Fermi questions",
-      "score": 3,
-      "url": "https://www.fermiquestions.org/",
-      "time": 1754154699.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44769338"
+      "title": "Financial lessons from my family's experience with long-term care insurance",
+      "score": 85,
+      "url": "https://www.whitecoatinvestor.com/financial-lessons-father-long-term-care-insurance/",
+      "time": 1754143228.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44767702"
     },
     {
-      "title": "VSCode extension for syntax highlighting multi-line YAML strings",
-      "score": 16,
-      "url": "https://github.com/harrydowning/vscode-yaml-embedded-languages",
-      "time": 1754146074.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44768048"
+      "title": "A.I. researchers are negotiating $250M pay packages",
+      "score": 121,
+      "url": "https://www.nytimes.com/2025/07/31/technology/ai-researchers-nba-stars.html",
+      "time": 1754134479.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44766758"
     }
   ]
 }
