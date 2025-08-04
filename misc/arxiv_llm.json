@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-03T17:11:36.727581-04:00",
+  "last_updated": "2025-08-03T21:09:22.283717-04:00",
   "papers": [
     {
       "title": "Cascaded Information Disclosure for Generalized Evaluation of Problem\n  Solving Capabilities",
@@ -28,7 +28,7 @@
     {
       "title": "Seed-Prover: Deep and Broad Reasoning for Automated Theorem Proving",
       "summary": "LLMs have demonstrated strong mathematical reasoning abilities by leveraging\nreinforcement learning with long chain-of-thought, yet they continue to\nstruggle with theorem proving due to the lack of clear supervision signals when\nsolely using natural language. Dedicated domain-specific languages like Lean\nprovide clear supervision via formal verification of proofs, enabling effective\ntraining through reinforcement learning. In this work, we propose\n\\textbf{Seed-Prover}, a lemma-style whole-proof reasoning model. Seed-Prover\ncan iteratively refine its proof based on Lean feedback, proved lemmas, and\nself-summarization. To solve IMO-level contest problems, we design three\ntest-time inference strategies that enable both deep and broad reasoning.\nSeed-Prover proves $78.1\\%$ of formalized past IMO problems, saturates MiniF2F,\nand achieves over 50\\% on PutnamBench, outperforming the previous\nstate-of-the-art by a large margin. To address the lack of geometry support in\nLean, we introduce a geometry reasoning engine \\textbf{Seed-Geometry}, which\noutperforms previous formal geometry engines. We use these two systems to\nparticipate in IMO 2025 and fully prove 5 out of 6 problems. This work\nrepresents a significant advancement in automated mathematical reasoning,\ndemonstrating the effectiveness of formal verification with long\nchain-of-thought reasoning.",
-      "url": "http://arxiv.org/abs/2507.23726v1",
+      "url": "http://arxiv.org/abs/2507.23726v2",
       "published_time_eastern_timestamp": 1753981230.0
     },
     {

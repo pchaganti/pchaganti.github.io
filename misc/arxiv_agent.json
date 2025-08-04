@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-03T17:11:37.141684-04:00",
+  "last_updated": "2025-08-03T21:09:22.700360-04:00",
   "papers": [
     {
       "title": "Phi-Ground Tech Report: Advancing Perception in GUI Grounding",
@@ -58,7 +58,7 @@
     {
       "title": "Probing graph topology from local quantum measurements",
       "summary": "We show that global properties of an unknown quantum network, such as the\naverage degree, hub density, and the number of closed paths of fixed length,\ncan be inferred from strictly local quantum measurements. In particular, we\ndemonstrate that a malicious agent with access to only a small subset of nodes\ncan initialize quantum states locally and, through repeated short-time\nmeasurements, extract sensitive structural information about the entire\nnetwork. The intrusion strategy is inspired by extreme learning and quantum\nreservoir computing and combines short-time quantum evolution with a\nnon-iterative linear readout with trainable weights. These results suggest new\nstrategies for intrusion detection and structural diagnostics in future quantum\nInternet infrastructures.",
-      "url": "http://arxiv.org/abs/2507.23689v1",
+      "url": "http://arxiv.org/abs/2507.23689v2",
       "published_time_eastern_timestamp": 1753978005.0
     },
     {
@@ -94,7 +94,7 @@
     {
       "title": "Semantic Chain-of-Trust: Autonomous Trust Orchestration for Collaborator\n  Selection via Hypergraph-Aided Agentic AI",
       "summary": "In collaborative systems, the effective completion of tasks hinges on\ntask-specific trust evaluations of potential devices for distributed\ncollaboration. However, the complexity of tasks, the spatiotemporal dynamism of\ndistributed device resources, and the inevitable assessment overhead\ndramatically increase the complexity and resource consumption of the trust\nevaluation process. As a result, ill-timed or overly frequent trust evaluations\ncan reduce utilization rate of constrained resources, negatively affecting\ncollaborative task execution. To address this challenge, this paper proposes an\nautonomous trust orchestration method based on a new concept of semantic\nchain-of-trust. Our technique employs agentic AI and hypergraph to establish\nand maintain trust relationships among devices. By leveraging its strengths in\nautonomous perception, task decomposition, and semantic reasoning, we propose\nagentic AI to perceive device states and autonomously perform trust evaluations\nof collaborators based on historical performance data only during device idle\nperiods, thereby enabling efficient utilization of distributed resources. In\naddition, agentic AI performs task-specific trust evaluations on collaborator\nresources by analyzing the alignment between resource capabilities and task\nrequirements. Moreover, by maintaining a trust hypergraph embedded with trust\nsemantics for each device, agentic AI enables hierarchical management of\ncollaborators and identifies collaborators requiring trust evaluation based on\ntrust semantics, thereby achieving a balance between overhead and trust\naccuracy. Furthermore, local trust hypergraphs from multiple devices can be\nchained together to support multi-hop collaboration, enabling efficient\ncoordination in large-scale systems. Experimental results demonstrate that the\nproposed method achieves resource-efficient trust evaluation.",
-      "url": "http://arxiv.org/abs/2507.23565v1",
+      "url": "http://arxiv.org/abs/2507.23565v2",
       "published_time_eastern_timestamp": 1753970005.0
     },
     {
