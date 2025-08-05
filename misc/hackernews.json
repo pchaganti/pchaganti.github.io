@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-08-04T17:12:42.823842-04:00",
+  "last_updated": "2025-08-04T21:05:44.700049-04:00",
   "stories": [
     {
       "title": "Show HN: I spent 6 years building a ridiculous wooden pixel display",
-      "score": 498,
+      "score": 680,
       "url": "https://benholmen.com/blog/kilopixel/",
       "time": 1754324181.0,
       "comments_url": "https://news.ycombinator.com/item?id=44787902"
     },
     {
+      "title": "EconTeen – Financial Literacy Lessons and Tools for Teens",
+      "score": 29,
+      "url": "https://econteen.com/",
+      "time": 1754349051.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44792399"
+    },
+    {
+      "title": "Show HN: I've been building an ERP for manufacturing for the last 3 years",
+      "score": 52,
+      "url": "https://github.com/crbnos/carbon",
+      "time": 1754346260.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44792005"
+    },
+    {
       "title": "Qwen-Image: Crafting with native text rendering",
-      "score": 129,
+      "score": 279,
       "url": "https://qwenlm.github.io/blog/qwen-image/",
       "time": 1754323000.0,
       "comments_url": "https://news.ycombinator.com/item?id=44787631"
     },
     {
-      "title": "NASA's Curiosity picks up new skills",
-      "score": 39,
-      "url": "https://www.jpl.nasa.gov/news/marking-13-years-on-mars-nasas-curiosity-picks-up-new-skills/",
-      "time": 1754335238.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44790271"
-    },
-    {
-      "title": "Indian Sign Painting: A typeface designer's take on the craft",
-      "score": 67,
-      "url": "https://bl.ag/indian-sign-painting-a-typeface-designers-take-on-the-craft/",
-      "time": 1754143386.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44767727"
-    },
-    {
-      "title": "Cellular Starlink expands to support IoT devices",
-      "score": 32,
-      "url": "https://me.pcmag.com/en/networking/31452/spacexs-cellular-starlink-expands-to-support-iot-devices",
-      "time": 1754047972.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44755394"
-    },
-    {
-      "title": "Circadian justice (2022)",
-      "score": 45,
-      "url": "https://eprints.lse.ac.uk/112431/",
-      "time": 1754332046.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44789668"
-    },
-    {
-      "title": "OpenIPC: Open IP Camera Firmware",
-      "score": 161,
-      "url": "https://openipc.org/à",
-      "time": 1754062910.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44758463"
-    },
-    {
-      "title": "Content-Aware Spaced Repetition",
-      "score": 26,
-      "url": "https://www.giacomoran.com/blog/content-aware-sr/",
-      "time": 1754335931.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44790422"
-    },
-    {
       "title": "How we made JSON.stringify more than twice as fast",
-      "score": 44,
+      "score": 175,
       "url": "https://v8.dev/blog/json-stringify",
       "time": 1754316573.0,
       "comments_url": "https://news.ycombinator.com/item?id=44786005"
     },
     {
-      "title": "Job-seekers are dodging AI interviewers",
-      "score": 414,
-      "url": "https://fortune.com/2025/08/03/ai-interviewers-job-seekers-unemployment-hiring-hr-teams/",
-      "time": 1754294660.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44783155"
+      "title": "Thingino: Open-Source Firmware for IP Cameras",
+      "score": 28,
+      "url": "https://thingino.com/",
+      "time": 1754346120.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44791984"
     },
     {
-      "title": "Once a death sentence, cardiac amyloidosis is finally treatable",
-      "score": 17,
-      "url": "https://www.nytimes.com/2025/08/04/well/cardiac-amyloidosis.html",
-      "time": 1754339000.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44790944"
+      "title": "NASA's Curiosity picks up new skills",
+      "score": 87,
+      "url": "https://www.jpl.nasa.gov/news/marking-13-years-on-mars-nasas-curiosity-picks-up-new-skills/",
+      "time": 1754335238.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44790271"
     },
     {
-      "title": "A deep dive into Rust and C memory interoperability",
-      "score": 116,
-      "url": "https://notashes.me/blog/part-1-memory-management/",
-      "time": 1754320340.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44786962"
-    },
-    {
-      "title": "Perplexity is using stealth, undeclared crawlers to evade no-crawl directives",
-      "score": 825,
-      "url": "https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/",
-      "time": 1754314770.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44785636"
-    },
-    {
-      "title": "DrawAFish.com Postmortem",
-      "score": 168,
-      "url": "https://aldenhallak.com/blog/posts/draw-a-fish-postmortem.html",
-      "time": 1754309422.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44784743"
-    },
-    {
-      "title": "How we built Bluey’s world",
-      "score": 262,
-      "url": "https://www.itsnicethat.com/features/how-we-built-bluey-s-world-cartoon-background-scenery-art-director-catriona-drummond-animation-090725",
-      "time": 1754051600.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44755827"
+      "title": "Content-Aware Spaced Repetition",
+      "score": 79,
+      "url": "https://www.giacomoran.com/blog/content-aware-sr/",
+      "time": 1754335931.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44790422"
     },
     {
       "title": "What Happened When I Tried to Replace Myself with ChatGPT in My English Class",
-      "score": 10,
+      "score": 65,
       "url": "https://lithub.com/what-happened-when-i-tried-to-replace-myself-with-chatgpt-in-my-english-classroom/",
       "time": 1754155945.0,
       "comments_url": "https://news.ycombinator.com/item?id=44769547"
     },
     {
-      "title": "My Ideal Array Language",
-      "score": 100,
-      "url": "https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html",
-      "time": 1754312708.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44785224"
+      "title": "Indian Sign Painting: A typeface designer's take on the craft",
+      "score": 111,
+      "url": "https://bl.ag/indian-sign-painting-a-typeface-designers-take-on-the-craft/",
+      "time": 1754143386.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44767727"
     },
     {
-      "title": "Customizing tmux",
-      "score": 49,
-      "url": "https://evgeniipendragon.com/posts/customizing-tmux-and-making-it-less-dreadful/",
-      "time": 1754322090.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44787374"
+      "title": "Job-seekers are dodging AI interviewers",
+      "score": 500,
+      "url": "https://fortune.com/2025/08/03/ai-interviewers-job-seekers-unemployment-hiring-hr-teams/",
+      "time": 1754294660.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44783155"
     },
     {
-      "title": "What Can a Cell Remember?",
-      "score": 22,
-      "url": "https://www.quantamagazine.org/what-can-a-cell-remember-20250730/",
-      "time": 1753990299.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44749211"
+      "title": "Ask HN: What trick of the trade took you too long to learn?",
+      "score": 42,
+      "url": "https://news.ycombinator.com/item?id=44789068",
+      "time": 1754329199.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44789068"
     },
     {
-      "title": "Show HN: Mathpad – Physical keypad for typing math symbols",
-      "score": 40,
-      "url": "https://www.crowdsupply.com/summa-cogni/mathpad",
-      "time": 1754167387.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44771268"
+      "title": "OpenIPC: Open IP Camera Firmware",
+      "score": 191,
+      "url": "https://openipc.org/à",
+      "time": 1754062910.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44758463"
+    },
+    {
+      "title": "Hiroshima (1946)",
+      "score": 35,
+      "url": "https://www.newyorker.com/magazine/1946/08/31/hiroshima",
+      "time": 1754132378.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44766551"
+    },
+    {
+      "title": "DrawAFish.com Postmortem",
+      "score": 244,
+      "url": "https://aldenhallak.com/blog/posts/draw-a-fish-postmortem.html",
+      "time": 1754309422.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44784743"
+    },
+    {
+      "title": "Once a death sentence, cardiac amyloidosis is finally treatable",
+      "score": 97,
+      "url": "https://www.nytimes.com/2025/08/04/well/cardiac-amyloidosis.html",
+      "time": 1754339000.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44790944"
+    },
+    {
+      "title": "How we built Bluey’s world",
+      "score": 312,
+      "url": "https://www.itsnicethat.com/features/how-we-built-bluey-s-world-cartoon-background-scenery-art-director-catriona-drummond-animation-090725",
+      "time": 1754051600.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44755827"
+    },
+    {
+      "title": "Perplexity is using stealth, undeclared crawlers to evade no-crawl directives",
+      "score": 942,
+      "url": "https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/",
+      "time": 1754314770.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44785636"
+    },
+    {
+      "title": "Projects evaluated to see if they're as free and open source as advertised",
+      "score": 117,
+      "url": "https://isitreallyfoss.com/",
+      "time": 1754342783.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44791554"
+    },
+    {
+      "title": "Deterministic Simulation Testing in Rust: A Theater of State Machines",
+      "score": 8,
+      "url": "https://www.polarsignals.com/blog/posts/2025/07/08/dst-rust",
+      "time": 1754066218.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44759172"
     }
   ]
 }
