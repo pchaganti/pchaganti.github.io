@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-05T17:12:18.374181-04:00",
+  "last_updated": "2025-08-05T21:04:32.946576-04:00",
   "papers": [
     {
       "title": "LOST: Low-rank and Sparse Pre-training for Large Language Models",
@@ -82,7 +82,7 @@
     {
       "title": "xDeepServe: Model-as-a-Service on Huawei CloudMatrix384",
       "summary": "The rise of scaled-out LLMs and scaled-up SuperPods signals a new era in\nlarge-scale AI infrastructure. LLMs continue to scale out via MoE, as seen in\nrecent models like DeepSeek, Kimi, and Qwen. In parallel, AI hardware is\nscaling up, with Huawei's CloudMatrix384 SuperPod offering hundreds of GB/s\nhigh-speed interconnects. Running large MoE models on SuperPod-scale hardware\nbrings new challenges. It requires new execution models, scalable scheduling,\nefficient expert load balancing, and elimination of single points of failure.\nThis paper presents xDeepServe, Huawei Cloud's LLM serving system designed for\nSuperPod-scale infrastructure. At its core is Transformerless, a disaggregated\narchitecture that decomposes transformer models into modular units--attention,\nfeedforward, and MoE--executed independently on NPUs connected via high-speed\nfabric. We implement this design in two forms: disaggregated prefill-decode and\ndisaggregated MoE-attention. This fully disaggregated setup enables independent\nscaling of compute and memory without sacrificing performance. To support this\narchitecture, we propose XCCL, a communication library that leverages\nCloudMatrix384's global shared memory to implement efficient point-to-point and\nall-to-all primitives. We also extend our serving engine FlowServe with\nsystem-level techniques, enabling scalable inference across hundreds of NPUs.",
-      "url": "http://arxiv.org/abs/2508.02520v1",
+      "url": "http://arxiv.org/abs/2508.02520v2",
       "published_time_eastern_timestamp": 1754321457.0
     },
     {
