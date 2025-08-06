@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-08-06T05:20:23.370341-04:00",
+  "last_updated": "2025-08-06T08:27:10.295950-04:00",
   "stories": [
     {
       "title": "Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model",
-      "score": 282,
+      "score": 444,
       "url": "https://github.com/KittenML/KittenTTS",
       "time": 1754456676.0,
       "comments_url": "https://news.ycombinator.com/item?id=44807868"
     },
     {
-      "title": "Open models by OpenAI",
-      "score": 1772,
-      "url": "https://openai.com/open-models/",
-      "time": 1754413322.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44800746"
-    },
-    {
       "title": "I gave the AI arms and legs then it rejected me",
-      "score": 221,
+      "score": 408,
       "url": "https://grell.dev/blog/ai_rejection",
       "time": 1754465143.0,
       "comments_url": "https://news.ycombinator.com/item?id=44808794"
     },
     {
+      "title": "Open models by OpenAI",
+      "score": 1883,
+      "url": "https://openai.com/open-models/",
+      "time": 1754413322.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44800746"
+    },
+    {
+      "title": "About the BLOBs in Ventoy",
+      "score": 27,
+      "url": "https://github.com/ventoy/Ventoy/issues/3224",
+      "time": 1754476861.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44810281"
+    },
+    {
+      "title": "LLM Inflation",
+      "score": 16,
+      "url": "https://tratt.net/laurie/blog/2025/llm_inflation.html",
+      "time": 1754477078.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44810307"
+    },
+    {
+      "title": "Slopsquatting",
+      "score": 31,
+      "url": "https://en.wikipedia.org/wiki/Slopsquatting",
+      "time": 1754480592.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44810695"
+    },
+    {
+      "title": "Python performance myths and fairy tales",
+      "score": 58,
+      "url": "https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/",
+      "time": 1754469388.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44809387"
+    },
+    {
       "title": "Genie 3: A new frontier for world models",
-      "score": 1315,
+      "score": 1367,
       "url": "https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/",
       "time": 1754402932.0,
       "comments_url": "https://news.ycombinator.com/item?id=44798166"
     },
     {
-      "title": "Why there are so many more South Asian CEOs than East Asian CEOs in the US",
-      "score": 20,
-      "url": "https://www.davelu.com/p/learn-to-embrace-conflict",
-      "time": 1754463169.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44808550"
-    },
-    {
       "title": "I'm Archiving Picocrypt",
-      "score": 124,
+      "score": 159,
       "url": "https://github.com/Picocrypt/Picocrypt/issues/134",
       "time": 1754450062.0,
       "comments_url": "https://news.ycombinator.com/item?id=44807210"
     },
     {
-      "title": "Some thoughts on journals, refereeing, and the P vs. NP problem",
-      "score": 14,
-      "url": "https://blog.computationalcomplexity.org/2025/08/some-thoughts-on-journals-refereeing.html",
-      "time": 1754464328.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44808693"
+      "title": "Wired Called Our AirGradient Monitor 'Not Recommended' over a Broken Display",
+      "score": 35,
+      "url": "https://www.airgradient.com/blog/wired-review-of-airgradient-one-not-recommended/",
+      "time": 1754479647.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44810574"
     },
     {
-      "title": "Spotting base64 encoded JSON, certificates, and private keys",
-      "score": 286,
-      "url": "https://ergaster.org/til/base64-encoded-json/",
-      "time": 1754421458.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44802886"
+      "title": "Japan: Apple Must Lift Browser Engine Ban by December",
+      "score": 71,
+      "url": "https://open-web-advocacy.org/blog/japan-apple-must-lift-engine-ban-by-december/",
+      "time": 1754474860.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44810061"
+    },
+    {
+      "title": "NautilusTrader: Open-Source, High-Performance Algorithmic Trading Platform",
+      "score": 4,
+      "url": "https://nautilustrader.io/",
+      "time": 1754479422.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44810552"
     },
     {
       "title": "Ollama Turbo",
-      "score": 355,
+      "score": 375,
       "url": "https://ollama.com/turbo",
       "time": 1754419578.0,
       "comments_url": "https://news.ycombinator.com/item?id=44802414"
     },
     {
-      "title": "Kart – Distributed version-control for geospatial and tabular data",
-      "score": 22,
-      "url": "https://kartproject.org/",
-      "time": 1754289317.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44782690"
+      "title": "UR5 with Robotiq 85 Gripper: Object Grasping and Placement Simulation",
+      "score": 9,
+      "url": "https://github.com/leesweqq/ur5_grasp_object_pybullet",
+      "time": 1754139026.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44767197"
     },
     {
-      "title": "Software Rot",
-      "score": 102,
-      "url": "https://permacomputing.net/software_rot/",
-      "time": 1754447719.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44807002"
+      "title": "Spotting base64 encoded JSON, certificates, and private keys",
+      "score": 303,
+      "url": "https://ergaster.org/til/base64-encoded-json/",
+      "time": 1754421458.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44802886"
     },
     {
-      "title": "The Amaranth hardware description language",
-      "score": 52,
-      "url": "https://amaranth-lang.org/docs/amaranth/latest/intro.html#the-amaranth-language",
-      "time": 1754452142.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44807410"
+      "title": "Some thoughts on journals, refereeing, and the P vs. NP problem",
+      "score": 31,
+      "url": "https://blog.computationalcomplexity.org/2025/08/some-thoughts-on-journals-refereeing.html",
+      "time": 1754464328.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44808693"
     },
     {
       "title": "Ozempic shows anti-aging effects in trial",
-      "score": 276,
+      "score": 319,
       "url": "https://trial.medpath.com/news/5c43f09ebb6d0f8e/ozempic-shows-anti-aging-effects-in-first-clinical-trial-reversing-biological-age-by-3-1-years",
       "time": 1754404119.0,
       "comments_url": "https://news.ycombinator.com/item?id=44798410"
     },
     {
-      "title": "Create personal illustrated storybooks in the Gemini app",
-      "score": 157,
-      "url": "https://blog.google/products/gemini/storybooks/",
-      "time": 1754428489.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44804411"
+      "title": "Kart – Distributed version-control for geospatial and tabular data",
+      "score": 35,
+      "url": "https://kartproject.org/",
+      "time": 1754289317.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44782690"
+    },
+    {
+      "title": "Show HN: FFlags – Feature flags as code, served from the edge",
+      "score": 21,
+      "url": "https://fflags.com",
+      "time": 1754334815.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44790191"
     },
     {
       "title": "Scientific fraud has become an 'industry,' analysis finds",
-      "score": 366,
+      "score": 382,
       "url": "https://www.science.org/content/article/scientific-fraud-has-become-industry-alarming-analysis-finds",
       "time": 1754391367.0,
       "comments_url": "https://news.ycombinator.com/item?id=44796526"
-    },
-    {
-      "title": "Teacher AI Use Is Already Out of Control and It's Not Ok",
-      "score": 56,
-      "url": "https://simonwillison.net/2025/Aug/5/greyduet-on-rteachers/",
-      "time": 1754459069.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44808122"
-    },
-    {
-      "title": "Consider using Zstandard and/or LZ4 instead of Deflate",
-      "score": 162,
-      "url": "https://github.com/w3c/png/issues/39",
-      "time": 1754414317.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44801027"
-    },
-    {
-      "title": "Fire hazard of WHY2025 badge due to 18650 Li-Ion cells",
-      "score": 19,
-      "url": "https://wiki.why2025.org/Badge/Fire_hazard",
-      "time": 1754461761.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44808423"
-    },
-    {
-      "title": "Things that helped me get out of the AI 10x engineer imposter syndrome",
-      "score": 819,
-      "url": "https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/",
-      "time": 1754403042.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44798189"
-    },
-    {
-      "title": "Ask HN: Have you ever regretted open-sourcing something?",
-      "score": 201,
-      "url": "https://news.ycombinator.com/item?id=44766771",
-      "time": 1754134620.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44766771"
     }
   ]
 }
