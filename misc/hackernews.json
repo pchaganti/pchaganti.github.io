@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-08-06T17:11:57.151653-04:00",
+  "last_updated": "2025-08-06T21:05:04.037333-04:00",
   "stories": [
     {
       "title": "Claude Code IDE integration for Emacs",
-      "score": 425,
+      "score": 541,
       "url": "https://github.com/manzaltu/claude-code-ide.el",
       "time": 1754486258.0,
       "comments_url": "https://news.ycombinator.com/item?id=44811567"
     },
     {
       "title": "Project Hyperion: Interstellar ship design competition",
-      "score": 19,
+      "score": 121,
       "url": "https://www.projecthyperion.org",
       "time": 1754512817.0,
       "comments_url": "https://news.ycombinator.com/item?id=44817539"
     },
     {
       "title": "Litestar is worth a look",
-      "score": 59,
+      "score": 154,
       "url": "https://www.b-list.org/weblog/2025/aug/06/litestar/",
       "time": 1754509381.0,
       "comments_url": "https://news.ycombinator.com/item?id=44816755"
     },
     {
+      "title": "Rules by Which a Great Empire May Be Reduced to a Small One",
+      "score": 14,
+      "url": "https://founders.archives.gov/documents/Franklin/01-20-02-0213",
+      "time": 1754522951.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44819037"
+    },
+    {
+      "title": "The Inkhaven Blogging Residency",
+      "score": 11,
+      "url": "https://www.inkhaven.blog/",
+      "time": 1754526053.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44819352"
+    },
+    {
+      "title": "You know more Finnish than you think",
+      "score": 34,
+      "url": "https://dannybate.com/2025/08/03/you-know-more-finnish-than-you-think/",
+      "time": 1754334499.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44790132"
+    },
+    {
       "title": "A fast, growable array with stable pointers in C",
-      "score": 66,
+      "score": 121,
       "url": "https://danielchasehooper.com/posts/segment_array/",
       "time": 1754504488.0,
       "comments_url": "https://news.ycombinator.com/item?id=44815702"
     },
     {
-      "title": "Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work",
-      "score": 152,
-      "url": "https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/",
-      "time": 1754496054.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44813789"
-    },
-    {
-      "title": "Multics",
-      "score": 61,
-      "url": "https://www.multicians.org/multics.html",
-      "time": 1754499475.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44814596"
-    },
-    {
-      "title": "The History of F1 Design",
-      "score": 22,
-      "url": "https://www.espn.com/espn/feature/story/_/id/43832710/how-f1-evolved-1950-where-headed-2026",
-      "time": 1754510497.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44816977"
-    },
-    {
-      "title": "Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model",
-      "score": 708,
-      "url": "https://github.com/KittenML/KittenTTS",
-      "time": 1754456676.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44807868"
-    },
-    {
-      "title": "Comptime.ts: compile-time expressions for TypeScript",
-      "score": 41,
-      "url": "https://comptime.js.org/",
-      "time": 1754248300.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44778898"
-    },
-    {
-      "title": "Jules, our asynchronous coding agent",
-      "score": 159,
-      "url": "https://blog.google/technology/google-labs/jules-now-available/",
-      "time": 1754496339.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44813854"
-    },
-    {
-      "title": "We'd be better off with 9-bit bytes",
-      "score": 12,
-      "url": "https://pavpanchekha.com/blog/9bit.html",
-      "time": 1754509160.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44816692"
-    },
-    {
-      "title": "Breaking the sorting barrier for directed single-source shortest paths",
-      "score": 105,
-      "url": "https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/",
-      "time": 1754491382.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44812695"
-    },
-    {
-      "title": "Zig Error Patterns",
-      "score": 97,
-      "url": "https://glfmn.io/posts/zig-error-patterns/",
-      "time": 1754492599.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44812985"
-    },
-    {
-      "title": "Vibe coding the MIT course catalog",
-      "score": 33,
-      "url": "https://stackdiver.com/posts/vibe-coding-the-mit-course-catalog/",
-      "time": 1754504599.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44815718"
-    },
-    {
       "title": "The Bluesky Dictionary",
-      "score": 6,
+      "score": 79,
       "url": "https://www.avibagla.com/blueskydictionary/",
       "time": 1754512988.0,
       "comments_url": "https://news.ycombinator.com/item?id=44817583"
     },
     {
-      "title": "303Gen – 303 acid loops generator",
-      "score": 134,
-      "url": "https://303-gen-06a668.netlify.app/",
-      "time": 1754484606.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44811280"
+      "title": "Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work",
+      "score": 201,
+      "url": "https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/",
+      "time": 1754496054.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44813789"
     },
     {
-      "title": "The arcane alphabets of Black Sabbath",
-      "score": 12,
-      "url": "https://fontsinuse.com/uses/35835/the-arcane-alphabets-of-black-sabbath",
-      "time": 1754506314.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44816060"
+      "title": "We'd be better off with 9-bit bytes",
+      "score": 74,
+      "url": "https://pavpanchekha.com/blog/9bit.html",
+      "time": 1754509160.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44816692"
     },
     {
-      "title": "Why is it worth spending time on type theory? (2013)",
-      "score": 53,
-      "url": "https://math.stackexchange.com/questions/567265/why-is-it-worth-spending-time-on-type-theory",
-      "time": 1754325970.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44788321"
+      "title": "301party.com: Intentionally open redirect",
+      "score": 52,
+      "url": "https://301party.com/",
+      "time": 1754513679.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44817725"
     },
     {
-      "title": "Automerge 3.0",
-      "score": 166,
-      "url": "https://automerge.org/blog/automerge-3/",
-      "time": 1754233738.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44777086"
+      "title": "Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model",
+      "score": 762,
+      "url": "https://github.com/KittenML/KittenTTS",
+      "time": 1754456676.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44807868"
     },
     {
-      "title": "Gleam v1.12",
-      "score": 92,
-      "url": "https://github.com/gleam-lang/gleam/blob/main/changelog/v1.12.md",
-      "time": 1754503077.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44815405"
+      "title": "Multics",
+      "score": 87,
+      "url": "https://www.multicians.org/multics.html",
+      "time": 1754499475.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44814596"
+    },
+    {
+      "title": "Jules, our asynchronous coding agent",
+      "score": 210,
+      "url": "https://blog.google/technology/google-labs/jules-now-available/",
+      "time": 1754496339.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44813854"
+    },
+    {
+      "title": "A Man Who Beat IBM",
+      "score": 24,
+      "url": "https://every.to/feeds/b0e329f3048258e8eeb7/the-man-who-beat-ibm",
+      "time": 1754271102.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44781343"
+    },
+    {
+      "title": "Comptime.ts: compile-time expressions for TypeScript",
+      "score": 89,
+      "url": "https://comptime.js.org/",
+      "time": 1754248300.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44778898"
+    },
+    {
+      "title": "Breaking the sorting barrier for directed single-source shortest paths",
+      "score": 132,
+      "url": "https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/",
+      "time": 1754491382.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44812695"
+    },
+    {
+      "title": "Git-fetch-file – Sync files from other repos with commit tracking and safety",
+      "score": 17,
+      "url": "https://github.com/andrewmcwattersandco/git-fetch-file",
+      "time": 1754520327.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44818734"
+    },
+    {
+      "title": "Zig Error Patterns",
+      "score": 118,
+      "url": "https://glfmn.io/posts/zig-error-patterns/",
+      "time": 1754492599.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44812985"
+    },
+    {
+      "title": "Out-Fibbing CPython with the Plush Interpreter",
+      "score": 9,
+      "url": "https://pointersgonewild.com/2025-08-06-out-fibbing-cpython-with-the-plush-interpreter/",
+      "time": 1754522287.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44818957"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-06T17:11:59.401498-04:00",
+  "last_updated": "2025-08-06T21:05:06.698555-04:00",
   "papers": [
     {
       "title": "LiDARCrafter: Dynamic 4D World Modeling from LiDAR Sequences",
@@ -16,7 +16,7 @@
     {
       "title": "Self-Questioning Language Models",
       "summary": "Can large language models improve without external data -- by generating\ntheir own questions and answers? We hypothesize that a pre-trained language\nmodel can improve its reasoning skills given only a single prompt specifying\nthe topic (e.g., algebra word problems) and asking the model to generate its\nown questions. To do this, we propose Self-Questioning Language Models (SQLM):\nan asymmetric self-play framework where a proposer is given the topic and\ngenerates a question for a solver, who tries to answer it. Both the proposer\nand solver are trained via reinforcement learning. The proposer receives a\nreward if the problem is not too easy or too difficult, and the solver receives\na reward based on majority voting, a proxy for correctness in the absence of\nground-truth answers. For coding, the proposer can instead generate unit tests\nwhich are used for verification. We study this asymmetric self-play framework\non three benchmarks: three-digit multiplication, algebra problems from the\nOMEGA benchmark, and programming problems from Codeforces. By continually\ngenerating more interesting problems and attempting to solve them, language\nmodels can improve on downstream benchmarks without access to any curated\ntraining datasets.",
-      "url": "http://arxiv.org/abs/2508.03682v1",
+      "url": "http://arxiv.org/abs/2508.03682v2",
       "published_time_eastern_timestamp": 1754416293.0
     },
     {
@@ -52,7 +52,7 @@
     {
       "title": "Uni3R: Unified 3D Reconstruction and Semantic Understanding via\n  Generalizable Gaussian Splatting from Unposed Multi-View Images",
       "summary": "Reconstructing and semantically interpreting 3D scenes from sparse 2D views\nremains a fundamental challenge in computer vision. Conventional methods often\ndecouple semantic understanding from reconstruction or necessitate costly\nper-scene optimization, thereby restricting their scalability and\ngeneralizability. In this paper, we introduce Uni3R, a novel feed-forward\nframework that jointly reconstructs a unified 3D scene representation enriched\nwith open-vocabulary semantics, directly from unposed multi-view images. Our\napproach leverages a Cross-View Transformer to robustly integrate information\nacross arbitrary multi-view inputs, which then regresses a set of 3D Gaussian\nprimitives endowed with semantic feature fields. This unified representation\nfacilitates high-fidelity novel view synthesis, open-vocabulary 3D semantic\nsegmentation, and depth prediction, all within a single, feed-forward pass.\nExtensive experiments demonstrate that Uni3R establishes a new state-of-the-art\nacross multiple benchmarks, including 25.07 PSNR on RE10K and 55.84 mIoU on\nScanNet. Our work signifies a novel paradigm towards generalizable, unified 3D\nscene reconstruction and understanding. The code is available at\nhttps://github.com/HorizonRobotics/Uni3R.",
-      "url": "http://arxiv.org/abs/2508.03643v1",
+      "url": "http://arxiv.org/abs/2508.03643v2",
       "published_time_eastern_timestamp": 1754412895.0
     },
     {
@@ -100,7 +100,7 @@
     {
       "title": "Detectability of compact intermediate-mass black hole binaries as\n  low-frequency gravitational wave sources: the influence of dynamical friction\n  of dark matter",
       "summary": "The black hole (BH) spin could significantly change the density of dark\nmatter (DM) in its vicinity, creating a mini-spike of the density of DM. The\ndynamical friction (DF) between DM and the companion star of a BH can provide\nan efficient loss of angular momentum, driving the BH-main sequence (MS) star\nbinary to evolve toward a compact orbit system. We investigate the influence of\nthe DF of DM on the detectability of intermediate-mass black hole (IMBH)-MS\nbinaries as low-frequency gravitational wave (GW) sources. Taking into account\nthe DF of DM, we employ the detailed binary evolution code MESA to model the\nevolution of a large number of IMBH-MS binaries. Our simulation shows that the\nDF of DM can drive those IMBH-MS binaries to evolve toward low-frequency GW\nsources for a low donor-star mass, a high spike index, or a short initial\norbital period. When the spike index $\\gamma=1.60$, those IMBH-MS binaries with\ndonor-star masses of $1.0-3.4~ M_{\\odot}$ and initial orbital periods of\n$0.65-16.82~ \\rm days$ could potentially evolve into visible LISA sources\nwithin a distance of $10~\\rm kpc$. The DF of DM can enlarge the initial\nparameter space and prolong the bifurcation periods. In the low-frequency GW\nsource stage, the X-ray luminosities of those IMBH X-ray binaries are $\\sim\n10^{35}-10^{36}~\\rm erg\\,s^{-1}$, hence they are ideal multimessenger objects.",
-      "url": "http://arxiv.org/abs/2508.03582v1",
+      "url": "http://arxiv.org/abs/2508.03582v2",
       "published_time_eastern_timestamp": 1754408974.0
     },
     {
