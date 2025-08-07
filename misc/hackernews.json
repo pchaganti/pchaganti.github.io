@@ -1,44 +1,79 @@
 {
-  "last_updated": "2025-08-07T08:26:53.067936-04:00",
+  "last_updated": "2025-08-07T11:15:05.115212-04:00",
   "stories": [
     {
-      "title": "\"I closed MPEG on 2 Jun '20 when I left because obscure forces had hijacked it.\"",
-      "score": 113,
-      "url": "https://leonardo.chiariglione.org/",
-      "time": 1754561381.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44822637"
+      "title": "Infinite Pixels",
+      "score": 127,
+      "url": "https://meyerweb.com/eric/thoughts/2025/08/07/infinite-pixels/",
+      "time": 1754572362.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44824056"
+    },
+    {
+      "title": "Windows XP Professional",
+      "score": 79,
+      "url": "https://win32.run/",
+      "time": 1754575105.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44824539"
+    },
+    {
+      "title": "Baltimore Assessments Accidentally Subsidize Blight–and How We Can Fix It",
+      "score": 48,
+      "url": "https://progressandpoverty.substack.com/p/how-baltimore-assessments-accidentally",
+      "time": 1754570134.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44823672"
+    },
+    {
+      "title": "Laptop Support and Usability (LSU): July 2025 Report from the FreeBSD Foundation",
+      "score": 24,
+      "url": "https://github.com/FreeBSDFoundation/proj-laptop/blob/main/monthly-updates/2025-07.md",
+      "time": 1754574918.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44824502"
     },
     {
       "title": "New AI Coding Teammate: Gemini CLI GitHub Actions",
-      "score": 63,
+      "score": 135,
       "url": "https://blog.google/technology/developers/introducing-gemini-cli-github-actions/",
       "time": 1754558926.0,
       "comments_url": "https://news.ycombinator.com/item?id=44822389"
     },
     {
-      "title": "AI ethics is being narrowed on purpose – just like privacy was",
-      "score": 24,
-      "url": "https://nimishg.substack.com/p/ai-ethics-is-being-narrowed-on-purpose",
-      "time": 1754565635.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44823094"
+      "title": "Monte Carlo Crash Course: Quasi-Monte Carlo",
+      "score": 19,
+      "url": "https://thenumb.at/QMC/",
+      "time": 1754254388.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44779688"
     },
     {
-      "title": "Schools are using AI surveillance to protect students. Sometimes arresting them",
-      "score": 22,
-      "url": "https://apnews.com/article/ai-school-surveillance-gaggle-goguardian-bark-8c531cde8f9aee0b1ef06cfce109724a",
-      "time": 1754565452.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44823066"
+      "title": "Arm Desktop: x86 Emulation",
+      "score": 34,
+      "url": "https://marcin.juszkiewicz.com.pl/2025/07/22/arm-desktop-emulation/",
+      "time": 1754569616.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44823580"
+    },
+    {
+      "title": "Sweatshop Data Is Over",
+      "score": 14,
+      "url": "https://www.mechanize.work/blog/sweatshop-data-is-over/",
+      "time": 1754575220.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44824560"
     },
     {
       "title": "We replaced passwords with something worse",
-      "score": 439,
+      "score": 601,
       "url": "https://blog.danielh.cc/blog/passwords",
       "time": 1754533165.0,
       "comments_url": "https://news.ycombinator.com/item?id=44819917"
     },
     {
+      "title": "Global Trade Dynamics",
+      "score": 13,
+      "url": "https://alhadaqa.github.io/globaltradedynamics/",
+      "time": 1754576070.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44824728"
+    },
+    {
       "title": "Show HN: Stasher – Burn-after-read secrets from the CLI, no server, no trust",
-      "score": 8,
+      "score": 37,
       "url": "https://github.com/stasher-dev/stasher-cli",
       "time": 1754567291.0,
       "comments_url": "https://news.ycombinator.com/item?id=44823262"
@@ -51,95 +86,60 @@
       "comments_url": "https://news.ycombinator.com/item?id=44823354"
     },
     {
-      "title": "Cracking the Vault: How we found zero-day flaws in HashiCorp Vault",
-      "score": 128,
-      "url": "https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/",
-      "time": 1754550102.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44821434"
+      "title": "Honesty Boxes in Scotland (2024)",
+      "score": 11,
+      "url": "https://awayfromtheordinary.com/2024/07/29/honesty-boxes-in-scotland/",
+      "time": 1754575874.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44824684"
+    },
+    {
+      "title": "An LLM does not need to understand MCP",
+      "score": 57,
+      "url": "https://hackteam.io/blog/your-llm-does-not-care-about-mcp/",
+      "time": 1754571144.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44823850"
+    },
+    {
+      "title": "Leonardo Chiariglione: “I closed MPEG on 2 June 2020”",
+      "score": 171,
+      "url": "https://leonardo.chiariglione.org/",
+      "time": 1754561381.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44822637"
     },
     {
       "title": "Claude Code IDE integration for Emacs",
-      "score": 686,
+      "score": 702,
       "url": "https://github.com/manzaltu/claude-code-ide.el",
       "time": 1754486258.0,
       "comments_url": "https://news.ycombinator.com/item?id=44811567"
     },
     {
-      "title": "Running GPT-OSS-120B at 500 tokens per second on Nvidia GPUs",
-      "score": 187,
-      "url": "https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/",
-      "time": 1754533727.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44819968"
+      "title": "The Whispering Earring (Scott Alexander)",
+      "score": 52,
+      "url": "https://croissanthology.com/earring",
+      "time": 1754561788.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44822684"
     },
     {
-      "title": "Show HN: Aura – Like robots.txt, but for AI actions",
-      "score": 5,
-      "url": "https://github.com/osmandkitay/aura",
-      "time": 1754487467.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44811840"
+      "title": "Cracking the Vault: How we found zero-day flaws in HashiCorp Vault",
+      "score": 168,
+      "url": "https://cyata.ai/blog/cracking-the-vault-how-we-found-zero-day-flaws-in-authentication-identity-and-authorization-in-hashicorp-vault/",
+      "time": 1754550102.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44821434"
     },
     {
-      "title": "Debounce",
-      "score": 79,
-      "url": "https://developer.mozilla.org/en-US/docs/Glossary/Debounce",
-      "time": 1754323453.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44787738"
+      "title": "How AI Conquered the US Economy: A Visual FAQ",
+      "score": 86,
+      "url": "https://www.derekthompson.org/p/how-ai-conquered-the-us-economy-a",
+      "time": 1754561574.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44822665"
     },
     {
-      "title": "Project Hyperion: Interstellar ship design competition",
-      "score": 295,
-      "url": "https://www.projecthyperion.org",
-      "time": 1754512817.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44817539"
-    },
-    {
-      "title": "Splatshop: Efficiently Editing Large Gaussian Splat Models",
-      "score": 12,
-      "url": "https://momentsingraphics.de/HPG2025.html",
-      "time": 1754297624.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44783372"
-    },
-    {
-      "title": "Did Craigslist decimate newspapers? Legend meets reality",
-      "score": 23,
-      "url": "https://www.poynter.org/business-work/2025/did-craigslist-kill-newspapers-poynter-50/",
-      "time": 1754256933.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44780034"
-    },
-    {
-      "title": "Rules by which a great empire may be reduced to a small one (1773)",
-      "score": 192,
-      "url": "https://founders.archives.gov/documents/Franklin/01-20-02-0213",
-      "time": 1754522951.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44819037"
-    },
-    {
-      "title": "Children's movie leads art historian to long-lost Hungarian masterpiece (2014)",
-      "score": 19,
-      "url": "https://www.theguardian.com/world/2014/nov/27/stuart-little-art-historian-long-lost-hungarian-masterpiece",
-      "time": 1754281260.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44782097"
-    },
-    {
-      "title": "Ultra-Processed Foods Make Up More Than 60% of US Kids' Diets",
-      "score": 14,
-      "url": "https://www.bloomberg.com/news/articles/2025-08-07/sugar-snacks-and-ultra-processed-foods-are-majority-of-us-diet",
-      "time": 1754567548.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44823288"
-    },
-    {
-      "title": "Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model",
-      "score": 872,
-      "url": "https://github.com/KittenML/KittenTTS",
-      "time": 1754456676.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44807868"
-    },
-    {
-      "title": "A candidate giant planet imaged in the habitable zone of α  Cen A",
-      "score": 92,
-      "url": "https://arxiv.org/abs/2508.03814",
-      "time": 1754530938.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44819738"
+      "title": "PastVu: Historical Photographs on Current Maps",
+      "score": 28,
+      "url": "https://pastvu.com/?_nojs=1",
+      "time": 1754333548.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44789964"
     }
   ]
 }
