@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-08-08T02:20:56.757784-04:00",
+  "last_updated": "2025-08-08T05:18:57.291296-04:00",
   "stories": [
     {
       "title": "GPT-5",
-      "score": 1612,
+      "score": 1736,
       "url": "https://openai.com/gpt-5/",
       "time": 1754586021.0,
       "comments_url": "https://news.ycombinator.com/item?id=44826997"
     },
     {
-      "title": "GPT-5 leaked system prompt",
-      "score": 232,
-      "url": "https://gist.github.com/maoxiaoke/f6d5b28f9104cd856a2622a084f46fd7",
-      "time": 1754622545.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44832990"
-    },
-    {
-      "title": "Benchmarking GPT-5 on 400 Real-World Code Reviews",
-      "score": 4,
-      "url": "https://www.qodo.ai/blog/benchmarking-gpt-5-on-real-world-code-reviews-with-the-pr-benchmark/",
-      "time": 1754632822.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44833929"
+      "title": "Linear sent me down a local-first rabbit hole",
+      "score": 107,
+      "url": "https://bytemash.net/posts/i-went-down-the-linear-rabbit-hole/",
+      "time": 1754631942.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44833834"
     },
     {
       "title": "Flipper Zero dark web firmware bypasses rolling code security",
-      "score": 248,
+      "score": 309,
       "url": "https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/",
       "time": 1754601042.0,
       "comments_url": "https://news.ycombinator.com/item?id=44830408"
     },
     {
+      "title": "A love letter to my future employer (2020)",
+      "score": 19,
+      "url": "https://catzkorn.dev/blog/love-letter/",
+      "time": 1754632890.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44833932"
+    },
+    {
       "title": "Historical Tech Tree",
-      "score": 349,
+      "score": 392,
       "url": "https://www.historicaltechtree.com/",
       "time": 1754594689.0,
       "comments_url": "https://news.ycombinator.com/item?id=44829185"
     },
     {
-      "title": "Writing a storage engine for Postgres: An in-memory table access method (2023)",
-      "score": 48,
-      "url": "https://notes.eatonphil.com/2023-11-01-postgres-table-access-methods.html",
-      "time": 1754297595.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44783368"
-    },
-    {
-      "title": "GPT-5: Key characteristics, pricing and system card",
-      "score": 507,
-      "url": "https://simonwillison.net/2025/Aug/7/gpt-5/",
-      "time": 1754588778.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44827794"
-    },
-    {
       "title": "Cursor CLI",
-      "score": 234,
+      "score": 268,
       "url": "https://cursor.com/cli",
       "time": 1754600034.0,
       "comments_url": "https://news.ycombinator.com/item?id=44830221"
     },
     {
+      "title": "GPT-5: Key characteristics, pricing and system card",
+      "score": 540,
+      "url": "https://simonwillison.net/2025/Aug/7/gpt-5/",
+      "time": 1754588778.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44827794"
+    },
+    {
       "title": "OpenAI's new open-source model is basically Phi-5",
-      "score": 249,
+      "score": 288,
       "url": "https://www.seangoedecke.com/gpt-oss-is-phi-5/",
       "time": 1754593186.0,
       "comments_url": "https://news.ycombinator.com/item?id=44828884"
     },
     {
-      "title": "Lessons from writing a Kubernetes Security book",
-      "score": 8,
-      "url": "https://medium.com/@raul.lapaz/learning-kubernetes-security-2cb906ad8037",
-      "time": 1754307883.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44784495"
+      "title": "Virtual Linux Devices on ARM64",
+      "score": 11,
+      "url": "https://underjord.io/500-virtual-linux-devices-on-arm64.html",
+      "time": 1754308260.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44784570"
+    },
+    {
+      "title": "Writing a storage engine for Postgres: An in-memory table access method (2023)",
+      "score": 64,
+      "url": "https://notes.eatonphil.com/2023-11-01-postgres-table-access-methods.html",
+      "time": 1754297595.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44783368"
     },
     {
       "title": "GPT-5 for Developers",
-      "score": 386,
+      "score": 413,
       "url": "https://openai.com/index/introducing-gpt-5-for-developers",
       "time": 1754586399.0,
       "comments_url": "https://news.ycombinator.com/item?id=44827101"
     },
     {
-      "title": "Ask HN: Has any of the Pivotal Tracker replacement attempts succeeded?",
-      "score": 17,
-      "url": "https://news.ycombinator.com/item?id=44784619",
-      "time": 1754308590.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44784619"
-    },
-    {
-      "title": "Cursed Knowledge",
-      "score": 240,
-      "url": "https://immich.app/cursed-knowledge/",
-      "time": 1754609692.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44831704"
+      "title": "Benchmarking GPT-5 on 400 real-world code reviews",
+      "score": 60,
+      "url": "https://www.qodo.ai/blog/benchmarking-gpt-5-on-real-world-code-reviews-with-the-pr-benchmark/",
+      "time": 1754632822.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44833929"
     },
     {
       "title": "Encryption made for police and military radios may be easily cracked",
-      "score": 160,
+      "score": 180,
       "url": "https://www.wired.com/story/encryption-made-for-police-and-military-radios-may-be-easily-cracked-researchers-find/",
       "time": 1754591404.0,
       "comments_url": "https://news.ycombinator.com/item?id=44828504"
     },
     {
-      "title": "Achieving 10,000x training data reduction with high-fidelity labels",
-      "score": 90,
-      "url": "https://research.google/blog/achieving-10000x-training-data-reduction-with-high-fidelity-labels/",
-      "time": 1754601080.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44830418"
+      "title": "FLUX.1-Krea and the Rise of Opinionated Models",
+      "score": 6,
+      "url": "https://www.dbreunig.com/2025/08/04/the-rise-of-opinionated-models.html",
+      "time": 1754345642.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44791923"
     },
     {
-      "title": "Vibechart",
-      "score": 713,
-      "url": "https://www.vibechart.net/",
-      "time": 1754602605.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44830684"
+      "title": "Exit Tax: Leave Germany before your business gets big",
+      "score": 185,
+      "url": "https://eidel.io/exit-tax-leave-germany-before-your-business-gets-big/",
+      "time": 1754590010.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44828158"
+    },
+    {
+      "title": "Cursed Knowledge",
+      "score": 309,
+      "url": "https://immich.app/cursed-knowledge/",
+      "time": 1754609692.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44831704"
     },
     {
       "title": "The Paranoid Style in American Politics (1964)",
-      "score": 31,
+      "score": 62,
       "url": "https://harpers.org/archive/1964/11/the-paranoid-style-in-american-politics/",
       "time": 1754621728.0,
       "comments_url": "https://news.ycombinator.com/item?id=44832927"
     },
     {
+      "title": "Achieving 10,000x training data reduction with high-fidelity labels",
+      "score": 109,
+      "url": "https://research.google/blog/achieving-10000x-training-data-reduction-with-high-fidelity-labels/",
+      "time": 1754601080.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44830418"
+    },
+    {
       "title": "Over engineering my homelab so I don't pay cloud providers",
-      "score": 38,
+      "score": 82,
       "url": "https://ergaster.org/posts/2025/08/04-overegineering-homelab/",
       "time": 1754349255.0,
       "comments_url": "https://news.ycombinator.com/item?id=44792419"
     },
     {
       "title": "Building Bluesky comments for my blog",
-      "score": 298,
+      "score": 312,
       "url": "https://natalie.sh/posts/bluesky-comments/",
       "time": 1754582161.0,
       "comments_url": "https://news.ycombinator.com/item?id=44826164"
-    },
-    {
-      "title": "Exit Tax: Leave Germany before your business gets big",
-      "score": 130,
-      "url": "https://eidel.io/exit-tax-leave-germany-before-your-business-gets-big/",
-      "time": 1754590010.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44828158"
     }
   ]
 }
