@@ -1,51 +1,93 @@
 {
-  "last_updated": "2025-08-10T14:15:54.805122-04:00",
+  "last_updated": "2025-08-10T17:10:52.897749-04:00",
   "stories": [
     {
-      "title": "AOL closes its dial up internet service",
-      "score": 132,
-      "url": "https://www.ispreview.co.uk/index.php/2025/08/after-34-years-aol-finally-closes-its-dial-up-internet-service.html",
-      "time": 1754841737.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44856090"
+      "title": "Fight Chat Control",
+      "score": 539,
+      "url": "https://fightchatcontrol.eu/",
+      "time": 1754844634.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44856426"
+    },
+    {
+      "title": "1910: The year the modern world lost its mind",
+      "score": 25,
+      "url": "https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost",
+      "time": 1754858926.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44858154"
+    },
+    {
+      "title": "One Million Screenshots",
+      "score": 25,
+      "url": "https://onemillionscreenshots.com/?q=random",
+      "time": 1754857834.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44858067"
     },
     {
       "title": "GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2",
-      "score": 91,
+      "score": 202,
       "url": "https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the",
       "time": 1754838367.0,
       "comments_url": "https://news.ycombinator.com/item?id=44855690"
     },
     {
-      "title": "Diffusion Language Models Are Super Data Learners",
-      "score": 57,
-      "url": "https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac",
-      "time": 1754841845.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44856101"
-    },
-    {
       "title": "Try and",
-      "score": 246,
+      "score": 329,
       "url": "https://ygdp.yale.edu/phenomena/try-and",
       "time": 1754832733.0,
       "comments_url": "https://news.ycombinator.com/item?id=44855079"
     },
     {
+      "title": "Show HN: Bolt – A super-fast, statically-typed scripting language written in C",
+      "score": 71,
+      "url": "https://github.com/Beariish/bolt",
+      "time": 1754848389.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44856935"
+    },
+    {
       "title": "Show HN: Engineering.fyi – Search across tech engineering blogs in one place",
-      "score": 166,
+      "score": 236,
       "url": "https://engineering.fyi/",
       "time": 1754833445.0,
       "comments_url": "https://news.ycombinator.com/item?id=44855157"
     },
     {
+      "title": "Diffusion language models are super data learners",
+      "score": 104,
+      "url": "https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac",
+      "time": 1754841845.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44856101"
+    },
+    {
+      "title": "Creating the Longest Possible Ski Jump in \"The Games: Winter Challenge\"",
+      "score": 53,
+      "url": "https://mrwint.github.io/winter/writeup/writeup2.html",
+      "time": 1754578654.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44825347"
+    },
+    {
+      "title": "Events",
+      "score": 7,
+      "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Events",
+      "time": 1754857344.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44858009"
+    },
+    {
       "title": "Booting 5000 Erlangs on Ampere One 192-core",
-      "score": 125,
+      "score": 159,
       "url": "https://underjord.io/booting-5000-erlangs-on-ampere-one.html",
       "time": 1754826094.0,
       "comments_url": "https://news.ycombinator.com/item?id=44854525"
     },
     {
+      "title": "Writing simple tab-completions for Bash and Zsh",
+      "score": 199,
+      "url": "https://mill-build.org/blog/14-bash-zsh-completion.html",
+      "time": 1754819425.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44854035"
+    },
+    {
       "title": "MCP: An (Accidentally) Universal Plugin System",
-      "score": 96,
+      "score": 140,
       "url": "https://worksonmymachine.ai/p/mcp-an-accidentally-universal-plugin",
       "time": 1754830407.0,
       "comments_url": "https://news.ycombinator.com/item?id=44854860"
@@ -58,88 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=44856667"
     },
     {
-      "title": "Writing simple tab-completions for Bash and Zsh",
-      "score": 176,
-      "url": "https://mill-build.org/blog/14-bash-zsh-completion.html",
-      "time": 1754819425.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44854035"
+      "title": "My Dream Productivity Device Is Done – and It's Becoming a Kit [video]",
+      "score": 25,
+      "url": "https://www.youtube.com/watch?v=pf3BxNq1cp4",
+      "time": 1754523077.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44819057"
     },
     {
       "title": "Inside OS/2 (1987)",
-      "score": 74,
+      "score": 87,
       "url": "https://gitpi.us/article-archive/inside-os2/",
       "time": 1754831733.0,
       "comments_url": "https://news.ycombinator.com/item?id=44854989"
     },
     {
       "title": "Flintlock – Create and manage the lifecycle of MicroVMs, backed by containerd",
-      "score": 20,
+      "score": 49,
       "url": "https://github.com/liquidmetal-dev/flintlock",
       "time": 1754839848.0,
       "comments_url": "https://news.ycombinator.com/item?id=44855868"
     },
     {
       "title": "Abogen – Generate audiobooks from EPUBs, PDFs and text",
-      "score": 236,
+      "score": 256,
       "url": "https://github.com/denizsafak/abogen",
       "time": 1754805374.0,
       "comments_url": "https://news.ycombinator.com/item?id=44853064"
     },
     {
-      "title": "Open Lovable",
-      "score": 104,
-      "url": "https://github.com/mendableai/open-lovable",
-      "time": 1754820654.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44854120"
+      "title": "PHP compile time generics: yay or nay?",
+      "score": 6,
+      "url": "https://thephp.foundation/blog/2025/08/05/compile-generics/",
+      "time": 1754567357.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44823272"
     },
     {
       "title": "How I code with AI on a budget/free",
-      "score": 485,
+      "score": 525,
       "url": "https://wuu73.org/blog/aiguide1.html",
       "time": 1754778457.0,
       "comments_url": "https://news.ycombinator.com/item?id=44850913"
-    },
-    {
-      "title": "GPT-5: It Just Does Stuff",
-      "score": 42,
-      "url": "https://www.oneusefulthing.org/p/gpt-5-it-just-does-stuff",
-      "time": 1754843015.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44856233"
-    },
-    {
-      "title": "Zig's Lovely Syntax",
-      "score": 90,
-      "url": "https://matklad.github.io/2025/08/09/zigs-lovely-syntax.html",
-      "time": 1754839986.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44855881"
-    },
-    {
-      "title": "Curious about the training data of OpenAI's new GPT-OSS models? I was too",
-      "score": 199,
-      "url": "https://twitter.com/jxmnop/status/1953899426075816164",
-      "time": 1754773816.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44850260"
-    },
-    {
-      "title": "Show HN: The current sky at your approximate location, as a CSS gradient",
-      "score": 731,
-      "url": "https://sky.dlazaro.ca",
-      "time": 1754745916.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44846281"
-    },
-    {
-      "title": "Abusing Entra OAuth for fun and access to internal Microsoft applications",
-      "score": 302,
-      "url": "https://research.eye.security/consent-and-compromise/",
-      "time": 1754776783.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44850681"
-    },
-    {
-      "title": "Show HN: Llmswap – Python package to reduce LLM API costs by 50-90% with caching",
-      "score": 6,
-      "url": "https://pypi.org/project/llmswap",
-      "time": 1754842619.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44856183"
     }
   ]
 }
