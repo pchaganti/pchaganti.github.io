@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-08-10T05:12:16.720885-04:00",
+  "last_updated": "2025-08-10T08:22:44.982181-04:00",
   "stories": [
     {
+      "title": "Writing Your Own Simple Tab-Completions for Bash and Zsh",
+      "score": 70,
+      "url": "https://mill-build.org/blog/14-bash-zsh-completion.html",
+      "time": 1754819425.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44854035"
+    },
+    {
+      "title": "Open Lovable",
+      "score": 28,
+      "url": "https://github.com/mendableai/open-lovable",
+      "time": 1754820654.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44854120"
+    },
+    {
       "title": "Abogen – Generate audiobooks from EPUBs, PDFs and text",
-      "score": 102,
+      "score": 171,
       "url": "https://github.com/denizsafak/abogen",
       "time": 1754805374.0,
       "comments_url": "https://news.ycombinator.com/item?id=44853064"
     },
     {
       "title": "How I code with AI on a budget/free",
-      "score": 311,
+      "score": 376,
       "url": "https://wuu73.org/blog/aiguide1.html",
       "time": 1754778457.0,
       "comments_url": "https://news.ycombinator.com/item?id=44850913"
     },
     {
       "title": "Curious about the training data of OpenAI's new GPT-OSS models? I was too",
-      "score": 111,
+      "score": 152,
       "url": "https://twitter.com/jxmnop/status/1953899426075816164",
       "time": 1754773816.0,
       "comments_url": "https://news.ycombinator.com/item?id=44850260"
     },
     {
       "title": "Abusing Entra OAuth for fun and access to internal Microsoft applications",
-      "score": 213,
+      "score": 251,
       "url": "https://research.eye.security/consent-and-compromise/",
       "time": 1754776783.0,
       "comments_url": "https://news.ycombinator.com/item?id=44850681"
     },
     {
       "title": "Show HN: The current sky at your approximate location, as a CSS gradient",
-      "score": 656,
+      "score": 686,
       "url": "https://sky.dlazaro.ca",
       "time": 1754745916.0,
       "comments_url": "https://news.ycombinator.com/item?id=44846281"
     },
     {
-      "title": "The importance of offtopic",
-      "score": 35,
-      "url": "https://blog.tadzik.net/the-importance-of-offtopic.html",
-      "time": 1754475610.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44810144"
+      "title": "POML: Prompt Orchestration Markup Language",
+      "score": 33,
+      "url": "https://github.com/microsoft/poml",
+      "time": 1754807202.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44853184"
+    },
+    {
+      "title": "How Potatoes Evolved",
+      "score": 65,
+      "url": "https://www.nhm.ac.uk/discover/news/2025/july/we-finally-solved-the-mystery-of-how-potatoes-evolved.html",
+      "time": 1754490968.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44812613"
     },
     {
       "title": "My Lethal Trifecta talk at the Bay Area AI Security Meetup",
-      "score": 347,
+      "score": 375,
       "url": "https://simonwillison.net/2025/Aug/9/bay-area-ai/",
       "time": 1754750858.0,
       "comments_url": "https://news.ycombinator.com/item?id=44846922"
     },
     {
+      "title": "The importance of offtopic",
+      "score": 75,
+      "url": "https://blog.tadzik.net/the-importance-of-offtopic.html",
+      "time": 1754475610.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44810144"
+    },
+    {
+      "title": "P-fast trie, but smaller",
+      "score": 15,
+      "url": "https://dotat.at/@/2025-08-06-p-fast-trie.html",
+      "time": 1754515132.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44817979"
+    },
+    {
       "title": "Don't “let it crash”, let it heal",
-      "score": 101,
+      "score": 120,
       "url": "https://www.zachdaniel.dev/p/elixir-misconceptions-1",
       "time": 1754482102.0,
       "comments_url": "https://news.ycombinator.com/item?id=44810890"
     },
     {
       "title": "OpenFreeMap survived 100k requests per second",
-      "score": 469,
+      "score": 506,
       "url": "https://blog.hyperknot.com/p/openfreemap-survived-100000-requests",
       "time": 1754746290.0,
       "comments_url": "https://news.ycombinator.com/item?id=44846318"
     },
     {
-      "title": "How Potatoes Evolved",
-      "score": 42,
-      "url": "https://www.nhm.ac.uk/discover/news/2025/july/we-finally-solved-the-mystery-of-how-potatoes-evolved.html",
-      "time": 1754490968.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44812613"
+      "title": "“The Hollow Men” at 100",
+      "score": 22,
+      "url": "https://prufrock.substack.com/p/the-the-hollow-men-at-100",
+      "time": 1754772480.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44850063"
     },
     {
-      "title": "A CT scanner reveals surprises inside the 386 processor's ceramic package",
-      "score": 228,
-      "url": "https://www.righto.com/2025/08/intel-386-package-ct-scan.html",
-      "time": 1754759827.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44848293"
+      "title": "GTP Blind Voting: GPT-5 vs. 4o",
+      "score": 32,
+      "url": "https://gptblindvoting.vercel.app/",
+      "time": 1754694688.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44842635"
     },
     {
       "title": "How I use Tailscale",
-      "score": 274,
+      "score": 300,
       "url": "https://chameth.com/how-i-use-tailscale/",
       "time": 1754467749.0,
       "comments_url": "https://news.ycombinator.com/item?id=44809166"
     },
     {
-      "title": "Ch.at – a lightweight LLM chat service accessible through HTTP, SSH, DNS and API",
-      "score": 154,
-      "url": "https://ch.at/",
-      "time": 1754765977.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44849129"
-    },
-    {
-      "title": "The current state of LLM-driven development",
-      "score": 109,
-      "url": "http://blog.tolki.dev/posts/2025/08-07-llms/",
-      "time": 1754756236.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44847741"
-    },
-    {
       "title": "The Framework Desktop is a beast",
-      "score": 134,
+      "score": 196,
       "url": "https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff",
       "time": 1754684350.0,
       "comments_url": "https://news.ycombinator.com/item?id=44841262"
     },
     {
-      "title": "Debian 13 \"Trixie\"",
-      "score": 711,
-      "url": "https://www.debian.org/News/2025/20250809",
-      "time": 1754763525.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44848782"
+      "title": "A CT scanner reveals surprises inside the 386 processor's ceramic package",
+      "score": 243,
+      "url": "https://www.righto.com/2025/08/intel-386-package-ct-scan.html",
+      "time": 1754759827.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44848293"
     },
     {
-      "title": "People returned to live in Pompeii's ruins, archaeologists say",
-      "score": 63,
-      "url": "https://www.bbc.com/news/articles/c62wx23y2v1o",
-      "time": 1754572612.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44824088"
-    },
-    {
-      "title": "Who got arrested in the raid on the XSS crime forum?",
-      "score": 125,
-      "url": "https://krebsonsecurity.com/2025/08/who-got-arrested-in-the-raid-on-the-xss-crime-forum/",
-      "time": 1754482487.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44810945"
-    },
-    {
-      "title": "Quickshell – building blocks for your desktop",
-      "score": 304,
-      "url": "https://quickshell.org/",
-      "time": 1754410733.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44800048"
-    },
-    {
-      "title": "Long-term exposure to outdoor air pollution linked to increased risk of dementia",
-      "score": 290,
-      "url": "https://www.cam.ac.uk/research/news/long-term-exposure-to-outdoor-air-pollution-linked-to-increased-risk-of-dementia",
-      "time": 1754744491.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44846164"
+      "title": "Melonking Website",
+      "score": 43,
+      "url": "https://melonking.net/",
+      "time": 1754797094.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44852582"
     }
   ]
 }
