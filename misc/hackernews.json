@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-08-11T00:00:48.155936-04:00",
+  "last_updated": "2025-08-11T02:20:53.750893-04:00",
   "stories": [
     {
       "title": "Vanishing from Hyundai’s data network",
-      "score": 76,
+      "score": 173,
       "url": "http://techno-fandom.org/~hobbit/cars/ev/offnet.html",
       "time": 1754877326.0,
       "comments_url": "https://news.ycombinator.com/item?id=44860139"
     },
     {
+      "title": "Graham: Synchronizing Clocks by Leveraging Local Clock Properties (2022) [pdf]",
+      "score": 14,
+      "url": "https://www.usenix.org/system/files/nsdi22-paper-najafi_1.pdf",
+      "time": 1754888060.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44860832"
+    },
+    {
+      "title": "Easily run Windows software on Linux with Bottles",
+      "score": 31,
+      "url": "https://usebottles.com/",
+      "time": 1754573965.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44824321"
+    },
+    {
+      "title": "Generic Containers in C: Safe Division Using Maybe",
+      "score": 5,
+      "url": "https://uecker.codeberg.page/2025-08-10.html",
+      "time": 1754889246.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44860908"
+    },
+    {
+      "title": "Going faster than memcpy",
+      "score": 30,
+      "url": "https://squadrick.dev/journal/going-faster-than-memcpy",
+      "time": 1754888343.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44860847"
+    },
+    {
       "title": "Compiling a Lisp: Lambda lifting",
-      "score": 68,
+      "score": 90,
       "url": "https://bernsteinbear.com/blog/compiling-a-lisp-12/",
       "time": 1754865303.0,
       "comments_url": "https://news.ycombinator.com/item?id=44858892"
     },
     {
+      "title": "The enduring puzzle of static electricity",
+      "score": 41,
+      "url": "https://pubs.aip.org/physicstoday/article/78/8/54/3355922/The-enduring-puzzle-of-static-electricityEven",
+      "time": 1754629343.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44833607"
+    },
+    {
       "title": "Try and",
-      "score": 462,
+      "score": 500,
       "url": "https://ygdp.yale.edu/phenomena/try-and",
       "time": 1754832733.0,
       "comments_url": "https://news.ycombinator.com/item?id=44855079"
     },
     {
       "title": "GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2",
-      "score": 330,
+      "score": 367,
       "url": "https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the",
       "time": 1754838367.0,
       "comments_url": "https://news.ycombinator.com/item?id=44855690"
     },
     {
       "title": "Show HN: Bolt – A super-fast, statically-typed scripting language written in C",
-      "score": 167,
+      "score": 193,
       "url": "https://github.com/Beariish/bolt",
       "time": 1754848389.0,
       "comments_url": "https://news.ycombinator.com/item?id=44856935"
     },
     {
-      "title": "Lists and Lists: Basics of Lisp through interactive fiction (1996)",
-      "score": 10,
-      "url": "https://eblong.com/zarf/zweb/lists/",
-      "time": 1754553844.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44821848"
-    },
-    {
-      "title": "Fight Chat Control",
-      "score": 867,
-      "url": "https://fightchatcontrol.eu/",
-      "time": 1754844634.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44856426"
-    },
-    {
-      "title": "1910: The year the modern world lost its mind",
-      "score": 221,
-      "url": "https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost",
-      "time": 1754858926.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44858154"
-    },
-    {
-      "title": "Show HN: Reactive: A React Book for the Reluctant (written by Claude)",
-      "score": 40,
-      "url": "https://github.com/cloudstreet-dev/React-is-Awful",
-      "time": 1754873093.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44859763"
-    },
-    {
-      "title": "Show HN: Engineering.fyi – Search across tech engineering blogs in one place",
-      "score": 305,
-      "url": "https://engineering.fyi/",
-      "time": 1754833445.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44855157"
-    },
-    {
-      "title": "One Million Screenshots",
-      "score": 146,
-      "url": "https://onemillionscreenshots.com/?q=random",
-      "time": 1754857834.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44858067"
-    },
-    {
-      "title": "Digital Foundry leaves IGN, now independent [video]",
-      "score": 40,
-      "url": "https://www.youtube.com/watch?v=tl7bIJ2yu4I",
-      "time": 1754627694.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44833448"
-    },
-    {
-      "title": "Creating the Longest Possible Ski Jump in “The Games: Winter Challenge”",
-      "score": 119,
-      "url": "https://mrwint.github.io/winter/writeup/writeup2.html",
-      "time": 1754578654.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44825347"
-    },
-    {
-      "title": "PHP compile time generics: yay or nay?",
-      "score": 54,
-      "url": "https://thephp.foundation/blog/2025/08/05/compile-generics/",
-      "time": 1754567357.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44823272"
-    },
-    {
-      "title": "Diffusion language models are super data learners",
-      "score": 152,
-      "url": "https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac",
-      "time": 1754841845.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44856101"
-    },
-    {
-      "title": "Optimizing My Sleep Around Claude Usage Limits",
-      "score": 43,
-      "url": "https://mattwie.se/no-sleep-till-agi",
-      "time": 1754875951.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44860015"
-    },
-    {
       "title": "Show HN: A Sinclair ZX81 retro web assembler+simulator",
-      "score": 15,
+      "score": 29,
       "url": "https://news.ycombinator.com/item?id=44859761",
       "time": 1754873060.0,
       "comments_url": "https://news.ycombinator.com/item?id=44859761"
     },
     {
-      "title": "The enduring puzzle of static electricity",
-      "score": 6,
-      "url": "https://pubs.aip.org/physicstoday/article/78/8/54/3355922/The-enduring-puzzle-of-static-electricityEven",
-      "time": 1754629343.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44833607"
-    },
-    {
-      "title": "Reflections on Soviet Amateur Photography",
+      "title": "Lists and Lists: Basics of Lisp through interactive fiction (1996)",
       "score": 26,
-      "url": "https://www.publicbooks.org/strangers-in-the-family-album-reflections-on-soviet-amateur-photography/",
-      "time": 1754612959.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44832060"
+      "url": "https://eblong.com/zarf/zweb/lists/",
+      "time": 1754553844.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44821848"
     },
     {
-      "title": "Booting 5000 Erlangs on Ampere One 192-core",
-      "score": 185,
-      "url": "https://underjord.io/booting-5000-erlangs-on-ampere-one.html",
-      "time": 1754826094.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44854525"
+      "title": "One Million Screenshots",
+      "score": 176,
+      "url": "https://onemillionscreenshots.com/?q=random",
+      "time": 1754857834.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44858067"
+    },
+    {
+      "title": "Fight Chat Control",
+      "score": 951,
+      "url": "https://fightchatcontrol.eu/",
+      "time": 1754844634.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44856426"
+    },
+    {
+      "title": "Show HN: Engineering.fyi – Search across tech engineering blogs in one place",
+      "score": 344,
+      "url": "https://engineering.fyi/",
+      "time": 1754833445.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44855157"
+    },
+    {
+      "title": "1910: The year the modern world lost its mind",
+      "score": 251,
+      "url": "https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost",
+      "time": 1754858926.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44858154"
+    },
+    {
+      "title": "\"McKinsey in a Box\": The End of Strategic Consulting?",
+      "score": 19,
+      "url": "https://knowledge.insead.edu/strategy/mckinsey-box-end-strategic-consulting",
+      "time": 1754559582.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44822486"
+    },
+    {
+      "title": "Creating the Longest Possible Ski Jump in “The Games: Winter Challenge”",
+      "score": 142,
+      "url": "https://mrwint.github.io/winter/writeup/writeup2.html",
+      "time": 1754578654.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44825347"
+    },
+    {
+      "title": "Diffusion language models are super data learners",
+      "score": 166,
+      "url": "https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac",
+      "time": 1754841845.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44856101"
+    },
+    {
+      "title": "PHP compile time generics: yay or nay?",
+      "score": 62,
+      "url": "https://thephp.foundation/blog/2025/08/05/compile-generics/",
+      "time": 1754567357.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44823272"
     }
   ]
 }
