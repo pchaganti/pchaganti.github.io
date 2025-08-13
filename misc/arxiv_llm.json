@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-13T08:24:43.873982-04:00",
+  "last_updated": "2025-08-13T11:11:07.069652-04:00",
   "papers": [
     {
       "title": "BrowseMaster: Towards Scalable Web Browsing via Tool-Augmented\n  Programmatic Agent Pair",
@@ -20,7 +20,7 @@
       "published_time_eastern_timestamp": 1755021183.0
     },
     {
-      "title": "SinLlama - A Large Language Model for Sinhala",
+      "title": "SinLlama -- A Large Language Model for Sinhala",
       "summary": "Low-resource languages such as Sinhala are often overlooked by open-source\nLarge Language Models (LLMs). In this research, we extend an existing\nmultilingual LLM (Llama-3-8B) to better serve Sinhala. We enhance the LLM\ntokenizer with Sinhala specific vocabulary and perform continual pre-training\non a cleaned 10 million Sinhala corpus, resulting in the SinLlama model. This\nis the very first decoder-based open-source LLM with explicit Sinhala support.\nWhen SinLlama was instruction fine-tuned for three text classification tasks,\nit outperformed base and instruct variants of Llama-3-8B by a significant\nmargin.",
       "url": "http://arxiv.org/abs/2508.09115v1",
       "published_time_eastern_timestamp": 1755020974.0

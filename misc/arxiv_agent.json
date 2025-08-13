@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-13T08:24:44.405255-04:00",
+  "last_updated": "2025-08-13T11:11:07.523353-04:00",
   "papers": [
     {
       "title": "BrowseMaster: Towards Scalable Web Browsing via Tool-Augmented\n  Programmatic Agent Pair",
@@ -74,7 +74,7 @@
       "published_time_eastern_timestamp": 1755011100.0
     },
     {
-      "title": "How Does a Virtual Agent Decide Where to Look? - Symbolic Cognitive\n  Reasoning for Embodied Head Rotation",
+      "title": "How Does a Virtual Agent Decide Where to Look? -- Symbolic Cognitive\n  Reasoning for Embodied Head Rotation",
       "summary": "Natural head rotation is critical for believable embodied virtual agents, yet\nthis micro-level behavior remains largely underexplored. While head-rotation\nprediction algorithms could, in principle, reproduce this behavior, they\ntypically focus on visually salient stimuli and overlook the cognitive motives\nthat guide head rotation. This yields agents that look at conspicuous objects\nwhile overlooking obstacles or task-relevant cues, diminishing realism in a\nvirtual environment. We introduce SCORE, a Symbolic Cognitive Reasoning\nframework for Embodied Head Rotation, a data-agnostic framework that produces\ncontext-aware head movements without task-specific training or hand-tuned\nheuristics. A controlled VR study (N=20) identifies five motivational drivers\nof human head movements: Interest, Information Seeking, Safety, Social Schema,\nand Habit. SCORE encodes these drivers as symbolic predicates, perceives the\nscene with a Vision-Language Model (VLM), and plans head poses with a Large\nLanguage Model (LLM). The framework employs a hybrid workflow: the VLM-LLM\nreasoning is executed offline, after which a lightweight FastVLM performs\nonline validation to suppress hallucinations while maintaining responsiveness\nto scene dynamics. The result is an agent that predicts not only where to look\nbut also why, generalizing to unseen scenes and multi-agent crowds while\nretaining behavioral plausibility.",
       "url": "http://arxiv.org/abs/2508.08930v1",
       "published_time_eastern_timestamp": 1755005538.0
