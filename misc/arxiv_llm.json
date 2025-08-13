@@ -1,10 +1,10 @@
 {
-  "last_updated": "2025-08-12T17:11:35.414054-04:00",
+  "last_updated": "2025-08-12T21:00:25.040937-04:00",
   "papers": [
     {
       "title": "Jinx: Unlimited LLMs for Probing Alignment Failures",
       "summary": "Unlimited, or so-called helpful-only language models are trained without\nsafety alignment constraints and never refuse user queries. They are widely\nused by leading AI companies as internal tools for red teaming and alignment\nevaluation. For example, if a safety-aligned model produces harmful outputs\nsimilar to an unlimited model, this indicates alignment failures that require\nfurther attention. Despite their essential role in assessing alignment, such\nmodels are not available to the research community.\n  We introduce Jinx, a helpful-only variant of popular open-weight LLMs. Jinx\nresponds to all queries without refusals or safety filtering, while preserving\nthe base model's capabilities in reasoning and instruction following. It\nprovides researchers with an accessible tool for probing alignment failures,\nevaluating safety boundaries, and systematically studying failure modes in\nlanguage model safety.",
-      "url": "http://arxiv.org/abs/2508.08243v1",
+      "url": "http://arxiv.org/abs/2508.08243v2",
       "published_time_eastern_timestamp": 1754934966.0
     },
     {
@@ -64,7 +64,7 @@
     {
       "title": "REX-RAG: Reasoning Exploration with Policy Correction in\n  Retrieval-Augmented Generation",
       "summary": "Reinforcement learning (RL) is emerging as a powerful paradigm for enabling\nlarge language models (LLMs) to perform complex reasoning tasks. Recent\nadvances indicate that integrating RL with retrieval-augmented generation (RAG)\nallows LLMs to dynamically incorporate external knowledge, leading to more\ninformed and robust decision making. However, we identify a critical challenge\nduring policy-driven trajectory sampling: LLMs are frequently trapped in\nunproductive reasoning paths, which we refer to as \"dead ends\", committing to\noverconfident yet incorrect conclusions. This severely hampers exploration and\nundermines effective policy optimization. To address this challenge, we propose\nREX-RAG (Reasoning Exploration with Policy Correction in Retrieval-Augmented\nGeneration), a novel framework that explores alternative reasoning paths while\nmaintaining rigorous policy learning through principled distributional\ncorrections. Our approach introduces two key innovations: (1) Mixed Sampling\nStrategy, which combines a novel probe sampling method with exploratory prompts\nto escape dead ends; and (2) Policy Correction Mechanism, which employs\nimportance sampling to correct distribution shifts induced by mixed sampling,\nthereby mitigating gradient estimation bias. We evaluate it on seven\nquestion-answering benchmarks, and the experimental results show that REX-RAG\nachieves average performance gains of 5.1% on Qwen2.5-3B and 3.6% on Qwen2.5-7B\nover strong baselines, demonstrating competitive results across multiple\ndatasets. The code is publicly available at https://github.com/MiliLab/REX-RAG.",
-      "url": "http://arxiv.org/abs/2508.08149v1",
+      "url": "http://arxiv.org/abs/2508.08149v2",
       "published_time_eastern_timestamp": 1754929525.0
     },
     {

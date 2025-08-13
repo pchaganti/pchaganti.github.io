@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-12T17:11:36.425963-04:00",
+  "last_updated": "2025-08-12T21:00:26.099750-04:00",
   "papers": [
     {
       "title": "ReferSplat: Referring Segmentation in 3D Gaussian Splatting",
@@ -106,7 +106,7 @@
     {
       "title": "3D Human Mesh Estimation from Single View RGBD",
       "summary": "Despite significant progress in 3D human mesh estimation from RGB images;\nRGBD cameras, offering additional depth data, remain underutilized. In this\npaper, we present a method for accurate 3D human mesh estimation from a single\nRGBD view, leveraging the affordability and widespread adoption of RGBD cameras\nfor real-world applications. A fully supervised approach for this problem,\nrequires a dataset with RGBD image and 3D mesh label pairs. However, collecting\nsuch a dataset is costly and challenging, hence, existing datasets are small,\nand limited in pose and shape diversity. To overcome this data scarcity, we\nleverage existing Motion Capture (MoCap) datasets. We first obtain complete 3D\nmeshes from the body models found in MoCap datasets, and create partial,\nsingle-view versions of them by projection to a virtual camera. This simulates\nthe depth data provided by an RGBD camera from a single viewpoint. Then, we\ntrain a masked autoencoder to complete the partial, single-view mesh. During\ninference, our method, which we name as M$^3$ for ``Masked Mesh Modeling'',\nmatches the depth values coming from the sensor to vertices of a template human\nmesh, which creates a partial, single-view mesh. We effectively recover parts\nof the 3D human body mesh model that are not visible, resulting in a full body\nmesh. M$^3$ achieves 16.8 mm and 22.0 mm per-vertex-error (PVE) on the SURREAL\nand CAPE datasets, respectively; outperforming existing methods that use\nfull-body point clouds as input. We obtain a competitive 70.9 PVE on the BEHAVE\ndataset, outperforming a recently published RGB based method by 18.4 mm,\nhighlighting the usefulness of depth data. Code will be released.",
-      "url": "http://arxiv.org/abs/2508.08178v1",
+      "url": "http://arxiv.org/abs/2508.08178v2",
       "published_time_eastern_timestamp": 1754931554.0
     },
     {

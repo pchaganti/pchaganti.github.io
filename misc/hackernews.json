@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-08-12T17:11:33.861236-04:00",
+  "last_updated": "2025-08-12T21:00:23.722061-04:00",
   "stories": [
     {
       "title": "Claude Sonnet 4 now supports 1M tokens of context",
-      "score": 680,
+      "score": 862,
       "url": "https://www.anthropic.com/news/1m-context",
       "time": 1755014543.0,
       "comments_url": "https://news.ycombinator.com/item?id=44878147"
     },
     {
+      "title": "Search all text in New York City",
+      "score": 24,
+      "url": "https://www.alltext.nyc/",
+      "time": 1755044253.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44883304"
+    },
+    {
       "title": "Ashet Home Computer",
-      "score": 106,
+      "score": 178,
       "url": "https://ashet.computer/",
       "time": 1755024998.0,
       "comments_url": "https://news.ycombinator.com/item?id=44880401"
     },
     {
-      "title": "Show HN: Building a web search engine from scratch with 3B neural embeddings",
-      "score": 190,
-      "url": "https://blog.wilsonl.in/search-engine/",
-      "time": 1755014560.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44878151"
-    },
-    {
-      "title": "Show HN: Omnara – Run Claude Code from anywhere",
-      "score": 148,
-      "url": "https://github.com/omnara-ai/omnara",
-      "time": 1755016418.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44878650"
-    },
-    {
-      "title": "Training language models to be warm and empathetic makes them less reliable",
-      "score": 145,
-      "url": "https://arxiv.org/abs/2507.21919",
-      "time": 1755005536.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44875992"
-    },
-    {
-      "title": "Multimodal WFH setup: flight SIM, EE lab, and music studio in 60sqft/5.5M²",
-      "score": 117,
-      "url": "https://www.sdo.group/study",
-      "time": 1754740104.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44845787"
-    },
-    {
-      "title": "Exile Economics: If Globalisation Fails",
-      "score": 35,
-      "url": "https://www.lrb.co.uk/the-paper/v47/n14/ferdinand-mount/biff-bang",
-      "time": 1755026760.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44880777"
-    },
-    {
-      "title": "The Missing Protocol: Let Me Know",
-      "score": 10,
-      "url": "https://deanebarker.net/tech/blog/let-me-know/",
-      "time": 1755029717.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44881287"
-    },
-    {
-      "title": "The Equality Delete Problem in Apache Iceberg",
-      "score": 24,
-      "url": "https://blog.dataengineerthings.org/the-equality-delete-problem-in-apache-iceberg-143dd451a974",
-      "time": 1755023270.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44880081"
-    },
-    {
-      "title": "Launch HN: Design Arena (YC S25) – Head-to-head AI benchmark for aesthetics",
-      "score": 42,
-      "url": "https://news.ycombinator.com/item?id=44878257",
-      "time": 1755015003.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44878257"
-    },
-    {
-      "title": "Blender is Native on Windows 11 on Arm",
-      "score": 47,
-      "url": "https://www.thurrott.com/music-videos/324346/blender-is-native-on-windows-11-on-arm",
-      "time": 1754706408.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44843586"
-    },
-    {
-      "title": "Debian GNU/Hurd 2025 released",
-      "score": 127,
-      "url": "https://lists.debian.org/debian-hurd/2025/08/msg00038.html",
-      "time": 1754780553.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44851181"
+      "title": "Scapegoating the Algorithm",
+      "score": 20,
+      "url": "https://asteriskmag.com/issues/11/scapegoating-the-algorithm",
+      "time": 1755042293.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44883083"
     },
     {
       "title": "Journaling using Nix, Vim and coreutils",
-      "score": 4,
+      "score": 71,
       "url": "https://tangled.sh/@oppi.li/journal",
       "time": 1755007480.0,
       "comments_url": "https://news.ycombinator.com/item?id=44876356"
     },
     {
-      "title": "Weave (YC W25) is hiring a founding AI engineer",
-      "score": 1,
-      "url": "https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer",
-      "time": 1755018070.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44879015"
+      "title": "Show HN: Building a web search engine from scratch with 3B neural embeddings",
+      "score": 311,
+      "url": "https://blog.wilsonl.in/search-engine/",
+      "time": 1755014560.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44878151"
     },
     {
-      "title": "Why are there so many rationalist cults?",
-      "score": 289,
-      "url": "https://asteriskmag.com/issues/11/why-are-there-so-many-rationalist-cults",
-      "time": 1755010613.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44877076"
+      "title": "A gentle introduction to anchor positioning",
+      "score": 35,
+      "url": "https://webkit.org/blog/17240/a-gentle-introduction-to-anchor-positioning/",
+      "time": 1755037135.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44882438"
+    },
+    {
+      "title": "Training language models to be warm and empathetic makes them less reliable",
+      "score": 199,
+      "url": "https://arxiv.org/abs/2507.21919",
+      "time": 1755005536.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44875992"
+    },
+    {
+      "title": "Show HN: Omnara – Run Claude Code from anywhere",
+      "score": 202,
+      "url": "https://github.com/omnara-ai/omnara",
+      "time": 1755016418.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44878650"
+    },
+    {
+      "title": "Multimodal WFH setup: flight SIM, EE lab, and music studio in 60sqft/5.5M²",
+      "score": 175,
+      "url": "https://www.sdo.group/study",
+      "time": 1754740104.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44845787"
+    },
+    {
+      "title": "Blender is Native on Windows 11 on Arm",
+      "score": 108,
+      "url": "https://www.thurrott.com/music-videos/324346/blender-is-native-on-windows-11-on-arm",
+      "time": 1754706408.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44843586"
+    },
+    {
+      "title": "The Missing Protocol: Let Me Know",
+      "score": 72,
+      "url": "https://deanebarker.net/tech/blog/let-me-know/",
+      "time": 1755029717.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44881287"
     },
     {
       "title": "WHY2025: How to become your own ISP [video]",
-      "score": 40,
+      "score": 83,
       "url": "https://media.ccc.de/v/why2025-9-how-to-become-your-own-isp",
       "time": 1755017617.0,
       "comments_url": "https://news.ycombinator.com/item?id=44878916"
     },
     {
-      "title": "RISC-V single-board computer for less than 40 euros",
-      "score": 106,
-      "url": "https://www.heise.de/en/news/RISC-V-single-board-computer-for-less-than-40-euros-10515044.html",
-      "time": 1754690358.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44842114"
-    },
-    {
-      "title": "Dumb to managed switch conversion (2010)",
-      "score": 14,
-      "url": "https://spritesmods.com/?art=rtl8366sb&page=1",
-      "time": 1754724702.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44844733"
-    },
-    {
-      "title": "Modos Paper Monitor – Open-hardware e-paper monitor and dev kit",
-      "score": 293,
-      "url": "https://www.crowdsupply.com/modos-tech/modos-paper-monitor",
-      "time": 1754656691.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44836294"
+      "title": "Launch HN: Design Arena (YC S25) – Head-to-head AI benchmark for aesthetics",
+      "score": 59,
+      "url": "https://news.ycombinator.com/item?id=44878257",
+      "time": 1755015003.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44878257"
     },
     {
       "title": "LLMs aren't world models",
-      "score": 150,
+      "score": 215,
       "url": "https://yosefk.com/blog/llms-arent-world-models.html",
       "time": 1754826014.0,
       "comments_url": "https://news.ycombinator.com/item?id=44854518"
+    },
+    {
+      "title": "Why are there so many rationalist cults?",
+      "score": 372,
+      "url": "https://asteriskmag.com/issues/11/why-are-there-so-many-rationalist-cults",
+      "time": 1755010613.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44877076"
+    },
+    {
+      "title": "The Equality Delete Problem in Apache Iceberg",
+      "score": 41,
+      "url": "https://blog.dataengineerthings.org/the-equality-delete-problem-in-apache-iceberg-143dd451a974",
+      "time": 1755023270.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44880081"
+    },
+    {
+      "title": "Debian GNU/Hurd 2025 released",
+      "score": 175,
+      "url": "https://lists.debian.org/debian-hurd/2025/08/msg00038.html",
+      "time": 1754780553.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44851181"
+    },
+    {
+      "title": "Go 1.25 Release Notes",
+      "score": 88,
+      "url": "https://go.dev/doc/go1.25",
+      "time": 1755033901.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44881977"
+    },
+    {
+      "title": "RISC-V single-board computer for less than 40 euros",
+      "score": 123,
+      "url": "https://www.heise.de/en/news/RISC-V-single-board-computer-for-less-than-40-euros-10515044.html",
+      "time": 1754690358.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44842114"
     }
   ]
 }
