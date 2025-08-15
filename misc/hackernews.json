@@ -1,61 +1,96 @@
 {
-  "last_updated": "2025-08-15T14:17:36.278133-04:00",
+  "last_updated": "2025-08-15T17:10:04.674468-04:00",
   "stories": [
     {
-      "title": "Occult books digitized and put online by Amsterdam’s Ritman Library",
-      "score": 115,
-      "url": "https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html",
-      "time": 1755273816.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44914061"
+      "title": "Claude Opus 4 and 4.1 can now end a rare subset of conversations",
+      "score": 50,
+      "url": "https://www.anthropic.com/research/end-subset-conversations",
+      "time": 1755288733.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44916813"
     },
     {
-      "title": "Show HN: Edka – Deploy Kubernetes on your own Hetzner account in minutes",
-      "score": 41,
+      "title": "Show HN: Edka – Kubernetes clusters on your own Hetzner account",
+      "score": 177,
       "url": "https://edka.io",
       "time": 1755279294.0,
       "comments_url": "https://news.ycombinator.com/item?id=44915164"
     },
     {
-      "title": "Do Things That Don't Scale (2013)",
-      "score": 126,
-      "url": "https://paulgraham.com/ds.html",
-      "time": 1755270424.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44913359"
+      "title": "Occult books digitized and put online by Amsterdam’s Ritman Library",
+      "score": 233,
+      "url": "https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html",
+      "time": 1755273816.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44914061"
     },
     {
-      "title": "Launch HN: Embedder (YC S25) – Claude Code for Embedded Software",
-      "score": 13,
+      "title": "OpenBSD is so fast, I had to modify the program slightly to measure itself",
+      "score": 58,
+      "url": "https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux",
+      "time": 1755282302.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44915824"
+    },
+    {
+      "title": "Launch HN: Embedder (YC S25) – Claude code for embedded software",
+      "score": 54,
       "url": "https://news.ycombinator.com/item?id=44915206",
       "time": 1755279485.0,
       "comments_url": "https://news.ycombinator.com/item?id=44915206"
     },
     {
-      "title": "Letting inmates run the asylum: Using AI to secure AI",
-      "score": 54,
-      "url": "https://mattsayar.com/letting-inmates-run-the-asylum-using-ai-to-secure-ai/",
-      "time": 1755272166.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44913682"
+      "title": "Do Things That Don't Scale (2013)",
+      "score": 189,
+      "url": "https://paulgraham.com/ds.html",
+      "time": 1755270424.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44913359"
     },
     {
-      "title": "Are We Creating Entrepreneurs or Just Privileged Risk-Takers?",
-      "score": 27,
-      "url": "https://luolink.substack.com/p/the-million-dollar-safety-net-how",
-      "time": 1755278408.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44915015"
+      "title": "Bullfrog in the Dungeon",
+      "score": 56,
+      "url": "https://www.filfre.net/2025/08/bullfrog-in-the-dungeon/",
+      "time": 1755274218.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44914149"
     },
     {
-      "title": "The Electric Fence Stopped Working Years Ago",
-      "score": 76,
-      "url": "https://soonly.com/electric-fences/",
-      "time": 1755272083.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44913663"
+      "title": "Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity",
+      "score": 88,
+      "url": "https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/",
+      "time": 1754975061.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44872584"
     },
     {
-      "title": "I let LLMs write an Elixir NIF in C; it mostly worked",
-      "score": 25,
-      "url": "https://overbring.com/blog/2025-08-13-writing-an-elixir-nif-with-genai/",
-      "time": 1755273745.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44914040"
+      "title": "Show HN: JMAP MCP – Email for your agents",
+      "score": 26,
+      "url": "https://github.com/wyattjoh/jmap-mcp",
+      "time": 1755279542.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44915220"
+    },
+    {
+      "title": "ARM adds neural accelerators to GPUs",
+      "score": 109,
+      "url": "https://newsroom.arm.com/news/arm-announces-arm-neural-technology",
+      "time": 1755007427.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44876346"
+    },
+    {
+      "title": "Imagen 4 is now generally available",
+      "score": 117,
+      "url": "https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/",
+      "time": 1755279375.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44915187"
+    },
+    {
+      "title": "ADHD drug treatment and risk of negative events and outcomes",
+      "score": 80,
+      "url": "https://www.bmj.com/content/390/bmj-2024-083658",
+      "time": 1755268064.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44912861"
+    },
+    {
+      "title": "In-depth analysis on Valorant's Guarded Regions",
+      "score": 22,
+      "url": "https://reversing.info/posts/guardedregions/",
+      "time": 1755039646.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44882754"
     },
     {
       "title": "EasyPost (YC S13) Is Hiring",
@@ -65,81 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=44914771"
     },
     {
+      "title": "Dexter Cows and Kefir Cheese",
+      "score": 4,
+      "url": "https://smallfarmersjournal.com/dexter-cows-and-kefir-cheese/",
+      "time": 1755017502.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44878887"
+    },
+    {
       "title": "Vaultwarden commit introduces SSO using OpenID Connect",
-      "score": 106,
+      "score": 124,
       "url": "https://github.com/dani-garcia/vaultwarden/pull/3899",
       "time": 1755261114.0,
       "comments_url": "https://news.ycombinator.com/item?id=44911560"
     },
     {
-      "title": "Compiler Bug Causes Compiler Bug: How a 12-Year-Old G++ Bug Took Down Solidity",
-      "score": 50,
-      "url": "https://osec.io/blog/2025-08-11-compiler-bug-causes-compiler-bug/",
-      "time": 1754975061.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44872584"
-    },
-    {
       "title": "Open hardware desktop 3D printing is dead?",
-      "score": 538,
+      "score": 588,
       "url": "https://www.josefprusa.com/articles/open-hardware-in-3d-printing-is-dead/",
       "time": 1755260086.0,
       "comments_url": "https://news.ycombinator.com/item?id=44911423"
     },
     {
-      "title": "ARM adds neural accelerators to GPUs",
-      "score": 72,
-      "url": "https://newsroom.arm.com/news/arm-announces-arm-neural-technology",
-      "time": 1755007427.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44876346"
-    },
-    {
-      "title": "Bullfrog in the Dungeon",
+      "title": "Show HN: Prime Number Grid Visualizer",
       "score": 14,
-      "url": "https://www.filfre.net/2025/08/bullfrog-in-the-dungeon/",
-      "time": 1755274218.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44914149"
+      "url": "https://enda.sh/primegrid/",
+      "time": 1755093563.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44888548"
     },
     {
-      "title": "Imagen 4 is now generally available",
-      "score": 23,
-      "url": "https://developers.googleblog.com/en/announcing-imagen-4-fast-and-imagen-4-family-generally-available-in-the-gemini-api/",
-      "time": 1755279375.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44915187"
-    },
-    {
-      "title": "Is Air Travel Getting Worse? More delays, fewer accidents, and lower prices",
-      "score": 33,
-      "url": "https://www.maximum-progress.com/p/is-air-travel-getting-worse",
-      "time": 1755263193.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44911941"
-    },
-    {
-      "title": "Simulating and Visualising the Central Limit Theorem",
-      "score": 133,
-      "url": "https://blog.foletta.net/post/2025-07-14-clt/",
-      "time": 1755238311.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44909133"
+      "title": "The Timmy Trap",
+      "score": 130,
+      "url": "https://jenson.org/timmy/",
+      "time": 1755267045.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44912646"
     },
     {
       "title": "The beauty of a text only webpage",
-      "score": 185,
+      "score": 235,
       "url": "https://albanbrooke.com/the-beauty-of-a-text-only-webpage/",
       "time": 1755270302.0,
       "comments_url": "https://news.ycombinator.com/item?id=44913340"
-    },
-    {
-      "title": "An interactive guide to sensor fusion with quaternions",
-      "score": 18,
-      "url": "https://quaternion.cafe/",
-      "time": 1755267427.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44912727"
-    },
-    {
-      "title": "Blurry rendering of games on Mac",
-      "score": 409,
-      "url": "https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/",
-      "time": 1755209507.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44906305"
     }
   ]
 }
