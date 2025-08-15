@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-14T17:11:25.071319-04:00",
+  "last_updated": "2025-08-14T21:00:46.530670-04:00",
   "papers": [
     {
       "title": "Noise Hypernetworks: Amortizing Test-Time Compute in Diffusion Models",
@@ -16,7 +16,7 @@
     {
       "title": "Performance of GPT-5 Frontier Models in Ophthalmology Question Answering",
       "summary": "Large language models (LLMs) such as GPT-5 integrate advanced reasoning\ncapabilities that may improve performance on complex medical question-answering\ntasks. For this latest generation of reasoning models, the configurations that\nmaximize both accuracy and cost-efficiency have yet to be established. We\nevaluated 12 configurations of OpenAI's GPT-5 series (three model tiers across\nfour reasoning effort settings) alongside o1-high, o3-high, and GPT-4o, using\n260 closed-access multiple-choice questions from the American Academy of\nOphthalmology Basic Clinical Science Course (BCSC) dataset. The primary outcome\nwas multiple-choice accuracy; secondary outcomes included head-to-head ranking\nvia a Bradley-Terry model, rationale quality assessment using a\nreference-anchored, pairwise LLM-as-a-judge framework, and analysis of\naccuracy-cost trade-offs using token-based cost estimates. GPT-5-high achieved\nthe highest accuracy (0.965; 95% CI, 0.942-0.985), outperforming all GPT-5-nano\nvariants (P < .001), o1-high (P = .04), and GPT-4o (P < .001), but not o3-high\n(0.958; 95% CI, 0.931-0.981). GPT-5-high ranked first in both accuracy (1.66x\nstronger than o3-high) and rationale quality (1.11x stronger than o3-high).\nCost-accuracy analysis identified several GPT-5 configurations on the Pareto\nfrontier, with GPT-5-mini-low offering the most favorable low-cost,\nhigh-performance balance. These results benchmark GPT-5 on a high-quality\nophthalmology dataset, demonstrate the influence of reasoning effort on\naccuracy, and introduce an autograder framework for scalable evaluation of\nLLM-generated answers against reference standards in ophthalmology.",
-      "url": "http://arxiv.org/abs/2508.09956v1",
+      "url": "http://arxiv.org/abs/2508.09956v2",
       "published_time_eastern_timestamp": 1755105437.0
     },
     {
@@ -40,7 +40,7 @@
     {
       "title": "Mathematical Computation and Reasoning Errors by Large Language Models",
       "summary": "Large Language Models (LLMs) are increasingly utilized in AI-driven\neducational instruction and assessment, particularly within mathematics\neducation. The capability of LLMs to generate accurate answers and detailed\nsolutions for math problem-solving tasks is foundational for ensuring reliable\nand precise feedback and assessment in math education practices. Our study\nfocuses on evaluating the accuracy of four LLMs (OpenAI GPT-4o and o1,\nDeepSeek-V3 and DeepSeek-R1) solving three categories of math tasks, including\narithmetic, algebra, and number theory, and identifies step-level reasoning\nerrors within their solutions. Instead of relying on standard benchmarks, we\nintentionally build math tasks (via item models) that are challenging for LLMs\nand prone to errors. The accuracy of final answers and the presence of errors\nin individual solution steps were systematically analyzed and coded. Both\nsingle-agent and dual-agent configurations were tested. It is observed that the\nreasoning-enhanced OpenAI o1 model consistently achieved higher or nearly\nperfect accuracy across all three math task categories. Analysis of errors\nrevealed that procedural slips were the most frequent and significantly\nimpacted overall performance, while conceptual misunderstandings were less\nfrequent. Deploying dual-agent configurations substantially improved overall\nperformance. These findings offer actionable insights into enhancing LLM\nperformance and underscore effective strategies for integrating LLMs into\nmathematics education, thereby advancing AI-driven instructional practices and\nassessment precision.",
-      "url": "http://arxiv.org/abs/2508.09932v1",
+      "url": "http://arxiv.org/abs/2508.09932v2",
       "published_time_eastern_timestamp": 1755102782.0
     },
     {
@@ -94,7 +94,7 @@
     {
       "title": "PRELUDE: A Benchmark Designed to Require Global Comprehension and\n  Reasoning over Long Contexts",
       "summary": "We introduce PRELUDE, a benchmark for evaluating long-context understanding\nthrough the task of determining whether a character's prequel story is\nconsistent with the canonical narrative of the original book. Our task poses a\nstronger demand for global comprehension and deep reasoning than existing\nbenchmarks -- as the prequels are not part of the original story, assessing\ntheir plausibility typically requires searching and integrating information\nthat is only indirectly related. Empirically, 88% of instances require evidence\nfrom multiple parts of the narrative. Experimental results highlight the\nchallenge of our task: in-context learning, RAG and in-domain training with\nstate-of-the-art LLMs, and commercial DeepResearch services, lag behind humans\nby >15%. A further human study reveals that models often produce correct\nanswers with flawed reasoning, leading to an over 30% gap in reasoning accuracy\ncompared to humans. These findings underscore the substantial room for\nimprovement in long-context understanding and reasoning.",
-      "url": "http://arxiv.org/abs/2508.09848v1",
+      "url": "http://arxiv.org/abs/2508.09848v2",
       "published_time_eastern_timestamp": 1755095305.0
     },
     {

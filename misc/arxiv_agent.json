@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-14T17:11:25.460246-04:00",
+  "last_updated": "2025-08-14T21:00:46.935339-04:00",
   "papers": [
     {
       "title": "Vision-driven River Following of UAV via Safe Reinforcement Learning\n  using Semantic Dynamics Model",
@@ -16,7 +16,7 @@
     {
       "title": "Mathematical Computation and Reasoning Errors by Large Language Models",
       "summary": "Large Language Models (LLMs) are increasingly utilized in AI-driven\neducational instruction and assessment, particularly within mathematics\neducation. The capability of LLMs to generate accurate answers and detailed\nsolutions for math problem-solving tasks is foundational for ensuring reliable\nand precise feedback and assessment in math education practices. Our study\nfocuses on evaluating the accuracy of four LLMs (OpenAI GPT-4o and o1,\nDeepSeek-V3 and DeepSeek-R1) solving three categories of math tasks, including\narithmetic, algebra, and number theory, and identifies step-level reasoning\nerrors within their solutions. Instead of relying on standard benchmarks, we\nintentionally build math tasks (via item models) that are challenging for LLMs\nand prone to errors. The accuracy of final answers and the presence of errors\nin individual solution steps were systematically analyzed and coded. Both\nsingle-agent and dual-agent configurations were tested. It is observed that the\nreasoning-enhanced OpenAI o1 model consistently achieved higher or nearly\nperfect accuracy across all three math task categories. Analysis of errors\nrevealed that procedural slips were the most frequent and significantly\nimpacted overall performance, while conceptual misunderstandings were less\nfrequent. Deploying dual-agent configurations substantially improved overall\nperformance. These findings offer actionable insights into enhancing LLM\nperformance and underscore effective strategies for integrating LLMs into\nmathematics education, thereby advancing AI-driven instructional practices and\nassessment precision.",
-      "url": "http://arxiv.org/abs/2508.09932v1",
+      "url": "http://arxiv.org/abs/2508.09932v2",
       "published_time_eastern_timestamp": 1755102782.0
     },
     {
@@ -87,8 +87,8 @@
     },
     {
       "title": "Preacher: Paper-to-Video Agentic System",
-      "summary": "The paper-to-video task converts a research paper into a structured video\nabstract, distilling key concepts, methods, and conclusions into an accessible,\nwell-organized format. While state-of-the-art video generation models\ndemonstrate potential, they are constrained by limited context windows, rigid\nvideo duration constraints, limited stylistic diversity, and an inability to\nrepresent domain-specific knowledge. To address these limitations, we introduce\nPreacher, the first paper-to-video agentic system. Preacher employs a top-down\napproach to decompose, summarize, and reformulate the paper, followed by\nbottom-up video generation, synthesizing diverse video segments into a coherent\nabstract. To align cross-modal representations, we define key scenes and\nintroduce a Progressive Chain of Thought (P-CoT) for granular, iterative\nplanning. Preacher successfully generates high-quality video abstracts across\nfive research fields, demonstrating expertise beyond current video generation\nmodels. Code will be released at: https://github.com/GenVerse/Paper2Video",
-      "url": "http://arxiv.org/abs/2508.09632v1",
+      "summary": "The paper-to-video task converts a research paper into a structured video\nabstract, distilling key concepts, methods, and conclusions into an accessible,\nwell-organized format. While state-of-the-art video generation models\ndemonstrate potential, they are constrained by limited context windows, rigid\nvideo duration constraints, limited stylistic diversity, and an inability to\nrepresent domain-specific knowledge. To address these limitations, we introduce\nPreacher, the first paper-to-video agentic system. Preacher employs a topdown\napproach to decompose, summarize, and reformulate the paper, followed by\nbottom-up video generation, synthesizing diverse video segments into a coherent\nabstract. To align cross-modal representations, we define key scenes and\nintroduce a Progressive Chain of Thought (P-CoT) for granular, iterative\nplanning. Preacher successfully generates high-quality video abstracts across\nfive research fields, demonstrating expertise beyond current video generation\nmodels. Code will be released at: https://github.com/GenVerse/Paper2Video",
+      "url": "http://arxiv.org/abs/2508.09632v2",
       "published_time_eastern_timestamp": 1755076131.0
     },
     {
@@ -112,7 +112,7 @@
     {
       "title": "CS-Agent: LLM-based Community Search via Dual-agent Collaboration",
       "summary": "Large Language Models (LLMs) have demonstrated remarkable capabilities in\nnatural language processing tasks, yet their application to graph structure\nanalysis, particularly in community search, remains underexplored. Community\nsearch, a fundamental task in graph analysis, aims to identify groups of nodes\nwith dense interconnections, which is crucial for understanding the macroscopic\nstructure of graphs. In this paper, we propose GraphCS, a comprehensive\nbenchmark designed to evaluate the performance of LLMs in community search\ntasks. Our experiments reveal that while LLMs exhibit preliminary potential,\nthey frequently fail to return meaningful results and suffer from output bias.\nTo address these limitations, we introduce CS-Agent, a dual-agent collaborative\nframework to enhance LLM-based community search. CS-Agent leverages the\ncomplementary strengths of two LLMs acting as Solver and Validator. Through\niterative feedback and refinement, CS-Agent dynamically refines initial results\nwithout fine-tuning or additional training. After the multi-round dialogue,\nDecider module selects the optimal community. Extensive experiments demonstrate\nthat CS-Agent significantly improves the quality and stability of identified\ncommunities compared to baseline methods. To our knowledge, this is the first\nwork to apply LLMs to community search, bridging the gap between LLMs and graph\nanalysis while providing a robust and adaptive solution for real-world\napplications.",
-      "url": "http://arxiv.org/abs/2508.09549v1",
+      "url": "http://arxiv.org/abs/2508.09549v2",
       "published_time_eastern_timestamp": 1755069225.0
     },
     {

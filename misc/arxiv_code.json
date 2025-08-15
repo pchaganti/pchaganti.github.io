@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-14T17:11:25.884765-04:00",
+  "last_updated": "2025-08-14T21:00:47.398002-04:00",
   "papers": [
     {
       "title": "LLMC+: Benchmarking Vision-Language Model Compression with a\n  Plug-and-play Toolkit",
@@ -58,7 +58,7 @@
     {
       "title": "Mathematical Computation and Reasoning Errors by Large Language Models",
       "summary": "Large Language Models (LLMs) are increasingly utilized in AI-driven\neducational instruction and assessment, particularly within mathematics\neducation. The capability of LLMs to generate accurate answers and detailed\nsolutions for math problem-solving tasks is foundational for ensuring reliable\nand precise feedback and assessment in math education practices. Our study\nfocuses on evaluating the accuracy of four LLMs (OpenAI GPT-4o and o1,\nDeepSeek-V3 and DeepSeek-R1) solving three categories of math tasks, including\narithmetic, algebra, and number theory, and identifies step-level reasoning\nerrors within their solutions. Instead of relying on standard benchmarks, we\nintentionally build math tasks (via item models) that are challenging for LLMs\nand prone to errors. The accuracy of final answers and the presence of errors\nin individual solution steps were systematically analyzed and coded. Both\nsingle-agent and dual-agent configurations were tested. It is observed that the\nreasoning-enhanced OpenAI o1 model consistently achieved higher or nearly\nperfect accuracy across all three math task categories. Analysis of errors\nrevealed that procedural slips were the most frequent and significantly\nimpacted overall performance, while conceptual misunderstandings were less\nfrequent. Deploying dual-agent configurations substantially improved overall\nperformance. These findings offer actionable insights into enhancing LLM\nperformance and underscore effective strategies for integrating LLMs into\nmathematics education, thereby advancing AI-driven instructional practices and\nassessment precision.",
-      "url": "http://arxiv.org/abs/2508.09932v1",
+      "url": "http://arxiv.org/abs/2508.09932v2",
       "published_time_eastern_timestamp": 1755102782.0
     },
     {
