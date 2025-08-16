@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-08-16T02:16:39.683996-04:00",
+  "last_updated": "2025-08-16T05:12:03.966484-04:00",
   "stories": [
     {
+      "title": "Everything I know about good system design",
+      "score": 57,
+      "url": "https://www.seangoedecke.com/good-system-design/",
+      "time": 1755329926.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44921137"
+    },
+    {
       "title": "PuTTY has a new website",
-      "score": 102,
+      "score": 217,
       "url": "https://putty.software/",
       "time": 1755315306.0,
       "comments_url": "https://news.ycombinator.com/item?id=44919891"
     },
     {
       "title": "The future of large files in Git is Git",
-      "score": 297,
+      "score": 366,
       "url": "https://tylercipriani.com/blog/2025/08/15/git-lfs/",
       "time": 1755288426.0,
       "comments_url": "https://news.ycombinator.com/item?id=44916783"
     },
     {
       "title": "AI is different",
-      "score": 176,
+      "score": 241,
       "url": "https://www.antirez.com/news/155",
       "time": 1755110982.0,
       "comments_url": "https://news.ycombinator.com/item?id=44892283"
     },
     {
       "title": "I accidentally became PureGym’s unofficial Apple Wallet developer",
-      "score": 264,
+      "score": 351,
       "url": "https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/",
       "time": 1755255987.0,
       "comments_url": "https://news.ycombinator.com/item?id=44910865"
     },
     {
       "title": "Show HN: Edka – Kubernetes clusters on your own Hetzner account",
-      "score": 300,
+      "score": 327,
       "url": "https://edka.io",
       "time": 1755279294.0,
       "comments_url": "https://news.ycombinator.com/item?id=44915164"
     },
     {
+      "title": "Once Again, Oil States Thwart Agreement on Plastics",
+      "score": 24,
+      "url": "https://e360.yale.edu/digest/global-plastics-treaty",
+      "time": 1755329972.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44921142"
+    },
+    {
       "title": "Occult books digitized and put online by Amsterdam’s Ritman Library",
-      "score": 370,
+      "score": 399,
       "url": "https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html",
       "time": 1755273816.0,
       "comments_url": "https://news.ycombinator.com/item?id=44914061"
     },
     {
-      "title": "Best Practices for Building Agentic AI Systems",
-      "score": 85,
-      "url": "https://userjot.com/blog/best-practices-building-agentic-ai-systems",
-      "time": 1755311974.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44919647"
-    },
-    {
-      "title": "Do Things That Don't Scale (2013)",
-      "score": 298,
-      "url": "https://paulgraham.com/ds.html",
-      "time": 1755270424.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44913359"
-    },
-    {
       "title": "Deep-Sea Desalination Pulls Fresh Water from the Depths",
-      "score": 24,
+      "score": 41,
       "url": "https://www.scientificamerican.com/article/deep-sea-desalination-pulls-drinking-water-from-the-depths/",
       "time": 1755043713.0,
       "comments_url": "https://news.ycombinator.com/item?id=44883256"
     },
     {
+      "title": "Do Things That Don't Scale (2013)",
+      "score": 309,
+      "url": "https://paulgraham.com/ds.html",
+      "time": 1755270424.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44913359"
+    },
+    {
       "title": "OpenBSD is so fast, I had to modify the program slightly to measure itself",
-      "score": 151,
+      "score": 164,
       "url": "https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux",
       "time": 1755282302.0,
       "comments_url": "https://news.ycombinator.com/item?id=44915824"
     },
     {
       "title": "ADHD drug treatment and risk of negative events and outcomes",
-      "score": 216,
+      "score": 241,
       "url": "https://www.bmj.com/content/390/bmj-2024-083658",
       "time": 1755268064.0,
       "comments_url": "https://news.ycombinator.com/item?id=44912861"
     },
     {
-      "title": "Launch HN: Embedder (YC S25) – Claude code for embedded software",
-      "score": 85,
-      "url": "https://news.ycombinator.com/item?id=44915206",
-      "time": 1755279485.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44915206"
-    },
-    {
-      "title": "Prompting by Activation Maximization",
-      "score": 4,
-      "url": "https://joecooper.me/blog/activation/",
-      "time": 1755091705.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44888184"
-    },
-    {
       "title": "The electric fence stopped working years ago",
-      "score": 195,
+      "score": 226,
       "url": "https://soonly.com/electric-fences/",
       "time": 1755272083.0,
       "comments_url": "https://news.ycombinator.com/item?id=44913663"
     },
     {
-      "title": "Porting Gigabyte MZ33-AR1 Server Board with AMD Turin CPU to Coreboot",
-      "score": 61,
-      "url": "https://blog.3mdeb.com/2025/2025-08-07-gigabyte_mz33_ar1_part1/",
-      "time": 1755289287.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44916900"
+      "title": "Launch HN: Embedder (YC S25) – Claude code for embedded software",
+      "score": 94,
+      "url": "https://news.ycombinator.com/item?id=44915206",
+      "time": 1755279485.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44915206"
+    },
+    {
+      "title": "Best Practices for Building Agentic AI Systems",
+      "score": 120,
+      "url": "https://userjot.com/blog/best-practices-building-agentic-ai-systems",
+      "time": 1755311974.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44919647"
     },
     {
       "title": "TextKit 2 – The Promised Land",
-      "score": 64,
+      "score": 75,
       "url": "https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/",
       "time": 1755293213.0,
       "comments_url": "https://news.ycombinator.com/item?id=44917450"
     },
     {
       "title": "Show HN: Prime Number Grid Visualizer",
-      "score": 81,
+      "score": 96,
       "url": "https://enda.sh/primegrid/",
       "time": 1755093563.0,
       "comments_url": "https://news.ycombinator.com/item?id=44888548"
     },
     {
-      "title": "A privacy VPN you can verify",
-      "score": 68,
-      "url": "https://vp.net/l/en-US/blog/Don%27t-Trust-Verify",
-      "time": 1755297257.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44918060"
-    },
-    {
       "title": "Model intelligence is no longer the constraint for automation",
-      "score": 50,
+      "score": 61,
       "url": "https://latentintent.substack.com/p/model-intelligence-is-no-longer-the",
       "time": 1755269089.0,
       "comments_url": "https://news.ycombinator.com/item?id=44913081"
     },
     {
-      "title": "A mind–reading brain implant that comes with password protection",
-      "score": 37,
-      "url": "https://www.nature.com/articles/d41586-025-02589-5",
-      "time": 1755217941.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44907358"
+      "title": "Recto – A Truly 2D Language",
+      "score": 110,
+      "url": "https://masatohagiwara.net/recto.html",
+      "time": 1755011168.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44877201"
+    },
+    {
+      "title": "Tiny flyers levitate on the Sun's heat alone",
+      "score": 3,
+      "url": "https://www.nature.com/articles/d41586-025-02576-w",
+      "time": 1755126717.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44894983"
     }
   ]
 }
