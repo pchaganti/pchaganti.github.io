@@ -1,47 +1,61 @@
 {
-  "last_updated": "2025-08-16T08:21:26.780955-04:00",
+  "last_updated": "2025-08-16T11:15:31.335927-04:00",
   "stories": [
     {
-      "title": "Everything I know about good system design",
-      "score": 240,
+      "title": "Payment Processor Fun 2025 – Making Your Own Merchant Service Provider",
+      "score": 15,
+      "url": "https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/",
+      "time": 1755356480.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44924055"
+    },
+    {
+      "title": "Good system design",
+      "score": 437,
       "url": "https://www.seangoedecke.com/good-system-design/",
       "time": 1755329926.0,
       "comments_url": "https://news.ycombinator.com/item?id=44921137"
     },
     {
+      "title": "Satoshi Nakamoto Translated into English Means \"Central Intelligence\"",
+      "score": 9,
+      "url": "https://wisewolfmedia.substack.com/p/did-the-cia-create-bitcoin",
+      "time": 1755354148.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44923703"
+    },
+    {
       "title": "PuTTY has a new website",
-      "score": 274,
+      "score": 341,
       "url": "https://putty.software/",
       "time": 1755315306.0,
       "comments_url": "https://news.ycombinator.com/item?id=44919891"
     },
     {
-      "title": "Open Office Is Giving You Secondhand ADHD",
-      "score": 13,
-      "url": "https://floustate.com/blog/open-office-secondhand-adhd",
-      "time": 1755344046.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44922324"
-    },
-    {
-      "title": "Microsoft keeps adding stuff into Windows we don't need",
-      "score": 56,
-      "url": "https://www.theregister.com/2025/08/16/microsoft_windows_features_help_productivity/",
-      "time": 1755342990.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44922241"
+      "title": "Toothpaste made from hair provides natural root to repair teeth",
+      "score": 41,
+      "url": "https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth",
+      "time": 1755346392.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44922571"
     },
     {
       "title": "Traps to Developers",
-      "score": 15,
+      "score": 73,
       "url": "https://qouteall.fun/qouteall-blog/2025/Traps%20to%20Developers",
       "time": 1755340475.0,
       "comments_url": "https://news.ycombinator.com/item?id=44922020"
     },
     {
       "title": "The future of large files in Git is Git",
-      "score": 413,
+      "score": 447,
       "url": "https://tylercipriani.com/blog/2025/08/15/git-lfs/",
       "time": 1755288426.0,
       "comments_url": "https://news.ycombinator.com/item?id=44916783"
+    },
+    {
+      "title": "Pfeilstorch",
+      "score": 15,
+      "url": "https://en.wikipedia.org/wiki/Pfeilstorch",
+      "time": 1755335269.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44921609"
     },
     {
       "title": "Ashby (YC W19) Is Hiring Design Engineers in AMER and EMEA",
@@ -52,94 +66,80 @@
     },
     {
       "title": "AI is different",
-      "score": 302,
+      "score": 366,
       "url": "https://www.antirez.com/news/155",
       "time": 1755110982.0,
       "comments_url": "https://news.ycombinator.com/item?id=44892283"
     },
     {
-      "title": "Show HN: Edka – Kubernetes clusters on your own Hetzner account",
-      "score": 357,
-      "url": "https://edka.io",
-      "time": 1755279294.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44915164"
-    },
-    {
-      "title": "VW introduces monthly subscription to increase car power",
-      "score": 39,
-      "url": "https://www.bbc.com/news/articles/c62weyp4qqgo",
-      "time": 1755340123.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44921985"
+      "title": "Writing a competitive BZip2 encoder in Ada from scratch in a few days – part 2",
+      "score": 11,
+      "url": "https://gautiersblog.blogspot.com/2025/07/writing-bzip2-encoder-in-ada-from.html",
+      "time": 1755096421.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44889163"
     },
     {
       "title": "I accidentally became PureGym’s unofficial Apple Wallet developer",
-      "score": 418,
+      "score": 491,
       "url": "https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/",
       "time": 1755255987.0,
       "comments_url": "https://news.ycombinator.com/item?id=44910865"
     },
     {
+      "title": "Show HN: Edka – Kubernetes clusters on your own Hetzner account",
+      "score": 378,
+      "url": "https://edka.io",
+      "time": 1755279294.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44915164"
+    },
+    {
       "title": "Occult books digitized and put online by Amsterdam’s Ritman Library",
-      "score": 419,
+      "score": 442,
       "url": "https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html",
       "time": 1755273816.0,
       "comments_url": "https://news.ycombinator.com/item?id=44914061"
     },
     {
-      "title": "Dokploy is the sweet spot between PaaS and EC2",
-      "score": 33,
-      "url": "https://nikodunk.com/2025-06-10-diy-serverless-(coreos-+-dokploy)",
-      "time": 1755051858.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44884077"
+      "title": "How randomness improves algorithms (2023)",
+      "score": 23,
+      "url": "https://www.quantamagazine.org/how-randomness-improves-algorithms-20230403/",
+      "time": 1755164633.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44898560"
     },
     {
-      "title": "OpenBSD is so fast, I had to modify the program slightly to measure itself",
-      "score": 177,
-      "url": "https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux",
-      "time": 1755282302.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44915824"
+      "title": "A Race to Save a Signature American Tree from a Deadly Disease",
+      "score": 14,
+      "url": "https://www.nytimes.com/2025/08/13/realestate/beech-leaf-disease.html",
+      "time": 1755352112.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44923404"
     },
     {
       "title": "ADHD drug treatment and risk of negative events and outcomes",
-      "score": 260,
+      "score": 285,
       "url": "https://www.bmj.com/content/390/bmj-2024-083658",
       "time": 1755268064.0,
       "comments_url": "https://news.ycombinator.com/item?id=44912861"
     },
     {
-      "title": "Do Things That Don't Scale (2013)",
-      "score": 322,
-      "url": "https://paulgraham.com/ds.html",
-      "time": 1755270424.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44913359"
-    },
-    {
-      "title": "Deep-Sea Desalination Pulls Fresh Water from the Depths",
-      "score": 61,
-      "url": "https://www.scientificamerican.com/article/deep-sea-desalination-pulls-drinking-water-from-the-depths/",
-      "time": 1755043713.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44883256"
+      "title": "OpenBSD is so fast, I had to modify the program slightly to measure itself",
+      "score": 193,
+      "url": "https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux",
+      "time": 1755282302.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44915824"
     },
     {
       "title": "The electric fence stopped working years ago",
-      "score": 240,
+      "score": 278,
       "url": "https://soonly.com/electric-fences/",
       "time": 1755272083.0,
       "comments_url": "https://news.ycombinator.com/item?id=44913663"
     },
     {
-      "title": "Forget Netflix, Volkswagen locks horsepower behind paid subscription",
-      "score": 15,
-      "url": "https://www.autoexpress.co.uk/volkswagen/367566/forget-netflix-volkswagen-locks-horsepower-behind-paid-subscription",
-      "time": 1755339579.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44921945"
-    },
-    {
-      "title": "How Randomness Improves Algorithms?",
-      "score": 4,
-      "url": "https://www.quantamagazine.org/how-randomness-improves-algorithms-20230403/",
-      "time": 1755164633.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44898560"
+      "title": "Dokploy is the sweet spot between PaaS and EC2",
+      "score": 43,
+      "url": "https://nikodunk.com/2025-06-10-diy-serverless-(coreos-+-dokploy)",
+      "time": 1755051858.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44884077"
     }
   ]
 }
