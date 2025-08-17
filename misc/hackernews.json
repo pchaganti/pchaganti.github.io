@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-08-17T02:17:20.856036-04:00",
+  "last_updated": "2025-08-17T05:11:38.648639-04:00",
   "stories": [
     {
+      "title": "Lessons learned from building a sync-engine and reactivity system with SQLite",
+      "score": 41,
+      "url": "https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity",
+      "time": 1755413510.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44929478"
+    },
+    {
+      "title": "SuperSight: A graphical enhancement mod for Brøderbund's \"Stunts\"",
+      "score": 52,
+      "url": "https://marnetto.net/2025/02/20/broderbund-stunts-1",
+      "time": 1755088920.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44887744"
+    },
+    {
+      "title": "Simulator of the life of a 30-year-old in the UK",
+      "score": 4,
+      "url": "https://nicksimulator.com/",
+      "time": 1755420248.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44929986"
+    },
+    {
+      "title": "Node.js can now execute TypeScript files",
+      "score": 112,
+      "url": "https://nodejs.org/en/blog/release/v22.18.0",
+      "time": 1755410607.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44929260"
+    },
+    {
       "title": "Dev Compass – Programming Philosophy Quiz",
-      "score": 108,
+      "score": 152,
       "url": "https://treeform.github.io/devcompas/",
       "time": 1755381869.0,
       "comments_url": "https://news.ycombinator.com/item?id=44927244"
     },
     {
+      "title": "LLMs tell bad jokes because they avoid surprises",
+      "score": 26,
+      "url": "https://danfabulich.medium.com/llms-tell-bad-jokes-because-they-avoid-surprises-7f111aac4f96",
+      "time": 1755107592.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44891596"
+    },
+    {
+      "title": "Wan – Open-source alternative to VEO 3",
+      "score": 14,
+      "url": "https://github.com/Wan-Video/Wan2.2",
+      "time": 1755406840.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44928997"
+    },
+    {
       "title": "Visualising how close random GUIDs come to being the same",
-      "score": 100,
+      "score": 126,
       "url": "https://www.guidsmash.com",
       "time": 1755382269.0,
       "comments_url": "https://news.ycombinator.com/item?id=44927271"
     },
     {
       "title": "An Argument for Increasing TCP's Initial Congestion Window Again",
-      "score": 45,
+      "score": 73,
       "url": "https://jeclark.net/articles/tcp-initcwnd/?tag=performance",
       "time": 1755098591.0,
       "comments_url": "https://news.ycombinator.com/item?id=44889673"
     },
     {
       "title": "Dyna – Logic Programming for Machine Learning",
-      "score": 108,
+      "score": 118,
       "url": "https://dyna.org/",
       "time": 1755373815.0,
       "comments_url": "https://news.ycombinator.com/item?id=44926414"
     },
     {
-      "title": "GDPR meant nothing: chat control ends privacy for the EU [video]",
-      "score": 196,
-      "url": "https://www.youtube.com/watch?v=3NyUgv6dpJc",
-      "time": 1755390110.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44927934"
-    },
-    {
       "title": "OpenAI Progress",
-      "score": 245,
+      "score": 278,
       "url": "https://progress.openai.com",
       "time": 1755359232.0,
       "comments_url": "https://news.ycombinator.com/item?id=44924461"
     },
     {
       "title": "The Raft Consensus Algorithm (2015)",
-      "score": 123,
+      "score": 137,
       "url": "https://raft.github.io/",
       "time": 1755076174.0,
       "comments_url": "https://news.ycombinator.com/item?id=44886202"
     },
     {
       "title": "Dicing an Onion, the Mathematically Optimal Way",
-      "score": 249,
+      "score": 272,
       "url": "https://pudding.cool/2025/08/onions/",
       "time": 1755352459.0,
       "comments_url": "https://news.ycombinator.com/item?id=44923465"
     },
     {
       "title": "Pfeilstorch",
-      "score": 238,
+      "score": 257,
       "url": "https://en.wikipedia.org/wiki/Pfeilstorch",
       "time": 1755335269.0,
       "comments_url": "https://news.ycombinator.com/item?id=44921609"
     },
     {
       "title": "Hyundai wants loniq 5 customers to pay for cybersecurity patch in baffling move",
-      "score": 90,
+      "score": 168,
       "url": "https://www.neowin.net/news/hyundai-wants-ioniq-5-customers-to-pay-for-cybersecurity-patch-in-baffling-move/",
       "time": 1755398988.0,
       "comments_url": "https://news.ycombinator.com/item?id=44928497"
     },
     {
-      "title": "Modern Cars Wreak Havoc on Radar Detectors",
-      "score": 40,
-      "url": "https://www.thedrive.com/news/modern-cars-wreak-havoc-on-radar-detectors-heres-how-escort-adapts",
-      "time": 1755114929.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44893045"
-    },
-    {
-      "title": "Show HN: unsafehttp – tiny web server from scratch in C, running on an orange pi",
-      "score": 50,
-      "url": "http://unsafehttp.benren.au",
-      "time": 1755377175.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44926785"
-    },
-    {
-      "title": "Counting Words at SIMD Speed",
-      "score": 9,
-      "url": "https://healeycodes.com/counting-words-at-simd-speed",
-      "time": 1755088231.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44887643"
-    },
-    {
       "title": "That 16B password story (a.k.a. \"data troll\")",
-      "score": 70,
+      "score": 82,
       "url": "https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/",
       "time": 1755115281.0,
       "comments_url": "https://news.ycombinator.com/item?id=44893118"
     },
     {
-      "title": "Tversky Neural Networks",
-      "score": 84,
-      "url": "https://gonzoml.substack.com/p/tversky-neural-networks",
-      "time": 1755363591.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44925123"
+      "title": "Counting Words at SIMD Speed",
+      "score": 19,
+      "url": "https://healeycodes.com/counting-words-at-simd-speed",
+      "time": 1755088231.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44887643"
     },
     {
       "title": "Living with Williams Syndrome, the 'opposite of autism' (2014)",
-      "score": 70,
+      "score": 83,
       "url": "https://www.bbc.com/news/health-26888280",
       "time": 1755378760.0,
       "comments_url": "https://news.ycombinator.com/item?id=44926965"
     },
     {
-      "title": "SuperSight: A graphical enhancement mod for Brøderbund's \"Stunts\"",
-      "score": 4,
-      "url": "https://marnetto.net/2025/02/20/broderbund-stunts-1",
-      "time": 1755088920.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44887744"
+      "title": "Show HN: unsafehttp – tiny web server from scratch in C, running on an orange pi",
+      "score": 61,
+      "url": "http://unsafehttp.benren.au",
+      "time": 1755377175.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44926785"
     },
     {
-      "title": "For Iris Murdoch, morality is about love, not duties and rules",
-      "score": 31,
-      "url": "https://aeon.co/essays/for-iris-murdoch-morality-is-about-love-not-duties-and-rules",
-      "time": 1755065528.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44885127"
-    },
-    {
-      "title": "Running Wayland Clients as Non-Root Users on Yocto",
-      "score": 10,
-      "url": "https://embeddeduse.com/2025/08/11/running-wayland-clients-as-non-root-users/",
-      "time": 1755196227.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44903923"
-    },
-    {
-      "title": "A single lock of hair could rewrite what we know about Inca record-keeping",
-      "score": 65,
-      "url": "https://www.science.org/content/article/single-lock-hair-could-rewrite-what-we-know-about-inca-record-keeping",
-      "time": 1755173838.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44899516"
+      "title": "Tversky Neural Networks",
+      "score": 95,
+      "url": "https://gonzoml.substack.com/p/tversky-neural-networks",
+      "time": 1755363591.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44925123"
     }
   ]
 }
