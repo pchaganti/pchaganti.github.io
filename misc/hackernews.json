@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-08-19T14:16:45.839842-04:00",
+  "last_updated": "2025-08-19T17:11:06.710613-04:00",
   "stories": [
     {
       "title": "How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos",
-      "score": 124,
+      "score": 354,
       "url": "https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/",
       "time": 1755618915.0,
       "comments_url": "https://news.ycombinator.com/item?id=44953032"
     },
     {
+      "title": "D2 (text to diagram tool) now supports ASCII renders",
+      "score": 104,
+      "url": "https://d2lang.com/blog/ascii/",
+      "time": 1755627281.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44954524"
+    },
+    {
       "title": "Emacs as your video-trimming tool",
-      "score": 75,
+      "score": 132,
       "url": "https://xenodium.com/emacs-as-your-video-trimming-tool",
       "time": 1755620521.0,
       "comments_url": "https://news.ycombinator.com/item?id=44953316"
     },
     {
       "title": "Without the futex, it's futile",
-      "score": 158,
+      "score": 199,
       "url": "https://h4x0r.org/futex/",
       "time": 1755611622.0,
       "comments_url": "https://news.ycombinator.com/item?id=44951563"
     },
     {
-      "title": "Figma's Multiplayer Technology (2019)",
-      "score": 16,
+      "title": "Perfect Freehand – Draw perfect pressure-sensitive freehand lines",
+      "score": 57,
+      "url": "https://www.perfectfreehand.com/",
+      "time": 1755633231.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44955624"
+    },
+    {
+      "title": "AnduinOS",
+      "score": 42,
+      "url": "https://www.anduinos.com/",
+      "time": 1755628945.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44954823"
+    },
+    {
+      "title": "How Figma’s multiplayer technology works (2019)",
+      "score": 68,
       "url": "https://www.figma.com/blog/how-figmas-multiplayer-technology-works/",
       "time": 1755344462.0,
       "comments_url": "https://news.ycombinator.com/item?id=44922362"
     },
     {
       "title": "Candle Flame Oscillations as a Clock",
-      "score": 123,
+      "score": 200,
       "url": "https://cpldcpu.com/2025/08/13/candle-flame-oscillations-as-a-clock/",
       "time": 1755330591.0,
       "comments_url": "https://news.ycombinator.com/item?id=44921195"
     },
     {
+      "title": "The new geography of stolen goods",
+      "score": 46,
+      "url": "https://www.economist.com/interactive/britain/2025/08/17/the-new-geography-of-stolen-goods",
+      "time": 1755516553.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44939460"
+    },
+    {
+      "title": "Vendors that treat single sign-on as a luxury feature",
+      "score": 134,
+      "url": "https://sso.tax/",
+      "time": 1755632318.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44955457"
+    },
+    {
+      "title": "Show HN: OpenAI/reflect – Physical AI Assistant that illuminates your life",
+      "score": 17,
+      "url": "https://github.com/openai/openai-reflect",
+      "time": 1755632918.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44955576"
+    },
+    {
+      "title": "Notion releases offline mode",
+      "score": 121,
+      "url": "https://www.notion.com/help/guides/working-offline-in-notion-everything-you-need-to-know",
+      "time": 1755628054.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44954665"
+    },
+    {
+      "title": "Why Semantic Layers Matter (and how to build one with DuckDB)",
+      "score": 37,
+      "url": "https://motherduck.com/blog/semantic-layer-duckdb-tutorial/",
+      "time": 1755622155.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44953575"
+    },
+    {
+      "title": "Branch prediction: Why CPUs can't wait?",
+      "score": 13,
+      "url": "https://namvdo.ai/cpu-branch-prediction/",
+      "time": 1755323125.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44920539"
+    },
+    {
       "title": "A renovation project in Turkey led to the discovery of a lost city (2023)",
-      "score": 25,
+      "score": 51,
       "url": "https://www.atlasobscura.com/articles/derinkuyu-turkey-underground-city-strange-maps",
       "time": 1755617695.0,
       "comments_url": "https://news.ycombinator.com/item?id=44952789"
     },
     {
       "title": "Custom telescope mount using harmonic drives and ESP32",
-      "score": 211,
+      "score": 238,
       "url": "https://www.svendewaerhert.com/blog/telescope-mount/",
       "time": 1755596787.0,
       "comments_url": "https://news.ycombinator.com/item?id=44949895"
     },
     {
-      "title": "Staff disquiet as Alan Turing Institute faces identity crisis",
-      "score": 29,
-      "url": "https://www.theguardian.com/technology/2025/aug/18/shut-it-down-and-start-again-staff-disquiet-as-alan-turing-institute-faces-identity-crisis",
-      "time": 1755497938.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44937893"
-    },
-    {
-      "title": "Positron, a New Data Science IDE",
-      "score": 54,
-      "url": "https://posit.co/blog/positron-product-announcement-aug-2025/",
-      "time": 1755613225.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44951862"
-    },
-    {
       "title": "Lazy-brush – smooth drawing with mouse or finger",
-      "score": 492,
+      "score": 537,
       "url": "https://lazybrush.dulnan.net",
       "time": 1755282647.0,
       "comments_url": "https://news.ycombinator.com/item?id=44915897"
     },
     {
-      "title": "Show HN: Chroma Cloud – serverless search database for AI",
-      "score": 36,
-      "url": "https://trychroma.com/cloud",
-      "time": 1755544801.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44944241"
-    },
-    {
-      "title": "\"Remove mentions of XSLT from the html spec\"",
-      "score": 237,
-      "url": "https://github.com/whatwg/html/pull/11563",
-      "time": 1755614934.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44952185"
-    },
-    {
       "title": "Launch HN: Uplift (YC S25) – Voice models for under-served languages",
-      "score": 62,
+      "score": 74,
       "url": "https://news.ycombinator.com/item?id=44950661",
       "time": 1755605409.0,
       "comments_url": "https://news.ycombinator.com/item?id=44950661"
     },
     {
-      "title": "Geotoy – Shadertoy for 3D Geometry",
-      "score": 58,
-      "url": "https://3d.ameo.design/geotoy",
-      "time": 1755507288.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44938622"
+      "title": "Show HN: Chroma Cloud – serverless search database for AI",
+      "score": 66,
+      "url": "https://trychroma.com/cloud",
+      "time": 1755544801.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44944241"
     },
     {
-      "title": "Critical Cache Poisoning Vulnerability in Dnsmasq",
-      "score": 88,
-      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html",
-      "time": 1755608207.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44950981"
-    },
-    {
-      "title": "As Alaska's salmon plummet, scientists home in on the killer – Science – AAAS",
-      "score": 22,
-      "url": "https://www.science.org/content/article/alaska-s-salmon-plummet-scientists-home-killer",
-      "time": 1755617142.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44952672"
-    },
-    {
-      "title": "Prime Number Grid",
-      "score": 235,
-      "url": "https://susam.net/primegrid.html",
-      "time": 1755588789.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44949162"
-    },
-    {
-      "title": "Launch HN: Parachute (YC S25) – Guardrails for Clinical AI",
-      "score": 29,
-      "url": "https://news.ycombinator.com/item?id=44952246",
-      "time": 1755615191.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44952246"
-    },
-    {
-      "title": "OpenMower – An open source lawn mower",
-      "score": 523,
-      "url": "https://github.com/ClemensElflein/OpenMower",
-      "time": 1755563708.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44946996"
-    },
-    {
-      "title": "PyPI Preventing Domain Resurrection Attacks",
-      "score": 87,
-      "url": "https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/",
-      "time": 1755599561.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44950091"
+      "title": "The joy of recursion, immutable data, & pure functions: Making mazes with JS",
+      "score": 16,
+      "url": "https://jrsinclair.com/articles/2025/joy-of-immutable-data-recursion-pure-functions-javascript-mazes/",
+      "time": 1755503850.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44938354"
     }
   ]
 }
