@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-08-19T08:23:26.189901-04:00",
+  "last_updated": "2025-08-19T11:13:10.150093-04:00",
   "stories": [
     {
+      "title": "Without the Futex, It's Futile",
+      "score": 78,
+      "url": "https://h4x0r.org/futex/",
+      "time": 1755611622.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44951563"
+    },
+    {
+      "title": "Launch HN: Parachute (YC S25) – Guardrails for Clinical AI",
+      "score": 7,
+      "url": "https://news.ycombinator.com/item?id=44952246",
+      "time": 1755615191.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44952246"
+    },
+    {
       "title": "Custom telescope mount using harmonic drives and ESP32",
-      "score": 75,
+      "score": 171,
       "url": "https://www.svendewaerhert.com/blog/telescope-mount/",
       "time": 1755596787.0,
       "comments_url": "https://news.ycombinator.com/item?id=44949895"
     },
     {
-      "title": "Prime Number Grid",
-      "score": 151,
-      "url": "https://susam.net/primegrid.html",
-      "time": 1755588789.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44949162"
+      "title": "Critical Cache Poisoning Vulnerability in Dnsmasq",
+      "score": 63,
+      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html",
+      "time": 1755608207.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44950981"
+    },
+    {
+      "title": "Launch HN: Uplift (YC S25) – Voice models for under-served languages",
+      "score": 41,
+      "url": "https://news.ycombinator.com/item?id=44950661",
+      "time": 1755605409.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44950661"
     },
     {
       "title": "Lazy-brush – smooth drawing with mouse or finger",
-      "score": 295,
+      "score": 409,
       "url": "https://lazybrush.dulnan.net",
       "time": 1755282647.0,
       "comments_url": "https://news.ycombinator.com/item?id=44915897"
     },
     {
+      "title": "Candle Flame Oscillations as a Clock",
+      "score": 36,
+      "url": "https://cpldcpu.com/2025/08/13/candle-flame-oscillations-as-a-clock/",
+      "time": 1755330591.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44921195"
+    },
+    {
+      "title": "Prime Number Grid",
+      "score": 207,
+      "url": "https://susam.net/primegrid.html",
+      "time": 1755588789.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44949162"
+    },
+    {
+      "title": "PyPI Preventing Domain Resurrection Attacks",
+      "score": 61,
+      "url": "https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/",
+      "time": 1755599561.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44950091"
+    },
+    {
+      "title": "Vim Macros for Beancount",
+      "score": 19,
+      "url": "https://tangled.sh/@adam.tngl.sh/vim-beancounting",
+      "time": 1755607931.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44950952"
+    },
+    {
+      "title": "Why I'm all-in on Zen Browser",
+      "score": 42,
+      "url": "https://werd.io/why-im-all-in-on-zen-browser/",
+      "time": 1755612884.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44951799"
+    },
+    {
       "title": "OpenMower – An open source lawn mower",
-      "score": 378,
+      "score": 467,
       "url": "https://github.com/ClemensElflein/OpenMower",
       "time": 1755563708.0,
       "comments_url": "https://news.ycombinator.com/item?id=44946996"
     },
     {
-      "title": "In 2006, Hitachi developed a 0.15mm-sized RFID chip",
-      "score": 24,
-      "url": "https://www.hitachi.com/New/cnews/060206.html",
-      "time": 1755268136.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44912881"
+      "title": "Geotoy – Shadertoy for 3D Geometry",
+      "score": 8,
+      "url": "https://3d.ameo.design/geotoy",
+      "time": 1755507288.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44938622"
     },
     {
       "title": "How to Build a Medieval Castle",
-      "score": 99,
+      "score": 151,
       "url": "https://archaeology.org/issues/september-october-2025/features/how-to-build-a-medieval-castle/",
       "time": 1755578975.0,
       "comments_url": "https://news.ycombinator.com/item?id=44948352"
     },
     {
-      "title": "Netflix Revamps Tudum's CQRS Architecture with Raw Hollow In-Memory Object Store",
-      "score": 42,
-      "url": "https://www.infoq.com/news/2025/08/netflix-tudum-cqrs-raw-hollow/",
-      "time": 1755358047.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44924261"
+      "title": "In 2006, Hitachi developed a 0.15mm-sized RFID chip",
+      "score": 56,
+      "url": "https://www.hitachi.com/New/cnews/060206.html",
+      "time": 1755268136.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44912881"
+    },
+    {
+      "title": "EloqKV, a distributed database with Redis compatible API (GPLv2 and AGPLv3)",
+      "score": 24,
+      "url": "https://github.com/eloqdata/eloqkv",
+      "time": 1755498902.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44937978"
     },
     {
       "title": "Show HN: Whispering – Open-source, local-first dictation you can trust",
-      "score": 434,
+      "score": 502,
       "url": "https://github.com/epicenter-so/epicenter/tree/main/apps/whispering",
       "time": 1755535949.0,
       "comments_url": "https://news.ycombinator.com/item?id=44942731"
     },
     {
-      "title": "Tiny-tpu: A minimal tensor processing unit (TPU), inspired by Google's TPU",
-      "score": 214,
-      "url": "https://github.com/tiny-tpu-v2/tiny-tpu",
-      "time": 1755549277.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44945008"
-    },
-    {
-      "title": "X-ray scans reveal Buddhist prayers inside tiny Tibetan scrolls",
-      "score": 131,
-      "url": "https://www.popsci.com/technology/tibetan-prayer-scroll-scans/",
-      "time": 1755377694.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44926855"
-    },
-    {
-      "title": "Counter-Strike: A billion-dollar game built in a dorm room",
-      "score": 388,
-      "url": "https://www.nytimes.com/2025/08/18/arts/counter-strike-half-life-minh-le.html",
-      "time": 1755529166.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44941369"
-    },
-    {
-      "title": "The Life and Death of London's Crystal Palace (2021)",
-      "score": 21,
-      "url": "https://heritagecalling.com/2021/11/29/picturing-the-crystal-palace/",
-      "time": 1755250515.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44910300"
-    },
-    {
-      "title": "Show HN: I built an app to block Shorts and Reels",
-      "score": 611,
-      "url": "https://scrollguard.app/",
-      "time": 1755352898.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44923520"
-    },
-    {
       "title": "Ted Chiang: The Secret Third Thing",
-      "score": 152,
+      "score": 207,
       "url": "https://linch.substack.com/p/ted-chiang-review",
       "time": 1755561959.0,
       "comments_url": "https://news.ycombinator.com/item?id=44946774"
     },
     {
-      "title": "Left to Right Programming",
-      "score": 354,
-      "url": "https://graic.net/p/left-to-right-programming",
-      "time": 1755536916.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44942936"
+      "title": "Netflix Revamps Tudum's CQRS Architecture with Raw Hollow In-Memory Object Store",
+      "score": 57,
+      "url": "https://www.infoq.com/news/2025/08/netflix-tudum-cqrs-raw-hollow/",
+      "time": 1755358047.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44924261"
     },
     {
-      "title": "Obsidian Bases",
-      "score": 563,
-      "url": "https://help.obsidian.md/bases",
-      "time": 1755552485.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44945532"
-    },
-    {
-      "title": "FFmpeg Assembly Language Lessons",
-      "score": 385,
-      "url": "https://github.com/FFmpeg/asm-lessons",
-      "time": 1755524393.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44940485"
-    },
-    {
-      "title": "How to Use Snprintf",
-      "score": 22,
-      "url": "https://bernsteinbear.com/blog/snprintf/",
-      "time": 1755352419.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44923451"
-    },
-    {
-      "title": "A Case for Protecting Computer Games with SGX (2016)",
-      "score": 4,
-      "url": "https://dl.acm.org/doi/10.1145/3007788.3007792",
-      "time": 1755354709.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44923777"
-    },
-    {
-      "title": "Walkie-Textie Wireless Communicator",
-      "score": 159,
-      "url": "http://www.technoblogy.com/show?2AON",
-      "time": 1755346125.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44922540"
+      "title": "Counter-Strike: A billion-dollar game built in a dorm room",
+      "score": 438,
+      "url": "https://www.nytimes.com/2025/08/18/arts/counter-strike-half-life-minh-le.html",
+      "time": 1755529166.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44941369"
     }
   ]
 }
