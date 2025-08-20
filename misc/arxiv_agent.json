@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-19T17:11:08.235244-04:00",
+  "last_updated": "2025-08-19T20:56:13.849299-04:00",
   "papers": [
     {
       "title": "Exploring Autonomous Agents: A Closer Look at Why They Fail When\n  Completing Tasks",
@@ -34,7 +34,7 @@
     {
       "title": "On the complexity of constrained reconfiguration and motion planning",
       "summary": "Coordinating the motion of multiple agents in constrained environments is a\nfundamental challenge in robotics, motion planning, and scheduling. A\nmotivating example involves $n$ robotic arms, each represented as a line\nsegment. The objective is to rotate each arm to its vertical orientation, one\nat a time (clockwise or counterclockwise), without collisions nor rotating any\narm more than once. This scenario is an example of the more general\n$k$-Compatible Ordering problem, where $n$ agents, each capable of $k$\nstate-changing actions, must transition to specific target states under\nconstraints encoded as a set $\\mathcal{G}$ of $k$ pairs of directed graphs.\n  We show that $k$-Compatible Ordering is $\\mathsf{NP}$-complete, even when\n$\\mathcal{G}$ is planar, degenerate, or acyclic. On the positive side, we\nprovide polynomial-time algorithms for cases such as when $k = 1$ or\n$\\mathcal{G}$ has bounded treewidth. We also introduce generalized variants\nsupporting multiple state-changing actions per agent, broadening the\napplicability of our framework. These results extend to a wide range of\nscheduling, reconfiguration, and motion planning applications in constrained\nenvironments.",
-      "url": "http://arxiv.org/abs/2508.13032v1",
+      "url": "http://arxiv.org/abs/2508.13032v2",
       "published_time_eastern_timestamp": 1755532257.0
     },
     {
@@ -100,7 +100,7 @@
     {
       "title": "Atom-Searcher: Enhancing Agentic Deep Research via Fine-Grained Atomic\n  Thought Reward",
       "summary": "Large language models (LLMs) exhibit remarkable problem-solving abilities,\nbut struggle with complex tasks due to static internal knowledge.\nRetrieval-Augmented Generation (RAG) enhances access to external information,\nyet remains limited in multi-hop reasoning and strategic search due to rigid\nworkflows. Recent advancements in agentic deep research empower LLMs to\nautonomously reason, search, and synthesize information. However, current\napproaches relying on outcome-based reinforcement learning (RL) face critical\nissues such as conflicting gradients and reward sparsity, limiting performance\ngains and training efficiency. To address these, we first propose Atomic\nThought, a novel LLM thinking paradigm that decomposes reasoning into\nfine-grained functional units. These units are supervised by Reasoning Reward\nModels (RRMs), which provide Atomic Thought Rewards (ATR) for fine-grained\nguidance. Building on this, we propose Atom-Searcher, a novel RL framework for\nagentic deep research that integrates Atomic Thought and ATR. Atom-Searcher\nuses a curriculum-inspired reward schedule, prioritizing process-level ATR\nearly and transitioning to outcome rewards, accelerating convergence on\neffective reasoning paths. Experiments on seven benchmarks show consistent\nimprovements over the state-of-the-art. Key advantages include: (1)\nAtom-Searcher scales computation at test-time. (2) Atomic Thought provides\nsupervision anchors for RRMs, bridging deep research tasks and RRMs. (3)\nAtom-Searcher exhibits more interpretable, human-like reasoning patterns.",
-      "url": "http://arxiv.org/abs/2508.12800v1",
+      "url": "http://arxiv.org/abs/2508.12800v2",
       "published_time_eastern_timestamp": 1755512590.0
     },
     {

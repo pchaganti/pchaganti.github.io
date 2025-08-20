@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-19T17:11:08.709321-04:00",
+  "last_updated": "2025-08-19T20:56:14.268279-04:00",
   "papers": [
     {
       "title": "Phenomenological Constraints on Higgs reheating",
@@ -34,7 +34,7 @@
     {
       "title": "VerilogLAVD: LLM-Aided Rule Generation for Vulnerability Detection in\n  Verilog",
       "summary": "Timely detection of hardware vulnerabilities during the early design stage is\ncritical for reducing remediation costs. Existing early detection techniques\noften require specialized security expertise, limiting their usability. Recent\nefforts have explored the use of large language models (LLMs) for Verilog\nvulnerability detection. However, LLMs struggle to capture the structure in\nVerilog code, resulting in inconsistent detection results. To this end, we\npropose VerilogLAVD, the first LLM-aided graph traversal rule generation\napproach for Verilog vulnerability detection. Our approach introduces the\nVerilog Property Graph (VeriPG), a unified representation of Verilog code. It\ncombines syntactic features extracted from the abstract syntax tree (AST) with\nsemantic information derived from control flow and data dependency graphs. We\nleverage LLMs to generate VeriPG-based detection rules from Common Weakness\nEnumeration (CWE) descriptions. These rules guide the rule executor that\ntraversal VeriPG for potential vulnerabilities. To evaluate VerilogLAVD, we\nbuild a dataset collected from open-source repositories and synthesized data.\nIn our empirical evaluation on 77 Verilog designs encompassing 12 CWE types,\nVerilogLAVD achieves an F1-score of 0.54. Compared to the LLM-only and LLM with\nexternal knowledge baselines, VerilogLAVD improves F1-score by 0.31 and 0.27,\nrespectively.",
-      "url": "http://arxiv.org/abs/2508.13092v1",
+      "url": "http://arxiv.org/abs/2508.13092v2",
       "published_time_eastern_timestamp": 1755536718.0
     },
     {
@@ -70,7 +70,7 @@
     {
       "title": "PC-Sampler: Position-Aware Calibration of Decoding Bias in Masked\n  Diffusion Models",
       "summary": "Recent advances in masked diffusion models (MDMs) have established them as\npowerful non-autoregressive alternatives for sequence generation. Nevertheless,\nour preliminary experiments reveal that the generation quality of MDMs is still\nhighly sensitive to the choice of decoding strategy. In particular, widely\nadopted uncertainty-based samplers suffer from two key limitations: a lack of\nglobal trajectory control and a pronounced bias toward trivial tokens in the\nearly stages of decoding. These shortcomings restrict the full potential of\nMDMs. In this work, we introduce Position-Aware Confidence-Calibrated Sampling\n(PC-Sampler), a novel decoding strategy that unifies global trajectory planning\nwith content-aware informativeness maximization. PC-Sampler incorporates a\nposition-aware weighting mechanism to regulate the decoding path and a\ncalibrated confidence score to suppress the premature selection of trivial\ntokens. Extensive experiments on three advanced MDMs across seven challenging\nbenchmarks-including logical reasoning and planning tasks-demonstrate that\nPC-Sampler consistently outperforms existing MDM decoding strategies by more\nthan 10% on average, significantly narrowing the performance gap with\nstate-of-the-art autoregressive models. All codes are available at\nhttps://github.com/NEUIR/PC-Sampler.",
-      "url": "http://arxiv.org/abs/2508.13021v1",
+      "url": "http://arxiv.org/abs/2508.13021v2",
       "published_time_eastern_timestamp": 1755531517.0
     },
     {

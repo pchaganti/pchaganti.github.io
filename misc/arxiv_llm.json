@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-19T17:11:07.799511-04:00",
+  "last_updated": "2025-08-19T20:56:13.390373-04:00",
   "papers": [
     {
       "title": "RepreGuard: Detecting LLM-Generated Text by Revealing Hidden\n  Representation Patterns",
@@ -46,7 +46,7 @@
     {
       "title": "VerilogLAVD: LLM-Aided Rule Generation for Vulnerability Detection in\n  Verilog",
       "summary": "Timely detection of hardware vulnerabilities during the early design stage is\ncritical for reducing remediation costs. Existing early detection techniques\noften require specialized security expertise, limiting their usability. Recent\nefforts have explored the use of large language models (LLMs) for Verilog\nvulnerability detection. However, LLMs struggle to capture the structure in\nVerilog code, resulting in inconsistent detection results. To this end, we\npropose VerilogLAVD, the first LLM-aided graph traversal rule generation\napproach for Verilog vulnerability detection. Our approach introduces the\nVerilog Property Graph (VeriPG), a unified representation of Verilog code. It\ncombines syntactic features extracted from the abstract syntax tree (AST) with\nsemantic information derived from control flow and data dependency graphs. We\nleverage LLMs to generate VeriPG-based detection rules from Common Weakness\nEnumeration (CWE) descriptions. These rules guide the rule executor that\ntraversal VeriPG for potential vulnerabilities. To evaluate VerilogLAVD, we\nbuild a dataset collected from open-source repositories and synthesized data.\nIn our empirical evaluation on 77 Verilog designs encompassing 12 CWE types,\nVerilogLAVD achieves an F1-score of 0.54. Compared to the LLM-only and LLM with\nexternal knowledge baselines, VerilogLAVD improves F1-score by 0.31 and 0.27,\nrespectively.",
-      "url": "http://arxiv.org/abs/2508.13092v1",
+      "url": "http://arxiv.org/abs/2508.13092v2",
       "published_time_eastern_timestamp": 1755536718.0
     },
     {
