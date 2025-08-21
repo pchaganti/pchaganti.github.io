@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-08-21T02:27:19.895540-04:00",
+  "last_updated": "2025-08-21T05:12:53.934604-04:00",
   "stories": [
     {
+      "title": "D4d4",
+      "score": 60,
+      "url": "https://www.nmichaels.org/musings/d4d4/d4d4/",
+      "time": 1755445352.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44932401"
+    },
+    {
+      "title": "Show HN: I replaced vector databases with Git for AI memory (PoC)",
+      "score": 73,
+      "url": "https://github.com/Growth-Kinetics/DiffMem",
+      "time": 1755757211.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44969622"
+    },
+    {
       "title": "Code review can be better",
-      "score": 201,
+      "score": 267,
       "url": "https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/",
       "time": 1755731437.0,
       "comments_url": "https://news.ycombinator.com/item?id=44967469"
     },
     {
-      "title": "Contrasting Data and Objects (2018)",
-      "score": 16,
+      "title": "Universal Tool Calling Protocol (UTCP)",
+      "score": 38,
+      "url": "https://github.com/universal-tool-calling-protocol/python-utcp",
+      "time": 1755518163.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44939642"
+    },
+    {
+      "title": "Data, objects, and how we're railroaded into poor design (2018)",
+      "score": 50,
       "url": "https://www.tedinski.com/2018/01/23/data-objects-and-being-railroaded-into-misdesign.html",
       "time": 1755752765.0,
       "comments_url": "https://news.ycombinator.com/item?id=44969211"
     },
     {
       "title": "Show HN: I was curious about spherical helix, ended up making this visualization",
-      "score": 712,
+      "score": 756,
       "url": "https://visualrambling.space/moving-objects-in-3d/",
       "time": 1755698567.0,
       "comments_url": "https://news.ycombinator.com/item?id=44962066"
     },
     {
-      "title": "SK hynix dethrones Samsung as world’s top DRAM maker",
-      "score": 107,
-      "url": "https://koreajoongangdaily.joins.com/news/2025-08-15/business/tech/Thanks-Nvidia-SK-hynix-dethrones-Samsung-as-worlds-top-DRAM-maker-for-first-time-in-over-30-years/2376834",
-      "time": 1755451893.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44933290"
-    },
-    {
       "title": "Epson MX-80 Fonts",
-      "score": 52,
+      "score": 83,
       "url": "https://mw.rat.bz/MX-80/",
       "time": 1755436701.0,
       "comments_url": "https://news.ycombinator.com/item?id=44931371"
     },
     {
-      "title": "A statistical analysis of Rotten Tomatoes",
-      "score": 89,
-      "url": "https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable",
-      "time": 1755735007.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44967796"
-    },
-    {
-      "title": "Mirror Ball Emoji Proposal (2018) [pdf]",
-      "score": 17,
-      "url": "https://www.unicode.org/L2/L2019/19310-mirror-ball-emoji.pdf",
-      "time": 1755435931.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44931305"
-    },
-    {
-      "title": "'Reading crisis' prompts Denmark to end 25% tax on books",
-      "score": 32,
-      "url": "https://www.rte.ie/news/world/2025/0820/1529397-denmark-book-tax/",
-      "time": 1755753587.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44969277"
-    },
-    {
       "title": "Why are anime catgirls blocking my access to the Linux kernel?",
-      "score": 409,
+      "score": 531,
       "url": "https://lock.cmpxchg8b.com/anubis.html",
       "time": 1755701685.0,
       "comments_url": "https://news.ycombinator.com/item?id=44962529"
     },
     {
+      "title": "Python f-string cheat sheets (2022)",
+      "score": 59,
+      "url": "https://fstring.help/cheat/",
+      "time": 1755752888.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44969221"
+    },
+    {
+      "title": "A statistical analysis of Rotten Tomatoes",
+      "score": 135,
+      "url": "https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable",
+      "time": 1755735007.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44967796"
+    },
+    {
+      "title": "Australia Post halts transit shipping to US as 'chaotic' tariff deadline looms",
+      "score": 28,
+      "url": "https://www.abc.net.au/news/2025-08-21/australia-post-suspends-transit-shipping-parcels-us-trump-tariff/105680456",
+      "time": 1755762990.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44970269"
+    },
+    {
+      "title": "SK hynix dethrones Samsung as world’s top DRAM maker",
+      "score": 129,
+      "url": "https://koreajoongangdaily.joins.com/news/2025-08-15/business/tech/Thanks-Nvidia-SK-hynix-dethrones-Samsung-as-worlds-top-DRAM-maker-for-first-time-in-over-30-years/2376834",
+      "time": 1755451893.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44933290"
+    },
+    {
       "title": "Gemma 3 270M re-implemented in pure PyTorch for local tinkering",
-      "score": 348,
+      "score": 377,
       "url": "https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3",
       "time": 1755698486.0,
       "comments_url": "https://news.ycombinator.com/item?id=44962059"
     },
     {
+      "title": "Mirror Ball Emoji Proposal (2018) [pdf]",
+      "score": 31,
+      "url": "https://www.unicode.org/L2/L2019/19310-mirror-ball-emoji.pdf",
+      "time": 1755435931.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44931305"
+    },
+    {
+      "title": "Home Depot sued for 'secretly' using facial recognition at self-checkouts",
+      "score": 132,
+      "url": "https://petapixel.com/2025/08/20/home-depot-sued-for-secretly-using-facial-recognition-technology-on-self-checkout-cameras/",
+      "time": 1755703399.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44962771"
+    },
+    {
       "title": "The Pleasure of Patterns in Art",
-      "score": 18,
+      "score": 33,
       "url": "https://thereader.mitpress.mit.edu/why-repetition-in-art-pleases-the-brain/",
       "time": 1755748427.0,
       "comments_url": "https://news.ycombinator.com/item?id=44968883"
     },
     {
       "title": "Launch HN: Channel3 (YC S25) – A database of every product on the internet",
-      "score": 108,
+      "score": 118,
       "url": "https://news.ycombinator.com/item?id=44962881",
       "time": 1755704047.0,
       "comments_url": "https://news.ycombinator.com/item?id=44962881"
     },
     {
-      "title": "Home Depot sued for 'secretly' using facial recognition at self-checkouts",
-      "score": 83,
-      "url": "https://petapixel.com/2025/08/20/home-depot-sued-for-secretly-using-facial-recognition-technology-on-self-checkout-cameras/",
-      "time": 1755703399.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44962771"
+      "title": "French firm Gouach is pitching an Infinite Battery with replaceable cells",
+      "score": 123,
+      "url": "https://arstechnica.com/gadgets/2025/05/gouach-wants-you-to-insert-and-pluck-the-cells-from-its-infinite-e-bike-battery/",
+      "time": 1755480764.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44936535"
     },
     {
       "title": "SimpleIDE",
-      "score": 56,
+      "score": 72,
       "url": "https://github.com/jamesplotts/simpleide",
       "time": 1755731755.0,
       "comments_url": "https://news.ycombinator.com/item?id=44967505"
     },
     {
-      "title": "Show HN: PlutoPrint – Generate PDFs and PNGs from HTML with Python",
-      "score": 109,
-      "url": "https://github.com/plutoprint/plutoprint",
-      "time": 1755722278.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44966170"
-    },
-    {
-      "title": "Show HN: Luminal – Open-source, search-based GPU compiler",
-      "score": 105,
-      "url": "https://github.com/luminal-ai/luminal",
-      "time": 1755705673.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44963135"
-    },
-    {
       "title": "Sequoia backs Zed",
-      "score": 353,
+      "score": 389,
       "url": "https://zed.dev/blog/sequoia-backs-zed",
       "time": 1755691996.0,
       "comments_url": "https://news.ycombinator.com/item?id=44961172"
-    },
-    {
-      "title": "An Update on Pytype",
-      "score": 163,
-      "url": "https://github.com/google/pytype",
-      "time": 1755709491.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44963724"
-    },
-    {
-      "title": "Zedless: Zed fork focused on privacy and being local-first",
-      "score": 455,
-      "url": "https://github.com/zedless-editor/zed",
-      "time": 1755715623.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44964916"
-    },
-    {
-      "title": "French firm Gouach is pitching an Infinite Battery with replaceable cells",
-      "score": 79,
-      "url": "https://arstechnica.com/gadgets/2025/05/gouach-wants-you-to-insert-and-pluck-the-cells-from-its-infinite-e-bike-battery/",
-      "time": 1755480764.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44936535"
     }
   ]
 }
