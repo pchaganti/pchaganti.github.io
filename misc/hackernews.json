@@ -1,47 +1,82 @@
 {
-  "last_updated": "2025-08-21T08:23:21.921025-04:00",
+  "last_updated": "2025-08-21T11:13:11.198885-04:00",
   "stories": [
     {
+      "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
+      "score": 503,
+      "url": "https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/",
+      "time": 1755780796.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44972151"
+    },
+    {
+      "title": "How Well Does the Money Laundering Control System Work?",
+      "score": 70,
+      "url": "https://www.journals.uchicago.edu/doi/10.1086/735665",
+      "time": 1755781097.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44972213"
+    },
+    {
+      "title": "Weaponizing image scaling against production AI systems",
+      "score": 106,
+      "url": "https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/",
+      "time": 1755778853.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44971845"
+    },
+    {
+      "title": "Apple Watch wearable foundation model",
+      "score": 9,
+      "url": "https://arxiv.org/abs/2507.00191",
+      "time": 1755787185.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44973375"
+    },
+    {
       "title": "Using Podman, Compose and BuildKit",
-      "score": 48,
+      "score": 140,
       "url": "https://emersion.fr/blog/2025/using-podman-compose-and-buildkit/",
       "time": 1755773653.0,
       "comments_url": "https://news.ycombinator.com/item?id=44971212"
     },
     {
       "title": "D4d4",
-      "score": 258,
+      "score": 334,
       "url": "https://www.nmichaels.org/musings/d4d4/d4d4/",
       "time": 1755445352.0,
       "comments_url": "https://news.ycombinator.com/item?id=44932401"
     },
     {
-      "title": "Margin Debt Surges 9.5% in June to Record High",
-      "score": 24,
-      "url": "https://www.advisorperspectives.com/dshort/updates/2025/07/23/margin-debt-surges-record-high-june-2025",
-      "time": 1755775370.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44971396"
-    },
-    {
-      "title": "AI Mode in Search gets new agentic features and expands globally",
-      "score": 16,
-      "url": "https://blog.google/products/search/ai-mode-agentic-personalized/",
-      "time": 1755774217.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44971270"
-    },
-    {
-      "title": "To Infinity but Not Beyond",
-      "score": 26,
-      "url": "https://meyerweb.com/eric/thoughts/2025/08/20/to-infinity-but-not-beyond/",
-      "time": 1755768652.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44970751"
+      "title": "Show HN: ChartDB Cloud – Visualize and Share Database Diagrams",
+      "score": 33,
+      "url": "https://app.chartdb.io",
+      "time": 1755781271.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44972238"
     },
     {
       "title": "Show HN: OS X Mavericks Forever",
-      "score": 44,
+      "score": 138,
       "url": "https://mavericksforever.com/",
       "time": 1755532904.0,
       "comments_url": "https://news.ycombinator.com/item?id=44942099"
+    },
+    {
+      "title": "Launch HN: Skope (YC S25) – Outcome-based pricing for software products",
+      "score": 2,
+      "url": "https://news.ycombinator.com/item?id=44973758",
+      "time": 1755788978.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44973758"
+    },
+    {
+      "title": "Mark Zuckerberg freezes AI hiring amid bubble fears",
+      "score": 320,
+      "url": "https://www.telegraph.co.uk/business/2025/08/21/zuckerberg-freezes-ai-hiring-amid-bubble-fears/",
+      "time": 1755774248.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44971273"
+    },
+    {
+      "title": "Show HN: Using Common Lisp from Inside the Browser",
+      "score": 39,
+      "url": "https://turtleware.eu/posts/Using-Common-Lisp-from-inside-the-Browser.html",
+      "time": 1755778110.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44971744"
     },
     {
       "title": "Activeloop (YC S18) Is Hiring Member of Technical Staff – Back End Engineering",
@@ -51,95 +86,60 @@
       "comments_url": "https://news.ycombinator.com/item?id=44971670"
     },
     {
+      "title": "You Should Add Debug Views to Your DB",
+      "score": 13,
+      "url": "https://chrispenner.ca/posts/views-for-debugging",
+      "time": 1755461040.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44934476"
+    },
+    {
+      "title": "In a first, Google has released data on how much energy an AI prompt uses",
+      "score": 40,
+      "url": "https://www.technologyreview.com/2025/08/21/1122288/google-gemini-ai-energy/",
+      "time": 1755784370.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44972808"
+    },
+    {
+      "title": "Margin debt surges to record high",
+      "score": 109,
+      "url": "https://www.advisorperspectives.com/dshort/updates/2025/07/23/margin-debt-surges-record-high-june-2025",
+      "time": 1755775370.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44971396"
+    },
+    {
+      "title": "Sütterlin",
+      "score": 39,
+      "url": "https://en.wikipedia.org/wiki/S%C3%BCtterlin",
+      "time": 1755525404.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44940649"
+    },
+    {
+      "title": "Why is D3 so Verbose?",
+      "score": 32,
+      "url": "https://theheasman.com/short_stories/why-is-d3-code-so-long-and-complicated-or-why-is-it-so-verbose/",
+      "time": 1755771155.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44970981"
+    },
+    {
+      "title": "A Conceptual Model for Storage Unification",
+      "score": 9,
+      "url": "https://jack-vanlightly.com/blog/2025/8/21/a-conceptual-model-for-storage-unification",
+      "time": 1755782292.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44972406"
+    },
+    {
+      "title": "AI crawlers, fetchers are blowing up websites; Meta, OpenAI are worst offenders",
+      "score": 100,
+      "url": "https://www.theregister.com/2025/08/21/ai_crawler_traffic/",
+      "time": 1755776122.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44971487"
+    },
+    {
       "title": "Show HN: I replaced vector databases with Git for AI memory (PoC)",
-      "score": 130,
+      "score": 148,
       "url": "https://github.com/Growth-Kinetics/DiffMem",
       "time": 1755757211.0,
       "comments_url": "https://news.ycombinator.com/item?id=44969622"
-    },
-    {
-      "title": "Code review can be better",
-      "score": 310,
-      "url": "https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/",
-      "time": 1755731437.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44967469"
-    },
-    {
-      "title": "Show HN: I was curious about spherical helix, ended up making this visualization",
-      "score": 797,
-      "url": "https://visualrambling.space/moving-objects-in-3d/",
-      "time": 1755698567.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44962066"
-    },
-    {
-      "title": "Why are anime catgirls blocking my access to the Linux kernel?",
-      "score": 638,
-      "url": "https://lock.cmpxchg8b.com/anubis.html",
-      "time": 1755701685.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44962529"
-    },
-    {
-      "title": "The Open-Office Trap",
-      "score": 11,
-      "url": "https://www.newyorker.com/business/currency/the-open-office-trap",
-      "time": 1755771399.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44970998"
-    },
-    {
-      "title": "Epson MX-80 Fonts",
-      "score": 115,
-      "url": "https://mw.rat.bz/MX-80/",
-      "time": 1755436701.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44931371"
-    },
-    {
-      "title": "Sixteen Bottles of Wine Riddle",
-      "score": 16,
-      "url": "https://chriskw.xyz/2025/08/11/Wine/",
-      "time": 1755449870.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44933019"
-    },
-    {
-      "title": "Data, objects, and how we're railroaded into poor design (2018)",
-      "score": 69,
-      "url": "https://www.tedinski.com/2018/01/23/data-objects-and-being-railroaded-into-misdesign.html",
-      "time": 1755752765.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44969211"
-    },
-    {
-      "title": "SK hynix dethrones Samsung as world’s top DRAM maker",
-      "score": 149,
-      "url": "https://koreajoongangdaily.joins.com/news/2025-08-15/business/tech/Thanks-Nvidia-SK-hynix-dethrones-Samsung-as-worlds-top-DRAM-maker-for-first-time-in-over-30-years/2376834",
-      "time": 1755451893.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44933290"
-    },
-    {
-      "title": "Home Depot sued for 'secretly' using facial recognition at self-checkouts",
-      "score": 182,
-      "url": "https://petapixel.com/2025/08/20/home-depot-sued-for-secretly-using-facial-recognition-technology-on-self-checkout-cameras/",
-      "time": 1755703399.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44962771"
-    },
-    {
-      "title": "A statistical analysis of Rotten Tomatoes",
-      "score": 167,
-      "url": "https://www.statsignificant.com/p/is-rotten-tomatoes-still-reliable",
-      "time": 1755735007.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44967796"
-    },
-    {
-      "title": "Gemma 3 270M re-implemented in pure PyTorch for local tinkering",
-      "score": 390,
-      "url": "https://github.com/rasbt/LLMs-from-scratch/tree/main/ch05/12_gemma3",
-      "time": 1755698486.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44962059"
-    },
-    {
-      "title": "Dev Reveals Secrets Behind New \"3D\" Platformer for the ZX Spectrum",
-      "score": 62,
-      "url": "https://www.timeextension.com/news/2025/08/dev-reveals-secrets-behind-stunning-new-3d-platformer-for-the-zx-spectrum",
-      "time": 1755764495.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44970401"
     }
   ]
 }
