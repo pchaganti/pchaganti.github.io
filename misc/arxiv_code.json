@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-20T17:10:53.476017-04:00",
+  "last_updated": "2025-08-20T20:55:21.813765-04:00",
   "papers": [
     {
       "title": "Beyond Simple Edits: Composed Video Retrieval with Dense Modifications",
@@ -64,7 +64,7 @@
     {
       "title": "RotBench: Evaluating Multimodal Large Language Models on Identifying\n  Image Rotation",
       "summary": "We investigate to what extent Multimodal Large Language Models (MLLMs) can\naccurately identify the orientation of input images rotated 0{\\deg}, 90{\\deg},\n180{\\deg}, and 270{\\deg}. This task demands robust visual reasoning\ncapabilities to detect rotational cues and contextualize spatial relationships\nwithin images, regardless of their orientation. To evaluate MLLMs on these\nabilities, we introduce RotBench -- a 350-image manually-filtered benchmark\ncomprising lifestyle, portrait, and landscape images. Despite the relatively\nsimple nature of this task, we show that several state-of-the-art open and\nproprietary MLLMs, including GPT-5, o3, and Gemini-2.5-Pro, do not reliably\nidentify rotation in input images. Providing models with auxiliary information\n-- including captions, depth maps, and more -- or using chain-of-thought\nprompting offers only small and inconsistent improvements. Our results indicate\nthat most models are able to reliably identify right-side-up (0{\\deg}) images,\nwhile certain models are able to identify upside-down (180{\\deg}) images. None\ncan reliably distinguish between 90{\\deg} and 270{\\deg}. Simultaneously showing\nthe image rotated in different orientations leads to moderate performance gains\nfor reasoning models, while a modified setup using voting improves the\nperformance of weaker models. We further show that fine-tuning does not improve\nmodels' ability to distinguish 90{\\deg} and 270{\\deg} rotations, despite\nsubstantially improving the identification of 180{\\deg} images. Together, these\nresults reveal a significant gap between MLLMs' spatial reasoning capabilities\nand human perception in identifying rotation.",
-      "url": "http://arxiv.org/abs/2508.13968v1",
+      "url": "http://arxiv.org/abs/2508.13968v2",
       "published_time_eastern_timestamp": 1755619105.0
     },
     {

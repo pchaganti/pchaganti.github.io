@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-20T17:10:52.646439-04:00",
+  "last_updated": "2025-08-20T20:55:20.719426-04:00",
   "papers": [
     {
       "title": "The Promise of Large Language Models in Digital Health: Evidence from\n  Sentiment Analysis in Online Health Communities",
@@ -16,7 +16,7 @@
     {
       "title": "Beyond Pass@1: Self-Play with Variational Problem Synthesis Sustains\n  RLVR",
       "summary": "Reinforcement Learning with Verifiable Rewards (RLVR) has recently emerged as\na key paradigm for post-training Large Language Models (LLMs), particularly for\ncomplex reasoning tasks. However, vanilla RLVR training has been shown to\nimprove Pass@1 performance at the expense of policy entropy, leading to reduced\ngeneration diversity and limiting the Pass@k performance, which typically\nrepresents the upper bound of LLM reasoning capability. In this paper, we\nsystematically analyze the policy's generation diversity from the perspective\nof training problems and find that augmenting and updating training problems\nhelps mitigate entropy collapse during training. Based on these observations,\nwe propose an online Self-play with Variational problem Synthesis (SvS)\nstrategy for RLVR training, which uses the policy's correct solutions to\nsynthesize variational problems while ensuring their reference answers remain\nidentical to the originals. This self-improving strategy effectively maintains\npolicy entropy during training and substantially improves Pass@k compared with\nstandard RLVR, sustaining prolonged improvements and achieving absolute gains\nof 18.3% and 22.8% in Pass@32 performance on the competition-level AIME24 and\nAIME25 benchmarks. Experiments on 12 reasoning benchmarks across varying model\nsizes from 3B to 32B consistently demonstrate the generalizability and\nrobustness of SvS.",
-      "url": "http://arxiv.org/abs/2508.14029v1",
+      "url": "http://arxiv.org/abs/2508.14029v2",
       "published_time_eastern_timestamp": 1755625365.0
     },
     {
