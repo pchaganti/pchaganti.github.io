@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-08-22T08:22:21.178772-04:00",
+  "last_updated": "2025-08-22T11:12:18.019322-04:00",
   "stories": [
     {
+      "title": "Thunderbird Pro August 2025 Update",
+      "score": 75,
+      "url": "https://blog.thunderbird.net/2025/08/tbpro-august-2025-update/",
+      "time": 1755872980.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44985131"
+    },
+    {
+      "title": "Making LLMs Cheaper and Better via Performance-Efficiency Optimized Routing",
+      "score": 7,
+      "url": "https://arxiv.org/abs/2508.12631",
+      "time": 1755873811.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44985278"
+    },
+    {
       "title": "Io_uring, kTLS and Rust for zero syscall HTTPS server",
-      "score": 274,
+      "score": 340,
       "url": "https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html",
       "time": 1755834704.0,
       "comments_url": "https://news.ycombinator.com/item?id=44980865"
     },
     {
+      "title": "Launch HN: Inconvo (YC S23) – AI agents for customer-facing analytics",
+      "score": 16,
+      "url": "https://news.ycombinator.com/item?id=44984096",
+      "time": 1755867547.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44984096"
+    },
+    {
       "title": "LabPlot: Free, open source and cross-platform Data Visualization and Analysis",
-      "score": 20,
+      "score": 79,
       "url": "https://labplot.org/",
       "time": 1755853886.0,
       "comments_url": "https://news.ycombinator.com/item?id=44982409"
     },
     {
       "title": "DeepSeek-v3.1",
-      "score": 573,
+      "score": 629,
       "url": "https://api-docs.deepseek.com/news/news250821",
       "time": 1755803169.0,
       "comments_url": "https://news.ycombinator.com/item?id=44976764"
     },
     {
-      "title": "Everything Is Correlated",
-      "score": 148,
+      "title": "What about using rel=\"share-url\" to expose sharing intents?",
+      "score": 30,
+      "url": "https://shkspr.mobi/blog/2025/08/what-about-using-relshare-url-to-expose-sharing-intents/",
+      "time": 1755863348.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44983364"
+    },
+    {
+      "title": "Everything is correlated (2014–23)",
+      "score": 192,
       "url": "https://gwern.net/everything",
       "time": 1755828353.0,
       "comments_url": "https://news.ycombinator.com/item?id=44980339"
     },
     {
+      "title": "All managers make mistakes; good managers acknowledge and repair",
+      "score": 154,
+      "url": "https://terriblesoftware.org/2025/08/22/the-management-skill-nobody-talks-about/",
+      "time": 1755867039.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44983986"
+    },
+    {
       "title": "Control shopping cart wheels with your phone (2021)",
-      "score": 189,
+      "score": 221,
       "url": "https://www.begaydocrime.com/",
       "time": 1755824344.0,
       "comments_url": "https://news.ycombinator.com/item?id=44980004"
     },
     {
       "title": "Code formatting comes to uv experimentally",
-      "score": 282,
+      "score": 305,
       "url": "https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/",
       "time": 1755808004.0,
       "comments_url": "https://news.ycombinator.com/item?id=44977645"
     },
     {
-      "title": "Go is still not good",
-      "score": 143,
-      "url": "https://blog.habets.se/2025/07/Go-is-still-not-good.html",
-      "time": 1755854723.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44982491"
-    },
-    {
-      "title": "VHS-C: when a lazy idea stumbles towards perfection [video]",
-      "score": 53,
+      "title": "VHS-C: When a lazy idea stumbles towards perfection [video]",
+      "score": 91,
       "url": "https://www.youtube.com/watch?v=HFYWHeBhYbM",
       "time": 1755527428.0,
       "comments_url": "https://news.ycombinator.com/item?id=44941056"
     },
     {
-      "title": "The Minecraft code no one has solved (2024) [video]",
-      "score": 25,
-      "url": "https://www.youtube.com/watch?v=nz2LeXwJOyI",
-      "time": 1755847128.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44981802"
+      "title": "Go is still not good",
+      "score": 270,
+      "url": "https://blog.habets.se/2025/07/Go-is-still-not-good.html",
+      "time": 1755854723.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44982491"
     },
     {
       "title": "An interactive guide to SVG paths",
-      "score": 349,
+      "score": 388,
       "url": "https://www.joshwcomeau.com/svg/interactive-guide-to-paths/",
       "time": 1755530345.0,
       "comments_url": "https://news.ycombinator.com/item?id=44941605"
     },
     {
-      "title": "From GPT-4 to GPT-5: Measuring progress through MedHELM [pdf]",
-      "score": 108,
-      "url": "https://www.fertrevino.com/docs/gpt5_medhelm.pdf",
-      "time": 1755816734.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44979107"
-    },
-    {
-      "title": "Crimes with Python's Pattern Matching (2022)",
-      "score": 213,
-      "url": "https://www.hillelwayne.com/post/python-abc/",
-      "time": 1755805622.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44977189"
-    },
-    {
       "title": "Weaponizing image scaling against production AI systems",
-      "score": 412,
+      "score": 450,
       "url": "https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/",
       "time": 1755778853.0,
       "comments_url": "https://news.ycombinator.com/item?id=44971845"
     },
     {
-      "title": "1981 Sony Trinitron KV-3000R: The Most Luxurious Trinitron [video]",
-      "score": 67,
-      "url": "https://www.youtube.com/watch?v=jHG_I-9a7FY",
-      "time": 1755777149.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44971607"
+      "title": "How Not to Buy a SSD",
+      "score": 101,
+      "url": "https://andrei.xyz/post/how-not-to-buy-a-ssd/",
+      "time": 1755535799.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44942709"
     },
     {
-      "title": "How does the US use water?",
-      "score": 178,
-      "url": "https://www.construction-physics.com/p/how-does-the-us-use-water",
-      "time": 1755778898.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44971850"
+      "title": "Being “Confidently Wrong” is holding AI back",
+      "score": 105,
+      "url": "https://promptql.io/blog/being-confidently-wrong-is-holding-ai-back",
+      "time": 1755864875.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44983570"
     },
     {
-      "title": "Building AI products in the probabilistic era",
-      "score": 152,
-      "url": "https://giansegato.com/essays/probabilistic-era",
-      "time": 1755801730.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44976468"
+      "title": "Crimes with Python's Pattern Matching (2022)",
+      "score": 226,
+      "url": "https://www.hillelwayne.com/post/python-abc/",
+      "time": 1755805622.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44977189"
     },
     {
       "title": "4chan will refuse to pay daily online safety fines, lawyer tells BBC",
-      "score": 55,
+      "score": 123,
       "url": "https://www.bbc.co.uk/news/articles/cq68j5g2nr1o",
       "time": 1755856941.0,
       "comments_url": "https://news.ycombinator.com/item?id=44982681"
     },
     {
-      "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
-      "score": 1426,
-      "url": "https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/",
-      "time": 1755780796.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44972151"
-    },
-    {
-      "title": "Elegant mathematics bending the future of design",
-      "score": 122,
-      "url": "https://actu.epfl.ch/news/elegant-mathematics-bending-the-future-of-design/",
-      "time": 1755534970.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44942547"
-    },
-    {
-      "title": "My other email client is a daemon",
-      "score": 162,
-      "url": "https://feyor.sh/blog/my-other-email-client-is-a-mail-daemon/",
-      "time": 1755766446.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44970563"
+      "title": "From GPT-4 to GPT-5: Measuring progress through MedHELM [pdf]",
+      "score": 114,
+      "url": "https://www.fertrevino.com/docs/gpt5_medhelm.pdf",
+      "time": 1755816734.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44979107"
     }
   ]
 }
