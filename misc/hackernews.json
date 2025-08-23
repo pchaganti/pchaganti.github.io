@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-08-23T14:14:15.611780-04:00",
+  "last_updated": "2025-08-23T17:09:44.483294-04:00",
   "stories": [
     {
+      "title": "Static sites with Python, uv, Caddy, and Docker",
+      "score": 36,
+      "url": "https://nkantar.com/blog/2025/08/static-python-uv-caddy-docker/",
+      "time": 1755875757.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44985653"
+    },
+    {
+      "title": "How Can AI ID a Cat? An Illustrated Guide",
+      "score": 10,
+      "url": "https://www.quantamagazine.org/how-can-ai-id-a-cat-an-illustrated-guide-20250430/",
+      "time": 1755714988.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44964800"
+    },
+    {
+      "title": "Manim: Animation engine for explanatory math videos",
+      "score": 337,
+      "url": "https://github.com/3b1b/manim",
+      "time": 1755934549.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44994071"
+    },
+    {
+      "title": "Acronis True Image costs performance when not used",
+      "score": 32,
+      "url": "https://randomascii.wordpress.com/2025/05/26/acronis-true-image-costs-performance-when-not-used/",
+      "time": 1755687614.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44960718"
+    },
+    {
+      "title": "Line scan camera image processing for train photography",
+      "score": 72,
+      "url": "https://daniel.lawrence.lu/blog/y2025m09d21/",
+      "time": 1755965361.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44996938"
+    },
+    {
+      "title": "Motion (YC W20) Is Hiring Senior Software Engineers",
+      "score": 1,
+      "url": "https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn",
+      "time": 1755982833.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44999094"
+    },
+    {
+      "title": "Librebox: An open source, Roblox-compatible game engine",
+      "score": 190,
+      "url": "https://github.com/librebox-devs/librebox-demo",
+      "time": 1755948135.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44995147"
+    },
+    {
+      "title": "A 2k-year-old sun hat worn by a Roman soldier in Egypt",
+      "score": 9,
+      "url": "https://www.smithsonianmag.com/smart-news/a-2000-year-old-sun-hat-worn-by-a-roman-soldier-in-egypt-goes-on-view-after-a-century-in-storage-180987192/",
+      "time": 1755977731.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44998514"
+    },
+    {
+      "title": "Texas Instruments' $60B U.S. project, the next iPhone chips fabric",
+      "score": 60,
+      "url": "https://www.cnbc.com/2025/08/22/apple-will-make-chips-at-texas-instruments-60-billion-us-project.html",
+      "time": 1755882896.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44987078"
+    },
+    {
       "title": "RFC 9839 and Bad Unicode",
-      "score": 158,
+      "score": 191,
       "url": "https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839",
       "time": 1755953641.0,
       "comments_url": "https://news.ycombinator.com/item?id=44995640"
     },
     {
       "title": "Writing Speed-of-Light Flash Attention for 5090 in CUDA C++",
-      "score": 90,
+      "score": 111,
       "url": "https://gau-nernst.github.io/fa-5090/",
       "time": 1755952142.0,
       "comments_url": "https://news.ycombinator.com/item?id=44995508"
     },
     {
-      "title": "Manim: Animation engine for explanatory math videos",
-      "score": 287,
-      "url": "https://github.com/3b1b/manim",
-      "time": 1755934549.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44994071"
+      "title": "Children of the Geissler Tube",
+      "score": 17,
+      "url": "https://www.hopefulmons.com/p/children-of-the-geissler-tube",
+      "time": 1755698631.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44962077"
     },
     {
-      "title": "Librebox: An open source, Roblox-compatible game engine",
-      "score": 149,
-      "url": "https://github.com/librebox-devs/librebox-demo",
-      "time": 1755948135.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44995147"
+      "title": "Why was Apache Kafka created?",
+      "score": 74,
+      "url": "https://bigdata.2minutestreaming.com/p/why-was-apache-kafka-created",
+      "time": 1755891101.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44988845"
     },
     {
-      "title": "Libre – An anonymous social experiment without likes, followers, or ads",
-      "score": 9,
-      "url": "https://libreantisocial.com",
-      "time": 1755967792.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44997194"
+      "title": "Optimizing our way through Metroid",
+      "score": 79,
+      "url": "https://antithesis.com/blog/2025/metroid/",
+      "time": 1755870121.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44984599"
     },
     {
-      "title": "I Made a Floppy Disk from Scratch",
-      "score": 118,
-      "url": "https://kottke.org/25/08/i-made-a-floppy-disk-from-scratch",
-      "time": 1755945163.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44994918"
+      "title": "Optimizing FizzBuzz in Rust",
+      "score": 8,
+      "url": "https://github.com/nrposner/fizzcrate",
+      "time": 1755976232.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44998316"
     },
     {
-      "title": "Rethinking the Linux cloud stack for confidential VMs",
-      "score": 83,
-      "url": "https://lwn.net/Articles/1030818/",
-      "time": 1755949155.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44995234"
+      "title": "Practical approach for streaming UI from LLMs",
+      "score": 28,
+      "url": "https://www.timetler.com/2025/08/19/unlocking-rich-ui-components-in-ai/",
+      "time": 1755633100.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44955612"
     },
     {
-      "title": "Bild AI (YC W25) Is Hiring Applied AI Founding Engineer",
-      "score": 1,
-      "url": "https://www.workatastartup.com/jobs/75647",
-      "time": 1755968414.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44997289"
+      "title": "Stepanov's biggest blunder? The curious case of adjacent difference",
+      "score": 14,
+      "url": "https://mmapped.blog/posts/43-stepanovs-biggest-blunder",
+      "time": 1755775859.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44971451"
     },
     {
       "title": "Developer's block",
-      "score": 133,
+      "score": 164,
       "url": "https://underlap.org/developers-block/",
       "time": 1755940826.0,
       "comments_url": "https://news.ycombinator.com/item?id=44994590"
     },
     {
-      "title": "450× Faster Joins with Index Condition Pushdown",
-      "score": 49,
-      "url": "https://readyset.io/blog/optimizing-straddled-joins-in-readyset-from-hash-joins-to-index-condition-pushdown",
-      "time": 1755618217.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44952895"
+      "title": "I made a floppy disk from scratch",
+      "score": 157,
+      "url": "https://kottke.org/25/08/i-made-a-floppy-disk-from-scratch",
+      "time": 1755945163.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44994918"
     },
     {
-      "title": "WebR – R in the Browser",
-      "score": 104,
-      "url": "https://docs.r-wasm.org/webr/latest/",
-      "time": 1755614170.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44952018"
-    },
-    {
-      "title": "Waitgroups: What they are, how to use them and what changed with Go 1.25",
-      "score": 41,
-      "url": "https://mfbmina.dev/en/posts/waitgroups/",
-      "time": 1755962511.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44996623"
-    },
-    {
-      "title": "Lightning declines over shipping lanes following regulation of sulfur emissions",
-      "score": 172,
-      "url": "https://theconversation.com/the-world-regulated-sulfur-in-ship-fuels-and-the-lightning-stopped-249445",
-      "time": 1755588949.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44949172"
-    },
-    {
-      "title": "David Klein's TWA Posters (2018)",
-      "score": 72,
-      "url": "https://flashbak.com/david-kleins-magnificent-twa-posters-404428/",
-      "time": 1755617253.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44952696"
-    },
-    {
-      "title": "Converting an online game to work without any JavaScript",
-      "score": 14,
-      "url": "https://bejofo.com/blog/no-js-game-case-study",
-      "time": 1755617955.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44952836"
-    },
-    {
-      "title": "World Wide Lightning Location Network",
-      "score": 79,
-      "url": "https://wwlln.net/",
-      "time": 1755934844.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44994090"
-    },
-    {
-      "title": "Shader Academy: Learn computer graphics by solving challenges",
-      "score": 219,
-      "url": "https://shaderacademy.com/",
-      "time": 1755688095.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44960750"
-    },
-    {
-      "title": "The JWST Rocky Worlds DDT Program reveals GJ 3929B to likely be a bare rock",
-      "score": 4,
-      "url": "https://arxiv.org/abs/2508.12516",
-      "time": 1755961803.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44996548"
-    },
-    {
-      "title": "My experience creating software with LLM coding agents – Part 2 (Tips)",
-      "score": 162,
-      "url": "https://efitz-thoughts.blogspot.com/2025/08/my-experience-creating-software-with_22.html",
-      "time": 1755910742.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44991884"
-    },
-    {
-      "title": "The first Media over QUIC CDN: Cloudflare",
-      "score": 275,
-      "url": "https://moq.dev/blog/first-cdn/",
-      "time": 1755887056.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44987924"
+      "title": "A simple way to generate random points on a sphere",
+      "score": 40,
+      "url": "https://www.johndcook.com/blog/2025/05/06/random-points-on-a-sphere/",
+      "time": 1755637891.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44956297"
     }
   ]
 }
