@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-08-23T08:20:18.894907-04:00",
+  "last_updated": "2025-08-23T11:09:56.266698-04:00",
   "stories": [
     {
+      "title": "RFC 9839 and Bad Unicode",
+      "score": 94,
+      "url": "https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839",
+      "time": 1755953641.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44995640"
+    },
+    {
       "title": "Manim: Animation engine for explanatory math videos",
-      "score": 118,
+      "score": 208,
       "url": "https://github.com/3b1b/manim",
       "time": 1755934549.0,
       "comments_url": "https://news.ycombinator.com/item?id=44994071"
     },
     {
       "title": "Rethinking the Linux cloud stack for confidential VMs",
-      "score": 10,
+      "score": 60,
       "url": "https://lwn.net/Articles/1030818/",
       "time": 1755949155.0,
       "comments_url": "https://news.ycombinator.com/item?id=44995234"
     },
     {
-      "title": "Developer's block",
-      "score": 59,
-      "url": "https://underlap.org/developers-block/",
-      "time": 1755940826.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44994590"
+      "title": "Librebox: An open source, Roblox-compatible game engine",
+      "score": 70,
+      "url": "https://github.com/librebox-devs/librebox-demo",
+      "time": 1755948135.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44995147"
     },
     {
       "title": "I Made a Floppy Disk from Scratch",
-      "score": 21,
+      "score": 80,
       "url": "https://kottke.org/25/08/i-made-a-floppy-disk-from-scratch",
       "time": 1755945163.0,
       "comments_url": "https://news.ycombinator.com/item?id=44994918"
     },
     {
+      "title": "Writing Speed-of-Light Flash Attention for 5090 in CUDA C++",
+      "score": 27,
+      "url": "https://gau-nernst.github.io/fa-5090/",
+      "time": 1755952142.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44995508"
+    },
+    {
+      "title": "Show HN: I Made the Hardest Focus App",
+      "score": 10,
+      "url": "https://apps.apple.com/us/app/pocket-the-hardest-focus-app/id6746587044",
+      "time": 1755957713.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44996058"
+    },
+    {
+      "title": "Developer's block",
+      "score": 101,
+      "url": "https://underlap.org/developers-block/",
+      "time": 1755940826.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44994590"
+    },
+    {
       "title": "WebR – R in the Browser",
-      "score": 43,
+      "score": 77,
       "url": "https://docs.r-wasm.org/webr/latest/",
       "time": 1755614170.0,
       "comments_url": "https://news.ycombinator.com/item?id=44952018"
     },
     {
-      "title": "The ROI of Exercise",
-      "score": 58,
-      "url": "https://herman.bearblog.dev/exercise/",
-      "time": 1755929955.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44993692"
+      "title": "450× Faster Joins with Index Condition Pushdown",
+      "score": 15,
+      "url": "https://readyset.io/blog/optimizing-straddled-joins-in-readyset-from-hash-joins-to-index-condition-pushdown",
+      "time": 1755618217.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44952895"
     },
     {
-      "title": "World Wide Lightning Location Network",
-      "score": 44,
-      "url": "https://wwlln.net/",
-      "time": 1755934844.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44994090"
-    },
-    {
-      "title": "Building a computer in the 90s (2019)",
-      "score": 19,
-      "url": "https://dfarq.homeip.net/building-a-computer-in-the-90s/",
-      "time": 1755940726.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44994587"
-    },
-    {
-      "title": "Shader Academy: Learn computer graphics by solving challenges",
-      "score": 166,
-      "url": "https://shaderacademy.com/",
-      "time": 1755688095.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44960750"
-    },
-    {
-      "title": "Self-driving cars begin testing on NYC streets",
-      "score": 13,
-      "url": "https://www.amny.com/nyc-transit/self-driving-cars-nyc-first-permit-waymo/",
-      "time": 1755948331.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44995168"
-    },
-    {
-      "title": "I'm too dumb for Zig's new IO interface",
-      "score": 150,
-      "url": "https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/",
-      "time": 1755931178.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44993797"
+      "title": "You can't grow cool-climate plants in hot climates",
+      "score": 88,
+      "url": "https://www.crimepaysbutbotanydoesnt.com/blog/why-you-cant-grow-cool-climate-plants-in-hot-climates",
+      "time": 1755697080.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44961853"
     },
     {
       "title": "Lightning declines over shipping lanes following regulation of sulfur emissions",
-      "score": 77,
+      "score": 133,
       "url": "https://theconversation.com/the-world-regulated-sulfur-in-ship-fuels-and-the-lightning-stopped-249445",
       "time": 1755588949.0,
       "comments_url": "https://news.ycombinator.com/item?id=44949172"
     },
     {
-      "title": "Echidna Enters a New Era of Symbolic Execution",
-      "score": 8,
-      "url": "https://gustavo-grieco.github.io/blog/echidna-symexec/",
-      "time": 1755672223.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44959292"
+      "title": "Shader Academy: Learn computer graphics by solving challenges",
+      "score": 197,
+      "url": "https://shaderacademy.com/",
+      "time": 1755688095.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44960750"
     },
     {
-      "title": "David Klein's TWA Posters (2018)",
-      "score": 25,
-      "url": "https://flashbak.com/david-kleins-magnificent-twa-posters-404428/",
-      "time": 1755617253.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44952696"
+      "title": "World Wide Lightning Location Network",
+      "score": 63,
+      "url": "https://wwlln.net/",
+      "time": 1755934844.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44994090"
     },
     {
-      "title": "The Fancy Rug Dilemma",
-      "score": 20,
-      "url": "https://epan.land/essays/2025-8_FancyRugDilemma",
-      "time": 1755661959.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44958492"
+      "title": "Websites and web developers mostly don't care about client-side problems",
+      "score": 39,
+      "url": "https://utcc.utoronto.ca/~cks/space/blog/web/WebsitesDontCareAboutClients",
+      "time": 1755925751.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44993353"
     },
     {
       "title": "Show HN: JavaScript-free (X)HTML Includes",
-      "score": 162,
+      "score": 182,
       "url": "https://github.com/Evidlo/xsl-website",
       "time": 1755888450.0,
       "comments_url": "https://news.ycombinator.com/item?id=44988271"
     },
     {
-      "title": "Nitro: A tiny but flexible init system and process supervisor",
-      "score": 199,
-      "url": "https://git.vuxu.org/nitro/about/",
-      "time": 1755889589.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44988530"
+      "title": "David Klein's TWA Posters (2018)",
+      "score": 50,
+      "url": "https://flashbak.com/david-kleins-magnificent-twa-posters-404428/",
+      "time": 1755617253.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44952696"
     },
     {
-      "title": "The theory and practice of selling the Aga cooker (1935) [pdf]",
-      "score": 49,
-      "url": "https://comeadwithus.wordpress.com/wp-content/uploads/2012/08/the-theory-and-practice-of-selling-the-aga-cooker.pdf",
-      "time": 1755712320.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44964294"
-    },
-    {
-      "title": "The first Media over QUIC CDN: Cloudflare",
-      "score": 244,
-      "url": "https://moq.dev/blog/first-cdn/",
-      "time": 1755887056.0,
-      "comments_url": "https://news.ycombinator.com/item?id=44987924"
+      "title": "I run a full Linux desktop in Docker just because I can",
+      "score": 152,
+      "url": "https://www.howtogeek.com/i-run-a-full-linux-desktop-in-docker-just-because-i-can/",
+      "time": 1755603587.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44950482"
     },
     {
       "title": "From M1 MacBook to Arch Linux: A month-long experiment that became permanenent",
-      "score": 131,
+      "score": 167,
       "url": "https://www.ssp.sh/blog/macbook-to-arch-linux-omarchy/",
       "time": 1755635106.0,
       "comments_url": "https://news.ycombinator.com/item?id=44955923"
+    },
+    {
+      "title": "The first Media over QUIC CDN: Cloudflare",
+      "score": 265,
+      "url": "https://moq.dev/blog/first-cdn/",
+      "time": 1755887056.0,
+      "comments_url": "https://news.ycombinator.com/item?id=44987924"
     }
   ]
 }
