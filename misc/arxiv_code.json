@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-24T17:09:59.894076-04:00",
+  "last_updated": "2025-08-24T20:58:49.191091-04:00",
   "papers": [
     {
       "title": "CineScale: Free Lunch in High-Resolution Cinematic Visual Generation",
@@ -52,7 +52,7 @@
     {
       "title": "MapKD: Unlocking Prior Knowledge with Cross-Modal Distillation for\n  Efficient Online HD Map Construction",
       "summary": "Online HD map construction is a fundamental task in autonomous driving\nsystems, aiming to acquire semantic information of map elements around the ego\nvehicle based on real-time sensor inputs. Recently, several approaches have\nachieved promising results by incorporating offline priors such as SD maps and\nHD maps or by fusing multi-modal data. However, these methods depend on stale\noffline maps and multi-modal sensor suites, resulting in avoidable\ncomputational overhead at inference. To address these limitations, we employ a\nknowledge distillation strategy to transfer knowledge from multimodal models\nwith prior knowledge to an efficient, low-cost, and vision-centric student\nmodel. Specifically, we propose MapKD, a novel multi-level cross-modal\nknowledge distillation framework with an innovative Teacher-Coach-Student (TCS)\nparadigm. This framework consists of: (1) a camera-LiDAR fusion model with\nSD/HD map priors serving as the teacher; (2) a vision-centric coach model with\nprior knowledge and simulated LiDAR to bridge the cross-modal knowledge\ntransfer gap; and (3) a lightweight vision-based student model. Additionally,\nwe introduce two targeted knowledge distillation strategies: Token-Guided 2D\nPatch Distillation (TGPD) for bird's eye view feature alignment and Masked\nSemantic Response Distillation (MSRD) for semantic learning guidance. Extensive\nexperiments on the challenging nuScenes dataset demonstrate that MapKD improves\nthe student model by +6.68 mIoU and +10.94 mAP while simultaneously\naccelerating inference speed. The code is available\nat:https://github.com/2004yan/MapKD2026.",
-      "url": "http://arxiv.org/abs/2508.15653v1",
+      "url": "http://arxiv.org/abs/2508.15653v2",
       "published_time_eastern_timestamp": 1755790638.0
     },
     {
