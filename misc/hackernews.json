@@ -1,54 +1,96 @@
 {
-  "last_updated": "2025-09-01T14:15:35.832619-04:00",
+  "last_updated": "2025-09-01T17:09:45.509453-04:00",
   "stories": [
     {
-      "title": "93% of GPT-4 performance at 1/4 cost: LLM routing with weak bandit feedback",
-      "score": 75,
+      "title": "Patrick Winston: How to Speak (2018) [video]",
+      "score": 74,
+      "url": "https://www.youtube.com/watch?v=Unzc731iCUY",
+      "time": 1756755137.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45095849"
+    },
+    {
+      "title": "Adaptive LLM routing under budget constraints",
+      "score": 134,
       "url": "https://arxiv.org/abs/2508.21141",
       "time": 1756745858.0,
       "comments_url": "https://news.ycombinator.com/item?id=45094421"
     },
     {
+      "title": "Thoughts on (Amazonian) leadership",
+      "score": 52,
+      "url": "https://www.daemonology.net/blog/2025-09-01-Thoughts-on-Amazonian-Leadership.html",
+      "time": 1756752999.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45095545"
+    },
+    {
+      "title": "Implementing a Foil Sticker Effect",
+      "score": 60,
+      "url": "https://www.4rknova.com/blog/2025/08/30/foil-sticker",
+      "time": 1756752441.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45095460"
+    },
+    {
+      "title": "Towards Memory Specialization: A Case for Long-Term and Short-Term RAM",
+      "score": 10,
+      "url": "https://arxiv.org/abs/2508.02992",
+      "time": 1756757138.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45096140"
+    },
+    {
       "title": "Cloudflare Radar: AI Insights",
-      "score": 190,
+      "score": 247,
       "url": "https://radar.cloudflare.com/ai-insights",
       "time": 1756738165.0,
       "comments_url": "https://news.ycombinator.com/item?id=45093090"
     },
     {
       "title": "Making Minecraft Spherical",
-      "score": 370,
+      "score": 492,
       "url": "https://www.bowerbyte.com/posts/blocky-planet/",
       "time": 1756404754.0,
       "comments_url": "https://news.ycombinator.com/item?id=45055205"
     },
     {
-      "title": "Ask HN: Who is hiring? (September 2025)",
-      "score": 67,
-      "url": "https://news.ycombinator.com/item?id=45093192",
-      "time": 1756738862.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45093192"
-    },
-    {
-      "title": "Effective learning: Rules of formulating knowledge (1999)",
-      "score": 54,
-      "url": "https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge",
-      "time": 1756737817.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45093022"
+      "title": "The ABC Programming Language",
+      "score": 21,
+      "url": "https://homepages.cwi.nl/~steven/abc/",
+      "time": 1756421865.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45057974"
     },
     {
       "title": "Bear is now source-available",
-      "score": 130,
+      "score": 240,
       "url": "https://herman.bearblog.dev/license/",
       "time": 1756732676.0,
       "comments_url": "https://news.ycombinator.com/item?id=45092490"
     },
     {
-      "title": "Search engine referral report for 2025 Q2",
-      "score": 50,
-      "url": "https://radar.cloudflare.com/reports/search-engine-market-share-2025-q2",
-      "time": 1756741676.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45093693"
+      "title": "Ask HN: Who is hiring? (September 2025)",
+      "score": 113,
+      "url": "https://news.ycombinator.com/item?id=45093192",
+      "time": 1756738862.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45093192"
+    },
+    {
+      "title": "One of Britain's largest stocks of second-hand books ever amassed",
+      "score": 44,
+      "url": "https://www.worldofinteriors.com/story/richard-axe-second-hand-books-yorkshire",
+      "time": 1756747508.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45094692"
+    },
+    {
+      "title": "The future of 32-bit support in the kernel",
+      "score": 66,
+      "url": "https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/",
+      "time": 1756752502.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45095475"
+    },
+    {
+      "title": "Effective learning: Rules of formulating knowledge (1999)",
+      "score": 82,
+      "url": "https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge",
+      "time": 1756737817.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45093022"
     },
     {
       "title": "Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam)",
@@ -58,88 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=45094471"
     },
     {
-      "title": "AI enters the grant game, picking winners",
-      "score": 61,
-      "url": "https://www.science.org/content/article/ai-enters-grant-game-picking-winners",
-      "time": 1756736472.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45092880"
+      "title": "The Physics of Sales",
+      "score": 4,
+      "url": "https://howtogrow.substack.com/p/the-physics-of-sales",
+      "time": 1756757865.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45096254"
     },
     {
-      "title": "Google AI Overview made up an elaborate story about me",
-      "score": 358,
-      "url": "https://bsky.app/profile/bennjordan.bsky.social/post/3lxojrbessk2z",
-      "time": 1756736837.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45092925"
+      "title": "F1 in Hungary: Strategy and fast tire changes make all the difference",
+      "score": 7,
+      "url": "https://arstechnica.com/cars/2025/08/f1-in-hungary-strategy-and-fast-tire-changes-make-all-the-difference/",
+      "time": 1756424233.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45058246"
+    },
+    {
+      "title": "Ask HN: Who wants to be hired? (September 2025)",
+      "score": 54,
+      "url": "https://news.ycombinator.com/item?id=45093190",
+      "time": 1756738862.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45093190"
     },
     {
       "title": "CocoaPods trunk read-only plan",
-      "score": 211,
+      "score": 220,
       "url": "https://blog.cocoapods.org/CocoaPods-Specs-Repo/",
       "time": 1756723165.0,
       "comments_url": "https://news.ycombinator.com/item?id=45091493"
     },
     {
-      "title": "Isolated(any)",
-      "score": 18,
-      "url": "https://nshipster.com/isolated-any/",
-      "time": 1756741030.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45093590"
-    },
-    {
-      "title": "The time picker on the iPhone's alarm app isn't circular, it's just a long list",
-      "score": 113,
-      "url": "https://old.reddit.com/r/interestingasfuck/comments/1n5lztw/the_time_picker_on_the_iphones_alarm_app_isnt/",
-      "time": 1756742064.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45093765"
+      "title": "SparseLoCo: Communication-Efficient LLM Training",
+      "score": 7,
+      "url": "https://arxiv.org/abs/2508.15706",
+      "time": 1756754532.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45095763"
     },
     {
       "title": "A review of Nim 2: The good and bad with example code",
-      "score": 169,
+      "score": 194,
       "url": "https://miguel-martin.com/blog/nim2-review",
       "time": 1756419910.0,
       "comments_url": "https://news.ycombinator.com/item?id=45057734"
-    },
-    {
-      "title": "An adventure in writing compatible systems",
-      "score": 12,
-      "url": "https://turso.tech/blog/an-adventure-in-writing-compatible-systems",
-      "time": 1756438715.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45059888"
-    },
-    {
-      "title": "Tetris is NP-hard even with O(1) rows or columns (2020) [pdf]",
-      "score": 52,
-      "url": "https://martindemaine.org/papers/ThinTetris_JIP/paper.pdf",
-      "time": 1756730997.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45092324"
-    },
-    {
-      "title": "Git for Music – Using Version Control for Music Production (2023)",
-      "score": 46,
-      "url": "https://grechin.org/2023/05/06/git-and-reaper.html",
-      "time": 1756736589.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45092895"
-    },
-    {
-      "title": "A Unique, High-Tech (Family) Computer",
-      "score": 10,
-      "url": "https://nicole.express/2025/a-computer-in-your-home.html",
-      "time": 1756743184.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45093956"
-    },
-    {
-      "title": "Can You Develop Film in a Jägerbomb?",
-      "score": 5,
-      "url": "https://petapixel.com/2025/08/04/can-you-develop-film-in-a-jagerbomb/",
-      "time": 1756433545.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45059272"
-    },
-    {
-      "title": "India's billion-dollar e-waste empire",
-      "score": 63,
-      "url": "https://restofworld.org/2025/india-e-waste-recycling-electronics/",
-      "time": 1756453974.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45061376"
     }
   ]
 }
