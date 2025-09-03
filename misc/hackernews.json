@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-09-03T11:12:31.119907-04:00",
+  "last_updated": "2025-09-03T14:15:57.952984-04:00",
   "stories": [
     {
-      "title": "Voyager is an interactive video generation model with realtime 3D reconstruction",
-      "score": 201,
-      "url": "https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager",
-      "time": 1756897636.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45114379"
+      "title": "Claude Code: Now in Beta in Zed",
+      "score": 223,
+      "url": "https://zed.dev/blog/claude-code-via-acp",
+      "time": 1756912040.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45116688"
     },
     {
-      "title": "Microsoft VibeVoice: A Frontier Open-Source Text-to-Speech Model",
-      "score": 190,
+      "title": "Who Owns, Operates, and Develops Your VPN Matters",
+      "score": 69,
+      "url": "https://www.opentech.fund/news/who-owns-operates-and-develops-your-vpn-matters-an-analysis-of-transparency-vs-anonymity-in-the-vpn-ecosystem-and-implications-for-users/",
+      "time": 1756918265.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45117974"
+    },
+    {
+      "title": "Nuclear: Desktop music player focused on streaming from free sources",
+      "score": 102,
+      "url": "https://github.com/nukeop/nuclear",
+      "time": 1756914852.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45117230"
+    },
+    {
+      "title": "Microsoft Releases Historic 6502 Basic",
+      "score": 30,
+      "url": "https://github.com/microsoft/BASIC-M6502",
+      "time": 1756920512.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45118392"
+    },
+    {
+      "title": "Speeding up PyTorch inference by 87% on Apple with AI-generated Metal kernels",
+      "score": 40,
+      "url": "https://gimletlabs.ai/blog/ai-generated-metal-kernels",
+      "time": 1756919015.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45118111"
+    },
+    {
+      "title": "VibeVoice: A Frontier Open-Source Text-to-Speech Model",
+      "score": 309,
       "url": "https://microsoft.github.io/VibeVoice/",
       "time": 1756896241.0,
       "comments_url": "https://news.ycombinator.com/item?id=45114245"
     },
     {
-      "title": "For all that's holy, can you just leverage the Web, please?",
-      "score": 34,
-      "url": "https://blog.tomayac.com/2025/09/03/for-all-thats-holy-can-you-just-leverage-the-web-please/",
-      "time": 1756906182.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45115550"
+      "title": "Writing a C compiler in 500 lines of Python",
+      "score": 25,
+      "url": "https://vgel.me/posts/c500/",
+      "time": 1756916903.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45117668"
+    },
+    {
+      "title": "A Random Walk in 10 Dimensions (2021)",
+      "score": 50,
+      "url": "https://galileo-unbound.blog/2021/06/28/a-random-walk-in-10-dimensions/",
+      "time": 1756912834.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45116849"
+    },
+    {
+      "title": "Svix (webhooks as a service) is hiring for a founding marketing lead",
+      "score": 1,
+      "url": "https://www.svix.com/careers/?ashby_jid=ca9d34d5-94c9-4729-836a-423725ee8b22",
+      "time": 1756918804.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45118072"
     },
     {
       "title": "Building the most accurate DIY CNC lathe in the world [video]",
-      "score": 32,
+      "score": 87,
       "url": "https://www.youtube.com/watch?v=vEr2CJruwEM",
       "time": 1756907234.0,
       "comments_url": "https://news.ycombinator.com/item?id=45115760"
     },
     {
+      "title": "Understanding Transformers Using a Minimal Example",
+      "score": 31,
+      "url": "https://rti.github.io/gptvis/",
+      "time": 1756913406.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45116957"
+    },
+    {
+      "title": "What Is It Like to Be a Bat?",
+      "score": 8,
+      "url": "https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F",
+      "time": 1756921707.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45118592"
+    },
+    {
+      "title": "Poor man's bitemporal data system in SQLite and Clojure",
+      "score": 8,
+      "url": "https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html",
+      "time": 1756921670.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45118585"
+    },
+    {
+      "title": "Launch HN: Risely (YC S25) – AI Agents for Universities",
+      "score": 22,
+      "url": "https://news.ycombinator.com/item?id=45116859",
+      "time": 1756912895.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45116859"
+    },
+    {
+      "title": "The wall confronting large language models",
+      "score": 17,
+      "url": "https://arxiv.org/abs/2507.19703",
+      "time": 1756899641.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45114579"
+    },
+    {
       "title": "John Coltrane's Tone Circle",
-      "score": 62,
+      "score": 105,
       "url": "https://roelsworld.eu/blog-saxophone/coltrane-tone-circle/",
       "time": 1756903127.0,
       "comments_url": "https://news.ycombinator.com/item?id=45115004"
     },
     {
+      "title": "Voyager is an interactive video generation model with realtime 3D reconstruction",
+      "score": 258,
+      "url": "https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager",
+      "time": 1756897636.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45114379"
+    },
+    {
       "title": "The 16-year odyssey it took to emulate the Pioneer LaserActive",
-      "score": 151,
+      "score": 198,
       "url": "https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/",
       "time": 1756893731.0,
       "comments_url": "https://news.ycombinator.com/item?id=45114003"
     },
     {
-      "title": "Airbus B612 Cockpit Font",
-      "score": 13,
-      "url": "https://github.com/polarsys/b612",
-      "time": 1756908148.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45115942"
+      "title": "Ask HN: Looking for Headless CMS Recommendation",
+      "score": 28,
+      "url": "https://news.ycombinator.com/item?id=45081752",
+      "time": 1756631992.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45081752"
     },
     {
-      "title": "Today, I learned that eels are fish",
-      "score": 24,
-      "url": "https://eocampaign1.com/web-version?p=495827fa-8295-11f0-8687-8f5da38390bd&pt=campaign&t=1756227062&s=033ffe0494c7a7084332eb6e164c4feeeb6b4612e0de0df1aa1bf5fd59ce2d08",
-      "time": 1756908138.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45115941"
-    },
-    {
-      "title": "How to Give a Good Talk",
-      "score": 114,
-      "url": "https://blog.sigplan.org/2025/03/31/how-to-give-a-good-talk/",
-      "time": 1756579328.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45076992"
-    },
-    {
-      "title": "With AI Boom, Dell's Datacenter Biz Is Finally Bigger Than Its PC Biz",
-      "score": 61,
-      "url": "https://www.nextplatform.com/2025/08/29/with-ai-boom-dells-datacenter-biz-is-finally-bigger-than-its-pc-biz/",
-      "time": 1756565338.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45075123"
-    },
-    {
-      "title": "Magic Lantern Is Back",
-      "score": 383,
-      "url": "https://www.magiclantern.fm/forum/index.php?topic=27315.0",
-      "time": 1756590778.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45078315"
-    },
-    {
-      "title": "Dynamo AI (YC W22) Is Hiring for AI Product Managers",
-      "score": 1,
-      "url": "https://www.ycombinator.com/companies/dynamo-ai/jobs/tt5OVwf-product-manager-ai",
-      "time": 1756900811.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45114715"
-    },
-    {
-      "title": "MIT Study Finds AI Use Reprograms the Brain, Leading to Cognitive Decline",
-      "score": 286,
-      "url": "https://publichealthpolicyjournal.com/mit-study-finds-artificial-intelligence-use-reprograms-the-brain-leading-to-cognitive-decline/",
-      "time": 1756901179.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45114753"
-    },
-    {
-      "title": "Kernel-hack-drill and exploiting CVE-2024-50264 in the Linux kernel",
-      "score": 180,
-      "url": "https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html",
-      "time": 1756882731.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45112996"
-    },
-    {
-      "title": "Energy Dashboard (UK)",
-      "score": 75,
-      "url": "https://www.energydashboard.co.uk/map",
-      "time": 1756896588.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45114277"
-    },
-    {
-      "title": "Lit: a library for building fast, lightweight web components",
-      "score": 187,
-      "url": "https://lit.dev",
-      "time": 1756880062.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45112720"
-    },
-    {
-      "title": "Abstract Machine Models Also: what Rust got particularly right",
-      "score": 12,
-      "url": "https://dr-knz.net/abstract-machine-models.html",
-      "time": 1756606810.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45079767"
-    },
-    {
-      "title": "Finding thousands of exposed Ollama instances using Shodan",
-      "score": 85,
-      "url": "https://blogs.cisco.com/security/detecting-exposed-llm-servers-shodan-case-study-on-ollama",
-      "time": 1756887487.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45113418"
-    },
-    {
-      "title": "Sharing a mutable reference between Rust and Python",
-      "score": 11,
-      "url": "https://blog.lilyf.org/posts/python-mutable-reference/",
-      "time": 1756906225.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45115557"
-    },
-    {
-      "title": "%CPU utilization is a lie",
-      "score": 374,
-      "url": "https://www.brendanlong.com/cpu-utilization-is-a-lie.html",
-      "time": 1756857662.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45110688"
+      "title": "Vector search on our codebase transformed our SDLC automation",
+      "score": 6,
+      "url": "https://medium.com/@antonybrahin/grounding-ai-in-reality-how-vector-search-on-our-codebase-transformed-our-sdlc-automation-7d068b1244a8",
+      "time": 1756821507.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45103205"
     }
   ]
 }
