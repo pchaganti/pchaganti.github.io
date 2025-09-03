@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-02T20:52:20.467989-04:00",
+  "last_updated": "2025-09-02T23:21:18.097123-04:00",
   "papers": [
     {
       "title": "Automated Clinical Problem Detection from SOAP Notes using a\n  Collaborative Multi-Agent LLM Architecture",
@@ -100,7 +100,7 @@
     {
       "title": "Contrarian Motives in Social Learning: Information Cascades with\n  Nonconformist Preferences",
       "summary": "We embed a taste for nonconformism into a canonical\nBikhchandani-Hirshleifer-Welch social-learning model. Agents value both\ncorrectness and choosing the minority action (fixed or proportion-based bonus).\nWe study exogenous signals and endogenous acquisition with a fixed entry cost\nand convex cost of precision in a Gaussian-quadratic specification. Contrarian\nmotives shift equilibrium cutoffs away from 1/2 and expand the belief region\nwhere information is purchased, sustaining informative actions; conditional on\ninvesting, chosen precision is lower near central beliefs. Welfare is shaped by\na trade-off: mild contrarianism counteracts premature herding, whereas strong\ncontrarianism steers actions against informative social signals and induces\nlow-value experimentation. A tractable characterization delivers closed-form\ncutoffs, comparative statics, and transparent welfare comparisons. Applications\ninclude scientific priority races and academic diffusion, where distinctiveness\nyields rents yet excessive contrarianism erodes information aggregation.",
-      "url": "http://arxiv.org/abs/2508.21446v1",
+      "url": "http://arxiv.org/abs/2508.21446v2",
       "published_time_eastern_timestamp": 1756458874.0
     },
     {
