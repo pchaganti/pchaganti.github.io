@@ -1,44 +1,79 @@
 {
-  "last_updated": "2025-09-03T08:22:07.945663-04:00",
+  "last_updated": "2025-09-03T11:12:31.119907-04:00",
   "stories": [
     {
-      "title": "The 16-year odyssey it took to emulate the Pioneer LaserActive",
-      "score": 74,
-      "url": "https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/",
-      "time": 1756893731.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45114003"
-    },
-    {
-      "title": "Energy Dashboard (UK)",
-      "score": 32,
-      "url": "https://www.energydashboard.co.uk/map",
-      "time": 1756896588.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45114277"
-    },
-    {
-      "title": "Microsoft VibeVoice: A Frontier Open-Source Text-to-Speech Model",
-      "score": 40,
-      "url": "https://microsoft.github.io/VibeVoice/",
-      "time": 1756896241.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45114245"
-    },
-    {
-      "title": "Tencent Open Sourced a 3D World Model",
-      "score": 30,
+      "title": "Voyager is an interactive video generation model with realtime 3D reconstruction",
+      "score": 201,
       "url": "https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager",
       "time": 1756897636.0,
       "comments_url": "https://news.ycombinator.com/item?id=45114379"
     },
     {
-      "title": "Kernel-hack-drill and exploiting CVE-2024-50264 in the Linux kernel",
-      "score": 139,
-      "url": "https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html",
-      "time": 1756882731.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45112996"
+      "title": "Microsoft VibeVoice: A Frontier Open-Source Text-to-Speech Model",
+      "score": 190,
+      "url": "https://microsoft.github.io/VibeVoice/",
+      "time": 1756896241.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45114245"
+    },
+    {
+      "title": "For all that's holy, can you just leverage the Web, please?",
+      "score": 34,
+      "url": "https://blog.tomayac.com/2025/09/03/for-all-thats-holy-can-you-just-leverage-the-web-please/",
+      "time": 1756906182.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45115550"
+    },
+    {
+      "title": "Building the most accurate DIY CNC lathe in the world [video]",
+      "score": 32,
+      "url": "https://www.youtube.com/watch?v=vEr2CJruwEM",
+      "time": 1756907234.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45115760"
+    },
+    {
+      "title": "John Coltrane's Tone Circle",
+      "score": 62,
+      "url": "https://roelsworld.eu/blog-saxophone/coltrane-tone-circle/",
+      "time": 1756903127.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45115004"
+    },
+    {
+      "title": "The 16-year odyssey it took to emulate the Pioneer LaserActive",
+      "score": 151,
+      "url": "https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/",
+      "time": 1756893731.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45114003"
+    },
+    {
+      "title": "Airbus B612 Cockpit Font",
+      "score": 13,
+      "url": "https://github.com/polarsys/b612",
+      "time": 1756908148.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45115942"
+    },
+    {
+      "title": "Today, I learned that eels are fish",
+      "score": 24,
+      "url": "https://eocampaign1.com/web-version?p=495827fa-8295-11f0-8687-8f5da38390bd&pt=campaign&t=1756227062&s=033ffe0494c7a7084332eb6e164c4feeeb6b4612e0de0df1aa1bf5fd59ce2d08",
+      "time": 1756908138.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45115941"
+    },
+    {
+      "title": "How to Give a Good Talk",
+      "score": 114,
+      "url": "https://blog.sigplan.org/2025/03/31/how-to-give-a-good-talk/",
+      "time": 1756579328.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45076992"
+    },
+    {
+      "title": "With AI Boom, Dell's Datacenter Biz Is Finally Bigger Than Its PC Biz",
+      "score": 61,
+      "url": "https://www.nextplatform.com/2025/08/29/with-ai-boom-dells-datacenter-biz-is-finally-bigger-than-its-pc-biz/",
+      "time": 1756565338.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45075123"
     },
     {
       "title": "Magic Lantern Is Back",
-      "score": 278,
+      "score": 383,
       "url": "https://www.magiclantern.fm/forum/index.php?topic=27315.0",
       "time": 1756590778.0,
       "comments_url": "https://news.ycombinator.com/item?id=45078315"
@@ -51,95 +86,60 @@
       "comments_url": "https://news.ycombinator.com/item?id=45114715"
     },
     {
-      "title": "How to Give a Good Talk",
-      "score": 42,
-      "url": "https://blog.sigplan.org/2025/03/31/how-to-give-a-good-talk/",
-      "time": 1756579328.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45076992"
+      "title": "MIT Study Finds AI Use Reprograms the Brain, Leading to Cognitive Decline",
+      "score": 286,
+      "url": "https://publichealthpolicyjournal.com/mit-study-finds-artificial-intelligence-use-reprograms-the-brain-leading-to-cognitive-decline/",
+      "time": 1756901179.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45114753"
     },
     {
-      "title": "Finding thousands of exposed Ollama instances using Shodan",
-      "score": 51,
-      "url": "https://blogs.cisco.com/security/detecting-exposed-llm-servers-shodan-case-study-on-ollama",
-      "time": 1756887487.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45113418"
+      "title": "Kernel-hack-drill and exploiting CVE-2024-50264 in the Linux kernel",
+      "score": 180,
+      "url": "https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html",
+      "time": 1756882731.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45112996"
     },
     {
-      "title": "AI is going great for the blind (2023)",
-      "score": 51,
-      "url": "https://robertkingett.com/posts/6230/",
-      "time": 1756883223.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45113043"
-    },
-    {
-      "title": "With AI Boom, Dell's Datacenter Biz Is Finally Bigger Than Its PC Biz",
-      "score": 11,
-      "url": "https://www.nextplatform.com/2025/08/29/with-ai-boom-dells-datacenter-biz-is-finally-bigger-than-its-pc-biz/",
-      "time": 1756565338.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45075123"
-    },
-    {
-      "title": "%CPU utilization is a lie",
-      "score": 323,
-      "url": "https://www.brendanlong.com/cpu-utilization-is-a-lie.html",
-      "time": 1756857662.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45110688"
-    },
-    {
-      "title": "This blog is running on a recycled Google Pixel 5 (2024)",
-      "score": 259,
-      "url": "https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/",
-      "time": 1756853903.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45110209"
-    },
-    {
-      "title": "TPDE-LLVM: Faster LLVM -O0 Back-End",
-      "score": 131,
-      "url": "https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664",
-      "time": 1756536930.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45072481"
-    },
-    {
-      "title": "Amazonq.nvim: Official AWS AI Assistant Plugin for Neovim",
-      "score": 33,
-      "url": "https://github.com/awslabs/amazonq.nvim",
-      "time": 1756885630.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45113251"
-    },
-    {
-      "title": "A staff engineer's journey with Claude Code",
-      "score": 424,
-      "url": "https://www.sanity.io/blog/first-attempt-will-be-95-garbage",
-      "time": 1756841664.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45107962"
-    },
-    {
-      "title": "Comic Sans typeball designed to work with the IBM Selectric typewriters",
-      "score": 97,
-      "url": "https://www.printables.com/model/441233-comic-sans-typeball-for-the-ibm-selectric-typewrit",
-      "time": 1756869185.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45111909"
+      "title": "Energy Dashboard (UK)",
+      "score": 75,
+      "url": "https://www.energydashboard.co.uk/map",
+      "time": 1756896588.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45114277"
     },
     {
       "title": "Lit: a library for building fast, lightweight web components",
-      "score": 134,
+      "score": 187,
       "url": "https://lit.dev",
       "time": 1756880062.0,
       "comments_url": "https://news.ycombinator.com/item?id=45112720"
     },
     {
-      "title": "We already live in social credit, we just don't call it that",
-      "score": 338,
-      "url": "https://www.thenexus.media/your-phone-already-has-social-credit-we-just-lie-about-it/",
-      "time": 1756833291.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45106011"
+      "title": "Abstract Machine Models Also: what Rust got particularly right",
+      "score": 12,
+      "url": "https://dr-knz.net/abstract-machine-models.html",
+      "time": 1756606810.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45079767"
     },
     {
-      "title": "Lisp interpreter with GC in <750 lines of Odin (and <500 lines of C)",
-      "score": 72,
-      "url": "https://github.com/krig/LISP",
-      "time": 1756596932.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45078962"
+      "title": "Finding thousands of exposed Ollama instances using Shodan",
+      "score": 85,
+      "url": "https://blogs.cisco.com/security/detecting-exposed-llm-servers-shodan-case-study-on-ollama",
+      "time": 1756887487.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45113418"
+    },
+    {
+      "title": "Sharing a mutable reference between Rust and Python",
+      "score": 11,
+      "url": "https://blog.lilyf.org/posts/python-mutable-reference/",
+      "time": 1756906225.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45115557"
+    },
+    {
+      "title": "%CPU utilization is a lie",
+      "score": 374,
+      "url": "https://www.brendanlong.com/cpu-utilization-is-a-lie.html",
+      "time": 1756857662.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45110688"
     }
   ]
 }
