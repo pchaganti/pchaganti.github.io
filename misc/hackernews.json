@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-09-03T02:16:58.384207-04:00",
+  "last_updated": "2025-09-03T05:11:59.908336-04:00",
   "stories": [
     {
+      "title": "Kernel-hack-drill and exploiting CVE-2024-50264 in the Linux kernel",
+      "score": 73,
+      "url": "https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html",
+      "time": 1756882731.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45112996"
+    },
+    {
       "title": "Google can keep its Chrome browser but will be barred from exclusive contracts",
-      "score": 640,
+      "score": 735,
       "url": "https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html",
       "time": 1756844807.0,
       "comments_url": "https://news.ycombinator.com/item?id=45108548"
     },
     {
+      "title": "Lit: a library for building fast, lightweight web components",
+      "score": 74,
+      "url": "https://lit.dev",
+      "time": 1756880062.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45112720"
+    },
+    {
+      "title": "Magic Lantern Is Back",
+      "score": 167,
+      "url": "https://www.magiclantern.fm/forum/index.php?topic=27315.0",
+      "time": 1756590778.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45078315"
+    },
+    {
+      "title": "Amazonq.nvim: Official AWS AI Assistant Plugin for Neovim",
+      "score": 14,
+      "url": "https://github.com/awslabs/amazonq.nvim",
+      "time": 1756885630.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45113251"
+    },
+    {
       "title": "%CPU utilization is a lie",
-      "score": 197,
+      "score": 275,
       "url": "https://www.brendanlong.com/cpu-utilization-is-a-lie.html",
       "time": 1756857662.0,
       "comments_url": "https://news.ycombinator.com/item?id=45110688"
     },
     {
       "title": "10-20x Faster LLVM -O0 Back-End – Code Generation",
-      "score": 54,
+      "score": 111,
       "url": "https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664",
       "time": 1756536930.0,
       "comments_url": "https://news.ycombinator.com/item?id=45072481"
     },
     {
-      "title": "Comic Sans typeball designed to work with the IBM Selectric typewriters",
-      "score": 34,
-      "url": "https://www.printables.com/model/441233-comic-sans-typeball-for-the-ibm-selectric-typewrit",
-      "time": 1756869185.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45111909"
-    },
-    {
       "title": "This blog is running on a recycled Google Pixel 5 (2024)",
-      "score": 166,
+      "score": 222,
       "url": "https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/",
       "time": 1756853903.0,
       "comments_url": "https://news.ycombinator.com/item?id=45110209"
     },
     {
+      "title": "Comic Sans typeball designed to work with the IBM Selectric typewriters",
+      "score": 70,
+      "url": "https://www.printables.com/model/441233-comic-sans-typeball-for-the-ibm-selectric-typewrit",
+      "time": 1756869185.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45111909"
+    },
+    {
+      "title": "Finnish City Inaugurates 1 MW/100 MWh Sand Battery",
+      "score": 113,
+      "url": "https://cleantechnica.com/2025/08/30/finnish-city-inaugurates-1-mw-100-mwh-sand-battery/",
+      "time": 1756879247.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45112653"
+    },
+    {
       "title": "Lisp interpreter with GC in <750 lines of Odin (and <500 lines of C)",
-      "score": 30,
+      "score": 54,
       "url": "https://github.com/krig/LISP",
       "time": 1756596932.0,
       "comments_url": "https://news.ycombinator.com/item?id=45078962"
     },
     {
-      "title": "Magic Lantern Is Back",
-      "score": 32,
-      "url": "https://www.magiclantern.fm/forum/index.php?topic=27315.0",
-      "time": 1756590778.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45078315"
+      "title": "The Middle Earth",
+      "score": 14,
+      "url": "https://www.historytoday.com/archive/out-margins/real-middle-earth",
+      "time": 1756562969.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45074827"
     },
     {
-      "title": "A staff engineer's journey with Claude Code",
-      "score": 322,
-      "url": "https://www.sanity.io/blog/first-attempt-will-be-95-garbage",
-      "time": 1756841664.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45107962"
+      "title": "AI is going great for the blind",
+      "score": 7,
+      "url": "https://robertkingett.com/posts/6230/",
+      "time": 1756883223.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45113043"
     },
     {
       "title": "Making a Linux home server sleep on idle and wake on demand (2023)",
-      "score": 188,
+      "score": 235,
       "url": "https://dgross.ca/blog/linux-home-server-auto-sleep",
       "time": 1756842168.0,
       "comments_url": "https://news.ycombinator.com/item?id=45108066"
     },
     {
       "title": "The staff ate it later",
-      "score": 242,
+      "score": 304,
       "url": "https://en.wikipedia.org/wiki/The_staff_ate_it_later",
       "time": 1756826688.0,
       "comments_url": "https://news.ycombinator.com/item?id=45104289"
     },
     {
+      "title": "A staff engineer's journey with Claude Code",
+      "score": 369,
+      "url": "https://www.sanity.io/blog/first-attempt-will-be-95-garbage",
+      "time": 1756841664.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45107962"
+    },
+    {
       "title": "The Little Book of Linear Algebra",
-      "score": 340,
+      "score": 379,
       "url": "https://github.com/the-litte-book-of/linear-algebra",
       "time": 1756822627.0,
       "comments_url": "https://news.ycombinator.com/item?id=45103436"
     },
     {
       "title": "Physically based rendering from first principles",
-      "score": 188,
+      "score": 213,
       "url": "https://imadr.me/pbr/",
       "time": 1756836442.0,
       "comments_url": "https://news.ycombinator.com/item?id=45106846"
     },
     {
       "title": "Introduction to Ada: a project-based exploration with rosettas",
-      "score": 166,
+      "score": 173,
       "url": "https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas",
       "time": 1756834328.0,
       "comments_url": "https://news.ycombinator.com/item?id=45106314"
     },
     {
       "title": "<template>: The Content Template element",
-      "score": 179,
+      "score": 191,
       "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/template",
       "time": 1756833402.0,
       "comments_url": "https://news.ycombinator.com/item?id=45106049"
-    },
-    {
-      "title": "Static sites enable a good time travel experience",
-      "score": 163,
-      "url": "https://hamatti.org/posts/static-sites-enable-a-good-time-travel-experience/",
-      "time": 1756826744.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45104303"
-    },
-    {
-      "title": "Zig Software Foundation 2025 Financial Report and Fundraiser",
-      "score": 68,
-      "url": "https://ziglang.org/news/2025-financials/",
-      "time": 1756863947.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45111405"
-    },
-    {
-      "title": "'World Models,' an old idea in AI, mount a comeback",
-      "score": 165,
-      "url": "https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/",
-      "time": 1756832009.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45105710"
-    },
-    {
-      "title": "Launch HN: Datafruit (YC S25) – AI for DevOps",
-      "score": 54,
-      "url": "https://news.ycombinator.com/item?id=45104974",
-      "time": 1756829311.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45104974"
-    },
-    {
-      "title": "Untangling the myths and mysteries of Dvorak and QWERTY (2023)",
-      "score": 56,
-      "url": "https://aresluna.org/the-primitive-tortureboard/",
-      "time": 1756475973.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45064241"
-    },
-    {
-      "title": "Take something you don’t like and try to like it",
-      "score": 195,
-      "url": "https://dynomight.net/liking/",
-      "time": 1756817797.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45102512"
     }
   ]
 }
