@@ -1,40 +1,96 @@
 {
-  "last_updated": "2025-09-03T17:10:01.280162-04:00",
+  "last_updated": "2025-09-03T20:52:23.711567-04:00",
   "stories": [
     {
+      "title": "Evidence that AI is destroying jobs for young people",
+      "score": 108,
+      "url": "https://www.derekthompson.org/p/the-evidence-that-ai-is-destroying",
+      "time": 1756940856.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45121342"
+    },
+    {
+      "title": "Not Paying with Cash",
+      "score": 16,
+      "url": "https://rubenerd.com/not-paying-with-cash/",
+      "time": 1756944361.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45121824"
+    },
+    {
       "title": "Claude Code: Now in Beta in Zed",
-      "score": 365,
+      "score": 463,
       "url": "https://zed.dev/blog/claude-code-via-acp",
       "time": 1756912040.0,
       "comments_url": "https://news.ycombinator.com/item?id=45116688"
     },
     {
+      "title": "The Bitter Lesson Is Misunderstood",
+      "score": 119,
+      "url": "https://obviouslywrong.substack.com/p/the-bitter-lesson-is-misunderstood",
+      "time": 1756416730.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45057283"
+    },
+    {
+      "title": "Neovim Pack",
+      "score": 6,
+      "url": "https://neovim.io/doc/user/pack.html#vim.pack",
+      "time": 1756945096.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45121915"
+    },
+    {
       "title": "Nuclear: Desktop music player focused on streaming from free sources",
-      "score": 190,
+      "score": 240,
       "url": "https://github.com/nukeop/nuclear",
       "time": 1756914852.0,
       "comments_url": "https://news.ycombinator.com/item?id=45117230"
     },
     {
-      "title": "We're Joining OpenAI",
-      "score": 45,
-      "url": "https://www.alexcodes.app/blog/alex-team-joins-openai",
-      "time": 1756924728.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45119076"
+      "title": "What is it like to be a bat?",
+      "score": 104,
+      "url": "https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F",
+      "time": 1756921707.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45118592"
     },
     {
-      "title": "Speeding up PyTorch inference on Apple devices with AI-generated Metal kernels",
-      "score": 102,
-      "url": "https://gimletlabs.ai/blog/ai-generated-metal-kernels",
-      "time": 1756919015.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45118111"
+      "title": "VibeVoice: A Frontier Open-Source Text-to-Speech Model",
+      "score": 394,
+      "url": "https://microsoft.github.io/VibeVoice/",
+      "time": 1756896241.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45114245"
     },
     {
-      "title": "Microsoft BASIC for 6502 Microprocessor – Version 1.1",
-      "score": 189,
-      "url": "https://github.com/microsoft/BASIC-M6502",
-      "time": 1756920512.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45118392"
+      "title": "Writing a C compiler in 500 lines of Python (2023)",
+      "score": 137,
+      "url": "https://vgel.me/posts/c500/",
+      "time": 1756916903.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45117668"
+    },
+    {
+      "title": "Voyager – An interactive video generation model with realtime 3D reconstruction",
+      "score": 296,
+      "url": "https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager",
+      "time": 1756897636.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45114379"
+    },
+    {
+      "title": "OSMAnd vs. Organic Maps",
+      "score": 77,
+      "url": "https://blog.firedrake.org/archive/2025/09/OSMAnd_vs_Organic_Maps.html",
+      "time": 1756714493.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45090654"
+    },
+    {
+      "title": "Understanding Transformers Using a Minimal Example",
+      "score": 130,
+      "url": "https://rti.github.io/gptvis/",
+      "time": 1756913406.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45116957"
+    },
+    {
+      "title": "New Knot Theory Discovery Overturns Long-Held Mathematical Assumption",
+      "score": 30,
+      "url": "https://www.scientificamerican.com/article/new-knot-theory-discovery-overturns-long-held-mathematical-assumption/",
+      "time": 1756812922.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45101675"
     },
     {
       "title": "Depot (YC W23) Is Hiring a Solutions Engineer (Remote US and Canada)",
@@ -44,102 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=45120373"
     },
     {
-      "title": "Writing a C compiler in 500 lines of Python (2023)",
-      "score": 94,
-      "url": "https://vgel.me/posts/c500/",
-      "time": 1756916903.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45117668"
-    },
-    {
       "title": "Poor man's bitemporal data system in SQLite and Clojure",
-      "score": 90,
+      "score": 114,
       "url": "https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html",
       "time": 1756921670.0,
       "comments_url": "https://news.ycombinator.com/item?id=45118585"
     },
     {
-      "title": "What Is It Like to Be a Bat?",
-      "score": 60,
-      "url": "https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F",
-      "time": 1756921707.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45118592"
+      "title": "Eels are fish",
+      "score": 65,
+      "url": "https://eocampaign1.com/web-version?p=495827fa-8295-11f0-8687-8f5da38390bd&pt=campaign&t=1756227062&s=033ffe0494c7a7084332eb6e164c4feeeb6b4612e0de0df1aa1bf5fd59ce2d08",
+      "time": 1756908138.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45115941"
     },
     {
-      "title": "VibeVoice: A Frontier Open-Source Text-to-Speech Model",
-      "score": 352,
-      "url": "https://microsoft.github.io/VibeVoice/",
-      "time": 1756896241.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45114245"
+      "title": "Speeding up PyTorch inference on Apple devices with AI-generated Metal kernels",
+      "score": 129,
+      "url": "https://gimletlabs.ai/blog/ai-generated-metal-kernels",
+      "time": 1756919015.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45118111"
     },
     {
-      "title": "OSMAnd vs. Organic Maps",
-      "score": 37,
-      "url": "https://blog.firedrake.org/archive/2025/09/OSMAnd_vs_Organic_Maps.html",
-      "time": 1756714493.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45090654"
+      "title": "Microsoft BASIC for 6502 Microprocessor – Version 1.1",
+      "score": 218,
+      "url": "https://github.com/microsoft/BASIC-M6502",
+      "time": 1756920512.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45118392"
     },
     {
-      "title": "Understanding Transformers Using a Minimal Example",
-      "score": 100,
-      "url": "https://rti.github.io/gptvis/",
-      "time": 1756913406.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45116957"
+      "title": "We're Joining OpenAI",
+      "score": 113,
+      "url": "https://www.alexcodes.app/blog/alex-team-joins-openai",
+      "time": 1756924728.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45119076"
     },
     {
-      "title": "Tufte CSS",
-      "score": 90,
-      "url": "https://edwardtufte.github.io/tufte-css/",
-      "time": 1756924917.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45119103"
-    },
-    {
-      "title": "The wall confronting large language models",
-      "score": 67,
-      "url": "https://arxiv.org/abs/2507.19703",
-      "time": 1756899641.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45114579"
-    },
-    {
-      "title": "Voyager – An interactive video generation model with realtime 3D reconstruction",
-      "score": 278,
-      "url": "https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager",
-      "time": 1756897636.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45114379"
-    },
-    {
-      "title": "6NF File Format",
-      "score": 34,
-      "url": "https://habr.com/en/articles/942516/",
-      "time": 1756921748.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45118598"
-    },
-    {
-      "title": "A Random Walk in 10 Dimensions (2021)",
-      "score": 76,
-      "url": "https://galileo-unbound.blog/2021/06/28/a-random-walk-in-10-dimensions/",
-      "time": 1756912834.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45116849"
-    },
-    {
-      "title": "Building the most accurate DIY CNC lathe in the world [video]",
-      "score": 115,
-      "url": "https://www.youtube.com/watch?v=vEr2CJruwEM",
-      "time": 1756907234.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45115760"
-    },
-    {
-      "title": "Launch HN: Risely (YC S25) – AI Agents for Universities",
-      "score": 31,
-      "url": "https://news.ycombinator.com/item?id=45116859",
-      "time": 1756912895.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45116859"
-    },
-    {
-      "title": "The Theoretical Limitations of Embedding-Based Retrieval",
-      "score": 17,
-      "url": "https://www.alphaxiv.org/abs/2508.21038v1",
-      "time": 1756926569.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45119397"
+      "title": "Lively Linear Lisp (1992) [pdf]",
+      "score": 33,
+      "url": "https://www.cs.utexas.edu/users/hunt/research/hash-cons/hash-cons-papers/BakerLinearLisp.pdf",
+      "time": 1756681825.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45087911"
     }
   ]
 }
