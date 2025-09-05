@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-04T17:10:32.672680-04:00",
+  "last_updated": "2025-09-04T20:53:58.329521-04:00",
   "papers": [
     {
       "title": "Can LLMs Lie? Investigation beyond Hallucination",
@@ -76,7 +76,7 @@
     {
       "title": "EvolveSignal: A Large Language Model Powered Coding Agent for\n  Discovering Traffic Signal Control Algorithms",
       "summary": "In traffic engineering, the fixed-time traffic signal control remains widely\nused for its low cost, stability, and interpretability. However, its design\ndepends on hand-crafted formulas (e.g., Webster) and manual re-timing by\nengineers to adapt to demand changes, which is labor-intensive and often yields\nsuboptimal results under heterogeneous or congested conditions. This paper\nintroduces the EvolveSignal, a large language models (LLMs) powered coding\nagent to automatically discover new traffic signal control algorithms. We\nformulate the problem as program synthesis, where candidate algorithms are\nrepresented as Python functions with fixed input-output structures, and\niteratively optimized through external evaluations (e.g., a traffic simulator)\nand evolutionary search. Experiments on a signalized intersection demonstrate\nthat the discovered algorithms outperform Webster's baseline, reducing average\ndelay by 20.1% and average stops by 47.1%. Beyond performance, ablation and\nincremental analyses reveal that EvolveSignal modifications-such as adjusting\ncycle length bounds, incorporating right-turn demand, and rescaling green\nallocations-can offer practically meaningful insights for traffic engineers.\nThis work opens a new research direction by leveraging AI for algorithm design\nin traffic signal control, bridging program synthesis with transportation\nengineering.",
-      "url": "http://arxiv.org/abs/2509.03335v1",
+      "url": "http://arxiv.org/abs/2509.03335v2",
       "published_time_eastern_timestamp": 1756908656.0
     },
     {

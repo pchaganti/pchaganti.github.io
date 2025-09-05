@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-04T17:10:31.783836-04:00",
+  "last_updated": "2025-09-04T20:53:55.194053-04:00",
   "papers": [
     {
       "title": "Can LLMs Lie? Investigation beyond Hallucination",
@@ -76,7 +76,7 @@
     {
       "title": "EvolveSignal: A Large Language Model Powered Coding Agent for\n  Discovering Traffic Signal Control Algorithms",
       "summary": "In traffic engineering, the fixed-time traffic signal control remains widely\nused for its low cost, stability, and interpretability. However, its design\ndepends on hand-crafted formulas (e.g., Webster) and manual re-timing by\nengineers to adapt to demand changes, which is labor-intensive and often yields\nsuboptimal results under heterogeneous or congested conditions. This paper\nintroduces the EvolveSignal, a large language models (LLMs) powered coding\nagent to automatically discover new traffic signal control algorithms. We\nformulate the problem as program synthesis, where candidate algorithms are\nrepresented as Python functions with fixed input-output structures, and\niteratively optimized through external evaluations (e.g., a traffic simulator)\nand evolutionary search. Experiments on a signalized intersection demonstrate\nthat the discovered algorithms outperform Webster's baseline, reducing average\ndelay by 20.1% and average stops by 47.1%. Beyond performance, ablation and\nincremental analyses reveal that EvolveSignal modifications-such as adjusting\ncycle length bounds, incorporating right-turn demand, and rescaling green\nallocations-can offer practically meaningful insights for traffic engineers.\nThis work opens a new research direction by leveraging AI for algorithm design\nin traffic signal control, bridging program synthesis with transportation\nengineering.",
-      "url": "http://arxiv.org/abs/2509.03335v1",
+      "url": "http://arxiv.org/abs/2509.03335v2",
       "published_time_eastern_timestamp": 1756908656.0
     },
     {
@@ -100,7 +100,7 @@
     {
       "title": "AgenTracer: Who Is Inducing Failure in the LLM Agentic Systems?",
       "summary": "Large Language Model (LLM)-based agentic systems, often comprising multiple\nmodels, complex tool invocations, and orchestration protocols, substantially\noutperform monolithic agents. Yet this very sophistication amplifies their\nfragility, making them more prone to system failure. Pinpointing the specific\nagent or step responsible for an error within long execution traces defines the\ntask of agentic system failure attribution. Current state-of-the-art reasoning\nLLMs, however, remain strikingly inadequate for this challenge, with accuracy\ngenerally below 10%. To address this gap, we propose AgenTracer, the first\nautomated framework for annotating failed multi-agent trajectories via\ncounterfactual replay and programmed fault injection, producing the curated\ndataset TracerTraj. Leveraging this resource, we develop AgenTracer-8B, a\nlightweight failure tracer trained with multi-granular reinforcement learning,\ncapable of efficiently diagnosing errors in verbose multi-agent interactions.\nOn the Who&When benchmark, AgenTracer-8B outperforms giant proprietary LLMs\nlike Gemini-2.5-Pro and Claude-4-Sonnet by up to 18.18%, setting a new standard\nin LLM agentic failure attribution. More importantly, AgenTracer-8B delivers\nactionable feedback to off-the-shelf multi-agent systems like MetaGPT and MaAS\nwith 4.8-14.2% performance gains, empowering self-correcting and self-evolving\nagentic AI.",
-      "url": "http://arxiv.org/abs/2509.03312v1",
+      "url": "http://arxiv.org/abs/2509.03312v2",
       "published_time_eastern_timestamp": 1756906934.0
     },
     {
