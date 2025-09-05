@@ -1,47 +1,75 @@
 {
-  "last_updated": "2025-09-05T08:21:39.306776-04:00",
+  "last_updated": "2025-09-05T11:12:06.313432-04:00",
   "stories": [
     {
       "title": "I Ditched Docker for Podman (and You Should Too)",
-      "score": 28,
+      "score": 359,
       "url": "https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too",
       "time": 1757073419.0,
       "comments_url": "https://news.ycombinator.com/item?id=45137525"
     },
     {
+      "title": "You're absolutely Right!",
+      "score": 212,
+      "url": "https://absolutelyright.lol/",
+      "time": 1757075807.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45137802"
+    },
+    {
+      "title": "Development Speed Has Never Been a Bottleneck",
+      "score": 47,
+      "url": "https://pawelbrodzinski.substack.com/p/development-speed-is-not-a-bottleneck",
+      "time": 1757078021.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45138156"
+    },
+    {
+      "title": "Interview with Japanese Demoscener – 0b5vr",
+      "score": 67,
+      "url": "https://6octaves.com/2025/09/interview-with-demoscener-0b5vr.html",
+      "time": 1757070506.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45137245"
+    },
+    {
+      "title": "The Old Robots Website",
+      "score": 41,
+      "url": "https://www.theoldrobots.com/index2.html",
+      "time": 1756780980.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45098609"
+    },
+    {
+      "title": "Data Modeling Guide for Real-Time Analytics with ClickHouse",
+      "score": 34,
+      "url": "https://www.ssp.sh/blog/practical-data-modeling-clickhouse/",
+      "time": 1757076687.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45137927"
+    },
+    {
       "title": "Fil's Unbelievable Garbage Collector",
-      "score": 449,
+      "score": 510,
       "url": "https://fil-c.org/fugc",
       "time": 1757033752.0,
       "comments_url": "https://news.ycombinator.com/item?id=45133938"
     },
     {
-      "title": "Nepal moves to block Facebook, X, YouTube and others",
-      "score": 29,
-      "url": "https://www.aljazeera.com/news/2025/9/4/nepal-moves-to-block-facebook-x-youtube-and-others",
-      "time": 1757071918.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45137363"
+      "title": "1TB Raspberry Pi SSD on sale now for $70",
+      "score": 25,
+      "url": "https://www.raspberrypi.com/news/1tb-raspberry-pi-ssd-on-sale-now-for-70/",
+      "time": 1757082007.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45138932"
+    },
+    {
+      "title": "US economy added just 22,000 jobs in August, unemployment highest in 4 yrs",
+      "score": 79,
+      "url": "https://www.cnn.com/2025/09/05/economy/us-jobs-report-august-final",
+      "time": 1757080894.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45138703"
     },
     {
       "title": "What Is the Fourier Transform?",
-      "score": 336,
+      "score": 361,
       "url": "https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/",
       "time": 1757023869.0,
       "comments_url": "https://news.ycombinator.com/item?id=45132810"
-    },
-    {
-      "title": "Stripe Launches L1 Blockchain: Tempo",
-      "score": 693,
-      "url": "https://tempo.xyz",
-      "time": 1757003544.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45129085"
-    },
-    {
-      "title": "LLM Visualization",
-      "score": 459,
-      "url": "https://bbycroft.net/llm",
-      "time": 1757009165.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45130260"
     },
     {
       "title": "Relace (YC W23) Is Hiring for Code LLM's (SF)",
@@ -51,95 +79,67 @@
       "comments_url": "https://news.ycombinator.com/item?id=45137554"
     },
     {
+      "title": "Stripe Launches L1 Blockchain: Tempo",
+      "score": 725,
+      "url": "https://tempo.xyz",
+      "time": 1757003544.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45129085"
+    },
+    {
+      "title": "OpenAI eats jobs, then offers to help you find a new one at Walmart",
+      "score": 149,
+      "url": "https://www.theregister.com/2025/09/05/openai_jobs_board/",
+      "time": 1757074642.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45137658"
+    },
+    {
+      "title": "Lava RGB",
+      "score": 15,
+      "url": "https://amaiorano.io/2025/09/03/lava-rgb.html",
+      "time": 1757076600.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45137914"
+    },
+    {
+      "title": "LLM Visualization",
+      "score": 502,
+      "url": "https://bbycroft.net/llm",
+      "time": 1757009165.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45130260"
+    },
+    {
       "title": "io_uring is faster than mmap",
-      "score": 219,
+      "score": 244,
       "url": "https://www.bitflux.ai/blog/memory-is-slow-part2/",
       "time": 1757023271.0,
       "comments_url": "https://news.ycombinator.com/item?id=45132710"
     },
     {
       "title": "Rasterizer: A GPU-accelerated 2D vector graphics engine in ~4k LOC",
-      "score": 104,
+      "score": 126,
       "url": "https://github.com/mindbrix/Rasterizer",
       "time": 1756713390.0,
       "comments_url": "https://news.ycombinator.com/item?id=45090553"
     },
     {
-      "title": "Making the most of a dumb fax switcher box in the old days",
-      "score": 25,
-      "url": "https://rachelbythebay.com/w/2025/09/01/fax/",
-      "time": 1756793846.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45099681"
-    },
-    {
-      "title": "The Diffusion Dilemma",
-      "score": 14,
-      "url": "https://arenamag.com/articles/the-diffusion-dilemma",
-      "time": 1756753383.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45095591"
-    },
-    {
       "title": "Wikipedia survives while the rest of the internet breaks",
-      "score": 432,
+      "score": 479,
       "url": "https://www.theverge.com/cs/features/717322/wikipedia-attacks-neutrality-history-jimmy-wales",
       "time": 1756999820.0,
       "comments_url": "https://news.ycombinator.com/item?id=45128391"
     },
     {
-      "title": "Evolving the OCaml Programming Language (2025) [pdf]",
-      "score": 130,
-      "url": "https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf",
-      "time": 1757030750.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45133652"
-    },
-    {
-      "title": "Swimming in Tech Debt",
-      "score": 43,
-      "url": "https://helpthisbook.com/lou-franco/swimming-in-tech-debt",
-      "time": 1757050383.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45135263"
-    },
-    {
-      "title": "WiFi signals can measure heart rate",
-      "score": 390,
-      "url": "https://news.ucsc.edu/2025/09/pulse-fi-wifi-heart-rate/",
-      "time": 1756997630.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45127983"
-    },
-    {
-      "title": "Forking Chrome to render in a terminal (2023)",
-      "score": 121,
-      "url": "https://fathy.fr/carbonyl",
-      "time": 1757033695.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45133935"
-    },
-    {
-      "title": "IRHash: Efficient Multi-Language Compiler Caching by IR-Level Hashing",
-      "score": 11,
-      "url": "https://www.usenix.org/conference/atc25/presentation/landsberg",
-      "time": 1757061781.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45136367"
+      "title": "Making the most of a dumb fax switcher box in the old days",
+      "score": 45,
+      "url": "https://rachelbythebay.com/w/2025/09/01/fax/",
+      "time": 1756793846.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45099681"
     },
     {
       "title": "Vetinari's Clock (2011)",
-      "score": 13,
+      "score": 37,
       "url": "https://www.waitingforfriday.com/?p=264",
       "time": 1756740549.0,
       "comments_url": "https://news.ycombinator.com/item?id=45093501"
-    },
-    {
-      "title": "What If OpenDocument Used SQLite?",
-      "score": 193,
-      "url": "https://www.sqlite.org/affcase1.html",
-      "time": 1757021810.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45132498"
-    },
-    {
-      "title": "The Anatomy of a Mach-O: Structure, Code Signing, and Pac",
-      "score": 6,
-      "url": "https://oliviagallucci.com/the-anatomy-of-a-mach-o-structure-code-signing-and-pac/",
-      "time": 1756787355.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45099151"
     }
   ]
 }
