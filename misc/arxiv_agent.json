@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-07T17:09:34.275807-04:00",
+  "last_updated": "2025-09-07T20:57:09.389805-04:00",
   "papers": [
     {
       "title": "SAFE--MA--RRT: Multi-Agent Motion Planning with Data-Driven Safety\n  Certificates",
@@ -34,7 +34,7 @@
     {
       "title": "Reinforced Data-Driven Estimation for Spectral Properties of Koopman\n  Semigroup in Stochastic Dynamical Systems",
       "summary": "Analyzing the spectral properties of the Koopman operator is crucial for\nunderstanding and predicting the behavior of complex stochastic dynamical\nsystems. However, the accuracy of data-driven estimation methods, such as\nExtended Dynamic Mode Decomposition (EDMD) and its variants, are heavily\ndependent on the quality and location of the sampled trajectory data. This\npaper introduces a novel framework, Reinforced Stochastic Dynamic Mode\nDecomposition, which integrates Reinforcement Learning (RL) with Stochastic\nDynamic Mode Decomposition (SDMD) to automatically guide the data collection\nprocess in stochastic dynamical systems. We frame the optimal sampling strategy\nas an RL problem, where an agent learns a policy to select trajectory initial\nconditions. The agent is guided by a reward signal based on \\emph{spectral\nconsistency}, that is a measure of how well the estimated Koopman eigenpairs\ndescribe the system's evolution balanced with an exploration bonus to ensure\ncomprehensive coverage of the state space. We demonstrate the effectiveness of\nour approach using Bandit algorithm, Deep Q-Network (DQN), and Proximal Policy\nOptimization (PPO) algorithms on canonical systems including the double-well\npotential, the stochastic Duffing oscillator and the FitzHugh-Nagumo model. Our\nresults show that the RL agent automatically discovers dynamically significant\nregions without any prior knowledge of the system. Rigorous theoretical\nanalysis establishes convergence guarantees for the proposed algorithms,\ndirectly linking the final estimation accuracy to the quality of the learned\nsampling policy. Our work presents a robust, automated methodology for the\nefficient spectral analysis of complex stochastic systems.",
-      "url": "http://arxiv.org/abs/2509.04265v1",
+      "url": "http://arxiv.org/abs/2509.04265v2",
       "published_time_eastern_timestamp": 1756996942.0
     },
     {
