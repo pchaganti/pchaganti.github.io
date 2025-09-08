@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-09-08T02:18:37.085813-04:00",
+  "last_updated": "2025-09-08T05:14:24.534430-04:00",
   "stories": [
     {
       "title": "Using Claude Code to modernize a 25-year-old kernel driver",
-      "score": 356,
+      "score": 493,
       "url": "https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver",
       "time": 1757289227.0,
       "comments_url": "https://news.ycombinator.com/item?id=45163362"
     },
     {
       "title": "The MacBook has a sensor that knows the exact angle of the screen hinge",
-      "score": 685,
+      "score": 754,
       "url": "https://twitter.com/samhenrigold/status/1964428927159382261",
       "time": 1757258429.0,
       "comments_url": "https://news.ycombinator.com/item?id=45158968"
     },
     {
+      "title": "Show HN: TheAuditor – Offline security scanner for AI-generated code",
+      "score": 5,
+      "url": "https://github.com/TheAuditorTool/Auditor",
+      "time": 1757320095.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45165897"
+    },
+    {
+      "title": "Show HN: C++ library for reading MacBook lid angle sensor data",
+      "score": 27,
+      "url": "https://github.com/ufoym/mac-angle",
+      "time": 1757311491.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45165066"
+    },
+    {
       "title": "Formatting code should be unnecessary",
-      "score": 99,
+      "score": 159,
       "url": "https://maxleiter.com/blog/formatting",
       "time": 1757286522.0,
       "comments_url": "https://news.ycombinator.com/item?id=45163043"
     },
     {
       "title": "GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is good at search",
-      "score": 198,
+      "score": 244,
       "url": "https://simonwillison.net/2025/Sep/6/research-goblin/",
       "time": 1757187768.0,
       "comments_url": "https://news.ycombinator.com/item?id=45152284"
     },
     {
-      "title": "Everything from 1991 Radio Shack ad I now do with my phone (2014)",
-      "score": 168,
-      "url": "https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/",
-      "time": 1757276790.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45161816"
+      "title": "Intel Arc Pro B50 GPU Launched at $349 for Compact Workstations",
+      "score": 114,
+      "url": "https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/",
+      "time": 1757282795.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45162626"
+    },
+    {
+      "title": "Why Is Japan Still Investing in Custom Floating Point Accelerators?",
+      "score": 30,
+      "url": "https://www.nextplatform.com/2025/09/04/why-is-japan-still-investing-in-custom-floating-point-accelerators/",
+      "time": 1757096844.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45141907"
     },
     {
       "title": "Analog optical computer for AI inference and combinatorial optimization",
-      "score": 47,
+      "score": 64,
       "url": "https://www.nature.com/articles/s41586-025-09430-z",
       "time": 1757005574.0,
       "comments_url": "https://news.ycombinator.com/item?id=45129507"
     },
     {
-      "title": "Forty-Four Esolangs: The Art of Esoteric Code",
-      "score": 38,
-      "url": "https://spectrum.ieee.org/esoteric-programming-languages-daniel-temkin",
-      "time": 1757075591.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45137772"
-    },
-    {
       "title": "Creative Technology: The Sound Blaster",
-      "score": 57,
+      "score": 87,
       "url": "https://www.abortretry.fail/p/the-story-of-creative-technology",
       "time": 1757281830.0,
       "comments_url": "https://news.ycombinator.com/item?id=45162501"
     },
     {
-      "title": "Default musl allocator considered harmful to performance",
-      "score": 52,
-      "url": "https://nickb.dev/blog/default-musl-allocator-considered-harmful-to-performance/",
-      "time": 1757104924.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45143347"
+      "title": "Show HN: Veena Chromatic Tuner",
+      "score": 26,
+      "url": "https://play.google.com/store/apps/details?id=in.magima.digitaltuner&hl=en_US",
+      "time": 1757313514.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45165245"
     },
     {
       "title": "How many dimensions is this?",
-      "score": 34,
+      "score": 64,
       "url": "https://lcamtuf.substack.com/p/how-many-dimensions-is-this",
       "time": 1756970721.0,
       "comments_url": "https://news.ycombinator.com/item?id=45124560"
     },
     {
-      "title": "Hungry Hungry Hippos Autoplay (2017)",
-      "score": 8,
-      "url": "https://www.mikekohn.net/micro/hungry_hungry_hippos.php",
-      "time": 1757024525.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45132899"
+      "title": "Forty-Four Esolangs: The Art of Esoteric Code",
+      "score": 48,
+      "url": "https://spectrum.ieee.org/esoteric-programming-languages-daniel-temkin",
+      "time": 1757075591.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45137772"
     },
     {
-      "title": "No Silver Bullet: Essence and Accidents of Software Engineering (1986) [pdf]",
-      "score": 73,
-      "url": "https://www.cs.unc.edu/techreports/86-020.pdf",
-      "time": 1757274783.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45161556"
+      "title": "How the Slavic Migration Reshaped Central and Eastern Europe",
+      "score": 48,
+      "url": "https://www.mpg.de/25256341/0827-evan-slavic-migration-reshaped-central-and-eastern-europe-150495-x",
+      "time": 1757291419.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45163598"
     },
     {
-      "title": "Taking Buildkite from a side project to a global company",
-      "score": 37,
-      "url": "https://www.valleyofdoubt.com/p/taking-buildkite-from-a-side-project",
-      "time": 1757282593.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45162593"
+      "title": "Everything from 1991 Radio Shack ad I now do with my phone (2014)",
+      "score": 178,
+      "url": "https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/",
+      "time": 1757276790.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45161816"
     },
     {
-      "title": "Show HN: I'm a dermatologist and I vibe coded a skin cancer learning app",
-      "score": 377,
-      "url": "https://molecheck.info/",
-      "time": 1757241509.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45157020"
+      "title": "How big are our embeddings now and why?",
+      "score": 17,
+      "url": "https://vickiboykis.com/2025/09/01/how-big-are-our-embeddings-now-and-why/",
+      "time": 1757083695.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45139228"
     },
     {
-      "title": "Keeping secrets out of logs (2024)",
-      "score": 184,
-      "url": "https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/",
-      "time": 1757268990.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45160774"
+      "title": "Tokyo has an unmanned, honor-system electronics and appliance shop",
+      "score": 31,
+      "url": "https://soranews24.com/2021/08/21/tokyo-has-a-completely-unmanned-honor-system-electronics-and-appliance-shop%e3%80%90photos%e3%80%91/",
+      "time": 1757062224.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45136411"
+    },
+    {
+      "title": "Default musl allocator considered harmful to performance",
+      "score": 69,
+      "url": "https://nickb.dev/blog/default-musl-allocator-considered-harmful-to-performance/",
+      "time": 1757104924.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45143347"
     },
     {
       "title": "I am giving up on Intel and have bought an AMD Ryzen 9950X3D",
-      "score": 203,
+      "score": 233,
       "url": "https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/",
       "time": 1757228069.0,
       "comments_url": "https://news.ycombinator.com/item?id=45155986"
     },
     {
-      "title": "'Make invalid states unrepresentable' considered harmful",
-      "score": 40,
-      "url": "https://www.seangoedecke.com/invalid-states/",
-      "time": 1757302802.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45164444"
-    },
-    {
-      "title": "Taco Bell AI Drive-Thru",
-      "score": 81,
-      "url": "https://aidarwinawards.org/nominees/taco-bell-ai-drive-thru.html",
-      "time": 1757279648.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45162220"
-    },
-    {
-      "title": "The demo scene is dying, but that's alright",
-      "score": 137,
-      "url": "https://www.datagubbe.se/sceneherit/",
-      "time": 1757284463.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45162803"
-    },
-    {
-      "title": "What is the origin of the private network address 192.168.*.*? (2009)",
-      "score": 165,
-      "url": "https://lists.ding.net/othersite/isoc-internet-history/2009/oct/msg00000.html",
-      "time": 1757238776.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45156826"
+      "title": "How to make metals from Martian dirt",
+      "score": 60,
+      "url": "https://www.csiro.au/en/news/All/Articles/2025/August/Metals-out-of-martian-dirt",
+      "time": 1757272185.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45161229"
     }
   ]
 }
