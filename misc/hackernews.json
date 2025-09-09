@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-09-08T23:28:46.916829-04:00",
+  "last_updated": "2025-09-09T02:18:17.864568-04:00",
   "stories": [
     {
-      "title": "The art world is in a precarious state",
-      "score": 118,
-      "url": "https://news.artnet.com/market/intelligence-report-storm-2025-2684512",
-      "time": 1757375294.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45175628"
+      "title": "YouTube Is a Mysterious Monopoly",
+      "score": 11,
+      "url": "https://anderegg.ca/2025/09/08/youtube-is-a-mysterious-monopoly",
+      "time": 1757394983.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45177683"
     },
     {
       "title": "Signal Secure Backups",
-      "score": 653,
+      "score": 715,
       "url": "https://signal.org/blog/introducing-secure-backups/",
       "time": 1757349819.0,
       "comments_url": "https://news.ycombinator.com/item?id=45170515"
     },
     {
-      "title": "No adblocker detected",
-      "score": 65,
-      "url": "https://maurycyz.com/misc/ads/",
-      "time": 1757380161.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45176206"
-    },
-    {
-      "title": "iPhone dumbphone",
-      "score": 304,
-      "url": "https://stopa.io/post/297",
-      "time": 1757352824.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45171200"
-    },
-    {
-      "title": "Contracts for C",
-      "score": 31,
-      "url": "https://gustedt.wordpress.com/2025/03/10/contracts-for-c/",
-      "time": 1757054209.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45135591"
-    },
-    {
-      "title": "Show HN: Attempt – A CLI for retrying fallible commands",
-      "score": 13,
-      "url": "https://github.com/MaxBondABE/attempt",
-      "time": 1757381848.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45176401"
-    },
-    {
-      "title": "Is OOXML Artifically Complex?",
-      "score": 74,
-      "url": "https://hsu.cy/2025/09/is-ooxml-artificially-complex/",
-      "time": 1757113620.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45144758"
-    },
-    {
-      "title": "Alterego: Thought to Text",
-      "score": 89,
-      "url": "https://www.alterego.io/",
-      "time": 1757366270.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45174125"
-    },
-    {
-      "title": "NPM debug and chalk packages compromised",
-      "score": 998,
-      "url": "https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised",
-      "time": 1757345877.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45169657"
-    },
-    {
       "title": "Liquid Glass in the Browser: Refraction with CSS and SVG",
-      "score": 84,
+      "score": 167,
       "url": "https://kube.io/blog/liquid-glass-css-svg/",
       "time": 1757367169.0,
       "comments_url": "https://news.ycombinator.com/item?id=45174297"
     },
     {
+      "title": "How can England possibly be running out of water?",
+      "score": 8,
+      "url": "https://www.theguardian.com/news/ng-interactive/2025/aug/17/how-can-england-possibly-be-running-out-of-water",
+      "time": 1757182955.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45151641"
+    },
+    {
+      "title": "iPhone dumbphone",
+      "score": 378,
+      "url": "https://stopa.io/post/297",
+      "time": 1757352824.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45171200"
+    },
+    {
+      "title": "No adblocker detected",
+      "score": 247,
+      "url": "https://maurycyz.com/misc/ads/",
+      "time": 1757380161.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45176206"
+    },
+    {
+      "title": "Strong Eventual Consistency – The Big Idea Behind CRDTs",
+      "score": 6,
+      "url": "https://lewiscampbell.tech/blog/250908.html",
+      "time": 1757393177.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45177518"
+    },
+    {
+      "title": "Incident Report for Anthropic",
+      "score": 34,
+      "url": "https://status.anthropic.com/incidents/72f99lh1cj2c",
+      "time": 1757382714.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45176491"
+    },
+    {
+      "title": "Contracts for C",
+      "score": 55,
+      "url": "https://gustedt.wordpress.com/2025/03/10/contracts-for-c/",
+      "time": 1757054209.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45135591"
+    },
+    {
+      "title": "NPM debug and chalk packages compromised",
+      "score": 1075,
+      "url": "https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised",
+      "time": 1757345877.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45169657"
+    },
+    {
+      "title": "Alterego: Thought to Text",
+      "score": 109,
+      "url": "https://www.alterego.io/",
+      "time": 1757366270.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45174125"
+    },
+    {
       "title": "Experimenting with Local LLMs on macOS",
-      "score": 266,
+      "score": 290,
       "url": "https://blog.6nok.org/experimenting-with-local-llms-on-macos/",
       "time": 1757342597.0,
       "comments_url": "https://news.ycombinator.com/item?id=45168953"
     },
     {
       "title": "The elegance of movement in Silksong",
-      "score": 58,
+      "score": 82,
       "url": "https://theahura.substack.com/p/the-elegance-of-movement-in-silksong",
       "time": 1757365818.0,
       "comments_url": "https://news.ycombinator.com/item?id=45174037"
     },
     {
-      "title": "Immich – High performance self-hosted photo and video management",
-      "score": 470,
-      "url": "https://github.com/immich-app/immich",
-      "time": 1757318318.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45165684"
+      "title": "Show HN: Attempt – A CLI for retrying fallible commands",
+      "score": 25,
+      "url": "https://github.com/MaxBondABE/attempt",
+      "time": 1757381848.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45176401"
     },
     {
-      "title": "Jeena's Hyprland Demo",
-      "score": 14,
-      "url": "https://tube.jeena.net/w/2EpbXJnMrDokc3362oXSTQ",
-      "time": 1757111701.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45144470"
-    },
-    {
-      "title": "Will Amazon S3 Vectors kill vector databases or save them?",
-      "score": 174,
-      "url": "https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them",
-      "time": 1757345746.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45169624"
-    },
-    {
-      "title": "How RSS beat Microsoft",
-      "score": 276,
-      "url": "https://buttondown.com/blog/rss-vs-ice",
-      "time": 1757328601.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45166750"
-    },
-    {
-      "title": "Clankers Die on Christmas",
-      "score": 154,
-      "url": "https://remyhax.xyz/posts/clankers-die-on-christmas/",
-      "time": 1757344100.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45169275"
+      "title": "The Storm Hits the Art Market",
+      "score": 179,
+      "url": "https://news.artnet.com/market/intelligence-report-storm-2025-2684512",
+      "time": 1757375294.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45175628"
     },
     {
       "title": "Microsoft doubles down on small modular reactors and fusion energy",
-      "score": 54,
+      "score": 77,
       "url": "https://www.techradar.com/pro/microsoft-joins-world-nuclear-association-as-it-doubles-down-on-small-modular-reactors-and-fusion-energy",
       "time": 1757358999.0,
       "comments_url": "https://news.ycombinator.com/item?id=45172609"
     },
     {
-      "title": "Ex-WhatsApp cybersecurity head says Meta endangered billions of users",
-      "score": 179,
-      "url": "https://www.theguardian.com/technology/2025/sep/08/meta-user-data-lawsuit-whatsapp",
-      "time": 1757366767.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45174221"
+      "title": "Byte Type: Supporting Raw Data Copies in the LLVM IR",
+      "score": 4,
+      "url": "https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/",
+      "time": 1757393060.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45177507"
     },
     {
-      "title": "The key points of \"Working Effectively with Legacy Code\"",
-      "score": 88,
-      "url": "https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/",
-      "time": 1757080823.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45138695"
+      "title": "Will Amazon S3 Vectors kill vector databases or save them?",
+      "score": 194,
+      "url": "https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them",
+      "time": 1757345746.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45169624"
+    },
+    {
+      "title": "Jeena's Hyprland Demo",
+      "score": 26,
+      "url": "https://tube.jeena.net/w/2EpbXJnMrDokc3362oXSTQ",
+      "time": 1757111701.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45144470"
+    },
+    {
+      "title": "Clankers Die on Christmas",
+      "score": 183,
+      "url": "https://remyhax.xyz/posts/clankers-die-on-christmas/",
+      "time": 1757344100.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45169275"
     }
   ]
 }
