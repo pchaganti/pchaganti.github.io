@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-08T17:10:26.394520-04:00",
+  "last_updated": "2025-09-08T20:54:39.881765-04:00",
   "papers": [
     {
       "title": "LatticeWorld: A Multimodal Large Language Model-Empowered Framework for\n  Interactive Complex World Generation",
@@ -118,7 +118,7 @@
     {
       "title": "TalkToAgent: A Human-centric Explanation of Reinforcement Learning\n  Agents with Large Language Models",
       "summary": "Explainable Reinforcement Learning (XRL) has emerged as a promising approach\nin improving the transparency of Reinforcement Learning (RL) agents. However,\nthere remains a gap between complex RL policies and domain experts, due to the\nlimited comprehensibility of XRL results and isolated coverage of current XRL\napproaches that leave users uncertain about which tools to employ. To address\nthese challenges, we introduce TalkToAgent, a multi-agent Large Language Models\n(LLM) framework that delivers interactive, natural language explanations for RL\npolicies. The architecture with five specialized LLM agents (Coordinator,\nExplainer, Coder, Evaluator, and Debugger) enables TalkToAgent to automatically\nmap user queries to relevant XRL tools and clarify an agent's actions in terms\nof either key state variables, expected outcomes, or counterfactual\nexplanations. Moreover, our approach extends previous counterfactual\nexplanations by deriving alternative scenarios from qualitative behavioral\ndescriptions, or even new rule-based policies. We validated TalkToAgent on\nquadruple-tank process control problem, a well-known nonlinear control\nbenchmark. Results demonstrated that TalkToAgent successfully mapped user\nqueries into XRL tasks with high accuracy, and coder-debugger interactions\nminimized failures in counterfactual generation. Furthermore, qualitative\nevaluation confirmed that TalkToAgent effectively interpreted agent's actions\nand contextualized their meaning within the problem domain.",
-      "url": "http://arxiv.org/abs/2509.04809v1",
+      "url": "http://arxiv.org/abs/2509.04809v2",
       "published_time_eastern_timestamp": 1757048949.0
     }
   ]
