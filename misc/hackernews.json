@@ -1,54 +1,96 @@
 {
-  "last_updated": "2025-09-09T14:14:32.974010-04:00",
+  "last_updated": "2025-09-09T17:09:53.230611-04:00",
   "stories": [
     {
-      "title": "We all dodged a bullet",
-      "score": 275,
-      "url": "https://xeiaso.net/notes/2025/we-dodged-a-bullet/",
-      "time": 1757430686.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45183029"
+      "title": "I still love PHP and JavaScript",
+      "score": 72,
+      "url": "https://the.scapegoat.dev/why-i-love-php-and-javascript/",
+      "time": 1757448593.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45188114"
+    },
+    {
+      "title": "iPhone Air",
+      "score": 238,
+      "url": "https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/",
+      "time": 1757441571.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45186015"
+    },
+    {
+      "title": "Memory Integrity Enforcement",
+      "score": 177,
+      "url": "https://security.apple.com/blog/memory-integrity-enforcement/",
+      "time": 1757442303.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45186265"
+    },
+    {
+      "title": "Dropbox Paper mobile App Discontinuation",
+      "score": 100,
+      "url": "https://help.dropbox.com/installs/paper-mobile-discontinuation",
+      "time": 1757441548.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45186011"
+    },
+    {
+      "title": "E-Paper Display Refresh Rate Reaches New Heights",
+      "score": 89,
+      "url": "https://spectrum.ieee.org/e-paper-display-modos",
+      "time": 1757440655.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45185756"
     },
     {
       "title": "Claude can now create and edit files",
-      "score": 238,
+      "score": 337,
       "url": "https://www.anthropic.com/news/create-files",
       "time": 1757427955.0,
       "comments_url": "https://news.ycombinator.com/item?id=45182381"
     },
     {
-      "title": "An attacker’s blunder gave us a look into their operations",
-      "score": 66,
-      "url": "https://www.huntress.com/blog/rare-look-inside-attacker-operation",
-      "time": 1757432552.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45183589"
+      "title": "We all dodged a bullet",
+      "score": 449,
+      "url": "https://xeiaso.net/notes/2025/we-dodged-a-bullet/",
+      "time": 1757430686.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45183029"
+    },
+    {
+      "title": "Polylaminin, promotes regeneration after spinal cord injury",
+      "score": 32,
+      "url": "https://www.researchgate.net/publication/45275074_Polylaminin_a_polymeric_form_of_laminin_promotes_regeneration_after_spinal_cord_injury",
+      "time": 1757446048.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45187449"
+    },
+    {
+      "title": "Classic Mac OS System 1 Patterns",
+      "score": 31,
+      "url": "https://paulsmith.github.io/classic-mac-patterns/",
+      "time": 1757447411.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45187778"
     },
     {
       "title": "Mistral AI raises 1.7B€, enters strategic partnership with ASML",
-      "score": 640,
+      "score": 698,
       "url": "https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai",
       "time": 1757398215.0,
       "comments_url": "https://news.ycombinator.com/item?id=45178041"
     },
     {
+      "title": "Anthropic judge rejects $1.5B AI copyright settlement",
+      "score": 15,
+      "url": "https://news.bloomberglaw.com/ip-law/anthropic-judge-blasts-copyright-pact-as-nowhere-close-to-done",
+      "time": 1757407613.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45179304"
+    },
+    {
       "title": "A new experimental Go API for JSON",
-      "score": 65,
+      "score": 138,
       "url": "https://go.dev/blog/jsonv2-exp",
       "time": 1757429672.0,
       "comments_url": "https://news.ycombinator.com/item?id=45182770"
     },
     {
-      "title": "ICE Is Using Fake Cell Towers to Spy on People's Phones",
-      "score": 162,
-      "url": "https://www.forbes.com/sites/the-wiretap/2025/09/09/how-ice-is-using-fake-cell-towers-to-spy-on-peoples-phones/",
-      "time": 1757435261.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45184368"
-    },
-    {
-      "title": "Building a DOOM-like multiplayer shooter in pure SQL",
-      "score": 45,
-      "url": "https://cedardb.com/blog/doomql/",
-      "time": 1757430738.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45183050"
+      "title": "Apple Debuts iPhone 17",
+      "score": 49,
+      "url": "https://www.apple.com/newsroom/2025/09/apple-debuts-iphone-17/",
+      "time": 1757441586.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45186023"
     },
     {
       "title": "Weave (YC W25) is hiring a founding AI engineer",
@@ -58,88 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=45184921"
     },
     {
-      "title": "X open sourced their latest algorithm",
-      "score": 161,
-      "url": "https://github.com/twitter/the-algorithm",
-      "time": 1757430717.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45183039"
+      "title": "ICE Is Using Fake Cell Towers to Spy on People's Phones",
+      "score": 366,
+      "url": "https://www.forbes.com/sites/the-wiretap/2025/09/09/how-ice-is-using-fake-cell-towers-to-spy-on-peoples-phones/",
+      "time": 1757435261.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45184368"
     },
     {
-      "title": "A clickable visual guide to the Rust type system",
-      "score": 199,
-      "url": "https://rustcurious.com/elements/",
-      "time": 1757090380.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45140572"
+      "title": "Building a DOOM-like multiplayer shooter in pure SQL",
+      "score": 104,
+      "url": "https://cedardb.com/blog/doomql/",
+      "time": 1757430738.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45183050"
     },
     {
-      "title": "You too can run malware from NPM (I mean without consequences)",
-      "score": 151,
-      "url": "https://github.com/naugtur/running-qix-malware",
-      "time": 1757412143.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45179889"
+      "title": "The Dying Dream of a Decentralized Web",
+      "score": 99,
+      "url": "https://spectrum.ieee.org/web3-hardware-security",
+      "time": 1757443664.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45186726"
     },
     {
-      "title": "I solved a distributed queue problem after 15 years",
+      "title": "Apple barely talked about AI at its big iPhone 17 event",
       "score": 37,
-      "url": "https://www.dbos.dev/blog/durable-queues",
-      "time": 1757309314.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45164892"
+      "url": "https://www.theverge.com/apple-event/774963/apple-september-launch-event-ai-apple-intelligence",
+      "time": 1757447663.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45187841"
+    },
+    {
+      "title": "Cities Obey the Laws of Living Things",
+      "score": 13,
+      "url": "https://nautil.us/cities-obey-the-laws-of-living-things-1236057/",
+      "time": 1757244661.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45157278"
     },
     {
       "title": "Go for Bash Programmers – Part II: CLI Tools",
-      "score": 21,
+      "score": 56,
       "url": "https://github.com/go-monk/from-bash-to-go-part-ii",
       "time": 1757334375.0,
       "comments_url": "https://news.ycombinator.com/item?id=45167436"
-    },
-    {
-      "title": "Apple announces the ultra-slim iPhone Air",
-      "score": 25,
-      "url": "https://www.theverge.com/news/771942/apple-iphone-17-air-announcement",
-      "time": 1757439889.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45185576"
-    },
-    {
-      "title": "Anscombe's Quartet",
-      "score": 87,
-      "url": "https://en.wikipedia.org/wiki/Anscombe%27s_quartet",
-      "time": 1757323776.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45166245"
-    },
-    {
-      "title": "Yet Another TypeSafe and Generic Programming Candidate for C",
-      "score": 33,
-      "url": "https://github.com/brightprogrammer/MisraStdC",
-      "time": 1757117191.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45145176"
-    },
-    {
-      "title": "How can England possibly be running out of water?",
-      "score": 277,
-      "url": "https://www.theguardian.com/news/ng-interactive/2025/aug/17/how-can-england-possibly-be-running-out-of-water",
-      "time": 1757182955.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45151641"
-    },
-    {
-      "title": "William James at CERN (1995)",
-      "score": 21,
-      "url": "http://bactra.org/wm-james-at-cern/",
-      "time": 1757102833.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45143019"
-    },
-    {
-      "title": "Disrupting the DRAM roadmap with capacitor-less IGZO-DRAM technology",
-      "score": 18,
-      "url": "https://www.imec-int.com/en/articles/disrupting-dram-roadmap-capacitor-less-igzo-dram-technology",
-      "time": 1757428113.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45182418"
-    },
-    {
-      "title": "New Mexico is first state in US to offer universal child care",
-      "score": 610,
-      "url": "https://www.governor.state.nm.us/2025/09/08/new-mexico-is-first-state-in-nation-to-offer-universal-child-care/",
-      "time": 1757427916.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45182372"
     }
   ]
 }
