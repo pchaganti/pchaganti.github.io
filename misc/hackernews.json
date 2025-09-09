@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-09-09T05:13:07.514328-04:00",
+  "last_updated": "2025-09-09T08:24:18.604075-04:00",
   "stories": [
     {
       "title": "Mistral AI raises 1.7B€, enters strategic partnership with ASML",
-      "score": 158,
+      "score": 381,
       "url": "https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai",
       "time": 1757398215.0,
       "comments_url": "https://news.ycombinator.com/item?id=45178041"
     },
     {
-      "title": "Signal Secure Backups",
-      "score": 806,
-      "url": "https://signal.org/blog/introducing-secure-backups/",
-      "time": 1757349819.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45170515"
+      "title": "A clickable visual guide to the Rust type system",
+      "score": 80,
+      "url": "https://rustcurious.com/elements/",
+      "time": 1757090380.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45140572"
+    },
+    {
+      "title": "You too can run malware from NPM (I mean without consequences)",
+      "score": 39,
+      "url": "https://github.com/naugtur/running-qix-malware",
+      "time": 1757412143.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45179889"
     },
     {
       "title": "How can England possibly be running out of water?",
-      "score": 63,
+      "score": 154,
       "url": "https://www.theguardian.com/news/ng-interactive/2025/aug/17/how-can-england-possibly-be-running-out-of-water",
       "time": 1757182955.0,
       "comments_url": "https://news.ycombinator.com/item?id=45151641"
     },
     {
+      "title": "Signal Secure Backups",
+      "score": 873,
+      "url": "https://signal.org/blog/introducing-secure-backups/",
+      "time": 1757349819.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45170515"
+    },
+    {
+      "title": "DuckDB NPM packages 1.3.3 and 1.29.2 compromised with malware",
+      "score": 77,
+      "url": "https://github.com/duckdb/duckdb-node/security/advisories/GHSA-w62p-hx95-gf2c",
+      "time": 1757412615.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45179939"
+    },
+    {
+      "title": "Nango (YC W23) Is Hiring a Staff Back End Engineer (Remote)",
+      "score": 1,
+      "url": "https://jobs.ashbyhq.com/Nango/3467f495-c833-4dcc-b119-cf43b7b93f84",
+      "time": 1757419206.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45180741"
+    },
+    {
+      "title": "Hallucination Risk Calculator",
+      "score": 8,
+      "url": "https://github.com/leochlon/hallbayes",
+      "time": 1757415478.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45180315"
+    },
+    {
       "title": "Liquid Glass in the Browser: Refraction with CSS and SVG",
-      "score": 271,
+      "score": 347,
       "url": "https://kube.io/blog/liquid-glass-css-svg/",
       "time": 1757367169.0,
       "comments_url": "https://news.ycombinator.com/item?id=45174297"
     },
     {
       "title": "iPhone dumbphone",
-      "score": 445,
+      "score": 509,
       "url": "https://stopa.io/post/297",
       "time": 1757352824.0,
       "comments_url": "https://news.ycombinator.com/item?id=45171200"
     },
     {
       "title": "Strong Eventual Consistency – The Big Idea Behind CRDTs",
-      "score": 39,
+      "score": 70,
       "url": "https://lewiscampbell.tech/blog/250908.html",
       "time": 1757393177.0,
       "comments_url": "https://news.ycombinator.com/item?id=45177518"
     },
     {
       "title": "No adblocker detected",
-      "score": 368,
+      "score": 475,
       "url": "https://maurycyz.com/misc/ads/",
       "time": 1757380161.0,
       "comments_url": "https://news.ycombinator.com/item?id=45176206"
     },
     {
       "title": "NPM debug and chalk packages compromised",
-      "score": 1160,
+      "score": 1217,
       "url": "https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised",
       "time": 1757345877.0,
       "comments_url": "https://news.ycombinator.com/item?id=45169657"
     },
     {
-      "title": "Contracts for C",
-      "score": 74,
-      "url": "https://gustedt.wordpress.com/2025/03/10/contracts-for-c/",
-      "time": 1757054209.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45135591"
-    },
-    {
-      "title": "Alterego: Thought to Text",
-      "score": 136,
-      "url": "https://www.alterego.io/",
-      "time": 1757366270.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45174125"
-    },
-    {
-      "title": "Microsoft doubles down on small modular reactors and fusion energy",
-      "score": 112,
-      "url": "https://www.techradar.com/pro/microsoft-joins-world-nuclear-association-as-it-doubles-down-on-small-modular-reactors-and-fusion-energy",
-      "time": 1757358999.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45172609"
-    },
-    {
       "title": "Experimenting with Local LLMs on macOS",
-      "score": 313,
+      "score": 334,
       "url": "https://blog.6nok.org/experimenting-with-local-llms-on-macos/",
       "time": 1757342597.0,
       "comments_url": "https://news.ycombinator.com/item?id=45168953"
     },
     {
+      "title": "Microsoft doubles down on small modular reactors and fusion energy",
+      "score": 138,
+      "url": "https://www.techradar.com/pro/microsoft-joins-world-nuclear-association-as-it-doubles-down-on-small-modular-reactors-and-fusion-energy",
+      "time": 1757358999.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45172609"
+    },
+    {
+      "title": "Contracts for C",
+      "score": 86,
+      "url": "https://gustedt.wordpress.com/2025/03/10/contracts-for-c/",
+      "time": 1757054209.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45135591"
+    },
+    {
       "title": "The elegance of movement in Silksong",
-      "score": 114,
+      "score": 132,
       "url": "https://theahura.substack.com/p/the-elegance-of-movement-in-silksong",
       "time": 1757365818.0,
       "comments_url": "https://news.ycombinator.com/item?id=45174037"
     },
     {
-      "title": "CPR in space could be made easier by chest compression machines",
-      "score": 4,
-      "url": "https://www.newscientist.com/article/2493803-cpr-in-space-could-be-made-easier-by-chest-compression-machines/",
-      "time": 1757121190.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45145638"
-    },
-    {
-      "title": "Is OOXML Artifically Complex?",
-      "score": 90,
-      "url": "https://hsu.cy/2025/09/is-ooxml-artificially-complex/",
-      "time": 1757113620.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45144758"
+      "title": "Alterego: Thought to Text",
+      "score": 151,
+      "url": "https://www.alterego.io/",
+      "time": 1757366270.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45174125"
     },
     {
       "title": "Deluxe Paint on the Commodore Amiga",
-      "score": 22,
+      "score": 44,
       "url": "https://stonetools.ghost.io/deluxepaint-amiga/",
       "time": 1757109435.0,
       "comments_url": "https://news.ycombinator.com/item?id=45144129"
     },
     {
-      "title": "Will Amazon S3 Vectors kill vector databases or save them?",
-      "score": 217,
-      "url": "https://zilliz.com/blog/will-amazon-s3-vectors-kill-vector-databases-or-save-them",
-      "time": 1757345746.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45169624"
-    },
-    {
-      "title": "Clankers Die on Christmas",
-      "score": 207,
-      "url": "https://remyhax.xyz/posts/clankers-die-on-christmas/",
-      "time": 1757344100.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45169275"
-    },
-    {
-      "title": "Show HN: Attempt – A CLI for retrying fallible commands",
-      "score": 37,
-      "url": "https://github.com/MaxBondABE/attempt",
-      "time": 1757381848.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45176401"
-    },
-    {
-      "title": "Seedship – Text-Based Game",
-      "score": 80,
-      "url": "https://philome.la/johnayliff/seedship/play/index.html",
-      "time": 1757100858.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45142704"
+      "title": "Is OOXML Artifically Complex?",
+      "score": 106,
+      "url": "https://hsu.cy/2025/09/is-ooxml-artificially-complex/",
+      "time": 1757113620.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45144758"
     }
   ]
 }
