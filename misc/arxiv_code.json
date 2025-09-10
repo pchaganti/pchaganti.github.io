@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09T17:09:55.828813-04:00",
+  "last_updated": "2025-09-09T20:53:18.733184-04:00",
   "papers": [
     {
       "title": "H$_{2}$OT: Hierarchical Hourglass Tokenizer for Efficient Video Pose\n  Transformers",
@@ -22,7 +22,7 @@
     {
       "title": "Interleaving Reasoning for Better Text-to-Image Generation",
       "summary": "Unified multimodal understanding and generation models recently have achieve\nsignificant improvement in image generation capability, yet a large gap remains\nin instruction following and detail preservation compared to systems that\ntightly couple comprehension with generation such as GPT-4o. Motivated by\nrecent advances in interleaving reasoning, we explore whether such reasoning\ncan further improve Text-to-Image (T2I) generation. We introduce Interleaving\nReasoning Generation (IRG), a framework that alternates between text-based\nthinking and image synthesis: the model first produces a text-based thinking to\nguide an initial image, then reflects on the result to refine fine-grained\ndetails, visual quality, and aesthetics while preserving semantics. To train\nIRG effectively, we propose Interleaving Reasoning Generation Learning (IRGL),\nwhich targets two sub-goals: (1) strengthening the initial think-and-generate\nstage to establish core content and base quality, and (2) enabling high-quality\ntextual reflection and faithful implementation of those refinements in a\nsubsequent image. We curate IRGL-300K, a dataset organized into six decomposed\nlearning modes that jointly cover learning text-based thinking, and full\nthinking-image trajectories. Starting from a unified foundation model that\nnatively emits interleaved text-image outputs, our two-stage training first\nbuilds robust thinking and reflection, then efficiently tunes the IRG pipeline\nin the full thinking-image trajectory data. Extensive experiments show SoTA\nperformance, yielding absolute gains of 5-10 points on GenEval, WISE, TIIF,\nGenAI-Bench, and OneIG-EN, alongside substantial improvements in visual quality\nand fine-grained fidelity. The code, model weights and datasets will be\nreleased in: https://github.com/Osilly/Interleaving-Reasoning-Generation .",
-      "url": "http://arxiv.org/abs/2509.06945v1",
+      "url": "http://arxiv.org/abs/2509.06945v2",
       "published_time_eastern_timestamp": 1757354183.0
     },
     {
@@ -118,7 +118,7 @@
     {
       "title": "P3-SAM: Native 3D Part Segmentation",
       "summary": "Segmenting 3D assets into their constituent parts is crucial for enhancing 3D\nunderstanding, facilitating model reuse, and supporting various applications\nsuch as part generation. However, current methods face limitations such as poor\nrobustness when dealing with complex objects and cannot fully automate the\nprocess. In this paper, we propose a native 3D point-promptable part\nsegmentation model termed P3-SAM, designed to fully automate the segmentation\nof any 3D objects into components. Inspired by SAM, P3-SAM consists of a\nfeature extractor, multiple segmentation heads, and an IoU predictor, enabling\ninteractive segmentation for users. We also propose an algorithm to\nautomatically select and merge masks predicted by our model for part instance\nsegmentation. Our model is trained on a newly built dataset containing nearly\n3.7 million models with reasonable segmentation labels. Comparisons show that\nour method achieves precise segmentation results and strong robustness on any\ncomplex objects, attaining state-of-the-art performance. Our code will be\nreleased soon.",
-      "url": "http://arxiv.org/abs/2509.06784v1",
+      "url": "http://arxiv.org/abs/2509.06784v2",
       "published_time_eastern_timestamp": 1757344337.0
     }
   ]

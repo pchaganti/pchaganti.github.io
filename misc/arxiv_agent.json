@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09T17:09:55.382056-04:00",
+  "last_updated": "2025-09-09T20:53:18.319169-04:00",
   "papers": [
     {
       "title": "On the Same Wavelength? Evaluating Pragmatic Reasoning in Language\n  Models across Broad Concepts",
@@ -64,7 +64,7 @@
     {
       "title": "VariSAC: V2X Assured Connectivity in RIS-Aided ISAC via GNN-Augmented\n  Reinforcement Learning",
       "summary": "The integration of Reconfigurable Intelligent Surfaces (RIS) and Integrated\nSensing and Communication (ISAC) in vehicular networks enables dynamic spatial\nresource management and real-time adaptation to environmental changes. However,\nthe coexistence of distinct vehicle-to-infrastructure (V2I) and\nvehicle-to-vehicle (V2V) connectivity requirements, together with highly\ndynamic and heterogeneous network topologies, presents significant challenges\nfor unified reliability modeling and resource optimization. To address these\nissues, we propose VariSAC, a graph neural network (GNN)-augmented deep\nreinforcement learning framework for assured, time-continuous connectivity in\nRIS-assisted, ISAC-enabled vehicle-to-everything (V2X) systems. Specifically,\nwe introduce the Continuous Connectivity Ratio (CCR), a unified metric that\ncharacterizes the sustained temporal reliability of V2I connections and the\nprobabilistic delivery guarantees of V2V links, thus unifying their continuous\nreliability semantics. Next, we employ a GNN with residual adapters to encode\ncomplex, high-dimensional system states, capturing spatial dependencies among\nvehicles, base stations (BS), and RIS nodes. These representations are then\nprocessed by a Soft Actor-Critic (SAC) agent, which jointly optimizes channel\nallocation, power control, and RIS configurations to maximize CCR-driven\nlong-term rewards. Extensive experiments on real-world urban datasets\ndemonstrate that VariSAC consistently outperforms existing baselines in terms\nof continuous V2I ISAC connectivity and V2V delivery reliability, enabling\npersistent connectivity in highly dynamic vehicular environments.",
-      "url": "http://arxiv.org/abs/2509.06763v1",
+      "url": "http://arxiv.org/abs/2509.06763v2",
       "published_time_eastern_timestamp": 1757343090.0
     },
     {
@@ -94,7 +94,7 @@
     {
       "title": "T-araVLN: Translator for Agricultural Robotic Agents on\n  Vision-and-Language Navigation",
       "summary": "Agricultural robotic agents have been becoming powerful helpers in a wide\nrange of agricultural tasks, nevertheless, still heavily rely on manual\noperation or untransportable railway for movement. The AgriVLN method and the\nA2A benchmark pioneeringly extend Vision-and-Language Navigation (VLN) to the\nagricultural domain, enabling agents navigate to the target position following\nthe natural language instructions. AgriVLN effectively understands the simple\ninstructions, however, often misunderstands the complicated instructions. To\nbridge this gap, we propose the method of Translator for Agricultural Robotic\nAgents on Vision-and-Language Navigation (T-araVLN), in which the Instruction\nTranslator module translates the original instruction to be both refined and\nprecise. Being evaluated on the A2A benchmark, our T-araVLN effectively\nimproves SR from 0.47 to 0.63 and reduces NE from 2.91m to 2.28m, demonstrating\nthe state-of-the-art performance in the agricultural domain. Code:\nhttps://github.com/AlexTraveling/T-araVLN.",
-      "url": "http://arxiv.org/abs/2509.06644v1",
+      "url": "http://arxiv.org/abs/2509.06644v2",
       "published_time_eastern_timestamp": 1757336376.0
     },
     {
