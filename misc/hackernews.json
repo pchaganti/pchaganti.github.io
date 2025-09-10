@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-09-10T11:11:56.886854-04:00",
+  "last_updated": "2025-09-10T14:16:34.073408-04:00",
   "stories": [
     {
+      "title": "ChatGPT Developer Mode",
+      "score": 158,
+      "url": "https://platform.openai.com/docs/guides/developer-mode",
+      "time": 1757520289.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45199713"
+    },
+    {
+      "title": "Show HN: Term.everything – Run any GUI app in the terminal",
+      "score": 274,
+      "url": "https://github.com/mmulet/term.everything",
+      "time": 1757423790.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45181535"
+    },
+    {
       "title": "OrioleDB Patent: now freely available to the Postgres community",
-      "score": 190,
+      "score": 275,
       "url": "https://supabase.com/blog/orioledb-patent-free",
       "time": 1757503915.0,
       "comments_url": "https://news.ycombinator.com/item?id=45196173"
     },
     {
+      "title": "I didn't bring my son to a museum to look at screens",
+      "score": 282,
+      "url": "https://sethpurcell.com/writing/screens-in-museums/",
+      "time": 1757521255.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45199931"
+    },
+    {
+      "title": "Defeating Nondeterminism in LLM Inference",
+      "score": 17,
+      "url": "https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/",
+      "time": 1757525168.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45200925"
+    },
+    {
+      "title": "The Origin Story of Merge Queues",
+      "score": 49,
+      "url": "https://mergify.com/blog/the-origin-story-of-merge-queues",
+      "time": 1757519023.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45199378"
+    },
+    {
+      "title": "TikTok has turned culture into a feedback loop of impulse and machine learning",
+      "score": 151,
+      "url": "https://www.thenexus.media/tiktok-won-now-everything-is-60-seconds/",
+      "time": 1757520519.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45199760"
+    },
+    {
       "title": "I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory",
-      "score": 658,
+      "score": 758,
       "url": "https://joshfonseca.com/blogs/animal-crossing-llm",
       "time": 1757473188.0,
       "comments_url": "https://news.ycombinator.com/item?id=45192655"
     },
     {
+      "title": "Bild AI (YC W25) Is Hiring",
+      "score": 1,
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer-applied-ai",
+      "time": 1757523666.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45200593"
+    },
+    {
       "title": "Kerberoasting",
-      "score": 59,
+      "score": 103,
       "url": "https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/",
       "time": 1757505690.0,
       "comments_url": "https://news.ycombinator.com/item?id=45196437"
     },
     {
-      "title": "Pontevedra, Spain declares its entire urban area a \"reduced traffic zone\"",
-      "score": 405,
-      "url": "https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/",
-      "time": 1757498894.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45195520"
+      "title": "Show HN: TailGuard – Bridge your WireGuard router into Tailscale via a container",
+      "score": 44,
+      "url": "https://github.com/juhovh/tailguard",
+      "time": 1757475775.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45192963"
+    },
+    {
+      "title": "The HackberryPi CM5 handheld computer",
+      "score": 22,
+      "url": "https://github.com/ZitaoTech/HackberryPiCM5",
+      "time": 1757356606.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45172058"
+    },
+    {
+      "title": "'Block Everything' protests sweep across France, scores arrested",
+      "score": 50,
+      "url": "https://www.reuters.com/world/europe/block-everything-protests-sweep-across-france-scores-arrested-2025-09-10/",
+      "time": 1757522693.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45200357"
+    },
+    {
+      "title": "We can’t circumvent the work needed to train our minds",
+      "score": 219,
+      "url": "https://zettelkasten.de/posts/the-scam-called-you-dont-have-to-remember-anything/",
+      "time": 1757515139.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45198420"
+    },
+    {
+      "title": "Wiggling into Correlation",
+      "score": 5,
+      "url": "https://entropicthoughts.com/wiggling-into-correlation",
+      "time": 1757521404.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45199976"
+    },
+    {
+      "title": "Jiratui – A Textual UI for interacting with Atlassian Jira from your shell",
+      "score": 20,
+      "url": "https://jiratui.sh/",
+      "time": 1757515335.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45198481"
+    },
+    {
+      "title": "Distributing your own scripts via Homebrew",
+      "score": 24,
+      "url": "https://justin.searls.co/posts/how-to-distribute-your-own-scripts-via-homebrew/",
+      "time": 1757327777.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45166655"
     },
     {
       "title": "iPhone Air",
-      "score": 828,
+      "score": 860,
       "url": "https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/",
       "time": 1757441571.0,
       "comments_url": "https://news.ycombinator.com/item?id=45186015"
     },
     {
-      "title": "Guy running a Google rival from his laundry room",
-      "score": 82,
-      "url": "https://www.fastcompany.com/91396271/searcha-page-seekninja-diy-search-engines",
-      "time": 1757510245.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45197187"
-    },
-    {
       "title": "Show HN: CrabCamera – Cross-platform camera plugin for Tauri desktop apps",
-      "score": 20,
+      "score": 51,
       "url": "https://crates.io/crates/crabcamera",
       "time": 1757225992.0,
       "comments_url": "https://news.ycombinator.com/item?id=45155846"
     },
     {
-      "title": "E-paper display reaches the realm of LCD screens",
-      "score": 523,
-      "url": "https://spectrum.ieee.org/e-paper-display-modos",
-      "time": 1757440655.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45185756"
-    },
-    {
-      "title": "Rendering flame fractals with a compute shader (2023)",
-      "score": 32,
-      "url": "https://wrighter.xyz/blog/2023_08_17_flame_fractals_in_comp_shader",
-      "time": 1757289676.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45163417"
-    },
-    {
-      "title": "NASA finds Titan's lakes may be creating vesicles with primitive cell walls",
-      "score": 207,
-      "url": "https://www.sciencedaily.com/releases/2025/08/250831112449.htm",
-      "time": 1757463040.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45191347"
-    },
-    {
-      "title": "Knowledge and memory",
-      "score": 51,
-      "url": "https://www.robinsloan.com/lab/knowledge-and-memory/",
-      "time": 1757204159.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45154088"
-    },
-    {
-      "title": "Infracost (YC W21) Is Hiring First Product Manager to Shift FinOps Left",
-      "score": 1,
-      "url": "https://www.ycombinator.com/companies/infracost/jobs/ukwJ299-senior-product-manager",
-      "time": 1757505659.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45196433"
-    },
-    {
-      "title": "Claude now has access to a server-side container environment",
-      "score": 603,
-      "url": "https://www.anthropic.com/news/create-files",
-      "time": 1757427955.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45182381"
-    },
-    {
-      "title": "US High school students' scores fall in reading and math",
-      "score": 444,
-      "url": "https://apnews.com/article/naep-reading-math-scores-12th-grade-c18d6e3fbc125f12948cc70cb85a520a",
-      "time": 1757429146.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45182657"
-    },
-    {
-      "title": "All clickwheel iPod games have now been preserved for posterity",
-      "score": 174,
-      "url": "https://arstechnica.com/gaming/2025/09/all-54-lost-clickwheel-ipod-games-have-now-been-preserved-for-posterity/",
-      "time": 1757354965.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45171733"
-    },
-    {
-      "title": "Some thoughts on personal Git hosting",
-      "score": 50,
-      "url": "https://shkspr.mobi/blog/2025/09/some-thoughts-on-personal-git-hosting/",
-      "time": 1757246515.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45157425"
-    },
-    {
-      "title": "We all dodged a bullet",
-      "score": 774,
-      "url": "https://xeiaso.net/notes/2025/we-dodged-a-bullet/",
-      "time": 1757430686.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45183029"
-    },
-    {
-      "title": "R-Zero: Self-Evolving Reasoning LLM from Zero Data",
-      "score": 79,
-      "url": "https://arxiv.org/abs/2508.05004",
-      "time": 1757469737.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45192194"
-    },
-    {
-      "title": "PKM apps need to get better at resurfacing information",
-      "score": 27,
-      "url": "https://ankursethi.com/blog/pkm-apps-need-to-get-better-at-resurfacing-information/",
-      "time": 1757242601.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45157094"
-    },
-    {
-      "title": "Children and young people's reading in 2025",
-      "score": 54,
-      "url": "https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2025/",
-      "time": 1757487098.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45194165"
+      "title": "Anthropic Services Down",
+      "score": 84,
+      "url": "https://status.anthropic.com/incidents/k6gkm2b8cjk9",
+      "time": 1757521894.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45200118"
     }
   ]
 }
