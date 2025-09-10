@@ -1,47 +1,82 @@
 {
-  "last_updated": "2025-09-10T08:21:49.226414-04:00",
+  "last_updated": "2025-09-10T11:11:56.886854-04:00",
   "stories": [
     {
-      "title": "Made for People, Not Cars: Reclaiming European Cities",
-      "score": 86,
-      "url": "https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/",
-      "time": 1757498894.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45195520"
-    },
-    {
-      "title": "Supabase OrioleDB Patent: now freely available to the Postgres community",
-      "score": 52,
+      "title": "OrioleDB Patent: now freely available to the Postgres community",
+      "score": 190,
       "url": "https://supabase.com/blog/orioledb-patent-free",
       "time": 1757503915.0,
       "comments_url": "https://news.ycombinator.com/item?id=45196173"
     },
     {
       "title": "I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory",
-      "score": 518,
+      "score": 658,
       "url": "https://joshfonseca.com/blogs/animal-crossing-llm",
       "time": 1757473188.0,
       "comments_url": "https://news.ycombinator.com/item?id=45192655"
     },
     {
+      "title": "Kerberoasting",
+      "score": 59,
+      "url": "https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/",
+      "time": 1757505690.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45196437"
+    },
+    {
+      "title": "Pontevedra, Spain declares its entire urban area a \"reduced traffic zone\"",
+      "score": 405,
+      "url": "https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/",
+      "time": 1757498894.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45195520"
+    },
+    {
       "title": "iPhone Air",
-      "score": 777,
+      "score": 828,
       "url": "https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/",
       "time": 1757441571.0,
       "comments_url": "https://news.ycombinator.com/item?id=45186015"
     },
     {
-      "title": "Knowledge and Memory",
-      "score": 29,
-      "url": "https://www.robinsloan.com/lab/knowledge-and-memory/",
-      "time": 1757204159.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45154088"
+      "title": "Guy running a Google rival from his laundry room",
+      "score": 82,
+      "url": "https://www.fastcompany.com/91396271/searcha-page-seekninja-diy-search-engines",
+      "time": 1757510245.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45197187"
+    },
+    {
+      "title": "Show HN: CrabCamera – Cross-platform camera plugin for Tauri desktop apps",
+      "score": 20,
+      "url": "https://crates.io/crates/crabcamera",
+      "time": 1757225992.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45155846"
     },
     {
       "title": "E-paper display reaches the realm of LCD screens",
-      "score": 466,
+      "score": 523,
       "url": "https://spectrum.ieee.org/e-paper-display-modos",
       "time": 1757440655.0,
       "comments_url": "https://news.ycombinator.com/item?id=45185756"
+    },
+    {
+      "title": "Rendering flame fractals with a compute shader (2023)",
+      "score": 32,
+      "url": "https://wrighter.xyz/blog/2023_08_17_flame_fractals_in_comp_shader",
+      "time": 1757289676.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45163417"
+    },
+    {
+      "title": "NASA finds Titan's lakes may be creating vesicles with primitive cell walls",
+      "score": 207,
+      "url": "https://www.sciencedaily.com/releases/2025/08/250831112449.htm",
+      "time": 1757463040.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45191347"
+    },
+    {
+      "title": "Knowledge and memory",
+      "score": 51,
+      "url": "https://www.robinsloan.com/lab/knowledge-and-memory/",
+      "time": 1757204159.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45154088"
     },
     {
       "title": "Infracost (YC W21) Is Hiring First Product Manager to Shift FinOps Left",
@@ -51,95 +86,60 @@
       "comments_url": "https://news.ycombinator.com/item?id=45196433"
     },
     {
-      "title": "NASA finds Titan's lakes may be creating vesicles with primitive cell walls",
-      "score": 171,
-      "url": "https://www.sciencedaily.com/releases/2025/08/250831112449.htm",
-      "time": 1757463040.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45191347"
-    },
-    {
-      "title": "PKM apps need to get better at resurfacing information",
-      "score": 9,
-      "url": "https://ankursethi.com/blog/pkm-apps-need-to-get-better-at-resurfacing-information/",
-      "time": 1757242601.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45157094"
-    },
-    {
       "title": "Claude now has access to a server-side container environment",
-      "score": 571,
+      "score": 603,
       "url": "https://www.anthropic.com/news/create-files",
       "time": 1757427955.0,
       "comments_url": "https://news.ycombinator.com/item?id=45182381"
     },
     {
       "title": "US High school students' scores fall in reading and math",
-      "score": 393,
+      "score": 444,
       "url": "https://apnews.com/article/naep-reading-math-scores-12th-grade-c18d6e3fbc125f12948cc70cb85a520a",
       "time": 1757429146.0,
       "comments_url": "https://news.ycombinator.com/item?id=45182657"
     },
     {
-      "title": "We all dodged a bullet",
-      "score": 738,
-      "url": "https://xeiaso.net/notes/2025/we-dodged-a-bullet/",
-      "time": 1757430686.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45183029"
-    },
-    {
       "title": "All clickwheel iPod games have now been preserved for posterity",
-      "score": 135,
+      "score": 174,
       "url": "https://arstechnica.com/gaming/2025/09/all-54-lost-clickwheel-ipod-games-have-now-been-preserved-for-posterity/",
       "time": 1757354965.0,
       "comments_url": "https://news.ycombinator.com/item?id=45171733"
     },
     {
-      "title": "Children and young people's reading in 2025",
-      "score": 32,
-      "url": "https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2025/",
-      "time": 1757487098.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45194165"
+      "title": "Some thoughts on personal Git hosting",
+      "score": 50,
+      "url": "https://shkspr.mobi/blog/2025/09/some-thoughts-on-personal-git-hosting/",
+      "time": 1757246515.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45157425"
     },
     {
-      "title": "Axial twist theory",
-      "score": 155,
-      "url": "https://en.wikipedia.org/wiki/Axial_twist_theory",
-      "time": 1757204700.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45154142"
+      "title": "We all dodged a bullet",
+      "score": 774,
+      "url": "https://xeiaso.net/notes/2025/we-dodged-a-bullet/",
+      "time": 1757430686.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45183029"
     },
     {
       "title": "R-Zero: Self-Evolving Reasoning LLM from Zero Data",
-      "score": 57,
+      "score": 79,
       "url": "https://arxiv.org/abs/2508.05004",
       "time": 1757469737.0,
       "comments_url": "https://news.ycombinator.com/item?id=45192194"
     },
     {
-      "title": "YouTube is a mysterious monopoly",
-      "score": 273,
-      "url": "https://anderegg.ca/2025/09/08/youtube-is-a-mysterious-monopoly",
-      "time": 1757394983.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45177683"
-    },
-    {
-      "title": "Hypervisor in 1k Lines",
-      "score": 93,
-      "url": "https://1000hv.seiya.me/en",
-      "time": 1757459639.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45190777"
-    },
-    {
-      "title": "Semantic Line Breaks",
+      "title": "PKM apps need to get better at resurfacing information",
       "score": 27,
-      "url": "https://sembr.org",
-      "time": 1757247281.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45157505"
+      "url": "https://ankursethi.com/blog/pkm-apps-need-to-get-better-at-resurfacing-information/",
+      "time": 1757242601.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45157094"
     },
     {
-      "title": "Memory Integrity Enforcement",
-      "score": 418,
-      "url": "https://security.apple.com/blog/memory-integrity-enforcement/",
-      "time": 1757442303.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45186265"
+      "title": "Children and young people's reading in 2025",
+      "score": 54,
+      "url": "https://literacytrust.org.uk/research-services/research-reports/children-and-young-peoples-reading-in-2025/",
+      "time": 1757487098.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45194165"
     }
   ]
 }
