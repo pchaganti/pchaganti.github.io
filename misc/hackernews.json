@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-09-11T14:13:43.867849-04:00",
+  "last_updated": "2025-09-11T17:09:44.657998-04:00",
   "stories": [
     {
-      "title": "Native ACME support comes to Nginx",
-      "score": 42,
-      "url": "https://letsencrypt.org/2025/09/11/native-acme-for-nginx",
-      "time": 1757611693.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45214023"
+      "title": "Top model scores may be skewed by Git history leaks in SWE-bench",
+      "score": 178,
+      "url": "https://github.com/SWE-bench/SWE-bench/issues/465",
+      "time": 1757615543.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45214670"
     },
     {
-      "title": "NT OS Kernel Information Disclosure Vulnerability",
-      "score": 44,
-      "url": "https://www.crowdfense.com/nt-os-kernel-information-disclosure-vulnerability-cve-2025-53136/",
-      "time": 1757607189.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45213299"
-    },
-    {
-      "title": "GrapheneOS and Forensic Extraction of Data (2024)",
-      "score": 246,
-      "url": "https://discuss.grapheneos.org/d/13107-grapheneos-and-forensic-extraction-of-data",
-      "time": 1757594787.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45210910"
-    },
-    {
-      "title": "A tech-law measurement and analysis of event listeners for wiretapping",
-      "score": 33,
-      "url": "https://arxiv.org/abs/2508.19825",
-      "time": 1757609169.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45213612"
-    },
-    {
-      "title": "Behind the scenes of Bun Install",
-      "score": 216,
-      "url": "https://bun.com/blog/behind-the-scenes-of-bun-install",
-      "time": 1757594369.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45210850"
+      "title": "Claude's memory architecture is the opposite of ChatGPT's",
+      "score": 86,
+      "url": "https://www.shloked.com/writing/claude-memory",
+      "time": 1757616950.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45214908"
     },
     {
       "title": "Bulletproof host Stark Industries evades EU sanctions",
-      "score": 13,
+      "score": 118,
       "url": "https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/",
       "time": 1757612576.0,
       "comments_url": "https://news.ycombinator.com/item?id=45214164"
     },
     {
-      "title": "Conway's Game of Life, but musical",
-      "score": 99,
-      "url": "https://www.hudsong.dev/digital-darwin",
-      "time": 1757599531.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45211868"
+      "title": "Rails on SQLite: new ways to cause outages",
+      "score": 34,
+      "url": "https://andre.arko.net/2025/09/11/rails-on-sqlite-exciting-new-ways-to-cause-outages/",
+      "time": 1757617102.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45214933"
     },
     {
-      "title": "Spiral",
-      "score": 170,
-      "url": "https://spiraldb.com/post/announcing-spiral",
-      "time": 1757605538.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45212960"
+      "title": "NT OS Kernel Information Disclosure Vulnerability",
+      "score": 85,
+      "url": "https://www.crowdfense.com/nt-os-kernel-information-disclosure-vulnerability-cve-2025-53136/",
+      "time": 1757607189.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45213299"
+    },
+    {
+      "title": "Behind the scenes of Bun Install",
+      "score": 285,
+      "url": "https://bun.com/blog/behind-the-scenes-of-bun-install",
+      "time": 1757594369.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45210850"
     },
     {
       "title": "'Robber bees' invade apiarist's shop in attempted honey heist",
-      "score": 16,
+      "score": 73,
       "url": "https://www.cbc.ca/news/canada/british-columbia/robber-bees-terrace-bc-apiary-1.7627532",
       "time": 1757609888.0,
       "comments_url": "https://news.ycombinator.com/item?id=45213732"
     },
     {
+      "title": "Launch HN: Ghostship (YC S25) – AI agents that find bugs in your web app",
+      "score": 26,
+      "url": "https://news.ycombinator.com/item?id=45215032",
+      "time": 1757617592.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45215032"
+    },
+    {
+      "title": "The Helix Text Editor (2024)",
+      "score": 76,
+      "url": "https://jonathan-frere.com/posts/helix/",
+      "time": 1757323660.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45166238"
+    },
+    {
+      "title": "Making io_uring pervasive in QEMU [pdf]",
+      "score": 27,
+      "url": "https://vmsplice.net/~stefan/stefanha-kvm-forum-2025.pdf",
+      "time": 1757615563.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45214672"
+    },
+    {
+      "title": "Show HN: Making a cross-platform game in Go using WebRTC Datachannels",
+      "score": 28,
+      "url": "https://pion.ly/blog/making-a-game-with-pion/",
+      "time": 1757532637.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45202489"
+    },
+    {
+      "title": "Adam (YC W25) Is Hiring to Build the Future of CAD",
+      "score": 1,
+      "url": "https://www.ycombinator.com/companies/adam/jobs/q6td4uk-founding-engineer",
+      "time": 1757614569.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45214498"
+    },
+    {
       "title": "CRISPR offers new hope for treating diabetes",
-      "score": 63,
+      "score": 120,
       "url": "https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/",
       "time": 1757598328.0,
       "comments_url": "https://news.ycombinator.com/item?id=45211596"
     },
     {
-      "title": "Beyond package management: How Nix refactored my digital life",
-      "score": 25,
-      "url": "https://www.jimmyff.co.uk/blog/beyond-package-management-how-nix-refactored-my-digital-life/",
-      "time": 1757331385.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45167049"
+      "title": "Unusual Capabilities of Nano Banana (Examples)",
+      "score": 13,
+      "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/main/README_en.md",
+      "time": 1757622911.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45215869"
     },
     {
-      "title": "An engineering history of the Manhattan Project",
-      "score": 77,
-      "url": "https://www.construction-physics.com/p/an-engineering-history-of-the-manhattan",
-      "time": 1757595889.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45211127"
+      "title": "A tech-law measurement and analysis of event listeners for wiretapping",
+      "score": 50,
+      "url": "https://arxiv.org/abs/2508.19825",
+      "time": 1757609169.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45213612"
     },
     {
-      "title": "Reshaped is now open source",
-      "score": 209,
-      "url": "https://reshaped.so/blog/reshaped-oss",
-      "time": 1757583169.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45209558"
+      "title": "AirPods live translation blocked for EU users with EU Apple accounts",
+      "score": 109,
+      "url": "https://www.macrumors.com/2025/09/11/airpods-live-translation-eu-restricted/",
+      "time": 1757591173.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45210428"
     },
     {
-      "title": "Public Suffix List",
-      "score": 11,
-      "url": "https://publicsuffix.org/",
-      "time": 1757336215.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45167688"
+      "title": "Conway's Game of Life, but musical",
+      "score": 128,
+      "url": "https://www.hudsong.dev/digital-darwin",
+      "time": 1757599531.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45211868"
     },
     {
-      "title": "Gregg Kellogg has died",
-      "score": 249,
-      "url": "https://lists.w3.org/Archives/Public/public-json-ld-wg/2025Sep/0012.html",
-      "time": 1757592212.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45210564"
+      "title": "ApeRAG: Production-ready GraphRAG with multi-modal indexing and K8s deployment",
+      "score": 8,
+      "url": "https://github.com/apecloud/ApeRAG",
+      "time": 1757318803.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45165751"
     },
     {
-      "title": "From burner phones to decks of cards: NYC teens adjusting to the smartphone ban",
-      "score": 47,
-      "url": "https://gothamist.com/news/from-burner-phones-to-decks-of-cards-nyc-teens-are-adjusting-to-the-smartphone-ban",
-      "time": 1757597983.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45211527"
+      "title": "GrapheneOS and Forensic Extraction of Data (2024)",
+      "score": 272,
+      "url": "https://discuss.grapheneos.org/d/13107-grapheneos-and-forensic-extraction-of-data",
+      "time": 1757594787.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45210910"
     },
     {
-      "title": "Removing yellow stains from fabric with blue light",
-      "score": 83,
-      "url": "https://phys.org/news/2025-09-yellow-fabric-blue.html",
-      "time": 1757289714.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45163423"
-    },
-    {
-      "title": "Piramidal (YC W24) Is Hiring Back End Engineer",
-      "score": 1,
-      "url": "https://www.ycombinator.com/companies/piramidal/jobs/1HvdaXs-full-stack-engineer-platform",
-      "time": 1757592014.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45210539"
-    },
-    {
-      "title": "GrapheneOS accessed Android security patches but not allowed to publish sources",
-      "score": 170,
-      "url": "https://grapheneos.social/@GrapheneOS/115164133992525834",
-      "time": 1757576592.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45208925"
-    },
-    {
-      "title": "How I solved PyTorch's cross-platform nightmare",
-      "score": 55,
-      "url": "https://svana.name/2025/09/how-i-solved-pytorchs-cross-platform-nightmare/",
-      "time": 1757307575.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45164762"
+      "title": "Randomly selecting points inside a triangle",
+      "score": 45,
+      "url": "https://www.johndcook.com/blog/2025/09/11/random-inside-triangle/",
+      "time": 1757618973.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45215266"
     }
   ]
 }
