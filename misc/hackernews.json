@@ -1,96 +1,131 @@
 {
-  "last_updated": "2025-09-10T20:54:19.668567-04:00",
+  "last_updated": "2025-09-10T23:27:17.406341-04:00",
   "stories": [
     {
       "title": "KDE launches its own distribution",
-      "score": 155,
+      "score": 246,
       "url": "https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/",
       "time": 1757540976.0,
       "comments_url": "https://news.ycombinator.com/item?id=45204393"
     },
     {
+      "title": "DOOMscrolling: The Game",
+      "score": 106,
+      "url": "https://ironicsans.ghost.io/doomscrolling-the-game/",
+      "time": 1757545015.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45205232"
+    },
+    {
+      "title": "Court rejects Verizon claim that selling location data without consent is legal",
+      "score": 168,
+      "url": "https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/",
+      "time": 1757554051.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45206567"
+    },
+    {
       "title": "ChatGPT Developer Mode: Full MCP client access",
-      "score": 365,
+      "score": 388,
       "url": "https://platform.openai.com/docs/guides/developer-mode",
       "time": 1757520289.0,
       "comments_url": "https://news.ycombinator.com/item?id=45199713"
     },
     {
       "title": "Show HN: Term.everything – Run any GUI app in the terminal",
-      "score": 629,
+      "score": 695,
       "url": "https://github.com/mmulet/term.everything",
       "time": 1757423790.0,
       "comments_url": "https://news.ycombinator.com/item?id=45181535"
     },
     {
-      "title": "DOOMscrolling: The Game",
-      "score": 34,
-      "url": "https://ironicsans.ghost.io/doomscrolling-the-game/",
-      "time": 1757545015.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45205232"
-    },
-    {
       "title": "Pontevedra, Spain declares its entire urban area a \"reduced traffic zone\"",
-      "score": 660,
+      "score": 703,
       "url": "https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/",
       "time": 1757498894.0,
       "comments_url": "https://news.ycombinator.com/item?id=45195520"
     },
     {
       "title": "Intel's E2200 \"Mount Morgan\" IPU at Hot Chips 2025",
-      "score": 22,
+      "score": 45,
       "url": "https://chipsandcheese.com/p/intels-e2200-mount-morgan-ipu-at",
       "time": 1757542895.0,
       "comments_url": "https://news.ycombinator.com/item?id=45204838"
     },
     {
-      "title": "Fraudulent Publishing in the Mathematical Sciences",
-      "score": 29,
-      "url": "https://arxiv.org/abs/2509.07257",
-      "time": 1757539296.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45203935"
-    },
-    {
-      "title": "Launch HN: Recall.ai (YC W20) – API for meeting recordings and transcripts",
-      "score": 62,
-      "url": "https://news.ycombinator.com/item?id=45199648",
-      "time": 1757520006.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45199648"
-    },
-    {
-      "title": "A polyglot's guide to multiple-dispatch",
-      "score": 16,
+      "title": "A polyglot's guide to multiple-dispatch (2016)",
+      "score": 38,
       "url": "https://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch/",
       "time": 1757227760.0,
       "comments_url": "https://news.ycombinator.com/item?id=45155963"
     },
     {
+      "title": "Launch HN: Recall.ai (YC W20) – API for meeting recordings and transcripts",
+      "score": 71,
+      "url": "https://news.ycombinator.com/item?id=45199648",
+      "time": 1757520006.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45199648"
+    },
+    {
+      "title": "OrioleDB Patent: now freely available to the Postgres community",
+      "score": 374,
+      "url": "https://supabase.com/blog/orioledb-patent-free",
+      "time": 1757503915.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45196173"
+    },
+    {
       "title": "The HackberryPi CM5 handheld computer",
-      "score": 140,
+      "score": 154,
       "url": "https://github.com/ZitaoTech/HackberryPiCM5",
       "time": 1757356606.0,
       "comments_url": "https://news.ycombinator.com/item?id=45172058"
     },
     {
       "title": "Defeating Nondeterminism in LLM Inference",
-      "score": 183,
+      "score": 202,
       "url": "https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/",
       "time": 1757525168.0,
       "comments_url": "https://news.ycombinator.com/item?id=45200925"
     },
     {
-      "title": "OrioleDB Patent: now freely available to the Postgres community",
-      "score": 361,
-      "url": "https://supabase.com/blog/orioledb-patent-free",
-      "time": 1757503915.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45196173"
+      "title": "Fraudulent Publishing in the Mathematical Sciences",
+      "score": 45,
+      "url": "https://arxiv.org/abs/2509.07257",
+      "time": 1757539296.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45203935"
+    },
+    {
+      "title": "Jiratui – A Textual UI for interacting with Atlassian Jira from your shell",
+      "score": 159,
+      "url": "https://jiratui.sh/",
+      "time": 1757515335.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45198481"
+    },
+    {
+      "title": "A desktop environment without graphics (tmux-like)",
+      "score": 28,
+      "url": "https://github.com/Julien-cpsn/desktop-tui",
+      "time": 1757333234.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45167295"
     },
     {
       "title": "Longhorn – A Kubernetes-Native Filesystem",
-      "score": 31,
+      "score": 42,
       "url": "https://vegard.blog.engen.priv.no/?p=518",
       "time": 1757224169.0,
       "comments_url": "https://news.ycombinator.com/item?id=45155731"
+    },
+    {
+      "title": "Clojure's Solutions to the Expression Problem",
+      "score": 75,
+      "url": "https://www.infoq.com/presentations/Clojure-Expression-Problem/",
+      "time": 1757273510.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45161410"
+    },
+    {
+      "title": "Dotter: Dotfile manager and templater written in Rust",
+      "score": 65,
+      "url": "https://github.com/SuperCuber/dotter",
+      "time": 1757531285.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45202252"
     },
     {
       "title": "Mux (YC W16) Is Hiring Engineering ICs and Managers",
@@ -100,46 +135,11 @@
       "comments_url": "https://news.ycombinator.com/item?id=45203643"
     },
     {
-      "title": "Jiratui – A Textual UI for interacting with Atlassian Jira from your shell",
-      "score": 130,
-      "url": "https://jiratui.sh/",
-      "time": 1757515335.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45198481"
-    },
-    {
-      "title": "Clojure's Solutions to the Expression Problem",
-      "score": 58,
-      "url": "https://www.infoq.com/presentations/Clojure-Expression-Problem/",
-      "time": 1757273510.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45161410"
-    },
-    {
-      "title": "Dotter: Dotfile manager and templater written in Rust",
-      "score": 52,
-      "url": "https://github.com/SuperCuber/dotter",
-      "time": 1757531285.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45202252"
-    },
-    {
       "title": "Show HN: Haystack – Review pull requests like you wrote them yourself",
-      "score": 47,
+      "score": 53,
       "url": "https://haystackeditor.com",
       "time": 1757528472.0,
       "comments_url": "https://news.ycombinator.com/item?id=45201703"
-    },
-    {
-      "title": "Picat: A Logic-based Multi-paradigm Language (2014) [pdf]",
-      "score": 14,
-      "url": "https://logicprogramming.org/wp-content/uploads/2014/07/alp14.pdf",
-      "time": 1757336687.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45167757"
-    },
-    {
-      "title": "I didn't bring my son to a museum to look at screens",
-      "score": 765,
-      "url": "https://sethpurcell.com/writing/screens-in-museums/",
-      "time": 1757521255.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45199931"
     }
   ]
 }
