@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-10T17:10:20.656732-04:00",
+  "last_updated": "2025-09-10T20:54:21.452035-04:00",
   "papers": [
     {
       "title": "Parallel-R1: Towards Parallel Thinking via Reinforcement Learning",
@@ -58,7 +58,7 @@
     {
       "title": "HiPhO: How Far Are (M)LLMs from Humans in the Latest High School Physics\n  Olympiad Benchmark?",
       "summary": "Recently, the physical capabilities of (M)LLMs have garnered increasing\nattention. However, existing benchmarks for physics suffer from two major gaps:\nthey neither provide systematic and up-to-date coverage of real-world physics\ncompetitions such as physics Olympiads, nor enable direct performance\ncomparison with humans. To bridge these gaps, we present HiPhO, the first\nbenchmark dedicated to high school physics Olympiads with human-aligned\nevaluation. Specifically, HiPhO highlights three key innovations. (1)\nComprehensive Data: It compiles 13 latest Olympiad exams from 2024-2025,\nspanning both international and regional competitions, and covering mixed\nmodalities that encompass problems spanning text-only to diagram-based. (2)\nProfessional Evaluation: We adopt official marking schemes to perform\nfine-grained grading at both the answer and step level, fully aligned with\nhuman examiners to ensure high-quality and domain-specific evaluation. (3)\nComparison with Human Contestants: We assign gold, silver, and bronze medals to\nmodels based on official medal thresholds, thereby enabling direct comparison\nbetween (M)LLMs and human contestants. Our large-scale evaluation of 30\nstate-of-the-art (M)LLMs shows that: across 13 exams, open-source MLLMs mostly\nremain at or below the bronze level; open-source LLMs show promising progress\nwith occasional golds; closed-source reasoning MLLMs can achieve 6 to 12 gold\nmedals; and most models still have a significant gap from full marks. These\nresults highlight a substantial performance gap between open-source models and\ntop students, the strong physical reasoning capabilities of closed-source\nreasoning models, and the fact that there is still significant room for\nimprovement. HiPhO, as a rigorous, human-aligned, and Olympiad-focused\nbenchmark for advancing multimodal physical reasoning, is open-source and\navailable at https://github.com/SciYu/HiPhO.",
-      "url": "http://arxiv.org/abs/2509.07894v1",
+      "url": "http://arxiv.org/abs/2509.07894v2",
       "published_time_eastern_timestamp": 1757435091.0
     },
     {

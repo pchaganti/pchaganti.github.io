@@ -1,40 +1,96 @@
 {
-  "last_updated": "2025-09-10T17:10:18.988036-04:00",
+  "last_updated": "2025-09-10T20:54:19.668567-04:00",
   "stories": [
     {
+      "title": "KDE launches its own distribution",
+      "score": 155,
+      "url": "https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/",
+      "time": 1757540976.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45204393"
+    },
+    {
       "title": "ChatGPT Developer Mode: Full MCP client access",
-      "score": 287,
+      "score": 365,
       "url": "https://platform.openai.com/docs/guides/developer-mode",
       "time": 1757520289.0,
       "comments_url": "https://news.ycombinator.com/item?id=45199713"
     },
     {
       "title": "Show HN: Term.everything – Run any GUI app in the terminal",
-      "score": 491,
+      "score": 629,
       "url": "https://github.com/mmulet/term.everything",
       "time": 1757423790.0,
       "comments_url": "https://news.ycombinator.com/item?id=45181535"
     },
     {
-      "title": "Defeating Nondeterminism in LLM Inference",
-      "score": 118,
-      "url": "https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/",
-      "time": 1757525168.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45200925"
+      "title": "DOOMscrolling: The Game",
+      "score": 34,
+      "url": "https://ironicsans.ghost.io/doomscrolling-the-game/",
+      "time": 1757545015.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45205232"
+    },
+    {
+      "title": "Pontevedra, Spain declares its entire urban area a \"reduced traffic zone\"",
+      "score": 660,
+      "url": "https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/",
+      "time": 1757498894.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45195520"
+    },
+    {
+      "title": "Intel's E2200 \"Mount Morgan\" IPU at Hot Chips 2025",
+      "score": 22,
+      "url": "https://chipsandcheese.com/p/intels-e2200-mount-morgan-ipu-at",
+      "time": 1757542895.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45204838"
+    },
+    {
+      "title": "Fraudulent Publishing in the Mathematical Sciences",
+      "score": 29,
+      "url": "https://arxiv.org/abs/2509.07257",
+      "time": 1757539296.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45203935"
+    },
+    {
+      "title": "Launch HN: Recall.ai (YC W20) – API for meeting recordings and transcripts",
+      "score": 62,
+      "url": "https://news.ycombinator.com/item?id=45199648",
+      "time": 1757520006.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45199648"
+    },
+    {
+      "title": "A polyglot's guide to multiple-dispatch",
+      "score": 16,
+      "url": "https://eli.thegreenplace.net/2016/a-polyglots-guide-to-multiple-dispatch/",
+      "time": 1757227760.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45155963"
     },
     {
       "title": "The HackberryPi CM5 handheld computer",
-      "score": 106,
+      "score": 140,
       "url": "https://github.com/ZitaoTech/HackberryPiCM5",
       "time": 1757356606.0,
       "comments_url": "https://news.ycombinator.com/item?id=45172058"
     },
     {
-      "title": "Launch HN: Recall.ai (YC W20) – API for meeting recordings and transcripts",
-      "score": 38,
-      "url": "https://news.ycombinator.com/item?id=45199648",
-      "time": 1757520006.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45199648"
+      "title": "Defeating Nondeterminism in LLM Inference",
+      "score": 183,
+      "url": "https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/",
+      "time": 1757525168.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45200925"
+    },
+    {
+      "title": "OrioleDB Patent: now freely available to the Postgres community",
+      "score": 361,
+      "url": "https://supabase.com/blog/orioledb-patent-free",
+      "time": 1757503915.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45196173"
+    },
+    {
+      "title": "Longhorn – A Kubernetes-Native Filesystem",
+      "score": 31,
+      "url": "https://vegard.blog.engen.priv.no/?p=518",
+      "time": 1757224169.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45155731"
     },
     {
       "title": "Mux (YC W16) Is Hiring Engineering ICs and Managers",
@@ -44,102 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=45203643"
     },
     {
-      "title": "Show HN: Haystack – Review pull requests like you wrote them yourself",
-      "score": 35,
-      "url": "https://haystackeditor.com",
-      "time": 1757528472.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45201703"
-    },
-    {
-      "title": "OrioleDB Patent: now freely available to the Postgres community",
-      "score": 328,
-      "url": "https://supabase.com/blog/orioledb-patent-free",
-      "time": 1757503915.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45196173"
-    },
-    {
-      "title": "'Clearest sign' yet of ancient life on Mars",
-      "score": 76,
-      "url": "https://www.nature.com/articles/s41586-025-09413-0",
-      "time": 1757533347.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45202613"
-    },
-    {
-      "title": "Dotter: Dotfile manager and templater written in Rust",
-      "score": 23,
-      "url": "https://github.com/SuperCuber/dotter",
-      "time": 1757531285.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45202252"
-    },
-    {
-      "title": "Harvey Mudd Miniature Machine",
-      "score": 30,
-      "url": "https://www.cs.hmc.edu/~cs5grad/cs5/hmmm/documentation/documentation.html",
-      "time": 1757295974.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45163998"
-    },
-    {
-      "title": "I didn't bring my son to a museum to look at screens",
-      "score": 594,
-      "url": "https://sethpurcell.com/writing/screens-in-museums/",
-      "time": 1757521255.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45199931"
-    },
-    {
-      "title": "UGMM-NN: Univariate Gaussian Mixture Model Neural Network",
-      "score": 14,
-      "url": "https://arxiv.org/abs/2509.07569",
-      "time": 1757532233.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45202421"
-    },
-    {
       "title": "Jiratui – A Textual UI for interacting with Atlassian Jira from your shell",
-      "score": 77,
+      "score": 130,
       "url": "https://jiratui.sh/",
       "time": 1757515335.0,
       "comments_url": "https://news.ycombinator.com/item?id=45198481"
     },
     {
       "title": "Clojure's Solutions to the Expression Problem",
-      "score": 11,
+      "score": 58,
       "url": "https://www.infoq.com/presentations/Clojure-Expression-Problem/",
       "time": 1757273510.0,
       "comments_url": "https://news.ycombinator.com/item?id=45161410"
     },
     {
-      "title": "Show HN: TailGuard – Bridge your WireGuard router into Tailscale via a container",
-      "score": 72,
-      "url": "https://github.com/juhovh/tailguard",
-      "time": 1757475775.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45192963"
+      "title": "Dotter: Dotfile manager and templater written in Rust",
+      "score": 52,
+      "url": "https://github.com/SuperCuber/dotter",
+      "time": 1757531285.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45202252"
     },
     {
-      "title": "Anthropic Services Down",
-      "score": 151,
-      "url": "https://status.anthropic.com/incidents/k6gkm2b8cjk9",
-      "time": 1757521894.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45200118"
+      "title": "Show HN: Haystack – Review pull requests like you wrote them yourself",
+      "score": 47,
+      "url": "https://haystackeditor.com",
+      "time": 1757528472.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45201703"
     },
     {
-      "title": "Kerberoasting",
-      "score": 127,
-      "url": "https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/",
-      "time": 1757505690.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45196437"
+      "title": "Picat: A Logic-based Multi-paradigm Language (2014) [pdf]",
+      "score": 14,
+      "url": "https://logicprogramming.org/wp-content/uploads/2014/07/alp14.pdf",
+      "time": 1757336687.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45167757"
     },
     {
-      "title": "Charlie Kirk killed at event in Utah",
-      "score": 230,
-      "url": "https://www.nbcnews.com/news/us-news/live-blog/live-updates-shooting-charlie-kirk-event-utah-rcna230437",
-      "time": 1757530968.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45202200"
-    },
-    {
-      "title": "TikTok has turned culture into a feedback loop of impulse and machine learning",
-      "score": 225,
-      "url": "https://www.thenexus.media/tiktok-won-now-everything-is-60-seconds/",
-      "time": 1757520519.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45199760"
+      "title": "I didn't bring my son to a museum to look at screens",
+      "score": 765,
+      "url": "https://sethpurcell.com/writing/screens-in-museums/",
+      "time": 1757521255.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45199931"
     }
   ]
 }
