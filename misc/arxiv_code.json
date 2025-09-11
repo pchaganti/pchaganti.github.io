@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-10T23:27:20.024508-04:00",
+  "last_updated": "2025-09-11T02:17:42.816233-04:00",
   "papers": [
     {
       "title": "A Survey of Reinforcement Learning for Large Reasoning Models",
@@ -33,7 +33,7 @@
     },
     {
       "title": "CSI Compression Beyond Latents: End-to-End Hybrid Attention-CNN Networks\n  with Entropy Regularization",
-      "summary": "Massive MIMO systems rely on accurate Channel State Information (CSI)\nfeedback to enable high-gain beam- forming. However, the feedback overhead\nscales linearly with the number of antennas, presenting a major bottleneck.\nWhile recent deep learning methods have improved CSI compres- sion, most\noverlook the impact of quantization and entropy coding, limiting their\npractical deployability. In this work, we propose an end-to-end CSI compression\nframework that inte- grates a Spatial Correlation-Guided Attention Mechanism\nwith quantization and entropy-aware training. Our model effectively exploits\nthe spatial correlation among the antennas, thereby learning compact,\nentropy-optimized latent representations for efficient coding. This reduces the\nrequired feedback bitrates without sacrificing reconstruction accuracy, thereby\nyielding a superior rate-distortion trade-off. Experiments show that our method\nsurpasses existing end-to-end CSI compression schemes, exceeding benchmark\nperformance by an average of 21.5% on indoor datasets and 18.9% on outdoor\ndatasets. The proposed framework results in a practical and efficient CSI\nfeedback scheme.",
+      "summary": "Massive MIMO systems rely on accurate Channel State Information (CSI)\nfeedback to enable high-gain beam-forming. However, the feedback overhead\nscales linearly with the number of antennas, presenting a major bottleneck.\nWhile recent deep learning methods have improved CSI compression, most overlook\nthe impact of quantization and entropy coding, limiting their practical\ndeployability. In this work, we propose an end-to-end CSI compression framework\nthat integrates a Spatial Correlation-Guided Attention Mechanism with\nquantization and entropy-aware training. Our model effectively exploits the\nspatial correlation among the antennas, thereby learning compact,\nentropy-optimized latent representations for efficient coding. This reduces the\nrequired feedback bitrates without sacrificing reconstruction accuracy, thereby\nyielding a superior rate-distortion trade-off. Experiments show that our method\nsurpasses existing end-to-end CSI compression schemes, exceeding benchmark\nperformance by an average of 21.5% on indoor datasets and 18.9% on outdoor\ndatasets. The proposed framework results in a practical and efficient CSI\nfeedback scheme.",
       "url": "http://arxiv.org/abs/2509.08776v1",
       "published_time_eastern_timestamp": 1757523953.0
     },
