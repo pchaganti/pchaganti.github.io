@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-11T17:09:47.003229-04:00",
+  "last_updated": "2025-09-11T20:52:22.183209-04:00",
   "papers": [
     {
       "title": "Evaluating LLMs Without Oracle Feedback: Agentic Annotation Evaluation\n  Through Unsupervised Consistency Signals",
@@ -15,8 +15,8 @@
     },
     {
       "title": "Efficiently Computing Equilibria in Budget-Aggregation Games",
-      "summary": "Budget aggregation deals with the social choice problem of distributing an\nexogenously given budget among a set of public projects, given agents'\npreferences. Taking a game-theoretic perspective, we initialize the study of\n\\emph{budget-aggregation games} where each agent has virtual decision power\nover some fraction of the budget. This paper investigates the structure and\nshows efficient computability of Nash equilibria in this setting for various\npreference models. In particular, we show that Nash equilibria for Leontief\nutilities can be found in polynomial time, solving an open problem from Brandt\net al. [2023].",
-      "url": "http://arxiv.org/abs/2509.08767v1",
+      "summary": "Budget aggregation deals with the social choice problem of distributing an\nexogenously given budget among a set of public projects, given agents'\npreferences. Taking a game-theoretic perspective, we initialize the study of\nbudget-aggregation games where each agent has virtual decision power over some\nfraction of the budget. This paper investigates the structure and shows\nefficient computability of Nash equilibria in this setting for various\npreference models. In particular, we show that Nash equilibria for Leontief\nutilities can be found in polynomial time, solving an open problem from Brandt\net al. [2023].",
+      "url": "http://arxiv.org/abs/2509.08767v2",
       "published_time_eastern_timestamp": 1757523594.0
     },
     {

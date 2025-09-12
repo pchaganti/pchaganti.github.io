@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-11T17:09:46.488045-04:00",
+  "last_updated": "2025-09-11T20:52:21.535801-04:00",
   "papers": [
     {
       "title": "A Survey of Reinforcement Learning for Large Reasoning Models",
@@ -112,7 +112,7 @@
     {
       "title": "MESH -- Understanding Videos Like Human: Measuring Hallucinations in\n  Large Video Models",
       "summary": "Large Video Models (LVMs) build on the semantic capabilities of Large\nLanguage Models (LLMs) and vision modules by integrating temporal information\nto better understand dynamic video content. Despite their progress, LVMs are\nprone to hallucinations-producing inaccurate or irrelevant descriptions.\nCurrent benchmarks for video hallucination depend heavily on manual\ncategorization of video content, neglecting the perception-based processes\nthrough which humans naturally interpret videos. We introduce MESH, a benchmark\ndesigned to evaluate hallucinations in LVMs systematically. MESH uses a\nQuestion-Answering framework with binary and multi-choice formats incorporating\ntarget and trap instances. It follows a bottom-up approach, evaluating basic\nobjects, coarse-to-fine subject features, and subject-action pairs, aligning\nwith human video understanding. We demonstrate that MESH offers an effective\nand comprehensive approach for identifying hallucinations in videos. Our\nevaluations show that while LVMs excel at recognizing basic objects and\nfeatures, their susceptibility to hallucinations increases markedly when\nhandling fine details or aligning multiple actions involving various subjects\nin longer videos.",
-      "url": "http://arxiv.org/abs/2509.08538v1",
+      "url": "http://arxiv.org/abs/2509.08538v2",
       "published_time_eastern_timestamp": 1757507647.0
     },
     {
