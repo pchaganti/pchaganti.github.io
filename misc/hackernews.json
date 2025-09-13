@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-09-13T14:13:27.794567-04:00",
+  "last_updated": "2025-09-13T17:08:56.395132-04:00",
   "stories": [
     {
-      "title": "Magical Systems Thinking",
-      "score": 81,
+      "title": "An Open-Source Maintainer's Guide to Saying No",
+      "score": 62,
+      "url": "https://www.jlowin.dev/blog/oss-maintainers-guide-to-saying-no",
+      "time": 1757791201.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45234593"
+    },
+    {
+      "title": "Magical systems thinking",
+      "score": 203,
       "url": "https://worksinprogress.co/issue/magical-systems-thinking/",
       "time": 1757780307.0,
       "comments_url": "https://news.ycombinator.com/item?id=45233266"
     },
     {
-      "title": "A store that generates products from anything you type in search",
-      "score": 484,
+      "title": "Show HN: A store that generates products from anything you type in search",
+      "score": 619,
       "url": "https://anycrap.shop/",
       "time": 1757764931.0,
       "comments_url": "https://news.ycombinator.com/item?id=45231378"
     },
     {
+      "title": "RIP pthread_cancel",
+      "score": 93,
+      "url": "https://eissing.org/icing/posts/rip_pthread_cancel/",
+      "time": 1757784021.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45233713"
+    },
+    {
       "title": "486Tang – 486 on a credit-card-sized FPGA board",
-      "score": 79,
+      "score": 115,
       "url": "https://nand2mario.github.io/posts/2025/486tang_486_on_a_credit_card_size_fpga_board/",
       "time": 1757775165.0,
       "comments_url": "https://news.ycombinator.com/item?id=45232565"
     },
     {
+      "title": "Perceived Age",
+      "score": 41,
+      "url": "https://sdan.io/blog/perceived-age",
+      "time": 1757455609.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45189963"
+    },
+    {
       "title": "Mago: A fast PHP toolchain written in Rust",
-      "score": 82,
+      "score": 119,
       "url": "https://github.com/carthage-software/mago",
       "time": 1757773201.0,
       "comments_url": "https://news.ycombinator.com/item?id=45232275"
     },
     {
       "title": "My First Impressions of Gleam",
-      "score": 110,
+      "score": 143,
       "url": "https://mtlynch.io/notes/gleam-first-impressions/",
       "time": 1757769326.0,
       "comments_url": "https://news.ycombinator.com/item?id=45231852"
     },
     {
-      "title": "Show HN: CLAVIER-36 (programming environment for generative music)",
-      "score": 54,
-      "url": "https://clavier36.com/p/LtZDdcRP3haTWHErgvdM",
-      "time": 1757773379.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45232299"
-    },
-    {
-      "title": "Open Source SDR Ham Transceiver Prototype",
-      "score": 28,
-      "url": "https://m17project.org/2025/08/18/first-linht-tests/",
-      "time": 1757468308.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45192012"
-    },
-    {
-      "title": "Japan sets record of nearly 100k people aged over 100",
-      "score": 182,
-      "url": "https://www.bbc.com/news/articles/cd07nljlyv0o",
-      "time": 1757771258.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45232052"
-    },
-    {
-      "title": "SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V",
-      "score": 358,
-      "url": "https://skiftos.org",
-      "time": 1757739314.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45229414"
-    },
-    {
-      "title": "UTF-8 is a brilliant design",
-      "score": 721,
-      "url": "https://iamvishnu.com/posts/utf8-is-brilliant-design",
-      "time": 1757701815.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45225098"
-    },
-    {
-      "title": "Why OpenAI's solution to AI hallucinations would kill ChatGPT tomorrow",
-      "score": 30,
-      "url": "https://theconversation.com/why-openais-solution-to-ai-hallucinations-would-kill-chatgpt-tomorrow-265107",
-      "time": 1757783039.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45233589"
-    },
-    {
-      "title": "How to Use Claude Code Subagents to Parallelize Development",
-      "score": 193,
-      "url": "https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/",
-      "time": 1757424078.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45181577"
-    },
-    {
-      "title": "Java 25's new CPU-Time Profiler (1)",
-      "score": 129,
-      "url": "https://mostlynerdless.de/blog/2025/06/11/java-25s-new-cpu-time-profiler-1/",
-      "time": 1757751087.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45230265"
-    },
-    {
-      "title": "Weird CPU architectures, the MOV only CPU (2020)",
-      "score": 81,
-      "url": "https://justanotherelectronicsblog.com/?p=771",
-      "time": 1757414806.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45180213"
-    },
-    {
-      "title": "QGIS is a free, open-source, cross platform geographical information system",
-      "score": 517,
-      "url": "https://github.com/qgis/QGIS",
-      "time": 1757696237.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45224156"
-    },
-    {
-      "title": "'Someone must know this guy': four-year wedding crasher mystery solved",
-      "score": 10,
+      "title": "‘Someone must know this guy’: four-year wedding crasher mystery solved",
+      "score": 151,
       "url": "https://www.theguardian.com/uk-news/2025/sep/12/wedding-crasher-mystery-solved-four-years-bride-scotland",
       "time": 1757775153.0,
       "comments_url": "https://news.ycombinator.com/item?id=45232562"
     },
     {
-      "title": "Many hard LeetCode problems are easy constraint problems",
-      "score": 594,
-      "url": "https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/",
-      "time": 1757688245.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45222695"
+      "title": "How Ruby executes JIT code",
+      "score": 42,
+      "url": "https://railsatscale.com/2025-09-08-how-ruby-executes-jit-code-the-hidden-mechanics-behind-the-magic/",
+      "time": 1757451713.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45189058"
     },
     {
-      "title": "Show HN: Vicinae – a native, Raycast-compatible launcher for Linux",
-      "score": 97,
-      "url": "https://github.com/vicinaehq/vicinae",
-      "time": 1757448600.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45188116"
+      "title": "WhoBIRD is now deprecated on certified Android devices",
+      "score": 16,
+      "url": "https://github.com/woheller69/whoBIRD",
+      "time": 1757792269.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45234715"
     },
     {
-      "title": "Energy-Based Transformers Explained [video]",
-      "score": 8,
-      "url": "https://www.youtube.com/watch?v=LUQkWzjv2RM",
-      "time": 1757449051.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45188252"
+      "title": "Safe C++ proposal is not being continued",
+      "score": 51,
+      "url": "https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/",
+      "time": 1757790029.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45234460"
     },
     {
-      "title": "An Annual Blast of Pacific Cold Water Did Not Occur, Alarming Scientists",
-      "score": 80,
-      "url": "https://www.nytimes.com/2025/09/12/climate/pacific-cold-water-upwelling.html",
-      "time": 1757771671.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45232100"
+      "title": "Show HN: CLAVIER-36 – A programming environment for generative music",
+      "score": 81,
+      "url": "https://clavier36.com/p/LtZDdcRP3haTWHErgvdM",
+      "time": 1757773379.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45232299"
+    },
+    {
+      "title": "Scientists are rethinking the immune effects of SARS-CoV-2",
+      "score": 54,
+      "url": "https://www.bmj.com/content/390/bmj.r1733",
+      "time": 1757789067.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45234361"
+    },
+    {
+      "title": "Open Source SDR Ham Transceiver Prototype",
+      "score": 56,
+      "url": "https://m17project.org/2025/08/18/first-linht-tests/",
+      "time": 1757468308.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45192012"
+    },
+    {
+      "title": "SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V",
+      "score": 396,
+      "url": "https://skiftos.org",
+      "time": 1757739314.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45229414"
+    },
+    {
+      "title": "Wimpy vs. McDonald's: The Battle of the Burgers",
+      "score": 6,
+      "url": "https://www.historytoday.com/archive/history-matters/wimpy-vs-mcdonalds-battle-burgers",
+      "time": 1757648626.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45218468"
+    },
+    {
+      "title": "Japan sets record of nearly 100k people aged over 100",
+      "score": 249,
+      "url": "https://www.bbc.com/news/articles/cd07nljlyv0o",
+      "time": 1757771258.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45232052"
+    },
+    {
+      "title": "UTF-8 is a brilliant design",
+      "score": 756,
+      "url": "https://iamvishnu.com/posts/utf8-is-brilliant-design",
+      "time": 1757701815.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45225098"
+    },
+    {
+      "title": "The Case Against Social Media Is Stronger Than You Think",
+      "score": 7,
+      "url": "https://arachnemag.substack.com/p/the-case-against-social-media-is",
+      "time": 1757788757.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45234323"
     }
   ]
 }
