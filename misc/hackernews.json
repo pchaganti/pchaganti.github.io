@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-09-13T02:14:55.435075-04:00",
+  "last_updated": "2025-09-13T05:09:59.740895-04:00",
   "stories": [
     {
-      "title": "Legal win",
-      "score": 134,
-      "url": "https://ma.tt/2025/09/legal-win/",
-      "time": 1757728523.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45228692"
-    },
-    {
-      "title": "UTF-8 is a brilliant design",
-      "score": 477,
-      "url": "https://iamvishnu.com/posts/utf8-is-brilliant-design",
-      "time": 1757701815.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45225098"
-    },
-    {
-      "title": "How to Use Claude Code Subagents to Parallelize Development",
-      "score": 30,
-      "url": "https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/",
-      "time": 1757424078.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45181577"
-    },
-    {
-      "title": "QGIS is a free, open-source, cross platform geographical information system",
-      "score": 369,
-      "url": "https://github.com/qgis/QGIS",
-      "time": 1757696237.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45224156"
-    },
-    {
-      "title": "Qwen 3 now supports ARM and MLX",
-      "score": 10,
-      "url": "https://www.alizila.com/qwen-ecosystem-expands-rapidly-accelerating-ai-adoption-across-industries/",
-      "time": 1757739689.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45229443"
-    },
-    {
-      "title": "Many hard LeetCode problems are easy constraint problems",
-      "score": 483,
-      "url": "https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/",
-      "time": 1757688245.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45222695"
-    },
-    {
-      "title": "FFglitch, FFmpeg fork for glitch art",
-      "score": 134,
-      "url": "https://ffglitch.org/gallery/",
-      "time": 1757714074.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45227212"
-    },
-    {
-      "title": "Life, work, death and the peasant: Rent and extraction",
-      "score": 138,
-      "url": "https://acoup.blog/2025/09/12/collections-life-work-death-and-the-peasant-part-ivc-rent-and-extraction/",
-      "time": 1757726137.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45228472"
-    },
-    {
-      "title": "OCI Registry Explorer",
-      "score": 26,
-      "url": "https://oci.dag.dev/",
-      "time": 1757731317.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45228891"
-    },
-    {
-      "title": "Meow: Yet another modal editing on Emacs",
-      "score": 74,
-      "url": "https://github.com/meow-edit/meow",
-      "time": 1757725222.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45228396"
-    },
-    {
-      "title": "The treasury is expanding the Patriot Act to attack Bitcoin self custody",
-      "score": 657,
-      "url": "https://www.tftc.io/treasury-iexpanding-patriot-act/",
-      "time": 1757679029.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45221274"
-    },
-    {
-      "title": "I used standard Emacs extension-points to extend org-mode",
-      "score": 143,
-      "url": "https://edoput.it/2025/04/16/emacs-paradigm-shift.html",
-      "time": 1757710413.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45226639"
-    },
-    {
       "title": "SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V",
-      "score": 10,
+      "score": 97,
       "url": "https://skiftos.org",
       "time": 1757739314.0,
       "comments_url": "https://news.ycombinator.com/item?id=45229414"
     },
     {
-      "title": "EU court rules nuclear energy is clean energy",
-      "score": 721,
-      "url": "https://www.weplanet.org/post/eu-court-rules-nuclear-energy-is-clean-energy",
-      "time": 1757701080.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45224967"
+      "title": "UTF-8 is a brilliant design",
+      "score": 541,
+      "url": "https://iamvishnu.com/posts/utf8-is-brilliant-design",
+      "time": 1757701815.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45225098"
+    },
+    {
+      "title": "Social media promised connection, but it has delivered exhaustion",
+      "score": 111,
+      "url": "https://www.noemamag.com/the-last-days-of-social-media/",
+      "time": 1757744839.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45229799"
+    },
+    {
+      "title": "How to Use Claude Code Subagents to Parallelize Development",
+      "score": 71,
+      "url": "https://zachwills.net/how-to-use-claude-code-subagents-to-parallelize-development/",
+      "time": 1757424078.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45181577"
+    },
+    {
+      "title": "Resizing images in Rust, now with EXIF orientation support",
+      "score": 25,
+      "url": "https://alexwlchan.net/2025/create-thumbnail-is-exif-aware/",
+      "time": 1757413882.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45180094"
+    },
+    {
+      "title": "QGIS is a free, open-source, cross platform geographical information system",
+      "score": 413,
+      "url": "https://github.com/qgis/QGIS",
+      "time": 1757696237.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45224156"
+    },
+    {
+      "title": "Many hard LeetCode problems are easy constraint problems",
+      "score": 507,
+      "url": "https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/",
+      "time": 1757688245.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45222695"
+    },
+    {
+      "title": "Raspberry Pi Synthesizers – How the Pi is transforming synths",
+      "score": 38,
+      "url": "https://www.gearnews.com/raspberry-pi-synthesizers-how-the-pi-is-transforming-synths/",
+      "time": 1757736537.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45229227"
+    },
+    {
+      "title": "FFglitch, FFmpeg fork for glitch art",
+      "score": 178,
+      "url": "https://ffglitch.org/gallery/",
+      "time": 1757714074.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45227212"
+    },
+    {
+      "title": "The treasury is expanding the Patriot Act to attack Bitcoin self custody",
+      "score": 674,
+      "url": "https://www.tftc.io/treasury-iexpanding-patriot-act/",
+      "time": 1757679029.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45221274"
+    },
+    {
+      "title": "Life, work, death and the peasant: Rent and extraction",
+      "score": 186,
+      "url": "https://acoup.blog/2025/09/12/collections-life-work-death-and-the-peasant-part-ivc-rent-and-extraction/",
+      "time": 1757726137.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45228472"
+    },
+    {
+      "title": "I used standard Emacs extension-points to extend org-mode",
+      "score": 154,
+      "url": "https://edoput.it/2025/04/16/emacs-paradigm-shift.html",
+      "time": 1757710413.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45226639"
+    },
+    {
+      "title": "Meow: Yet another modal editing on Emacs",
+      "score": 89,
+      "url": "https://github.com/meow-edit/meow",
+      "time": 1757725222.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45228396"
+    },
+    {
+      "title": "Nepal picks a new prime minister on a discord server days after social media ban",
+      "score": 47,
+      "url": "https://www.nytimes.com/2025/09/11/world/asia/nepal-protest-genz-discord.html",
+      "time": 1757747381.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45229989"
     },
     {
       "title": "Tips for installing Windows 98 in QEMU/UTM",
-      "score": 62,
+      "score": 78,
       "url": "https://sporks.space/2025/08/28/tips-for-installing-windows-98-in-qemu-utm/",
       "time": 1757718248.0,
       "comments_url": "https://news.ycombinator.com/item?id=45227749"
     },
     {
-      "title": "Chatbox app is back on the US app store",
-      "score": 35,
-      "url": "https://github.com/chatboxai/chatbox/issues/2644",
-      "time": 1757729620.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45228766"
+      "title": "EU court rules nuclear energy is clean energy",
+      "score": 787,
+      "url": "https://www.weplanet.org/post/eu-court-rules-nuclear-energy-is-clean-energy",
+      "time": 1757701080.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45224967"
+    },
+    {
+      "title": "Behind Kamathipura's Closed Doors",
+      "score": 5,
+      "url": "https://failedarchitecture.com/behind-kamathipuras-closed-doors/",
+      "time": 1757426583.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45182081"
+    },
+    {
+      "title": "OCI Registry Explorer",
+      "score": 50,
+      "url": "https://oci.dag.dev/",
+      "time": 1757731317.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45228891"
+    },
+    {
+      "title": "Legal win",
+      "score": 180,
+      "url": "https://ma.tt/2025/09/legal-win/",
+      "time": 1757728523.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45228692"
     },
     {
       "title": "3D modeling with paper",
-      "score": 265,
+      "score": 279,
       "url": "https://www.arvinpoddar.com/blog/3d-modeling-with-paper",
       "time": 1757686343.0,
       "comments_url": "https://news.ycombinator.com/item?id=45222369"
-    },
-    {
-      "title": "The Jeopardy game that changed everything still haunts the show 15 years later",
-      "score": 15,
-      "url": "https://slate.com/culture/2025/09/jeopardy-game-watson-questions-final-ken-jennings.html",
-      "time": 1757470531.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45192302"
-    },
-    {
-      "title": "California lawmakers pass SB 79, housing bill that brings dense housing",
-      "score": 131,
-      "url": "https://www.latimes.com/california/story/2025-09-12/california-lawmakers-pass-sb-79-housing-bill-that-brings-dense-housing-to-transit-hubs",
-      "time": 1757727153.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45228552"
-    },
-    {
-      "title": "Rust: A quest for performant, reliable software [video]",
-      "score": 124,
-      "url": "https://www.youtube.com/watch?v=k_-6KI3m31M",
-      "time": 1757663935.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45219817"
     }
   ]
 }
