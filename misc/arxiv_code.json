@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-14T17:09:27.847492-04:00",
+  "last_updated": "2025-09-14T20:57:44.147062-04:00",
   "papers": [
     {
       "title": "FLUX-Reason-6M & PRISM-Bench: A Million-Scale Text-to-Image Reasoning\n  Dataset and Comprehensive Benchmark",
@@ -94,7 +94,7 @@
     {
       "title": "Finite Scalar Quantization Enables Redundant and Transmission-Robust\n  Neural Audio Compression at Low Bit-rates",
       "summary": "Neural Audio Codecs (NACs) have become increasingly adopted in speech\nprocessing tasks due to their excellent rate-distortion performance and\ncompatibility with Large Language Models (LLMs) as discrete feature\nrepresentations for audio generation. While most existing codecs rely on\nResidual Vector Quantization (RVQ), Finite Scalar Quantization (FSQ) has\nrecently emerged as a compelling alternative that simplifies training and\nnatively supports single codebooks. We introduce NeuCodec, an FSQ-based NAC,\nand show that FSQ encodes baked-in redundancy which produces an encoding which\nis robust when transmitted through noisy channels. First, through an encoder\ndistillation experiment, we show that two different encoders can learn to\nencode identical audio into vastly different code sequences whilst maintaining\ncomparable reconstruction quality with the same quantizer and decoder. Second,\nwe demonstrate that FSQ has vastly superior bit-level perturbation robustness\nby comparing the performance of RVQ and FSQ codecs when simulating the\ntransmission of code sequences through a noisy channel.",
-      "url": "http://arxiv.org/abs/2509.09550v1",
+      "url": "http://arxiv.org/abs/2509.09550v2",
       "published_time_eastern_timestamp": 1757605199.0
     },
     {

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-14T17:09:26.803663-04:00",
+  "last_updated": "2025-09-14T20:57:43.066229-04:00",
   "papers": [
     {
       "title": "ButterflyQuant: Ultra-low-bit LLM Quantization through Learnable\n  Orthogonal Butterfly Transforms",
@@ -64,7 +64,7 @@
     {
       "title": "Finite Scalar Quantization Enables Redundant and Transmission-Robust\n  Neural Audio Compression at Low Bit-rates",
       "summary": "Neural Audio Codecs (NACs) have become increasingly adopted in speech\nprocessing tasks due to their excellent rate-distortion performance and\ncompatibility with Large Language Models (LLMs) as discrete feature\nrepresentations for audio generation. While most existing codecs rely on\nResidual Vector Quantization (RVQ), Finite Scalar Quantization (FSQ) has\nrecently emerged as a compelling alternative that simplifies training and\nnatively supports single codebooks. We introduce NeuCodec, an FSQ-based NAC,\nand show that FSQ encodes baked-in redundancy which produces an encoding which\nis robust when transmitted through noisy channels. First, through an encoder\ndistillation experiment, we show that two different encoders can learn to\nencode identical audio into vastly different code sequences whilst maintaining\ncomparable reconstruction quality with the same quantizer and decoder. Second,\nwe demonstrate that FSQ has vastly superior bit-level perturbation robustness\nby comparing the performance of RVQ and FSQ codecs when simulating the\ntransmission of code sequences through a noisy channel.",
-      "url": "http://arxiv.org/abs/2509.09550v1",
+      "url": "http://arxiv.org/abs/2509.09550v2",
       "published_time_eastern_timestamp": 1757605199.0
     },
     {
@@ -100,7 +100,7 @@
     {
       "title": "TORSO: Template-Oriented Reasoning Towards General Tasks",
       "summary": "The approaches that guide Large Language Models (LLMs) to emulate human\nreasoning during response generation have emerged as an effective method for\nenabling them to solve complex problems in a step-by-step manner, thereby\nachieving superior performance. However, most existing approaches using\nfew-shot prompts to generate responses heavily depend on the provided examples,\nlimiting the utilization of the model's inherent reasoning capabilities.\nMoreover, constructing task-specific few-shot prompts is often costly and may\nlead to inconsistencies across different tasks. In this work, we introduce\nTemplate-Oriented Reasoning (TORSO), which elicits the model to utilize\ninternal reasoning abilities to generate proper responses across various tasks\nwithout the need for manually crafted few-shot examples. Our experimental\nresults demonstrate that TORSO achieves strong performance on diverse LLMs\nbenchmarks with reasonable rationales.",
-      "url": "http://arxiv.org/abs/2509.09448v1",
+      "url": "http://arxiv.org/abs/2509.09448v2",
       "published_time_eastern_timestamp": 1757597495.0
     },
     {
