@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-09-15T11:13:06.463024-04:00",
+  "last_updated": "2025-09-15T14:16:37.948896-04:00",
   "stories": [
     {
+      "title": "Asciinema CLI 3.0 rewritten in Rust, adds live streaming, upgrades file format",
+      "score": 128,
+      "url": "https://blog.asciinema.org/post/three-point-o/",
+      "time": 1757952390.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45251375"
+    },
+    {
       "title": "Hosting a website on a disposable vape",
-      "score": 255,
+      "score": 39,
       "url": "https://bogdanthegeek.github.io/blog/projects/vapeserver/",
-      "time": 1757942029.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45249287"
+      "time": 1757958799.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45252817"
     },
     {
-      "title": "CubeSats are fascinating learning tools for space",
-      "score": 34,
-      "url": "https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space",
-      "time": 1757944922.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45249878"
+      "title": "Wanted to spy on my dog, ended up spying on TP-Link",
+      "score": 81,
+      "url": "https://kennedn.com/blog/posts/tapo/",
+      "time": 1757953734.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45251690"
     },
     {
-      "title": "PayPal Ushers in a New Era of Peer-to-Peer Payments with Ethereum and Bitcoin",
-      "score": 32,
+      "title": "PayPal to support Ethereum and Bitcoin",
+      "score": 172,
       "url": "https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere",
       "time": 1757945087.0,
       "comments_url": "https://news.ycombinator.com/item?id=45249915"
     },
     {
-      "title": "RustGPT: A pure-Rust transformer LLM built from scratch",
-      "score": 237,
-      "url": "https://github.com/tekaratzas/RustGPT",
-      "time": 1757929638.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45247890"
+      "title": "Launch HN: Trigger.dev (YC W23) – Open-source platform to build reliable AI apps",
+      "score": 73,
+      "url": "https://news.ycombinator.com/item?id=45250720",
+      "time": 1757949618.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45250720"
+    },
+    {
+      "title": "React Won by Default – and It's Killing Front End Innovation",
+      "score": 25,
+      "url": "https://www.lorenstew.art/blog/react-won-by-default/",
+      "time": 1757958361.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45252715"
+    },
+    {
+      "title": "Boring Work Needs Tension",
+      "score": 35,
+      "url": "https://iaziz786.com/blog/boring-work-needs-tension/",
+      "time": 1757951069.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45251093"
+    },
+    {
+      "title": "CubeSats are fascinating learning tools for space",
+      "score": 108,
+      "url": "https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space",
+      "time": 1757944922.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45249878"
+    },
+    {
+      "title": "How big a solar battery do I need to store all my home's electricity?",
+      "score": 128,
+      "url": "https://shkspr.mobi/blog/2025/09/how-big-a-solar-battery-do-i-need-to-store-all-my-homes-electricity/",
+      "time": 1757939608.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45248899"
     },
     {
       "title": "Programming Deflation",
-      "score": 16,
+      "score": 78,
       "url": "https://tidyfirst.substack.com/p/programming-deflation",
       "time": 1757945503.0,
       "comments_url": "https://news.ycombinator.com/item?id=45249985"
     },
     {
+      "title": "Self-Assembly Gets Automated in Reverse of 'Game of Life'",
+      "score": 16,
+      "url": "https://www.quantamagazine.org/self-assembly-gets-automated-in-reverse-of-game-of-life-20250910/",
+      "time": 1757675756.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45220939"
+    },
+    {
       "title": "How to self-host a web font from Google Fonts",
-      "score": 13,
+      "score": 58,
       "url": "https://blog.velocifyer.com/Posts/3,0,0,2025-8-13,+how+to+self+host+a+font+from+google+fonts.html",
       "time": 1757946821.0,
       "comments_url": "https://news.ycombinator.com/item?id=45250202"
     },
     {
+      "title": "RustGPT: A pure-Rust transformer LLM built from scratch",
+      "score": 295,
+      "url": "https://github.com/tekaratzas/RustGPT",
+      "time": 1757929638.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45247890"
+    },
+    {
+      "title": "Microsoft to force install the Microsoft 365 Copilot app in October",
+      "score": 76,
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-install-the-microsoft-365-copilot-app-in-october/",
+      "time": 1757953343.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45251593"
+    },
+    {
       "title": "Removing newlines in FASTA file increases ZSTD compression ratio by 10x",
-      "score": 141,
+      "score": 191,
       "url": "https://log.bede.im/2025/09/12/zstandard-long-range-genomes.html",
       "time": 1757694311.0,
       "comments_url": "https://news.ycombinator.com/item?id=45223827"
     },
     {
-      "title": "Folks, we have the best π",
-      "score": 208,
-      "url": "https://lcamtuf.substack.com/p/folks-we-have-the-best",
-      "time": 1757920203.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45246953"
+      "title": "Show HN: Daffodil – Open-Source Ecommerce Framework to connect to any platform",
+      "score": 35,
+      "url": "https://github.com/graycoreio/daffodil",
+      "time": 1757946742.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45250193"
     },
     {
-      "title": "Language Models Pack Billions of Concepts into 12k Dimensions",
-      "score": 284,
-      "url": "https://nickyoder.com/johnson-lindenstrauss/",
-      "time": 1757908460.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45245948"
+      "title": "Show HN: AI-powered web service combining FastAPI, Pydantic-AI, and MCP servers",
+      "score": 5,
+      "url": "https://github.com/Aherontas/Pycon_Greece_2025_Presentation_Agents",
+      "time": 1757884676.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45243320"
     },
     {
-      "title": "Show HN: Semlib – Semantic Data Processing",
-      "score": 11,
-      "url": "https://github.com/anishathalye/semlib",
-      "time": 1757943956.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45249697"
+      "title": "Researchers revive the pinhole camera for next-gen infrared imaging",
+      "score": 6,
+      "url": "https://phys.org/news/2025-09-revive-pinhole-camera-gen-infrared.html",
+      "time": 1757643742.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45218046"
     },
     {
-      "title": "The Obsolescence of Political Definitions",
-      "score": 18,
-      "url": "http://vmchale.com/static/serve/taxonomy.html",
-      "time": 1757942990.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45249500"
+      "title": "A string formatting library in 65 lines of C++",
+      "score": 22,
+      "url": "https://riki.house/fmt",
+      "time": 1757951488.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45251178"
     },
     {
-      "title": "Pgstream: Postgres streaming logical replication with DDL changes",
-      "score": 12,
-      "url": "https://github.com/xataio/pgstream",
-      "time": 1757939304.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45248868"
-    },
-    {
-      "title": "Betty Crocker broke recipes by shrinking boxes",
-      "score": 506,
-      "url": "https://www.cubbyathome.com/boxed-cake-mix-sizes-have-shrunk-80045058",
-      "time": 1757886847.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45243635"
-    },
-    {
-      "title": "Denmark's Justice Minister calls encrypted messaging a false civil liberty",
-      "score": 305,
-      "url": "https://mastodon.social/@chatcontrol/115204439983078498",
-      "time": 1757938881.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45248802"
-    },
-    {
-      "title": "The Mac App Flea Market",
-      "score": 111,
-      "url": "https://blog.jim-nielsen.com/2025/mac-app-flea-market/",
-      "time": 1757920453.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45246971"
-    },
-    {
-      "title": "Cory Doctorow: \"centaurs\" and \"reverse-centaurs\"",
-      "score": 15,
-      "url": "https://locusmag.com/2025/09/commentary-cory-doctorow-reverse-centaurs/",
-      "time": 1757651959.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45218681"
-    },
-    {
-      "title": "Show HN: I reverse engineered macOS to allow custom Lock Screen wallpapers",
-      "score": 19,
-      "url": "https://cindori.com/backdrop",
-      "time": 1757924889.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45247396"
-    },
-    {
-      "title": "NASA's Guardian Tsunami Detection Tech Catches Wave in Real Time",
-      "score": 99,
-      "url": "https://www.jpl.nasa.gov/news/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/",
-      "time": 1757712308.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45226938"
-    },
-    {
-      "title": "PythonBPF – Writing eBPF Programs in Pure Python",
-      "score": 109,
-      "url": "https://xeon.me/gnome/pythonbpf/",
-      "time": 1757676587.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45221023"
-    },
-    {
-      "title": "How does air pollution impact your brain?",
-      "score": 33,
-      "url": "https://neurofrontiers.blog/how-does-air-pollution-impact-your-brain/",
-      "time": 1757927063.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45247616"
+      "title": "Apple has a private CSS property to add Liquid Glass effects to web content",
+      "score": 210,
+      "url": "https://alastair.is/apple-has-a-private-css-property-to-add-liquid-glass-effects-to-web-content/",
+      "time": 1757947740.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45250370"
     }
   ]
 }
