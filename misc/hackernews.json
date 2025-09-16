@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-09-16T05:13:15.340995-04:00",
+  "last_updated": "2025-09-16T08:22:45.350866-04:00",
   "stories": [
     {
+      "title": "Self Propagating NPM Malware Compromises over 40 Packages",
+      "score": 100,
+      "url": "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+      "time": 1758021723.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45260741"
+    },
+    {
       "title": "Hosting a website on a disposable vape",
-      "score": 1037,
+      "score": 1186,
       "url": "https://bogdanthegeek.github.io/blog/projects/vapeserver/",
       "time": 1757958799.0,
       "comments_url": "https://news.ycombinator.com/item?id=45252817"
     },
     {
-      "title": "IBM Technology Atlas",
-      "score": 26,
-      "url": "https://www.ibm.com/roadmaps/",
-      "time": 1758007722.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45259139"
-    },
-    {
-      "title": "Automating Distro Updates in CI",
-      "score": 9,
-      "url": "https://paretosecurity.com/blog/automating-distro-updates-in-ci/",
-      "time": 1758010824.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45259529"
+      "title": "60 years after Gemini, newly processed images reveal details",
+      "score": 94,
+      "url": "https://arstechnica.com/space/2025/09/60-years-after-gemini-newly-processed-images-reveal-incredible-details/",
+      "time": 1757767434.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45231614"
     },
     {
       "title": "\"Your\" vs. \"My\" in user interfaces",
-      "score": 130,
+      "score": 257,
       "url": "https://adamsilver.io/blog/your-vs-my-in-user-interfaces/",
       "time": 1757991953.0,
       "comments_url": "https://news.ycombinator.com/item?id=45257627"
     },
     {
+      "title": "Migrating to React Native's New Architecture",
+      "score": 14,
+      "url": "https://shopify.engineering/react-native-new-architecture",
+      "time": 1757702496.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45225217"
+    },
+    {
       "title": "Learn x86-64 assembly by writing a GUI from scratch (2023)",
-      "score": 100,
+      "score": 153,
       "url": "https://gaultier.github.io/blog/x11_x64.html",
       "time": 1757681506.0,
       "comments_url": "https://news.ycombinator.com/item?id=45221567"
     },
     {
       "title": "React is winning by default and slowing innovation",
-      "score": 485,
+      "score": 560,
       "url": "https://www.lorenstew.art/blog/react-won-by-default/",
       "time": 1757958361.0,
       "comments_url": "https://news.ycombinator.com/item?id=45252715"
     },
     {
-      "title": "60 years after Gemini, newly processed images reveal details",
-      "score": 15,
-      "url": "https://arstechnica.com/space/2025/09/60-years-after-gemini-newly-processed-images-reveal-incredible-details/",
-      "time": 1757767434.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45231614"
+      "title": "The Mythical Creatures of London",
+      "score": 20,
+      "url": "https://londonist.com/london/history/the-mythical-creatures-of-london",
+      "time": 1757758170.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45230840"
     },
     {
       "title": "William Gibson Reads Neuromancer (2004)",
-      "score": 233,
+      "score": 252,
       "url": "http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html",
       "time": 1757971681.0,
       "comments_url": "https://news.ycombinator.com/item?id=45255137"
     },
     {
       "title": "macOS Tahoe",
-      "score": 443,
+      "score": 496,
       "url": "https://www.apple.com/os/macos/",
       "time": 1757956602.0,
       "comments_url": "https://news.ycombinator.com/item?id=45252378"
     },
     {
-      "title": "Reichstag Fire Decree (1933)",
-      "score": 50,
-      "url": "https://encyclopedia.ushmm.org/content/en/article/reichstag-fire-decree",
-      "time": 1758009613.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45259360"
-    },
-    {
-      "title": "ERP Therapy Sucks",
-      "score": 31,
-      "url": "https://taylor.town/try-erp",
-      "time": 1757804767.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45236014"
-    },
-    {
       "title": "Wanted to spy on my dog, ended up spying on TP-Link",
-      "score": 433,
+      "score": 466,
       "url": "https://kennedn.com/blog/posts/tapo/",
       "time": 1757953734.0,
       "comments_url": "https://news.ycombinator.com/item?id=45251690"
     },
     {
+      "title": "Automating Distro Updates in CI",
+      "score": 14,
+      "url": "https://paretosecurity.com/blog/automating-distro-updates-in-ci/",
+      "time": 1758010824.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45259529"
+    },
+    {
       "title": "I feel Apple has lost its alignment with me and other long-time customers",
-      "score": 314,
+      "score": 390,
       "url": "https://morrick.me/archives/10137",
       "time": 1757982059.0,
       "comments_url": "https://news.ycombinator.com/item?id=45256577"
     },
     {
-      "title": "Addendum to GPT-5 system card: GPT-5-Codex",
-      "score": 223,
-      "url": "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex/",
-      "time": 1757961932.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45253458"
-    },
-    {
-      "title": "How big a solar battery do I need to store all my home's electricity?",
-      "score": 328,
-      "url": "https://shkspr.mobi/blog/2025/09/how-big-a-solar-battery-do-i-need-to-store-all-my-homes-electricity/",
-      "time": 1757939608.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45248899"
-    },
-    {
       "title": "PayPal to support Ethereum and Bitcoin",
-      "score": 428,
+      "score": 451,
       "url": "https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere",
       "time": 1757945087.0,
       "comments_url": "https://news.ycombinator.com/item?id=45249915"
     },
     {
-      "title": "Linux phones are more important now than ever",
-      "score": 469,
-      "url": "https://feddit.org/post/18353777",
-      "time": 1757982792.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45256651"
+      "title": "How big a solar battery do I need to store all my home's electricity?",
+      "score": 349,
+      "url": "https://shkspr.mobi/blog/2025/09/how-big-a-solar-battery-do-i-need-to-store-all-my-homes-electricity/",
+      "time": 1757939608.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45248899"
     },
     {
       "title": "GPT-5-Codex",
-      "score": 300,
+      "score": 330,
       "url": "https://openai.com/index/introducing-upgrades-to-codex/",
       "time": 1757956239.0,
       "comments_url": "https://news.ycombinator.com/item?id=45252301"
     },
     {
-      "title": "Why do we keep gravitating toward complexity?",
-      "score": 88,
-      "url": "https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html",
-      "time": 1757977351.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45256043"
+      "title": "Addendum to GPT-5 system card: GPT-5-Codex",
+      "score": 235,
+      "url": "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex/",
+      "time": 1757961932.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45253458"
     },
     {
       "title": "People Who Hunt Down Old TVs",
-      "score": 76,
+      "score": 93,
       "url": "https://www.bbc.com/future/article/20250911-the-people-who-hunt-down-old-tvs",
       "time": 1757717479.0,
       "comments_url": "https://news.ycombinator.com/item?id=45227679"
+    },
+    {
+      "title": "Linux phones are more important now than ever",
+      "score": 570,
+      "url": "https://feddit.org/post/18353777",
+      "time": 1757982792.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45256651"
+    },
+    {
+      "title": "Why do we keep gravitating toward complexity?",
+      "score": 106,
+      "url": "https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html",
+      "time": 1757977351.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45256043"
     }
   ]
 }
