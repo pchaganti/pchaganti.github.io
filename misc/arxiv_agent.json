@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-16T17:10:10.964123-04:00",
+  "last_updated": "2025-09-16T20:53:08.193144-04:00",
   "papers": [
     {
       "title": "Optimal Savings with Preference for Wealth",
@@ -82,7 +82,7 @@
     {
       "title": "MillStone: How Open-Minded Are LLMs?",
       "summary": "Large language models equipped with Web search, information retrieval tools,\nand other agentic capabilities are beginning to supplant traditional search\nengines. As users start to rely on LLMs for information on many topics,\nincluding controversial and debatable issues, it is important to understand how\nthe stances and opinions expressed in LLM outputs are influenced by the\ndocuments they use as their information sources.\n  In this paper, we present MillStone, the first benchmark that aims to\nsystematically measure the effect of external arguments on the stances that\nLLMs take on controversial issues (not all of them political). We apply\nMillStone to nine leading LLMs and measure how ``open-minded'' they are to\narguments supporting opposite sides of these issues, whether different LLMs\nagree with each other, which arguments LLMs find most persuasive, and whether\nthese arguments are the same for different LLMs.\n  In general, we find that LLMs are open-minded on most issues. An\nauthoritative source of information can easily sway an LLM's stance,\nhighlighting the importance of source selection and the risk that LLM-based\ninformation retrieval and search systems can be manipulated.",
-      "url": "http://arxiv.org/abs/2509.11967v1",
+      "url": "http://arxiv.org/abs/2509.11967v2",
       "published_time_eastern_timestamp": 1757945931.0
     },
     {
