@@ -1,61 +1,96 @@
 {
-  "last_updated": "2025-09-17T14:16:15.059640-04:00",
+  "last_updated": "2025-09-17T17:09:51.918625-04:00",
   "stories": [
     {
+      "title": "WASM 3.0 Completed",
+      "score": 437,
+      "url": "https://webassembly.org/news/2025-09-17-wasm-3.0/",
+      "time": 1758133013.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45279384"
+    },
+    {
       "title": "Apple Photos app corrupts images",
-      "score": 733,
+      "score": 872,
       "url": "https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/",
       "time": 1758107264.0,
       "comments_url": "https://news.ycombinator.com/item?id=45274277"
     },
     {
+      "title": "Optimizing ClickHouse for Intel's 280 core processors",
+      "score": 75,
+      "url": "https://clickhouse.com/blog/optimizing-clickhouse-intel-high-core-count-cpu",
+      "time": 1758134763.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45279792"
+    },
+    {
+      "title": "Gluon: a GPU programming language based on the same compiler stack as Triton",
+      "score": 25,
+      "url": "https://github.com/triton-lang/triton/blob/main/python/tutorials/gluon/01-intro.py",
+      "time": 1758138611.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45280592"
+    },
+    {
       "title": "Tinycolor supply chain attack post-mortem",
-      "score": 42,
+      "score": 101,
       "url": "https://sigh.dev/posts/ctrl-tinycolor-post-mortem/",
       "time": 1758129518.0,
       "comments_url": "https://news.ycombinator.com/item?id=45278657"
     },
     {
-      "title": "DeepSeek writes less secure code for groups China disfavors",
-      "score": 31,
-      "url": "https://www.washingtonpost.com/technology/2025/09/16/deepseek-ai-security/",
-      "time": 1758129854.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45278740"
+      "title": "DeepMind and OpenAI win gold at ICPC",
+      "score": 85,
+      "url": "https://codeforces.com/blog/entry/146536",
+      "time": 1758132916.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45279357"
     },
     {
-      "title": "Depression Reduces Capacity to Learn to Actively Avoid Aversive Events",
-      "score": 25,
-      "url": "https://www.eneuro.org/content/12/9/ENEURO.0034-25.2025",
-      "time": 1758129636.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45278686"
+      "title": "YouTube addresses lower view counts which seem to be caused by ad blockers",
+      "score": 200,
+      "url": "https://9to5google.com/2025/09/16/youtube-lower-view-counts-ad-blockers/",
+      "time": 1758119350.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45276262"
     },
     {
-      "title": "U.S. investors, Trump close in on TikTok deal with China",
-      "score": 223,
-      "url": "https://www.wsj.com/tech/details-emerge-on-u-s-china-tiktok-deal-594e009f",
-      "time": 1758054929.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45267643"
-    },
-    {
-      "title": "Drought in Iraq Reveals Ancient Tombs Created 2,300 Years Ago",
-      "score": 9,
+      "title": "Drought in Iraq reveals tombs created 2,300 years ago",
+      "score": 62,
       "url": "https://www.smithsonianmag.com/smart-news/severe-droughts-in-iraq-reveals-dozens-of-ancient-tombs-created-2300-years-ago-180987347/",
       "time": 1758129135.0,
       "comments_url": "https://news.ycombinator.com/item?id=45278581"
     },
     {
-      "title": "Tau² benchmark: How a prompt rewrite boosted GPT-5-mini by 22%",
-      "score": 133,
-      "url": "https://quesma.com/blog/tau2-benchmark-improving-results-smaller-models/",
-      "time": 1758114204.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45275354"
+      "title": "Launch HN: RunRL (YC X25) – Reinforcement learning as a service",
+      "score": 41,
+      "url": "https://runrl.com",
+      "time": 1758125580.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45277704"
     },
     {
-      "title": "How to motivate yourself to do a thing you don't want to do",
-      "score": 135,
-      "url": "https://ashleyjanssen.com/how-to-motivate-yourself-to-do-a-thing-you-dont-want-to-do/",
-      "time": 1758122724.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45276987"
+      "title": "The Asus gaming laptop ACPI firmware bug",
+      "score": 378,
+      "url": "https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive",
+      "time": 1758081276.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45271484"
+    },
+    {
+      "title": "Noise cancelling a fan",
+      "score": 32,
+      "url": "https://chillphysicsenjoyer.substack.com/p/noise-cancelling-a-fan",
+      "time": 1757970915.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45255004"
+    },
+    {
+      "title": "Ton Roosendaal to step down as Blender chairman and CEO",
+      "score": 117,
+      "url": "https://www.cgchannel.com/2025/09/ton-roosendaal-to-step-down-as-blender-chairman-and-ceo/",
+      "time": 1758127777.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45278279"
+    },
+    {
+      "title": "Famous cognitive psychology experiments that failed to replicate",
+      "score": 75,
+      "url": "https://buttondown.com/aethermug/archive/aether-mug-famous-cognitive-psychology/",
+      "time": 1758135328.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45279898"
     },
     {
       "title": "Event Horizon Labs (YC W24) Is Hiring",
@@ -65,81 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=45278424"
     },
     {
-      "title": "Ask HN: Is anyone else sick of AI splattered code",
-      "score": 51,
-      "url": "https://news.ycombinator.com/item?id=45278819",
-      "time": 1758130198.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45278819"
-    },
-    {
-      "title": "Alibaba's new AI chip: Key specifications comparable to H20",
-      "score": 200,
-      "url": "https://news.futunn.com/en/post/62202518/alibaba-s-new-ai-chip-unveiled-key-specifications-comparable-to",
-      "time": 1758102344.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45273747"
-    },
-    {
-      "title": "Launch HN: RunRL (YC X25) – Reinforcement learning as a service",
-      "score": 21,
-      "url": "https://runrl.com",
-      "time": 1758125580.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45277704"
-    },
-    {
       "title": "Anthropic irks White House with limits on models’ use",
-      "score": 6,
+      "score": 182,
       "url": "https://www.semafor.com/article/09/17/2025/anthropic-irks-white-house-with-limits-on-models-uswhite-house-with-limits-on-models-use",
       "time": 1758131859.0,
       "comments_url": "https://news.ycombinator.com/item?id=45279143"
     },
     {
-      "title": "Determination of the fifth Busy Beaver value",
-      "score": 208,
-      "url": "https://arxiv.org/abs/2509.12337",
-      "time": 1758104778.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45273999"
+      "title": "U.S. investors, Trump close in on TikTok deal with China",
+      "score": 300,
+      "url": "https://www.wsj.com/tech/details-emerge-on-u-s-china-tiktok-deal-594e009f",
+      "time": 1758054929.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45267643"
+    },
+    {
+      "title": "DeepSeek writes less secure code for groups China disfavors?",
+      "score": 176,
+      "url": "https://www.washingtonpost.com/technology/2025/09/16/deepseek-ai-security/",
+      "time": 1758129854.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45278740"
+    },
+    {
+      "title": "Infinite Mac: Resource Fork Roundtripping",
+      "score": 10,
+      "url": "https://blog.persistent.info/2025/09/infinite-mac-resource-forks.html",
+      "time": 1758001003.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45258403"
     },
     {
       "title": "Ask HN: What's a good 3D Printer for sub $1000?",
-      "score": 41,
+      "score": 97,
       "url": "https://news.ycombinator.com/item?id=45251624",
       "time": 1757953478.0,
       "comments_url": "https://news.ycombinator.com/item?id=45251624"
     },
     {
-      "title": "Ton Roosendaal to step down as Blender chairman and CEO",
-      "score": 9,
-      "url": "https://www.cgchannel.com/2025/09/ton-roosendaal-to-step-down-as-blender-chairman-and-ceo/",
-      "time": 1758127777.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45278279"
-    },
-    {
-      "title": "YouTube addresses lower view counts which seem to be caused by ad blockers",
-      "score": 134,
-      "url": "https://9to5google.com/2025/09/16/youtube-lower-view-counts-ad-blockers/",
-      "time": 1758119350.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45276262"
-    },
-    {
-      "title": "Procedural Island Generation (III)",
-      "score": 74,
-      "url": "https://brashandplucky.com/2025/09/17/procedural-island-generation-iii.html",
-      "time": 1758112189.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45275049"
-    },
-    {
-      "title": "Microsoft Python Driver for SQL Server",
-      "score": 42,
-      "url": "https://github.com/microsoft/mssql-python",
-      "time": 1758122905.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45277023"
-    },
-    {
-      "title": "PureVPN IPv6 Leak",
-      "score": 141,
-      "url": "https://anagogistis.com/posts/purevpn-ipv6-leak/",
-      "time": 1758103814.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45273897"
+      "title": "Just for fun: animating a mosaic of 90s GIFs",
+      "score": 26,
+      "url": "https://alexplescan.com/posts/2025/09/15/gifs/",
+      "time": 1757993563.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45257757"
     }
   ]
 }
