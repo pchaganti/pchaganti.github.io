@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-09-17T08:22:58.466069-04:00",
+  "last_updated": "2025-09-17T11:12:49.861652-04:00",
   "stories": [
     {
       "title": "Apple Photos App Corrupts Images",
-      "score": 130,
+      "score": 449,
       "url": "https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/",
       "time": 1758107264.0,
       "comments_url": "https://news.ycombinator.com/item?id=45274277"
     },
     {
+      "title": "Bringing fully autonomous rides to Nashville, in partnership with Lyft",
+      "score": 48,
+      "url": "https://waymo.com/blog/2025/09/waymo-is-coming-to-nashville-in-partnership-with-lyft",
+      "time": 1758114645.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45275415"
+    },
+    {
+      "title": "Tau² Benchmark: How a Prompt Rewrite Boosted GPT-5-Mini by 22%",
+      "score": 60,
+      "url": "https://quesma.com/blog/tau2-benchmark-improving-results-smaller-models/",
+      "time": 1758114204.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45275354"
+    },
+    {
       "title": "Determination of the fifth Busy Beaver value",
-      "score": 52,
+      "score": 157,
       "url": "https://arxiv.org/abs/2509.12337",
       "time": 1758104778.0,
       "comments_url": "https://news.ycombinator.com/item?id=45273999"
     },
     {
-      "title": "Alibaba's New AI Chip Unveiled: Key Specifications Comparable to H20",
-      "score": 56,
-      "url": "https://news.futunn.com/en/post/62202518/alibaba-s-new-ai-chip-unveiled-key-specifications-comparable-to",
-      "time": 1758102344.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45273747"
-    },
-    {
       "title": "GNU Midnight Commander",
-      "score": 345,
+      "score": 417,
       "url": "https://midnight-commander.org/",
       "time": 1758081246.0,
       "comments_url": "https://news.ycombinator.com/item?id=45271481"
     },
     {
-      "title": "Oh no, not again a meditation on NPM supply chain attacks",
-      "score": 85,
-      "url": "https://tane.dev/2025/09/oh-no-not-again...-a-meditation-on-npm-supply-chain-attacks/",
-      "time": 1758103070.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45273824"
+      "title": "Procedural Island Generation (III)",
+      "score": 37,
+      "url": "https://brashandplucky.com/2025/09/17/procedural-island-generation-iii.html",
+      "time": 1758112189.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45275049"
+    },
+    {
+      "title": "Firefox 143 for Android to introduce DoH",
+      "score": 93,
+      "url": "https://blog.mozilla.org/en/firefox/dns-android/",
+      "time": 1758114844.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45275444"
     },
     {
       "title": "PureVPN IPv6 Leak",
-      "score": 29,
+      "score": 94,
       "url": "https://anagogistis.com/posts/purevpn-ipv6-leak/",
       "time": 1758103814.0,
       "comments_url": "https://news.ycombinator.com/item?id=45273897"
     },
     {
       "title": "Shai-Hulud malware attack: Tinycolor and over 40 NPM packages compromised",
-      "score": 1075,
+      "score": 1138,
       "url": "https://socket.dev/blog/ongoing-supply-chain-attack-targets-crowdstrike-npm-packages",
       "time": 1758021723.0,
       "comments_url": "https://news.ycombinator.com/item?id=45260741"
     },
     {
-      "title": "Notion API importer, with Databases to Bases conversion bounty",
-      "score": 129,
-      "url": "https://github.com/obsidianmd/obsidian-importer/issues/421",
-      "time": 1758085910.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45271942"
-    },
-    {
-      "title": "The Asus Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation",
-      "score": 255,
-      "url": "https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive",
-      "time": 1758081276.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45271484"
+      "title": "YouTube addresses lower view counts which seem to be caused by ad blockers",
+      "score": 28,
+      "url": "https://9to5google.com/2025/09/16/youtube-lower-view-counts-ad-blockers/",
+      "time": 1758119350.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45276262"
     },
     {
       "title": "Why We're Building Stategraph: Terraform State as a Distributed Systems Problem",
-      "score": 32,
+      "score": 83,
       "url": "https://stategraph.dev/blog/why-stategraph/",
       "time": 1758098297.0,
       "comments_url": "https://news.ycombinator.com/item?id=45273352"
     },
     {
+      "title": "Notion API importer, with Databases to Bases conversion bounty",
+      "score": 151,
+      "url": "https://github.com/obsidianmd/obsidian-importer/issues/421",
+      "time": 1758085910.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45271942"
+    },
+    {
+      "title": "You can't test if quantum uses complex numbers",
+      "score": 34,
+      "url": "https://algassert.com/post/2501",
+      "time": 1757937480.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45248628"
+    },
+    {
+      "title": "SQLiteData: A fast, lightweight replacement for SwiftData using SQL and CloudKit",
+      "score": 8,
+      "url": "https://github.com/pointfreeco/sqlite-data",
+      "time": 1758115646.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45275582"
+    },
+    {
+      "title": "Alibaba's New AI Chip Unveiled: Key Specifications Comparable to H20",
+      "score": 141,
+      "url": "https://news.futunn.com/en/post/62202518/alibaba-s-new-ai-chip-unveiled-key-specifications-comparable-to",
+      "time": 1758102344.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45273747"
+    },
+    {
       "title": "Things you can do with a Software Defined Radio (2024)",
-      "score": 843,
+      "score": 880,
       "url": "https://blinry.org/50-things-with-sdr/",
       "time": 1758033319.0,
       "comments_url": "https://news.ycombinator.com/item?id=45262835"
     },
     {
       "title": "Doom crash after 2.5 years of real-world runtime confirmed on real hardware",
-      "score": 314,
+      "score": 371,
       "url": "https://lenowo.org/viewtopic.php?t=31",
       "time": 1758057863.0,
       "comments_url": "https://news.ycombinator.com/item?id=45268269"
     },
     {
+      "title": "Algebraic Types are not Scary",
+      "score": 47,
+      "url": "https://blog.aiono.dev/posts/algebraic-types-are-not-scary,-actually.html",
+      "time": 1757931278.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45248043"
+    },
+    {
       "title": "Murex – An intuitive and content aware shell for a modern command line",
-      "score": 55,
+      "score": 80,
       "url": "https://murex.rocks/",
       "time": 1758090737.0,
       "comments_url": "https://news.ycombinator.com/item?id=45272480"
     },
     {
-      "title": "I got the highest score on ARC-AGI again swapping Python for English",
-      "score": 109,
-      "url": "https://jeremyberman.substack.com/p/how-i-got-the-highest-score-on-arc-agi-again",
-      "time": 1758074027.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45270649"
-    },
-    {
-      "title": "You can't test if quantum uses complex numbers",
-      "score": 6,
-      "url": "https://algassert.com/post/2501",
-      "time": 1757937480.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45248628"
-    },
-    {
-      "title": "How to make the Framework Desktop run even quieter",
-      "score": 290,
-      "url": "https://noctua.at/en/how-to-make-the-framework-desktop-run-even-quieter",
-      "time": 1758047601.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45266039"
-    },
-    {
-      "title": "Denmark close to wiping out cancer-causing HPV strains after vaccine roll-out",
-      "score": 805,
-      "url": "https://www.gavi.org/vaccineswork/denmark-close-wiping-out-leading-cancer-causing-hpv-strains-after-vaccine-roll-out",
-      "time": 1758046349.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45265745"
-    },
-    {
-      "title": "EU Chat Control: Germany's position has been reverted to UNDECIDED",
-      "score": 153,
-      "url": "https://mastodon.social/@chatcontrol/115215006562371435",
-      "time": 1758103375.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45273854"
-    },
-    {
-      "title": "Normal-order syntax-rules and proving the fix-point of call/cc",
-      "score": 31,
-      "url": "https://okmij.org/ftp/Scheme/callcc-calc-page.html",
-      "time": 1757799675.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45235566"
-    },
-    {
-      "title": "A dumb introduction to z3",
-      "score": 220,
-      "url": "https://asibahi.github.io/thoughts/a-gentle-introduction-to-z3/",
-      "time": 1757936805.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45248558"
+      "title": "The Asus Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation",
+      "score": 313,
+      "url": "https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive",
+      "time": 1758081276.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45271484"
     }
   ]
 }
