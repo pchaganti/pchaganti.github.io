@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-17T17:09:54.587119-04:00",
+  "last_updated": "2025-09-17T20:52:36.404564-04:00",
   "papers": [
     {
       "title": "Temporally Smooth Mesh Extraction for Procedural Scenes with Long-Range\n  Camera Trajectories using Spacetime Octrees",
@@ -28,7 +28,7 @@
     {
       "title": "Post-Hoc Split-Point Self-Consistency Verification for Efficient,\n  Unified Quantification of Aleatoric and Epistemic Uncertainty in Deep\n  Learning",
       "summary": "Uncertainty quantification (UQ) is vital for trustworthy deep learning, yet\nexisting methods are either computationally intensive, such as Bayesian or\nensemble methods, or provide only partial, task-specific estimates, such as\nsingle-forward-pass techniques. In this paper, we propose a post-hoc\nsingle-forward-pass framework that jointly captures aleatoric and epistemic\nuncertainty without modifying or retraining pretrained models. Our method\napplies \\emph{Split-Point Analysis} (SPA) to decompose predictive residuals\ninto upper and lower subsets, computing \\emph{Mean Absolute Residuals} (MARs)\non each side. We prove that, under ideal conditions, the total MAR equals the\nharmonic mean of subset MARs; deviations define a novel \\emph{Self-consistency\nDiscrepancy Score} (SDS) for fine-grained epistemic estimation across\nregression and classification. For regression, side-specific quantile\nregression yields prediction intervals with improved empirical coverage, which\nare further calibrated via SDS. For classification, when calibration data are\navailable, we apply SPA-based calibration identities to adjust the softmax\noutputs and then compute predictive entropy on these calibrated probabilities.\nExtensive experiments on diverse regression and classification benchmarks\ndemonstrate that our framework matches or exceeds several state-of-the-art UQ\nmethods while incurring minimal overhead.\n  Our source code is available at https://github.com/zzz0527/SPC-UQ.",
-      "url": "http://arxiv.org/abs/2509.13262v1",
+      "url": "http://arxiv.org/abs/2509.13262v2",
       "published_time_eastern_timestamp": 1758042961.0
     },
     {
@@ -87,8 +87,8 @@
     },
     {
       "title": "TeraSim-World: Worldwide Safety-Critical Data Synthesis for End-to-End\n  Autonomous Driving",
-      "summary": "Safe and scalable deployment of end-to-end (E2E) autonomous driving requires\nextensive and diverse data, particularly safety-critical events. Existing data\nare mostly generated from simulators with a significant sim-to-real gap or\ncollected from on-road testing that is costly and unsafe. This paper presents\nTeraSim-World, an automated pipeline that synthesizes realistic and\ngeographically diverse safety-critical data for E2E autonomous driving at\nanywhere in the world. Starting from an arbitrary location, TeraSim-World\nretrieves real-world maps and traffic demand from geospatial data sources.\nThen, it simulates agent behaviors from naturalistic driving datasets, and\norchestrates diverse adversities to create corner cases. Informed by street\nviews of the same location, it achieves photorealistic, geographically grounded\nsensor rendering via the frontier video generation model Cosmos-Drive. By\nbridging agent and sensor simulations, TeraSim-World provides a scalable and\ncritical~data synthesis framework for training and evaluation of E2E autonomous\ndriving systems.",
-      "url": "http://arxiv.org/abs/2509.13164v1",
+      "summary": "Safe and scalable deployment of end-to-end (E2E) autonomous driving requires\nextensive and diverse data, particularly safety-critical events. Existing data\nare mostly generated from simulators with a significant sim-to-real gap or\ncollected from on-road testing that is costly and unsafe. This paper presents\nTeraSim-World, an automated pipeline that synthesizes realistic and\ngeographically diverse safety-critical data for E2E autonomous driving at\nanywhere in the world. Starting from an arbitrary location, TeraSim-World\nretrieves real-world maps and traffic demand from geospatial data sources.\nThen, it simulates agent behaviors from naturalistic driving datasets, and\norchestrates diverse adversities to create corner cases. Informed by street\nviews of the same location, it achieves photorealistic, geographically grounded\nsensor rendering via the frontier video generation model Cosmos-Drive. By\nbridging agent and sensor simulations, TeraSim-World provides a scalable and\ncritical data synthesis framework for training and evaluation of E2E autonomous\ndriving systems. Codes and videos are available at\nhttps://wjiawei.com/terasim-world-web/ .",
+      "url": "http://arxiv.org/abs/2509.13164v2",
       "published_time_eastern_timestamp": 1758035684.0
     },
     {

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-17T17:09:54.109861-04:00",
+  "last_updated": "2025-09-17T20:52:35.921612-04:00",
   "papers": [
     {
       "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context\n  Summarization",
@@ -75,8 +75,8 @@
     },
     {
       "title": "TeraSim-World: Worldwide Safety-Critical Data Synthesis for End-to-End\n  Autonomous Driving",
-      "summary": "Safe and scalable deployment of end-to-end (E2E) autonomous driving requires\nextensive and diverse data, particularly safety-critical events. Existing data\nare mostly generated from simulators with a significant sim-to-real gap or\ncollected from on-road testing that is costly and unsafe. This paper presents\nTeraSim-World, an automated pipeline that synthesizes realistic and\ngeographically diverse safety-critical data for E2E autonomous driving at\nanywhere in the world. Starting from an arbitrary location, TeraSim-World\nretrieves real-world maps and traffic demand from geospatial data sources.\nThen, it simulates agent behaviors from naturalistic driving datasets, and\norchestrates diverse adversities to create corner cases. Informed by street\nviews of the same location, it achieves photorealistic, geographically grounded\nsensor rendering via the frontier video generation model Cosmos-Drive. By\nbridging agent and sensor simulations, TeraSim-World provides a scalable and\ncritical~data synthesis framework for training and evaluation of E2E autonomous\ndriving systems.",
-      "url": "http://arxiv.org/abs/2509.13164v1",
+      "summary": "Safe and scalable deployment of end-to-end (E2E) autonomous driving requires\nextensive and diverse data, particularly safety-critical events. Existing data\nare mostly generated from simulators with a significant sim-to-real gap or\ncollected from on-road testing that is costly and unsafe. This paper presents\nTeraSim-World, an automated pipeline that synthesizes realistic and\ngeographically diverse safety-critical data for E2E autonomous driving at\nanywhere in the world. Starting from an arbitrary location, TeraSim-World\nretrieves real-world maps and traffic demand from geospatial data sources.\nThen, it simulates agent behaviors from naturalistic driving datasets, and\norchestrates diverse adversities to create corner cases. Informed by street\nviews of the same location, it achieves photorealistic, geographically grounded\nsensor rendering via the frontier video generation model Cosmos-Drive. By\nbridging agent and sensor simulations, TeraSim-World provides a scalable and\ncritical data synthesis framework for training and evaluation of E2E autonomous\ndriving systems. Codes and videos are available at\nhttps://wjiawei.com/terasim-world-web/ .",
+      "url": "http://arxiv.org/abs/2509.13164v2",
       "published_time_eastern_timestamp": 1758035684.0
     },
     {
