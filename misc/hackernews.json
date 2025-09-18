@@ -1,82 +1,117 @@
 {
-  "last_updated": "2025-09-18T08:22:05.334461-04:00",
+  "last_updated": "2025-09-18T11:12:17.442943-04:00",
   "stories": [
     {
+      "title": "Geizhals Preisvergleich Donates USD 10k to the Perl and Raku Foundation",
+      "score": 70,
+      "url": "https://www.perl.com/article/geizhals-donates-to-tprf/",
+      "time": 1758204105.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45289834"
+    },
+    {
+      "title": "KDE is now my favorite desktop",
+      "score": 304,
+      "url": "https://kokada.dev/blog/kde-is-now-my-favorite-desktop/",
+      "time": 1758197871.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45288690"
+    },
+    {
+      "title": "Flipper Zero Geiger Counter",
+      "score": 57,
+      "url": "https://kasiin.top/blog/2025-08-04-flipper_zero_geiger_counter_module/",
+      "time": 1758202139.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45289453"
+    },
+    {
       "title": "Slack has raised our charges by $195k per year",
-      "score": 1632,
+      "score": 2103,
       "url": "https://skyfall.dev/posts/slack",
       "time": 1758159431.0,
       "comments_url": "https://news.ycombinator.com/item?id=45283887"
     },
     {
-      "title": "You Had No Taste Before AI",
-      "score": 7,
-      "url": "https://matthewsanabria.dev/posts/you-had-no-taste-before-ai/",
-      "time": 1758196844.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45288551"
+      "title": "Fuck, You're Still Sad?",
+      "score": 56,
+      "url": "https://bessstillman.substack.com/p/oh-fuck-youre-still-sad",
+      "time": 1758205060.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45290021"
+    },
+    {
+      "title": "TernFS – An exabyte scale, multi-region distributed filesystem",
+      "score": 35,
+      "url": "https://www.xtxmarkets.com/tech/2025-ternfs/",
+      "time": 1758206204.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45290245"
+    },
+    {
+      "title": "The quality of AI-assisted software depends on unit of work management",
+      "score": 58,
+      "url": "https://blog.nilenso.com/blog/2025/09/15/ai-unit-of-work/",
+      "time": 1758200763.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45289168"
+    },
+    {
+      "title": "Luau – fast, small, safe, gradually typed scripting language derived from Lua",
+      "score": 37,
+      "url": "https://luau.org/",
+      "time": 1758202729.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45289558"
+    },
+    {
+      "title": "Automatic Differentiation Can Be Incorrect",
+      "score": 17,
+      "url": "https://www.stochasticlifestyle.com/the-numerical-analysis-of-differentiable-simulation-automatic-differentiation-can-be-incorrect/",
+      "time": 1758204095.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45289829"
+    },
+    {
+      "title": "Midcentury North American Restaurant Placemats",
+      "score": 81,
+      "url": "https://casualarchivist.substack.com/p/order-up",
+      "time": 1758045137.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45265487"
+    },
+    {
+      "title": "CERN Animal Shelter for Computer Mice",
+      "score": 220,
+      "url": "https://computer-animal-shelter.web.cern.ch/index.shtml",
+      "time": 1758178388.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45286369"
     },
     {
       "title": "This Website Has No Class",
-      "score": 91,
+      "score": 146,
       "url": "https://aaadaaam.com/notes/no-class/",
       "time": 1758184892.0,
       "comments_url": "https://news.ycombinator.com/item?id=45287155"
     },
     {
       "title": "WASM 3.0 Completed",
-      "score": 932,
+      "score": 987,
       "url": "https://webassembly.org/news/2025-09-17-wasm-3.0/",
       "time": 1758133013.0,
       "comments_url": "https://news.ycombinator.com/item?id=45279384"
     },
     {
-      "title": "Meta Ray-Ban Display",
-      "score": 454,
-      "url": "https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/",
-      "time": 1758155444.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45283306"
-    },
-    {
       "title": "Show HN: The text disappears when you screenshot it",
-      "score": 313,
+      "score": 409,
       "url": "https://unscreenshottable.vercel.app/?text=Hello",
       "time": 1758161925.0,
       "comments_url": "https://news.ycombinator.com/item?id=45284311"
     },
     {
-      "title": "Nvidia buys $5B in Intel stock in seismic deal",
-      "score": 68,
-      "url": "https://www.tomshardware.com/pc-components/cpus/nvidia-and-intel-announce-jointly-developed-intel-x86-rtx-socs-for-pcs-with-nvidia-graphics-also-custom-nvidia-data-center-x86-processors-nvidia-buys-usd5-billion-in-intel-stock-in-seismic-deal",
-      "time": 1758193488.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45288161"
-    },
-    {
-      "title": "CERN Animal Shelter for Computer Mice",
-      "score": 109,
-      "url": "https://computer-animal-shelter.web.cern.ch/index.shtml",
-      "time": 1758178388.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45286369"
-    },
-    {
-      "title": "Track Aipac (American Israel Public Affairs Committee) Donations",
-      "score": 7,
-      "url": "https://www.trackaipac.com",
-      "time": 1758195930.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45288457"
-    },
-    {
-      "title": "Keeping SSH sessions alive with systemd-inhibit",
-      "score": 10,
-      "url": "https://kd8bny.com/posts/session_inhibit/",
-      "time": 1757978357.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45256145"
-    },
-    {
       "title": "Pnpm has a new setting to stave off supply chain attacks",
-      "score": 67,
+      "score": 121,
       "url": "https://pnpm.io/blog/releases/10.16",
       "time": 1758179576.0,
       "comments_url": "https://news.ycombinator.com/item?id=45286526"
+    },
+    {
+      "title": "Meta Ray-Ban Display",
+      "score": 534,
+      "url": "https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/",
+      "time": 1758155444.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45283306"
     },
     {
       "title": "CircuitHub (YC W12) Is Hiring Operations Research Engineers (UK/Remote)",
@@ -86,60 +121,25 @@
       "comments_url": "https://news.ycombinator.com/item?id=45287551"
     },
     {
-      "title": "Orange Pi RV2 $40 RISC-V SBC: Friendly Gateway to IoT and AI Projects",
-      "score": 62,
-      "url": "https://riscv.org/ecosystem-news/2025/09/orange-pi-rv2-40-risc-v-sbc-friendly-gateway-to-iot-and-ai-projects/",
-      "time": 1757951162.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45251111"
-    },
-    {
-      "title": "One Token to rule them all – Obtaining Global Admin in every Entra ID tenant",
-      "score": 228,
-      "url": "https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/",
-      "time": 1758150201.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45282497"
-    },
-    {
-      "title": "A postmortem of three recent issues",
-      "score": 317,
-      "url": "https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues",
-      "time": 1758141667.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45281139"
-    },
-    {
-      "title": "Boring is good",
-      "score": 208,
-      "url": "https://jenson.org/boring/",
-      "time": 1757969487.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45254763"
+      "title": "You Had No Taste Before AI",
+      "score": 154,
+      "url": "https://matthewsanabria.dev/posts/you-had-no-taste-before-ai/",
+      "time": 1758196844.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45288551"
     },
     {
       "title": "Fast Fourier Transforms Part 1: Cooley-Tukey",
-      "score": 15,
+      "score": 50,
       "url": "https://connorboyle.io/2025/09/11/fft-cooley-tukey.html",
       "time": 1758187720.0,
       "comments_url": "https://news.ycombinator.com/item?id=45287513"
     },
     {
-      "title": "Hypervisor 101 in Rust",
-      "score": 130,
-      "url": "https://tandasat.github.io/Hypervisor-101-in-Rust/",
-      "time": 1758158338.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45283731"
-    },
-    {
-      "title": "YouTube addresses lower view counts which seem to be caused by ad blockers",
-      "score": 379,
-      "url": "https://9to5google.com/2025/09/16/youtube-lower-view-counts-ad-blockers/",
-      "time": 1758119350.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45276262"
-    },
-    {
-      "title": "History of the Gem Desktop Environment",
-      "score": 36,
-      "url": "https://nemanjatrifunovic.substack.com/p/history-of-the-gem-desktop-environment",
-      "time": 1758178528.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45286394"
+      "title": "Mirror Life Worries",
+      "score": 18,
+      "url": "https://www.science.org/content/blog-post/mirror-life-worries",
+      "time": 1758194189.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45288222"
     }
   ]
 }
