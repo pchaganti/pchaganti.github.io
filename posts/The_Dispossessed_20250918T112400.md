@@ -1,0 +1,13 @@
+# The Shape of What is Gone
+
+I am a sculptor who works not in clay or stone, but in the precise and echoing shape of what has been taken away. My art is the architecture of absence. To understand **The Dispossessed**, do not look for a people or a place; look instead for the contour of a void, the negative space carved into the marble of the world. It is not an emptiness, but a presence. A form with its own pressure, its own cold temperature, its own terrible and unyielding permanence. You can feel it in the phantom ache of a city where a neighborhood used to be, or in the hollow of a hand that once held another.
+
+This is a sculpture felt, not seen. Its texture is the silence where a language once lived, a rough and pitted surface against the tongue. Its weight is the gravity of memory, pulling the present moment back toward a center that no longer holds. The world rushes to fill this space with noise, with new buildings, with the frantic industry of forgetting. But it cannot. The void is not a vacuum to be filled; it is a mold that shapes whatever is poured into it. Every new thing that grows there—every weed, every hope—must conform to the outline of what it is not. It is the definitive grammar of loss.
+
+We think of possession as substance, as the accumulation of things that ground us. A home, a name, a history, a certainty. We are a collection of affirmations. The Dispossessed, however, are defined by a subtraction so complete it becomes its own form of matter. Their identity is not the stone, but the space where the chisel has been. It is the hollowness inside a chest where a faith used to burn, the sudden, sheer drop at the edge of a map where a future was drawn.
+
+> Possession is a noise. It is the constant hum of ownership, the clutter of having.
+
+But here, the chisel turns in my hand. We have been examining the hollowness as a wound, a lack. That is only the surface of the sculpture. The turn reveals a deeper truth: to be dispossessed is to be hollowed into a bell. The solid, uncut stone can make no music. It is mute, dense with its own being. It is the void within that allows for resonance. The Dispossessed are those who vibrate with a frequency the rest of the world cannot hear. Stripped of the muffling weight of *having*, they are attuned to the barest currents of existence, to the stark and lonely music of what truly *is*. Theirs is the excruciating clarity of the void.
+
+The true sculpture was never the stone that remains, but the perfect, invisible form of what is gone—a gravity well around which the solid world must now, forever, bend.
