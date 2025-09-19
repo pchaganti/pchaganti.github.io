@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-18T17:10:25.274580-04:00",
+  "last_updated": "2025-09-18T20:54:38.577141-04:00",
   "papers": [
     {
       "title": "Apertus: Democratizing Open and Compliant LLMs for Global Language\n  Environments",
@@ -28,7 +28,7 @@
     {
       "title": "AssoCiAm: A Benchmark for Evaluating Association Thinking while\n  Circumventing Ambiguity",
       "summary": "Recent advancements in multimodal large language models (MLLMs) have garnered\nsignificant attention, offering a promising pathway toward artificial general\nintelligence (AGI). Among the essential capabilities required for AGI,\ncreativity has emerged as a critical trait for MLLMs, with association serving\nas its foundation. Association reflects a model' s ability to think creatively,\nmaking it vital to evaluate and understand. While several frameworks have been\nproposed to assess associative ability, they often overlook the inherent\nambiguity in association tasks, which arises from the divergent nature of\nassociations and undermines the reliability of evaluations. To address this\nissue, we decompose ambiguity into two types-internal ambiguity and external\nambiguity-and introduce AssoCiAm, a benchmark designed to evaluate associative\nability while circumventing the ambiguity through a hybrid computational\nmethod. We then conduct extensive experiments on MLLMs, revealing a strong\npositive correlation between cognition and association. Additionally, we\nobserve that the presence of ambiguity in the evaluation process causes MLLMs'\nbehavior to become more random-like. Finally, we validate the effectiveness of\nour method in ensuring more accurate and reliable evaluations. See Project Page\nfor the data and codes.",
-      "url": "http://arxiv.org/abs/2509.14171v1",
+      "url": "http://arxiv.org/abs/2509.14171v2",
       "published_time_eastern_timestamp": 1758128187.0
     },
     {
@@ -52,7 +52,7 @@
     {
       "title": "A Closeness Centrality-based Circuit Partitioner for Quantum Simulations",
       "summary": "Simulating quantum circuits (QC) on high-performance computing (HPC) systems\nhas become an essential method to benchmark algorithms and probe the potential\nof large-scale quantum computation despite the limitations of current quantum\nhardware. However, these simulations often require large amounts of resources,\nnecessitating the use of large clusters with thousands of compute nodes and\nlarge memory footprints. In this work, we introduce an end-to-end framework\nthat provides an efficient partitioning scheme for large-scale QCs alongside a\nflexible code generator to offer a portable solution that minimizes data\nmovement between compute nodes. By formulating the distribution of quantum\nstates and circuits as a graph problem, we apply closeness centrality to assess\ngate importance and design a fast, scalable partitioning method. The resulting\npartitions are compiled into highly optimized codes that run seamlessly on a\nwide range of supercomputers, providing critical insights into the performance\nand scalability of quantum algorithm simulations.",
-      "url": "http://arxiv.org/abs/2509.14098v1",
+      "url": "http://arxiv.org/abs/2509.14098v2",
       "published_time_eastern_timestamp": 1758123505.0
     },
     {

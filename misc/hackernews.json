@@ -1,142 +1,142 @@
 {
-  "last_updated": "2025-09-18T17:10:23.029652-04:00",
+  "last_updated": "2025-09-18T20:54:36.103284-04:00",
   "stories": [
     {
       "title": "Apple: SSH and FileVault",
-      "score": 70,
+      "score": 238,
       "url": "https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html",
       "time": 1758226545.0,
       "comments_url": "https://news.ycombinator.com/item?id=45294440"
     },
     {
-      "title": "Learn Your Way: Reimagining Textbooks with Generative AI",
-      "score": 162,
-      "url": "https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/",
-      "time": 1758217376.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45292648"
+      "title": "The Sagrada Família Takes Its Final Shape",
+      "score": 112,
+      "url": "https://www.newyorker.com/magazine/2025/09/22/is-the-sagrada-familia-a-masterpiece-or-kitsch",
+      "time": 1757982038.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45256575"
     },
     {
       "title": "Nvidia buys $5B in Intel",
-      "score": 710,
+      "score": 809,
       "url": "https://www.tomshardware.com/pc-components/cpus/nvidia-and-intel-announce-jointly-developed-intel-x86-rtx-socs-for-pcs-with-nvidia-graphics-also-custom-nvidia-data-center-x86-processors-nvidia-buys-usd5-billion-in-intel-stock-in-seismic-deal",
       "time": 1758193488.0,
       "comments_url": "https://news.ycombinator.com/item?id=45288161"
     },
     {
+      "title": "Want to piss off your IT department? Are the links not malicious looking enough?",
+      "score": 145,
+      "url": "https://phishyurl.com/",
+      "time": 1758235206.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45295898"
+    },
+    {
+      "title": "Learn Your Way: Reimagining Textbooks with Generative AI",
+      "score": 233,
+      "url": "https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/",
+      "time": 1758217376.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45292648"
+    },
+    {
       "title": "This map is not upside down",
-      "score": 108,
+      "score": 176,
       "url": "https://www.maps.com/this-map-is-not-upside-down/",
       "time": 1758217639.0,
       "comments_url": "https://news.ycombinator.com/item?id=45292694"
     },
     {
-      "title": "tldraw SDK 4.0",
-      "score": 36,
-      "url": "https://tldraw.dev/blog/tldraw-sdk-4-0",
-      "time": 1758223293.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45293839"
+      "title": "AI tools are making the world look weird",
+      "score": 22,
+      "url": "https://strat7.com/blogs/weird-in-weird-out/",
+      "time": 1758234437.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45295794"
     },
     {
-      "title": "Configuration files are user interfaces",
-      "score": 97,
-      "url": "https://ochagavia.nl/blog/configuration-files-are-user-interfaces/",
-      "time": 1758213823.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45291858"
+      "title": "Rupert's snub cube and other Math Holes",
+      "score": 42,
+      "url": "http://tom7.org/ruperts/",
+      "time": 1758027231.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45261566"
     },
     {
-      "title": "Launch HN: Cactus (YC S25) – AI inference on smartphones",
-      "score": 69,
-      "url": "https://github.com/cactus-compute/cactus",
-      "time": 1758210029.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45291024"
+      "title": "Meta’s live demo fails; “AI” recording plays before the actor takes the steps",
+      "score": 263,
+      "url": "https://www.reddit.com/r/LivestreamFail/comments/1nkbig7/metas_live_staged_demo_fails_the_ai_recording/",
+      "time": 1758228633.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45294859"
     },
     {
-      "title": "When Knowing Someone at Meta Is the Only Way to Break Out of \"Content Jail\"",
-      "score": 134,
-      "url": "https://www.eff.org/pages/when-knowing-someone-meta-only-way-break-out-content-jail",
-      "time": 1758220237.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45293273"
-    },
-    {
-      "title": "U.S. already has the critical minerals it needs, according to new analysis",
-      "score": 57,
-      "url": "https://www.minesnewsroom.com/news/us-already-has-critical-minerals-it-needs-theyre-being-thrown-away-new-analysis-shows",
-      "time": 1758224510.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45294058"
-    },
-    {
-      "title": "TernFS – An exabyte scale, multi-region distributed filesystem",
-      "score": 173,
-      "url": "https://www.xtxmarkets.com/tech/2025-ternfs/",
-      "time": 1758206204.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45290245"
+      "title": "Show HN: Nallely – A Python signals/MIDI processing system inspired by Smalltalk",
+      "score": 7,
+      "url": "https://dr-schlange.github.io/nallely-midi/",
+      "time": 1758240567.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45296521"
     },
     {
       "title": "Show HN: Asxiv.org – Ask ArXiv papers questions through chat",
-      "score": 11,
+      "score": 75,
       "url": "https://asxiv.org/",
       "time": 1757603187.0,
       "comments_url": "https://news.ycombinator.com/item?id=45212535"
     },
     {
-      "title": "Flipper Zero Geiger Counter",
-      "score": 177,
-      "url": "https://kasiin.top/blog/2025-08-04-flipper_zero_geiger_counter_module/",
-      "time": 1758202139.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45289453"
+      "title": "Visual lexicon of consumer aesthetics from the 1970s until now",
+      "score": 13,
+      "url": "https://cari.institute/",
+      "time": 1757963753.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45253795"
+    },
+    {
+      "title": "Configuration files are user interfaces",
+      "score": 138,
+      "url": "https://ochagavia.nl/blog/configuration-files-are-user-interfaces/",
+      "time": 1758213823.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45291858"
+    },
+    {
+      "title": "Show HN: I created a small 2D game about an ant",
+      "score": 27,
+      "url": "https://aanthonymax.github.io/ant-and-apples/",
+      "time": 1758232446.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45295482"
+    },
+    {
+      "title": "Llama-Factory: Unified, Efficient Fine-Tuning for 100 Open LLMs",
+      "score": 5,
+      "url": "https://github.com/hiyouga/LLaMA-Factory",
+      "time": 1758239328.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45296403"
+    },
+    {
+      "title": "Classic recessive-or-dominant gene dynamics may not be so simple",
+      "score": 8,
+      "url": "https://news.stanford.edu/stories/2025/09/classic-recessive-dominant-gene-dynamics-pesticide-resistance-research",
+      "time": 1758235941.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45295995"
+    },
+    {
+      "title": "Launch HN: Cactus (YC S25) – AI inference on smartphones",
+      "score": 81,
+      "url": "https://github.com/cactus-compute/cactus",
+      "time": 1758210029.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45291024"
+    },
+    {
+      "title": "TernFS – An exabyte scale, multi-region distributed filesystem",
+      "score": 199,
+      "url": "https://www.xtxmarkets.com/tech/2025-ternfs/",
+      "time": 1758206204.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45290245"
     },
     {
       "title": "KDE is now my favorite desktop",
-      "score": 620,
+      "score": 693,
       "url": "https://kokada.dev/blog/kde-is-now-my-favorite-desktop/",
       "time": 1758197871.0,
       "comments_url": "https://news.ycombinator.com/item?id=45288690"
     },
     {
-      "title": "TIC-80 – Tiny Computer",
-      "score": 10,
-      "url": "https://tic80.com/",
-      "time": 1757900261.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45245181"
-    },
-    {
-      "title": "Luau – Fast, small, safe, gradually typed scripting language derived from Lua",
-      "score": 130,
-      "url": "https://luau.org/",
-      "time": 1758202729.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45289558"
-    },
-    {
-      "title": "PostgreSQL Maintenance Without Superuser",
-      "score": 28,
-      "url": "https://boringsql.com/posts/postgresql-predefined-roles/",
-      "time": 1757917049.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45246652"
-    },
-    {
-      "title": "OpenTelemetry Collector: What It Is, When You Need It, and When You Don't",
-      "score": 33,
-      "url": "https://oneuptime.com/blog/post/2025-09-18-what-is-opentelemetry-collector-and-why-use-one/view",
-      "time": 1758216557.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45292475"
-    },
-    {
-      "title": "American Prairie unlocks another 70k acres in Montana",
-      "score": 228,
-      "url": "https://earthhope.substack.com/p/victory-for-public-access-american",
-      "time": 1758210460.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45291132"
-    },
-    {
-      "title": "Aaron Levie: Startups win in the AI era [video]",
-      "score": 41,
-      "url": "https://www.youtube.com/watch?v=uqc_vt95GJg",
-      "time": 1758204586.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45289921"
-    },
-    {
       "title": "Slack has raised our charges by $195k per year",
-      "score": 2709,
+      "score": 2835,
       "url": "https://skyfall.dev/posts/slack",
       "time": 1758159431.0,
       "comments_url": "https://news.ycombinator.com/item?id=45283887"
