@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-21T17:09:39.929084-04:00",
+  "last_updated": "2025-09-21T20:58:42.697785-04:00",
   "papers": [
     {
       "title": "Lost in Translation? Vocabulary Alignment for Source-Free Domain\n  Adaptation in Open-Vocabulary Semantic Segmentation",
@@ -22,7 +22,7 @@
     {
       "title": "ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform\n  Data",
       "summary": "Vision-Language Models (VLMs) have enabled computer use agents (CUAs) that\noperate GUIs autonomously, showing great potential, yet progress is limited by\nthe lack of large-scale, open-source computer use data and foundation models.\nIn this work, we introduce ScaleCUA, a step toward scaling open-source CUAs. It\noffers a large-scale dataset spanning 6 operating systems and 3 task domains,\nbuilt via a closed-loop pipeline uniting automated agents with human experts.\nTrained on this scaled-up data, ScaleCUA can operate seamlessly across\nplatforms. Specifically, it delivers strong gains over baselines (+26.6 on\nWebArena-Lite-v2, +10.7 on ScreenSpot-Pro) and sets new state-of-the-art\nresults (94.4% on MMBench-GUI L1-Hard, 60.6% on OSWorld-G, 47.4% on\nWebArena-Lite-v2). These findings underscore the power of data-driven scaling\nfor general-purpose computer use agents. We will release data, models, and code\nto advance future research: https://github.com/OpenGVLab/ScaleCUA.",
-      "url": "http://arxiv.org/abs/2509.15221v1",
+      "url": "http://arxiv.org/abs/2509.15221v2",
       "published_time_eastern_timestamp": 1758218362.0
     },
     {
@@ -99,8 +99,8 @@
     },
     {
       "title": "Mind the Gap: Data Rewriting for Stable Off-Policy Supervised\n  Fine-Tuning",
-      "summary": "Supervised fine-tuning (SFT) of large language models can be viewed as an\noff-policy learning problem, where expert demonstrations come from a fixed\nbehavior policy while training aims to optimize a target policy. Importance\nsampling is the standard tool for correcting this distribution mismatch, but\nlarge policy gaps lead to high variance and training instability. Existing\napproaches mitigate this issue using KL penalties or clipping, which passively\nconstrain updates rather than actively reducing the gap. We propose a simple\nyet effective data rewriting framework that proactively shrinks the policy gap\nby keeping correct solutions as on-policy data and rewriting incorrect ones\nwith guided re-solving, falling back to expert demonstrations only when needed.\nThis aligns the training distribution with the target policy before\noptimization, reducing importance sampling variance and stabilizing off-policy\nfine-tuning. Experiments on five mathematical reasoning benchmarks demonstrate\nconsistent and significant gains over both vanilla SFT and the state-of-the-art\nDynamic Fine-Tuning (DFT) approach. The data and code will be released at\nhttps://github.com/NKU-HLT/Off-Policy-SFT.",
-      "url": "http://arxiv.org/abs/2509.15157v1",
+      "summary": "Supervised fine-tuning (SFT) of large language models can be viewed as an\noff-policy learning problem, where expert demonstrations come from a fixed\nbehavior policy while training aims to optimize a target policy. Importance\nsampling is the standard tool for correcting this distribution mismatch, but\nlarge policy gaps lead to skewed weights, high variance, and unstable\noptimization. Existing methods mitigate this issue with KL penalties or\nclipping, which passively restrict updates rather than actively reducing the\ngap. We propose a simple yet effective data rewriting framework that\nproactively shrinks the policy gap before training. For each problem, correct\nmodel-generated solutions are kept as on-policy data, while incorrect ones are\nrewritten through guided re-solving, falling back to expert demonstrations only\nwhen needed. This aligns the training distribution with the target policy,\nreducing variance and improving stability. To handle residual mismatch after\nrewriting, we additionally apply importance sampling during training, forming a\ntwo-stage approach that combines data-level alignment with lightweight\noptimization-level correction. Experiments on five mathematical reasoning\nbenchmarks show consistent and significant gains over both vanilla SFT and the\nstate-of-the-art Dynamic Fine-Tuning (DFT) approach. Data and code will be\nreleased at https://github.com/NKU-HLT/Off-Policy-SFT.",
+      "url": "http://arxiv.org/abs/2509.15157v2",
       "published_time_eastern_timestamp": 1758214950.0
     },
     {

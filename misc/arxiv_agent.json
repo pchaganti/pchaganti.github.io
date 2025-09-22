@@ -1,10 +1,10 @@
 {
-  "last_updated": "2025-09-21T17:09:39.249047-04:00",
+  "last_updated": "2025-09-21T20:58:42.236160-04:00",
   "papers": [
     {
       "title": "ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform\n  Data",
       "summary": "Vision-Language Models (VLMs) have enabled computer use agents (CUAs) that\noperate GUIs autonomously, showing great potential, yet progress is limited by\nthe lack of large-scale, open-source computer use data and foundation models.\nIn this work, we introduce ScaleCUA, a step toward scaling open-source CUAs. It\noffers a large-scale dataset spanning 6 operating systems and 3 task domains,\nbuilt via a closed-loop pipeline uniting automated agents with human experts.\nTrained on this scaled-up data, ScaleCUA can operate seamlessly across\nplatforms. Specifically, it delivers strong gains over baselines (+26.6 on\nWebArena-Lite-v2, +10.7 on ScreenSpot-Pro) and sets new state-of-the-art\nresults (94.4% on MMBench-GUI L1-Hard, 60.6% on OSWorld-G, 47.4% on\nWebArena-Lite-v2). These findings underscore the power of data-driven scaling\nfor general-purpose computer use agents. We will release data, models, and code\nto advance future research: https://github.com/OpenGVLab/ScaleCUA.",
-      "url": "http://arxiv.org/abs/2509.15221v1",
+      "url": "http://arxiv.org/abs/2509.15221v2",
       "published_time_eastern_timestamp": 1758218362.0
     },
     {
@@ -34,7 +34,7 @@
     {
       "title": "Vulnerable Agent Identification in Large-Scale Multi-Agent Reinforcement\n  Learning",
       "summary": "Partial agent failure becomes inevitable when systems scale up, making it\ncrucial to identify the subset of agents whose compromise would most severely\ndegrade overall performance. In this paper, we study this Vulnerable Agent\nIdentification (VAI) problem in large-scale multi-agent reinforcement learning\n(MARL). We frame VAI as a Hierarchical Adversarial Decentralized Mean Field\nControl (HAD-MFC), where the upper level involves an NP-hard combinatorial task\nof selecting the most vulnerable agents, and the lower level learns worst-case\nadversarial policies for these agents using mean-field MARL. The two problems\nare coupled together, making HAD-MFC difficult to solve. To solve this, we\nfirst decouple the hierarchical process by Fenchel-Rockafellar transform,\nresulting a regularized mean-field Bellman operator for upper level that\nenables independent learning at each level, thus reducing computational\ncomplexity. We then reformulate the upper-level combinatorial problem as a MDP\nwith dense rewards from our regularized mean-field Bellman operator, enabling\nus to sequentially identify the most vulnerable agents by greedy and RL\nalgorithms. This decomposition provably preserves the optimal solution of the\noriginal HAD-MFC. Experiments show our method effectively identifies more\nvulnerable agents in large-scale MARL and the rule-based system, fooling system\ninto worse failures, and learns a value function that reveals the vulnerability\nof each agent.",
-      "url": "http://arxiv.org/abs/2509.15103v1",
+      "url": "http://arxiv.org/abs/2509.15103v2",
       "published_time_eastern_timestamp": 1758211430.0
     },
     {
@@ -64,7 +64,7 @@
     {
       "title": "Ask-to-Clarify: Resolving Instruction Ambiguity through Multi-turn\n  Dialogue",
       "summary": "The ultimate goal of embodied agents is to create collaborators that can\ninteract with humans, not mere executors that passively follow instructions.\nThis requires agents to communicate, coordinate, and adapt their actions based\non human feedback. Recently, advances in VLAs have offered a path toward this\ngoal. However, most current VLA-based embodied agents operate in a one-way\nmode: they receive an instruction and execute it without feedback. This\napproach fails in real-world scenarios where instructions are often ambiguous.\nIn this paper, we address this problem with the Ask-to-Clarify framework. Our\nframework first resolves ambiguous instructions by asking questions in a\nmulti-turn dialogue. Then it generates low-level actions end-to-end.\nSpecifically, the Ask-to-Clarify framework consists of two components, one VLM\nfor collaboration and one diffusion for action. We also introduce a connection\nmodule that generates conditions for the diffusion based on the output of the\nVLM. This module adjusts the observation by instructions to create reliable\nconditions. We train our framework with a two-stage knowledge-insulation\nstrategy. First, we fine-tune the collaboration component using\nambiguity-solving dialogue data to handle ambiguity. Then, we integrate the\naction component while freezing the collaboration one. This preserves the\ninteraction abilities while fine-tuning the diffusion to generate actions. The\ntraining strategy guarantees our framework can first ask questions, then\ngenerate actions. During inference, a signal detector functions as a router\nthat helps our framework switch between asking questions and taking actions. We\nevaluate the Ask-to-Clarify framework in 8 real-world tasks, where it\noutperforms existing state-of-the-art VLAs. The results suggest that our\nproposed framework, along with the training strategy, provides a path toward\ncollaborative embodied agents.",
-      "url": "http://arxiv.org/abs/2509.15061v1",
+      "url": "http://arxiv.org/abs/2509.15061v2",
       "published_time_eastern_timestamp": 1758209131.0
     },
     {

@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-09-21T17:09:36.924934-04:00",
+  "last_updated": "2025-09-21T20:58:40.471193-04:00",
   "stories": [
     {
       "title": "Sj.h: A tiny little JSON parsing library in ~150 lines of C99",
-      "score": 200,
+      "score": 285,
       "url": "https://github.com/rxi/sj.h",
       "time": 1758473025.0,
       "comments_url": "https://news.ycombinator.com/item?id=45324349"
     },
     {
-      "title": "Calculator Forensics (2002)",
-      "score": 31,
-      "url": "https://www.rskey.org/~mwsebastian/miscprj/results.htm",
-      "time": 1758221014.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45293438"
+      "title": "Lightweight, highly accurate line and paragraph detection",
+      "score": 38,
+      "url": "https://arxiv.org/abs/2203.09638",
+      "time": 1758489494.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45326740"
     },
     {
-      "title": "Rail travel is booming in America",
-      "score": 24,
-      "url": "https://www.economist.com/united-states/2025/09/21/rail-travel-is-booming-in-america",
-      "time": 1758485541.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45326230"
+      "title": "Be Careful with Go Struct Embedding",
+      "score": 29,
+      "url": "https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html",
+      "time": 1758496568.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45327531"
     },
     {
-      "title": "Timesketch: Collaborative forensic timeline analysis",
-      "score": 79,
-      "url": "https://github.com/google/timesketch",
-      "time": 1758472999.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45324343"
-    },
-    {
-      "title": "DXGI debugging: Microsoft put me on a list",
-      "score": 149,
-      "url": "https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/",
-      "time": 1758465950.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45323207"
+      "title": "Show HN: I wrote an OS in 1000 lines of Zig",
+      "score": 89,
+      "url": "https://github.com/botirk38/OS-1000-lines-zig",
+      "time": 1758207912.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45290590"
     },
     {
       "title": "40k-Year-Old Symbols in Caves Worldwide May Be the Earliest Written Language",
-      "score": 34,
+      "score": 91,
       "url": "https://www.openculture.com/2025/09/40000-year-old-symbols-found-in-caves-worldwide-may-be-the-earliest-written-language.html",
       "time": 1758180442.0,
       "comments_url": "https://news.ycombinator.com/item?id=45286622"
     },
     {
+      "title": "Calculator Forensics (2002)",
+      "score": 57,
+      "url": "https://www.rskey.org/~mwsebastian/miscprj/results.htm",
+      "time": 1758221014.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45293438"
+    },
+    {
+      "title": "DXGI debugging: Microsoft put me on a list",
+      "score": 196,
+      "url": "https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/",
+      "time": 1758465950.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45323207"
+    },
+    {
+      "title": "Procedural Island Generation (VI)",
+      "score": 24,
+      "url": "https://brashandplucky.com/2025/09/28/procedural-island-generation-vi.html",
+      "time": 1758489117.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45326690"
+    },
+    {
+      "title": "My new Git utility `what-changed-twice` needs a new name",
+      "score": 16,
+      "url": "https://blog.plover.com/2025/09/21/#what-changed-twice",
+      "time": 1758491952.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45327059"
+    },
+    {
+      "title": "Timesketch: Collaborative forensic timeline analysis",
+      "score": 99,
+      "url": "https://github.com/google/timesketch",
+      "time": 1758472999.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45324343"
+    },
+    {
       "title": "I forced myself to spend a week in Instagram instead of Xcode",
-      "score": 135,
+      "score": 180,
       "url": "https://www.pixelpusher.club/p/i-forced-myself-to-spend-a-week-in",
       "time": 1758463216.0,
       "comments_url": "https://news.ycombinator.com/item?id=45322819"
     },
     {
-      "title": "The Beginner's Textbook for Homomorphic Encryption",
-      "score": 62,
-      "url": "https://arxiv.org/abs/2503.05136",
-      "time": 1758464770.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45323027"
-    },
-    {
-      "title": "LaLiga's Anti-Piracy Crackdown Triggers Widespread Internet Disruptions in Spain",
-      "score": 232,
-      "url": "https://reclaimthenet.org/laligas-anti-piracy-crackdown-triggers-widespread-internet-disruptions",
-      "time": 1758470269.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45323856"
-    },
-    {
-      "title": "How Isaac Newton Discovered the Binomial Power Series (2022)",
-      "score": 32,
-      "url": "https://www.quantamagazine.org/how-isaac-newton-discovered-the-binomial-power-series-20220831/",
-      "time": 1758214790.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45292084"
-    },
-    {
       "title": "Why your outdoorsy friend suddenly has a gummy bear power bank",
-      "score": 96,
+      "score": 154,
       "url": "https://www.theverge.com/tech/781387/backpacking-ultralight-haribo-power-bank",
       "time": 1758457917.0,
       "comments_url": "https://news.ycombinator.com/item?id=45322135"
     },
     {
-      "title": "The University of Oxford has fallen out of the top three universities in the UK",
-      "score": 190,
-      "url": "https://hotminute.co.uk/2025/09/19/oxford-loses-top-3-university-ranking-for-the-first-time/",
-      "time": 1758469863.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45323793"
-    },
-    {
-      "title": "Apple Silicon GPU Support in Mojo",
-      "score": 24,
-      "url": "https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295",
-      "time": 1758486914.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45326388"
-    },
-    {
-      "title": "The Counterclockwise Experiment",
-      "score": 23,
-      "url": "https://domofutu.substack.com/p/the-counterclockwise-experiment",
-      "time": 1758354768.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45311360"
-    },
-    {
-      "title": "AI was supposed to help juniors shine. Why does it mostly make seniors stronger?",
-      "score": 337,
-      "url": "https://elma.dev/notes/ai-makes-seniors-stronger/",
-      "time": 1758416219.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45319062"
-    },
-    {
-      "title": "Spectral Labs releases SGS-1: the first generative model for structured CAD",
-      "score": 297,
-      "url": "https://www.spectrallabs.ai/research/SGS-1",
-      "time": 1758426367.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45319876"
+      "title": "Zig got a new ELF linker and it's fast",
+      "score": 48,
+      "url": "https://github.com/ziglang/zig/pull/25299",
+      "time": 1758494428.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45327318"
     },
     {
       "title": "INapGPU: Text-mode graphics card, using only TTL gates",
-      "score": 7,
+      "score": 33,
       "url": "https://github.com/Leoneq/iNapGPU",
       "time": 1758171183.0,
       "comments_url": "https://news.ycombinator.com/item?id=45285562"
     },
     {
-      "title": "A coin flip by any other name (2023)",
-      "score": 34,
-      "url": "https://cgad.ski/blog/a-coin-flip-by-any-other-name.html",
-      "time": 1758232794.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45295538"
+      "title": "Node 20 will be deprecated on GitHub Actions runners",
+      "score": 62,
+      "url": "https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/",
+      "time": 1758367177.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45312323"
     },
     {
-      "title": "Show HN: Freeing GPUs stuck by runaway jobs",
-      "score": 15,
-      "url": "https://github.com/kagehq/gpu-kill",
-      "time": 1758470406.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45323875"
+      "title": "Model Flop Utilization Beyond 6ND",
+      "score": 5,
+      "url": "https://jott.live/markdown/mfu",
+      "time": 1758204317.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45289862"
     },
     {
-      "title": "iFixit iPhone Air teardown",
-      "score": 318,
-      "url": "https://www.ifixit.com/News/113171/iphone-air-teardown",
-      "time": 1758424187.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45319690"
+      "title": "Unified Line and Paragraph Detection by Graph Convolutional Networks (2022)",
+      "score": 85,
+      "url": "https://arxiv.org/abs/2503.05136",
+      "time": 1758464770.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45323027"
+    },
+    {
+      "title": "Apple Silicon GPU Support in Mojo",
+      "score": 87,
+      "url": "https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295",
+      "time": 1758486914.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45326388"
+    },
+    {
+      "title": "How Isaac Newton discovered the binomial power series (2022)",
+      "score": 46,
+      "url": "https://www.quantamagazine.org/how-isaac-newton-discovered-the-binomial-power-series-20220831/",
+      "time": 1758214790.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45292084"
+    },
+    {
+      "title": "LaLiga's Anti-Piracy Crackdown Triggers Widespread Internet Disruptions in Spain",
+      "score": 307,
+      "url": "https://reclaimthenet.org/laligas-anti-piracy-crackdown-triggers-widespread-internet-disruptions",
+      "time": 1758470269.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45323856"
     }
   ]
 }
