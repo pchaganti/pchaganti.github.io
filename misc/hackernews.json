@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-09-22T08:22:46.539980-04:00",
+  "last_updated": "2025-09-22T11:13:13.247869-04:00",
   "stories": [
     {
+      "title": "Dear GitHub: no YAML anchors, please",
+      "score": 57,
+      "url": "https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors",
+      "time": 1758551651.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45334032"
+    },
+    {
+      "title": "Easy Forth",
+      "score": 100,
+      "url": "https://skilldrick.github.io/easyforth/",
+      "time": 1758541961.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45332130"
+    },
+    {
+      "title": "CompileBench: Can AI Compile 22-year-old Code?",
+      "score": 66,
+      "url": "https://quesma.com/blog/introducing-compilebench/",
+      "time": 1758545970.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45332814"
+    },
+    {
+      "title": "A Simple Way to Measure Knots Has Come Unraveled",
+      "score": 7,
+      "url": "https://www.quantamagazine.org/a-simple-way-to-measure-knots-has-come-unraveled-20250922/",
+      "time": 1758552556.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45334250"
+    },
+    {
+      "title": "What is algebraic about algebraic effects?",
+      "score": 14,
+      "url": "https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/",
+      "time": 1758551410.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45333978"
+    },
+    {
+      "title": "Cloudflare is sponsoring Ladybird and Omarchy",
+      "score": 109,
+      "url": "https://blog.cloudflare.com/supporting-the-future-of-the-open-web/",
+      "time": 1758546213.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45332860"
+    },
+    {
       "title": "Kmart's use of facial recognition to tackle refund fraud unlawful",
-      "score": 36,
+      "score": 159,
       "url": "https://www.oaic.gov.au/news/media-centre/18-kmarts-use-of-facial-recognition-to-tackle-refund-fraud-unlawful,-privacy-commissioner-finds",
       "time": 1758536443.0,
       "comments_url": "https://news.ycombinator.com/item?id=45331370"
     },
     {
       "title": "SGI demos from long ago in the browser via WASM",
-      "score": 96,
+      "score": 159,
       "url": "https://github.com/sgi-demos",
       "time": 1758528239.0,
       "comments_url": "https://news.ycombinator.com/item?id=45330407"
     },
     {
       "title": "How I, a beginner developer, read the tutorial you, a developer, wrote for me",
-      "score": 465,
+      "score": 627,
       "url": "https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner",
       "time": 1758504454.0,
       "comments_url": "https://news.ycombinator.com/item?id=45328247"
     },
     {
-      "title": "Tesla coast-to-coast FSD crashes after 60 miles",
-      "score": 48,
-      "url": "https://electrek.co/2025/09/21/tesla-influencers-tried-elon-musk-coast-to-coast-self-driving-crashed-before-60-miles/",
-      "time": 1758541880.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45332120"
+      "title": "A Beautiful Maths Game",
+      "score": 43,
+      "url": "https://sinerider.com/",
+      "time": 1758359528.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45311705"
+    },
+    {
+      "title": "Beyond the Front Page: A Personal Guide to Hacker News",
+      "score": 67,
+      "url": "https://hsu.cy/2025/09/how-to-read-hn/",
+      "time": 1758533832.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45331030"
+    },
+    {
+      "title": "Cap'n Web: a new RPC system for browsers and web servers",
+      "score": 20,
+      "url": "https://blog.cloudflare.com/capnweb-javascript-rpc-library/",
+      "time": 1758546332.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45332883"
+    },
+    {
+      "title": "You did this with an AI and you do not understand what you're doing here",
+      "score": 710,
+      "url": "https://hackerone.com/reports/3340109",
+      "time": 1758527977.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45330378"
     },
     {
       "title": "Biconnected components",
-      "score": 19,
+      "score": 33,
       "url": "https://emi-h.com/articles/bcc.html",
       "time": 1758496002.0,
       "comments_url": "https://news.ycombinator.com/item?id=45327478"
     },
     {
       "title": "M4.6 Earthquake – 2 km ESE of Berkeley, CA",
-      "score": 80,
+      "score": 123,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ew1758534970/executive",
       "time": 1758535257.0,
       "comments_url": "https://news.ycombinator.com/item?id=45331213"
     },
     {
-      "title": "You did this with an AI and you do not understand what you're doing here",
-      "score": 417,
-      "url": "https://hackerone.com/reports/3340109",
-      "time": 1758527977.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45330378"
-    },
-    {
       "title": "Privacy and Security Risks in the eSIM Ecosystem [pdf]",
-      "score": 188,
+      "score": 212,
       "url": "https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf",
       "time": 1758515727.0,
       "comments_url": "https://news.ycombinator.com/item?id=45329127"
     },
     {
       "title": "Show HN: Software Freelancers Contract Template",
-      "score": 67,
+      "score": 98,
       "url": "https://sopimusgeneraattori.ohjelmistofriikit.fi/?lang=en",
       "time": 1758526543.0,
       "comments_url": "https://news.ycombinator.com/item?id=45330198"
     },
     {
+      "title": "DeepSeek-v3.1-Terminus",
+      "score": 60,
+      "url": "https://api-docs.deepseek.com/news/news250922",
+      "time": 1758543632.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45332400"
+    },
+    {
       "title": "Sj.h: A tiny little JSON parsing library in ~150 lines of C99",
-      "score": 425,
+      "score": 445,
       "url": "https://github.com/rxi/sj.h",
       "time": 1758473025.0,
       "comments_url": "https://news.ycombinator.com/item?id=45324349"
     },
     {
-      "title": "Metamaterials, AI, and the Road to Invisibility Cloaks",
-      "score": 19,
-      "url": "https://open.substack.com/pub/thepotentialsurface/p/metamaterials-ai-and-the-road-to",
-      "time": 1758531777.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45330818"
-    },
-    {
-      "title": "What happens when coding agents stop feeling like dialup?",
-      "score": 13,
-      "url": "https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/",
-      "time": 1758456678.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45322030"
-    },
-    {
-      "title": "Download responsibly",
-      "score": 244,
-      "url": "https://blog.geofabrik.de/index.php/2025/09/10/download-responsibly/",
-      "time": 1758519234.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45329414"
-    },
-    {
-      "title": "A Generalized Algebraic Theory of Directed Equality",
-      "score": 41,
-      "url": "https://jacobneu.phd/",
-      "time": 1758216163.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45292387"
-    },
-    {
-      "title": "Why is Venus hell and Earth an Eden?",
-      "score": 147,
-      "url": "https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/",
-      "time": 1758495391.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45327417"
-    },
-    {
-      "title": "We Politely Insist: Your LLM Must Learn the Persian Art of Taarof",
-      "score": 82,
-      "url": "https://arxiv.org/abs/2509.01035",
-      "time": 1758501066.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45327964"
-    },
-    {
-      "title": "What if AMD FX had \"real\" cores? [video]",
-      "score": 8,
-      "url": "https://www.youtube.com/watch?v=Lb4FDtAwnqU",
-      "time": 1758227850.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45294711"
-    },
-    {
-      "title": "LinkedIn will soon train AI models with data from European users",
-      "score": 100,
-      "url": "https://hostvix.com/linkedin-will-soon-train-ai-models-with-data-from-european-users/",
-      "time": 1758533612.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45331009"
-    },
-    {
-      "title": "Simulating a Machine from the 80s",
-      "score": 53,
-      "url": "https://rmazur.io/blog/fahivets.html",
-      "time": 1758225838.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45294297"
-    },
-    {
-      "title": "How can I influence others without manipulating them?",
-      "score": 144,
-      "url": "https://andiroberts.com/leadership-questions/how-to-influence-others-without-manipulating",
-      "time": 1758493216.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45327199"
+      "title": "Why Local-First Apps Haven't Become Popular?",
+      "score": 99,
+      "url": "https://marcobambini.substack.com/p/why-local-first-apps-havent-become",
+      "time": 1758547079.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45333021"
     }
   ]
 }
