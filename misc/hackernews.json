@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-09-22T11:13:13.247869-04:00",
+  "last_updated": "2025-09-22T14:16:45.907657-04:00",
   "stories": [
     {
-      "title": "Dear GitHub: no YAML anchors, please",
-      "score": 57,
-      "url": "https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors",
-      "time": 1758551651.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45334032"
+      "title": "OpenAI and Nvidia announce partnership to deploy 10GW of Nvidia systems",
+      "score": 184,
+      "url": "https://openai.com/index/openai-nvidia-systems-partnership/",
+      "time": 1758557415.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45335474"
     },
     {
-      "title": "Easy Forth",
-      "score": 100,
-      "url": "https://skilldrick.github.io/easyforth/",
-      "time": 1758541961.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45332130"
+      "title": "PlanetScale for Postgres is now GA",
+      "score": 171,
+      "url": "https://planetscale.com/blog/planetscale-for-postgres-is-generally-available",
+      "time": 1758553848.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45334545"
     },
     {
-      "title": "CompileBench: Can AI Compile 22-year-old Code?",
-      "score": 66,
-      "url": "https://quesma.com/blog/introducing-compilebench/",
-      "time": 1758545970.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45332814"
-    },
-    {
-      "title": "A Simple Way to Measure Knots Has Come Unraveled",
-      "score": 7,
-      "url": "https://www.quantamagazine.org/a-simple-way-to-measure-knots-has-come-unraveled-20250922/",
-      "time": 1758552556.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45334250"
-    },
-    {
-      "title": "What is algebraic about algebraic effects?",
-      "score": 14,
-      "url": "https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/",
-      "time": 1758551410.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45333978"
+      "title": "SWE-Bench Pro",
+      "score": 43,
+      "url": "https://github.com/scaleapi/SWE-bench_Pro-os",
+      "time": 1758557337.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45335452"
     },
     {
       "title": "Cloudflare is sponsoring Ladybird and Omarchy",
-      "score": 109,
+      "score": 377,
       "url": "https://blog.cloudflare.com/supporting-the-future-of-the-open-web/",
       "time": 1758546213.0,
       "comments_url": "https://news.ycombinator.com/item?id=45332860"
     },
     {
-      "title": "Kmart's use of facial recognition to tackle refund fraud unlawful",
-      "score": 159,
-      "url": "https://www.oaic.gov.au/news/media-centre/18-kmarts-use-of-facial-recognition-to-tackle-refund-fraud-unlawful,-privacy-commissioner-finds",
-      "time": 1758536443.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45331370"
+      "title": "The Beginner's Textbook for Fully Homomorphic Encryption",
+      "score": 108,
+      "url": "https://arxiv.org/abs/2503.05136",
+      "time": 1758464770.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45323027"
     },
     {
-      "title": "SGI demos from long ago in the browser via WASM",
-      "score": 159,
-      "url": "https://github.com/sgi-demos",
-      "time": 1758528239.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45330407"
-    },
-    {
-      "title": "How I, a beginner developer, read the tutorial you, a developer, wrote for me",
-      "score": 627,
-      "url": "https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner",
-      "time": 1758504454.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45328247"
-    },
-    {
-      "title": "A Beautiful Maths Game",
-      "score": 43,
-      "url": "https://sinerider.com/",
-      "time": 1758359528.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45311705"
-    },
-    {
-      "title": "Beyond the Front Page: A Personal Guide to Hacker News",
-      "score": 67,
-      "url": "https://hsu.cy/2025/09/how-to-read-hn/",
-      "time": 1758533832.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45331030"
+      "title": "A simple way to measure knots has come unraveled",
+      "score": 70,
+      "url": "https://www.quantamagazine.org/a-simple-way-to-measure-knots-has-come-unraveled-20250922/",
+      "time": 1758552556.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45334250"
     },
     {
       "title": "Cap'n Web: a new RPC system for browsers and web servers",
-      "score": 20,
+      "score": 154,
       "url": "https://blog.cloudflare.com/capnweb-javascript-rpc-library/",
       "time": 1758546332.0,
       "comments_url": "https://news.ycombinator.com/item?id=45332883"
     },
     {
-      "title": "You did this with an AI and you do not understand what you're doing here",
-      "score": 710,
-      "url": "https://hackerone.com/reports/3340109",
-      "time": 1758527977.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45330378"
+      "title": "Easy Forth (2015)",
+      "score": 139,
+      "url": "https://skilldrick.github.io/easyforth/",
+      "time": 1758541961.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45332130"
     },
     {
-      "title": "Biconnected components",
-      "score": 33,
-      "url": "https://emi-h.com/articles/bcc.html",
-      "time": 1758496002.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45327478"
+      "title": "Mentra (YC W25) Is Hiring to build smart glasses",
+      "score": 1,
+      "url": "https://news.ycombinator.com/item?id=45336282",
+      "time": 1758560464.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45336282"
     },
     {
-      "title": "M4.6 Earthquake – 2 km ESE of Berkeley, CA",
+      "title": "A board member's perspective of the RubyGems controversy",
+      "score": 27,
+      "url": "https://apiguy.substack.com/p/a-board-members-perspective-of-the",
+      "time": 1758558335.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45335695"
+    },
+    {
+      "title": "CompileBench: Can AI Compile 22-year-old Code?",
+      "score": 95,
+      "url": "https://quesma.com/blog/introducing-compilebench/",
+      "time": 1758545970.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45332814"
+    },
+    {
+      "title": "A New Internet Business Model?",
+      "score": 153,
+      "url": "https://blog.cloudflare.com/cloudflare-2025-annual-founders-letter/",
+      "time": 1758554067.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45334599"
+    },
+    {
+      "title": "How I, a beginner developer, read the tutorial you, a developer, wrote for me",
+      "score": 771,
+      "url": "https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner",
+      "time": 1758504454.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45328247"
+    },
+    {
+      "title": "What is algebraic about algebraic effects?",
+      "score": 43,
+      "url": "https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/",
+      "time": 1758551410.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45333978"
+    },
+    {
+      "title": "The Strange Tale of the Hotchkiss",
+      "score": 14,
+      "url": "https://www.edrdg.org/~jwb/mondir/hotchkiss.html",
+      "time": 1758451055.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45321570"
+    },
+    {
+      "title": "The American Nations regions across North America",
+      "score": 53,
+      "url": "https://colinwoodard.com/new-map-the-american-nations-regions-across-north-america/",
+      "time": 1758556477.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45335222"
+    },
+    {
+      "title": "SGI demos from long ago in the browser via WASM",
+      "score": 194,
+      "url": "https://github.com/sgi-demos",
+      "time": 1758528239.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45330407"
+    },
+    {
+      "title": "Morgan and Morgan takes Disney to court over 'Steamboat Willie' in ads",
+      "score": 21,
+      "url": "https://www.clickorlando.com/news/local/2025/09/17/morgan-morgan-takes-disney-to-court-over-rights-to-feature-steamboat-willie-in-law-firm-ads/",
+      "time": 1758331772.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45309016"
+    },
+    {
+      "title": "Beyond the Front Page: A Personal Guide to Hacker News",
       "score": 123,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ew1758534970/executive",
-      "time": 1758535257.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45331213"
+      "url": "https://hsu.cy/2025/09/how-to-read-hn/",
+      "time": 1758533832.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45331030"
     },
     {
-      "title": "Privacy and Security Risks in the eSIM Ecosystem [pdf]",
-      "score": 212,
-      "url": "https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf",
-      "time": 1758515727.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45329127"
-    },
-    {
-      "title": "Show HN: Software Freelancers Contract Template",
-      "score": 98,
-      "url": "https://sopimusgeneraattori.ohjelmistofriikit.fi/?lang=en",
-      "time": 1758526543.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45330198"
-    },
-    {
-      "title": "DeepSeek-v3.1-Terminus",
-      "score": 60,
-      "url": "https://api-docs.deepseek.com/news/news250922",
-      "time": 1758543632.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45332400"
-    },
-    {
-      "title": "Sj.h: A tiny little JSON parsing library in ~150 lines of C99",
-      "score": 445,
-      "url": "https://github.com/rxi/sj.h",
-      "time": 1758473025.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45324349"
-    },
-    {
-      "title": "Why Local-First Apps Haven't Become Popular?",
-      "score": 99,
-      "url": "https://marcobambini.substack.com/p/why-local-first-apps-havent-become",
-      "time": 1758547079.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45333021"
+      "title": "Human-Oriented Markup Language",
+      "score": 28,
+      "url": "https://huml.io/",
+      "time": 1758556116.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45335129"
     }
   ]
 }
