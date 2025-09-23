@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-23T02:17:57.092068-04:00",
+  "last_updated": "2025-09-23T05:13:08.822175-04:00",
   "papers": [
     {
       "title": "GeoSVR: Taming Sparse Voxels for Geometrically Accurate Surface\n  Reconstruction",
@@ -108,6 +108,18 @@
       "summary": "We present CorPipe 25, the winning entry to the CRAC 2025 Shared Task on\nMultilingual Coreference Resolution. This fourth iteration of the shared task\nintroduces a new LLM track alongside the original unconstrained track, features\nreduced development and test sets to lower computational requirements, and\nincludes additional datasets. CorPipe 25 represents a complete reimplementation\nof our previous systems, migrating from TensorFlow to PyTorch. Our system\nsignificantly outperforms all other submissions in both the LLM and\nunconstrained tracks by a substantial margin of 8 percentage points. The source\ncode and trained models are publicly available at\nhttps://github.com/ufal/crac2025-corpipe.",
       "url": "http://arxiv.org/abs/2509.17858v1",
       "published_time_eastern_timestamp": 1758552697.0
+    },
+    {
+      "title": "Fast and Accurate Decoder for the XZZX code Using Simulated Annealing",
+      "summary": "The XZZX code is a variant of the surface code designed to address biased\nnoise in realistic quantum devices. For the XZZX code, we propose a decoder\nbased on simulated annealing (SA). Our SA decoder can be readily and\nefficiently parallelized, by virtue of its simple MCMC-based algorithm. To\nprepare an initial configuration of SA, we propose to employ recovery chains\nobtained by a decoder which utilizes a kind of greedy matching graph algorithm.\nAlthough $Z$-biased noise is commonly assumed in real quantum devices, we focus\non $Y$-biased noise, for which the minimum-weight perfect matching (MWPM)\nalgorithm fails to decode accurately. Our numerical simulation for the code\ncapacity noise model, where only data qubits suffer errors, confirmed that our\nSA decoder is more accurate than the MWPM decoder. Furthermore, our SA decoder\nattained the accuracy equivalent to that of the optimal decoder formulated by\ninteger programming, called CPLEX decoder. In our greedy matching decoder, we\nrandomly determine order of matching pairs of incorrect syndromes that have the\nsame distance. This randomness brings about a variety of initial configurations\nof SA, which leads to faster convergence of our SA decoder. By comparing\ndecoding times of our SA decoder, the CPLEX decoder, and matrix product state\n(MPS) decoder, all of which can handle $Y$-biased noise appropriately, we\nconfirmed that our SA decoder is fastest if parallelized. This result implies a\npotential for combining of our greedy matching and SA decoder for practical use\nin quantum computing.",
+      "url": "http://arxiv.org/abs/2509.17837v1",
+      "published_time_eastern_timestamp": 1758551245.0
+    },
+    {
+      "title": "AEAS: Actionable Exploit Assessment System",
+      "summary": "Security practitioners face growing challenges in exploit assessment, as\npublic vulnerability repositories are increasingly populated with inconsistent\nand low-quality exploit artifacts. Existing scoring systems, such as CVSS and\nEPSS, offer limited support for this task. They either rely on theoretical\nmetrics or produce opaque probability estimates without assessing whether\nusable exploit code exists. In practice, security teams often resort to manual\ntriage of exploit repositories, which is time-consuming, error-prone, and\ndifficult to scale. We present AEAS, an automated system designed to assess and\nprioritize actionable exploits through static analysis. AEAS analyzes both\nexploit code and associated documentation to extract a structured set of\nfeatures reflecting exploit availability, functionality, and setup complexity.\nIt then computes an actionability score for each exploit and produces ranked\nexploit recommendations. We evaluate AEAS on a dataset of over 5,000\nvulnerabilities derived from 600+ real-world applications frequently\nencountered by red teams. Manual validation and expert review on representative\nsubsets show that AEAS achieves a 100% top-3 success rate in recommending\nfunctional exploits and shows strong alignment with expert-validated rankings.\nThese results demonstrate the effectiveness of AEAS in supporting\nexploit-driven vulnerability prioritization.",
+      "url": "http://arxiv.org/abs/2509.17832v1",
+      "published_time_eastern_timestamp": 1758550984.0
     }
   ]
 }
