@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-23T17:10:00.951792-04:00",
+  "last_updated": "2025-09-23T20:54:14.241713-04:00",
   "papers": [
     {
       "title": "GeoSVR: Taming Sparse Voxels for Geometrically Accurate Surface\n  Reconstruction",
@@ -39,8 +39,8 @@
     },
     {
       "title": "Adaptive Kernel Design for Bayesian Optimization Is a Piece of CAKE with\n  LLMs",
-      "summary": "The efficiency of Bayesian optimization (BO) relies heavily on the choice of\nthe Gaussian process (GP) kernel, which plays a central role in balancing\nexploration and exploitation under limited evaluation budgets. Traditional BO\nmethods often rely on fixed or heuristic kernel selection strategies, which can\nresult in slow convergence or suboptimal solutions when the chosen kernel is\npoorly suited to the underlying objective function. To address this limitation,\nwe propose a freshly-baked Context-Aware Kernel Evolution (CAKE) to enhance BO\nwith large language models (LLMs). Concretely, CAKE leverages LLMs as the\ncrossover and mutation operators to adaptively generate and refine GP kernels\nbased on the observed data throughout the optimization process. To maximize the\npower of CAKE, we further propose BIC-Acquisition Kernel Ranking (BAKER) to\nselect the most effective kernel through balancing the model fit measured by\nthe Bayesian information criterion (BIC) with the expected improvement at each\niteration of BO. Extensive experiments demonstrate that our fresh CAKE-based BO\nmethod consistently outperforms established baselines across a range of\nreal-world tasks, including hyperparameter optimization, controller tuning, and\nphotonic chip design. Our code is publicly available at\nhttps://github.com/cake4bo/cake.",
-      "url": "http://arxiv.org/abs/2509.17998v1",
+      "summary": "The efficiency of Bayesian optimization (BO) relies heavily on the choice of\nthe Gaussian process (GP) kernel, which plays a central role in balancing\nexploration and exploitation under limited evaluation budgets. Traditional BO\nmethods often rely on fixed or heuristic kernel selection strategies, which can\nresult in slow convergence or suboptimal solutions when the chosen kernel is\npoorly suited to the underlying objective function. To address this limitation,\nwe propose a freshly-baked Context-Aware Kernel Evolution (CAKE) to enhance BO\nwith large language models (LLMs). Concretely, CAKE leverages LLMs as the\ncrossover and mutation operators to adaptively generate and refine GP kernels\nbased on the observed data throughout the optimization process. To maximize the\npower of CAKE, we further propose BIC-Acquisition Kernel Ranking (BAKER) to\nselect the most effective kernel through balancing the model fit measured by\nthe Bayesian information criterion (BIC) with the expected improvement at each\niteration of BO. Extensive experiments demonstrate that our fresh CAKE-based BO\nmethod consistently outperforms established baselines across a range of\nreal-world tasks, including hyperparameter optimization, controller tuning, and\nphotonic chip design. Our code is publicly available at\nhttps://github.com/richardcsuwandi/cake.",
+      "url": "http://arxiv.org/abs/2509.17998v2",
       "published_time_eastern_timestamp": 1758559152.0
     },
     {
