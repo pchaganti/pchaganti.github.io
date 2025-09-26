@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-09-25T20:53:34.746733-04:00",
+  "last_updated": "2025-09-25T23:27:05.414115-04:00",
   "stories": [
     {
-      "title": "Bluesky Alt Text Stream",
-      "score": 42,
-      "url": "https://bobbiec.github.io/bluesky-alt-text.html",
-      "time": 1758843419.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45380726"
-    },
-    {
       "title": "Improved Gemini 2.5 Flash and Flash-Lite",
-      "score": 342,
+      "score": 389,
       "url": "https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/",
       "time": 1758820856.0,
       "comments_url": "https://news.ycombinator.com/item?id=45375845"
     },
     {
       "title": "RedoxFS is the default filesystem of Redox OS, inspired by ZFS",
-      "score": 81,
+      "score": 113,
       "url": "https://doc.redox-os.org/book/redoxfs.html",
       "time": 1758835551.0,
       "comments_url": "https://news.ycombinator.com/item?id=45379325"
     },
     {
-      "title": "Apple Demands EU Repeal the Digital Markets Act",
-      "score": 33,
-      "url": "https://arstechnica.com/tech-policy/2025/09/apple-demands-eu-repeal-the-digital-markets-act/",
-      "time": 1758843226.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45380690"
-    },
-    {
-      "title": "The Word Made Lifeless. Are we becoming stochastic parrots?",
-      "score": 23,
-      "url": "https://hedgehogreview.com/issues/lessons-of-babel/articles/the-word-made-lifeless",
-      "time": 1758843078.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45380671"
-    },
-    {
-      "title": "Ollama Web Search",
-      "score": 167,
-      "url": "https://ollama.com/blog/web-search",
-      "time": 1758828112.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45377641"
-    },
-    {
-      "title": "Conspiracy content drives anti-establishment sentiment on TikTok, YouTube",
-      "score": 32,
-      "url": "https://news.umich.edu/conspiracy-content-drives-anti-establishment-sentiment-on-tiktok-youtube/",
-      "time": 1758844529.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45380858"
-    },
-    {
       "title": "ChatGPT Pulse",
-      "score": 354,
+      "score": 405,
       "url": "https://openai.com/index/introducing-chatgpt-pulse/",
       "time": 1758819595.0,
       "comments_url": "https://news.ycombinator.com/item?id=45375477"
     },
     {
+      "title": "Redis is fast – I'll cache in Postgres",
+      "score": 53,
+      "url": "https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/",
+      "time": 1758843286.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45380699"
+    },
+    {
+      "title": "Ollama Web Search",
+      "score": 195,
+      "url": "https://ollama.com/blog/web-search",
+      "time": 1758828112.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45377641"
+    },
+    {
+      "title": "Exploit Allows for Takeover of Fleets of Unitree Robots",
+      "score": 19,
+      "url": "https://spectrum.ieee.org/unitree-robot-exploit",
+      "time": 1758850699.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45381590"
+    },
+    {
+      "title": "Writing Memory Safe JIT Compilers",
+      "score": 13,
+      "url": "https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd",
+      "time": 1758852631.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45381813"
+    },
+    {
       "title": "Cloudflare Email Service: private beta",
-      "score": 445,
+      "score": 479,
       "url": "https://blog.cloudflare.com/email-service/",
       "time": 1758810830.0,
       "comments_url": "https://news.ycombinator.com/item?id=45373081"
     },
     {
-      "title": "Athlon 64: How AMD turned the tables on Intel",
-      "score": 185,
-      "url": "https://dfarq.homeip.net/athlon-64-how-amd-turned-the-tables-on-intel/",
-      "time": 1758823787.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45376605"
-    },
-    {
       "title": "Cosmic simulations that once needed supercomputers now run on a laptop",
-      "score": 71,
+      "score": 95,
       "url": "https://www.sciencedaily.com/releases/2025/09/250918225001.htm",
       "time": 1758633092.0,
       "comments_url": "https://news.ycombinator.com/item?id=45346538"
     },
     {
       "title": "Brutalita Sans: An Experimental Font and Font Editor",
-      "score": 537,
+      "score": 556,
       "url": "https://brutalita.com/",
       "time": 1758635650.0,
       "comments_url": "https://news.ycombinator.com/item?id=45347072"
     },
     {
+      "title": "Reverse-Engineering the LCD Display Interface of the Nest 2nd Gen Thermostat",
+      "score": 21,
+      "url": "https://sett.homes/blogs/updates/the-lcd-display-reverse-engineering-the-display-interface",
+      "time": 1758631558.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45346259"
+    },
+    {
+      "title": "The Digital Markets Act: time for a reset",
+      "score": 43,
+      "url": "https://blog.google/around-the-globe/google-europe/the-digital-markets-act-time-for-a-reset/",
+      "time": 1758845684.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45381013"
+    },
+    {
+      "title": "Hundreds plunge into Chicago River in first open-water swim in nearly a century",
+      "score": 10,
+      "url": "https://chicago.suntimes.com/outdoors/2025/09/21/swim-chicago-river-race-outdoors",
+      "time": 1758650549.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45350646"
+    },
+    {
+      "title": "Investigating a Forged PDF",
+      "score": 28,
+      "url": "https://mjg59.dreamwidth.org/73317.html",
+      "time": 1758845651.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45381010"
+    },
+    {
       "title": "Can a model trained on satellite data really find brambles on the ground?",
-      "score": 90,
+      "score": 108,
       "url": "https://toao.com/blog/can-we-really-see-brambles-from-space",
       "time": 1758828496.0,
       "comments_url": "https://news.ycombinator.com/item?id=45377748"
     },
     {
       "title": "Demand for human radiologists is at an all-time high",
-      "score": 244,
+      "score": 280,
       "url": "https://www.worksinprogress.news/p/why-ai-isnt-replacing-radiologists",
       "time": 1758806387.0,
       "comments_url": "https://news.ycombinator.com/item?id=45372335"
     },
     {
-      "title": "Factory Raises $50M Series B",
-      "score": 29,
-      "url": "https://factory.ai/news/series-b",
-      "time": 1758833620.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45378910"
+      "title": "All British adults to require a digital ID 'Brit Card'",
+      "score": 28,
+      "url": "https://news.sky.com/video/all-british-adults-to-require-a-digital-id-brit-card-13438041",
+      "time": 1758852587.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45381810"
+    },
+    {
+      "title": "Athlon 64: How AMD turned the tables on Intel",
+      "score": 209,
+      "url": "https://dfarq.homeip.net/athlon-64-how-amd-turned-the-tables-on-intel/",
+      "time": 1758823787.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45376605"
     },
     {
       "title": "Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web",
-      "score": 76,
+      "score": 81,
       "url": "https://news.ycombinator.com/item?id=45373008",
       "time": 1758810504.0,
       "comments_url": "https://news.ycombinator.com/item?id=45373008"
     },
     {
-      "title": "Redox OS Development Priorities for 2025/26",
-      "score": 61,
-      "url": "https://www.redox-os.org/news/development-priorities-2025-09/",
-      "time": 1758824990.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45376895"
-    },
-    {
-      "title": "Tracing JITs in the Real World CPython Core Dev Sprint",
-      "score": 56,
-      "url": "https://antocuni.eu/2025/09/24/tracing-jits-in-the-real-world--cpython-core-dev-sprint/",
-      "time": 1758825622.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45377030"
-    },
-    {
-      "title": "ChatControl: EU wants to scan all private messages, even in encrypted apps",
-      "score": 819,
-      "url": "https://metalhearf.fr/posts/chatcontrol-wants-your-private-messages/",
-      "time": 1758816101.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45374500"
-    },
-    {
-      "title": "Identity Types",
-      "score": 39,
-      "url": "https://bartoszmilewski.com/2025/09/22/identity-types/",
-      "time": 1758579323.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45340278"
+      "title": "Bit is all we need: binary normalized neural networks",
+      "score": 5,
+      "url": "https://arxiv.org/abs/2509.07025",
+      "time": 1758851037.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45381631"
     }
   ]
 }
