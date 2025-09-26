@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-09-25T23:27:05.414115-04:00",
+  "last_updated": "2025-09-26T02:17:43.738719-04:00",
   "stories": [
     {
+      "title": "My Deus Ex lipsyncing fix mod",
+      "score": 83,
+      "url": "https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/",
+      "time": 1758858354.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45382397"
+    },
+    {
+      "title": "Flock Reinstalls Cameras Without City Approval After Unlawful Govt Access",
+      "score": 79,
+      "url": "https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/",
+      "time": 1758858676.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45382434"
+    },
+    {
+      "title": "A platform-jumping prince – History of Prince of Persia's 1990s Ports",
+      "score": 23,
+      "url": "https://www.jordanmechner.com/en/latest-news/#a-platform-jumping-prince",
+      "time": 1758860981.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45382645"
+    },
+    {
+      "title": "No reachable chess position with more than 218 moves",
+      "score": 14,
+      "url": "https://lichess.org/@/Tobs40/blog/there-is-no-reachable-chess-position-with-more-than-218-moves/a5xdxeqs",
+      "time": 1758862060.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45382755"
+    },
+    {
       "title": "Improved Gemini 2.5 Flash and Flash-Lite",
-      "score": 389,
+      "score": 423,
       "url": "https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/",
       "time": 1758820856.0,
       "comments_url": "https://news.ycombinator.com/item?id=45375845"
     },
     {
-      "title": "RedoxFS is the default filesystem of Redox OS, inspired by ZFS",
-      "score": 113,
-      "url": "https://doc.redox-os.org/book/redoxfs.html",
-      "time": 1758835551.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45379325"
+      "title": "The effect of H-1B quota on employment and selection of foreign-born labor (2018)",
+      "score": 28,
+      "url": "https://doi.org/10.1016/j.euroecorev.2018.06.010",
+      "time": 1758861211.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45382668"
     },
     {
       "title": "ChatGPT Pulse",
-      "score": 405,
+      "score": 453,
       "url": "https://openai.com/index/introducing-chatgpt-pulse/",
       "time": 1758819595.0,
       "comments_url": "https://news.ycombinator.com/item?id=45375477"
     },
     {
-      "title": "Redis is fast – I'll cache in Postgres",
-      "score": 53,
-      "url": "https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/",
-      "time": 1758843286.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45380699"
-    },
-    {
-      "title": "Ollama Web Search",
-      "score": 195,
-      "url": "https://ollama.com/blog/web-search",
-      "time": 1758828112.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45377641"
-    },
-    {
-      "title": "Exploit Allows for Takeover of Fleets of Unitree Robots",
-      "score": 19,
+      "title": "Exploit allows for takeover of fleets of Unitree robots",
+      "score": 50,
       "url": "https://spectrum.ieee.org/unitree-robot-exploit",
       "time": 1758850699.0,
       "comments_url": "https://news.ycombinator.com/item?id=45381590"
     },
     {
-      "title": "Writing Memory Safe JIT Compilers",
-      "score": 13,
-      "url": "https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd",
-      "time": 1758852631.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45381813"
+      "title": "Redis is fast – I'll cache in Postgres",
+      "score": 113,
+      "url": "https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/",
+      "time": 1758843286.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45380699"
     },
     {
-      "title": "Cloudflare Email Service: private beta",
-      "score": 479,
-      "url": "https://blog.cloudflare.com/email-service/",
-      "time": 1758810830.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45373081"
+      "title": "RedoxFS is the default filesystem of Redox OS, inspired by ZFS",
+      "score": 147,
+      "url": "https://doc.redox-os.org/book/redoxfs.html",
+      "time": 1758835551.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45379325"
     },
     {
-      "title": "Cosmic simulations that once needed supercomputers now run on a laptop",
-      "score": 95,
-      "url": "https://www.sciencedaily.com/releases/2025/09/250918225001.htm",
-      "time": 1758633092.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45346538"
-    },
-    {
-      "title": "Brutalita Sans: An Experimental Font and Font Editor",
-      "score": 556,
-      "url": "https://brutalita.com/",
-      "time": 1758635650.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45347072"
-    },
-    {
-      "title": "Reverse-Engineering the LCD Display Interface of the Nest 2nd Gen Thermostat",
-      "score": 21,
-      "url": "https://sett.homes/blogs/updates/the-lcd-display-reverse-engineering-the-display-interface",
-      "time": 1758631558.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45346259"
-    },
-    {
-      "title": "The Digital Markets Act: time for a reset",
-      "score": 43,
-      "url": "https://blog.google/around-the-globe/google-europe/the-digital-markets-act-time-for-a-reset/",
-      "time": 1758845684.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45381013"
-    },
-    {
-      "title": "Hundreds plunge into Chicago River in first open-water swim in nearly a century",
-      "score": 10,
-      "url": "https://chicago.suntimes.com/outdoors/2025/09/21/swim-chicago-river-race-outdoors",
-      "time": 1758650549.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45350646"
-    },
-    {
-      "title": "Investigating a Forged PDF",
-      "score": 28,
-      "url": "https://mjg59.dreamwidth.org/73317.html",
-      "time": 1758845651.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45381010"
-    },
-    {
-      "title": "Can a model trained on satellite data really find brambles on the ground?",
-      "score": 108,
-      "url": "https://toao.com/blog/can-we-really-see-brambles-from-space",
-      "time": 1758828496.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45377748"
-    },
-    {
-      "title": "Demand for human radiologists is at an all-time high",
-      "score": 280,
-      "url": "https://www.worksinprogress.news/p/why-ai-isnt-replacing-radiologists",
-      "time": 1758806387.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45372335"
-    },
-    {
-      "title": "All British adults to require a digital ID 'Brit Card'",
-      "score": 28,
-      "url": "https://news.sky.com/video/all-british-adults-to-require-a-digital-id-brit-card-13438041",
-      "time": 1758852587.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45381810"
+      "title": "Ollama Web Search",
+      "score": 229,
+      "url": "https://ollama.com/blog/web-search",
+      "time": 1758828112.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45377641"
     },
     {
       "title": "Athlon 64: How AMD turned the tables on Intel",
-      "score": 209,
+      "score": 235,
       "url": "https://dfarq.homeip.net/athlon-64-how-amd-turned-the-tables-on-intel/",
       "time": 1758823787.0,
       "comments_url": "https://news.ycombinator.com/item?id=45376605"
     },
     {
-      "title": "Launch HN: Webhound (YC S23) – Research agent that builds datasets from the web",
-      "score": 81,
-      "url": "https://news.ycombinator.com/item?id=45373008",
-      "time": 1758810504.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45373008"
+      "title": "Cloudflare Email Service: private beta",
+      "score": 524,
+      "url": "https://blog.cloudflare.com/email-service/",
+      "time": 1758810830.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45373081"
+    },
+    {
+      "title": "The Forklift Certified License",
+      "score": 30,
+      "url": "https://aria.dog/barks/forklift-certified-license/",
+      "time": 1758617596.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45344487"
     },
     {
       "title": "Bit is all we need: binary normalized neural networks",
-      "score": 5,
+      "score": 31,
       "url": "https://arxiv.org/abs/2509.07025",
       "time": 1758851037.0,
       "comments_url": "https://news.ycombinator.com/item?id=45381631"
+    },
+    {
+      "title": "Cosmic simulations that once needed supercomputers now run on a laptop",
+      "score": 111,
+      "url": "https://www.sciencedaily.com/releases/2025/09/250918225001.htm",
+      "time": 1758633092.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45346538"
+    },
+    {
+      "title": "Investigating a Forged PDF",
+      "score": 69,
+      "url": "https://mjg59.dreamwidth.org/73317.html",
+      "time": 1758845651.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45381010"
+    },
+    {
+      "title": "Reverse-Engineering the LCD Display Interface of the Nest 2nd Gen Thermostat",
+      "score": 40,
+      "url": "https://sett.homes/blogs/updates/the-lcd-display-reverse-engineering-the-display-interface",
+      "time": 1758631558.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45346259"
+    },
+    {
+      "title": "Demand for human radiologists is at an all-time high",
+      "score": 318,
+      "url": "https://www.worksinprogress.news/p/why-ai-isnt-replacing-radiologists",
+      "time": 1758806387.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45372335"
+    },
+    {
+      "title": "Aerospace Structures",
+      "score": 8,
+      "url": "https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/aerospace-structures/",
+      "time": 1758536457.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45331372"
     }
   ]
 }
