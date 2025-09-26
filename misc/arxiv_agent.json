@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-25T17:10:15.956657-04:00",
+  "last_updated": "2025-09-25T20:53:36.886299-04:00",
   "papers": [
     {
       "title": "Adaptive Event-Triggered Policy Gradient for Multi-Agent Reinforcement\n  Learning",
@@ -76,7 +76,7 @@
     {
       "title": "MACD: Multi-Agent Clinical Diagnosis with Self-Learned Knowledge for LLM",
       "summary": "Large language models (LLMs) have demonstrated notable potential in medical\napplications, yet they face substantial challenges in handling complex\nreal-world clinical diagnoses using conventional prompting methods. Current\nprompt engineering and multi-agent approaches typically optimize isolated\ninferences, neglecting the accumulation of reusable clinical experience. To\naddress this, this study proposes a novel Multi-Agent Clinical Diagnosis (MACD)\nframework, which allows LLMs to self-learn clinical knowledge via a multi-agent\npipeline that summarizes, refines, and applies diagnostic insights. It mirrors\nhow physicians develop expertise through experience, enabling more focused and\naccurate diagnosis on key disease-specific cues. We further extend it to a\nMACD-human collaborative workflow, where multiple LLM-based diagnostician\nagents engage in iterative consultations, supported by an evaluator agent and\nhuman oversight for cases where agreement is not reached. Evaluated on 4,390\nreal-world patient cases across seven diseases using diverse open-source LLMs\n(Llama-3.1 8B/70B, DeepSeek-R1-Distill-Llama 70B), MACD significantly improves\nprimary diagnostic accuracy, outperforming established clinical guidelines with\ngains up to 22.3% (MACD). On the subset of the data, it achieves performance on\npar with or exceeding that of human physicians (up to 16% improvement over\nphysicians-only diagnosis). Additionally, on the MACD-human workflow, it\nachieves an 18.6% improvement compared to physicians-only diagnosis. Moreover,\nself-learned knowledge exhibits strong cross-model stability, transferability,\nand model-specific personalization, while the system can generate traceable\nrationales, enhancing explainability. Consequently, this work presents a\nscalable self-learning paradigm for LLM-assisted diagnosis, bridging the gap\nbetween the intrinsic knowledge of LLMs and real-world clinical practice.",
-      "url": "http://arxiv.org/abs/2509.20067v1",
+      "url": "http://arxiv.org/abs/2509.20067v2",
       "published_time_eastern_timestamp": 1758717431.0
     },
     {

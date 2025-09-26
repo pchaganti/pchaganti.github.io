@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-25T17:10:16.437660-04:00",
+  "last_updated": "2025-09-25T20:53:37.892987-04:00",
   "papers": [
     {
       "title": "The HyLight model for hydrogen emission lines in simulated nebulae",
@@ -76,7 +76,7 @@
     {
       "title": "Predictive Coding-based Deep Neural Network Fine-tuning for\n  Computationally Efficient Domain Adaptation",
       "summary": "As deep neural networks are increasingly deployed in dynamic, real-world\nenvironments, relying on a single static model is often insufficient. Changes\nin input data distributions caused by sensor drift or lighting variations\nnecessitate continual model adaptation. In this paper, we propose a hybrid\ntraining methodology that enables efficient on-device domain adaptation by\ncombining the strengths of Backpropagation and Predictive Coding. The method\nbegins with a deep neural network trained offline using Backpropagation to\nachieve high initial performance. Subsequently, Predictive Coding is employed\nfor online adaptation, allowing the model to recover accuracy lost due to\nshifts in the input data distribution. This approach leverages the robustness\nof Backpropagation for initial representation learning and the computational\nefficiency of Predictive Coding for continual learning, making it particularly\nwell-suited for resource-constrained edge devices or future neuromorphic\naccelerators. Experimental results on the MNIST and CIFAR-10 datasets\ndemonstrate that this hybrid strategy enables effective adaptation with a\nreduced computational overhead, offering a promising solution for maintaining\nmodel performance in dynamic environments.",
-      "url": "http://arxiv.org/abs/2509.20269v1",
+      "url": "http://arxiv.org/abs/2509.20269v2",
       "published_time_eastern_timestamp": 1758729807.0
     },
     {
