@@ -1,47 +1,82 @@
 {
-  "last_updated": "2025-09-27T08:19:57.919408-04:00",
+  "last_updated": "2025-09-27T11:09:44.463050-04:00",
   "stories": [
     {
       "title": "Typst: A Possible LaTeX Replacement",
-      "score": 288,
+      "score": 447,
       "url": "https://lwn.net/Articles/1037577/",
       "time": 1758958299.0,
       "comments_url": "https://news.ycombinator.com/item?id=45393842"
     },
     {
+      "title": "SSH3: Faster and rich secure shell using HTTP/3",
+      "score": 14,
+      "url": "https://github.com/francoismichel/ssh3",
+      "time": 1758983230.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45395991"
+    },
+    {
+      "title": "Show HN: An open source Launchpad for macOS 26",
+      "score": 16,
+      "url": "https://github.com/RoversX/LaunchNext",
+      "time": 1758982968.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45395952"
+    },
+    {
+      "title": "Samsung now owns Denon, Bowers and Wilkins, Marantz, Polk, and more audio brands",
+      "score": 97,
+      "url": "https://www.theverge.com/news/784390/samsung-harman-masimo-audio-acquisition-complete",
+      "time": 1758978345.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45395396"
+    },
+    {
       "title": "I built Foyer: a Rust hybrid cache that slashes S3 latency",
-      "score": 42,
+      "score": 90,
       "url": "https://medium.com/@yingjunwu/the-case-for-hybrid-cache-for-object-stores-4b1f02ec6c9a",
       "time": 1758644713.0,
       "comments_url": "https://news.ycombinator.com/item?id=45349218"
     },
     {
-      "title": "Cracker Barrel Outrage Was Almost Certainly Driven by Bots, Researchers Say",
+      "title": "First Malicious MCP in the Wild: The Postmark Backdoor Stealing Your Emails",
       "score": 18,
-      "url": "https://gizmodo.com/cracker-barrel-outrage-was-almost-certainly-driven-by-bots-researchers-say-2000664221",
-      "time": 1758973497.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45394942"
+      "url": "https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft",
+      "time": 1758982992.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45395957"
+    },
+    {
+      "title": "Lifetime of social ties adds up to healthy aging at molecular level",
+      "score": 93,
+      "url": "https://news.cornell.edu/stories/2025/09/lifetime-social-ties-adds-healthy-aging",
+      "time": 1758952841.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45393501"
+    },
+    {
+      "title": "Ebola outbreak in DR Congo rages, with 61% death rate and funding running dry",
+      "score": 14,
+      "url": "https://arstechnica.com/health/2025/09/ebola-outbreak-in-dr-congo-rages-with-61-death-rate-and-funding-running-dry/",
+      "time": 1758984440.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45396165"
+    },
+    {
+      "title": "Why is Windows still tinkering with critical sections? – The Old New Thing",
+      "score": 81,
+      "url": "https://devblogs.microsoft.com/oldnewthing/20250924-00/?p=111624",
+      "time": 1758735177.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45363471"
     },
     {
       "title": "Open Social",
-      "score": 724,
+      "score": 794,
       "url": "https://overreacted.io/open-social/",
       "time": 1758902515.0,
       "comments_url": "https://news.ycombinator.com/item?id=45388021"
     },
     {
       "title": "SimpleFold: Folding proteins is simpler than you think",
-      "score": 410,
+      "score": 427,
       "url": "https://github.com/apple/ml-simplefold",
       "time": 1758909686.0,
       "comments_url": "https://news.ycombinator.com/item?id=45389267"
-    },
-    {
-      "title": "Meshtastic 64 – A meshtastic radio for the Commodore 64",
-      "score": 48,
-      "url": "http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html",
-      "time": 1758671641.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45354404"
     },
     {
       "title": "Trellis (YC W24) Is Hiring: Automate Healthcare Paperwork",
@@ -51,95 +86,60 @@
       "comments_url": "https://news.ycombinator.com/item?id=45395010"
     },
     {
-      "title": "Lifetime of social ties adds up to healthy aging at molecular level",
-      "score": 34,
-      "url": "https://news.cornell.edu/stories/2025/09/lifetime-social-ties-adds-healthy-aging",
-      "time": 1758952841.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45393501"
+      "title": "Meshtastic 64 – A meshtastic radio for the Commodore 64",
+      "score": 73,
+      "url": "http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html",
+      "time": 1758671641.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45354404"
+    },
+    {
+      "title": "Ishkur's Guide to Electronic Music",
+      "score": 19,
+      "url": "http://music.ishkur.com/",
+      "time": 1758969522.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45394642"
+    },
+    {
+      "title": "The Other Linux Logo",
+      "score": 65,
+      "url": "https://ecogex.com/the-other-linux-logo/",
+      "time": 1758979197.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45395499"
     },
     {
       "title": "Moondream 3 Preview: Frontier-level reasoning at a blazing speed",
-      "score": 204,
+      "score": 233,
       "url": "https://moondream.ai/blog/moondream-3-preview",
       "time": 1758923997.0,
       "comments_url": "https://news.ycombinator.com/item?id=45391444"
     },
     {
-      "title": "Show HN: Lingo – A linguistic database in Rust with nanosecond-level performance",
-      "score": 30,
-      "url": "https://news.ycombinator.com/item?id=45372642",
-      "time": 1758808320.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45372642"
-    },
-    {
-      "title": "New math revives geometry's oldest problems",
-      "score": 116,
-      "url": "https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/",
-      "time": 1758927477.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45391871"
-    },
-    {
-      "title": "Property-Based Testing of OCaml 5's Runtime System [pdf]",
-      "score": 25,
-      "url": "https://janmidtgaard.dk/papers/Midtgaard%3AOLIVIERFEST25.pdf",
-      "time": 1758955503.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45393653"
+      "title": "Cost of AGI Delusion:Chasing Superintelligence US Falling Behind in Real AI Race",
+      "score": 11,
+      "url": "https://www.foreignaffairs.com/united-states/cost-delusion-artificial-general-intelligence",
+      "time": 1758980689.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45395661"
     },
     {
       "title": "CT scans of 1k lithium-ion batteries show quality risks in inexpensive cells",
-      "score": 215,
+      "score": 238,
       "url": "https://www.lumafield.com/article/finding-hidden-risks-in-the-battery-supply-chain",
       "time": 1758742153.0,
       "comments_url": "https://news.ycombinator.com/item?id=45364932"
     },
     {
-      "title": "The Beauty of Programming (2001)",
-      "score": 186,
-      "url": "https://www.brynmawr.edu/inside/academic-information/departments-programs/computer-science/beauty-programming",
-      "time": 1758689514.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45356429"
+      "title": "New math revives geometry's oldest problems",
+      "score": 128,
+      "url": "https://www.quantamagazine.org/new-math-revives-geometrys-oldest-problems-20250926/",
+      "time": 1758927477.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45391871"
     },
     {
-      "title": "The Obsessively Complete Infocom Catalog",
-      "score": 99,
-      "url": "https://eblong.com/infocom/",
-      "time": 1758930213.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45392164"
-    },
-    {
-      "title": "US cities pay too much for buses",
-      "score": 278,
-      "url": "https://www.bloomberg.com/news/articles/2025-09-26/us-cities-are-paying-too-much-for-new-transit-buses",
-      "time": 1758895037.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45386578"
-    },
-    {
-      "title": "Auth.js is now part of Better Auth",
-      "score": 144,
-      "url": "https://www.better-auth.com/blog/authjs-joins-better-auth",
-      "time": 1758909869.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45389293"
-    },
-    {
-      "title": "If you are harassed by lasers",
-      "score": 191,
-      "url": "https://www.laserpointersafety.com/harassment.html",
-      "time": 1758913946.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45389965"
-    },
-    {
-      "title": "Thoughts on Mechanical Keyboards and the ZSA Moonlander",
-      "score": 124,
-      "url": "https://www.masteringemacs.org/article/thoughts-on-mechanical-keyboards-zsa-moonlander",
-      "time": 1758925023.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45391566"
-    },
-    {
-      "title": "GPT-OSS Reinforcement Learning",
-      "score": 76,
-      "url": "https://docs.unsloth.ai/new/gpt-oss-reinforcement-learning",
-      "time": 1758938495.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45392744"
+      "title": "Show HN: I spent 4 months building Duolingo but for your life",
+      "score": 49,
+      "url": "https://three-cells.com",
+      "time": 1758978634.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45395428"
     }
   ]
 }
