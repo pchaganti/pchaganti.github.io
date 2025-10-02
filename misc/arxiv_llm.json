@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-01T17:10:08.240034-04:00",
+  "last_updated": "2025-10-01T20:53:01.129981-04:00",
   "papers": [
     {
       "title": "Attention as a Compass: Efficient Exploration for Process-Supervised RL\n  in Reasoning Models",
@@ -70,7 +70,7 @@
     {
       "title": "Probing the Critical Point (CritPt) of AI Reasoning: a Frontier Physics\n  Research Benchmark",
       "summary": "While large language models (LLMs) with reasoning capabilities are\nprogressing rapidly on high-school math competitions and coding, can they\nreason effectively through complex, open-ended challenges found in frontier\nphysics research? And crucially, what kinds of reasoning tasks do physicists\nwant LLMs to assist with? To address these questions, we present the CritPt\n(Complex Research using Integrated Thinking - Physics Test, pronounced\n\"critical point\"), the first benchmark designed to test LLMs on unpublished,\nresearch-level reasoning tasks that broadly covers modern physics research\nareas, including condensed matter, quantum physics, atomic, molecular & optical\nphysics, astrophysics, high energy physics, mathematical physics, statistical\nphysics, nuclear physics, nonlinear dynamics, fluid dynamics and biophysics.\nCritPt consists of 71 composite research challenges designed to simulate\nfull-scale research projects at the entry level, which are also decomposed to\n190 simpler checkpoint tasks for more fine-grained insights. All problems are\nnewly created by 50+ active physics researchers based on their own research.\nEvery problem is hand-curated to admit a guess-resistant and machine-verifiable\nanswer and is evaluated by an automated grading pipeline heavily customized for\nadvanced physics-specific output formats. We find that while current\nstate-of-the-art LLMs show early promise on isolated checkpoints, they remain\nfar from being able to reliably solve full research-scale challenges: the best\naverage accuracy among base models is only 4.0% , achieved by GPT-5 (high),\nmoderately rising to around 10% when equipped with coding tools. Through the\nrealistic yet standardized evaluation offered by CritPt, we highlight a large\ndisconnect between current model capabilities and realistic physics research\ndemands, offering a foundation to guide the development of scientifically\ngrounded AI tools.",
-      "url": "http://arxiv.org/abs/2509.26574v1",
+      "url": "http://arxiv.org/abs/2509.26574v2",
       "published_time_eastern_timestamp": 1759253643.0
     },
     {

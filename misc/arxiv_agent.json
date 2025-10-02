@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-01T17:10:08.725674-04:00",
+  "last_updated": "2025-10-01T20:53:01.744244-04:00",
   "papers": [
     {
       "title": "OmniRetarget: Interaction-Preserving Data Generation for Humanoid\n  Whole-Body Loco-Manipulation and Scene Interaction",
@@ -100,7 +100,7 @@
     {
       "title": "Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement\n  Learning",
       "summary": "Knowledge-graph retrieval-augmented generation (KG-RAG) couples large\nlanguage models (LLMs) with structured, verifiable knowledge graphs (KGs) to\nreduce hallucinations and expose reasoning traces. However, many KG-RAG systems\ncompose multiple LLM modules (e.g planning, reasoning, and responding),\ninflating inference cost and binding behavior to a specific target KG. To\naddress this, we introduce KG-R1, an agentic KG retrieval-augmented generation\n(KG-RAG) framework through reinforcement learning (RL). KG-R1 utilizes a single\nagent that interacts with KGs as its environment, learning to retrieve at each\nstep and incorporating the retrieved information into its reasoning and\ngeneration. The process is optimized through end-to-end RL. In controlled\nexperiments across Knowledge-Graph Question Answering (KGQA) benchmarks, our\nmethod demonstrates both efficiency and transferability: Using Qwen-2.5-3B,\nKG-R1 improves answer accuracy with fewer generation tokens than prior\nmulti-module workflow methods that use larger foundation or fine-tuned models.\nFurthermore, KG-R1 enables plug and play: after training, it maintains strong\naccuracy on new KGs without modification. These properties make KG-R1 a\npromising KG-RAG framework for real-world deployment. Our code is publicly\navailable at https://github.com/Jinyeop3110/KG-R1.",
-      "url": "http://arxiv.org/abs/2509.26383v1",
+      "url": "http://arxiv.org/abs/2509.26383v2",
       "published_time_eastern_timestamp": 1759245264.0
     },
     {
@@ -118,7 +118,7 @@
     {
       "title": "Interactive Learning for LLM Reasoning",
       "summary": "Existing multi-agent learning approaches have developed interactive training\nenvironments to explicitly promote collaboration among multiple Large Language\nModels (LLMs), thereby constructing stronger multi-agent systems (MAS).\nHowever, during inference, they require re-executing the MAS to obtain final\nsolutions, which diverges from human cognition that individuals can enhance\ntheir reasoning capabilities through interactions with others and resolve\nquestions independently in the future. To investigate whether multi-agent\ninteraction can enhance LLMs' independent problem-solving ability, we introduce\nILR, a novel co-learning framework for MAS that integrates two key components:\nDynamic Interaction and Perception Calibration. Specifically, Dynamic\nInteraction first adaptively selects either cooperative or competitive\nstrategies depending on question difficulty and model ability. LLMs then\nexchange information through Idea3 (Idea Sharing, Idea Analysis, and Idea\nFusion), an innovative interaction paradigm designed to mimic human discussion,\nbefore deriving their respective final answers. In Perception Calibration, ILR\nemploys Group Relative Policy Optimization (GRPO) to train LLMs while\nintegrating one LLM's reward distribution characteristics into another's reward\nfunction, thereby enhancing the cohesion of multi-agent interactions. We\nvalidate ILR on three LLMs across two model families of varying scales,\nevaluating performance on five mathematical benchmarks and one coding\nbenchmark. Experimental results show that ILR consistently outperforms\nsingle-agent learning, yielding an improvement of up to 5% over the strongest\nbaseline. We further discover that Idea3 can enhance the robustness of stronger\nLLMs during multi-agent inference, and dynamic interaction types can boost\nmulti-agent learning compared to pure cooperative or competitive strategies.",
-      "url": "http://arxiv.org/abs/2509.26306v1",
+      "url": "http://arxiv.org/abs/2509.26306v2",
       "published_time_eastern_timestamp": 1759242091.0
     }
   ]
