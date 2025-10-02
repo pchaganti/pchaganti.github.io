@@ -1,54 +1,96 @@
 {
-  "last_updated": "2025-10-02T14:16:10.040881-04:00",
+  "last_updated": "2025-10-02T17:09:46.831866-04:00",
   "stories": [
     {
       "title": "Signal Protocol and Post-Quantum Ratchets",
-      "score": 181,
+      "score": 321,
       "url": "https://signal.org/blog/spqr/",
       "time": 1759421170.0,
       "comments_url": "https://news.ycombinator.com/item?id=45451527"
     },
     {
-      "title": "We bought the whole GPU, so we're damn well going to use the whole GPU",
-      "score": 358,
-      "url": "https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main",
-      "time": 1759093218.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45407953"
-    },
-    {
-      "title": "Watch MLB games from the comfort of your own terminal",
-      "score": 23,
-      "url": "https://github.com/paaatrick/playball",
-      "time": 1759421355.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45451577"
-    },
-    {
-      "title": "N8n added native persistent storage with DataTables",
-      "score": 58,
-      "url": "https://community.n8n.io/t/data-tables-are-here/192256",
-      "time": 1759415183.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45450044"
-    },
-    {
-      "title": "I Keep Blogging with Emacs",
-      "score": 4,
+      "title": "Babel is why I keep blogging with Emacs",
+      "score": 91,
       "url": "https://entropicthoughts.com/why-stick-to-emacs-blog",
       "time": 1759428401.0,
       "comments_url": "https://news.ycombinator.com/item?id=45453222"
     },
     {
-      "title": "The history of cataract surgery",
-      "score": 158,
-      "url": "https://www.asimov.press/p/cataracts",
-      "time": 1759158247.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45414718"
+      "title": "Anti-aging breakthrough: Stem cells reverse signs of aging in monkeys",
+      "score": 71,
+      "url": "https://www.nad.com/news/anti-aging-breakthrough-stem-cells-reverse-signs-of-aging-in-monkeys",
+      "time": 1759433948.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45454460"
     },
     {
-      "title": "The Atlantic Quantum team is joining Google",
-      "score": 29,
-      "url": "https://blog.google/technology/research/scaling-quantum-computing-even-faster-with-atlantic-quantum/",
-      "time": 1759423013.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45451961"
+      "title": "Playball – Watch MLB games from a terminal",
+      "score": 130,
+      "url": "https://github.com/paaatrick/playball",
+      "time": 1759421355.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45451577"
+    },
+    {
+      "title": "Why I chose Lua for this blog",
+      "score": 68,
+      "url": "https://andregarzia.com/2025/03/why-i-choose-lua-for-this-blog.html",
+      "time": 1759424335.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45452261"
+    },
+    {
+      "title": "We bought the whole GPU, so we're damn well going to use the whole GPU",
+      "score": 414,
+      "url": "https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main",
+      "time": 1759093218.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45407953"
+    },
+    {
+      "title": "Why most product planning is bad and what to do about it",
+      "score": 31,
+      "url": "https://blog.railway.com/p/product-planning-improvement",
+      "time": 1759433648.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45454374"
+    },
+    {
+      "title": "RISC-V Conditional Moves",
+      "score": 23,
+      "url": "https://www.corsix.org/content/riscv-conditional-moves",
+      "time": 1759150065.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45413059"
+    },
+    {
+      "title": "N8n added native persistent storage with DataTables",
+      "score": 101,
+      "url": "https://community.n8n.io/t/data-tables-are-here/192256",
+      "time": 1759415183.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45450044"
+    },
+    {
+      "title": "Gemini 3.0 Pro – early tests",
+      "score": 107,
+      "url": "https://twitter.com/chetaslua/status/1973694615518880236",
+      "time": 1759429617.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45453448"
+    },
+    {
+      "title": "A simple habit that saves my evenings",
+      "score": 36,
+      "url": "https://alikhil.dev/posts/the-simple-habit-that-saves-my-evenings/",
+      "time": 1759148969.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45412870"
+    },
+    {
+      "title": "Launch HN: Simplex (YC S24) – Browser automation platform for developers",
+      "score": 20,
+      "url": "https://www.simplex.sh/",
+      "time": 1759421243.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45451547"
+    },
+    {
+      "title": "The Answer (1954)",
+      "score": 18,
+      "url": "https://sfshortstories.com/?p=5983",
+      "time": 1759428804.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45453299"
     },
     {
       "title": "Liva AI (YC S25) Is Hiring",
@@ -58,88 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=45452299"
     },
     {
-      "title": "Launch HN: Simplex (YC S24) – Browser automation platform for developers",
-      "score": 13,
-      "url": "https://www.simplex.sh/",
-      "time": 1759421243.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45451547"
+      "title": "The history of cataract surgery",
+      "score": 174,
+      "url": "https://www.asimov.press/p/cataracts",
+      "time": 1759158247.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45414718"
     },
     {
-      "title": "Two Amazon delivery drones crash into crane in commercial area of Tolleson, AZ",
-      "score": 126,
-      "url": "https://www.abc15.com/news/region-west-valley/tolleson/two-amazon-delivery-drones-crash-into-crane-in-commercial-area-of-tolleson",
-      "time": 1759416769.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45450449"
-    },
-    {
-      "title": "Daniel Stenberg on 22 curl bugs found by AI and fixed",
-      "score": 240,
-      "url": "https://mastodon.social/@bagder/115241241075258997",
-      "time": 1759411795.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45449348"
-    },
-    {
-      "title": "Work is not school: Surviving institutional stupidity",
-      "score": 108,
-      "url": "https://www.leadingsapiens.com/surviving-institutional-stupidity/",
-      "time": 1759417084.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45450525"
-    },
-    {
-      "title": "NL Judge: Meta must respect user's choice of recommendation system",
-      "score": 250,
-      "url": "https://www.bitsoffreedom.nl/2025/10/02/judge-in-the-bits-of-freedom-vs-meta-lawsuit-meta-must-respect-users-choice/",
-      "time": 1759404739.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45448326"
-    },
-    {
-      "title": "I built ChatGPT with Minecraft redstone [video]",
-      "score": 350,
-      "url": "https://www.youtube.com/watch?v=VaeI9YgE1o8",
-      "time": 1759116147.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45410068"
+      "title": "Stealing from Google",
+      "score": 30,
+      "url": "https://taqib.dev/blog/stealing-from-google/",
+      "time": 1759138020.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45411799"
     },
     {
       "title": "Show HN: Traceroute Visualizer",
-      "score": 9,
+      "score": 32,
       "url": "https://kriztalz.sh/traceroute-visualizer/",
       "time": 1759134696.0,
       "comments_url": "https://news.ycombinator.com/item?id=45411514"
     },
     {
-      "title": "Pharma is a small component of US health care spending",
-      "score": 38,
-      "url": "https://www.economist.com/business/2025/10/02/does-big-pharma-gouge-americans",
-      "time": 1759417668.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45450694"
+      "title": "Two Amazon delivery drones crash into crane in commercial area of Tolleson, AZ",
+      "score": 184,
+      "url": "https://www.abc15.com/news/region-west-valley/tolleson/two-amazon-delivery-drones-crash-into-crane-in-commercial-area-of-tolleson",
+      "time": 1759416769.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45450449"
     },
     {
-      "title": "Adding a new instruction to RISC-V back end in LLVM",
-      "score": 21,
-      "url": "https://blog.gustavoleite.me/llvm-riscv-instruction",
-      "time": 1759167542.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45416552"
+      "title": "I built ChatGPT with Minecraft redstone [video]",
+      "score": 386,
+      "url": "https://www.youtube.com/watch?v=VaeI9YgE1o8",
+      "time": 1759116147.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45410068"
     },
     {
-      "title": "Why I chose Lua for this blog",
-      "score": 4,
-      "url": "https://andregarzia.com/2025/03/why-i-choose-lua-for-this-blog.html",
-      "time": 1759424335.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45452261"
-    },
-    {
-      "title": "Red Hat confirms security incident after hackers breach GitLab instance",
-      "score": 156,
-      "url": "https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-claim-github-breach/",
-      "time": 1759408107.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45448772"
-    },
-    {
-      "title": "Gmail will no longer support checking emails from third-party accounts via POP",
-      "score": 580,
-      "url": "https://support.google.com/mail/answer/16604719?hl=en",
-      "time": 1759335958.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45439670"
+      "title": "The Atlantic Quantum team is joining Google",
+      "score": 57,
+      "url": "https://blog.google/technology/research/scaling-quantum-computing-even-faster-with-atlantic-quantum/",
+      "time": 1759423013.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45451961"
     }
   ]
 }
