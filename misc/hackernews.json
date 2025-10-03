@@ -1,47 +1,82 @@
 {
-  "last_updated": "2025-10-03T08:22:09.739627-04:00",
+  "last_updated": "2025-10-03T11:11:35.696498-04:00",
   "stories": [
     {
+      "title": "Litestream v0.5.0",
+      "score": 78,
+      "url": "https://fly.io/blog/litestream-v050-is-here/",
+      "time": 1759431777.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45453936"
+    },
+    {
       "title": "Niri – A scrollable-tiling Wayland compositor",
-      "score": 67,
+      "score": 252,
       "url": "https://github.com/YaLTeR/niri",
       "time": 1759489722.0,
       "comments_url": "https://news.ycombinator.com/item?id=45461500"
     },
     {
-      "title": "Fp8 runs ~100 tflops faster when the kernel name has \"cutlass\" in it",
-      "score": 220,
-      "url": "https://github.com/triton-lang/triton/pull/7298",
-      "time": 1759465283.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45458948"
-    },
-    {
-      "title": "In Praise of RSS and Controlled Feeds of Information",
-      "score": 172,
-      "url": "https://blog.burkert.me/posts/in_praise_of_syndication/",
-      "time": 1759468427.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45459233"
+      "title": "Webbol: A minimal static web server written in COBOL",
+      "score": 16,
+      "url": "https://github.com/jmsdnns/webbol",
+      "time": 1759500783.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45463251"
     },
     {
       "title": "Modern Font Stacks",
-      "score": 92,
+      "score": 191,
       "url": "https://modernfontstacks.com/",
       "time": 1759193394.0,
       "comments_url": "https://news.ycombinator.com/item?id=45420722"
     },
     {
-      "title": "How England misplaced its first king",
-      "score": 30,
-      "url": "https://www.bbc.com/future/article/20250926-why-england-forgot-its-first-king",
-      "time": 1759139758.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45411939"
+      "title": "A Thermometer for Measuring Quantumness",
+      "score": 27,
+      "url": "https://www.quantamagazine.org/a-thermometer-for-measuring-quantumness-20251001/",
+      "time": 1759494242.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45462143"
     },
     {
-      "title": "FyneDesk: A full desktop environment for Linux written in Go",
-      "score": 180,
-      "url": "https://github.com/FyshOS/fynedesk",
-      "time": 1759457597.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45458122"
+      "title": "Fp8 runs ~100 tflops faster when the kernel name has \"cutlass\" in it",
+      "score": 264,
+      "url": "https://github.com/triton-lang/triton/pull/7298",
+      "time": 1759465283.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45458948"
+    },
+    {
+      "title": "Faroes",
+      "score": 29,
+      "url": "https://photoblog.nk412.com/Faroe2025/Faroes/n-cPCNFr",
+      "time": 1759495263.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45462297"
+    },
+    {
+      "title": "In Praise of RSS and Controlled Feeds of Information",
+      "score": 245,
+      "url": "https://blog.burkert.me/posts/in_praise_of_syndication/",
+      "time": 1759468427.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45459233"
+    },
+    {
+      "title": "The Beer Can (2023)",
+      "score": 219,
+      "url": "https://brr.fyi/posts/beer-can",
+      "time": 1759305084.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45435375"
+    },
+    {
+      "title": "Kairos: Immutable Distro for K8s at the Edge",
+      "score": 20,
+      "url": "https://kairos.io/",
+      "time": 1759314386.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45436148"
+    },
+    {
+      "title": "I spent the day teaching seniors how to use an iPhone",
+      "score": 263,
+      "url": "https://forums.macrumors.com/threads/i-spent-the-day-trying-to-teach-seniors-how-to-use-an-iphone-and-it-was-a-nightmare.2468117/",
+      "time": 1759454432.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45457670"
     },
     {
       "title": "QuestDB (YC S20) Is Hiring a Core Database Engineer – C++ and Rust",
@@ -51,95 +86,60 @@
       "comments_url": "https://news.ycombinator.com/item?id=45461930"
     },
     {
-      "title": "The Beer Can",
-      "score": 114,
-      "url": "https://brr.fyi/posts/beer-can",
-      "time": 1759305084.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45435375"
-    },
-    {
-      "title": "I spent the day teaching seniors how to use an iPhone",
-      "score": 201,
-      "url": "https://forums.macrumors.com/threads/i-spent-the-day-trying-to-teach-seniors-how-to-use-an-iphone-and-it-was-a-nightmare.2468117/",
-      "time": 1759454432.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45457670"
-    },
-    {
-      "title": "Signal Protocol and Post-Quantum Ratchets",
-      "score": 574,
-      "url": "https://signal.org/blog/spqr/",
-      "time": 1759421170.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45451527"
-    },
-    {
-      "title": "The strangest letter of the alphabet: The rise and fall of yogh",
-      "score": 214,
-      "url": "https://www.deadlanguagesociety.com/p/history-of-letter-yogh",
-      "time": 1759440882.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45455882"
-    },
-    {
-      "title": "Apple Bows to MAGA Demands on ICE Goon Tracker Apps",
-      "score": 9,
-      "url": "https://www.msn.com/en-us/news/technology/apple-bows-to-maga-demands-on-ice-goon-tracker-apps/ar-AA1NMH7z",
-      "time": 1759493023.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45461951"
-    },
-    {
-      "title": "Amazon Vega OS and Vega Developer Tools",
-      "score": 14,
-      "url": "https://developer.amazon.com/apps-and-games/vega",
-      "time": 1759301119.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45435016"
-    },
-    {
       "title": "Ask HN: What's your experience with using graph databases for agentic use-cases?",
-      "score": 5,
+      "score": 38,
       "url": "https://news.ycombinator.com/item?id=45436010",
       "time": 1759312687.0,
       "comments_url": "https://news.ycombinator.com/item?id=45436010"
     },
     {
-      "title": "You Want Technology with Warts",
-      "score": 70,
-      "url": "https://entropicthoughts.com/you-want-technology-with-warts",
-      "time": 1759461193.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45458550"
+      "title": "Low-dose radiation offers relief to people with knee osteoarthritis",
+      "score": 29,
+      "url": "https://www.astro.org/news-and-publications/news-and-media-center/news-releases/2025/low-dose-radiation-therapy-offers-substantial-relief-to-people-with-painful-knee-osteoarthritis",
+      "time": 1759185879.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45419780"
     },
     {
-      "title": "Potential issues in curl found using AI assisted tools",
-      "score": 458,
-      "url": "https://mastodon.social/@bagder/115241241075258997",
-      "time": 1759411795.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45449348"
+      "title": "Microsoft CTO says he wants to swap most AMD and Nvidia GPUs for homemade chips",
+      "score": 16,
+      "url": "https://www.theregister.com/2025/10/02/microsoft_maia_dc/",
+      "time": 1759502916.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45463642"
     },
     {
-      "title": "Playball – Watch MLB games from a terminal",
-      "score": 300,
-      "url": "https://github.com/paaatrick/playball",
-      "time": 1759421355.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45451577"
+      "title": "Signal Protocol and Post-Quantum Ratchets",
+      "score": 598,
+      "url": "https://signal.org/blog/spqr/",
+      "time": 1759421170.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45451527"
     },
     {
-      "title": "Consistent hashing",
-      "score": 49,
-      "url": "https://eli.thegreenplace.net/2025/consistent-hashing/",
-      "time": 1759133787.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45411435"
+      "title": "FyneDesk: A full desktop environment for Linux written in Go",
+      "score": 212,
+      "url": "https://github.com/FyshOS/fynedesk",
+      "time": 1759457597.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45458122"
     },
     {
-      "title": "Blender 4.5 brings big changes",
-      "score": 162,
-      "url": "https://lwn.net/Articles/1036262/",
-      "time": 1759463563.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45458791"
+      "title": "The strangest letter of the alphabet: The rise and fall of yogh",
+      "score": 252,
+      "url": "https://www.deadlanguagesociety.com/p/history-of-letter-yogh",
+      "time": 1759440882.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45455882"
     },
     {
-      "title": "Stdlib: A library of frameworks, templates, and guides for technical leadership",
-      "score": 74,
-      "url": "https://debuggingleadership.com/stdlib",
-      "time": 1759458801.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45458249"
+      "title": "How England misplaced its first king",
+      "score": 45,
+      "url": "https://www.bbc.com/future/article/20250926-why-england-forgot-its-first-king",
+      "time": 1759139758.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45411939"
+    },
+    {
+      "title": "Amazon Vega OS and Vega Developer Tools",
+      "score": 35,
+      "url": "https://developer.amazon.com/apps-and-games/vega",
+      "time": 1759301119.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45435016"
     }
   ]
 }
