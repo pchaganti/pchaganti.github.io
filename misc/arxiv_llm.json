@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-02T17:09:48.127554-04:00",
+  "last_updated": "2025-10-02T20:53:03.480619-04:00",
   "papers": [
     {
       "title": "Attention as a Compass: Efficient Exploration for Process-Supervised RL\n  in Reasoning Models",
@@ -52,7 +52,7 @@
     {
       "title": "Generating Difficult-to-Translate Texts",
       "summary": "Machine translation benchmarks sourced from the real world are quickly\nobsoleted, due to most examples being easy for state-of-the-art translation\nmodels. This limits the benchmark's ability to distinguish which model is\nbetter or to reveal models' weaknesses. Current methods for creating difficult\ntest cases, such as subsampling or from-scratch synthesis, either fall short of\nidentifying difficult examples or suffer from a lack of diversity and\nnaturalness. Inspired by the iterative process of human experts probing for\nmodel failures, we propose MT-breaker, a method where a large language model\niteratively refines a source text to increase its translation difficulty. The\nLLM iteratively queries a target machine translation model to guide its\ngeneration of difficult examples. Our approach generates examples that are more\nchallenging for the target MT model while preserving the diversity of natural\ntexts. While the examples are tailored to a particular machine translation\nmodel during the generation, the difficulty also transfers to other models and\nlanguages.",
-      "url": "http://arxiv.org/abs/2509.26592v1",
+      "url": "http://arxiv.org/abs/2509.26592v2",
       "published_time_eastern_timestamp": 1759254368.0
     },
     {
