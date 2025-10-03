@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-10-03T02:16:59.965895-04:00",
+  "last_updated": "2025-10-03T05:12:11.352718-04:00",
   "stories": [
     {
       "title": "Fp8 runs ~100 tflops faster when the kernel name has \"cutlass\" in it",
-      "score": 59,
+      "score": 156,
       "url": "https://github.com/triton-lang/triton/pull/7298",
       "time": 1759465283.0,
       "comments_url": "https://news.ycombinator.com/item?id=45458948"
     },
     {
-      "title": "FyneDesk: A full desktop environment for Linux written in Go",
-      "score": 72,
-      "url": "https://github.com/FyshOS/fynedesk",
-      "time": 1759457597.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45458122"
-    },
-    {
       "title": "In Praise of RSS and Controlled Feeds of Information",
-      "score": 13,
+      "score": 90,
       "url": "https://blog.burkert.me/posts/in_praise_of_syndication/",
       "time": 1759468427.0,
       "comments_url": "https://news.ycombinator.com/item?id=45459233"
     },
     {
+      "title": "Talent Is Alignment",
+      "score": 10,
+      "url": "https://xlii.space/thoughts/talent-is-alignment/",
+      "time": 1759478989.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45460329"
+    },
+    {
+      "title": "FyneDesk: A full desktop environment for Linux written in Go",
+      "score": 131,
+      "url": "https://github.com/FyshOS/fynedesk",
+      "time": 1759457597.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45458122"
+    },
+    {
       "title": "I spent the day teaching seniors how to use an iPhone",
-      "score": 111,
+      "score": 159,
       "url": "https://forums.macrumors.com/threads/i-spent-the-day-trying-to-teach-seniors-how-to-use-an-iphone-and-it-was-a-nightmare.2468117/",
       "time": 1759454432.0,
       "comments_url": "https://news.ycombinator.com/item?id=45457670"
     },
     {
-      "title": "You Want Technology with Warts",
-      "score": 36,
-      "url": "https://entropicthoughts.com/you-want-technology-with-warts",
-      "time": 1759461193.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45458550"
-    },
-    {
       "title": "Signal Protocol and Post-Quantum Ratchets",
-      "score": 526,
+      "score": 554,
       "url": "https://signal.org/blog/spqr/",
       "time": 1759421170.0,
       "comments_url": "https://news.ycombinator.com/item?id=45451527"
     },
     {
+      "title": "Google Workspace Updates: Send Gmail end-to-end encrypted emails to anyone",
+      "score": 41,
+      "url": "https://workspaceupdates.googleblog.com/2025/10/send-gmail-end-to-end-encrypted-emails-in-gmail.html",
+      "time": 1759460644.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45458482"
+    },
+    {
+      "title": "The strangest letter of the alphabet: The rise and fall of yogh",
+      "score": 181,
+      "url": "https://www.deadlanguagesociety.com/p/history-of-letter-yogh",
+      "time": 1759440882.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45455882"
+    },
+    {
+      "title": "You Want Technology with Warts",
+      "score": 60,
+      "url": "https://entropicthoughts.com/you-want-technology-with-warts",
+      "time": 1759461193.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45458550"
+    },
+    {
       "title": "Stdlib: A library of frameworks, templates, and guides for technical leadership",
-      "score": 32,
+      "score": 59,
       "url": "https://debuggingleadership.com/stdlib",
       "time": 1759458801.0,
       "comments_url": "https://news.ycombinator.com/item?id=45458249"
     },
     {
       "title": "Blender 4.5 brings big changes",
-      "score": 82,
+      "score": 127,
       "url": "https://lwn.net/Articles/1036262/",
       "time": 1759463563.0,
       "comments_url": "https://news.ycombinator.com/item?id=45458791"
     },
     {
-      "title": "The strangest letter of the alphabet: The rise and fall of yogh",
-      "score": 146,
-      "url": "https://www.deadlanguagesociety.com/p/history-of-letter-yogh",
-      "time": 1759440882.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45455882"
+      "title": "Digital ID – The New Chains of Capitalist Surveillance",
+      "score": 105,
+      "url": "https://theslowburningfuse.wordpress.com/2025/09/26/digital-id-the-new-chains-of-capitalist-surveillance/",
+      "time": 1759464941.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45458909"
     },
     {
       "title": "Constitent Hashing",
-      "score": 19,
+      "score": 37,
       "url": "https://eli.thegreenplace.net/2025/consistent-hashing/",
       "time": 1759133787.0,
       "comments_url": "https://news.ycombinator.com/item?id=45411435"
     },
     {
-      "title": "PyOCI – Publish and install private Python packages using OCI/Docker registries",
-      "score": 9,
-      "url": "https://github.com/AllexVeldman/pyoci",
-      "time": 1759145872.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45412472"
-    },
-    {
       "title": "Playball – Watch MLB games from a terminal",
-      "score": 272,
+      "score": 288,
       "url": "https://github.com/paaatrick/playball",
       "time": 1759421355.0,
       "comments_url": "https://news.ycombinator.com/item?id=45451577"
     },
     {
-      "title": "Babel is why I keep blogging with Emacs",
-      "score": 206,
-      "url": "https://entropicthoughts.com/why-stick-to-emacs-blog",
-      "time": 1759428401.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45453222"
-    },
-    {
-      "title": "Dbos: Durable Workflow Orchestration with Go and PostgreSQL",
-      "score": 49,
-      "url": "https://github.com/dbos-inc/dbos-transact-golang",
-      "time": 1759149306.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45412938"
-    },
-    {
       "title": "Potential issues in curl found using AI assisted tools",
-      "score": 390,
+      "score": 425,
       "url": "https://mastodon.social/@bagder/115241241075258997",
       "time": 1759411795.0,
       "comments_url": "https://news.ycombinator.com/item?id=45449348"
     },
     {
+      "title": "The Beer Can",
+      "score": 31,
+      "url": "https://brr.fyi/posts/beer-can",
+      "time": 1759305084.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45435375"
+    },
+    {
+      "title": "Babel is why I keep blogging with Emacs",
+      "score": 217,
+      "url": "https://entropicthoughts.com/why-stick-to-emacs-blog",
+      "time": 1759428401.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45453222"
+    },
+    {
       "title": "Microcomputers – The Second Wave: Toward a Mass Market",
-      "score": 27,
+      "score": 38,
       "url": "https://technicshistory.com/2025/10/03/microcomputers-the-second-wave-towards-a-mass-market/",
       "time": 1759452686.0,
       "comments_url": "https://news.ycombinator.com/item?id=45457460"
     },
     {
-      "title": "'Western Qwen': IBM Wows with Granite 4 LLM Launch and Hybrid Mamba/Transformer",
-      "score": 25,
-      "url": "https://venturebeat.com/ai/western-qwen-ibm-wows-with-granite-4-llm-launch-and-hybrid-mamba-transformer",
-      "time": 1759465609.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45458987"
-    },
-    {
       "title": "Icebird: JavaScript Iceberg Reader",
-      "score": 3,
+      "score": 10,
       "url": "https://github.com/hyparam/icebird",
       "time": 1759313462.0,
       "comments_url": "https://news.ycombinator.com/item?id=45436083"
     },
     {
-      "title": "Why I chose Lua for this blog",
-      "score": 142,
-      "url": "https://andregarzia.com/2025/03/why-i-choose-lua-for-this-blog.html",
-      "time": 1759424335.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45452261"
-    },
-    {
-      "title": "Self-supervised learning, JEPA, world models, and the future of AI [video]",
-      "score": 29,
-      "url": "https://www.youtube.com/watch?v=yUmDRxV0krg",
-      "time": 1759449443.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45457048"
+      "title": "Researchers develop molecular qubits that communicate at telecom frequencies",
+      "score": 41,
+      "url": "https://chicagoquantum.org/news/researchers-develop-molecular-qubits-communicate-telecom-frequencies",
+      "time": 1759452282.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45457411"
     }
   ]
 }
