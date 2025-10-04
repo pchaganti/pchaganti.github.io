@@ -1,96 +1,131 @@
 {
-  "last_updated": "2025-10-03T20:50:59.531825-04:00",
+  "last_updated": "2025-10-03T23:18:09.356181-04:00",
   "stories": [
     {
       "title": "Offline card payments should be possible no later than 1 July 2026",
-      "score": 202,
+      "score": 253,
       "url": "https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/",
       "time": 1759523763.0,
       "comments_url": "https://news.ycombinator.com/item?id=45467500"
     },
     {
       "title": "Zig builds are getting faster",
-      "score": 59,
+      "score": 115,
       "url": "https://mitchellh.com/writing/zig-builds-getting-faster",
       "time": 1759531528.0,
       "comments_url": "https://news.ycombinator.com/item?id=45468698"
     },
     {
       "title": "Where it's at://",
-      "score": 71,
+      "score": 132,
       "url": "https://overreacted.io/where-its-at/",
       "time": 1759437103.0,
       "comments_url": "https://news.ycombinator.com/item?id=45455164"
     },
     {
       "title": "Fluid Glass",
-      "score": 165,
+      "score": 232,
       "url": "https://chiuhans111.github.io/fluidglass/",
       "time": 1759209340.0,
       "comments_url": "https://news.ycombinator.com/item?id=45422147"
     },
     {
-      "title": "PEP 810 – Explicit lazy imports",
-      "score": 254,
-      "url": "https://pep-previews--4622.org.readthedocs.build/pep-0810/",
-      "time": 1759515898.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45466086"
-    },
-    {
-      "title": "AMD's EPYC 9355P: Inside a 32 Core Zen 5 Server Chip",
-      "score": 69,
-      "url": "https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core",
-      "time": 1759521696.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45467166"
+      "title": "Track which Electron apps slow down macOS 26 Tahoe",
+      "score": 22,
+      "url": "https://avarayr.github.io/shamelectron/",
+      "time": 1759538740.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45469468"
     },
     {
       "title": "Interstellar Object 3I/Atlas Passed Mars Last Night",
-      "score": 79,
+      "score": 114,
       "url": "https://earthsky.org/space/new-interstellar-object-candidate-heading-toward-the-sun-a11pl3z/",
       "time": 1759524052.0,
       "comments_url": "https://news.ycombinator.com/item?id=45467543"
     },
     {
-      "title": "LoRA Without Regret",
-      "score": 47,
-      "url": "https://thinkingmachines.ai/blog/lora/",
-      "time": 1759168337.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45416706"
-    },
-    {
-      "title": "Litestream v0.5.0",
-      "score": 358,
-      "url": "https://fly.io/blog/litestream-v050-is-here/",
-      "time": 1759431777.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45453936"
-    },
-    {
       "title": "Open Printer is an open source inkjet printer with DRM-free ink",
-      "score": 156,
+      "score": 210,
       "url": "https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html",
       "time": 1759222631.0,
       "comments_url": "https://news.ycombinator.com/item?id=45423404"
     },
     {
+      "title": "AMD's EPYC 9355P: Inside a 32 Core Zen 5 Server Chip",
+      "score": 93,
+      "url": "https://chipsandcheese.com/p/amds-epyc-9355p-inside-a-32-core",
+      "time": 1759521696.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45467166"
+    },
+    {
+      "title": "Litestream v0.5.0",
+      "score": 373,
+      "url": "https://fly.io/blog/litestream-v050-is-here/",
+      "time": 1759431777.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45453936"
+    },
+    {
+      "title": "Binary Formats Gallery",
+      "score": 27,
+      "url": "https://formats.kaitai.io/",
+      "time": 1759537142.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45469285"
+    },
+    {
+      "title": "LoRA Without Regret",
+      "score": 71,
+      "url": "https://thinkingmachines.ai/blog/lora/",
+      "time": 1759168337.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45416706"
+    },
+    {
+      "title": "PEP 810 – Explicit lazy imports",
+      "score": 275,
+      "url": "https://pep-previews--4622.org.readthedocs.build/pep-0810/",
+      "time": 1759515898.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45466086"
+    },
+    {
+      "title": "AI predicts antibiotic's IBD mechanism–scientists later confirm",
+      "score": 18,
+      "url": "https://healthsci.mcmaster.ca/new-antibiotic-targets-ibd-and-ai-predicted-how-it-would-work-before-scientists-could-prove-it/",
+      "time": 1759540177.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45469579"
+    },
+    {
       "title": "Jules, remote coding agent from Google Labs, announces API",
-      "score": 74,
+      "score": 101,
       "url": "https://jules.google/docs/changelog/",
       "time": 1759518491.0,
       "comments_url": "https://news.ycombinator.com/item?id=45466588"
     },
     {
-      "title": "When private practices merge with hospital systems, costs go up",
-      "score": 57,
-      "url": "https://insights.som.yale.edu/insights/when-private-practices-merge-with-hospital-systems-costs-go-up",
-      "time": 1759532300.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45468781"
+      "title": "WireGuard topologies for self-hosting at home",
+      "score": 61,
+      "url": "https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/",
+      "time": 1759520614.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45466980"
     },
     {
-      "title": "Niri – A scrollable-tiling Wayland compositor",
-      "score": 422,
-      "url": "https://github.com/YaLTeR/niri",
-      "time": 1759489722.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45461500"
+      "title": "Effective context engineering for AI agents",
+      "score": 52,
+      "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+      "time": 1759177114.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45418251"
+    },
+    {
+      "title": "Asked to do something illegal at work? Here's what these software engineers did",
+      "score": 243,
+      "url": "https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/",
+      "time": 1759395109.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45447536"
+    },
+    {
+      "title": "I turned the Lego Game Boy into a working Game Boy",
+      "score": 220,
+      "url": "https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/",
+      "time": 1759501136.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45463319"
     },
     {
       "title": "TrueVault (YC W14) Is Hiring a BDR (Ex-ECommerce Manager)",
@@ -100,46 +135,11 @@
       "comments_url": "https://news.ycombinator.com/item?id=45467717"
     },
     {
-      "title": "Cancelling async Rust",
-      "score": 160,
-      "url": "https://sunshowers.io/posts/cancelling-async-rust/",
-      "time": 1759508309.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45464632"
-    },
-    {
-      "title": "WireGuard topologies for self-hosting at home",
-      "score": 27,
-      "url": "https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/",
-      "time": 1759520614.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45466980"
-    },
-    {
-      "title": "Arenas in Rust",
-      "score": 48,
-      "url": "https://russellw.github.io/arenas",
-      "time": 1759520873.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45467032"
-    },
-    {
-      "title": "Effective context engineering for AI agents",
-      "score": 25,
-      "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
-      "time": 1759177114.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45418251"
-    },
-    {
-      "title": "I turned the Lego Game Boy into a working Game Boy",
-      "score": 198,
-      "url": "https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/",
-      "time": 1759501136.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45463319"
-    },
-    {
-      "title": "Advanced Matrix Multiplication Optimization on Multi-Core Processors (2024)",
-      "score": 25,
-      "url": "https://salykova.github.io/gemm-cpu",
-      "time": 1759303887.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45435272"
+      "title": "When private practices merge with hospital systems, costs go up",
+      "score": 92,
+      "url": "https://insights.som.yale.edu/insights/when-private-practices-merge-with-hospital-systems-costs-go-up",
+      "time": 1759532300.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45468781"
     }
   ]
 }
