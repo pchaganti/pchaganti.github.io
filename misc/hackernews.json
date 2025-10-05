@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-10-04T20:58:57.970509-04:00",
+  "last_updated": "2025-10-04T23:31:24.005660-04:00",
   "stories": [
     {
+      "title": "You can't parse XML with regex. Let's do it anyways",
+      "score": 31,
+      "url": "https://sdomi.pl/weblog/26-nobody-here-is-free-of-sin/",
+      "time": 1759629511.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45478300"
+    },
+    {
       "title": "ProofOfThought: LLM-based reasoning using Z3 theorem proving",
-      "score": 179,
+      "score": 206,
       "url": "https://github.com/DebarghaG/proofofthought",
       "time": 1759602863.0,
       "comments_url": "https://news.ycombinator.com/item?id=45475529"
     },
     {
-      "title": "A comparison of Ada and Rust, using solutions to the Advent of Code",
-      "score": 191,
-      "url": "https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md",
-      "time": 1759590649.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45473861"
-    },
-    {
       "title": "Newton: physics simulation engine built upon NVIDIA Warp",
-      "score": 39,
+      "score": 60,
       "url": "https://github.com/newton-physics/newton",
       "time": 1759337831.0,
       "comments_url": "https://news.ycombinator.com/item?id=45440071"
     },
     {
-      "title": "XiangShan Vector Floating-Point Unit Design",
-      "score": 22,
-      "url": "https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/",
-      "time": 1759615348.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45477118"
+      "title": "A comparison of Ada and Rust, using solutions to the Advent of Code",
+      "score": 210,
+      "url": "https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md",
+      "time": 1759590649.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45473861"
+    },
+    {
+      "title": "Space Mission Options for Reconnaissance and Mitigation of Asteroid 2024 YR4",
+      "score": 29,
+      "url": "https://arxiv.org/abs/2509.12351",
+      "time": 1759621375.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45477742"
     },
     {
       "title": "Blog Feeds",
-      "score": 86,
+      "score": 111,
       "url": "https://blogfeeds.net",
       "time": 1759604926.0,
       "comments_url": "https://news.ycombinator.com/item?id=45475808"
     },
     {
+      "title": "Mod. 5140 - IBM's First Laptop Computer",
+      "score": 15,
+      "url": "https://richardsapperdesign.com/products/mod-5140/",
+      "time": 1759624510.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45477971"
+    },
+    {
+      "title": "Microsoft 365 Copilot is a commercial failure",
+      "score": 86,
+      "url": "https://www.perspectives.plus/p/microsoft-365-copilot-commercial-failure",
+      "time": 1759606740.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45476045"
+    },
+    {
+      "title": "Matrix Core Programming on AMD GPUs",
+      "score": 42,
+      "url": "https://salykova.github.io/matrix-cores-cdna",
+      "time": 1759612931.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45476821"
+    },
+    {
+      "title": "Parrot – type-safe SQL in Gleam, supports SQlite, PostgreSQL and MySQL",
+      "score": 7,
+      "url": "https://github.com/daniellionel01/parrot",
+      "time": 1759625504.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45478033"
+    },
+    {
+      "title": "One Battle After Another: PTA and the Death of Revolutionary Cinema",
+      "score": 14,
+      "url": "https://letterboxd.com/markcira/film/one-battle-after-another/2/",
+      "time": 1759392593.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45447307"
+    },
+    {
+      "title": "XiangShan Vector Floating-Point Unit Design",
+      "score": 32,
+      "url": "https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/",
+      "time": 1759615348.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45477118"
+    },
+    {
       "title": "Show HN: Run – a CLI universal code runner I built while learning Rust",
-      "score": 57,
+      "score": 68,
       "url": "https://github.com/Esubaalew/run",
       "time": 1759602853.0,
       "comments_url": "https://news.ycombinator.com/item?id=45475528"
     },
     {
       "title": "How to inject knowledge efficiently? Knowledge infusion scaling law for LLMs",
-      "score": 63,
+      "score": 73,
       "url": "https://arxiv.org/abs/2509.19371",
       "time": 1759598287.0,
       "comments_url": "https://news.ycombinator.com/item?id=45474900"
     },
     {
-      "title": "Matrix Core Programming on AMD GPUs",
-      "score": 23,
-      "url": "https://salykova.github.io/matrix-cores-cdna",
-      "time": 1759612931.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45476821"
-    },
-    {
-      "title": "Space Mission Options for Reconnaissance and Mitigation of Asteroid 2024 YR4",
-      "score": 3,
-      "url": "https://arxiv.org/abs/2509.12351",
-      "time": 1759621375.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45477742"
-    },
-    {
-      "title": "Probiotics Finder",
+      "title": "Machine Learnability as a Measure of Order in Aperiodic Sequences",
       "score": 4,
-      "url": "https://www.probioticfinder.org/",
-      "time": 1759620853.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45477700"
+      "url": "https://arxiv.org/abs/2509.18103",
+      "time": 1759356080.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45444062"
+    },
+    {
+      "title": "Mathematical Models/Algorithms for Optimization of Lego Construction Problems [pdf]",
+      "score": 22,
+      "url": "https://backend.orbit.dtu.dk/ws/portalfiles/portal/236623063/PhD_Thesis_Torkil_Kollsker.pdf",
+      "time": 1759331804.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45438713"
     },
     {
       "title": "Self-hosting email like it's 1984",
-      "score": 166,
+      "score": 194,
       "url": "https://maxadamski.com/blog/2025/10/email.html",
       "time": 1759589612.0,
       "comments_url": "https://news.ycombinator.com/item?id=45473730"
     },
     {
-      "title": "OpenAI's hunger for computing power has Sam Altman dashing around the globe",
-      "score": 36,
-      "url": "https://www.wsj.com/tech/ai/openai-sam-altman-asia-middle-east-7b660809",
-      "time": 1759616069.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45477192"
-    },
-    {
-      "title": "Clavier: An FPGA-based mechanical keyboard with USB hub and comms interfaces",
-      "score": 54,
-      "url": "https://github.com/lsartory/Clavier",
-      "time": 1759338338.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45440180"
+      "title": "AI-powered open-source code laundering",
+      "score": 16,
+      "url": "https://github.com/SudoMaker/rEFui/blob/main/HALL_OF_SHAME.md",
+      "time": 1759620362.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45477661"
     },
     {
       "title": "Earth was born dry until a cosmic collision made it a blue planet",
-      "score": 198,
+      "score": 208,
       "url": "https://www.sciencedaily.com/releases/2025/09/250928095654.htm",
       "time": 1759251283.0,
       "comments_url": "https://news.ycombinator.com/item?id=45427972"
     },
     {
-      "title": "Paged Out Issue #7 [pdf]",
-      "score": 225,
-      "url": "https://pagedout.institute/download/PagedOut_007.pdf",
-      "time": 1759574286.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45472319"
-    },
-    {
       "title": "Borehole Oscillators",
-      "score": 5,
+      "score": 21,
       "url": "https://www.gregegan.net/SCIENCE/Borehole/Borehole.html",
       "time": 1759618952.0,
       "comments_url": "https://news.ycombinator.com/item?id=45477516"
-    },
-    {
-      "title": "Alibaba cloud FPGA: the $200 Kintex UltraScale+",
-      "score": 242,
-      "url": "https://essenceia.github.io/projects/alibaba_cloud_fpga/",
-      "time": 1759560598.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45471136"
-    },
-    {
-      "title": "Zig builds are getting faster",
-      "score": 409,
-      "url": "https://mitchellh.com/writing/zig-builds-getting-faster",
-      "time": 1759531528.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45468698"
-    },
-    {
-      "title": "Offline card payments should be possible no later than 1 July 2026",
-      "score": 474,
-      "url": "https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/",
-      "time": 1759523763.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45467500"
-    },
-    {
-      "title": "Thunderscan: A clever device transforms a printer into a scanner (2004)",
-      "score": 133,
-      "url": "https://www.folklore.org/Thunderscan.html",
-      "time": 1759580197.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45472765"
     }
   ]
 }
