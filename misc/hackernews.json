@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-10-05T02:15:12.557120-04:00",
+  "last_updated": "2025-10-05T05:10:29.456816-04:00",
   "stories": [
     {
-      "title": "Scientists debunk claims of seed oil health risks",
-      "score": 9,
-      "url": "https://hsph.harvard.edu/news/scientists-debunk-seed-oil-health-risks/",
-      "time": 1759639802.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45478931"
+      "title": "Social Cooling",
+      "score": 121,
+      "url": "https://www.socialcooling.com/",
+      "time": 1759644084.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45479165"
+    },
+    {
+      "title": "Why I Choose Email over Messaging",
+      "score": 13,
+      "url": "https://www.spinellis.gr/blog/20250926/?li",
+      "time": 1759651944.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45479820"
     },
     {
       "title": "What .NET 10 GC Changes Mean for Developers",
-      "score": 25,
+      "score": 112,
       "url": "https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/",
       "time": 1759308035.0,
       "comments_url": "https://news.ycombinator.com/item?id=45435606"
     },
     {
+      "title": "Anthropic Release Memory API",
+      "score": 42,
+      "url": "https://www.anthropic.com/news/context-management",
+      "time": 1759641608.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45479006"
+    },
+    {
+      "title": "Ambigr.am",
+      "score": 55,
+      "url": "https://ambigr.am/hall-of-fame",
+      "time": 1759637515.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45478780"
+    },
+    {
+      "title": "Comparing a RISC and a CISC with Similar Hardware Organization",
+      "score": 12,
+      "url": "https://dl.acm.org/doi/pdf/10.1145/106972.107003",
+      "time": 1759425177.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45452480"
+    },
+    {
+      "title": "The best worst hack that saved our bacon",
+      "score": 24,
+      "url": "https://jeffersonheard.ghost.io/the-best-worst-hack-that-saved-our-bacon/",
+      "time": 1759336052.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45439684"
+    },
+    {
       "title": "ProofOfThought: LLM-based reasoning using Z3 theorem proving",
-      "score": 237,
+      "score": 257,
       "url": "https://github.com/DebarghaG/proofofthought",
       "time": 1759602863.0,
       "comments_url": "https://news.ycombinator.com/item?id=45475529"
     },
     {
-      "title": "Way past its prime: how did Amazon get so rubbish?",
-      "score": 23,
-      "url": "https://www.theguardian.com/technology/2025/oct/05/way-past-its-prime-how-did-amazon-get-so-rubbish",
-      "time": 1759643275.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45479103"
+      "title": "1Password CLI Vulnerability",
+      "score": 38,
+      "url": "https://codeberg.org/manchicken/1password-cli-vuln-disclosure",
+      "time": 1759633310.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45478553"
     },
     {
-      "title": "Parrot – type-safe SQL in Gleam, supports SQlite, PostgreSQL and MySQL",
-      "score": 36,
-      "url": "https://github.com/daniellionel01/parrot",
-      "time": 1759625504.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45478033"
+      "title": "Mod. 5140 - IBM's First Laptop Computer",
+      "score": 53,
+      "url": "https://richardsapperdesign.com/products/mod-5140/",
+      "time": 1759624510.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45477971"
     },
     {
       "title": "A comparison of Ada and Rust, using solutions to the Advent of Code",
-      "score": 223,
+      "score": 239,
       "url": "https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md",
       "time": 1759590649.0,
       "comments_url": "https://news.ycombinator.com/item?id=45473861"
     },
     {
+      "title": "Microsoft Surface Pen Compatibility / Interoperability FAQ (2024)",
+      "score": 22,
+      "url": "https://dancharblog.wordpress.com/2017/05/29/surface-pen-compatibility-interoperability-faq/",
+      "time": 1759349307.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45442752"
+    },
+    {
+      "title": "Parrot – type-safe SQL in Gleam, supports SQlite, PostgreSQL and MySQL",
+      "score": 58,
+      "url": "https://github.com/daniellionel01/parrot",
+      "time": 1759625504.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45478033"
+    },
+    {
       "title": "Newton: physics simulation engine built upon NVIDIA Warp",
-      "score": 79,
+      "score": 95,
       "url": "https://github.com/newton-physics/newton",
       "time": 1759337831.0,
       "comments_url": "https://news.ycombinator.com/item?id=45440071"
     },
     {
       "title": "Blog Feeds",
-      "score": 135,
+      "score": 170,
       "url": "https://blogfeeds.net",
       "time": 1759604926.0,
       "comments_url": "https://news.ycombinator.com/item?id=45475808"
     },
     {
-      "title": "Machine Learnability as a Measure of Order in Aperiodic Sequences",
-      "score": 19,
-      "url": "https://arxiv.org/abs/2509.18103",
-      "time": 1759356080.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45444062"
-    },
-    {
-      "title": "Mod. 5140 - IBM's First Laptop Computer",
-      "score": 28,
-      "url": "https://richardsapperdesign.com/products/mod-5140/",
-      "time": 1759624510.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45477971"
-    },
-    {
-      "title": "Show HN: The Little Book of C",
-      "score": 30,
-      "url": "https://github.com/little-book-of/c",
-      "time": 1759406307.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45448525"
-    },
-    {
-      "title": "Microsoft Surface Pen Compatibility / Interoperability FAQ (2024)",
-      "score": 4,
-      "url": "https://dancharblog.wordpress.com/2017/05/29/surface-pen-compatibility-interoperability-faq/",
-      "time": 1759349307.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45442752"
-    },
-    {
       "title": "Space Mission Options for Reconnaissance and Mitigation of Asteroid 2024 YR4",
-      "score": 43,
+      "score": 56,
       "url": "https://arxiv.org/abs/2509.12351",
       "time": 1759621375.0,
       "comments_url": "https://news.ycombinator.com/item?id=45477742"
     },
     {
-      "title": "Americans increasingly see legal sports betting as a bad thing for society",
-      "score": 44,
-      "url": "https://www.pewresearch.org/short-reads/2025/10/02/americans-increasingly-see-legal-sports-betting-as-a-bad-thing-for-society-and-sports/",
-      "time": 1759636917.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45478749"
-    },
-    {
-      "title": "Matrix Core Programming on AMD GPUs",
-      "score": 57,
-      "url": "https://salykova.github.io/matrix-cores-cdna",
-      "time": 1759612931.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45476821"
-    },
-    {
-      "title": "XiangShan Vector Floating-Point Unit Design",
-      "score": 47,
-      "url": "https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/",
-      "time": 1759615348.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45477118"
-    },
-    {
       "title": "NSA and IETF: Can an attacker purchase standardization of weakened cryptography?",
-      "score": 67,
+      "score": 113,
       "url": "https://blog.cr.yp.to/20251004-weakened.html",
       "time": 1759616193.0,
       "comments_url": "https://news.ycombinator.com/item?id=45477206"
     },
     {
-      "title": "$912 energy independence without red tape",
-      "score": 156,
-      "url": "https://sunboxlabs.com/",
-      "time": 1759612925.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45476820"
+      "title": "Matrix Core Programming on AMD GPUs",
+      "score": 74,
+      "url": "https://salykova.github.io/matrix-cores-cdna",
+      "time": 1759612931.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45476821"
     },
     {
-      "title": "Mathematical Models/Algorithms for Optimization of Lego Construction Problems [pdf]",
-      "score": 36,
-      "url": "https://backend.orbit.dtu.dk/ws/portalfiles/portal/236623063/PhD_Thesis_Torkil_Kollsker.pdf",
-      "time": 1759331804.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45438713"
+      "title": "Machine Learnability as a Measure of Order in Aperiodic Sequences",
+      "score": 27,
+      "url": "https://arxiv.org/abs/2509.18103",
+      "time": 1759356080.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45444062"
     },
     {
-      "title": "How to inject knowledge efficiently? Knowledge infusion scaling law for LLMs",
-      "score": 81,
-      "url": "https://arxiv.org/abs/2509.19371",
-      "time": 1759598287.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45474900"
+      "title": "XiangShan Vector Floating-Point Unit Design",
+      "score": 53,
+      "url": "https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/",
+      "time": 1759615348.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45477118"
     }
   ]
 }
