@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-10-04T17:09:08.683958-04:00",
+  "last_updated": "2025-10-04T20:58:57.970509-04:00",
   "stories": [
     {
       "title": "ProofOfThought: LLM-based reasoning using Z3 theorem proving",
-      "score": 101,
+      "score": 179,
       "url": "https://github.com/DebarghaG/proofofthought",
       "time": 1759602863.0,
       "comments_url": "https://news.ycombinator.com/item?id=45475529"
     },
     {
       "title": "A comparison of Ada and Rust, using solutions to the Advent of Code",
-      "score": 150,
+      "score": 191,
       "url": "https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md",
       "time": 1759590649.0,
       "comments_url": "https://news.ycombinator.com/item?id=45473861"
     },
     {
+      "title": "Newton: physics simulation engine built upon NVIDIA Warp",
+      "score": 39,
+      "url": "https://github.com/newton-physics/newton",
+      "time": 1759337831.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45440071"
+    },
+    {
+      "title": "XiangShan Vector Floating-Point Unit Design",
+      "score": 22,
+      "url": "https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/",
+      "time": 1759615348.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45477118"
+    },
+    {
       "title": "Blog Feeds",
-      "score": 21,
+      "score": 86,
       "url": "https://blogfeeds.net",
       "time": 1759604926.0,
       "comments_url": "https://news.ycombinator.com/item?id=45475808"
     },
     {
-      "title": "How to inject knowledge efficiently? Knowledge infusion scaling law for LLMs",
-      "score": 33,
-      "url": "https://arxiv.org/abs/2509.19371",
-      "time": 1759598287.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45474900"
-    },
-    {
       "title": "Show HN: Run – a CLI universal code runner I built while learning Rust",
-      "score": 25,
+      "score": 57,
       "url": "https://github.com/Esubaalew/run",
       "time": 1759602853.0,
       "comments_url": "https://news.ycombinator.com/item?id=45475528"
     },
     {
+      "title": "How to inject knowledge efficiently? Knowledge infusion scaling law for LLMs",
+      "score": 63,
+      "url": "https://arxiv.org/abs/2509.19371",
+      "time": 1759598287.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45474900"
+    },
+    {
+      "title": "Matrix Core Programming on AMD GPUs",
+      "score": 23,
+      "url": "https://salykova.github.io/matrix-cores-cdna",
+      "time": 1759612931.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45476821"
+    },
+    {
+      "title": "Space Mission Options for Reconnaissance and Mitigation of Asteroid 2024 YR4",
+      "score": 3,
+      "url": "https://arxiv.org/abs/2509.12351",
+      "time": 1759621375.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45477742"
+    },
+    {
+      "title": "Probiotics Finder",
+      "score": 4,
+      "url": "https://www.probioticfinder.org/",
+      "time": 1759620853.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45477700"
+    },
+    {
       "title": "Self-hosting email like it's 1984",
-      "score": 111,
+      "score": 166,
       "url": "https://maxadamski.com/blog/2025/10/email.html",
       "time": 1759589612.0,
       "comments_url": "https://news.ycombinator.com/item?id=45473730"
     },
     {
-      "title": "The UK is still trying to backdoor encryption for Apple users",
-      "score": 104,
-      "url": "https://www.eff.org/deeplinks/2025/10/uk-still-trying-backdoor-encryption-apple-users",
-      "time": 1759608431.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45476273"
+      "title": "OpenAI's hunger for computing power has Sam Altman dashing around the globe",
+      "score": 36,
+      "url": "https://www.wsj.com/tech/ai/openai-sam-altman-asia-middle-east-7b660809",
+      "time": 1759616069.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45477192"
     },
     {
-      "title": "Five years as a startup CTO: How, why, and was it worth it? (2024)",
-      "score": 92,
-      "url": "https://distinctplace.com/2024/09/11/five-years-as-startup-cto-was-it-all-worth-it/",
-      "time": 1759322752.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45437044"
-    },
-    {
-      "title": "The Buchstabenmuseum Berlin is closing",
-      "score": 144,
-      "url": "https://www.buchstabenmuseum.de/en/",
-      "time": 1759579138.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45472678"
-    },
-    {
-      "title": "Solaris 2.1 for x86 (2017)",
-      "score": 12,
-      "url": "https://www.os2museum.com/wp/pc-unix-history/solaris-2-1-for-x86/",
-      "time": 1759601243.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45475329"
+      "title": "Clavier: An FPGA-based mechanical keyboard with USB hub and comms interfaces",
+      "score": 54,
+      "url": "https://github.com/lsartory/Clavier",
+      "time": 1759338338.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45440180"
     },
     {
       "title": "Earth was born dry until a cosmic collision made it a blue planet",
-      "score": 165,
+      "score": 198,
       "url": "https://www.sciencedaily.com/releases/2025/09/250928095654.htm",
       "time": 1759251283.0,
       "comments_url": "https://news.ycombinator.com/item?id=45427972"
     },
     {
       "title": "Paged Out Issue #7 [pdf]",
-      "score": 195,
+      "score": 225,
       "url": "https://pagedout.institute/download/PagedOut_007.pdf",
       "time": 1759574286.0,
       "comments_url": "https://news.ycombinator.com/item?id=45472319"
     },
     {
+      "title": "Borehole Oscillators",
+      "score": 5,
+      "url": "https://www.gregegan.net/SCIENCE/Borehole/Borehole.html",
+      "time": 1759618952.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45477516"
+    },
+    {
       "title": "Alibaba cloud FPGA: the $200 Kintex UltraScale+",
-      "score": 221,
+      "score": 242,
       "url": "https://essenceia.github.io/projects/alibaba_cloud_fpga/",
       "time": 1759560598.0,
       "comments_url": "https://news.ycombinator.com/item?id=45471136"
     },
     {
-      "title": "Thunderscan: A clever device transforms a printer into a scanner (2004)",
-      "score": 118,
-      "url": "https://www.folklore.org/Thunderscan.html",
-      "time": 1759580197.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45472765"
-    },
-    {
-      "title": "Clavier: An FPGA-based mechanical keyboard with USB hub and comms interfaces",
-      "score": 16,
-      "url": "https://github.com/lsartory/Clavier",
-      "time": 1759338338.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45440180"
-    },
-    {
       "title": "Zig builds are getting faster",
-      "score": 388,
+      "score": 409,
       "url": "https://mitchellh.com/writing/zig-builds-getting-faster",
       "time": 1759531528.0,
       "comments_url": "https://news.ycombinator.com/item?id=45468698"
     },
     {
       "title": "Offline card payments should be possible no later than 1 July 2026",
-      "score": 456,
+      "score": 474,
       "url": "https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/",
       "time": 1759523763.0,
       "comments_url": "https://news.ycombinator.com/item?id=45467500"
     },
     {
-      "title": "Systems Programming with Zig",
-      "score": 142,
-      "url": "https://www.manning.com/books/systems-programming-with-zig",
-      "time": 1759315897.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45436289"
-    },
-    {
-      "title": "Show HN: Cobalt – a pixel-art painting studio for the Nintendo DS",
-      "score": 100,
-      "url": "https://benbridle.com/projects/cobalt.html",
-      "time": 1759265685.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45431115"
-    },
-    {
-      "title": "The mini smartphones from Japan you've never heard about [video]",
-      "score": 30,
-      "url": "https://www.youtube.com/watch?v=_e27TfHibTg",
-      "time": 1759286104.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45433743"
+      "title": "Thunderscan: A clever device transforms a printer into a scanner (2004)",
+      "score": 133,
+      "url": "https://www.folklore.org/Thunderscan.html",
+      "time": 1759580197.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45472765"
     }
   ]
 }
