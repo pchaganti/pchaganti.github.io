@@ -1,44 +1,86 @@
 {
-  "last_updated": "2025-10-06T05:14:53.079974-04:00",
+  "last_updated": "2025-10-06T08:23:22.186310-04:00",
   "stories": [
     {
+      "title": "Nobel Prize in Physiology or Medicine 2025 awarded to immune system researchers",
+      "score": 100,
+      "url": "https://www.nobelprize.org/prizes/medicine/2025/press-release/",
+      "time": 1759743676.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45489533"
+    },
+    {
       "title": "Structured Procrastination",
-      "score": 148,
+      "score": 262,
       "url": "https://structuredprocrastination.com",
       "time": 1759732536.0,
       "comments_url": "https://news.ycombinator.com/item?id=45488261"
     },
     {
       "title": "Fire destroys S. Korean government's cloud storage system, no backups available",
-      "score": 1496,
+      "score": 1630,
       "url": "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936",
       "time": 1759684839.0,
       "comments_url": "https://news.ycombinator.com/item?id=45483386"
     },
     {
-      "title": "Battering RAM – Low-Cost Interposer Attacks on Confidential Computing",
-      "score": 24,
-      "url": "https://batteringram.eu/",
-      "time": 1759736837.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45488713"
-    },
-    {
       "title": "Flightcontrol: AWS PaaS",
-      "score": 35,
+      "score": 81,
       "url": "https://www.flightcontrol.dev/",
       "time": 1759734431.0,
       "comments_url": "https://news.ycombinator.com/item?id=45488441"
     },
     {
+      "title": "Battering RAM – Low-Cost Interposer Attacks on Confidential Computing",
+      "score": 60,
+      "url": "https://batteringram.eu/",
+      "time": 1759736837.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45488713"
+    },
+    {
+      "title": "Build a VPN Tunnel with Wintun on Windows – Part 1",
+      "score": 16,
+      "url": "https://0xmm.in/posts/peer-to-peer-windows-part1/",
+      "time": 1759744173.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45489581"
+    },
+    {
       "title": "Why do LLMs freak out over the seahorse emoji?",
-      "score": 305,
+      "score": 426,
       "url": "https://vgel.me/posts/seahorse/",
       "time": 1759717205.0,
       "comments_url": "https://news.ycombinator.com/item?id=45487044"
     },
     {
+      "title": "Delimited Continuations in Lone Lisp",
+      "score": 25,
+      "url": "https://www.matheusmoreira.com/articles/delimited-continuations-in-lone-lisp",
+      "time": 1759470726.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45459466"
+    },
+    {
+      "title": "Basic Math Textbook: The Napkin Project",
+      "score": 60,
+      "url": "https://web.evanchen.cc/napkin.html",
+      "time": 1759448800.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45456965"
+    },
+    {
+      "title": "Sonic Robo Blast 2: 25 year old continuously developed DOOM engine-based fangame",
+      "score": 188,
+      "url": "https://www.srb2.org/",
+      "time": 1759391436.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45447226"
+    },
+    {
+      "title": "Magic Wormhole: Get things from one computer to another, safely",
+      "score": 185,
+      "url": "https://magic-wormhole.readthedocs.io/en/latest/welcome.html",
+      "time": 1759407941.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45448747"
+    },
+    {
       "title": "Find Nearby Automated License Plate Readers (ALPR)",
-      "score": 68,
+      "score": 105,
       "url": "https://deflock.me/",
       "time": 1759722135.0,
       "comments_url": "https://news.ycombinator.com/item?id=45487452"
@@ -52,94 +94,52 @@
     },
     {
       "title": "1 Trillion Web Pages Archived",
-      "score": 231,
+      "score": 325,
       "url": "https://blog.archive.org/trillion/",
       "time": 1759722514.0,
       "comments_url": "https://news.ycombinator.com/item?id=45487476"
     },
     {
-      "title": "Sonic Robo Blast 2: 25 year old continuously developed DOOM engine-based fangame",
-      "score": 145,
-      "url": "https://www.srb2.org/",
-      "time": 1759391436.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45447226"
-    },
-    {
-      "title": "Magic Wormhole: Get things from one computer to another, safely",
-      "score": 140,
-      "url": "https://magic-wormhole.readthedocs.io/en/latest/welcome.html",
-      "time": 1759407941.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45448747"
-    },
-    {
-      "title": "Basic Math Textbook: The Napkin Project",
-      "score": 16,
-      "url": "https://web.evanchen.cc/napkin.html",
-      "time": 1759448800.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45456965"
+      "title": "IRonCub: A Humanoid Robot Designed to Fly Like Iron Man",
+      "score": 8,
+      "url": "https://spectrum.ieee.org/ironcub-jet-powered-flying-robot",
+      "time": 1759431252.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45453818"
     },
     {
       "title": "What GPT-OSS leaks about OpenAI's training data",
-      "score": 254,
+      "score": 279,
       "url": "https://fi-le.net/oss/",
       "time": 1759688896.0,
       "comments_url": "https://news.ycombinator.com/item?id=45483924"
     },
     {
-      "title": "The G in GPU is for Graphics damnit",
-      "score": 148,
-      "url": "https://ut21.github.io/blog/triton.html",
-      "time": 1759405587.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45448416"
-    },
-    {
-      "title": "Ken Parker, famed luthier, has died",
-      "score": 105,
-      "url": "https://kenparkerarchtops.com",
-      "time": 1759702215.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45485736"
-    },
-    {
-      "title": "Rule-Based Expert Systems: The Mycin Experiments (1984)",
-      "score": 66,
-      "url": "https://www.shortliffe.net/Buchanan-Shortliffe-1984/MYCIN%20Book.htm",
-      "time": 1759708307.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45486306"
-    },
-    {
       "title": "The QNX Operating System",
-      "score": 238,
+      "score": 255,
       "url": "https://www.abortretry.fail/p/the-qnx-operating-system",
       "time": 1759675633.0,
       "comments_url": "https://news.ycombinator.com/item?id=45481892"
     },
     {
-      "title": "It's Just a Virus, the E.R. Told Him. Days Later, He Was Dead",
-      "score": 20,
-      "url": "https://www.nytimes.com/2025/10/05/well/sam-terblanche-virus-death-columbia.html",
-      "time": 1759723046.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45487519"
+      "title": "Creating a database of motivated proofs",
+      "score": 6,
+      "url": "https://gowers.wordpress.com/2025/09/22/creating-a-database-of-motivated-proofs/",
+      "time": 1759439683.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45455650"
     },
     {
-      "title": "Joint Book Review: Class, by Paul Fussell",
-      "score": 18,
-      "url": "https://www.thepsmiths.com/p/joint-review-class-by-paul-fussell",
-      "time": 1759439445.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45455608"
+      "title": "Ken Parker, famed luthier, has died",
+      "score": 111,
+      "url": "https://kenparkerarchtops.com",
+      "time": 1759702215.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45485736"
     },
     {
-      "title": "Retrocide Mono – A monospaced font with no decenders",
-      "score": 29,
-      "url": "https://geonot.github.io/retrocide-mono/",
-      "time": 1759541075.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45469658"
-    },
-    {
-      "title": "NFS at 40 – Remembering the Sun Microsystems Network File System",
-      "score": 135,
-      "url": "https://nfs40.online/",
-      "time": 1759679398.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45482467"
+      "title": "The G in GPU is for Graphics damnit",
+      "score": 159,
+      "url": "https://ut21.github.io/blog/triton.html",
+      "time": 1759405587.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45448416"
     }
   ]
 }
