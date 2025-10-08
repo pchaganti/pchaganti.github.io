@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-07T17:09:53.499309-04:00",
+  "last_updated": "2025-10-07T20:53:20.632824-04:00",
   "papers": [
     {
       "title": "Rapid event extraction and tensorial event adaption: Libraries for\n  efficient access and generic reweighting of parton-level events and their\n  implementation in the MadtRex module",
@@ -70,7 +70,7 @@
     {
       "title": "Chroma+ model stellar surface intensities: Spherical formal solution",
       "summary": "We announce V. 2025-08-08 of the Chroma+ suite of stellar atmosphere and\nspectrum modelling codes for fast, approximate, effectively\nplatform-independent stellar spectrum synthesis, written in a number of free\nwell-supported programming languages. The Chroma+ suite now computes the\nemergent surface intensity and flux distributions and the hydrostatic pressure\nstructure assuming a spherical atmosphere rather than local flatness by\nimplementing the analytic formal solution of the 1D spherical radiative\ntransfer equation of Chapman (1966} based on an integration factor. We present\nour adaptation and discretization of the solution and demonstrate the resulting\nimpact of our sphericity treatment on a number of computed observables,\nincluding exo-planet transit light-curves. All codes are available from the\nOpenStars www site: www.ap.smu.ca/OpenStars.",
-      "url": "http://arxiv.org/abs/2510.05035v1",
+      "url": "http://arxiv.org/abs/2510.05035v2",
       "published_time_eastern_timestamp": 1759770688.0
     },
     {

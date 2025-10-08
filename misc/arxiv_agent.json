@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-07T17:09:53.070654-04:00",
+  "last_updated": "2025-10-07T20:53:20.124053-04:00",
   "papers": [
     {
       "title": "Paper2Video: Automatic Video Generation from Scientific Papers",
@@ -58,7 +58,7 @@
     {
       "title": "Safe and Compliant Cross-Market Trade Execution via Constrained RL and\n  Zero-Knowledge Audits",
       "summary": "We present a cross-market algorithmic trading system that balances execution\nquality with rigorous compliance enforcement. The architecture comprises a\nhigh-level planner, a reinforcement learning execution agent, and an\nindependent compliance agent. We formulate trade execution as a constrained\nMarkov decision process with hard constraints on participation limits, price\nbands, and self-trading avoidance. The execution agent is trained with proximal\npolicy optimization, while a runtime action-shield projects any unsafe action\ninto a feasible set. To support auditability without exposing proprietary\nsignals, we add a zero-knowledge compliance audit layer that produces\ncryptographic proofs that all actions satisfied the constraints. We evaluate in\na multi-venue, ABIDES-based simulator and compare against standard baselines\n(e.g., TWAP, VWAP). The learned policy reduces implementation shortfall and\nvariance while exhibiting no observed constraint violations across stress\nscenarios including elevated latency, partial fills, compliance module\ntoggling, and varying constraint limits. We report effects at the 95%\nconfidence level using paired t-tests and examine tail risk via CVaR. We\nsituate the work at the intersection of optimal execution, safe reinforcement\nlearning, regulatory technology, and verifiable AI, and discuss ethical\nconsiderations, limitations (e.g., modeling assumptions and computational\noverhead), and paths to real-world deployment.",
-      "url": "http://arxiv.org/abs/2510.04952v1",
+      "url": "http://arxiv.org/abs/2510.04952v2",
       "published_time_eastern_timestamp": 1759765932.0
     },
     {
