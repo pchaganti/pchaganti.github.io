@@ -1,61 +1,103 @@
 {
-  "last_updated": "2025-10-09T05:13:11.225631-04:00",
+  "last_updated": "2025-10-09T08:23:06.241601-04:00",
   "stories": [
     {
-      "title": "First-in-the-nation law to ban ultra-processed foods from school lunches",
-      "score": 28,
-      "url": "https://www.gov.ca.gov/2025/10/08/governor-newsom-signs-first-in-the-nation-law-to-ban-ultra-processed-foods-from-school-lunches/",
-      "time": 1759998834.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45525041"
-    },
-    {
-      "title": "The React Foundation: The New Home for React and React Native",
-      "score": 41,
+      "title": "The React Foundation",
+      "score": 162,
       "url": "https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/",
       "time": 1759995012.0,
       "comments_url": "https://news.ycombinator.com/item?id=45524624"
     },
     {
+      "title": "Why Are So Many Pedestrians Killed by Cars in the US?",
+      "score": 7,
+      "url": "https://www.construction-physics.com/p/why-are-so-many-pedestrians-killed",
+      "time": 1760011974.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45526543"
+    },
+    {
+      "title": "Vec<T>",
+      "score": 44,
+      "url": "https://marma.dev/articles/2025/under-the-hood-vec-t",
+      "time": 1759736283.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45488647"
+    },
+    {
+      "title": "Zippers: Making Functional \"Updates\" Efficient (2010)",
+      "score": 13,
+      "url": "http://www.goodmath.org/blog/2010/01/13/zippers-making-functional-updates-efficient/",
+      "time": 1760008049.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45526042"
+    },
+    {
       "title": "The Unknotting Number Is Not Additive",
-      "score": 53,
+      "score": 94,
       "url": "https://divisbyzero.com/2025/10/08/the-unknotting-number-is-not-additive/",
       "time": 1759991970.0,
       "comments_url": "https://news.ycombinator.com/item?id=45524293"
     },
     {
+      "title": "Two things LLM coding agents are still bad at",
+      "score": 119,
+      "url": "https://kix.dev/two-things-llm-coding-agents-are-still-bad-at/",
+      "time": 1759984428.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45523537"
+    },
+    {
+      "title": "The Debugging Book",
+      "score": 68,
+      "url": "https://www.debuggingbook.org/",
+      "time": 1759744563.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45489625"
+    },
+    {
       "title": "A History of Large Language Models",
-      "score": 84,
+      "score": 142,
       "url": "https://gregorygundersen.com/blog/2025/10/01/large-language-models/",
       "time": 1759738427.0,
       "comments_url": "https://news.ycombinator.com/item?id=45488892"
     },
     {
-      "title": "Talk Python in Production",
-      "score": 43,
-      "url": "https://talkpython.fm/books/python-in-production",
-      "time": 1759780798.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45495607"
-    },
-    {
       "title": "We found a bug in Go's ARM64 compiler",
-      "score": 715,
+      "score": 758,
       "url": "https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/",
       "time": 1759930395.0,
       "comments_url": "https://news.ycombinator.com/item?id=45516000"
     },
     {
       "title": "Designing a Low Latency 10G Ethernet Core (2023)",
-      "score": 94,
+      "score": 123,
       "url": "https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html",
       "time": 1759972640.0,
       "comments_url": "https://news.ycombinator.com/item?id=45522406"
     },
     {
+      "title": "WinBoat: Windows apps on Linux with seamless integration",
+      "score": 262,
+      "url": "https://www.winboat.app/",
+      "time": 1759946192.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45518813"
+    },
+    {
       "title": "Thoughts on the Word Spec in Rust",
-      "score": 20,
+      "score": 38,
       "url": "https://tritium.legal/blog/word",
       "time": 1759753729.0,
       "comments_url": "https://news.ycombinator.com/item?id=45490627"
+    },
+    {
+      "title": "Talk Python in Production",
+      "score": 60,
+      "url": "https://talkpython.fm/books/python-in-production",
+      "time": 1759780798.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45495607"
+    },
+    {
+      "title": "Birth of Prettier",
+      "score": 56,
+      "url": "https://blog.vjeux.com/2025/javascript/birth-of-prettier.html",
+      "time": 1759677801.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45482198"
     },
     {
       "title": "The Forecasting Company (YC S24) Is Hiring a Machine Learning Engineer",
@@ -65,81 +107,39 @@
       "comments_url": "https://news.ycombinator.com/item?id=45524437"
     },
     {
-      "title": "WinBoat: Windows apps on Linux with seamless integration",
-      "score": 230,
-      "url": "https://www.winboat.app/",
-      "time": 1759946192.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45518813"
+      "title": "Representation Engineering",
+      "score": 5,
+      "url": "https://vgel.me/posts/representation-engineering/",
+      "time": 1759735614.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45488569"
     },
     {
-      "title": "The Debugging Book",
-      "score": 9,
-      "url": "https://www.debuggingbook.org/",
-      "time": 1759744563.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45489625"
+      "title": "A Tissue Therapeutics Revolution",
+      "score": 15,
+      "url": "https://cutiss.swiss/",
+      "time": 1759740662.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45489191"
     },
     {
       "title": "Discord says 70k users may have had their government IDs leaked in breach",
-      "score": 470,
+      "score": 571,
       "url": "https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach",
       "time": 1759965613.0,
       "comments_url": "https://news.ycombinator.com/item?id=45521738"
     },
     {
-      "title": "Rejected announces from libtorrent clients proxying through SOCKS",
-      "score": 33,
-      "url": "https://catgirl.online/2025/10/01/libtorrent-socks-woes",
-      "time": 1759711946.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45486622"
-    },
-    {
       "title": "The RSS feed reader landscape",
-      "score": 253,
+      "score": 279,
       "url": "https://lighthouseapp.io/blog/feed-reader-deep-dive",
       "time": 1759936656.0,
       "comments_url": "https://news.ycombinator.com/item?id=45517134"
     },
     {
-      "title": "A competitor crippled a $23.5M bootcamp by becoming a Reddit moderator",
-      "score": 654,
-      "url": "https://larslofgren.com/codesmith-reddit-reputation-attack/",
-      "time": 1759967308.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45521920"
-    },
-    {
-      "title": "OpenAI, Nvidia fuel $1T AI market with web of circular deals",
-      "score": 238,
-      "url": "https://www.bloomberg.com/news/features/2025-10-07/openai-s-nvidia-amd-deals-boost-1-trillion-ai-boom-with-circular-deals",
-      "time": 1759964672.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45521629"
-    },
-    {
-      "title": "SEC approves Texas Stock Exchange, first new US integrated exchange in decades",
-      "score": 575,
-      "url": "https://www.cbsnews.com/texas/news/sec-approves-texas-stock-exchange-txse/",
-      "time": 1759593864.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45474301"
-    },
-    {
-      "title": "Birth of Prettier",
-      "score": 24,
-      "url": "https://blog.vjeux.com/2025/javascript/birth-of-prettier.html",
-      "time": 1759677801.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45482198"
-    },
-    {
-      "title": "Man gets drunk, wakes up with a medical mystery that nearly kills him",
-      "score": 28,
-      "url": "https://arstechnica.com/health/2025/10/man-gets-drunk-wakes-up-with-a-medical-mystery-that-nearly-kills-him/",
-      "time": 1759993889.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45524502"
-    },
-    {
-      "title": "California enacts law enabling people to universally opt out of data sharing",
-      "score": 332,
-      "url": "https://therecord.media/california-signs-law-opt-out-browsers",
-      "time": 1759978774.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45523033"
+      "title": "Rejected announces from libtorrent clients proxying through SOCKS",
+      "score": 52,
+      "url": "https://catgirl.online/2025/10/01/libtorrent-socks-woes",
+      "time": 1759711946.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45486622"
     }
   ]
 }
