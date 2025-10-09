@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-10-09T11:26:58.632368-04:00",
+  "last_updated": "2025-10-09T14:16:35.693100-04:00",
   "stories": [
     {
-      "title": "The great software quality collapse or, how we normalized catastrophe",
-      "score": 78,
-      "url": "https://techtrenches.substack.com/p/the-great-software-quality-collapse",
-      "time": 1760020769.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45528347"
+      "title": "A small number of samples can poison LLMs of any size",
+      "score": 259,
+      "url": "https://www.anthropic.com/research/small-samples-poison",
+      "time": 1760025844.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45529587"
+    },
+    {
+      "title": "Rubygems.org AWS Root Access Event – September 2025",
+      "score": 48,
+      "url": "https://rubycentral.org/news/rubygems-org-aws-root-access-event-september-2025/",
+      "time": 1760032103.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45530832"
+    },
+    {
+      "title": "Show HN: I've built a tiny hand-held keyboard",
+      "score": 95,
+      "url": "https://github.com/mafik/keyer",
+      "time": 1760025080.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45529393"
+    },
+    {
+      "title": "My First Contribution to Linux",
+      "score": 118,
+      "url": "https://vkoskiv.com/first-linux-patch/",
+      "time": 1759753892.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45490652"
+    },
+    {
+      "title": "ESP32 and Termux",
+      "score": 28,
+      "url": "https://blog.gavide.dev/blog/esp32-and-termux",
+      "time": 1760029012.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45530261"
+    },
+    {
+      "title": "Subway Builder: A Realistic Subway Simulation Game",
+      "score": 14,
+      "url": "https://www.subwaybuilder.com/",
+      "time": 1760031509.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45530744"
+    },
+    {
+      "title": "Launch HN: Extend (YC W23) – Turn your messiest documents into data",
+      "score": 25,
+      "url": "https://www.extend.ai/",
+      "time": 1760026009.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45529628"
+    },
+    {
+      "title": "Cybersecurity Training Programs Don't Prevent Phishing Scams",
+      "score": 31,
+      "url": "https://today.ucsd.edu/story/cybersecurity-training-programs-dont-prevent-employees-from-falling-for-phishing-scams",
+      "time": 1760025786.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45529577"
+    },
+    {
+      "title": "Show HN: I built a web framework in C",
+      "score": 171,
+      "url": "https://github.com/ashtonjamesd/lavandula",
+      "time": 1760013928.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45526890"
+    },
+    {
+      "title": "TIL: Python's splitlines does more than just newlines",
+      "score": 59,
+      "url": "https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/",
+      "time": 1760018104.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45527758"
+    },
+    {
+      "title": "Embracing the parallel coding agent lifestyle",
+      "score": 7,
+      "url": "https://simonwillison.net/2025/Oct/5/parallel-coding-agents/",
+      "time": 1759747228.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45489884"
+    },
+    {
+      "title": "New nanotherapy clears amyloid-β, reversing symptoms of Alzheimer's in mice",
+      "score": 103,
+      "url": "https://www.drugtargetreview.com/news/189235/new-nanotherapy-clears-amyloid-%CE%B2-reversing-alzheimers-in-mice/",
+      "time": 1760020612.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45528308"
+    },
+    {
+      "title": "Using a Laptop as an HDMI Monitor for an SBC",
+      "score": 59,
+      "url": "https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/",
+      "time": 1760016961.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45527507"
+    },
+    {
+      "title": "CPU cache-friendly data structures in Go",
+      "score": 105,
+      "url": "https://skoredin.pro/blog/golang/cpu-cache-friendly-go",
+      "time": 1759731808.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45488201"
+    },
+    {
+      "title": "Goiaba: An experimental Go compiler, written in Rust",
+      "score": 23,
+      "url": "https://github.com/raphamorim/goiaba",
+      "time": 1760026508.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45529748"
     },
     {
       "title": "Why Self-Host?",
-      "score": 32,
+      "score": 222,
       "url": "https://romanzipp.com/blog/why-a-homelab-why-self-host",
       "time": 1760020752.0,
       "comments_url": "https://news.ycombinator.com/item?id=45528342"
     },
     {
-      "title": "Silver Trades to $50 an Ounce",
-      "score": 19,
-      "url": "https://investinglive.com/technical-analysis/silver-trades-to-50-an-ounce-for-the-1st-time-ever-20251009/",
-      "time": 1760019862.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45528141"
-    },
-    {
       "title": "Nobel Prize in Literature 2025: László Krasznahorkai",
-      "score": 117,
+      "score": 169,
       "url": "https://www.nobelprize.org/prizes/literature/2025/press-release/",
       "time": 1760014458.0,
       "comments_url": "https://news.ycombinator.com/item?id=45527003"
     },
     {
       "title": "Figure 03, our 3rd generation humanoid robot",
-      "score": 96,
+      "score": 156,
       "url": "https://www.figure.ai/news/introducing-figure-03",
       "time": 1760016434.0,
       "comments_url": "https://news.ycombinator.com/item?id=45527402"
     },
     {
-      "title": "Zippers: Making Functional \"Updates\" Efficient (2010)",
-      "score": 42,
-      "url": "http://www.goodmath.org/blog/2010/01/13/zippers-making-functional-updates-efficient/",
-      "time": 1760008049.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45526042"
+      "title": "Python 3.14 is here – how fast is it?",
+      "score": 78,
+      "url": "https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it",
+      "time": 1760026566.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45529764"
     },
     {
-      "title": "CPU cache-friendly data structures in Go",
-      "score": 45,
-      "url": "https://skoredin.pro/blog/golang/cpu-cache-friendly-go",
-      "time": 1759731808.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45488201"
-    },
-    {
-      "title": "Two things LLM coding agents are still bad at",
-      "score": 211,
-      "url": "https://kix.dev/two-things-llm-coding-agents-are-still-bad-at/",
-      "time": 1759984428.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45523537"
-    },
-    {
-      "title": "The Unknotting Number Is Not Additive",
-      "score": 124,
-      "url": "https://divisbyzero.com/2025/10/08/the-unknotting-number-is-not-additive/",
-      "time": 1759991970.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45524293"
-    },
-    {
-      "title": "Real-time Nvidia GPU dashboard",
-      "score": 34,
-      "url": "https://github.com/psalias2006/gpu-hot",
-      "time": 1759755893.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45490957"
-    },
-    {
-      "title": "Using a Laptop as an HDMI Monitor for an SBC",
-      "score": 10,
-      "url": "https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/",
-      "time": 1760016961.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45527507"
-    },
-    {
-      "title": "TIL: Python's splitlines does more than just newlines",
-      "score": 4,
-      "url": "https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/",
-      "time": 1760018104.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45527758"
-    },
-    {
-      "title": "Stress-Testing 100 Bluetooth Beacons (So the Team Can Sleep Well at Night)",
-      "score": 6,
-      "url": "https://dunkels.com/adam/stress-testing-next-generation-beacons/",
-      "time": 1759754411.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45490721"
-    },
-    {
-      "title": "A History of Large Language Models",
-      "score": 209,
-      "url": "https://gregorygundersen.com/blog/2025/10/01/large-language-models/",
-      "time": 1759738427.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45488892"
-    },
-    {
-      "title": "The Debugging Book",
-      "score": 112,
-      "url": "https://www.debuggingbook.org/",
-      "time": 1759744563.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45489625"
-    },
-    {
-      "title": "The C++ programmer and educator Rainer Grimm has passed away",
-      "score": 64,
-      "url": "https://www.modernescpp.com/index.php/my-als-journey-31-31-the-end/",
-      "time": 1760015154.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45527156"
-    },
-    {
-      "title": "Vec<T>",
-      "score": 110,
-      "url": "https://marma.dev/articles/2025/under-the-hood-vec-t",
-      "time": 1759736283.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45488647"
-    },
-    {
-      "title": "N8n raises $180M",
-      "score": 129,
-      "url": "https://blog.n8n.io/series-c/",
-      "time": 1760001558.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45525336"
-    },
-    {
-      "title": "Representation Engineering (2024)",
-      "score": 27,
-      "url": "https://vgel.me/posts/representation-engineering/",
-      "time": 1759735614.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45488569"
-    },
-    {
-      "title": "The React Foundation",
-      "score": 259,
-      "url": "https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/",
-      "time": 1759995012.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45524624"
+      "title": "Incident with Webhooks",
+      "score": 99,
+      "url": "https://www.githubstatus.com/incidents/k7bhmjkblcwp",
+      "time": 1760022352.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45528735"
     }
   ]
 }
