@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-08T17:10:39.477821-04:00",
+  "last_updated": "2025-10-08T20:54:17.671409-04:00",
   "papers": [
     {
       "title": "Stratified GRPO: Handling Structural Heterogeneity in Reinforcement\n  Learning of LLM Search Agents",
@@ -22,7 +22,7 @@
     {
       "title": "Barbarians at the Gate: How AI is Upending Systems Research",
       "summary": "Artificial Intelligence (AI) is starting to transform the research process as\nwe know it by automating the discovery of new solutions. Given a task, the\ntypical AI-driven approach is (i) to generate a set of diverse solutions, and\nthen (ii) to verify these solutions and select one that solves the problem.\nCrucially, this approach assumes the existence of a reliable verifier, i.e.,\none that can accurately determine whether a solution solves the given problem.\nWe argue that systems research, long focused on designing and evaluating new\nperformance-oriented algorithms, is particularly well-suited for AI-driven\nsolution discovery. This is because system performance problems naturally admit\nreliable verifiers: solutions are typically implemented in real systems or\nsimulators, and verification reduces to running these software artifacts\nagainst predefined workloads and measuring performance. We term this approach\nas AI-Driven Research for Systems (ADRS), which iteratively generates,\nevaluates, and refines solutions. Using penEvolve, an existing open-source ADRS\ninstance, we present case studies across diverse domains, including load\nbalancing for multi-region cloud scheduling, Mixture-of-Experts inference,\nLLM-based SQL queries, and transaction scheduling. In multiple instances, ADRS\ndiscovers algorithms that outperform state-of-the-art human designs (e.g.,\nachieving up to 5.0x runtime improvements or 50% cost reductions). We distill\nbest practices for guiding algorithm evolution, from prompt design to evaluator\nconstruction, for existing frameworks. We then discuss the broader implications\nfor the systems community: as AI assumes a central role in algorithm design, we\nargue that human researchers will increasingly focus on problem formulation and\nstrategic guidance. Our results highlight both the disruptive potential and the\nurgent need to adapt systems research practices in the age of AI.",
-      "url": "http://arxiv.org/abs/2510.06189v1",
+      "url": "http://arxiv.org/abs/2510.06189v2",
       "published_time_eastern_timestamp": 1759859364.0
     },
     {
@@ -94,7 +94,7 @@
     {
       "title": "The Alignment Auditor: A Bayesian Framework for Verifying and Refining\n  LLM Objectives",
       "summary": "The objectives that Large Language Models (LLMs) implicitly optimize remain\ndangerously opaque, making trustworthy alignment and auditing a grand\nchallenge. While Inverse Reinforcement Learning (IRL) can infer reward\nfunctions from behaviour, existing approaches either produce a single,\noverconfident reward estimate or fail to address the fundamental ambiguity of\nthe task (non-identifiability). This paper introduces a principled auditing\nframework that re-frames reward inference from a simple estimation task to a\ncomprehensive process for verification. Our framework leverages Bayesian IRL to\nnot only recover a distribution over objectives but to enable three critical\naudit capabilities: (i) Quantifying and systematically reducing\nnon-identifiability by demonstrating posterior contraction over sequential\nrounds of evidence; (ii) Providing actionable, uncertainty-aware diagnostics\nthat expose spurious shortcuts and identify out-of-distribution prompts where\nthe inferred objective cannot be trusted; and (iii) Validating policy-level\nutility by showing that the refined, low-uncertainty reward can be used\ndirectly in RLHF to achieve training dynamics and toxicity reductions\ncomparable to the ground-truth alignment process. Empirically, our framework\nsuccessfully audits a detoxified LLM, yielding a well-calibrated and\ninterpretable objective that strengthens alignment guarantees. Overall, this\nwork provides a practical toolkit for auditors, safety teams, and regulators to\nverify what LLMs are truly trying to achieve, moving us toward more trustworthy\nand accountable AI.",
-      "url": "http://arxiv.org/abs/2510.06096v1",
+      "url": "http://arxiv.org/abs/2510.06096v2",
       "published_time_eastern_timestamp": 1759854314.0
     },
     {
