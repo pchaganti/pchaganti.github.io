@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-10-08T23:27:38.446379-04:00",
+  "last_updated": "2025-10-09T02:18:29.783746-04:00",
   "stories": [
     {
-      "title": "Designing a Low Latency 10G Ethernet Core (2023)",
-      "score": 29,
-      "url": "https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html",
-      "time": 1759972640.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45522406"
+      "title": "A History of Large Language Models",
+      "score": 30,
+      "url": "https://gregorygundersen.com/blog/2025/10/01/large-language-models/",
+      "time": 1759738427.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45488892"
     },
     {
       "title": "We found a bug in Go's ARM64 compiler",
-      "score": 589,
+      "score": 657,
       "url": "https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/",
       "time": 1759930395.0,
       "comments_url": "https://news.ycombinator.com/item?id=45516000"
     },
     {
+      "title": "Designing a Low Latency 10G Ethernet Core (2023)",
+      "score": 67,
+      "url": "https://ttchisholm.github.io/ethernet/2023/05/01/designing-10g-eth-1.html",
+      "time": 1759972640.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45522406"
+    },
+    {
+      "title": "Talk Python in Production",
+      "score": 5,
+      "url": "https://talkpython.fm/books/python-in-production",
+      "time": 1759780798.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45495607"
+    },
+    {
       "title": "WinBoat: Windows apps on Linux with seamless integration",
-      "score": 155,
+      "score": 196,
       "url": "https://www.winboat.app/",
       "time": 1759946192.0,
       "comments_url": "https://news.ycombinator.com/item?id=45518813"
     },
     {
-      "title": "Discord says 70k users may have had their government IDs leaked in breach",
-      "score": 198,
-      "url": "https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach",
-      "time": 1759965613.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45521738"
+      "title": "In-Party Love, Out-Party Hate, and Affective Polarization in Twelve Democracies",
+      "score": 28,
+      "url": "https://academic.oup.com/poq/article/89/2/459/8152104?login=false",
+      "time": 1759971740.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45522318"
     },
     {
-      "title": "A Global Mining Dataset",
-      "score": 14,
-      "url": "https://tech.marksblogg.com/icmm-mining-data.html",
-      "time": 1759747713.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45489925"
-    },
-    {
-      "title": "Show HN: HyprMCP – Analytics, logs and auth for MCP servers",
-      "score": 22,
-      "url": "https://github.com/hyprmcp/jetski",
-      "time": 1759966043.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45521788"
-    },
-    {
-      "title": "California enacts law to universally opt out of data sharing",
-      "score": 16,
+      "title": "California enacts law enabling people to universally opt out of data sharing",
+      "score": 276,
       "url": "https://therecord.media/california-signs-law-opt-out-browsers",
       "time": 1759978774.0,
       "comments_url": "https://news.ycombinator.com/item?id=45523033"
     },
     {
+      "title": "Discord says 70k users may have had their government IDs leaked in breach",
+      "score": 328,
+      "url": "https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach",
+      "time": 1759965613.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45521738"
+    },
+    {
+      "title": "Two things LLM coding agents are still bad at",
+      "score": 5,
+      "url": "https://kix.dev/two-things-llm-coding-agents-are-still-bad-at/",
+      "time": 1759984428.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45523537"
+    },
+    {
+      "title": "Rejected announces from libtorrent clients proxying through SOCKS",
+      "score": 16,
+      "url": "https://catgirl.online/2025/10/01/libtorrent-socks-woes",
+      "time": 1759711946.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45486622"
+    },
+    {
       "title": "A competitor crippled a $23.5M bootcamp by becoming a Reddit moderator",
-      "score": 199,
+      "score": 428,
       "url": "https://larslofgren.com/codesmith-reddit-reputation-attack/",
       "time": 1759967308.0,
       "comments_url": "https://news.ycombinator.com/item?id=45521920"
     },
     {
-      "title": "Kurt Got Got",
-      "score": 180,
-      "url": "https://fly.io/blog/kurt-got-got/",
-      "time": 1759957354.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45520615"
-    },
-    {
-      "title": "SEC approves Texas Stock Exchange, first new US integrated exchange in decades",
-      "score": 546,
-      "url": "https://www.cbsnews.com/texas/news/sec-approves-texas-stock-exchange-txse/",
-      "time": 1759593864.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45474301"
-    },
-    {
-      "title": "I played 1k hands of online poker and built a web app with Cursor AI",
-      "score": 70,
-      "url": "https://blog.rchase.com/i-played-1-000-hands-of-online-poker-and-built-a-web-app-with-cursor-ai/",
-      "time": 1759954821.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45520154"
-    },
-    {
-      "title": "A few things to know before stealing my 914 (2022)",
-      "score": 229,
-      "url": "https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/",
-      "time": 1759950970.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45519575"
-    },
-    {
-      "title": "Why we need SIMD",
-      "score": 104,
-      "url": "https://parallelprogrammer.substack.com/p/why-we-need-simd-the-real-reason",
-      "time": 1759720213.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45487310"
-    },
-    {
       "title": "The RSS feed reader landscape",
-      "score": 200,
+      "score": 220,
       "url": "https://lighthouseapp.io/blog/feed-reader-deep-dive",
       "time": 1759936656.0,
       "comments_url": "https://news.ycombinator.com/item?id=45517134"
     },
     {
+      "title": "OpenAI, Nvidia fuel $1T AI market with web of circular deals",
+      "score": 168,
+      "url": "https://www.bloomberg.com/news/features/2025-10-07/openai-s-nvidia-amd-deals-boost-1-trillion-ai-boom-with-circular-deals",
+      "time": 1759964672.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45521629"
+    },
+    {
+      "title": "Show HN: HyprMCP – Analytics, logs and auth for MCP servers",
+      "score": 42,
+      "url": "https://github.com/hyprmcp/jetski",
+      "time": 1759966043.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45521788"
+    },
+    {
+      "title": "SEC approves Texas Stock Exchange, first new US integrated exchange in decades",
+      "score": 567,
+      "url": "https://www.cbsnews.com/texas/news/sec-approves-texas-stock-exchange-txse/",
+      "time": 1759593864.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45474301"
+    },
+    {
+      "title": "Kurt Got Got",
+      "score": 228,
+      "url": "https://fly.io/blog/kurt-got-got/",
+      "time": 1759957354.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45520615"
+    },
+    {
+      "title": "Why we need SIMD",
+      "score": 122,
+      "url": "https://parallelprogrammer.substack.com/p/why-we-need-simd-the-real-reason",
+      "time": 1759720213.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45487310"
+    },
+    {
+      "title": "A few things to know before stealing my 914 (2022)",
+      "score": 265,
+      "url": "https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/",
+      "time": 1759950970.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45519575"
+    },
+    {
       "title": "Meta launches Hyperscape, technology to turn real-world spaces into VR",
-      "score": 108,
+      "score": 126,
       "url": "https://techcrunch.com/2025/09/17/meta-launches-hyperscape-technology-to-turn-real-world-spaces-into-vr/",
       "time": 1759671723.0,
       "comments_url": "https://news.ycombinator.com/item?id=45481417"
     },
     {
       "title": "One-man campaign ravages EU 'Chat Control' bill",
-      "score": 463,
+      "score": 522,
       "url": "https://www.politico.eu/article/one-man-spam-campaign-ravages-eu-chat-control-bill-fight-chat-control/",
       "time": 1759919165.0,
       "comments_url": "https://news.ycombinator.com/item?id=45514433"
-    },
-    {
-      "title": "Aerocart cargo gliders",
-      "score": 60,
-      "url": "https://www.aerolane.com/",
-      "time": 1759690171.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45484123"
-    },
-    {
-      "title": "Tonight's restaurant dinner fell off the Sysco truck",
-      "score": 22,
-      "url": "https://www.thenation.com/article/society/restaurant-consolidation-loss-local-identity/",
-      "time": 1759976948.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45522868"
-    },
-    {
-      "title": "Corruption: When Norms Upstage the Law",
-      "score": 12,
-      "url": "https://knowablemagazine.org/content/article/society/2025/how-corruption-interplays-with-social-norms",
-      "time": 1759976810.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45522855"
-    },
-    {
-      "title": "OpenAI, Nvidia fuel $1T AI market with web of circular deals",
-      "score": 66,
-      "url": "https://www.bloomberg.com/news/features/2025-10-07/openai-s-nvidia-amd-deals-boost-1-trillion-ai-boom-with-circular-deals",
-      "time": 1759964672.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45521629"
     }
   ]
 }
