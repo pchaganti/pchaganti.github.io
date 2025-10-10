@@ -1,47 +1,82 @@
 {
-  "last_updated": "2025-10-10T08:23:38.685258-04:00",
+  "last_updated": "2025-10-10T11:11:35.926386-04:00",
   "stories": [
     {
+      "title": "Igalia, Servo, and the Sovereign Tech Fund",
+      "score": 159,
+      "url": "https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html",
+      "time": 1760098862.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45538137"
+    },
+    {
       "title": "Show HN: I invented a new generative model and got accepted to ICLR",
-      "score": 72,
+      "score": 255,
       "url": "https://discrete-distribution-networks.github.io/",
       "time": 1760086914.0,
       "comments_url": "https://news.ycombinator.com/item?id=45536694"
     },
     {
-      "title": "I Switched from Htmx to Datastar",
-      "score": 150,
-      "url": "https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/",
-      "time": 1760078980.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45536000"
+      "title": "OpenGL is getting mesh shaders as well, via GL_EXT_mesh_shader",
+      "score": 43,
+      "url": "https://www.supergoodcode.com/mesh-shaders-in-the-current-year/",
+      "time": 1760097365.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45537890"
     },
     {
-      "title": "Datastar: Lightweight hypermedia framework for building interactive web apps",
-      "score": 118,
-      "url": "https://data-star.dev/",
-      "time": 1760086000.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45536618"
+      "title": "NanoMi: Open-source transmission electron microscope",
+      "score": 9,
+      "url": "https://sites.google.com/view/nanomi-org?usp=sharing",
+      "time": 1759901091.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45512373"
     },
     {
       "title": "A small number of samples can poison LLMs of any size",
-      "score": 970,
+      "score": 1053,
       "url": "https://www.anthropic.com/research/small-samples-poison",
       "time": 1760025844.0,
       "comments_url": "https://news.ycombinator.com/item?id=45529587"
     },
     {
-      "title": "A Story About Bypassing Air Canada's In-Flight Network Restrictions",
-      "score": 42,
+      "title": "Bringing Desktop Linux GUIs to Android: The Next Step in Graphical App Support",
+      "score": 28,
+      "url": "https://www.linuxjournal.com/content/bringing-desktop-linux-guis-android-next-step-graphical-app-support",
+      "time": 1760094646.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45537512"
+    },
+    {
+      "title": "Ohno Type School",
+      "score": 101,
+      "url": "https://ohnotype.co/blog/ohno-type-school-a",
+      "time": 1759745900.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45489757"
+    },
+    {
+      "title": "A story about bypassing air Canada's in-flight network restrictions",
+      "score": 92,
       "url": "https://ramsayleung.github.io/en/post/2025/a_story_about_bypassing_air_canadas_in-flight_network_restrictions/",
       "time": 1760082654.0,
       "comments_url": "https://news.ycombinator.com/item?id=45536325"
     },
     {
       "title": "My approach to building large technical projects (2023)",
-      "score": 188,
+      "score": 224,
       "url": "https://mitchellh.com/writing/building-large-technical-projects",
       "time": 1760067929.0,
       "comments_url": "https://news.ycombinator.com/item?id=45535202"
+    },
+    {
+      "title": "Origami Patterns Solve a Major Physics Riddle",
+      "score": 15,
+      "url": "https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/",
+      "time": 1759766009.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45492704"
+    },
+    {
+      "title": "Python 3.14 is here. How fast is it?",
+      "score": 641,
+      "url": "https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it",
+      "time": 1759995642.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45524702"
     },
     {
       "title": "Weave (YC W25) is hiring a founding AI engineer",
@@ -51,95 +86,60 @@
       "comments_url": "https://news.ycombinator.com/item?id=45537938"
     },
     {
-      "title": "Nobel Peace Prize 2025: María Corina Machado",
-      "score": 276,
-      "url": "https://www.nobelprize.org/prizes/peace/2025/summary/",
-      "time": 1760086996.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45536700"
+      "title": "All-Natural Geoengineering with Frank Herbert's Dune",
+      "score": 6,
+      "url": "https://www.governance.fyi/p/all-natural-geoengineering-with-frank",
+      "time": 1760105475.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45539296"
     },
     {
       "title": "Parallelizing Cellular Automata with WebGPU Compute Shaders",
-      "score": 20,
+      "score": 39,
       "url": "https://vectrx.substack.com/p/webgpu-cellular-automata",
       "time": 1760088022.0,
       "comments_url": "https://news.ycombinator.com/item?id=45536816"
     },
     {
-      "title": "Ohno Type School",
-      "score": 29,
-      "url": "https://ohnotype.co/blog/ohno-type-school-a",
-      "time": 1759745900.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45489757"
+      "title": "PSA: Always use a separate domain for user content",
+      "score": 89,
+      "url": "https://www.statichost.eu/blog/google-safe-browsing/",
+      "time": 1760102863.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45538760"
     },
     {
-      "title": "Python 3.14 is here. How fast is it?",
-      "score": 591,
-      "url": "https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it",
-      "time": 1759995642.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45524702"
+      "title": "An MVCC-like columnar table on S3 with constant-time deletes",
+      "score": 22,
+      "url": "https://www.shayon.dev/post/2025/277/an-mvcc-like-columnar-table-on-s3-with-constant-time-deletes/",
+      "time": 1759768423.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45493158"
     },
     {
       "title": "Examples Are the Best Documentation",
-      "score": 198,
+      "score": 275,
       "url": "https://rakhim.exotext.com/examples-are-the-best-documentation",
       "time": 1760038476.0,
       "comments_url": "https://news.ycombinator.com/item?id=45532090"
     },
     {
-      "title": "Vite+ – The Unified Toolchain for the Web",
-      "score": 57,
-      "url": "https://viteplus.dev/",
-      "time": 1760090015.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45537035"
+      "title": "Nobel Peace Prize 2025: María Corina Machado",
+      "score": 403,
+      "url": "https://www.nobelprize.org/prizes/peace/2025/summary/",
+      "time": 1760086996.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45536700"
     },
     {
-      "title": "My first contribution to Linux",
-      "score": 588,
-      "url": "https://vkoskiv.com/first-linux-patch/",
-      "time": 1759753892.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45490652"
-    },
-    {
-      "title": "AI is an attack from above on wages\": cognitive scientist Hagen Blix",
-      "score": 9,
-      "url": "https://www.bloodinthemachine.com/p/ai-is-an-attack-from-above-on-wages",
-      "time": 1760097252.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45537876"
-    },
-    {
-      "title": "Digital euro could drain up to 700B euros of deposits in bank run, ECB says",
-      "score": 17,
-      "url": "https://www.reuters.com/business/finance/digital-euro-could-drain-up-700-billion-euros-deposits-bank-run-ecb-says-2025-10-10/",
-      "time": 1760096518.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45537769"
-    },
-    {
-      "title": "Interactive Double Pendulum Playground",
-      "score": 44,
-      "url": "https://theabbie.github.io/DoublePendulum/",
-      "time": 1759900724.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45512342"
+      "title": "I Switched from Htmx to Datastar",
+      "score": 217,
+      "url": "https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/",
+      "time": 1760078980.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45536000"
     },
     {
       "title": "Static Bundle Object: Modernizing Static Linking",
-      "score": 4,
+      "score": 22,
       "url": "https://medium.com/@eyal.itkin/static-bundle-object-modernizing-static-linking-f1be36175064",
       "time": 1759901280.0,
       "comments_url": "https://news.ycombinator.com/item?id=45512388"
-    },
-    {
-      "title": "Multi-Core by Default",
-      "score": 32,
-      "url": "https://www.rfleury.com/p/multi-core-by-default",
-      "time": 1760080266.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45536124"
-    },
-    {
-      "title": "Automated Lean Proofs for Every Type",
-      "score": 15,
-      "url": "https://www.galois.com/articles/automated-lean-proofs-for-every-type",
-      "time": 1759745944.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45489761"
     }
   ]
 }
