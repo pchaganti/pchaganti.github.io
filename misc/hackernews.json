@@ -1,82 +1,124 @@
 {
-  "last_updated": "2025-10-10T11:11:35.926386-04:00",
+  "last_updated": "2025-10-10T14:17:12.234545-04:00",
   "stories": [
     {
+      "title": "2025.41: It's OpenAI's World, We're Just Living in It",
+      "score": 40,
+      "url": "https://stratechery.com/2025/its-openais-world-were-just-living-in-it/",
+      "time": 1760115664.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45541125"
+    },
+    {
+      "title": "Notes on Switching to Helix from Vim",
+      "score": 131,
+      "url": "https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/",
+      "time": 1760107051.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45539609"
+    },
+    {
       "title": "Igalia, Servo, and the Sovereign Tech Fund",
-      "score": 159,
+      "score": 275,
       "url": "https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html",
       "time": 1760098862.0,
       "comments_url": "https://news.ycombinator.com/item?id=45538137"
     },
     {
       "title": "Show HN: I invented a new generative model and got accepted to ICLR",
-      "score": 255,
+      "score": 374,
       "url": "https://discrete-distribution-networks.github.io/",
       "time": 1760086914.0,
       "comments_url": "https://news.ycombinator.com/item?id=45536694"
     },
     {
-      "title": "OpenGL is getting mesh shaders as well, via GL_EXT_mesh_shader",
-      "score": 43,
-      "url": "https://www.supergoodcode.com/mesh-shaders-in-the-current-year/",
-      "time": 1760097365.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45537890"
+      "title": "Ask HN: What's the best hackable smart TV?",
+      "score": 78,
+      "url": "https://news.ycombinator.com/item?id=45490740",
+      "time": 1759754539.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45490740"
+    },
+    {
+      "title": "Ryanair flight landed at Manchester airport with six minutes of fuel left",
+      "score": 258,
+      "url": "https://www.theguardian.com/business/2025/oct/10/ryanair-flight-landed-at-manchester-airport-with-six-minutes-of-fuel-left-flight-log-suggests",
+      "time": 1760109064.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45539943"
+    },
+    {
+      "title": "You can't build tcc from Nixpkgs if you are in the UK",
+      "score": 86,
+      "url": "https://github.com/NixOS/nixpkgs/issues/444342",
+      "time": 1760109522.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45540011"
     },
     {
       "title": "NanoMi: Open-source transmission electron microscope",
-      "score": 9,
+      "score": 42,
       "url": "https://sites.google.com/view/nanomi-org?usp=sharing",
       "time": 1759901091.0,
       "comments_url": "https://news.ycombinator.com/item?id=45512373"
     },
     {
-      "title": "A small number of samples can poison LLMs of any size",
-      "score": 1053,
-      "url": "https://www.anthropic.com/research/small-samples-poison",
-      "time": 1760025844.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45529587"
+      "title": "QA-use-MCP: MCP for E2E testing",
+      "score": 16,
+      "url": "https://www.npmjs.com/package/@desplega.ai/qa-use-mcp",
+      "time": 1759741200.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45489274"
     },
     {
-      "title": "Bringing Desktop Linux GUIs to Android: The Next Step in Graphical App Support",
-      "score": 28,
-      "url": "https://www.linuxjournal.com/content/bringing-desktop-linux-guis-android-next-step-graphical-app-support",
-      "time": 1760094646.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45537512"
+      "title": "The Molecular Basis of Long Covid Brain Fog",
+      "score": 78,
+      "url": "https://www.yokohama-cu.ac.jp/english/news/20251001takahashi.html",
+      "time": 1760108451.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45539845"
+    },
+    {
+      "title": "All-Natural Geoengineering with Frank Herbert's Dune",
+      "score": 44,
+      "url": "https://www.governance.fyi/p/all-natural-geoengineering-with-frank",
+      "time": 1760105475.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45539296"
+    },
+    {
+      "title": "Show HN: Gitcasso – Syntax Highlighting and Draft Recovery for GitHub Comments",
+      "score": 11,
+      "url": "https://github.com/diffplug/gitcasso",
+      "time": 1760110647.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45540171"
+    },
+    {
+      "title": "My approach to building large technical projects (2023)",
+      "score": 278,
+      "url": "https://mitchellh.com/writing/building-large-technical-projects",
+      "time": 1760067929.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45535202"
     },
     {
       "title": "Ohno Type School",
-      "score": 101,
+      "score": 140,
       "url": "https://ohnotype.co/blog/ohno-type-school-a",
       "time": 1759745900.0,
       "comments_url": "https://news.ycombinator.com/item?id=45489757"
     },
     {
       "title": "A story about bypassing air Canada's in-flight network restrictions",
-      "score": 92,
+      "score": 131,
       "url": "https://ramsayleung.github.io/en/post/2025/a_story_about_bypassing_air_canadas_in-flight_network_restrictions/",
       "time": 1760082654.0,
       "comments_url": "https://news.ycombinator.com/item?id=45536325"
     },
     {
-      "title": "My approach to building large technical projects (2023)",
-      "score": 224,
-      "url": "https://mitchellh.com/writing/building-large-technical-projects",
-      "time": 1760067929.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45535202"
+      "title": "Boring Company cited for almost 800 environmental violations in Las Vegas",
+      "score": 184,
+      "url": "https://www.propublica.org/article/elon-musk-boring-company-violations-fines-vegas-loop",
+      "time": 1760112786.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45540585"
     },
     {
-      "title": "Origami Patterns Solve a Major Physics Riddle",
-      "score": 15,
-      "url": "https://www.quantamagazine.org/origami-patterns-solve-a-major-physics-riddle-20251006/",
-      "time": 1759766009.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45492704"
-    },
-    {
-      "title": "Python 3.14 is here. How fast is it?",
-      "score": 641,
-      "url": "https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it",
-      "time": 1759995642.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45524702"
+      "title": "Regarding the Compact",
+      "score": 89,
+      "url": "https://president.mit.edu/writing-speeches/regarding-compact",
+      "time": 1760114949.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45540989"
     },
     {
       "title": "Weave (YC W25) is hiring a founding AI engineer",
@@ -86,60 +128,18 @@
       "comments_url": "https://news.ycombinator.com/item?id=45537938"
     },
     {
-      "title": "All-Natural Geoengineering with Frank Herbert's Dune",
-      "score": 6,
-      "url": "https://www.governance.fyi/p/all-natural-geoengineering-with-frank",
-      "time": 1760105475.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45539296"
-    },
-    {
-      "title": "Parallelizing Cellular Automata with WebGPU Compute Shaders",
-      "score": 39,
-      "url": "https://vectrx.substack.com/p/webgpu-cellular-automata",
-      "time": 1760088022.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45536816"
-    },
-    {
-      "title": "PSA: Always use a separate domain for user content",
-      "score": 89,
-      "url": "https://www.statichost.eu/blog/google-safe-browsing/",
-      "time": 1760102863.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45538760"
-    },
-    {
-      "title": "An MVCC-like columnar table on S3 with constant-time deletes",
-      "score": 22,
-      "url": "https://www.shayon.dev/post/2025/277/an-mvcc-like-columnar-table-on-s3-with-constant-time-deletes/",
-      "time": 1759768423.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45493158"
+      "title": "Show HN: Lights Out: my 2D Rubik's Cube-like Game",
+      "score": 19,
+      "url": "https://raymondtana.github.io/projects/pages/Lights_Out.html",
+      "time": 1760071219.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45535424"
     },
     {
       "title": "Examples Are the Best Documentation",
-      "score": 275,
+      "score": 339,
       "url": "https://rakhim.exotext.com/examples-are-the-best-documentation",
       "time": 1760038476.0,
       "comments_url": "https://news.ycombinator.com/item?id=45532090"
-    },
-    {
-      "title": "Nobel Peace Prize 2025: María Corina Machado",
-      "score": 403,
-      "url": "https://www.nobelprize.org/prizes/peace/2025/summary/",
-      "time": 1760086996.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45536700"
-    },
-    {
-      "title": "I Switched from Htmx to Datastar",
-      "score": 217,
-      "url": "https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/",
-      "time": 1760078980.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45536000"
-    },
-    {
-      "title": "Static Bundle Object: Modernizing Static Linking",
-      "score": 22,
-      "url": "https://medium.com/@eyal.itkin/static-bundle-object-modernizing-static-linking-f1be36175064",
-      "time": 1759901280.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45512388"
     }
   ]
 }
