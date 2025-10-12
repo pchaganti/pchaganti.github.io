@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-10-12T05:10:58.272234-04:00",
+  "last_updated": "2025-10-12T08:20:06.009864-04:00",
   "stories": [
     {
+      "title": "Macro Gaussian Splats",
+      "score": 59,
+      "url": "https://danybittel.ch/macro.html",
+      "time": 1760263682.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45556952"
+    },
+    {
+      "title": "Blood test detecting Long Covid in kids with 94% accuracy microclots",
+      "score": 40,
+      "url": "https://www.researchsquare.com/article/rs-7483367/v1",
+      "time": 1760267338.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45557267"
+    },
+    {
+      "title": "4x faster LLM inference (Flash Attention guy's company)",
+      "score": 44,
+      "url": "https://www.together.ai/blog/adaptive-learning-speculator-system-atlas",
+      "time": 1760258221.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45556474"
+    },
+    {
       "title": "Meta Superintelligence's surprising first paper",
-      "score": 266,
+      "score": 311,
       "url": "https://paddedinputs.substack.com/p/meta-superintelligences-surprising",
       "time": 1760224565.0,
       "comments_url": "https://news.ycombinator.com/item?id=45553577"
     },
     {
       "title": "Pipelining in psql (PostgreSQL 18)",
-      "score": 65,
+      "score": 108,
       "url": "https://postgresql.verite.pro/blog/2025/10/01/psql-pipeline.html",
       "time": 1760244417.0,
       "comments_url": "https://news.ycombinator.com/item?id=45555308"
     },
     {
       "title": "The Flummoxagon",
-      "score": 18,
+      "score": 51,
       "url": "https://n-e-r-v-o-u-s.com/blog/?p=9827",
       "time": 1759851609.0,
       "comments_url": "https://news.ycombinator.com/item?id=45504540"
     },
     {
-      "title": "Show HN: Rift – A tiling window manager for macOS",
-      "score": 121,
-      "url": "https://github.com/acsandmann/rift",
-      "time": 1760228535.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45553995"
+      "title": "Nostr and ATProto (2024)",
+      "score": 14,
+      "url": "https://shreyanjain.net/2024/07/05/nostr-and-atproto.html",
+      "time": 1760261083.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45556763"
     },
     {
-      "title": "I/O Multiplexing (select vs. poll vs. epoll/kqueue)",
-      "score": 34,
-      "url": "https://nima101.github.io/io_multiplexing",
-      "time": 1759982803.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45523370"
-    },
-    {
-      "title": "Coral Protocol: Open infrastructure connecting the internet of agents",
-      "score": 22,
-      "url": "https://arxiv.org/abs/2505.00749",
-      "time": 1760240489.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45555012"
-    },
-    {
-      "title": "Vancouver Stock Exchange: Scam capital of the world (1989) [pdf]",
-      "score": 85,
-      "url": "https://scamcouver.wordpress.com/wp-content/uploads/2012/04/scam-capital.pdf",
-      "time": 1760226222.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45553783"
+      "title": "C++ Reflection and Qt MOC",
+      "score": 21,
+      "url": "https://wiki.qt.io/C%2B%2B_reflection_(P2996)_and_moc",
+      "time": 1759964349.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45521584"
     },
     {
       "title": "Show HN: Sober not Sorry – free iOS tracker to help you quit bad habits",
-      "score": 6,
+      "score": 48,
       "url": "https://sobernotsorry.app/",
       "time": 1760251618.0,
       "comments_url": "https://news.ycombinator.com/item?id=45555873"
     },
     {
+      "title": "Why it took 4 years to get a lock files specification",
+      "score": 17,
+      "url": "https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/",
+      "time": 1760260889.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45556741"
+    },
+    {
+      "title": "I/O Multiplexing (select vs. poll vs. epoll/kqueue)",
+      "score": 64,
+      "url": "https://nima101.github.io/io_multiplexing",
+      "time": 1759982803.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45523370"
+    },
+    {
       "title": "Ask HN: Abandoned/dead projects you think died before their time and why?",
-      "score": 115,
+      "score": 160,
       "url": "https://news.ycombinator.com/item?id=45553132",
       "time": 1760220978.0,
       "comments_url": "https://news.ycombinator.com/item?id=45553132"
     },
     {
+      "title": "Loko Scheme: bare metal optimizing Scheme compiler",
+      "score": 4,
+      "url": "https://scheme.fail/",
+      "time": 1759822919.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45500422"
+    },
+    {
+      "title": "Vancouver Stock Exchange: Scam capital of the world (1989) [pdf]",
+      "score": 102,
+      "url": "https://scamcouver.wordpress.com/wp-content/uploads/2012/04/scam-capital.pdf",
+      "time": 1760226222.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45553783"
+    },
+    {
+      "title": "Coral Protocol: Open infrastructure connecting the internet of agents",
+      "score": 29,
+      "url": "https://arxiv.org/abs/2505.00749",
+      "time": 1760240489.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45555012"
+    },
+    {
       "title": "Anthropic's Prompt Engineering Tutorial",
-      "score": 128,
+      "score": 196,
       "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
       "time": 1760206000.0,
       "comments_url": "https://news.ycombinator.com/item?id=45551260"
     },
     {
       "title": "The World's 2.75B Buildings",
-      "score": 42,
+      "score": 74,
       "url": "https://tech.marksblogg.com/building-footprints-gba.html",
       "time": 1759857980.0,
       "comments_url": "https://news.ycombinator.com/item?id=45506055"
     },
     {
       "title": "Show HN: A Lisp Interpreter for Shell Scripting",
-      "score": 44,
+      "score": 61,
       "url": "https://github.com/gue-ni/redstart",
       "time": 1759957117.0,
       "comments_url": "https://news.ycombinator.com/item?id=45520585"
     },
     {
-      "title": "Paper2Video: Automatic Video Generation from Scientific Papers",
-      "score": 43,
-      "url": "https://arxiv.org/abs/2510.05096",
-      "time": 1760225545.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45553701"
-    },
-    {
-      "title": "Microsoft only lets you opt out of AI photo scanning 3x a year",
-      "score": 601,
-      "url": "https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users",
-      "time": 1760207811.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45551504"
+      "title": "Show HN: Rift – A tiling window manager for macOS",
+      "score": 153,
+      "url": "https://github.com/acsandmann/rift",
+      "time": 1760228535.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45553995"
     },
     {
       "title": "A Guide for WireGuard VPN Setup with Pi-Hole Adblock and Unbound DNS",
-      "score": 74,
+      "score": 97,
       "url": "https://psyonik.tech/posts/a-guide-for-wireguard-vpn-setup-with-pi-hole-adblock-and-unbound-dns/",
       "time": 1760211687.0,
       "comments_url": "https://news.ycombinator.com/item?id=45552049"
-    },
-    {
-      "title": "Spyware maker NSO Group confirms acquisition by US investors",
-      "score": 95,
-      "url": "https://techcrunch.com/2025/10/10/spyware-maker-nso-group-confirms-acquisition-by-us-investors/",
-      "time": 1760247562.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45555570"
-    },
-    {
-      "title": "LineageOS 23",
-      "score": 218,
-      "url": "https://lineageos.org/Changelog-30/",
-      "time": 1760226797.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45553835"
-    },
-    {
-      "title": "Testing two 18 TB white label SATA hard drives from datablocks.dev",
-      "score": 176,
-      "url": "https://ounapuu.ee/posts/2025/10/06/datablocks-white-label-drives/",
-      "time": 1759743368.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45489497"
-    },
-    {
-      "title": "How Apple designs a virtual knob (2012)",
-      "score": 141,
-      "url": "https://jherrm.github.io/knobs/",
-      "time": 1759861177.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45506748"
-    },
-    {
-      "title": "Google blocks Android hack that let Pixel users enable VoLTE anywhere",
-      "score": 151,
-      "url": "https://www.androidauthority.com/pixel-ims-broken-october-update-3606444/",
-      "time": 1760226060.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45553764"
     }
   ]
 }
