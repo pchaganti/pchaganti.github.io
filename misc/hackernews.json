@@ -1,54 +1,96 @@
 {
-  "last_updated": "2025-10-13T14:16:09.644018-04:00",
+  "last_updated": "2025-10-13T17:09:55.664711-04:00",
   "stories": [
     {
-      "title": "Environment variables are a legacy mess: Let's dive deep into them",
-      "score": 112,
-      "url": "https://allvpv.org/haotic-journey-through-envvars/",
-      "time": 1760374155.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45570537"
-    },
-    {
       "title": "NanoChat – The best ChatGPT that $100 can buy",
-      "score": 165,
+      "score": 581,
       "url": "https://github.com/karpathy/nanochat",
       "time": 1760368967.0,
       "comments_url": "https://news.ycombinator.com/item?id=45569350"
     },
     {
+      "title": "Dutch government takes control of Chinese-owned chipmaker Nexperia",
+      "score": 153,
+      "url": "https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html",
+      "time": 1760349791.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45566644"
+    },
+    {
+      "title": "First device based on 'optical thermodynamics' can route light without switches",
+      "score": 58,
+      "url": "https://phys.org/news/2025-10-device-based-optical-thermodynamics-route.html",
+      "time": 1759971240.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45522266"
+    },
+    {
       "title": "Show HN: SQLite Online – 11 years of solo development, 11K daily users",
-      "score": 226,
+      "score": 278,
       "url": "https://sqliteonline.com/",
       "time": 1760359612.0,
       "comments_url": "https://news.ycombinator.com/item?id=45567770"
     },
     {
+      "title": "Root cause analysis? You're doing it wrong",
+      "score": 49,
+      "url": "https://entropicthoughts.com/root-cause-analysis-youre-doing-it-wrong",
+      "time": 1760189971.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45549060"
+    },
+    {
+      "title": "Why did containers happen?",
+      "score": 32,
+      "url": "https://buttondown.com/justincormack/archive/ignore-previous-directions-8-devopsdays/",
+      "time": 1760355475.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45567241"
+    },
+    {
+      "title": "Don't Be a Sucker (1943) [video]",
+      "score": 5,
+      "url": "https://www.youtube.com/watch?v=vGAqYNFQdZ4",
+      "time": 1760387507.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45573025"
+    },
+    {
+      "title": "Abstraction, not syntax",
+      "score": 26,
+      "url": "https://ruudvanasseldonk.com/2025/abstraction-not-syntax",
+      "time": 1760345149.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45566198"
+    },
+    {
+      "title": "JIT: So you want to be faster than an interpreter on modern CPUs",
+      "score": 20,
+      "url": "https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/",
+      "time": 1760296121.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45560863"
+    },
+    {
+      "title": "Strudel REPL – a music live coding environment living in the browser",
+      "score": 22,
+      "url": "https://strudel.cc",
+      "time": 1760380654.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45571822"
+    },
+    {
       "title": "JSON River – Parse JSON incrementally as it streams in",
-      "score": 44,
+      "score": 111,
       "url": "https://github.com/rictic/jsonriver",
       "time": 1759941523.0,
       "comments_url": "https://news.ycombinator.com/item?id=45518033"
     },
     {
-      "title": "Spotlight on pdfly, the Swiss Army knife for PDF files",
-      "score": 253,
-      "url": "https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html",
-      "time": 1760344593.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45566139"
-    },
-    {
-      "title": "More random home lab things I've recently learned",
-      "score": 139,
-      "url": "https://chollinger.com/blog/2025/10/more-homelab-things-ive-recently-learned/",
-      "time": 1759755758.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45490938"
-    },
-    {
-      "title": "From Millions to Billions",
-      "score": 14,
+      "title": "Scaling request logging with ClickHouse, Kafka, and Vector",
+      "score": 76,
       "url": "https://www.geocod.io/code-and-coordinates/2025-10-02-from-millions-to-billions/",
       "time": 1759917385.0,
       "comments_url": "https://news.ycombinator.com/item?id=45514213"
+    },
+    {
+      "title": "Modern iOS Security Features – A Deep Dive into SPTM, TXM, and Exclaves",
+      "score": 14,
+      "url": "https://arxiv.org/abs/2510.09272",
+      "time": 1760379795.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45571688"
     },
     {
       "title": "Optery (YC W22) – Hiring Tech Lead with Node.js Experience (U.S. & Latin America)",
@@ -58,88 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=45570720"
     },
     {
-      "title": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2025",
-      "score": 95,
-      "url": "https://www.nobelprize.org/prizes/economic-sciences/2025/summary/",
-      "time": 1760354600.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45567153"
-    },
-    {
-      "title": "American solar farms",
-      "score": 143,
-      "url": "https://tech.marksblogg.com/american-solar-farms.html",
-      "time": 1760349760.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45566638"
-    },
-    {
-      "title": "Smartphones and being present",
-      "score": 105,
-      "url": "https://herman.bearblog.dev/being-present/",
-      "time": 1760365233.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45568613"
-    },
-    {
-      "title": "MPTCP for Linux",
-      "score": 81,
-      "url": "https://www.mptcp.dev/",
-      "time": 1760347545.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45566441"
-    },
-    {
-      "title": "AI and the Future of American Politics",
-      "score": 60,
-      "url": "https://www.schneier.com/blog/archives/2025/10/ai-and-the-future-of-american-politics.html",
-      "time": 1760367111.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45568955"
-    },
-    {
-      "title": "Control your Canon Camera wirelessly",
-      "score": 68,
-      "url": "https://github.com/JulianSchroden/cine_remote",
-      "time": 1759851894.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45504604"
-    },
-    {
-      "title": "A16Z-backed data firms Fivetran, dbt Labs to merge in all-stock deal",
-      "score": 80,
-      "url": "https://www.reuters.com/business/a16z-backed-data-firms-fivetran-dbt-labs-merge-all-stock-deal-2025-10-13/",
-      "time": 1760366539.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45568842"
-    },
-    {
-      "title": "Matrices can be your Friends",
-      "score": 97,
-      "url": "https://www.sjbaker.org/steve/omniv/matrices_can_be_your_friends.html",
-      "time": 1760350988.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45566766"
-    },
-    {
-      "title": "Android's sideloading limits are its most anti-consumer move yet",
-      "score": 187,
+      "title": "Android's sideloading limits are its most anti-consumer move",
+      "score": 433,
       "url": "https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/",
       "time": 1760369048.0,
       "comments_url": "https://news.ycombinator.com/item?id=45569371"
     },
     {
-      "title": "LaTeXpOsEd: A Systematic Analysis of Information Leakage in Preprint Archives",
-      "score": 60,
-      "url": "https://arxiv.org/abs/2510.03761",
-      "time": 1760344414.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45566123"
+      "title": "CRDT and SQLite: Local-First Value Synchronization",
+      "score": 39,
+      "url": "https://marcobambini.substack.com/p/the-secret-life-of-a-local-first",
+      "time": 1760018487.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45527840"
     },
     {
-      "title": "Putting a dumb weather station on the internet",
-      "score": 124,
-      "url": "https://colincogle.name/blog/byo-weather-station/",
-      "time": 1759864264.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45507444"
+      "title": "Reverse Engineering a 1979 Camera's Spec",
+      "score": 12,
+      "url": "https://blog.mano.lol/posts/film/",
+      "time": 1760381116.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45571918"
     },
     {
-      "title": "Clockss: Digital preservation services run by academic publishers and libraries",
-      "score": 43,
-      "url": "https://clockss.org/",
-      "time": 1759910009.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45513313"
+      "title": "Software update bricks some Jeep 4xe hybrids over the weekend",
+      "score": 237,
+      "url": "https://arstechnica.com/cars/2025/10/software-update-bricks-some-jeep-4xe-hybrids-over-the-weekend/",
+      "time": 1760365705.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45568700"
+    },
+    {
+      "title": "Spotlight on pdfly, the Swiss Army knife for PDF files",
+      "score": 287,
+      "url": "https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html",
+      "time": 1760344593.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45566139"
+    },
+    {
+      "title": "American solar farms",
+      "score": 174,
+      "url": "https://tech.marksblogg.com/american-solar-farms.html",
+      "time": 1760349760.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45566638"
     }
   ]
 }
