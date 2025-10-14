@@ -1,47 +1,82 @@
 {
-  "last_updated": "2025-10-14T08:24:18.253750-04:00",
+  "last_updated": "2025-10-14T11:13:29.539727-04:00",
   "stories": [
     {
+      "title": "Astronomers 'image' a mysterious dark object in the distant Universe",
+      "score": 16,
+      "url": "https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x",
+      "time": 1760453102.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45580699"
+    },
+    {
+      "title": "Pyrefly: Python type checker and language server in Rust",
+      "score": 86,
+      "url": "https://pyrefly.org/?featured_on=talkpython",
+      "time": 1760445181.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45579275"
+    },
+    {
       "title": "Zoo of Array Languages",
-      "score": 36,
+      "score": 72,
       "url": "https://ktye.github.io/",
       "time": 1760439703.0,
       "comments_url": "https://news.ycombinator.com/item?id=45578540"
     },
     {
-      "title": "Why is everything so scalable?",
-      "score": 52,
-      "url": "https://www.stavros.io/posts/why-is-everything-so-scalable/",
-      "time": 1760000010.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45525168"
+      "title": "ADS-B Exposed",
+      "score": 74,
+      "url": "https://adsb.exposed/",
+      "time": 1760438328.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45578383"
     },
     {
-      "title": "Don’t Look Up: Sensitive internal links in the clear on GEO satellites [pdf]",
-      "score": 364,
-      "url": "https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf",
-      "time": 1760406536.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45575391"
+      "title": "Ultrasound is ushering a new era of surgery-free cancer treatment",
+      "score": 157,
+      "url": "https://www.bbc.com/future/article/20251007-how-ultrasound-is-ushering-a-new-era-of-surgery-free-cancer-treatment",
+      "time": 1759918738.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45514378"
+    },
+    {
+      "title": "Wireshark 4.6.0 Supports macOS Pktap Metadata (PID, Process Name, etc.)",
+      "score": 25,
+      "url": "https://nuxx.net/blog/2025/10/14/wireshark-4-6-0-supports-macos-pktap-metadata-pid-process-name-etc/",
+      "time": 1760451494.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45580315"
     },
     {
       "title": "NanoChat – The best ChatGPT that $100 can buy",
-      "score": 1268,
+      "score": 1373,
       "url": "https://github.com/karpathy/nanochat",
       "time": 1760368967.0,
       "comments_url": "https://news.ycombinator.com/item?id=45569350"
     },
     {
+      "title": "Don’t Look Up: Sensitive internal links in the clear on GEO satellites [pdf]",
+      "score": 429,
+      "url": "https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf",
+      "time": 1760406536.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45575391"
+    },
+    {
+      "title": "Dutch government takes control of Chinese-owned chipmaker Nexperia",
+      "score": 601,
+      "url": "https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html",
+      "time": 1760349791.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45566644"
+    },
+    {
       "title": "KDE celebrates the 29th birthday and kicks off the yearly fundraiser",
-      "score": 80,
+      "score": 174,
       "url": "https://kde.org/fundraisers/yearend2025/",
       "time": 1760435693.0,
       "comments_url": "https://news.ycombinator.com/item?id=45578117"
     },
     {
-      "title": "Ultrasound is ushering a new era of surgery-free cancer treatment",
-      "score": 66,
-      "url": "https://www.bbc.com/future/article/20251007-how-ultrasound-is-ushering-a-new-era-of-surgery-free-cancer-treatment",
-      "time": 1759918738.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45514378"
+      "title": "Show HN: CSS Extras",
+      "score": 59,
+      "url": "https://github.com/sindresorhus/css-extras",
+      "time": 1759915171.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45513956"
     },
     {
       "title": "Kyber (YC W23) Is Hiring an Enterprise AE",
@@ -51,95 +86,60 @@
       "comments_url": "https://news.ycombinator.com/item?id=45578990"
     },
     {
-      "title": "Dutch government takes control of Chinese-owned chipmaker Nexperia",
-      "score": 529,
-      "url": "https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html",
-      "time": 1760349791.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45566644"
-    },
-    {
-      "title": "Palisades Fire suspect's ChatGPT history to be used as evidence",
-      "score": 141,
-      "url": "https://www.rollingstone.com/culture/culture-news/chatgpt-palisades-fire-suspect-1235443216/",
-      "time": 1759960414.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45521032"
-    },
-    {
-      "title": "Show HN: CSS Extras",
-      "score": 27,
-      "url": "https://github.com/sindresorhus/css-extras",
-      "time": 1759915171.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45513956"
-    },
-    {
-      "title": "Why study programming languages (2022)",
-      "score": 102,
-      "url": "https://people.csail.mit.edu/rachit/post/why-study-programming-languages/",
-      "time": 1760420217.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45576623"
+      "title": "CRISPR-like tools that finally can edit mitochondria DNA could be revolutionary",
+      "score": 28,
+      "url": "https://www.nature.com/articles/d41586-025-03307-x",
+      "time": 1760448063.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45579708"
     },
     {
       "title": "No science, no startups: The innovation engine we're switching off",
-      "score": 546,
+      "score": 616,
       "url": "https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/",
       "time": 1760360540.0,
       "comments_url": "https://news.ycombinator.com/item?id=45567877"
     },
     {
-      "title": "Copy-and-Patch: A Copy-and-Patch Tutorial",
-      "score": 54,
-      "url": "https://transactional.blog/copy-and-patch/tutorial",
-      "time": 1760418866.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45576502"
+      "title": "Scientists create 'Superwood' that's 10 times stronger than steel",
+      "score": 10,
+      "url": "https://www.cnn.com/science/superwood-10-times-stronger-than-steel-spc",
+      "time": 1760453177.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45580724"
     },
     {
       "title": "America is getting an AI gold rush instead of a factory boom",
-      "score": 259,
+      "score": 321,
       "url": "https://www.washingtonpost.com/business/2025/10/13/manufacturing-artificial-intelligence/",
       "time": 1760366927.0,
       "comments_url": "https://news.ycombinator.com/item?id=45568915"
     },
     {
+      "title": "Palisades Fire suspect's ChatGPT history to be used as evidence",
+      "score": 182,
+      "url": "https://www.rollingstone.com/culture/culture-news/chatgpt-palisades-fire-suspect-1235443216/",
+      "time": 1759960414.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45521032"
+    },
+    {
+      "title": "Copy-and-Patch: A Copy-and-Patch Tutorial",
+      "score": 75,
+      "url": "https://transactional.blog/copy-and-patch/tutorial",
+      "time": 1760418866.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45576502"
+    },
+    {
       "title": "First device based on 'optical thermodynamics' can route light without switches",
-      "score": 149,
+      "score": 159,
       "url": "https://phys.org/news/2025-10-device-based-optical-thermodynamics-route.html",
       "time": 1759971240.0,
       "comments_url": "https://news.ycombinator.com/item?id=45522266"
     },
     {
       "title": "Show HN: SQLite Online – 11 years of solo development, 11K daily users",
-      "score": 400,
+      "score": 420,
       "url": "https://sqliteonline.com/",
       "time": 1760359612.0,
       "comments_url": "https://news.ycombinator.com/item?id=45567770"
-    },
-    {
-      "title": "Modern iOS Security Features – A Deep Dive into SPTM, TXM, and Exclaves",
-      "score": 186,
-      "url": "https://arxiv.org/abs/2510.09272",
-      "time": 1760379795.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45571688"
-    },
-    {
-      "title": "Sony PlayStation 2 fixing frenzy",
-      "score": 135,
-      "url": "https://retrohax.net/sony-playstation-2-fixing-frenzy/",
-      "time": 1760396526.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45574247"
-    },
-    {
-      "title": "DDoS Botnet Aisuru Blankets US ISPs in Record DDoS",
-      "score": 132,
-      "url": "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/",
-      "time": 1760397683.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45574393"
-    },
-    {
-      "title": "Smartphones and being present",
-      "score": 298,
-      "url": "https://herman.bearblog.dev/being-present/",
-      "time": 1760365233.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45568613"
     }
   ]
 }
