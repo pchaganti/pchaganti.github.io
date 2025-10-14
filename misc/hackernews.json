@@ -1,82 +1,131 @@
 {
-  "last_updated": "2025-10-14T11:13:29.539727-04:00",
+  "last_updated": "2025-10-14T14:17:42.217859-04:00",
   "stories": [
     {
+      "title": "How bad can a $2.97 ADC be?",
+      "score": 48,
+      "url": "https://excamera.substack.com/p/how-bad-can-a-297-adc-be",
+      "time": 1760461930.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45582462"
+    },
+    {
+      "title": "Prefix sum: 20 GB/s (2.6x baseline)",
+      "score": 20,
+      "url": "https://github.com/ashtonsix/perf-portfolio/tree/main/delta",
+      "time": 1760460804.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45582268"
+    },
+    {
       "title": "Astronomers 'image' a mysterious dark object in the distant Universe",
-      "score": 16,
+      "score": 107,
       "url": "https://www.mpg.de/25518363/1007-asph-astronomers-image-a-mysterious-dark-object-in-the-distant-universe-155031-x",
       "time": 1760453102.0,
       "comments_url": "https://news.ycombinator.com/item?id=45580699"
     },
     {
-      "title": "Pyrefly: Python type checker and language server in Rust",
-      "score": 86,
-      "url": "https://pyrefly.org/?featured_on=talkpython",
-      "time": 1760445181.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45579275"
-    },
-    {
-      "title": "Zoo of Array Languages",
-      "score": 72,
-      "url": "https://ktye.github.io/",
-      "time": 1760439703.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45578540"
+      "title": "Why is everything so scalable?",
+      "score": 243,
+      "url": "https://www.stavros.io/posts/why-is-everything-so-scalable/",
+      "time": 1760000010.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45525168"
     },
     {
       "title": "ADS-B Exposed",
-      "score": 74,
+      "score": 190,
       "url": "https://adsb.exposed/",
       "time": 1760438328.0,
       "comments_url": "https://news.ycombinator.com/item?id=45578383"
     },
     {
+      "title": "Automatic K8s pod placement to match external service zones",
+      "score": 40,
+      "url": "https://github.com/toredash/automatic-zone-placement",
+      "time": 1759900887.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45512351"
+    },
+    {
+      "title": "Zoo of Array Languages",
+      "score": 110,
+      "url": "https://ktye.github.io/",
+      "time": 1760439703.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45578540"
+    },
+    {
       "title": "Ultrasound is ushering a new era of surgery-free cancer treatment",
-      "score": 157,
+      "score": 251,
       "url": "https://www.bbc.com/future/article/20251007-how-ultrasound-is-ushering-a-new-era-of-surgery-free-cancer-treatment",
       "time": 1759918738.0,
       "comments_url": "https://news.ycombinator.com/item?id=45514378"
     },
     {
-      "title": "Wireshark 4.6.0 Supports macOS Pktap Metadata (PID, Process Name, etc.)",
-      "score": 25,
-      "url": "https://nuxx.net/blog/2025/10/14/wireshark-4-6-0-supports-macos-pktap-metadata-pid-process-name-etc/",
-      "time": 1760451494.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45580315"
+      "title": "Show HN: Metorial (YC F25) – Vercel for MCP",
+      "score": 23,
+      "url": "https://github.com/metorial/metorial",
+      "time": 1760453396.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45580771"
     },
     {
-      "title": "NanoChat – The best ChatGPT that $100 can buy",
-      "score": 1373,
-      "url": "https://github.com/karpathy/nanochat",
-      "time": 1760368967.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45569350"
+      "title": "The phaseout of the mmap() file operation",
+      "score": 27,
+      "url": "https://lwn.net/Articles/1038715/",
+      "time": 1760030377.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45530533"
+    },
+    {
+      "title": "Pyrefly: Python type checker and language server in Rust",
+      "score": 144,
+      "url": "https://pyrefly.org/?featured_on=talkpython",
+      "time": 1760445181.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45579275"
     },
     {
       "title": "Don’t Look Up: Sensitive internal links in the clear on GEO satellites [pdf]",
-      "score": 429,
+      "score": 470,
       "url": "https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf",
       "time": 1760406536.0,
       "comments_url": "https://news.ycombinator.com/item?id=45575391"
     },
     {
+      "title": "Hold Off on Litestream 0.5.0",
+      "score": 51,
+      "url": "https://mtlynch.io/notes/hold-off-on-litestream-0.5.0/",
+      "time": 1760458227.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45581761"
+    },
+    {
+      "title": "A 12,000-year-old obelisk with a human face was found in Karahan Tepe",
+      "score": 59,
+      "url": "https://www.trthaber.com/foto-galeri/karahantepede-12-bin-yil-oncesine-ait-insan-yuzlu-dikili-tas-bulundu/73912.html",
+      "time": 1759804983.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45498887"
+    },
+    {
       "title": "Dutch government takes control of Chinese-owned chipmaker Nexperia",
-      "score": 601,
+      "score": 654,
       "url": "https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html",
       "time": 1760349791.0,
       "comments_url": "https://news.ycombinator.com/item?id=45566644"
     },
     {
-      "title": "KDE celebrates the 29th birthday and kicks off the yearly fundraiser",
-      "score": 174,
-      "url": "https://kde.org/fundraisers/yearend2025/",
-      "time": 1760435693.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45578117"
+      "title": "Wireshark 4.6.0 Supports macOS Pktap Metadata (PID, Process Name, etc.)",
+      "score": 82,
+      "url": "https://nuxx.net/blog/2025/10/14/wireshark-4-6-0-supports-macos-pktap-metadata-pid-process-name-etc/",
+      "time": 1760451494.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45580315"
     },
     {
-      "title": "Show HN: CSS Extras",
-      "score": 59,
-      "url": "https://github.com/sindresorhus/css-extras",
-      "time": 1759915171.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45513956"
+      "title": "Palisades Fire suspect's ChatGPT history to be used as evidence",
+      "score": 217,
+      "url": "https://www.rollingstone.com/culture/culture-news/chatgpt-palisades-fire-suspect-1235443216/",
+      "time": 1759960414.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45521032"
+    },
+    {
+      "title": "CRISPR-like tools that finally can edit mitochondria DNA",
+      "score": 92,
+      "url": "https://www.nature.com/articles/d41586-025-03307-x",
+      "time": 1760448063.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45579708"
     },
     {
       "title": "Kyber (YC W23) Is Hiring an Enterprise AE",
@@ -86,60 +135,11 @@
       "comments_url": "https://news.ycombinator.com/item?id=45578990"
     },
     {
-      "title": "CRISPR-like tools that finally can edit mitochondria DNA could be revolutionary",
-      "score": 28,
-      "url": "https://www.nature.com/articles/d41586-025-03307-x",
-      "time": 1760448063.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45579708"
-    },
-    {
-      "title": "No science, no startups: The innovation engine we're switching off",
-      "score": 616,
-      "url": "https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/",
-      "time": 1760360540.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45567877"
-    },
-    {
-      "title": "Scientists create 'Superwood' that's 10 times stronger than steel",
-      "score": 10,
-      "url": "https://www.cnn.com/science/superwood-10-times-stronger-than-steel-spc",
-      "time": 1760453177.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45580724"
-    },
-    {
       "title": "America is getting an AI gold rush instead of a factory boom",
-      "score": 321,
+      "score": 394,
       "url": "https://www.washingtonpost.com/business/2025/10/13/manufacturing-artificial-intelligence/",
       "time": 1760366927.0,
       "comments_url": "https://news.ycombinator.com/item?id=45568915"
-    },
-    {
-      "title": "Palisades Fire suspect's ChatGPT history to be used as evidence",
-      "score": 182,
-      "url": "https://www.rollingstone.com/culture/culture-news/chatgpt-palisades-fire-suspect-1235443216/",
-      "time": 1759960414.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45521032"
-    },
-    {
-      "title": "Copy-and-Patch: A Copy-and-Patch Tutorial",
-      "score": 75,
-      "url": "https://transactional.blog/copy-and-patch/tutorial",
-      "time": 1760418866.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45576502"
-    },
-    {
-      "title": "First device based on 'optical thermodynamics' can route light without switches",
-      "score": 159,
-      "url": "https://phys.org/news/2025-10-device-based-optical-thermodynamics-route.html",
-      "time": 1759971240.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45522266"
-    },
-    {
-      "title": "Show HN: SQLite Online – 11 years of solo development, 11K daily users",
-      "score": 420,
-      "url": "https://sqliteonline.com/",
-      "time": 1760359612.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45567770"
     }
   ]
 }
