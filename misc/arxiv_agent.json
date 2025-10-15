@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-14T17:10:04.640204-04:00",
+  "last_updated": "2025-10-14T20:55:27.753858-04:00",
   "papers": [
     {
       "title": "Demystifying Reinforcement Learning in Agentic Reasoning",
@@ -33,8 +33,8 @@
     },
     {
       "title": "ManiAgent: An Agentic Framework for General Robotic Manipulation",
-      "summary": "While Vision-Language-Action (VLA) models have demonstrated impressive\ncapabilities in robotic manipulation, their performance in complex reasoning\nand long-horizon task planning is limited by data scarcity and model capacity.\nTo address this, we introduce ManiAgent, an agentic architecture for general\nmanipulation tasks that achieves end-to-end output from task descriptions and\nenvironmental inputs to robotic manipulation actions. In this framework,\nmultiple agents involve inter-agent communication to perform environmental\nperception, sub-task decomposition and action generation, enabling efficient\nhandling of complex manipulation scenarios. Evaluations show ManiAgent achieves\nan 86.8% success rate on the SimplerEnv benchmark and 95.8% on real-world\npick-and-place tasks, enabling efficient data collection that yields VLA models\nwith performance comparable to those trained on human-annotated datasets.The\nproject webpage is available at https://yi-yang929.github.io/ManiAgent/.",
-      "url": "http://arxiv.org/abs/2510.11660v1",
+      "summary": "While Vision-Language-Action (VLA) models have demonstrated impressive\ncapabilities in robotic manipulation, their performance in complex reasoning\nand long-horizon task planning is limited by data scarcity and model capacity.\nTo address this, we introduce ManiAgent, an agentic architecture for general\nmanipulation tasks that achieves end-to-end output from task descriptions and\nenvironmental inputs to robotic manipulation actions. In this framework,\nmultiple agents involve inter-agent communication to perform environmental\nperception, sub-task decomposition and action generation, enabling efficient\nhandling of complex manipulation scenarios. Evaluations show ManiAgent achieves\nan 86.8% success rate on the SimplerEnv benchmark and 95.8% on real-world\npick-and-place tasks, enabling efficient data collection that yields VLA models\nwith performance comparable to those trained on human-annotated datasets. The\nproject webpage is available at https://yi-yang929.github.io/ManiAgent/.",
+      "url": "http://arxiv.org/abs/2510.11660v2",
       "published_time_eastern_timestamp": 1760376888.0
     },
     {
