@@ -1,82 +1,131 @@
 {
-  "last_updated": "2025-10-15T11:12:11.862269-04:00",
+  "last_updated": "2025-10-15T14:17:40.624983-04:00",
   "stories": [
     {
       "title": "Apple M5 chip",
-      "score": 343,
+      "score": 636,
       "url": "https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/",
       "time": 1760533373.0,
       "comments_url": "https://news.ycombinator.com/item?id=45591799"
     },
     {
-      "title": "You are the scariest monster in the woods",
-      "score": 66,
-      "url": "https://jamie.ideasasylum.com/2025/10/15/you-are-the-scariest-monster-in-the-woods",
-      "time": 1760537053.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45592766"
-    },
-    {
-      "title": "Pwning the Entire Nix Ecosystem",
-      "score": 64,
+      "title": "Pwning the Nix ecosystem",
+      "score": 168,
       "url": "https://ptrpa.ws/nixpkgs-actions-abuse",
       "time": 1760535704.0,
       "comments_url": "https://news.ycombinator.com/item?id=45592401"
     },
     {
-      "title": "iPad Pro with M5 chip",
-      "score": 79,
-      "url": "https://www.apple.com/newsroom/2025/10/apple-introduces-the-powerful-new-ipad-pro-with-the-m5-chip/",
-      "time": 1760533831.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45591905"
-    },
-    {
-      "title": "Show HN: Halloy – the modern IRC client I hope will outlive me",
-      "score": 120,
-      "url": "https://github.com/squidowl/halloy",
-      "time": 1760528747.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45590949"
-    },
-    {
-      "title": "Mac Source Ports – Run old games on new Macs",
-      "score": 57,
-      "url": "https://www.macsourceports.com/",
-      "time": 1760533654.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45591865"
-    },
-    {
-      "title": "M5 MacBook Pro",
-      "score": 64,
-      "url": "https://www.apple.com/macbook-pro/",
-      "time": 1760533808.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45591902"
-    },
-    {
-      "title": "Something is broken with the way we measure success on the internet",
-      "score": 171,
-      "url": "https://joindatacops.com/resources/how-73-of-your-e-commerce-visitors-could-be-fake",
-      "time": 1760526701.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45590681"
+      "title": "Claude Haiku 4.5",
+      "score": 134,
+      "url": "https://www.anthropic.com/news/claude-haiku-4-5",
+      "time": 1760547306.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45595403"
     },
     {
       "title": "I almost got hacked by a 'job interview'",
-      "score": 47,
+      "score": 327,
       "url": "https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview",
       "time": 1760532972.0,
       "comments_url": "https://news.ycombinator.com/item?id=45591707"
     },
     {
+      "title": "Breaking \"provably correct\" Leftpad",
+      "score": 41,
+      "url": "https://lukeplant.me.uk/blog/posts/breaking-provably-correct-leftpad/",
+      "time": 1759763498.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45492274"
+    },
+    {
+      "title": "Show HN: Halloy – Modern IRC client",
+      "score": 178,
+      "url": "https://github.com/squidowl/halloy",
+      "time": 1760528747.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45590949"
+    },
+    {
+      "title": "C++26: range support for std:optional",
+      "score": 37,
+      "url": "https://www.sandordargo.com/blog/2025/10/08/cpp26-range-support-for-std-optional",
+      "time": 1760083111.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45536373"
+    },
+    {
+      "title": "Recreating the Canon Cat document interface",
+      "score": 37,
+      "url": "https://lab.alexanderobenauer.com/updates/the-jasper-report",
+      "time": 1760539334.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45593390"
+    },
+    {
+      "title": "A kernel stack use-after-free: Exploiting Nvidia's GPU Linux drivers",
+      "score": 71,
+      "url": "https://blog.quarkslab.com/./nvidia_gpu_kernel_vmalloc_exploit.html",
+      "time": 1760536335.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45592585"
+    },
+    {
+      "title": "Claude Haiku 4.5 System Card [pdf]",
+      "score": 7,
+      "url": "https://assets.anthropic.com/m/99128ddd009bdcb/original/Claude-Haiku-4-5-System-Card.pdf",
+      "time": 1760550752.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45596168"
+    },
+    {
+      "title": "Reverse engineering a 27MHz RC toy communication using RTL SDR",
+      "score": 41,
+      "url": "https://nitrojacob.wordpress.com/2025/09/03/reverse-engineering-a-27mhz-rc-toy-communication-using-rtl-sdr/",
+      "time": 1760538714.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45593213"
+    },
+    {
+      "title": "F5 says hackers stole undisclosed BIG-IP flaws, source code",
+      "score": 39,
+      "url": "https://www.bleepingcomputer.com/news/security/f5-says-hackers-stole-undisclosed-big-ip-flaws-source-code/",
+      "time": 1760535207.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45592271"
+    },
+    {
       "title": "Show HN: Scriber Pro – Offline AI transcription for macOS",
-      "score": 66,
+      "score": 96,
       "url": "https://scriberpro.cc/hn/",
       "time": 1760530576.0,
       "comments_url": "https://news.ycombinator.com/item?id=45591222"
     },
     {
-      "title": "FSF announces Librephone project",
-      "score": 1213,
-      "url": "https://www.fsf.org/news/librephone-project",
-      "time": 1760485628.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45586339"
+      "title": "Garbage collection for Rust: The finalizer frontier",
+      "score": 69,
+      "url": "https://soft-dev.org/pubs/html/hughes_tratt__garbage_collection_for_rust_the_finalizer_frontier/",
+      "time": 1760530084.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45591149"
+    },
+    {
+      "title": "M5 MacBook Pro",
+      "score": 194,
+      "url": "https://www.apple.com/macbook-pro/",
+      "time": 1760533808.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45591902"
+    },
+    {
+      "title": "Leaving serverless led to performance improvement and a simplified architecture",
+      "score": 190,
+      "url": "https://www.unkey.com/blog/serverless-exit",
+      "time": 1760527235.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45590756"
+    },
+    {
+      "title": "Americans' love of billiards paved the way for synthetic plastics",
+      "score": 24,
+      "url": "https://invention.si.edu/invention-stories/imitation-ivory-and-power-play",
+      "time": 1759965951.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45521779"
+    },
+    {
+      "title": "Bots are getting good at mimicking engagement",
+      "score": 279,
+      "url": "https://joindatacops.com/resources/how-73-of-your-e-commerce-visitors-could-be-fake",
+      "time": 1760526701.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45590681"
     },
     {
       "title": "Helpcare AI (YC F24) Is Hiring",
@@ -86,60 +135,11 @@
       "comments_url": "https://news.ycombinator.com/item?id=45591082"
     },
     {
-      "title": "Apple Vision Pro upgraded with M5 chip",
-      "score": 130,
-      "url": "https://www.apple.com/newsroom/2025/10/apple-vision-pro-upgraded-with-the-m5-chip-and-dual-knit-band/",
-      "time": 1760533399.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45591801"
-    },
-    {
-      "title": "Ireland is making basic income for artists program permanent",
-      "score": 257,
-      "url": "https://www.artnews.com/art-news/news/ireland-basic-income-artists-program-permanent-1234756981/",
-      "time": 1760528409.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45590900"
-    },
-    {
-      "title": "Garbage Collection for Rust: The Finalizer Frontier",
-      "score": 40,
-      "url": "https://soft-dev.org/pubs/html/hughes_tratt__garbage_collection_for_rust_the_finalizer_frontier/",
-      "time": 1760530084.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45591149"
-    },
-    {
-      "title": "Reverse Engineering a 27MHz RC Toy Communication Using RTL SDR",
-      "score": 6,
-      "url": "https://nitrojacob.wordpress.com/2025/09/03/reverse-engineering-a-27mhz-rc-toy-communication-using-rtl-sdr/",
-      "time": 1760538714.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45593213"
-    },
-    {
-      "title": "Oops It's a kernel stack use-after-free: Exploiting Nvidia's GPU Linux drivers",
-      "score": 8,
-      "url": "https://blog.quarkslab.com/./nvidia_gpu_kernel_vmalloc_exploit.html",
-      "time": 1760536335.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45592585"
-    },
-    {
-      "title": "Pixnapping Attack",
-      "score": 222,
-      "url": "https://www.pixnapping.com/",
-      "time": 1760508351.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45588594"
-    },
-    {
-      "title": "Flapping-wing robot achieves self-takeoff by adopting reconfigurable mechanisms",
-      "score": 38,
-      "url": "https://www.science.org/doi/10.1126/sciadv.adx0465",
-      "time": 1759955434.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45520263"
-    },
-    {
-      "title": "Leaving serverless led to performance improvement and a simplified architecture",
-      "score": 142,
-      "url": "https://www.unkey.com/blog/serverless-exit",
-      "time": 1760527235.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45590756"
+      "title": "iPad Pro with M5 chip",
+      "score": 150,
+      "url": "https://www.apple.com/newsroom/2025/10/apple-introduces-the-powerful-new-ipad-pro-with-the-m5-chip/",
+      "time": 1760533831.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45591905"
     }
   ]
 }
