@@ -1,47 +1,82 @@
 {
-  "last_updated": "2025-10-16T08:24:23.183280-04:00",
+  "last_updated": "2025-10-16T11:12:50.670589-04:00",
   "stories": [
     {
-      "title": "Liquibase continues to advertise itself as \"open source\" despite license switch",
-      "score": 176,
-      "url": "https://github.com/liquibase/liquibase/issues/7374",
-      "time": 1760601772.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45602676"
+      "title": "Tor browser removing various Firefox AI features",
+      "score": 47,
+      "url": "https://blog.torproject.org/new-alpha-release-tor-browser-150a4/",
+      "time": 1760625190.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45605842"
+    },
+    {
+      "title": "Hyperflask – Full stack Flask and Htmx framework",
+      "score": 65,
+      "url": "https://hyperflask.dev/",
+      "time": 1760618788.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45604673"
+    },
+    {
+      "title": "Why I Chose Elixir Phoenix over Rails, Laravel, and Next.js",
+      "score": 61,
+      "url": "https://akarshc.com/post/phoenix-for-my-project.html",
+      "time": 1760622513.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45605291"
+    },
+    {
+      "title": "A stateful browser agent using self-healing DOM maps",
+      "score": 49,
+      "url": "https://100x.bot/a/a-stateful-browser-agent-using-self-healing-dom-maps",
+      "time": 1760617296.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45604451"
+    },
+    {
+      "title": "Launch HN: Inkeep (YC W23) – Open Source Agent Builder",
+      "score": 25,
+      "url": "https://github.com/inkeep/agents",
+      "time": 1760619008.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45604700"
     },
     {
       "title": "Upcoming Rust language features for kernel development",
-      "score": 132,
+      "score": 211,
       "url": "https://lwn.net/Articles/1039073/",
       "time": 1760595171.0,
       "comments_url": "https://news.ycombinator.com/item?id=45601982"
     },
     {
-      "title": "New coding models and integrations",
-      "score": 124,
-      "url": "https://ollama.com/blog/coding-models",
-      "time": 1760593610.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45601834"
+      "title": "VOC injection into a house reveals large surface reservoir sizes",
+      "score": 30,
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2503399122",
+      "time": 1760228615.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45554004"
     },
     {
-      "title": "Steve Jobs and Cray-1 to be featured on 2026 American Innovations $1 coin",
-      "score": 138,
-      "url": "https://www.usmint.gov/news/press-releases/united-states-mint-releases-2026-american-innovation-one-dollar-coin-program-designs",
-      "time": 1760596749.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45602124"
+      "title": "LINQ and Learning to Be Declarative",
+      "score": 18,
+      "url": "https://www.nickstambaugh.dev/posts/LINQ-and-being-declarative",
+      "time": 1760021424.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45528508"
     },
     {
-      "title": "JustSketchMe – Digital Posing Tool",
-      "score": 78,
-      "url": "https://justsketch.me",
-      "time": 1760104418.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45539079"
+      "title": "Like MS Excel, Pivot tables never die",
+      "score": 19,
+      "url": "https://www.rilldata.com/blog/why-pivot-tables-never-die",
+      "time": 1760619827.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45604823"
     },
     {
-      "title": "Claude Haiku 4.5",
-      "score": 650,
-      "url": "https://www.anthropic.com/news/claude-haiku-4-5",
-      "time": 1760547306.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45595403"
+      "title": "Liquibase continues to advertise itself as \"open source\" despite license switch",
+      "score": 269,
+      "url": "https://github.com/liquibase/liquibase/issues/7374",
+      "time": 1760601772.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45602676"
+    },
+    {
+      "title": "Lace: A New Kind of Cellular Automata Where Links Matter",
+      "score": 12,
+      "url": "https://www.novaspivack.com/science/introducing-lace-a-new-kind-of-cellular-automata",
+      "time": 1760621625.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45605153"
     },
     {
       "title": "Jiga (YC W21) Is Hiring Full Stacks",
@@ -51,95 +86,60 @@
       "comments_url": "https://news.ycombinator.com/item?id=45604308"
     },
     {
+      "title": "JustSketchMe – Digital Posing Tool",
+      "score": 140,
+      "url": "https://justsketch.me",
+      "time": 1760104418.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45539079"
+    },
+    {
+      "title": "New coding models and integrations",
+      "score": 160,
+      "url": "https://ollama.com/blog/coding-models",
+      "time": 1760593610.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45601834"
+    },
+    {
+      "title": "Claude Haiku 4.5",
+      "score": 687,
+      "url": "https://www.anthropic.com/news/claude-haiku-4-5",
+      "time": 1760547306.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45595403"
+    },
+    {
       "title": "TurboTax’s 20-year fight to stop Americans from filing taxes for free (2019)",
-      "score": 302,
+      "score": 491,
       "url": "https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free",
       "time": 1760592691.0,
       "comments_url": "https://news.ycombinator.com/item?id=45601750"
     },
     {
       "title": "Flies keep landing on North Sea oil rigs",
-      "score": 119,
+      "score": 159,
       "url": "https://theconversation.com/thousands-of-flies-keep-landing-on-north-sea-oil-rigs-then-taking-off-a-few-hours-later-heres-why-265622",
       "time": 1760105266.0,
       "comments_url": "https://news.ycombinator.com/item?id=45539262"
     },
     {
-      "title": "The Hidden Math of Ocean Waves Crashes Into View",
-      "score": 30,
-      "url": "https://www.quantamagazine.org/the-hidden-math-of-ocean-waves-crashes-into-view-20251015/",
-      "time": 1760597663.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45602197"
-    },
-    {
-      "title": "Zed is now available on Windows",
-      "score": 447,
-      "url": "https://zed.dev/blog/zed-for-windows-is-here",
-      "time": 1760545469.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45594920"
-    },
-    {
-      "title": "Silver Snoopy Award",
-      "score": 60,
-      "url": "https://www.nasa.gov/space-flight-awareness/silver-snoopy-award/",
-      "time": 1760270645.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45557591"
-    },
-    {
-      "title": "Free applicatives, the handle pattern, and remote systems",
-      "score": 65,
-      "url": "https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html",
-      "time": 1760585615.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45601177"
-    },
-    {
-      "title": "Build a Superscalar 8-Bit CPU (YouTube Playlist) [video]",
-      "score": 93,
-      "url": "https://www.youtube.com/watch?v=bwjMLyBU4RU&list=PLyR4neQXqQo5nPdEiMbaEJxWiy_UuyNN4&index=1",
-      "time": 1760123000.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45542536"
-    },
-    {
-      "title": "Apple M5 chip",
-      "score": 1155,
-      "url": "https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/",
-      "time": 1760533373.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45591799"
-    },
-    {
-      "title": "The people rescuing forgotten knowledge trapped on old floppy disks",
-      "score": 21,
-      "url": "https://www.bbc.com/future/article/20251009-rescuing-knowledge-trapped-on-old-floppy-disks",
-      "time": 1760139364.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45545017"
-    },
-    {
-      "title": "Leaving serverless led to performance improvement and a simplified architecture",
-      "score": 421,
-      "url": "https://www.unkey.com/blog/serverless-exit",
-      "time": 1760527235.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45590756"
-    },
-    {
-      "title": "Are hard drives getting better?",
-      "score": 224,
-      "url": "https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/",
-      "time": 1760548693.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45595724"
-    },
-    {
       "title": "Credential Stuffing",
-      "score": 12,
+      "score": 28,
       "url": "https://ciamweekly.substack.com/p/credential-stuffing",
       "time": 1760379600.0,
       "comments_url": "https://news.ycombinator.com/item?id=45571647"
     },
     {
-      "title": "Sharp Bilinear Filters: Big Clean Pixels for Pixel Art",
-      "score": 7,
-      "url": "https://bumbershootsoft.wordpress.com/2025/10/11/sharp-bilinear-filters-big-clean-pixels-for-pixel-art/",
-      "time": 1760253146.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45555989"
+      "title": "The people rescuing forgotten knowledge trapped on old floppy disks",
+      "score": 57,
+      "url": "https://www.bbc.com/future/article/20251009-rescuing-knowledge-trapped-on-old-floppy-disks",
+      "time": 1760139364.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45545017"
+    },
+    {
+      "title": "Silver Snoopy Award",
+      "score": 78,
+      "url": "https://www.nasa.gov/space-flight-awareness/silver-snoopy-award/",
+      "time": 1760270645.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45557591"
     }
   ]
 }
