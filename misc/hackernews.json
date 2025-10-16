@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-10-16T02:18:27.579161-04:00",
+  "last_updated": "2025-10-16T05:13:55.477537-04:00",
   "stories": [
     {
+      "title": "Liquibase continues to advertise itself as \"open source\" despite license switch",
+      "score": 32,
+      "url": "https://github.com/liquibase/liquibase/issues/7374",
+      "time": 1760601772.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45602676"
+    },
+    {
+      "title": "Steve Jobs and Cray-1 to be featured on 2026 American Innovations $1 coin",
+      "score": 63,
+      "url": "https://www.usmint.gov/news/press-releases/united-states-mint-releases-2026-american-innovation-one-dollar-coin-program-designs",
+      "time": 1760596749.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45602124"
+    },
+    {
       "title": "New coding models and integrations",
-      "score": 26,
+      "score": 84,
       "url": "https://ollama.com/blog/coding-models",
       "time": 1760593610.0,
       "comments_url": "https://news.ycombinator.com/item?id=45601834"
     },
     {
       "title": "Apple M5 chip",
-      "score": 1056,
+      "score": 1119,
       "url": "https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/",
       "time": 1760533373.0,
       "comments_url": "https://news.ycombinator.com/item?id=45591799"
     },
     {
-      "title": "Silver Snoopy Award",
-      "score": 26,
-      "url": "https://www.nasa.gov/space-flight-awareness/silver-snoopy-award/",
-      "time": 1760270645.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45557591"
+      "title": "Journalists turn in access badges, exit Pentagon rather than agreeing new rules",
+      "score": 289,
+      "url": "https://apnews.com/article/pentagon-press-access-hegseth-trump-restrictions-5d9c2a63e4e03b91fc1546bb09ffbf12",
+      "time": 1760597509.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45602179"
+    },
+    {
+      "title": "JustSketchMe – Digital Posing Tool",
+      "score": 17,
+      "url": "https://justsketch.me",
+      "time": 1760104418.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45539079"
     },
     {
       "title": "Claude Haiku 4.5",
-      "score": 550,
+      "score": 596,
       "url": "https://www.anthropic.com/news/claude-haiku-4-5",
       "time": 1760547306.0,
       "comments_url": "https://news.ycombinator.com/item?id=45595403"
     },
     {
-      "title": "TurboTax's 20-Year Fight to Stop Americans from Filing Their Taxes for Free (2019)",
-      "score": 37,
+      "title": "Upcoming Rust language features for kernel development",
+      "score": 22,
+      "url": "https://lwn.net/Articles/1039073/",
+      "time": 1760595171.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45601982"
+    },
+    {
+      "title": "TurboTax’s 20-year fight to stop Americans from filing taxes for free (2019)",
+      "score": 182,
       "url": "https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free",
       "time": 1760592691.0,
       "comments_url": "https://news.ycombinator.com/item?id=45601750"
     },
     {
-      "title": "Free applicatives, the handle pattern, and remote systems",
-      "score": 23,
-      "url": "https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html",
-      "time": 1760585615.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45601177"
+      "title": "Silver Snoopy Award",
+      "score": 49,
+      "url": "https://www.nasa.gov/space-flight-awareness/silver-snoopy-award/",
+      "time": 1760270645.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45557591"
     },
     {
       "title": "Zed is now available on Windows",
-      "score": 303,
+      "score": 394,
       "url": "https://zed.dev/blog/zed-for-windows-is-here",
       "time": 1760545469.0,
       "comments_url": "https://news.ycombinator.com/item?id=45594920"
     },
     {
+      "title": "Flies keep landing on North Sea oil rigs",
+      "score": 59,
+      "url": "https://theconversation.com/thousands-of-flies-keep-landing-on-north-sea-oil-rigs-then-taking-off-a-few-hours-later-heres-why-265622",
+      "time": 1760105266.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45539262"
+    },
+    {
+      "title": "Free applicatives, the handle pattern, and remote systems",
+      "score": 51,
+      "url": "https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html",
+      "time": 1760585615.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45601177"
+    },
+    {
       "title": "Build a Superscalar 8-Bit CPU (YouTube Playlist) [video]",
-      "score": 53,
+      "score": 67,
       "url": "https://www.youtube.com/watch?v=bwjMLyBU4RU&list=PLyR4neQXqQo5nPdEiMbaEJxWiy_UuyNN4&index=1",
       "time": 1760123000.0,
       "comments_url": "https://news.ycombinator.com/item?id=45542536"
     },
     {
-      "title": "TaxCalcBench: Evaluating Frontier Models on the Tax Calculation Task",
-      "score": 19,
-      "url": "https://arxiv.org/abs/2507.16126",
-      "time": 1760586339.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45601230"
-    },
-    {
-      "title": "Looking at kmalloc() and the SLUB Memory Allocator (2019)",
-      "score": 11,
-      "url": "https://ruffell.nz/programming/writeups/2019/02/15/looking-at-kmalloc-and-the-slub-memory-allocator.html",
-      "time": 1760266755.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45557217"
-    },
-    {
       "title": "Are hard drives getting better?",
-      "score": 177,
+      "score": 206,
       "url": "https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/",
       "time": 1760548693.0,
       "comments_url": "https://news.ycombinator.com/item?id=45595724"
     },
     {
-      "title": "Writing an LLM from scratch, part 22 – training our LLM",
-      "score": 134,
-      "url": "https://www.gilesthomas.com/2025/10/llm-from-scratch-22-finally-training-our-llm",
-      "time": 1760571732.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45599727"
-    },
-    {
-      "title": "Who's Submitting AI-Tainted Filings in Court?",
-      "score": 30,
-      "url": "https://cyberlaw.stanford.edu/whos-submitting-ai-tainted-filings-in-court/",
-      "time": 1760575856.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45600263"
-    },
-    {
-      "title": "IRS open sources its fact graph",
-      "score": 249,
-      "url": "https://github.com/IRS-Public/fact-graph",
-      "time": 1760570687.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45599567"
-    },
-    {
       "title": "Leaving serverless led to performance improvement and a simplified architecture",
-      "score": 343,
+      "score": 389,
       "url": "https://www.unkey.com/blog/serverless-exit",
       "time": 1760527235.0,
       "comments_url": "https://news.ycombinator.com/item?id=45590756"
     },
     {
-      "title": "Functions Are Asymmetric",
-      "score": 11,
-      "url": "https://www.elbeno.com/blog/?p=1804",
-      "time": 1760254895.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45556142"
+      "title": "TaxCalcBench: Evaluating Frontier Models on the Tax Calculation Task",
+      "score": 36,
+      "url": "https://arxiv.org/abs/2507.16126",
+      "time": 1760586339.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45601230"
     },
     {
       "title": "What is going on with all this radioactive shrimp?",
-      "score": 44,
+      "score": 64,
       "url": "https://www.consumerreports.org/health/food-safety/radioactive-shrimp-explained-a5493175857/",
       "time": 1760157075.0,
       "comments_url": "https://news.ycombinator.com/item?id=45546575"
     },
     {
-      "title": "Retiring Windows 10 and Microsoft's move towards a surveillance state",
-      "score": 346,
-      "url": "https://www.scottrlarson.com/publications/publication-windows-move-towards-surveillance/",
-      "time": 1760576417.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45600338"
+      "title": "Looking at kmalloc() and the SLUB Memory Allocator (2019)",
+      "score": 21,
+      "url": "https://ruffell.nz/programming/writeups/2019/02/15/looking-at-kmalloc-and-the-slub-memory-allocator.html",
+      "time": 1760266755.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45557217"
     },
     {
-      "title": "Show HN: Halloy – Modern IRC client",
-      "score": 310,
-      "url": "https://github.com/squidowl/halloy",
-      "time": 1760528747.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45590949"
-    },
-    {
-      "title": "A Gemma model helped discover a new potential cancer therapy pathway",
-      "score": 100,
-      "url": "https://blog.google/technology/ai/google-gemma-ai-cancer-therapy-discovery/",
-      "time": 1760555047.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45597006"
+      "title": "Who's Submitting AI-Tainted Filings in Court?",
+      "score": 49,
+      "url": "https://cyberlaw.stanford.edu/whos-submitting-ai-tainted-filings-in-court/",
+      "time": 1760575856.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45600263"
     }
   ]
 }
