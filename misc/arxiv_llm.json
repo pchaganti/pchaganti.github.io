@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-15T17:10:25.551618-04:00",
+  "last_updated": "2025-10-15T20:55:30.192040-04:00",
   "papers": [
     {
       "title": "DeepMMSearch-R1: Empowering Multimodal LLMs in Multimodal Web Search",
@@ -112,7 +112,7 @@
     {
       "title": "ACADATA: Parallel Dataset of Academic Data for Machine Translation",
       "summary": "We present ACADATA, a high-quality parallel dataset for academic translation,\nthat consists of two subsets: ACAD-TRAIN, which contains approximately 1.5\nmillion author-generated paragraph pairs across 96 language directions and\nACAD-BENCH, a curated evaluation set of almost 6,000 translations covering 12\ndirections. To validate its utility, we fine-tune two Large Language Models\n(LLMs) on ACAD-TRAIN and benchmark them on ACAD-BENCH against specialized\nmachine-translation systems, general-purpose, open-weight LLMs, and several\nlarge-scale proprietary models. Experimental results demonstrate that\nfine-tuning on ACAD-TRAIN leads to improvements in academic translation quality\nby +6.1 and +12.4 d-BLEU points on average for 7B and 2B models respectively,\nwhile also improving long-context translation in a general domain by up to\n24.9% when translating out of English. The fine-tuned top-performing model\nsurpasses the best propietary and open-weight models on academic translation\ndomain. By releasing ACAD-TRAIN, ACAD-BENCH and the fine-tuned models, we\nprovide the community with a valuable resource to advance research in academic\ndomain and long-context translation.",
-      "url": "http://arxiv.org/abs/2510.12621v1",
+      "url": "http://arxiv.org/abs/2510.12621v2",
       "published_time_eastern_timestamp": 1760455206.0
     },
     {

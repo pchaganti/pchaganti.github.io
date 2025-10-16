@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-15T17:10:25.977899-04:00",
+  "last_updated": "2025-10-15T20:55:30.766656-04:00",
   "papers": [
     {
       "title": "DeepMMSearch-R1: Empowering Multimodal LLMs in Multimodal Web Search",
@@ -70,7 +70,7 @@
     {
       "title": "MCOP: Multi-UAV Collaborative Occupancy Prediction",
       "summary": "Unmanned Aerial Vehicle (UAV) swarm systems necessitate efficient\ncollaborative perception mechanisms for diverse operational scenarios. Current\nBird's Eye View (BEV)-based approaches exhibit two main limitations:\nbounding-box representations fail to capture complete semantic and geometric\ninformation of the scene, and their performance significantly degrades when\nencountering undefined or occluded objects. To address these limitations, we\npropose a novel multi-UAV collaborative occupancy prediction framework. Our\nframework effectively preserves 3D spatial structures and semantics through\nintegrating a Spatial-Aware Feature Encoder and Cross-Agent Feature\nIntegration. To enhance efficiency, we further introduce Altitude-Aware Feature\nReduction to compactly represent scene information, along with a Dual-Mask\nPerceptual Guidance mechanism to adaptively select features and reduce\ncommunication overhead. Due to the absence of suitable benchmark datasets, we\nextend three datasets for evaluation: two virtual datasets (Air-to-Pred-Occ and\nUAV3D-Occ) and one real-world dataset (GauUScene-Occ). Experiments results\ndemonstrate that our method achieves state-of-the-art accuracy, significantly\noutperforming existing collaborative methods while reducing communication\noverhead to only a fraction of previous approaches.",
-      "url": "http://arxiv.org/abs/2510.12679v1",
+      "url": "http://arxiv.org/abs/2510.12679v2",
       "published_time_eastern_timestamp": 1760458662.0
     },
     {

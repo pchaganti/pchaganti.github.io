@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-10-15T17:10:24.223604-04:00",
+  "last_updated": "2025-10-15T20:55:28.568952-04:00",
   "stories": [
     {
+      "title": "IRS Open Sources its Fact Graph",
+      "score": 104,
+      "url": "https://github.com/IRS-Public/fact-graph",
+      "time": 1760570687.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45599567"
+    },
+    {
       "title": "Apple M5 chip",
-      "score": 811,
+      "score": 928,
       "url": "https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/",
       "time": 1760533373.0,
       "comments_url": "https://news.ycombinator.com/item?id=45591799"
     },
     {
       "title": "Claude Haiku 4.5",
-      "score": 304,
+      "score": 410,
       "url": "https://www.anthropic.com/news/claude-haiku-4-5",
       "time": 1760547306.0,
       "comments_url": "https://news.ycombinator.com/item?id=45595403"
     },
     {
+      "title": "Writing an LLM from scratch, part 22 – training our LLM",
+      "score": 36,
+      "url": "https://www.gilesthomas.com/2025/10/llm-from-scratch-22-finally-training-our-llm",
+      "time": 1760571732.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45599727"
+    },
+    {
+      "title": "ImapGoose",
+      "score": 26,
+      "url": "https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/",
+      "time": 1760567335.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45599084"
+    },
+    {
+      "title": "Next Steps for the Caddy Project Maintainership",
+      "score": 85,
+      "url": "https://caddy.community/t/next-steps-for-the-caddy-project-maintainership/33076",
+      "time": 1760563939.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45598590"
+    },
+    {
       "title": "I almost got hacked by a 'job interview'",
-      "score": 555,
+      "score": 706,
       "url": "https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview",
       "time": 1760532972.0,
       "comments_url": "https://news.ycombinator.com/item?id=45591707"
     },
     {
-      "title": "Pwning the Nix ecosystem",
-      "score": 208,
-      "url": "https://ptrpa.ws/nixpkgs-actions-abuse",
-      "time": 1760535704.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45592401"
+      "title": "Gerald Sussman - An Electrical Engineering View of a Mechanical Watch (2003)",
+      "score": 34,
+      "url": "https://techtv.mit.edu/videos/15895-an-electrical-engineering-view-of-a-mechanical-watch",
+      "time": 1759747572.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45489911"
+    },
+    {
+      "title": "Bringing NumPy's type-completeness score to nearly 90%",
+      "score": 37,
+      "url": "https://pyrefly.org/blog/numpy-type-completeness/",
+      "time": 1759829532.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45501088"
+    },
+    {
+      "title": "Zed is now available on Windows",
+      "score": 166,
+      "url": "https://zed.dev/blog/zed-for-windows-is-here",
+      "time": 1760545469.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45594920"
+    },
+    {
+      "title": "Are hard drives getting better?",
+      "score": 117,
+      "url": "https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/",
+      "time": 1760548693.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45595724"
+    },
+    {
+      "title": "Blood-Sharing Drug Trend Fuels Global HIV Surge",
+      "score": 30,
+      "url": "https://www.nytimes.com/2025/10/08/world/asia/bluetoothing-drug-blood-sharing.html",
+      "time": 1760195405.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45549770"
     },
     {
       "title": "Show HN: Halloy – Modern IRC client",
-      "score": 232,
+      "score": 275,
       "url": "https://github.com/squidowl/halloy",
       "time": 1760528747.0,
       "comments_url": "https://news.ycombinator.com/item?id=45590949"
     },
     {
-      "title": "Monads are too powerful: The expressiveness spectrum",
-      "score": 20,
-      "url": "https://chrispenner.ca/posts/expressiveness-spectrum",
-      "time": 1760245871.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45555426"
+      "title": "Pwning the Nix ecosystem",
+      "score": 236,
+      "url": "https://ptrpa.ws/nixpkgs-actions-abuse",
+      "time": 1760535704.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45592401"
     },
     {
-      "title": "C++26: range support for std:optional",
-      "score": 60,
-      "url": "https://www.sandordargo.com/blog/2025/10/08/cpp26-range-support-for-std-optional",
-      "time": 1760083111.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45536373"
+      "title": "Leaving serverless led to performance improvement and a simplified architecture",
+      "score": 287,
+      "url": "https://www.unkey.com/blog/serverless-exit",
+      "time": 1760527235.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45590756"
+    },
+    {
+      "title": "Recursive Language Models (RLMs)",
+      "score": 65,
+      "url": "https://alexzhang13.github.io/blog/2025/rlm/",
+      "time": 1760550207.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45596059"
+    },
+    {
+      "title": "US Dept of Interior denies canceling largest solar project after axing review",
+      "score": 40,
+      "url": "https://www.utilitydive.com/news/department-interior-cancels-review-nevada-solar-project-trump/802704/",
+      "time": 1760570167.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45599496"
     },
     {
       "title": "F5 says hackers stole undisclosed BIG-IP flaws, source code",
-      "score": 97,
+      "score": 126,
       "url": "https://www.bleepingcomputer.com/news/security/f5-says-hackers-stole-undisclosed-big-ip-flaws-source-code/",
       "time": 1760535207.0,
       "comments_url": "https://news.ycombinator.com/item?id=45592271"
     },
     {
       "title": "A kernel stack use-after-free: Exploiting Nvidia's GPU Linux drivers",
-      "score": 105,
+      "score": 130,
       "url": "https://blog.quarkslab.com/./nvidia_gpu_kernel_vmalloc_exploit.html",
       "time": 1760536335.0,
       "comments_url": "https://news.ycombinator.com/item?id=45592585"
     },
     {
-      "title": "Recursive Language Models (RLMs)",
-      "score": 28,
-      "url": "https://alexzhang13.github.io/blog/2025/rlm/",
-      "time": 1760550207.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45596059"
-    },
-    {
-      "title": "Recreating the Canon Cat document interface",
-      "score": 68,
-      "url": "https://lab.alexanderobenauer.com/updates/the-jasper-report",
-      "time": 1760539334.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45593390"
-    },
-    {
-      "title": "Are hard drives getting better?",
-      "score": 32,
-      "url": "https://www.backblaze.com/blog/are-hard-drives-getting-better-lets-revisit-the-bathtub-curve/",
-      "time": 1760548693.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45595724"
-    },
-    {
-      "title": "Things I've learned in my 7 years implementing AI",
-      "score": 86,
-      "url": "https://www.jampa.dev/p/llms-and-the-lessons-we-still-havent",
-      "time": 1760552855.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45596602"
-    },
-    {
-      "title": "Leaving serverless led to performance improvement and a simplified architecture",
-      "score": 240,
-      "url": "https://www.unkey.com/blog/serverless-exit",
-      "time": 1760527235.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45590756"
-    },
-    {
-      "title": "Reverse engineering a 27MHz RC toy communication using RTL SDR",
-      "score": 61,
-      "url": "https://nitrojacob.wordpress.com/2025/09/03/reverse-engineering-a-27mhz-rc-toy-communication-using-rtl-sdr/",
-      "time": 1760538714.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45593213"
-    },
-    {
-      "title": "Garbage collection for Rust: The finalizer frontier",
-      "score": 93,
-      "url": "https://soft-dev.org/pubs/html/hughes_tratt__garbage_collection_for_rust_the_finalizer_frontier/",
-      "time": 1760530084.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45591149"
-    },
-    {
-      "title": "M5 MacBook Pro",
-      "score": 269,
-      "url": "https://www.apple.com/macbook-pro/",
-      "time": 1760533808.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45591902"
-    },
-    {
-      "title": "Americans' love of billiards paved the way for synthetic plastics",
-      "score": 41,
-      "url": "https://invention.si.edu/invention-stories/imitation-ivory-and-power-play",
-      "time": 1759965951.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45521779"
-    },
-    {
-      "title": "Show HN: Scriber Pro – Offline AI transcription for macOS",
-      "score": 112,
-      "url": "https://scriberpro.cc/hn/",
-      "time": 1760530576.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45591222"
-    },
-    {
-      "title": "Reverse engineering iWork",
-      "score": 31,
-      "url": "https://andrews.substack.com/p/reverse-engineering-iwork",
-      "time": 1760528671.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45590935"
+      "title": "How First Wap tracks phones around the world",
+      "score": 58,
+      "url": "https://www.lighthousereports.com/methodology/surveillance-secrets-explainer/",
+      "time": 1760567291.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45599075"
     }
   ]
 }
