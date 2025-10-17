@@ -1,10 +1,10 @@
 {
-  "last_updated": "2025-10-16T17:10:32.111677-04:00",
+  "last_updated": "2025-10-16T20:55:03.694108-04:00",
   "papers": [
     {
       "title": "Reasoning in Space via Grounding in the World",
       "summary": "In this paper, we claim that 3D visual grounding is the cornerstone of\nspatial reasoning and introduce the Grounded-Spatial Reasoner (GS-Reasoner) to\nexplore the effective spatial representations that bridge the gap between them.\nExisting 3D LLMs suffer from the absence of a unified 3D representation capable\nof jointly capturing semantic and geometric information. This deficiency is\nmanifested either in poor performance on grounding or in an excessive reliance\non external modules, ultimately hindering the seamless integration of grounding\nand spatial reasoning. To address this, we propose a simple yet effective\ndual-path pooling mechanism that tightly aligns geometric features with both\nsemantic and positional cues, constructing a unified image patch-based 3D\nrepresentation that encapsulates all essential information without increasing\nthe number of input tokens. Leveraging this holistic representation,\nGS-Reasoner is the first 3D LLM that achieves autoregressive grounding entirely\nwithout external modules while delivering performance comparable to\nstate-of-the-art models, establishing a unified and self-contained framework\nfor 3D spatial reasoning. To further bridge grounding and spatial reasoning, we\nintroduce the Grounded Chain-of-Thought (GCoT) dataset. This dataset is\nmeticulously curated to include both 3D bounding box annotations for objects\nreferenced in reasoning questions and step-by-step reasoning paths that\nintegrate grounding as a core component of the problem-solving process.\nExtensive experiments demonstrate that GS-Reasoner achieves impressive results\non 3D visual grounding, which in turn significantly enhances its spatial\nreasoning capabilities, leading to state-of-the-art performance.",
-      "url": "http://arxiv.org/abs/2510.13800v1",
+      "url": "http://arxiv.org/abs/2510.13800v2",
       "published_time_eastern_timestamp": 1760551088.0
     },
     {
@@ -16,7 +16,7 @@
     {
       "title": "Confidence-Based Response Abstinence: Improving LLM Trustworthiness via\n  Activation-Based Uncertainty Estimation",
       "summary": "We propose a method for confidence estimation in retrieval-augmented\ngeneration (RAG) systems that aligns closely with the correctness of large\nlanguage model (LLM) outputs. Confidence estimation is especially critical in\nhigh-stakes domains such as finance and healthcare, where the cost of an\nincorrect answer outweighs that of not answering the question. Our approach\nextends prior uncertainty quantification methods by leveraging raw feed-forward\nnetwork (FFN) activations as auto-regressive signals, avoiding the information\nloss inherent in token logits and probabilities after projection and softmax\nnormalization. We model confidence prediction as a sequence classification\ntask, and regularize training with a Huber loss term to improve robustness\nagainst noisy supervision. Applied in a real-world financial industry\ncustomer-support setting with complex knowledge bases, our method outperforms\nstrong baselines and maintains high accuracy under strict latency constraints.\nExperiments on Llama 3.1 8B model show that using activations from only the\n16th layer preserves accuracy while reducing response latency. Our results\ndemonstrate that activation-based confidence modeling offers a scalable,\narchitecture-aware path toward trustworthy RAG deployment.",
-      "url": "http://arxiv.org/abs/2510.13750v1",
+      "url": "http://arxiv.org/abs/2510.13750v2",
       "published_time_eastern_timestamp": 1760547356.0
     },
     {
@@ -58,7 +58,7 @@
     {
       "title": "Training LLM Agents to Empower Humans",
       "summary": "Assistive agents should not only take actions on behalf of a human, but also\nstep out of the way and cede control when there are important decisions to be\nmade. However, current methods for building assistive agents, whether via\nmimicking expert humans or via RL finetuning on an inferred reward, often\nencourage agents to complete tasks on their own rather than truly assisting the\nhuman attain their objectives. Additionally, these methods often require costly\nexplicit human feedback to provide a training signal. We propose a new approach\nto tuning assistive language models based on maximizing the human's\nempowerment, their ability to effect desired changes in the environment. Our\nempowerment-maximizing method, Empower, only requires offline text data,\nproviding a self-supervised method for fine-tuning language models to better\nassist humans. To study the efficacy of our approach, we conducted an 18-person\nuser study comparing our empowerment assistant with a strong baseline.\nParticipants preferred our assistant 78% of the time (p=0.015), with a 31%\nhigher acceptance rate and 38% fewer suggestions. Additionally, we introduce a\nnew environment for evaluating multi-turn code assistance using simulated\nhumans. Using this environment, we show that agents trained with Empower\nincrease the success rate of a simulated human programmer on challenging coding\nquestions by an average of 192% over an SFT baseline. With this empowerment\nobjective, we provide a framework for useful aligned AI agents at scale using\nonly offline data without the need for any additional human feedback or\nverifiable rewards.",
-      "url": "http://arxiv.org/abs/2510.13709v1",
+      "url": "http://arxiv.org/abs/2510.13709v2",
       "published_time_eastern_timestamp": 1760544573.0
     },
     {

@@ -1,10 +1,10 @@
 {
-  "last_updated": "2025-10-16T17:10:32.605479-04:00",
+  "last_updated": "2025-10-16T20:55:04.103879-04:00",
   "papers": [
     {
       "title": "MimicKit: A Reinforcement Learning Framework for Motion Imitation and\n  Control",
       "summary": "MimicKit is an open-source framework for training motion controllers using\nmotion imitation and reinforcement learning. The codebase provides\nimplementations of commonly-used motion-imitation techniques and RL algorithms.\nThis framework is intended to support research and applications in computer\ngraphics and robotics by providing a unified training framework, along with\nstandardized environment, agent, and data structures. The codebase is designed\nto be modular and easily configurable, enabling convenient modification and\nextension to new characters and tasks. The open-source codebase is available\nat: https://github.com/xbpeng/MimicKit.",
-      "url": "http://arxiv.org/abs/2510.13794v1",
+      "url": "http://arxiv.org/abs/2510.13794v2",
       "published_time_eastern_timestamp": 1760550702.0
     },
     {
@@ -34,7 +34,7 @@
     {
       "title": "Training LLM Agents to Empower Humans",
       "summary": "Assistive agents should not only take actions on behalf of a human, but also\nstep out of the way and cede control when there are important decisions to be\nmade. However, current methods for building assistive agents, whether via\nmimicking expert humans or via RL finetuning on an inferred reward, often\nencourage agents to complete tasks on their own rather than truly assisting the\nhuman attain their objectives. Additionally, these methods often require costly\nexplicit human feedback to provide a training signal. We propose a new approach\nto tuning assistive language models based on maximizing the human's\nempowerment, their ability to effect desired changes in the environment. Our\nempowerment-maximizing method, Empower, only requires offline text data,\nproviding a self-supervised method for fine-tuning language models to better\nassist humans. To study the efficacy of our approach, we conducted an 18-person\nuser study comparing our empowerment assistant with a strong baseline.\nParticipants preferred our assistant 78% of the time (p=0.015), with a 31%\nhigher acceptance rate and 38% fewer suggestions. Additionally, we introduce a\nnew environment for evaluating multi-turn code assistance using simulated\nhumans. Using this environment, we show that agents trained with Empower\nincrease the success rate of a simulated human programmer on challenging coding\nquestions by an average of 192% over an SFT baseline. With this empowerment\nobjective, we provide a framework for useful aligned AI agents at scale using\nonly offline data without the need for any additional human feedback or\nverifiable rewards.",
-      "url": "http://arxiv.org/abs/2510.13709v1",
+      "url": "http://arxiv.org/abs/2510.13709v2",
       "published_time_eastern_timestamp": 1760544573.0
     },
     {
@@ -58,7 +58,7 @@
     {
       "title": "OpenDerisk: An Industrial Framework for AI-Driven SRE, with Design,\n  Implementation, and Case Studies",
       "summary": "The escalating complexity of modern software imposes an unsustainable\noperational burden on Site Reliability Engineering (SRE) teams, demanding\nAI-driven automation that can emulate expert diagnostic reasoning. Existing\nsolutions, from traditional AI methods to general-purpose multi-agent systems,\nfall short: they either lack deep causal reasoning or are not tailored for the\nspecialized, investigative workflows unique to SRE. To address this gap, we\npresent OpenDerisk, a specialized, open-source multi-agent framework\narchitected for SRE. OpenDerisk integrates a diagnostic-native collaboration\nmodel, a pluggable reasoning engine, a knowledge engine, and a standardized\nprotocol (MCP) to enable specialist agents to collectively solve complex,\nmulti-domain problems. Our comprehensive evaluation demonstrates that\nOpenDerisk significantly outperforms state-of-the-art baselines in both\naccuracy and efficiency. This effectiveness is validated by its large-scale\nproduction deployment at Ant Group, where it serves over 3,000 daily users\nacross diverse scenarios, confirming its industrial-grade scalability and\npractical impact. OpenDerisk is open source and available at\nhttps://github.com/derisk-ai/OpenDerisk/",
-      "url": "http://arxiv.org/abs/2510.13561v1",
+      "url": "http://arxiv.org/abs/2510.13561v2",
       "published_time_eastern_timestamp": 1760536798.0
     },
     {
@@ -112,7 +112,7 @@
     {
       "title": "Make an Offer They Can't Refuse: Grounding Bayesian Persuasion in\n  Real-World Dialogues without Pre-Commitment",
       "summary": "Persuasion, a fundamental social capability for humans, remains a challenge\nfor AI systems such as large language models (LLMs). Current studies often\noverlook the strategic use of information asymmetry in message design or rely\non strong assumptions regarding pre-commitment. In this work, we explore the\napplication of Bayesian Persuasion (BP) in natural language within single-turn\ndialogue settings, to enhance the strategic persuasion capabilities of LLMs.\nOur framework incorporates a commitment-communication mechanism, where the\npersuader explicitly outlines an information schema by narrating their\npotential types (e.g., honest or dishonest), thereby guiding the persuadee in\nperforming the intended Bayesian belief update. We evaluate two variants of our\napproach: Semi-Formal-Natural-Language (SFNL) BP and Fully-Natural-Language\n(FNL) BP, benchmarking them against both naive and strong non-BP (NBP)\nbaselines within a comprehensive evaluation framework. This framework covers a\ndiverse set of persuadees -- including LLM instances with varying prompts and\nfine-tuning and human participants -- across tasks ranging from specially\ndesigned persuasion scenarios to general everyday situations. Experimental\nresults on LLM-based agents reveal three main findings: (1) LLMs guided by BP\nstrategies consistently achieve higher persuasion success rates than NBP\nbaselines; (2) SFNL exhibits greater credibility and logical coherence, while\nFNL shows stronger emotional resonance and robustness in naturalistic\nconversations; (3) with supervised fine-tuning, smaller models can attain BP\nperformance comparable to that of larger models.",
-      "url": "http://arxiv.org/abs/2510.13387v1",
+      "url": "http://arxiv.org/abs/2510.13387v2",
       "published_time_eastern_timestamp": 1760523962.0
     },
     {
