@@ -1,54 +1,96 @@
 {
-  "last_updated": "2025-10-18T14:14:27.095656-04:00",
+  "last_updated": "2025-10-18T17:09:18.903608-04:00",
   "stories": [
     {
-      "title": "Tinnitus Neuromodulator",
-      "score": 80,
-      "url": "https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php",
-      "time": 1760803690.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45628391"
-    },
-    {
-      "title": "Free Programing Books",
-      "score": 68,
-      "url": "https://github.com/EbookFoundation/free-programming-books",
-      "time": 1760803198.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45628348"
-    },
-    {
-      "title": "Attention Is a Luxury Good",
-      "score": 51,
-      "url": "https://seths.blog/2025/10/attention-is-a-luxury-good/",
-      "time": 1760801987.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45628190"
-    },
-    {
-      "title": "1,180 root system drawings",
-      "score": 113,
+      "title": "Root System Drawings",
+      "score": 197,
       "url": "https://images.wur.nl/digital/collection/coll13/search",
       "time": 1760795544.0,
       "comments_url": "https://news.ycombinator.com/item?id=45627394"
     },
     {
-      "title": "The IDEs we had 30 years ago ... and we lost (2023)",
-      "score": 380,
-      "url": "https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and",
-      "time": 1760791456.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45626910"
+      "title": "Tinnitus Neuromodulator",
+      "score": 170,
+      "url": "https://mynoise.net/NoiseMachines/neuromodulationTonesGenerator.php",
+      "time": 1760803690.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45628391"
     },
     {
-      "title": "Event Sourcing, CQRS and Micro Services: Real FinTech Example",
-      "score": 37,
-      "url": "https://lukasniessen.medium.com/this-is-a-detailed-breakdown-of-a-fintech-project-from-my-consulting-career-9ec61603709c",
-      "time": 1760802982.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45628315"
+      "title": "Is Postgres read heavy or write heavy?",
+      "score": 32,
+      "url": "https://www.crunchydata.com/blog/is-postgres-read-heavy-or-write-heavy-and-why-should-you-care",
+      "time": 1760720776.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45619108"
+    },
+    {
+      "title": "Flowistry: An IDE plugin for Rust that focuses on relevant code",
+      "score": 103,
+      "url": "https://github.com/willcrichton/flowistry",
+      "time": 1760798002.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45627692"
+    },
+    {
+      "title": "What Dynamic Typing Is For",
+      "score": 47,
+      "url": "https://unplannedobsolescence.com/blog/what-dynamic-typing-is-for/",
+      "time": 1760423027.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45576857"
     },
     {
       "title": "Who invented deep residual learning?",
-      "score": 21,
+      "score": 52,
       "url": "https://people.idsia.ch/~juergen/who-invented-residual-neural-networks.html",
       "time": 1760353645.0,
       "comments_url": "https://news.ycombinator.com/item?id=45567050"
+    },
+    {
+      "title": "./watch",
+      "score": 273,
+      "url": "https://dotslashwatch.com/",
+      "time": 1760781306.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45626130"
+    },
+    {
+      "title": "How to sequence your DNA for <$2k",
+      "score": 9,
+      "url": "https://maxlangenkamp.substack.com/p/how-to-sequence-your-dna-for-2k",
+      "time": 1760817505.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45629970"
+    },
+    {
+      "title": "Solution to CIA’s kryptos sculpture is found in Smithsonian vault",
+      "score": 58,
+      "url": "https://www.nytimes.com/2025/10/16/science/kryptos-cia-solution-sanborn-auction.html",
+      "time": 1760612210.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45603876"
+    },
+    {
+      "title": "Chen-Ning Yang, Nobel laureate, dies at 103",
+      "score": 35,
+      "url": "https://www.chinadaily.com.cn/a/202510/18/WS68f3170ea310f735438b5bf2.html",
+      "time": 1760766434.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45625229"
+    },
+    {
+      "title": "Using CUE to unify IoT sensor data",
+      "score": 18,
+      "url": "https://aran.dev/posts/cue/using-cue-to-unify-iot-sensor-data/",
+      "time": 1760792910.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45627048"
+    },
+    {
+      "title": "Secret diplomatic message deciphered after 350 years",
+      "score": 47,
+      "url": "https://www.nationalarchives.gov.uk/explore-the-collection/the-collection-blog/secret-diplomatic-message-deciphered-after-350-years/",
+      "time": 1760630165.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45606986"
+    },
+    {
+      "title": "K8s with 1M nodes",
+      "score": 49,
+      "url": "https://bchess.github.io/k8s-1m/",
+      "time": 1760652297.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45611252"
     },
     {
       "title": "Liva AI (YC S25) Is Hiring",
@@ -58,88 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=45628761"
     },
     {
-      "title": "./watch",
-      "score": 235,
-      "url": "https://dotslashwatch.com/",
-      "time": 1760781306.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45626130"
+      "title": "Titan submersible’s $62 SanDisk memory card found undamaged at wreckage site",
+      "score": 64,
+      "url": "https://www.tomshardware.com/pc-components/microsd-cards/tragic-oceangate-titan-submersibles-usd62-sandisk-memory-card-found-undamaged-at-wreckage-site-12-stills-and-nine-videos-have-been-recovered-but-none-from-the-fateful-implosion",
+      "time": 1760683149.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45613898"
     },
     {
-      "title": "Flowistry: An IDE plugin for Rust that focuses on relevant code",
-      "score": 42,
-      "url": "https://github.com/willcrichton/flowistry",
-      "time": 1760798002.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45627692"
-    },
-    {
-      "title": "SQL Anti-Patterns You Should Avoid",
-      "score": 144,
-      "url": "https://datamethods.substack.com/p/sql-anti-patterns-you-should-avoid",
-      "time": 1760792210.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45626985"
-    },
-    {
-      "title": "What Dynamic Typing Is For",
-      "score": 11,
-      "url": "https://unplannedobsolescence.com/blog/what-dynamic-typing-is-for/",
-      "time": 1760423027.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45576857"
-    },
-    {
-      "title": "Andrej Karpathy – It will take a decade to work through the issues with agents",
-      "score": 1022,
-      "url": "https://www.dwarkesh.com/p/andrej-karpathy",
-      "time": 1760721858.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45619329"
-    },
-    {
-      "title": "Ripgrep 15.0.0",
-      "score": 184,
+      "title": "Ripgrep 15.0",
+      "score": 277,
       "url": "https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0",
       "time": 1760795042.0,
       "comments_url": "https://news.ycombinator.com/item?id=45627324"
     },
     {
-      "title": "Lux: A luxurious package manager for Lua",
-      "score": 36,
-      "url": "https://github.com/lumen-oss/lux",
-      "time": 1760792012.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45626961"
-    },
-    {
       "title": "New Work by Gary Larson",
-      "score": 421,
+      "score": 464,
       "url": "https://www.thefarside.com/new-stuff",
       "time": 1760736877.0,
       "comments_url": "https://news.ycombinator.com/item?id=45622365"
     },
     {
-      "title": "Ruby Blocks",
-      "score": 136,
-      "url": "https://tech.stonecharioteer.com/posts/2025/ruby-blocks/",
-      "time": 1760457507.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45581602"
+      "title": "Coral NPU: A full-stack platform for Edge AI",
+      "score": 70,
+      "url": "https://research.google/blog/coral-npu-a-full-stack-platform-for-edge-ai/",
+      "time": 1760577928.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45600470"
     },
     {
-      "title": "Picturing Mathematics",
-      "score": 7,
-      "url": "https://mathenchant.wordpress.com/2025/10/18/picturing-mathematics/",
-      "time": 1760802759.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45628283"
+      "title": "Why the open social web matters now",
+      "score": 38,
+      "url": "https://werd.io/why-the-open-social-web-matters-now/",
+      "time": 1760471457.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45583999"
     },
     {
-      "title": "Fast calculation of the distance to cubic Bezier curves on the GPU",
-      "score": 86,
-      "url": "https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html",
-      "time": 1760779530.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45626037"
-    },
-    {
-      "title": "Our Paint – a featureless but programmable painting program",
-      "score": 22,
-      "url": "https://www.WellObserve.com/OurPaint/index_en.html",
-      "time": 1760295261.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45560738"
+      "title": "Show HN: The Shape of YouTube",
+      "score": 14,
+      "url": "https://soy.leg.ovh/",
+      "time": 1760262056.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45556827"
     }
   ]
 }
