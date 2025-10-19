@@ -1,51 +1,93 @@
 {
-  "last_updated": "2025-10-19T14:14:47.260302-04:00",
+  "last_updated": "2025-10-19T17:09:42.955912-04:00",
   "stories": [
     {
       "title": "Doing well in your courses: Andrej's advice for success (2013)",
-      "score": 90,
+      "score": 257,
       "url": "https://cs.stanford.edu/people/karpathy/advice.html",
       "time": 1760891517.0,
       "comments_url": "https://news.ycombinator.com/item?id=45635533"
     },
     {
+      "title": "Dosbian: Boot to DOSBox on Raspberry Pi",
+      "score": 54,
+      "url": "https://cmaiolino.wordpress.com/dosbian/",
+      "time": 1760902014.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45637133"
+    },
+    {
+      "title": "Airliner hit by possible space debris",
+      "score": 64,
+      "url": "https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/",
+      "time": 1760896461.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45636285"
+    },
+    {
+      "title": "Compare Single Board Computers",
+      "score": 64,
+      "url": "https://sbc.compare/",
+      "time": 1760896920.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45636365"
+    },
+    {
+      "title": "GNU Octave Meets JupyterLite: Compute Anywhere, Anytime",
+      "score": 77,
+      "url": "https://blog.jupyter.org/gnu-octave-meets-jupyterlite-compute-anywhere-anytime-8b033afbbcdc",
+      "time": 1760888932.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45635069"
+    },
+    {
+      "title": "Could the XZ backdoor been detected with better Git/Deb packaging practices?",
+      "score": 26,
+      "url": "https://optimizedbyotto.com/post/xz-backdoor-debian-git-detection/",
+      "time": 1760895491.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45636116"
+    },
+    {
+      "title": "The Spilhaus Projection: A world map according to fish",
+      "score": 57,
+      "url": "https://southernwoodenboatsailing.com/news/the-spilhaus-projection-a-world-map-according-to-fish",
+      "time": 1760263153.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45556911"
+    },
+    {
+      "title": "The working-class hero of Bletchley Park you didn't see in the movies",
+      "score": 41,
+      "url": "https://www.theguardian.com/world/2025/oct/12/move-over-alan-turing-meet-the-working-class-hero-of-bletchley-park-you-didnt-see-in-the-movies",
+      "time": 1760270690.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45557596"
+    },
+    {
       "title": "Replacement.ai",
-      "score": 661,
+      "score": 852,
       "url": "https://replacement.ai",
       "time": 1760881641.0,
       "comments_url": "https://news.ycombinator.com/item?id=45634095"
     },
     {
-      "title": "What Are RFCs? The Forgotten Blueprints of the Internet",
-      "score": 57,
-      "url": "https://ackreq.github.io/posts/what-are-rfcs/",
-      "time": 1760886209.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45634678"
-    },
-    {
       "title": "The Trinary Dream Endures",
-      "score": 12,
+      "score": 32,
       "url": "https://www.robinsloan.com/lab/trinary-dream/",
       "time": 1760893069.0,
       "comments_url": "https://news.ycombinator.com/item?id=45635734"
     },
     {
+      "title": "Comparing the power consumption of a 30 year old refrigerator to a new one",
+      "score": 64,
+      "url": "https://ounapuu.ee/posts/2025/10/14/fridge-power-consumption/",
+      "time": 1760426895.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45577181"
+    },
+    {
       "title": "Show HN: Duck-UI – Browser-Based SQL IDE for DuckDB",
-      "score": 142,
+      "score": 166,
       "url": "https://demo.duckui.com",
       "time": 1760872778.0,
       "comments_url": "https://news.ycombinator.com/item?id=45633453"
     },
     {
-      "title": "Show HN: Pyversity – Fast Result Diversification for Retrieval and RAG",
-      "score": 39,
-      "url": "https://github.com/Pringled/pyversity",
-      "time": 1760883372.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45634310"
-    },
-    {
       "title": "How to Assemble an Electric Heating Element from Scratch",
-      "score": 39,
+      "score": 70,
       "url": "https://solar.lowtechmagazine.com/2025/10/how-to-build-an-electric-heating-element-from-scratch/",
       "time": 1760880325.0,
       "comments_url": "https://news.ycombinator.com/item?id=45633958"
@@ -58,88 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=45635757"
     },
     {
-      "title": "The macOS LC_COLLATE hunt: Or why does sort order differently on macOS and Linux",
-      "score": 35,
+      "title": "The macOS LC_COLLATE hunt: Or why does sort order differently on macOS and Linux (2020)",
+      "score": 58,
       "url": "https://blog.zhimingwang.org/macos-lc_collate-hunt",
       "time": 1760878894.0,
       "comments_url": "https://news.ycombinator.com/item?id=45633815"
     },
     {
-      "title": "Comparing the power consumption of a 30 year old refrigerator to a brand new one",
-      "score": 54,
-      "url": "https://ounapuu.ee/posts/2025/10/14/fridge-power-consumption/",
-      "time": 1760426895.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45577181"
-    },
-    {
-      "title": "GNU Octave Meets JupyterLite: Compute Anywhere, Anytime",
-      "score": 14,
-      "url": "https://blog.jupyter.org/gnu-octave-meets-jupyterlite-compute-anywhere-anytime-8b033afbbcdc",
-      "time": 1760888932.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45635069"
-    },
-    {
-      "title": "The case for the return of fine-tuning",
-      "score": 97,
-      "url": "https://welovesota.com/article/the-case-for-the-return-of-fine-tuning",
-      "time": 1760866885.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45633081"
-    },
-    {
-      "title": "The zipper is getting its first major upgrade in 100 years",
-      "score": 60,
-      "url": "https://www.wired.com/story/the-zipper-is-getting-its-first-major-upgrade-in-100-years/",
-      "time": 1760887011.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45634797"
-    },
-    {
-      "title": "The Spherical Cows of Programming",
-      "score": 18,
-      "url": "https://programmingsimplicity.substack.com/p/the-spherical-cows-of-programming",
-      "time": 1760887138.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45634811"
-    },
-    {
-      "title": "Xubuntu.org Might Be Compromised",
-      "score": 189,
-      "url": "https://old.reddit.com/r/Ubuntu/comments/1oa4549/xubuntuorg_might_be_compromised/",
-      "time": 1760883945.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45634367"
-    },
-    {
-      "title": "Why an abundance of choice is not the same as freedom",
-      "score": 68,
-      "url": "https://aeon.co/essays/why-an-abundance-of-choice-is-not-the-same-as-freedom",
-      "time": 1760885896.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45634641"
+      "title": "Show HN: Pyversity – Fast Result Diversification for Retrieval and RAG",
+      "score": 55,
+      "url": "https://github.com/Pringled/pyversity",
+      "time": 1760883372.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45634310"
     },
     {
       "title": "Abandoned land drives dangerous heat in Houston, study finds",
-      "score": 85,
+      "score": 100,
       "url": "https://stories.tamu.edu/news/2025/10/07/abandoned-land-drives-dangerous-heat-in-houston-texas-am-study-finds/",
       "time": 1760880931.0,
       "comments_url": "https://news.ycombinator.com/item?id=45634026"
     },
     {
-      "title": "Lost Jack Kerouac story found among assassinated mafia boss' belongings",
-      "score": 77,
-      "url": "https://www.sfgate.com/sf-culture/article/lost-jack-kerouac-chapter-found-mafia-boss-estate-21098566.php",
-      "time": 1760496246.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45587546"
+      "title": "Ask HN: What are people doing to get off of VMware?",
+      "score": 66,
+      "url": "https://news.ycombinator.com/item?id=45635940",
+      "time": 1760894389.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45635940"
     },
     {
-      "title": "Show HN: Open-Source Voice AI Badge Powered by ESP32+WebRTC",
-      "score": 24,
-      "url": "https://github.com/VapiAI/vapicon-2025-hardware-workshop",
-      "time": 1760043300.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45532971"
+      "title": "The case for the return of fine-tuning",
+      "score": 118,
+      "url": "https://welovesota.com/article/the-case-for-the-return-of-fine-tuning",
+      "time": 1760866885.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45633081"
     },
     {
-      "title": "The Spilhaus Projection-A World Map According to Fish",
-      "score": 10,
-      "url": "https://southernwoodenboatsailing.com/news/the-spilhaus-projection-a-world-map-according-to-fish",
-      "time": 1760263153.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45556911"
+      "title": "Redis Backplane for Hubots",
+      "score": 3,
+      "url": "https://github.com/hubot-friends/hubot-redis-backplane",
+      "time": 1760412351.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45575934"
     }
   ]
 }
