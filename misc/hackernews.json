@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-10-20T11:12:15.051384-04:00",
+  "last_updated": "2025-10-20T14:18:31.107665-04:00",
   "stories": [
     {
       "title": "BERT Is Just a Single Text Diffusion Step",
-      "score": 49,
+      "score": 230,
       "url": "https://nathan.rs/posts/roberta-diffusion/",
       "time": 1760970676.0,
       "comments_url": "https://news.ycombinator.com/item?id=45644328"
     },
     {
-      "title": "DeepSeek OCR",
-      "score": 606,
-      "url": "https://github.com/deepseek-ai/DeepSeek-OCR",
-      "time": 1760941593.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45640594"
+      "title": "Production RAG: what I learned from processing 5M+ documents",
+      "score": 124,
+      "url": "https://blog.abdellatif.io/production-rag-processing-5m-documents",
+      "time": 1760975736.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45645349"
+    },
+    {
+      "title": "AWS Multiple Services Down in us-east-1",
+      "score": 1060,
+      "url": "https://health.aws.amazon.com/health/status?ts=20251020",
+      "time": 1760944948.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45640838"
+    },
+    {
+      "title": "TernFS – an exabyte scale, multi-region distributed filesystem",
+      "score": 21,
+      "url": "https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped",
+      "time": 1760981776.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45646691"
+    },
+    {
+      "title": "Why a 'Boring' Life Might Be the Happiest One",
+      "score": 20,
+      "url": "https://karunpal.substack.com/p/why-a-boring-life-might-be-the-happiest",
+      "time": 1760982237.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45646816"
+    },
+    {
+      "title": "Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system",
+      "score": 176,
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent",
+      "time": 1760963482.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45643163"
     },
     {
       "title": "Space Elevator",
-      "score": 940,
+      "score": 1206,
       "url": "https://neal.fun/space-elevator/",
       "time": 1760935328.0,
       "comments_url": "https://news.ycombinator.com/item?id=45640226"
     },
     {
-      "title": "Matrix Conference 2025 Highlights",
-      "score": 75,
-      "url": "https://element.io/blog/the-matrix-conference-a-seminal-moment-for-matrix/",
-      "time": 1760961628.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45642923"
+      "title": "DeepSeek OCR",
+      "score": 745,
+      "url": "https://github.com/deepseek-ai/DeepSeek-OCR",
+      "time": 1760941593.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45640594"
     },
     {
-      "title": "Servo v0.0.1 Released",
-      "score": 185,
+      "title": "Optical diffraction patterns made with a MOPA laser engraving machine [video]",
+      "score": 48,
+      "url": "https://www.youtube.com/watch?v=RsGHr7dXLuI",
+      "time": 1760425752.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45577086"
+    },
+    {
+      "title": "How to stop Linux threads cleanly",
+      "score": 89,
+      "url": "https://mazzo.li/posts/stopping-linux-threads.html",
+      "time": 1760513325.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45589156"
+    },
+    {
+      "title": "AWS outage shows internet users 'at mercy' of too few providers, experts say",
+      "score": 59,
+      "url": "https://www.theguardian.com/technology/2025/oct/20/amazon-web-services-aws-outage-hits-dozens-websites-apps",
+      "time": 1760981566.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45646649"
+    },
+    {
+      "title": "Dutch spy services have restricted intelligence-sharing with the United States",
+      "score": 56,
+      "url": "https://intelnews.org/2025/10/20/01-3416/",
+      "time": 1760981145.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45646572"
+    },
+    {
+      "title": "Servo v0.0.1",
+      "score": 329,
       "url": "https://github.com/servo/servo",
       "time": 1760964930.0,
       "comments_url": "https://news.ycombinator.com/item?id=45643357"
     },
     {
-      "title": "Calculating legally compliant rent late fees across U.S. states",
-      "score": 46,
-      "url": "https://www.RentLateFee.com",
-      "time": 1760962305.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45642995"
-    },
-    {
       "title": "Docker Systems Status: Full Service Disruption",
-      "score": 247,
+      "score": 289,
       "url": "https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68f5e1c741c825463df7486c",
       "time": 1760945483.0,
       "comments_url": "https://news.ycombinator.com/item?id=45640877"
     },
     {
       "title": "Entire Linux Network stack diagram (2024)",
-      "score": 445,
+      "score": 500,
       "url": "https://zenodo.org/records/14179366",
       "time": 1760931191.0,
       "comments_url": "https://news.ycombinator.com/item?id=45639995"
     },
     {
-      "title": "Modeling Others' Minds as Code",
-      "score": 15,
-      "url": "https://arxiv.org/abs/2510.01272",
-      "time": 1760968478.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45643976"
-    },
-    {
-      "title": "How to Enter a City Like a King",
-      "score": 22,
-      "url": "https://worldhistory.substack.com/p/how-to-enter-a-city-like-a-king",
-      "time": 1760274408.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45557982"
+      "title": "Chess grandmaster Daniel Naroditsky has passed away",
+      "score": 42,
+      "url": "https://old.reddit.com/r/chess/comments/1obnbmu/grandmaster_daniel_naroditsky_has_passed_away/",
+      "time": 1760981098.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45646561"
     },
     {
       "title": "Show HN: Playwright Skill for Claude Code – Less context than playwright-MCP",
-      "score": 40,
+      "score": 91,
       "url": "https://github.com/lackeyjb/playwright-skill",
       "time": 1760961515.0,
       "comments_url": "https://news.ycombinator.com/item?id=45642911"
     },
     {
-      "title": "Pointer Pointer (2012)",
-      "score": 168,
-      "url": "https://pointerpointer.com",
-      "time": 1760013721.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45526845"
+      "title": "Modeling Others' Minds as Code",
+      "score": 44,
+      "url": "https://arxiv.org/abs/2510.01272",
+      "time": 1760968478.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45643976"
     },
     {
-      "title": "AWS Multiple Services Down in us-east-1",
-      "score": 605,
-      "url": "https://health.aws.amazon.com/health/status?ts=20251020",
-      "time": 1760944948.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45640838"
+      "title": "Qt Group Buys IAR Systems Group",
+      "score": 43,
+      "url": "https://www.qt.io/stock/qt-completes-the-recommended-public-cash-offer-to-the-shareholders-of-iar-systems-group-1760351460000-3668995",
+      "time": 1760962193.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45642979"
     },
     {
-      "title": "The Peach meme: On CRTs, pixels and signal quality (again)",
-      "score": 31,
-      "url": "https://www.datagubbe.se/crt2/",
-      "time": 1760329991.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45564696"
-    },
-    {
-      "title": "AWS Outage: A Single Cloud Region Shouldn't Take Down the World. But It Did",
-      "score": 218,
-      "url": "https://faun.dev/c/news/devopslinks/aws-outage-a-single-cloud-region-shouldnt-take-down-the-world-but-it-did/",
-      "time": 1760961902.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45642951"
-    },
-    {
-      "title": "Forth: The programming language that writes itself",
-      "score": 230,
-      "url": "https://ratfactor.com/forth/the_programming_language_that_writes_itself.html",
-      "time": 1760920803.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45639250"
-    },
-    {
-      "title": "State-based vs Signal-based rendering",
-      "score": 35,
-      "url": "https://jovidecroock.com/blog/state-vs-signals/",
-      "time": 1760953019.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45641892"
-    },
-    {
-      "title": "Doing well in your courses: Andrej's advice for success (2013)",
-      "score": 598,
-      "url": "https://cs.stanford.edu/people/karpathy/advice.html",
-      "time": 1760891517.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45635533"
-    },
-    {
-      "title": "Novo Nordisk's Canadian Mistake",
-      "score": 394,
-      "url": "https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake",
-      "time": 1760906353.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45637744"
-    },
-    {
-      "title": "Optimizing writes to OLAP using buffers (ClickHouse, Redpanda, MooseStack)",
-      "score": 17,
-      "url": "https://www.fiveonefour.com/blog/optimizing-writes-to-olap-using-buffers",
-      "time": 1760466079.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45583116"
+      "title": "Automate all the things with Swift Subprocess",
+      "score": 10,
+      "url": "https://blog.jacobstechtavern.com/p/swift-subprocess",
+      "time": 1760370948.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45569787"
     }
   ]
 }
