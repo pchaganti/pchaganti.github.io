@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-19T17:09:45.925889-04:00",
+  "last_updated": "2025-10-19T20:59:34.711288-04:00",
   "papers": [
     {
       "title": "Agentic Design of Compositional Machines",
@@ -75,8 +75,8 @@
     },
     {
       "title": "Where to Search: Measure the Prior-Structured Search Space of LLM Agents",
-      "summary": "The generate-filter-refine (iterative paradigm) based on large language\nmodels (LLMs) has achieved progress in reasoning, programming, and program\ndiscovery in AI+Science. However, the effectiveness of search depends on where\nto search, namely, how to encode the domain prior into an operationally\nstructured hypothesis space. To this end, this paper proposes a compact formal\ntheory that describes and measures LLM-assisted iterative search guided by\ndomain priors. We represent an agent as a fuzzy relation operator on inputs and\noutputs to capture feasible transitions; the agent is thereby constrained by a\nfixed safety envelope. To describe multi-step reasoning/search, we weight all\nreachable paths by a single continuation parameter and sum them to obtain a\ncoverage generating function; this induces a measure of reachability\ndifficulty; and it provides a geometric interpretation of search on the graph\ninduced by the safety envelope. We further provide the simplest testable\ninferences and validate them via a majority-vote instantiation. This theory\noffers a workable language and operational tools to measure agents and their\nsearch spaces, proposing a systematic formal description of iterative search\nconstructed by LLMs.",
-      "url": "http://arxiv.org/abs/2510.14846v1",
+      "summary": "The generate-filter-refine (iterative) paradigm based on large language\nmodels (LLMs) has achieved progress in reasoning, programming, and program\ndiscovery in AI+Science. However, the effectiveness of search depends on where\nto search, namely, how to encode the domain prior into an operationally\nstructured hypothesis space. To this end, this paper proposes a compact formal\ntheory that describes and measures LLM-assisted iterative search guided by\ndomain priors. We represent an agent as a fuzzy relation operator on inputs and\noutputs to capture feasible transitions; the agent is thereby constrained by a\nfixed safety envelope. To describe multi-step reasoning/search, we weight all\nreachable paths by a single continuation parameter and sum them to obtain a\ncoverage generating function; this induces a measure of reachability\ndifficulty; and it provides a geometric interpretation of search on the graph\ninduced by the safety envelope. We further provide the simplest testable\ninferences and validate them via a majority-vote instantiation. This theory\noffers a workable language and operational tools to measure agents and their\nsearch spaces, proposing a systematic formal description of iterative search\nconstructed by LLMs.",
+      "url": "http://arxiv.org/abs/2510.14846v2",
       "published_time_eastern_timestamp": 1760631517.0
     },
     {
