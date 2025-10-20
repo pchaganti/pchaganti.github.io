@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-10-20T02:18:48.001418-04:00",
+  "last_updated": "2025-10-20T05:14:25.236623-04:00",
   "stories": [
     {
-      "title": "Entire Linux Network stack diagram (2024)",
-      "score": 148,
-      "url": "https://zenodo.org/records/14179366",
-      "time": 1760931191.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45639995"
+      "title": "DeepSeek OCR",
+      "score": 205,
+      "url": "https://github.com/deepseek-ai/DeepSeek-OCR",
+      "time": 1760941593.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45640594"
+    },
+    {
+      "title": "Docker Systems Status: Full Service Disruption",
+      "score": 119,
+      "url": "https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68f5e1c741c825463df7486c",
+      "time": 1760945483.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45640877"
     },
     {
       "title": "Space Elevator",
-      "score": 31,
+      "score": 342,
       "url": "https://neal.fun/space-elevator/",
       "time": 1760935328.0,
       "comments_url": "https://news.ycombinator.com/item?id=45640226"
     },
     {
-      "title": "Introduction to reverse-engineering vintage synth firmware",
-      "score": 54,
-      "url": "https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html",
-      "time": 1760928980.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45639860"
+      "title": "Major AWS Outage Happening",
+      "score": 504,
+      "url": "https://old.reddit.com/r/aws/comments/1obd3lx/dynamodb_down_useast1/",
+      "time": 1760944266.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45640772"
+    },
+    {
+      "title": "Entire Linux Network stack diagram (2024)",
+      "score": 258,
+      "url": "https://zenodo.org/records/14179366",
+      "time": 1760931191.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45639995"
+    },
+    {
+      "title": "Pointer Pointer",
+      "score": 61,
+      "url": "https://pointerpointer.com",
+      "time": 1760013721.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45526845"
+    },
+    {
+      "title": "AWS Multiple Services Down in us-east-1",
+      "score": 144,
+      "url": "https://health.aws.amazon.com/health/status?ts=20251020",
+      "time": 1760944948.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45640838"
+    },
+    {
+      "title": "Oma: An attempt at reworking APT's interface",
+      "score": 16,
+      "url": "https://github.com/AOSC-Dev/oma",
+      "time": 1760310115.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45562849"
     },
     {
       "title": "Novo Nordisk's Canadian Mistake",
-      "score": 321,
+      "score": 353,
       "url": "https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake",
       "time": 1760906353.0,
       "comments_url": "https://news.ycombinator.com/item?id=45637744"
     },
     {
+      "title": "Introduction to reverse-engineering vintage synth firmware",
+      "score": 84,
+      "url": "https://ajxs.me/blog/Introduction_to_Reverse-Engineering_Vintage_Synth_Firmware.html",
+      "time": 1760928980.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45639860"
+    },
+    {
       "title": "Forth: The programming language that writes itself",
-      "score": 112,
+      "score": 159,
       "url": "https://ratfactor.com/forth/the_programming_language_that_writes_itself.html",
       "time": 1760920803.0,
       "comments_url": "https://news.ycombinator.com/item?id=45639250"
     },
     {
       "title": "Doing well in your courses: Andrej's advice for success (2013)",
-      "score": 480,
+      "score": 528,
       "url": "https://cs.stanford.edu/people/karpathy/advice.html",
       "time": 1760891517.0,
       "comments_url": "https://news.ycombinator.com/item?id=45635533"
     },
     {
-      "title": "Don't Force Your LLM to Write Terse [Q/Kdb] Code: An Information Theory Argument",
-      "score": 22,
-      "url": "https://medium.com/@gabiteodoru/dont-force-your-llm-to-write-terse-code-an-argument-from-information-theory-for-q-kdb-developers-04077c5b7038",
-      "time": 1760359471.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45567746"
-    },
-    {
       "title": "Duke Nukem: Zero Hour N64 ROM Reverse-Engineering Project Hits 100%",
-      "score": 138,
+      "score": 158,
       "url": "https://github.com/Gillou68310/DukeNukemZeroHour",
       "time": 1760907271.0,
       "comments_url": "https://news.ycombinator.com/item?id=45637880"
     },
     {
-      "title": "QuickDrawViewer: A Mac OS X utility to visualise QuickDraw (PICT) files",
+      "title": "Bat v0.26.0 Released",
       "score": 47,
-      "url": "https://github.com/wiesmann/QuickDrawViewer",
-      "time": 1760916925.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45638966"
+      "url": "https://github.com/sharkdp/bat/releases/tag/v0.26.0",
+      "time": 1760942969.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45640678"
+    },
+    {
+      "title": "Don't Force Your LLM to Write Terse [Q/Kdb] Code: An Information Theory Argument",
+      "score": 43,
+      "url": "https://medium.com/@gabiteodoru/dont-force-your-llm-to-write-terse-code-an-argument-from-information-theory-for-q-kdb-developers-04077c5b7038",
+      "time": 1760359471.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45567746"
     },
     {
       "title": "Gleam OTP – Fault Tolerant Multicore Programs with Actors",
-      "score": 90,
+      "score": 121,
       "url": "https://github.com/gleam-lang/otp",
       "time": 1760912746.0,
       "comments_url": "https://news.ycombinator.com/item?id=45638588"
     },
     {
+      "title": "Major AWS outage takes down Fortnite, Alexa, Snapchat, and more",
+      "score": 34,
+      "url": "https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline",
+      "time": 1760947929.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45641143"
+    },
+    {
       "title": "Airliner hit by possible space debris",
-      "score": 274,
+      "score": 308,
       "url": "https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/",
       "time": 1760896461.0,
       "comments_url": "https://news.ycombinator.com/item?id=45636285"
     },
     {
-      "title": "Subway station study reveals fungal communities",
-      "score": 6,
-      "url": "https://phys.org/news/2025-09-subway-station-reveals-fungal-communities.html",
-      "time": 1760146414.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45545753"
+      "title": "QuickDrawViewer: A Mac OS X utility to visualise QuickDraw (PICT) files",
+      "score": 53,
+      "url": "https://github.com/wiesmann/QuickDrawViewer",
+      "time": 1760916925.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45638966"
     },
     {
       "title": "Dosbian: Boot to DOSBox on Raspberry Pi",
-      "score": 117,
+      "score": 136,
       "url": "https://cmaiolino.wordpress.com/dosbian/",
       "time": 1760902014.0,
       "comments_url": "https://news.ycombinator.com/item?id=45637133"
-    },
-    {
-      "title": "From Hollywood to horticulture: Cate Blanchett on a mission to save seeds",
-      "score": 32,
-      "url": "https://www.bbc.com/news/articles/cwy7ekl4yl8o",
-      "time": 1760919594.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45639157"
-    },
-    {
-      "title": "Oskar Speck's 1932 Kayak Journey from Germany to Australia",
-      "score": 28,
-      "url": "https://nswskc.wordpress.com/2002/10/24/incredible-journey-50/",
-      "time": 1760152111.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45546250"
-    },
-    {
-      "title": "Compare Single Board Computers",
-      "score": 140,
-      "url": "https://sbc.compare/",
-      "time": 1760896920.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45636365"
-    },
-    {
-      "title": "A Tiny Typo May Explain Centuries-Old Mystery Bout Chaucer's 'Canterbury Tales'",
-      "score": 9,
-      "url": "https://www.smithsonianmag.com/smart-news/a-tiny-typo-may-explain-a-centuries-old-mystery-about-chaucers-canterbury-tales-and-troilus-and-criseyde-180986991/",
-      "time": 1760461355.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45582370"
-    },
-    {
-      "title": "What's Behind the Mysterious Ancient Wall in the Gobi Desert?",
-      "score": 41,
-      "url": "https://news.artnet.com/art-world/the-hunt-gobi-wall-mongolia-2674588",
-      "time": 1760287364.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45559573"
-    },
-    {
-      "title": "GNU Octave Meets JupyterLite: Compute Anywhere, Anytime",
-      "score": 124,
-      "url": "https://blog.jupyter.org/gnu-octave-meets-jupyterlite-compute-anywhere-anytime-8b033afbbcdc",
-      "time": 1760888932.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45635069"
-    },
-    {
-      "title": "Look at how unhinged GPU box art was in the 2000s (2024)",
-      "score": 141,
-      "url": "https://www.xda-developers.com/absolutely-unhinged-gpu-box-art-from-the-early-2000s/",
-      "time": 1760923963.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45639498"
     }
   ]
 }
