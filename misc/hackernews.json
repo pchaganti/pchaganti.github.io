@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-10-20T23:34:05.270141-04:00",
+  "last_updated": "2025-10-21T02:18:32.729547-04:00",
   "stories": [
     {
-      "title": "Intel and AMD standardise ChkTag to bring Memory Safety to x86",
-      "score": 194,
-      "url": "https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/ChkTag-x86-Memory-Safety/post/1721490",
-      "time": 1760465041.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45582958"
-    },
-    {
       "title": "AWS multiple services outage in us-east-1",
-      "score": 1680,
+      "score": 1813,
       "url": "https://health.aws.amazon.com/health/status?ts=20251020",
       "time": 1760944948.0,
       "comments_url": "https://news.ycombinator.com/item?id=45640838"
     },
     {
-      "title": "Building a message queue with only two UNIX signals",
-      "score": 91,
-      "url": "https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals",
-      "time": 1760998965.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45650178"
-    },
-    {
       "title": "A laser pointer at 2B FPS [video]",
-      "score": 246,
+      "score": 323,
       "url": "https://www.youtube.com/watch?v=o4TdHrMi6do",
       "time": 1760856139.0,
       "comments_url": "https://news.ycombinator.com/item?id=45632429"
     },
     {
-      "title": "Why UUIDs won't protect your secrets",
-      "score": 48,
-      "url": "https://alexsci.com/blog/uuids-and-idor/",
-      "time": 1761002201.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45650617"
-    },
-    {
-      "title": "Claude Code on the web",
-      "score": 395,
-      "url": "https://www.anthropic.com/news/claude-code-on-the-web",
-      "time": 1760983943.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45647166"
-    },
-    {
-      "title": "Production RAG: what I learned from processing 5M+ documents",
-      "score": 319,
-      "url": "https://blog.abdellatif.io/production-rag-processing-5m-documents",
-      "time": 1760975736.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45645349"
-    },
-    {
-      "title": "Postman which I thought worked locally on my computer, is down",
-      "score": 281,
-      "url": "https://status.postman.com",
-      "time": 1760974840.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45645172"
-    },
-    {
-      "title": "BERT is just a single text diffusion step",
-      "score": 358,
-      "url": "https://nathan.rs/posts/roberta-diffusion/",
-      "time": 1760970676.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45644328"
-    },
-    {
       "title": "Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system",
-      "score": 363,
+      "score": 391,
       "url": "https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent",
       "time": 1760963482.0,
       "comments_url": "https://news.ycombinator.com/item?id=45643163"
     },
     {
-      "title": "Results from blood test for 50 cancers",
-      "score": 22,
-      "url": "https://www.bbc.com/news/articles/c205g21n1zzo",
-      "time": 1760745280.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45623509"
+      "title": "Production RAG: what I learned from processing 5M+ documents",
+      "score": 351,
+      "url": "https://blog.abdellatif.io/production-rag-processing-5m-documents",
+      "time": 1760975736.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45645349"
+    },
+    {
+      "title": "60k kids have avoided peanut allergies due to 2015 advice, study finds",
+      "score": 73,
+      "url": "https://www.cbsnews.com/news/peanut-allergies-60000-kids-avoided-2015-advice/",
+      "time": 1761018800.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45652307"
+    },
+    {
+      "title": "BERT is just a single text diffusion step",
+      "score": 376,
+      "url": "https://nathan.rs/posts/roberta-diffusion/",
+      "time": 1760970676.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45644328"
+    },
+    {
+      "title": "Claude Code on the web",
+      "score": 433,
+      "url": "https://www.anthropic.com/news/claude-code-on-the-web",
+      "time": 1760983943.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45647166"
     },
     {
       "title": "My trick for getting consistent classification from LLMs",
-      "score": 124,
+      "score": 151,
       "url": "https://verdik.substack.com/p/how-to-get-consistent-classification",
       "time": 1760378467.0,
       "comments_url": "https://news.ycombinator.com/item?id=45571423"
     },
     {
+      "title": "Show HN: I'm making a detective game built on Wikipedia",
+      "score": 36,
+      "url": "https://detective.wiki/",
+      "time": 1760715244.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45617948"
+    },
+    {
+      "title": "When Compiler Optimizations Hurt Performance",
+      "score": 16,
+      "url": "https://nemanjatrifunovic.substack.com/p/when-compiler-optimizations-hurt",
+      "time": 1760435390.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45578080"
+    },
+    {
+      "title": "The scariest \"user support\" email I've received",
+      "score": 215,
+      "url": "https://www.devas.life/the-scariest-user-support-email-ive-ever-received/",
+      "time": 1760518052.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45589715"
+    },
+    {
       "title": "Show HN: I created a cross-platform GUI for the JJ VCS (Git compatible)",
-      "score": 74,
+      "score": 97,
       "url": "https://judojj.com",
       "time": 1760974519.0,
       "comments_url": "https://news.ycombinator.com/item?id=45645120"
     },
     {
+      "title": "Building a CMS without programming experience",
+      "score": 6,
+      "url": "https://www.vibediary.dev/essays/cms",
+      "time": 1760370410.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45569670"
+    },
+    {
+      "title": "I made a small LED panel",
+      "score": 44,
+      "url": "https://www.stavros.io/posts/really-small-led-panel/",
+      "time": 1760023898.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45529120"
+    },
+    {
       "title": "Today is when the Amazon brain drain sent AWS down the spout",
-      "score": 398,
+      "score": 510,
       "url": "https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/",
       "time": 1760993403.0,
       "comments_url": "https://news.ycombinator.com/item?id=45649178"
     },
     {
-      "title": "Argentine peso weakens to fresh low despite US interventions",
-      "score": 38,
-      "url": "https://www.ft.com/content/815ef487-0d0e-430c-b140-9bc39dbd1a53",
-      "time": 1761010530.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45651516"
+      "title": "ChkTag: x86 Memory Safety",
+      "score": 227,
+      "url": "https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/ChkTag-x86-Memory-Safety/post/1721490",
+      "time": 1760465041.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45582958"
+    },
+    {
+      "title": "Results from blood test for 50 cancers",
+      "score": 79,
+      "url": "https://www.bbc.com/news/articles/c205g21n1zzo",
+      "time": 1760745280.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45623509"
     },
     {
       "title": "x86-64 Playground – An online assembly editor and GDB-like debugger",
-      "score": 116,
+      "score": 132,
       "url": "https://x64.halb.it/",
       "time": 1760982918.0,
       "comments_url": "https://news.ycombinator.com/item?id=45646958"
     },
     {
-      "title": "Wikipedia says traffic is falling due to AI search summaries and social video",
-      "score": 40,
-      "url": "https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/",
-      "time": 1761010143.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45651485"
-    },
-    {
-      "title": "Code from MIT's 1986 SICP video lectures",
-      "score": 93,
-      "url": "https://github.com/felipap/sicp-code",
-      "time": 1760732334.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45621557"
-    },
-    {
       "title": "How to stop Linux threads cleanly",
-      "score": 176,
+      "score": 192,
       "url": "https://mazzo.li/posts/stopping-linux-threads.html",
       "time": 1760513325.0,
       "comments_url": "https://news.ycombinator.com/item?id=45589156"
     },
     {
-      "title": "I made a small LED panel",
-      "score": 25,
-      "url": "https://www.stavros.io/posts/really-small-led-panel/",
-      "time": 1760023898.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45529120"
+      "title": "Optical diffraction patterns made with a MOPA laser engraving machine [video]",
+      "score": 127,
+      "url": "https://www.youtube.com/watch?v=RsGHr7dXLuI",
+      "time": 1760425752.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45577086"
     }
   ]
 }
