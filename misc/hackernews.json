@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-10-20T20:56:41.467203-04:00",
+  "last_updated": "2025-10-20T23:34:05.270141-04:00",
   "stories": [
     {
       "title": "Intel and AMD standardise ChkTag to bring Memory Safety to x86",
-      "score": 128,
+      "score": 194,
       "url": "https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/ChkTag-x86-Memory-Safety/post/1721490",
       "time": 1760465041.0,
       "comments_url": "https://news.ycombinator.com/item?id=45582958"
     },
     {
-      "title": "Building a message queue with only two UNIX signals",
-      "score": 49,
-      "url": "https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals",
-      "time": 1760998965.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45650178"
-    },
-    {
-      "title": "Claude Code on the web",
-      "score": 345,
-      "url": "https://www.anthropic.com/news/claude-code-on-the-web",
-      "time": 1760983943.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45647166"
-    },
-    {
-      "title": "My trick for getting consistent classification from LLMs",
-      "score": 92,
-      "url": "https://verdik.substack.com/p/how-to-get-consistent-classification",
-      "time": 1760378467.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45571423"
-    },
-    {
-      "title": "Production RAG: what I learned from processing 5M+ documents",
-      "score": 290,
-      "url": "https://blog.abdellatif.io/production-rag-processing-5m-documents",
-      "time": 1760975736.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45645349"
-    },
-    {
-      "title": "BERT is just a single text diffusion step",
-      "score": 340,
-      "url": "https://nathan.rs/posts/roberta-diffusion/",
-      "time": 1760970676.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45644328"
-    },
-    {
-      "title": "A laser pointer at 2B FPS [video]",
-      "score": 188,
-      "url": "https://www.youtube.com/watch?v=o4TdHrMi6do",
-      "time": 1760856139.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45632429"
-    },
-    {
-      "title": "Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system",
-      "score": 330,
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent",
-      "time": 1760963482.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45643163"
-    },
-    {
-      "title": "Show HN: I created a cross-platform GUI for the JJ VCS (Git compatible)",
-      "score": 61,
-      "url": "https://judojj.com",
-      "time": 1760974519.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45645120"
-    },
-    {
-      "title": "Postman which I thought worked locally on my computer, is down",
-      "score": 182,
-      "url": "https://status.postman.com",
-      "time": 1760974840.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45645172"
-    },
-    {
-      "title": "Today is when the Amazon brain drain sent AWS down the spout",
-      "score": 271,
-      "url": "https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/",
-      "time": 1760993403.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45649178"
-    },
-    {
-      "title": "x86-64 Playground – An online assembly editor and GDB-like debugger",
-      "score": 105,
-      "url": "https://x64.halb.it/",
-      "time": 1760982918.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45646958"
-    },
-    {
-      "title": "Code from MIT's 1986 SICP video lectures",
-      "score": 82,
-      "url": "https://github.com/felipap/sicp-code",
-      "time": 1760732334.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45621557"
-    },
-    {
-      "title": "AWS Multiple Services Down in us-east-1",
-      "score": 1574,
+      "title": "AWS multiple services outage in us-east-1",
+      "score": 1680,
       "url": "https://health.aws.amazon.com/health/status?ts=20251020",
       "time": 1760944948.0,
       "comments_url": "https://news.ycombinator.com/item?id=45640838"
     },
     {
-      "title": "The scariest \"user support\" email I've ever received",
-      "score": 144,
-      "url": "https://www.devas.life/the-scariest-user-support-email-ive-ever-received/",
-      "time": 1760518052.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45589715"
+      "title": "Building a message queue with only two UNIX signals",
+      "score": 91,
+      "url": "https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals",
+      "time": 1760998965.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45650178"
     },
     {
-      "title": "Art Must Act",
-      "score": 20,
-      "url": "https://aeon.co/essays/harold-rosenberg-exhorted-artists-to-take-action-and-resist-cliche",
-      "time": 1760660881.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45612223"
+      "title": "A laser pointer at 2B FPS [video]",
+      "score": 246,
+      "url": "https://www.youtube.com/watch?v=o4TdHrMi6do",
+      "time": 1760856139.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45632429"
     },
     {
-      "title": "TernFS – an exabyte scale, multi-region distributed filesystem",
-      "score": 88,
-      "url": "https://www.xtxmarkets.com/tech/2025-ternfs/#posix-shaped",
-      "time": 1760981776.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45646691"
+      "title": "Why UUIDs won't protect your secrets",
+      "score": 48,
+      "url": "https://alexsci.com/blog/uuids-and-idor/",
+      "time": 1761002201.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45650617"
+    },
+    {
+      "title": "Claude Code on the web",
+      "score": 395,
+      "url": "https://www.anthropic.com/news/claude-code-on-the-web",
+      "time": 1760983943.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45647166"
+    },
+    {
+      "title": "Production RAG: what I learned from processing 5M+ documents",
+      "score": 319,
+      "url": "https://blog.abdellatif.io/production-rag-processing-5m-documents",
+      "time": 1760975736.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45645349"
+    },
+    {
+      "title": "Postman which I thought worked locally on my computer, is down",
+      "score": 281,
+      "url": "https://status.postman.com",
+      "time": 1760974840.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45645172"
+    },
+    {
+      "title": "BERT is just a single text diffusion step",
+      "score": 358,
+      "url": "https://nathan.rs/posts/roberta-diffusion/",
+      "time": 1760970676.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45644328"
+    },
+    {
+      "title": "Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system",
+      "score": 363,
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent",
+      "time": 1760963482.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45643163"
+    },
+    {
+      "title": "Results from blood test for 50 cancers",
+      "score": 22,
+      "url": "https://www.bbc.com/news/articles/c205g21n1zzo",
+      "time": 1760745280.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45623509"
+    },
+    {
+      "title": "My trick for getting consistent classification from LLMs",
+      "score": 124,
+      "url": "https://verdik.substack.com/p/how-to-get-consistent-classification",
+      "time": 1760378467.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45571423"
+    },
+    {
+      "title": "Show HN: I created a cross-platform GUI for the JJ VCS (Git compatible)",
+      "score": 74,
+      "url": "https://judojj.com",
+      "time": 1760974519.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45645120"
+    },
+    {
+      "title": "Today is when the Amazon brain drain sent AWS down the spout",
+      "score": 398,
+      "url": "https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/",
+      "time": 1760993403.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45649178"
+    },
+    {
+      "title": "Argentine peso weakens to fresh low despite US interventions",
+      "score": 38,
+      "url": "https://www.ft.com/content/815ef487-0d0e-430c-b140-9bc39dbd1a53",
+      "time": 1761010530.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45651516"
+    },
+    {
+      "title": "x86-64 Playground – An online assembly editor and GDB-like debugger",
+      "score": 116,
+      "url": "https://x64.halb.it/",
+      "time": 1760982918.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45646958"
+    },
+    {
+      "title": "Wikipedia says traffic is falling due to AI search summaries and social video",
+      "score": 40,
+      "url": "https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/",
+      "time": 1761010143.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45651485"
+    },
+    {
+      "title": "Code from MIT's 1986 SICP video lectures",
+      "score": 93,
+      "url": "https://github.com/felipap/sicp-code",
+      "time": 1760732334.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45621557"
     },
     {
       "title": "How to stop Linux threads cleanly",
-      "score": 164,
+      "score": 176,
       "url": "https://mazzo.li/posts/stopping-linux-threads.html",
       "time": 1760513325.0,
       "comments_url": "https://news.ycombinator.com/item?id=45589156"
     },
     {
-      "title": "Optical diffraction patterns made with a MOPA laser engraving machine [video]",
-      "score": 106,
-      "url": "https://www.youtube.com/watch?v=RsGHr7dXLuI",
-      "time": 1760425752.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45577086"
-    },
-    {
-      "title": "Atomic-Scale Protein Filters",
-      "score": 11,
-      "url": "https://press.asimov.com/articles/filters",
-      "time": 1760543353.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45594403"
+      "title": "I made a small LED panel",
+      "score": 25,
+      "url": "https://www.stavros.io/posts/really-small-led-panel/",
+      "time": 1760023898.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45529120"
     }
   ]
 }
