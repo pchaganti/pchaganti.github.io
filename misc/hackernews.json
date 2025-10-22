@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-10-22T02:18:57.407352-04:00",
+  "last_updated": "2025-10-22T05:14:12.297195-04:00",
   "stories": [
     {
+      "title": "Greenland Ditches Starlink for French Satellite Service",
+      "score": 195,
+      "url": "https://www.dagens.com/technology/greenland-ditches-starlink-for-french-satellite-service",
+      "time": 1761117280.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45665796"
+    },
+    {
       "title": "Evaluating the Infinity Cache in AMD Strix Halo",
-      "score": 34,
+      "score": 71,
       "url": "https://chipsandcheese.com/p/evaluating-the-infinity-cache-in",
       "time": 1761106809.0,
       "comments_url": "https://news.ycombinator.com/item?id=45664848"
     },
     {
-      "title": "If you'd built a \"tool\" that stupid, why would you advertise the fact?",
+      "title": "The Gypsy Life of Robert Louis Stevenson",
+      "score": 27,
+      "url": "https://hudsonreview.com/2025/10/the-gypsy-life-of-robert-louis-stevenson/",
+      "time": 1761079479.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45661462"
+    },
+    {
+      "title": "MinIO (apparently) becomes source-only",
       "score": 31,
-      "url": "https://svpow.com/2025/10/13/if-youd-built-a-tool-that-stupid-why-would-you-advertise-the-fact/",
-      "time": 1760442912.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45578935"
+      "url": "https://github.com/minio/minio/issues/21647",
+      "time": 1761113838.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45665452"
     },
     {
       "title": "rlsw – Raylib software OpenGL renderer in less than 5k LOC",
-      "score": 154,
+      "score": 185,
       "url": "https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h",
       "time": 1761080410.0,
       "comments_url": "https://news.ycombinator.com/item?id=45661638"
     },
     {
-      "title": "Power over Ethernet (PoE) basics and beyond",
-      "score": 141,
-      "url": "https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/",
-      "time": 1760623761.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45605556"
-    },
-    {
-      "title": "Show HN: Modshim – A new alternative to monkey-patching in Python",
-      "score": 40,
-      "url": "https://github.com/joouha/modshim",
-      "time": 1760613476.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45604013"
-    },
-    {
       "title": "LLMs can get \"brain rot\"",
-      "score": 345,
+      "score": 377,
       "url": "https://llm-brain-rot.github.io/",
       "time": 1761056666.0,
       "comments_url": "https://news.ycombinator.com/item?id=45656223"
     },
     {
-      "title": "Replacing a $3000/mo Heroku bill with a $55/mo server",
-      "score": 548,
-      "url": "https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/",
-      "time": 1761078495.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45661253"
+      "title": "Show HN: Modshim – A new alternative to monkey-patching in Python",
+      "score": 67,
+      "url": "https://github.com/joouha/modshim",
+      "time": 1760613476.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45604013"
     },
     {
-      "title": "OpenBSD 7.8",
-      "score": 135,
-      "url": "https://cdn.openbsd.org/pub/OpenBSD/7.8/ANNOUNCEMENT",
-      "time": 1761098578.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45664147"
+      "title": "Go Subtleties You May Not Know",
+      "score": 23,
+      "url": "https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know/",
+      "time": 1760341363.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45565793"
     },
     {
       "title": "Ask HN: Our AWS account got compromised after their outage",
-      "score": 252,
+      "score": 301,
       "url": "https://news.ycombinator.com/item?id=45657345",
       "time": 1761062141.0,
       "comments_url": "https://news.ycombinator.com/item?id=45657345"
     },
     {
-      "title": "Wikipedia says traffic is falling due to AI search summaries and social video",
-      "score": 355,
-      "url": "https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/",
-      "time": 1761010143.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45651485"
+      "title": "Show HN: Cadence – A Guitar Theory App",
+      "score": 17,
+      "url": "https://cadenceguitar.com/",
+      "time": 1760350709.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45566730"
+    },
+    {
+      "title": "Replacing a $3000/mo Heroku bill with a $55/mo server",
+      "score": 632,
+      "url": "https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/",
+      "time": 1761078495.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45661253"
     },
     {
       "title": "Neural audio codecs: how to get audio into LLMs",
-      "score": 350,
+      "score": 379,
       "url": "https://kyutai.org/next/codec-explainer",
       "time": 1761051359.0,
       "comments_url": "https://news.ycombinator.com/item?id=45655161"
     },
     {
-      "title": "The Hidden Engineering of Niagara Falls",
-      "score": 90,
-      "url": "https://practical.engineering/blog/2025/10/21/the-hidden-engineering-of-niagara-falls",
-      "time": 1761086587.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45662668"
-    },
-    {
       "title": "NASA chief suggests SpaceX may be booted from moon mission",
-      "score": 274,
+      "score": 304,
       "url": "https://www.cnn.com/2025/10/20/science/nasa-spacex-moon-landing-contract-sean-duffy",
       "time": 1761051523.0,
       "comments_url": "https://news.ycombinator.com/item?id=45655188"
     },
     {
+      "title": "French ex-president Sarkozy begins jail sentence",
+      "score": 117,
+      "url": "https://www.bbc.com/news/articles/cvgkm2j0xelo",
+      "time": 1761112198.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45665311"
+    },
+    {
+      "title": "OpenBSD 7.8",
+      "score": 189,
+      "url": "https://cdn.openbsd.org/pub/OpenBSD/7.8/ANNOUNCEMENT",
+      "time": 1761098578.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45664147"
+    },
+    {
+      "title": "The Hidden Engineering of Niagara Falls",
+      "score": 108,
+      "url": "https://practical.engineering/blog/2025/10/21/the-hidden-engineering-of-niagara-falls",
+      "time": 1761086587.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45662668"
+    },
+    {
+      "title": "Power over Ethernet (PoE) basics and beyond",
+      "score": 158,
+      "url": "https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/",
+      "time": 1760623761.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45605556"
+    },
+    {
       "title": "Mathematicians have found a hidden 'reset button' for undoing rotation",
-      "score": 122,
+      "score": 140,
       "url": "https://www.newscientist.com/article/2499647-mathematicians-have-found-a-hidden-reset-button-for-undoing-rotation/",
       "time": 1760629637.0,
       "comments_url": "https://news.ycombinator.com/item?id=45606853"
     },
     {
-      "title": "ChatGPT Atlas",
-      "score": 627,
-      "url": "https://chatgpt.com/atlas",
-      "time": 1761067093.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45658479"
-    },
-    {
-      "title": "Getting DeepSeek-OCR working on an Nvidia Spark via brute force with Claude Code",
-      "score": 150,
-      "url": "https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/",
-      "time": 1760981089.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45646559"
-    },
-    {
       "title": "Erowid - Documenting the Complex Relationship Between Humans and Psychoactives",
-      "score": 54,
+      "score": 99,
       "url": "https://www.erowid.org",
       "time": 1761078707.0,
       "comments_url": "https://news.ycombinator.com/item?id=45661306"
     },
     {
-      "title": "Build your own database",
-      "score": 451,
-      "url": "https://www.nan.fyi/database",
-      "time": 1761064311.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45657827"
-    },
-    {
-      "title": "Researchers complete first human trial on viability of enteral ventilation",
-      "score": 37,
-      "url": "https://newatlas.com/disease/butt-breathing-ignobel-prize/",
-      "time": 1761072279.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45659883"
-    },
-    {
-      "title": "Minds, brains, and programs (1980) [pdf]",
-      "score": 66,
-      "url": "https://home.csulb.edu/~cwallis/382/readings/482/searle.minds.brains.programs.bbs.1980.pdf",
-      "time": 1760331671.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45564821"
+      "title": "ChatGPT Atlas",
+      "score": 672,
+      "url": "https://chatgpt.com/atlas",
+      "time": 1761067093.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45658479"
     }
   ]
 }
