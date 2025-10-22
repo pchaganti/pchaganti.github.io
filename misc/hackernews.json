@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-10-21T17:10:50.239917-04:00",
+  "last_updated": "2025-10-21T20:57:48.817085-04:00",
   "stories": [
     {
+      "title": "rlsw – Raylib software OpenGL renderer in less than 5k LOC",
+      "score": 81,
+      "url": "https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h",
+      "time": 1761080410.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45661638"
+    },
+    {
+      "title": "\"Butt breathing\" might soon be a real medical treatment",
+      "score": 32,
+      "url": "https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/",
+      "time": 1761087640.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45662831"
+    },
+    {
       "title": "Replacing a $3000/mo Heroku bill with a $55/mo server",
-      "score": 86,
+      "score": 350,
       "url": "https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/",
       "time": 1761078495.0,
       "comments_url": "https://news.ycombinator.com/item?id=45661253"
     },
     {
-      "title": "Doomsday Scoreboard",
-      "score": 36,
-      "url": "https://doomsday.march1studios.com/",
-      "time": 1761077662.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45661084"
-    },
-    {
-      "title": "Build Your Own Database",
-      "score": 265,
-      "url": "https://www.nan.fyi/database",
-      "time": 1761064311.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45657827"
+      "title": "PoE basics and beyond: What every engineer should know",
+      "score": 24,
+      "url": "https://www.edn.com/poe-basics-and-beyond-what-every-engineer-should-know/",
+      "time": 1760623761.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45605556"
     },
     {
       "title": "LLMs can get \"brain rot\"",
-      "score": 217,
+      "score": 275,
       "url": "https://llm-brain-rot.github.io/",
       "time": 1761056666.0,
       "comments_url": "https://news.ycombinator.com/item?id=45656223"
     },
     {
       "title": "Neural audio codecs: how to get audio into LLMs",
-      "score": 295,
+      "score": 327,
       "url": "https://kyutai.org/next/codec-explainer",
       "time": 1761051359.0,
       "comments_url": "https://news.ycombinator.com/item?id=45655161"
     },
     {
-      "title": "Mathematicians have found a hidden 'reset button' for undoing rotation",
-      "score": 57,
-      "url": "https://www.newscientist.com/article/2499647-mathematicians-have-found-a-hidden-reset-button-for-undoing-rotation/",
-      "time": 1760629637.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45606853"
+      "title": "Ask HN: Our AWS account got compromised after their outage",
+      "score": 167,
+      "url": "https://news.ycombinator.com/item?id=45657345",
+      "time": 1761062141.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45657345"
+    },
+    {
+      "title": "ChatGPT Atlas",
+      "score": 531,
+      "url": "https://chatgpt.com/atlas",
+      "time": 1761067093.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45658479"
     },
     {
       "title": "NASA chief suggests SpaceX may be booted from moon mission",
-      "score": 122,
+      "score": 203,
       "url": "https://www.cnn.com/2025/10/20/science/nasa-spacex-moon-landing-contract-sean-duffy",
       "time": 1761051523.0,
       "comments_url": "https://news.ycombinator.com/item?id=45655188"
     },
     {
+      "title": "Doomsday scoreboard",
+      "score": 176,
+      "url": "https://doomsday.march1studios.com/",
+      "time": 1761077662.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45661084"
+    },
+    {
+      "title": "Mathematicians have found a hidden 'reset button' for undoing rotation",
+      "score": 97,
+      "url": "https://www.newscientist.com/article/2499647-mathematicians-have-found-a-hidden-reset-button-for-undoing-rotation/",
+      "time": 1760629637.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45606853"
+    },
+    {
+      "title": "Wikipedia says traffic is falling due to AI search summaries and social video",
+      "score": 251,
+      "url": "https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/",
+      "time": 1761010143.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45651485"
+    },
+    {
+      "title": "Daniel J. Bernstein updated cdb (Constant database) to go beyond 4GB",
+      "score": 8,
+      "url": "https://cdb.cr.yp.to/",
+      "time": 1761091869.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45663435"
+    },
+    {
+      "title": "Build your own database",
+      "score": 354,
+      "url": "https://www.nan.fyi/database",
+      "time": 1761064311.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45657827"
+    },
+    {
+      "title": "Getting DeepSeek-OCR working on an Nvidia Spark via brute force with Claude Code",
+      "score": 116,
+      "url": "https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/",
+      "time": 1760981089.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45646559"
+    },
+    {
       "title": "Foreign hackers breached a US nuclear weapons plant via SharePoint flaws",
-      "score": 250,
+      "score": 311,
       "url": "https://www.csoonline.com/article/4074962/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws.html",
       "time": 1761061893.0,
       "comments_url": "https://news.ycombinator.com/item?id=45657287"
     },
     {
       "title": "Minds, brains, and programs (1980) [pdf]",
-      "score": 19,
+      "score": 41,
       "url": "https://home.csulb.edu/~cwallis/382/readings/482/searle.minds.brains.programs.bbs.1980.pdf",
       "time": 1760331671.0,
       "comments_url": "https://news.ycombinator.com/item?id=45564821"
     },
     {
-      "title": "Wikipedia says traffic is falling due to AI search summaries and social video",
-      "score": 160,
-      "url": "https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/",
-      "time": 1761010143.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45651485"
+      "title": "Do not accept terms and conditions",
+      "score": 71,
+      "url": "https://www.termsandconditions.game/",
+      "time": 1760729566.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45621020"
     },
     {
-      "title": "Getting DeepSeek-OCR working on an Nvidia Spark via brute force with Claude Code",
-      "score": 81,
-      "url": "https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/",
-      "time": 1760981089.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45646559"
+      "title": "Understanding conflict resolution and avoidance in PostgreSQL: a complete guide",
+      "score": 12,
+      "url": "https://www.pgedge.com/blog/living-on-the-edge",
+      "time": 1760180248.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45548125"
     },
     {
-      "title": "Show HN: Katakate – Dozens of VMs per node for safe code exec",
-      "score": 70,
-      "url": "https://github.com/Katakate/k7",
-      "time": 1761060145.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45656952"
-    },
-    {
-      "title": "Ilo – a Forth system running on UEFI",
-      "score": 94,
-      "url": "https://asciinema.org/a/Lbxa2w9R5IbaJqW3INqVrbX8E",
-      "time": 1761051921.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45655263"
-    },
-    {
-      "title": "Flexport Is Hiring SDRs in Chicago",
-      "score": 1,
-      "url": "https://job-boards.greenhouse.io/flexport/jobs/5690976?gh_jid=5690976",
-      "time": 1761066062.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45658221"
-    },
-    {
-      "title": "ChatGPT Atlas",
-      "score": 407,
-      "url": "https://chatgpt.com/atlas",
-      "time": 1761067093.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45658479"
-    },
-    {
-      "title": "Diamond Thermal Conductivity: A New Era in Chip Cooling",
-      "score": 137,
-      "url": "https://spectrum.ieee.org/diamond-thermal-conductivity",
-      "time": 1761045394.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45654512"
-    },
-    {
-      "title": "AWS multiple services outage in us-east-1",
-      "score": 2201,
-      "url": "https://health.aws.amazon.com/health/status?ts=20251020",
-      "time": 1760944948.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45640838"
-    },
-    {
-      "title": "Our modular, high-performance Merkle Tree library for Rust",
-      "score": 110,
-      "url": "https://github.com/bilinearlabs/rs-merkle-tree",
-      "time": 1761051537.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45655190"
-    },
-    {
-      "title": "Binary Retrieval-Augmented Reward Mitigates Hallucinations",
-      "score": 26,
-      "url": "https://arxiv.org/abs/2510.17733",
-      "time": 1761063268.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45657595"
-    },
-    {
-      "title": "The Programmer Identity Crisis",
-      "score": 128,
-      "url": "https://hojberg.xyz/the-programmer-identity-crisis/",
-      "time": 1761065237.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45658019"
+      "title": "We need (at least) ergonomic, explicit handles [in Rust]",
+      "score": 25,
+      "url": "https://smallcultfollowing.com/babysteps/blog/2025/10/13/ergonomic-explicit-handles/",
+      "time": 1760357311.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45567443"
     }
   ]
 }

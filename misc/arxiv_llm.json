@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-21T17:10:51.464041-04:00",
+  "last_updated": "2025-10-21T20:57:50.446022-04:00",
   "papers": [
     {
       "title": "Unbiased Gradient Low-Rank Projection",
@@ -34,7 +34,7 @@
     {
       "title": "Enabling Fine-Grained Operating Points for Black-Box LLMs",
       "summary": "Black-box Large Language Models (LLMs) provide practical and accessible\nalternatives to other machine learning methods, as they require minimal labeled\ndata and machine learning expertise to develop solutions for various decision\nmaking problems. However, for applications that need operating with constraints\non specific metrics (e.g., precision $\\geq$ 95%), decision making with\nblack-box LLMs remains unfavorable, due to their low numerical output\ncardinalities. This results in limited control over their operating points,\npreventing fine-grained adjustment of their decision making behavior. In this\npaper, we study using black-box LLMs as classifiers, focusing on efficiently\nimproving their operational granularity without performance loss. Specifically,\nwe first investigate the reasons behind their low-cardinality numerical outputs\nand show that they are biased towards generating rounded but informative\nverbalized probabilities. Then, we experiment with standard prompt engineering,\nuncertainty estimation and confidence elicitation techniques, and observe that\nthey do not effectively improve operational granularity without sacrificing\nperformance or increasing inference cost. Finally, we propose efficient\napproaches to significantly increase the number and diversity of available\noperating points. Our proposed approaches provide finer-grained operating\npoints and achieve comparable to or better performance than the benchmark\nmethods across 11 datasets and 3 LLMs.",
-      "url": "http://arxiv.org/abs/2510.17727v1",
+      "url": "http://arxiv.org/abs/2510.17727v2",
       "published_time_eastern_timestamp": 1760978586.0
     },
     {
@@ -112,7 +112,7 @@
     {
       "title": "DeepEye-SQL: A Software-Engineering-Inspired Text-to-SQL Framework",
       "summary": "Large language models (LLMs) have advanced Text-to-SQL, yet existing\nsolutions still fall short of system-level reliability. The limitation is not\nmerely in individual modules - e.g., schema linking, reasoning, and\nverification - but more critically in the lack of structured orchestration that\nenforces correctness across the entire workflow. This gap motivates a paradigm\nshift: treating Text-to-SQL not as free-form language generation but as a\nsoftware-engineering problem that demands structured, verifiable orchestration.\nWe present DeepEye-SQL, a software-engineering-inspired framework that reframes\nText-to-SQL as the development of a small software program, executed through a\nverifiable process guided by the Software Development Life Cycle (SDLC).\nDeepEye-SQL integrates four synergistic stages: it grounds ambiguous user\nintent through semantic value retrieval and robust schema linking; enhances\nfault tolerance with N-version SQL generation using diverse reasoning\nparadigms; ensures deterministic verification via a tool-chain of unit tests\nand targeted LLM-guided revision; and introduces confidence-aware selection\nthat clusters execution results to estimate confidence and then takes a\nhigh-confidence shortcut or runs unbalanced pairwise adjudication in\nlow-confidence cases, yielding a calibrated, quality-gated output. This\nSDLC-aligned workflow transforms ad hoc query generation into a disciplined\nengineering process. Using ~30B open-source LLMs without any fine-tuning,\nDeepEye-SQL achieves 73.5% execution accuracy on BIRD-Dev and 89.8% on\nSpider-Test, outperforming state-of-the-art solutions. This highlights that\nprincipled orchestration, rather than LLM scaling alone, is key to achieving\nsystem-level reliability in Text-to-SQL.",
-      "url": "http://arxiv.org/abs/2510.17586v1",
+      "url": "http://arxiv.org/abs/2510.17586v2",
       "published_time_eastern_timestamp": 1760970919.0
     },
     {
