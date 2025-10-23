@@ -1,47 +1,82 @@
 {
-  "last_updated": "2025-10-23T08:24:28.111047-04:00",
+  "last_updated": "2025-10-23T11:12:46.207774-04:00",
   "stories": [
     {
+      "title": "US axes website for reporting human rights abuses by US-armed foreign forces",
+      "score": 231,
+      "url": "https://www.bbc.com/news/articles/cqx30vnwd4do",
+      "time": 1761229522.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45682169"
+    },
+    {
+      "title": "I spent a year of my life making an ASN.1 compiler in D",
+      "score": 112,
+      "url": "https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/",
+      "time": 1761223661.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45681200"
+    },
+    {
       "title": "PyTorch Monarch",
-      "score": 54,
+      "score": 162,
       "url": "https://pytorch.org/blog/introducing-pytorch-monarch/",
       "time": 1761214512.0,
       "comments_url": "https://news.ycombinator.com/item?id=45680237"
     },
     {
-      "title": "VST3 audio plugin format is now MIT",
-      "score": 359,
-      "url": "https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988",
-      "time": 1761198482.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45678549"
-    },
-    {
       "title": "The Game Theory of How Algorithms Can Drive Up Prices",
-      "score": 18,
+      "score": 86,
       "url": "https://www.quantamagazine.org/the-game-theory-of-how-algorithms-can-drive-up-prices-20251022/",
       "time": 1761219529.0,
       "comments_url": "https://news.ycombinator.com/item?id=45680695"
     },
     {
+      "title": "VST3 audio plugin format is now MIT",
+      "score": 472,
+      "url": "https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988",
+      "time": 1761198482.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45678549"
+    },
+    {
       "title": "Google flags Immich sites as dangerous",
-      "score": 1012,
+      "score": 1174,
       "url": "https://immich.app/blog/google-flags-immich-as-dangerous",
       "time": 1761166429.0,
       "comments_url": "https://news.ycombinator.com/item?id=45675015"
     },
     {
+      "title": "Programming with Less Than Nothing",
+      "score": 251,
+      "url": "https://joshmoody.org/blog/programming-with-less-than-nothing/",
+      "time": 1761198151.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45678511"
+    },
+    {
       "title": "C64 Blood Money",
-      "score": 59,
+      "score": 92,
       "url": "https://lemmings.info/c64-blood-money/",
       "time": 1761208881.0,
       "comments_url": "https://news.ycombinator.com/item?id=45679638"
     },
     {
-      "title": "Programming with Less Than Nothing",
-      "score": 174,
-      "url": "https://joshmoody.org/blog/programming-with-less-than-nothing/",
-      "time": 1761198151.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45678511"
+      "title": "Ask HN: Does anyone have scans of these missing PC Plus issues (1991–1993)?",
+      "score": 59,
+      "url": "https://news.ycombinator.com/item?id=45595807",
+      "time": 1760549117.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45595807"
+    },
+    {
+      "title": "Show HN: Deta Surf – An open source and local-first AI notebook",
+      "score": 35,
+      "url": "https://github.com/deta/surf",
+      "time": 1761221487.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45680937"
+    },
+    {
+      "title": "Conflict-Free Replicated Data Types (CRDTs): Convergence Without Coordination",
+      "score": 11,
+      "url": "https://read.thecoder.cafe/p/crdt",
+      "time": 1760626806.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45606224"
     },
     {
       "title": "Nango (YC W23) is hiring Staff Back end Engs (remote)",
@@ -51,95 +86,60 @@
       "comments_url": "https://news.ycombinator.com/item?id=45680847"
     },
     {
-      "title": "Radios, how do they work? (2024)",
-      "score": 105,
-      "url": "https://lcamtuf.substack.com/p/radios-how-do-they-work",
-      "time": 1761198983.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45678603"
-    },
-    {
-      "title": "SpaceX disables 2,500 Starlink terminals allegedly used by Asian scam centers",
-      "score": 40,
-      "url": "https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/",
-      "time": 1761218144.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45680547"
-    },
-    {
-      "title": "Egg prices vs. Consumer Price Index since 1980",
-      "score": 35,
-      "url": "https://fred.stlouisfed.org/graph/?g=1Nm5b",
-      "time": 1761216542.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45680390"
-    },
-    {
       "title": "Scripts I wrote that I use all the time",
-      "score": 950,
+      "score": 1061,
       "url": "https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/",
       "time": 1761144834.0,
       "comments_url": "https://news.ycombinator.com/item?id=45670052"
     },
     {
+      "title": "Radios, how do they work? (2024)",
+      "score": 143,
+      "url": "https://lcamtuf.substack.com/p/radios-how-do-they-work",
+      "time": 1761198983.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45678603"
+    },
+    {
+      "title": "Which Collatz numbers do Busy Beavers simulate (if any)?",
+      "score": 17,
+      "url": "https://gbragafibra.github.io/2025/10/16/collatz_ant11.html",
+      "time": 1760781296.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45626129"
+    },
+    {
+      "title": "SpaceX disables 2,500 Starlink terminals allegedly used by Asian scam centers",
+      "score": 139,
+      "url": "https://arstechnica.com/tech-policy/2025/10/starlink-blocks-2500-dishes-allegedly-used-by-myanmars-notorious-scam-centers/",
+      "time": 1761218144.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45680547"
+    },
+    {
       "title": "Run interactive commands in Gemini CLI",
-      "score": 155,
+      "score": 179,
       "url": "https://developers.googleblog.com/en/say-hello-to-a-new-level-of-interactivity-in-gemini-cli/",
       "time": 1760625073.0,
       "comments_url": "https://news.ycombinator.com/item?id=45605823"
     },
     {
-      "title": "Willow quantum chip demonstrates verifiable quantum advantage on hardware",
-      "score": 444,
-      "url": "https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/",
-      "time": 1761146179.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45670443"
-    },
-    {
       "title": "Accessing Max Verstappen's passport and PII through FIA bugs",
-      "score": 485,
+      "score": 541,
       "url": "https://ian.sh/fia",
       "time": 1761157314.0,
       "comments_url": "https://news.ycombinator.com/item?id=45673130"
     },
     {
-      "title": "Ask HN: Does anyone have scans of these missing PC Plus issues (1991–1993)?",
-      "score": 6,
-      "url": "https://news.ycombinator.com/item?id=45595807",
-      "time": 1760549117.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45595807"
-    },
-    {
-      "title": "Power-over-Skin: Full-Body Wearables Powered by Intra-Body RF Energy (2024)",
-      "score": 18,
-      "url": "https://dl.acm.org/doi/10.1145/3654777.3676394",
-      "time": 1760921814.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45639338"
+      "title": "Willow quantum chip demonstrates verifiable quantum advantage on hardware",
+      "score": 458,
+      "url": "https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/",
+      "time": 1761146179.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45670443"
     },
     {
       "title": "Karpathy on DeepSeek-OCR paper: Are pixels better inputs to LLMs than text?",
-      "score": 301,
+      "score": 332,
       "url": "https://twitter.com/karpathy/status/1980397031542989305",
       "time": 1761068596.0,
       "comments_url": "https://news.ycombinator.com/item?id=45658928"
-    },
-    {
-      "title": "JMAP for Calendars, Contacts and Files Now in Stalwart",
-      "score": 345,
-      "url": "https://stalw.art/blog/jmap-collaboration/",
-      "time": 1761153966.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45672336"
-    },
-    {
-      "title": "Ovi: Twin backbone cross-modal fusion for audio-video generation",
-      "score": 293,
-      "url": "https://github.com/character-ai/Ovi",
-      "time": 1761162156.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45674166"
-    },
-    {
-      "title": "Show HN: Silly Morse code chat app using WebSockets",
-      "score": 42,
-      "url": "https://noamtamir.github.io/morwse/",
-      "time": 1760797083.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45627586"
     }
   ]
 }
