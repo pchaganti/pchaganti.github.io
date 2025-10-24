@@ -1,10 +1,10 @@
 {
-  "last_updated": "2025-10-23T17:10:25.373787-04:00",
+  "last_updated": "2025-10-23T20:52:47.165774-04:00",
   "papers": [
     {
       "title": "Benchmarking World-Model Learning",
       "summary": "Model-learning agents should gather information to learn world models that\nsupport many downstream tasks and inferences, such as predicting unobserved\nstates, estimating near- and far-term consequences of actions, planning action\nsequences, and detecting changes in dynamics. Current methods for learning and\nevaluating world models diverge from this goal: training and evaluation are\nanchored to next-frame prediction, and success is scored by reward maximization\nin the same environment. We propose WorldTest, a protocol to evaluate\nmodel-learning agents that separates reward-free interaction from a scored test\nphase in a different but related environment. WorldTest is\nopen-ended$\\unicode{x2014}$models should support many different tasks unknown\nahead of time$\\unicode{x2014}$and agnostic to model representation, allowing\ncomparison across approaches. We instantiated WorldTest with AutumnBench, a\nsuite of 43 interactive grid-world environments and 129 tasks across three\nfamilies: masked-frame prediction, planning, and predicting changes to the\ncausal dynamics. We compared 517 human participants and three frontier models\non AutumnBench. We found that humans outperform the models, and scaling compute\nimproves performance only in some environments but not others. WorldTest\nprovides a novel template$\\unicode{x2014}$reward-free exploration, derived\ntests, and behavior-based scoring$\\unicode{x2014}$to evaluate what agents learn\nabout environment dynamics, and AutumnBench exposes significant headroom in\nworld-model learning.",
-      "url": "http://arxiv.org/abs/2510.19788v1",
+      "url": "http://arxiv.org/abs/2510.19788v2",
       "published_time_eastern_timestamp": 1761153798.0
     },
     {
@@ -100,7 +100,7 @@
     {
       "title": "DAIL: Beyond Task Ambiguity for Language-Conditioned Reinforcement\n  Learning",
       "summary": "Comprehending natural language and following human instructions are critical\ncapabilities for intelligent agents. However, the flexibility of linguistic\ninstructions induces substantial ambiguity across language-conditioned tasks,\nseverely degrading algorithmic performance. To address these limitations, we\npresent a novel method named DAIL (Distributional Aligned Learning), featuring\ntwo key components: distributional policy and semantic alignment. Specifically,\nwe provide theoretical results that the value distribution estimation mechanism\nenhances task differentiability. Meanwhile, the semantic alignment module\ncaptures the correspondence between trajectories and linguistic instructions.\nExtensive experimental results on both structured and visual observation\nbenchmarks demonstrate that DAIL effectively resolves instruction ambiguities,\nachieving superior performance to baseline methods. Our implementation is\navailable at https://github.com/RunpengXie/Distributional-Aligned-Learning.",
-      "url": "http://arxiv.org/abs/2510.19562v1",
+      "url": "http://arxiv.org/abs/2510.19562v2",
       "published_time_eastern_timestamp": 1761139006.0
     },
     {

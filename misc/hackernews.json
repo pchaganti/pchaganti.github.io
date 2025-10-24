@@ -1,142 +1,142 @@
 {
-  "last_updated": "2025-10-23T17:10:23.318597-04:00",
+  "last_updated": "2025-10-23T20:52:45.276428-04:00",
   "stories": [
     {
+      "title": "Betty White's shoulder bag is a time capsule of World War II",
+      "score": 52,
+      "url": "https://americanhistory.si.edu/explore/stories/betty-white-world-war-ii",
+      "time": 1760675326.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45613327"
+    },
+    {
       "title": "Claude Memory",
-      "score": 239,
+      "score": 348,
       "url": "https://www.anthropic.com/news/memory",
       "time": 1761238567.0,
       "comments_url": "https://news.ycombinator.com/item?id=45684134"
     },
     {
-      "title": "Trump pardons convicted Binance founder",
-      "score": 385,
-      "url": "https://www.wsj.com/finance/currencies/trump-pardons-convicted-binance-founder-7509bd63",
-      "time": 1761234108.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45683152"
+      "title": "How memory maps (mmap) deliver faster file access in Go",
+      "score": 54,
+      "url": "https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go",
+      "time": 1761256567.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45687796"
     },
     {
-      "title": "Can \"second life\" EV batteries work as grid-scale energy storage?",
-      "score": 56,
+      "title": "/dev/null is an ACID compliant database",
+      "score": 109,
+      "url": "https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/",
+      "time": 1761254882.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45687458"
+    },
+    {
+      "title": "Can “second life” EV batteries work as grid-scale energy storage?",
+      "score": 99,
       "url": "https://www.volts.wtf/p/can-second-life-ev-batteries-work",
       "time": 1761243345.0,
       "comments_url": "https://news.ycombinator.com/item?id=45685007"
     },
     {
-      "title": "What happened to Apple's legendary attention to detail?",
-      "score": 377,
-      "url": "https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html",
-      "time": 1761246324.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45685551"
+      "title": "Apple loses UK App Store monopoly case, penalty might near $2B",
+      "score": 151,
+      "url": "https://9to5mac.com/2025/10/23/apple-loses-uk-app-store-monopoly-case-penalty-might-near-2-billion/",
+      "time": 1761257483.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45688006"
     },
     {
-      "title": "New updates and more access to Google Earth AI",
-      "score": 85,
-      "url": "https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/",
-      "time": 1761238684.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45684155"
+      "title": "When is it better to think without words?",
+      "score": 48,
+      "url": "https://www.henrikkarlsson.xyz/p/wordless-thought",
+      "time": 1761254817.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45687441"
     },
     {
-      "title": "Kaitai Struct: declarative binary format parsing language",
-      "score": 35,
-      "url": "https://kaitai.io/",
-      "time": 1760453489.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45580795"
+      "title": "React Flow, open source libraries for node-based UIs with React or Svelte",
+      "score": 10,
+      "url": "https://github.com/xyflow/xyflow",
+      "time": 1761262408.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45688836"
     },
     {
-      "title": "Make Any TypeScript Function Durable",
-      "score": 60,
-      "url": "https://useworkflow.dev/",
-      "time": 1761238993.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45684217"
-    },
-    {
-      "title": "Pyscripter – open-source Python IDE written in Delphi",
-      "score": 18,
-      "url": "https://github.com/pyscripter/pyscripter",
-      "time": 1760925820.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45639618"
-    },
-    {
-      "title": "I spent a year making an ASN.1 compiler in D",
-      "score": 222,
-      "url": "https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/",
-      "time": 1761223661.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45681200"
-    },
-    {
-      "title": "Armed police swarm student after AI mistakes bag of Doritos for a weapon",
-      "score": 243,
-      "url": "https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/",
-      "time": 1761242977.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45684934"
-    },
-    {
-      "title": "PyTorch Monarch",
-      "score": 288,
-      "url": "https://pytorch.org/blog/introducing-pytorch-monarch/",
-      "time": 1761214512.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45680237"
-    },
-    {
-      "title": "VST3 audio plugin format is now MIT",
-      "score": 609,
-      "url": "https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988",
-      "time": 1761198482.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45678549"
-    },
-    {
-      "title": "Show HN: OpenSnowcat – A fork of Snowplow to keep open analytics alive",
-      "score": 25,
-      "url": "https://opensnowcat.io/",
-      "time": 1761247444.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45685793"
-    },
-    {
-      "title": "How count-min sketches work – frequencies, but without the actual data",
-      "score": 26,
-      "url": "https://www.instantdb.com/essays/count_min_sketch",
-      "time": 1761150446.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45671569"
+      "title": "Zram Performance Analysis",
+      "score": 50,
+      "url": "https://notes.xeome.dev/notes/Zram",
+      "time": 1761249492.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45686280"
     },
     {
       "title": "OpenAI acquires Sky.app",
-      "score": 55,
+      "score": 129,
       "url": "https://openai.com/index/openai-acquires-software-applications-incorporated",
       "time": 1761239057.0,
       "comments_url": "https://news.ycombinator.com/item?id=45684236"
     },
     {
-      "title": "The OS/2 Display Driver Zoo",
-      "score": 35,
-      "url": "https://www.os2museum.com/wp/the-os-2-display-driver-zoo/",
-      "time": 1760466959.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45583291"
+      "title": "Pyscripter – Open-source Python IDE written in Delphi",
+      "score": 44,
+      "url": "https://github.com/pyscripter/pyscripter",
+      "time": 1760925820.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45639618"
+    },
+    {
+      "title": "PyTorch Monarch",
+      "score": 309,
+      "url": "https://pytorch.org/blog/introducing-pytorch-monarch/",
+      "time": 1761214512.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45680237"
+    },
+    {
+      "title": "Kaitai Struct: declarative binary format parsing language",
+      "score": 70,
+      "url": "https://kaitai.io/",
+      "time": 1760453489.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45580795"
+    },
+    {
+      "title": "AI discovers a 5x faster MoE load balancing algorithm than human experts",
+      "score": 22,
+      "url": "https://adrs-ucb.notion.site/moe-load-balancing",
+      "time": 1761258922.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45688236"
+    },
+    {
+      "title": "New updates and more access to Google Earth AI",
+      "score": 123,
+      "url": "https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/",
+      "time": 1761238684.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45684155"
+    },
+    {
+      "title": "Armed police swarm student after AI mistakes bag of Doritos for a weapon",
+      "score": 447,
+      "url": "https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/",
+      "time": 1761242977.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45684934"
+    },
+    {
+      "title": "Cheap DIY solar fence design",
+      "score": 7,
+      "url": "https://joeyh.name/blog/entry/cheap_DIY_solar_fence_design/",
+      "time": 1760556219.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45597198"
     },
     {
       "title": "Summary of the Amazon DynamoDB Service Disruption in US-East-1 Region",
-      "score": 315,
+      "score": 392,
       "url": "https://aws.amazon.com/message/101925/",
       "time": 1761182398.0,
       "comments_url": "https://news.ycombinator.com/item?id=45677139"
     },
     {
-      "title": "Show HN: Git for LLMs – a context management interface",
-      "score": 23,
-      "url": "https://twigg.ai",
-      "time": 1761232377.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45682776"
-    },
-    {
-      "title": "Antislop: A framework for eliminating repetitive patterns in language models",
-      "score": 74,
-      "url": "https://arxiv.org/abs/2510.15061",
-      "time": 1761237365.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45683897"
+      "title": "Populism Fast and Slow",
+      "score": 7,
+      "url": "https://josephheath.substack.com/p/populism-fast-and-slow",
+      "time": 1761259395.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45688340"
     },
     {
       "title": "US probes Waymo robotaxis over school bus safety",
-      "score": 22,
+      "score": 61,
       "url": "https://www.yahoo.com/news/articles/us-investigates-waymo-robotaxis-over-102015308.html",
       "time": 1761223257.0,
       "comments_url": "https://news.ycombinator.com/item?id=45681147"

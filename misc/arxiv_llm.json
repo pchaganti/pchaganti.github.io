@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-23T17:10:24.892169-04:00",
+  "last_updated": "2025-10-23T20:52:46.659151-04:00",
   "papers": [
     {
       "title": "Hubble: a Model Suite to Advance the Study of LLM Memorization",
@@ -34,7 +34,7 @@
     {
       "title": "Adapting Multilingual Models to Code-Mixed Tasks via Model Merging",
       "summary": "We study model merging as a practical alternative to conventional adaptation\nstrategies for code-mixed NLP. Starting from a multilingual base model, we: (i)\nperform continued pre-training (CPT) on unlabeled code-mixed text to obtain an\nadapted checkpoint, (ii) merge checkpoint with the base model, and (iii)\nfine-tune (FT) on the downstream task data. We evaluate our approach for\nsentence classification (sentiment and hate speech) task in English-Hindi\n(En-Hi) and English-Spanish (En-Es) using XLM-R and Llama-3.2-1B models. Our\nresults show that merged models consistently outperform full fine-tuning and\nCPT->FT. We observe gains of 2--5 points in F1 over full fine-tuning and ~1-2\npoints over CPT->FT, indicating that unlabeled data is leveraged more\neffectively via merging than via CPT alone. Zero-/few-shot prompting with\nlarger LLMs (e.g., Llama-3.3-70B) lags behind fine-tuned and merged\ncheckpoints, underscoring limits of in-context learning for code-mixed inputs.\nWe further test cross-pair transfer by training on En-Hi and evaluating on\nEn-Ta and En-Ml: merged checkpoints transfer more strongly than\nmonolingual-English baselines (e.g., TV/TIES variants reaching 0.65-0.68 F1 vs\n0.61-0.63 for full fine-tuning), suggesting that code-mixed knowledge is a more\nreliable substrate for low-resource pairs. We conclude with adaptation recipes\nmatched to common data regimes (labeled only; labeled+unlabeled; transfer-only)\nand discuss limitations and scaling considerations for broader tasks and larger\nmodels.",
-      "url": "http://arxiv.org/abs/2510.19782v1",
+      "url": "http://arxiv.org/abs/2510.19782v2",
       "published_time_eastern_timestamp": 1761153383.0
     },
     {
@@ -70,7 +70,7 @@
     {
       "title": "Zhyper: Factorized Hypernetworks for Conditioned LLM Fine-Tuning",
       "summary": "Large Language Model (LLM) conditioning refers to instructing an LLM to\ngenerate content in accordance with the norms and values of a specific culture,\nbeliefs of a particular political orientation, or any desired text-specified\nsemantic conditioning. Unfortunately, prompt engineering does not ensure that\nLLMs behave in accordance with a desired conditioning due to the inductive bias\nof the pre-training and alignment datasets. Prior works have focused on\nfine-tuning LLMs by directly conditioning the LoRA weights; however, such\nmethods introduce a large number of parameters. As a remedy, we propose Zhyper,\na parameter-efficient factorized hypernetwork framework that generates\ncontext-aware LoRA adapters from textual descriptions. Experiments on multiple\nbenchmarks show that Zhyper achieves competitive performance with up to 26x\nfewer parameters than the state-of-the-art baselines. Furthermore, we extend\nZhyper to cultural alignment, demonstrating improved generalization to\nout-of-domain settings and a better capturing of fine-grained contextual\nvalues.",
-      "url": "http://arxiv.org/abs/2510.19733v1",
+      "url": "http://arxiv.org/abs/2510.19733v2",
       "published_time_eastern_timestamp": 1761150343.0
     },
     {
