@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-10-23T20:52:45.276428-04:00",
+  "last_updated": "2025-10-23T23:28:50.516713-04:00",
   "stories": [
     {
+      "title": "Computer Science Courses That Don't Exist, but Should (2015)",
+      "score": 43,
+      "url": "https://prog21.dadgum.com/210.html",
+      "time": 1761272527.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45690045"
+    },
+    {
       "title": "Betty White's shoulder bag is a time capsule of World War II",
-      "score": 52,
+      "score": 140,
       "url": "https://americanhistory.si.edu/explore/stories/betty-white-world-war-ii",
       "time": 1760675326.0,
       "comments_url": "https://news.ycombinator.com/item?id=45613327"
     },
     {
       "title": "Claude Memory",
-      "score": 348,
+      "score": 386,
       "url": "https://www.anthropic.com/news/memory",
       "time": 1761238567.0,
       "comments_url": "https://news.ycombinator.com/item?id=45684134"
     },
     {
-      "title": "How memory maps (mmap) deliver faster file access in Go",
-      "score": 54,
-      "url": "https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go",
-      "time": 1761256567.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45687796"
-    },
-    {
       "title": "/dev/null is an ACID compliant database",
-      "score": 109,
+      "score": 183,
       "url": "https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/",
       "time": 1761254882.0,
       "comments_url": "https://news.ycombinator.com/item?id=45687458"
     },
     {
-      "title": "Can “second life” EV batteries work as grid-scale energy storage?",
-      "score": 99,
-      "url": "https://www.volts.wtf/p/can-second-life-ev-batteries-work",
-      "time": 1761243345.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45685007"
-    },
-    {
-      "title": "Apple loses UK App Store monopoly case, penalty might near $2B",
-      "score": 151,
-      "url": "https://9to5mac.com/2025/10/23/apple-loses-uk-app-store-monopoly-case-penalty-might-near-2-billion/",
-      "time": 1761257483.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45688006"
-    },
-    {
-      "title": "When is it better to think without words?",
-      "score": 48,
-      "url": "https://www.henrikkarlsson.xyz/p/wordless-thought",
-      "time": 1761254817.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45687441"
+      "title": "How memory maps (mmap) deliver faster file access in Go",
+      "score": 79,
+      "url": "https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go",
+      "time": 1761256567.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45687796"
     },
     {
       "title": "React Flow, open source libraries for node-based UIs with React or Svelte",
-      "score": 10,
+      "score": 64,
       "url": "https://github.com/xyflow/xyflow",
       "time": 1761262408.0,
       "comments_url": "https://news.ycombinator.com/item?id=45688836"
     },
     {
-      "title": "Zram Performance Analysis",
-      "score": 50,
-      "url": "https://notes.xeome.dev/notes/Zram",
-      "time": 1761249492.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45686280"
-    },
-    {
-      "title": "OpenAI acquires Sky.app",
-      "score": 129,
-      "url": "https://openai.com/index/openai-acquires-software-applications-incorporated",
-      "time": 1761239057.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45684236"
-    },
-    {
-      "title": "Pyscripter – Open-source Python IDE written in Delphi",
-      "score": 44,
-      "url": "https://github.com/pyscripter/pyscripter",
-      "time": 1760925820.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45639618"
-    },
-    {
-      "title": "PyTorch Monarch",
-      "score": 309,
-      "url": "https://pytorch.org/blog/introducing-pytorch-monarch/",
-      "time": 1761214512.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45680237"
-    },
-    {
-      "title": "Kaitai Struct: declarative binary format parsing language",
-      "score": 70,
-      "url": "https://kaitai.io/",
-      "time": 1760453489.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45580795"
-    },
-    {
-      "title": "AI discovers a 5x faster MoE load balancing algorithm than human experts",
-      "score": 22,
-      "url": "https://adrs-ucb.notion.site/moe-load-balancing",
-      "time": 1761258922.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45688236"
-    },
-    {
-      "title": "New updates and more access to Google Earth AI",
-      "score": 123,
-      "url": "https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/",
-      "time": 1761238684.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45684155"
-    },
-    {
-      "title": "Armed police swarm student after AI mistakes bag of Doritos for a weapon",
-      "score": 447,
-      "url": "https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/",
-      "time": 1761242977.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45684934"
-    },
-    {
       "title": "Cheap DIY solar fence design",
-      "score": 7,
+      "score": 47,
       "url": "https://joeyh.name/blog/entry/cheap_DIY_solar_fence_design/",
       "time": 1760556219.0,
       "comments_url": "https://news.ycombinator.com/item?id=45597198"
     },
     {
+      "title": "Can “second life” EV batteries work as grid-scale energy storage?",
+      "score": 116,
+      "url": "https://www.volts.wtf/p/can-second-life-ev-batteries-work",
+      "time": 1761243345.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45685007"
+    },
+    {
+      "title": "When is it better to think without words?",
+      "score": 74,
+      "url": "https://www.henrikkarlsson.xyz/p/wordless-thought",
+      "time": 1761254817.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45687441"
+    },
+    {
+      "title": "AI discovers a 5x faster MoE load balancing algorithm than human experts",
+      "score": 95,
+      "url": "https://adrs-ucb.notion.site/moe-load-balancing",
+      "time": 1761258922.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45688236"
+    },
+    {
+      "title": "Deepstaria Enigmatica",
+      "score": 13,
+      "url": "https://en.wikipedia.org/wiki/Deepstaria_enigmatica",
+      "time": 1760147347.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45545860"
+    },
+    {
+      "title": "Benchmarking Postgres 17 vs. 18",
+      "score": 24,
+      "url": "https://planetscale.com/blog/benchmarking-postgres-17-vs-18",
+      "time": 1760456144.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45581305"
+    },
+    {
+      "title": "PyTorch Monarch",
+      "score": 318,
+      "url": "https://pytorch.org/blog/introducing-pytorch-monarch/",
+      "time": 1761214512.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45680237"
+    },
+    {
+      "title": "Introduction to the concept of likelihood and its applications (2018)",
+      "score": 21,
+      "url": "https://journals.sagepub.com/doi/10.1177/2515245917744314",
+      "time": 1761259935.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45688443"
+    },
+    {
+      "title": "Zram Performance Analysis",
+      "score": 63,
+      "url": "https://notes.xeome.dev/notes/Zram",
+      "time": 1761249492.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45686280"
+    },
+    {
       "title": "Summary of the Amazon DynamoDB Service Disruption in US-East-1 Region",
-      "score": 392,
+      "score": 436,
       "url": "https://aws.amazon.com/message/101925/",
       "time": 1761182398.0,
       "comments_url": "https://news.ycombinator.com/item?id=45677139"
     },
     {
-      "title": "Populism Fast and Slow",
-      "score": 7,
-      "url": "https://josephheath.substack.com/p/populism-fast-and-slow",
-      "time": 1761259395.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45688340"
-    },
-    {
       "title": "US probes Waymo robotaxis over school bus safety",
-      "score": 61,
+      "score": 82,
       "url": "https://www.yahoo.com/news/articles/us-investigates-waymo-robotaxis-over-102015308.html",
       "time": 1761223257.0,
       "comments_url": "https://news.ycombinator.com/item?id=45681147"
+    },
+    {
+      "title": "Pyscripter – Open-source Python IDE written in Delphi",
+      "score": 53,
+      "url": "https://github.com/pyscripter/pyscripter",
+      "time": 1760925820.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45639618"
+    },
+    {
+      "title": "Armed police swarm student after AI mistakes bag of Doritos for a weapon",
+      "score": 514,
+      "url": "https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/",
+      "time": 1761242977.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45684934"
+    },
+    {
+      "title": "New updates and more access to Google Earth AI",
+      "score": 131,
+      "url": "https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/",
+      "time": 1761238684.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45684155"
     }
   ]
 }
