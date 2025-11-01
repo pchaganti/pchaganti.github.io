@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-11-01T08:20:29.842677-04:00",
+  "last_updated": "2025-11-01T11:09:41.757812-04:00",
   "stories": [
     {
+      "title": "arXiv No Longer Accepts Computer Science Position or Review Papers Due to LLMs",
+      "score": 23,
+      "url": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/",
+      "time": 1762009085.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45782136"
+    },
+    {
+      "title": "SQLite concurrency and why you should care about it",
+      "score": 73,
+      "url": "https://jellyfin.org/posts/SQLite-locking/",
+      "time": 1762001943.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45781298"
+    },
+    {
+      "title": "CharlotteOS – An Experimental Modern Operating System",
+      "score": 36,
+      "url": "https://github.com/charlotte-os/Catten",
+      "time": 1762002767.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45781397"
+    },
+    {
+      "title": "Abandonware of the web: do you know that there is an HTML tables API?",
+      "score": 112,
+      "url": "https://christianheilmann.com/2025/10/08/abandonware-of-the-web-do-you-know-that-there-is-an-html-tables-api/",
+      "time": 1762001901.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45781293"
+    },
+    {
       "title": "Show HN: Strange Attractors",
-      "score": 547,
+      "score": 626,
       "url": "https://blog.shashanktomar.com/posts/strange-attractors",
       "time": 1761953039.0,
       "comments_url": "https://news.ycombinator.com/item?id=45777810"
     },
     {
+      "title": "Hard Rust requirements from May onward",
+      "score": 115,
+      "url": "https://lists.debian.org/debian-devel/2025/10/msg00285.html",
+      "time": 1761982300.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45779860"
+    },
+    {
       "title": "How I stopped worrying and started loving the Assembly",
-      "score": 91,
+      "score": 130,
       "url": "https://medium.com/@jonas.eschenburg/how-i-stopped-worrying-and-started-loving-the-assembly-4fd00e786c60",
       "time": 1761233035.0,
       "comments_url": "https://news.ycombinator.com/item?id=45682917"
     },
     {
+      "title": "Frank Gasking on preserving «lost» games",
+      "score": 12,
+      "url": "https://spillhistorie.no/2025/10/24/frank-gasking-on-preserving-lost-games/",
+      "time": 1761658338.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45732677"
+    },
+    {
+      "title": "Solving the NY Times \"Pips\" game with F#",
+      "score": 33,
+      "url": "https://github.com/brianberns/Pips",
+      "time": 1761231080.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45682501"
+    },
+    {
       "title": "S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine",
-      "score": 178,
+      "score": 210,
       "url": "https://github.com/vindar/SARCASM",
       "time": 1761951798.0,
       "comments_url": "https://news.ycombinator.com/item?id=45777682"
     },
     {
       "title": "Myths Programmers Believe about CPU Caches (2018)",
-      "score": 63,
+      "score": 98,
       "url": "https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/",
       "time": 1761871616.0,
       "comments_url": "https://news.ycombinator.com/item?id=45767178"
     },
     {
       "title": "Futurelock: A subtle risk in async Rust",
-      "score": 354,
+      "score": 377,
       "url": "https://rfd.shared.oxide.computer/rfd/0609",
       "time": 1761929366.0,
       "comments_url": "https://news.ycombinator.com/item?id=45774086"
     },
     {
       "title": "Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking",
-      "score": 337,
+      "score": 373,
       "url": "https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/",
       "time": 1761865930.0,
       "comments_url": "https://news.ycombinator.com/item?id=45766501"
     },
     {
       "title": "Addiction Markets",
-      "score": 296,
+      "score": 333,
       "url": "https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate",
       "time": 1761932575.0,
       "comments_url": "https://news.ycombinator.com/item?id=45774640"
     },
     {
+      "title": "You can't refuse to be scanned by ICE's facial recognition app, DHS document say",
+      "score": 137,
+      "url": "https://www.404media.co/you-cant-refuse-to-be-scanned-by-ices-facial-recognition-app-dhs-document-says/",
+      "time": 1761987534.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45780228"
+    },
+    {
+      "title": "'Killing the Dead' Review: Watch the Graveyard",
+      "score": 15,
+      "url": "https://www.wsj.com/arts-culture/books/killing-the-dead-review-watch-the-graveyard-f54e14f4",
+      "time": 1761203196.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45679050"
+    },
+    {
       "title": "Introducing architecture variants",
-      "score": 210,
+      "score": 219,
       "url": "https://discourse.ubuntu.com/t/introducing-architecture-variants-amd64v3-now-available-in-ubuntu-25-10/71312",
       "time": 1761820500.0,
       "comments_url": "https://news.ycombinator.com/item?id=45758392"
     },
     {
+      "title": "A theoretical way to circumvent Android developer verification",
+      "score": 165,
+      "url": "https://enaix.github.io/2025/10/30/developer-verification.html",
+      "time": 1761942042.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45776269"
+    },
+    {
       "title": "The Impossible Optimization, and the Metaprogramming to Achieve It",
-      "score": 18,
+      "score": 33,
       "url": "https://verdagon.dev/blog/impossible-optimization",
       "time": 1761648801.0,
       "comments_url": "https://news.ycombinator.com/item?id=45731256"
     },
     {
       "title": "Nisus Writer: Schrödinger's Word Processor",
-      "score": 34,
+      "score": 48,
       "url": "https://tidbits.com/2025/10/25/nisus-writer-schrodingers-word-processor/",
       "time": 1761425840.0,
       "comments_url": "https://news.ycombinator.com/item?id=45706901"
-    },
-    {
-      "title": "A theoretical way to circumvent Android developer verification",
-      "score": 145,
-      "url": "https://enaix.github.io/2025/10/30/developer-verification.html",
-      "time": 1761942042.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45776269"
-    },
-    {
-      "title": "'Killing the Dead' Review: Watch the Graveyard",
-      "score": 5,
-      "url": "https://www.wsj.com/arts-culture/books/killing-the-dead-review-watch-the-graveyard-f54e14f4",
-      "time": 1761203196.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45679050"
-    },
-    {
-      "title": "Beyond Smoothed Analysis: Analyzing the Simplex Method by the Book",
-      "score": 22,
-      "url": "https://arxiv.org/abs/2510.21613",
-      "time": 1761581612.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45722691"
-    },
-    {
-      "title": "Active listening: the Swiss Army Knife of communication",
-      "score": 103,
-      "url": "https://togetherlondon.com/insights/active-listening-swiss-army-knife",
-      "time": 1761565204.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45719829"
-    },
-    {
-      "title": "Hacking India's largest automaker: Tata Motors",
-      "score": 210,
-      "url": "https://eaton-works.com/2025/10/28/tata-motors-hack/",
-      "time": 1761701516.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45741569"
-    },
-    {
-      "title": "The profitable startup",
-      "score": 140,
-      "url": "https://linear.app/now/the-profitable-startup",
-      "time": 1761967084.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45778984"
-    },
-    {
-      "title": "How We Found 7 TiB of Memory Just Sitting Around",
-      "score": 158,
-      "url": "https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around",
-      "time": 1761848705.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45763359"
-    },
-    {
-      "title": "My Impressions of the MacBook Pro M4",
-      "score": 202,
-      "url": "https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/",
-      "time": 1761905620.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45770304"
-    },
-    {
-      "title": "Use DuckDB-WASM to query TB of data in browser",
-      "score": 199,
-      "url": "https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/",
-      "time": 1761932235.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45774571"
-    },
-    {
-      "title": "Viagrid – PCB template for rapid PCB prototyping with factory-made vias [video]",
-      "score": 116,
-      "url": "https://www.youtube.com/watch?v=A_IUIyyqw0M",
-      "time": 1761586937.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45724043"
     }
   ]
 }
