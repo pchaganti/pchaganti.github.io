@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-11-01T21:00:47.961143-04:00",
+  "last_updated": "2025-11-01T23:41:30.102499-04:00",
   "stories": [
     {
-      "title": "SailfishOS: A Linux-based European alternative to dominant mobile OSes",
-      "score": 149,
-      "url": "https://sailfishos.org/info/",
-      "time": 1762034700.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45785840"
-    },
-    {
-      "title": "OS maintained by a single developer since 1997: Visopsys",
-      "score": 107,
+      "title": "Visopsys: OS maintained by a single developer since 1997",
+      "score": 179,
       "url": "https://visopsys.org/",
       "time": 1762034869.0,
       "comments_url": "https://news.ycombinator.com/item?id=45785858"
     },
     {
-      "title": "Policy, privacy and post-quantum: anonymous credentials for everyone",
-      "score": 5,
+      "title": "How I use every Claude Code feature",
+      "score": 66,
+      "url": "https://blog.sshh.io/p/how-i-use-every-claude-code-feature",
+      "time": 1762042407.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45786738"
+    },
+    {
+      "title": "Anonymous credentials: rate-limit bots and agents without compromising privacy",
+      "score": 38,
       "url": "https://blog.cloudflare.com/private-rate-limiting/",
       "time": 1762044313.0,
       "comments_url": "https://news.ycombinator.com/item?id=45786914"
     },
     {
       "title": "Updated practice for review articles and position papers in ArXiv CS category",
-      "score": 406,
+      "score": 423,
       "url": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/",
       "time": 1762009085.0,
       "comments_url": "https://news.ycombinator.com/item?id=45782136"
     },
     {
-      "title": "Claude Code Can Debug Low-Level Cryptography",
-      "score": 179,
+      "title": "Pomelli",
+      "score": 72,
+      "url": "https://blog.google/technology/google-labs/pomelli/",
+      "time": 1762038565.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45786324"
+    },
+    {
+      "title": "Claude Code can debug low-level cryptography",
+      "score": 228,
       "url": "https://words.filippo.io/claude-debugging/",
       "time": 1762022516.0,
       "comments_url": "https://news.ycombinator.com/item?id=45784179"
     },
     {
       "title": "GHC now runs in the browser",
-      "score": 240,
+      "score": 262,
       "url": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
       "time": 1762014563.0,
       "comments_url": "https://news.ycombinator.com/item?id=45782981"
     },
     {
-      "title": "Pomelli",
-      "score": 24,
-      "url": "https://labs.google.com/pomelli/about/",
-      "time": 1762038565.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45786324"
+      "title": "Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust",
+      "score": 4,
+      "url": "https://github.com/frostyplanet/crossfire-rs",
+      "time": 1762052835.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45787571"
     },
     {
       "title": "Show HN: Why write code if the LLM can just do the thing? (web app experiment)",
-      "score": 209,
+      "score": 245,
       "url": "https://github.com/samrolken/nokode",
       "time": 1762019118.0,
       "comments_url": "https://news.ycombinator.com/item?id=45783640"
     },
     {
       "title": "Beginner-friendly, unofficial documentation for Helix text editor",
-      "score": 86,
+      "score": 104,
       "url": "https://helix-editor.vercel.app/start-here/basics/",
       "time": 1762025628.0,
       "comments_url": "https://news.ycombinator.com/item?id=45784596"
     },
     {
+      "title": "SailfishOS: A Linux-based European alternative to dominant mobile OSes",
+      "score": 197,
+      "url": "https://sailfishos.org/info/",
+      "time": 1762034700.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45785840"
+    },
+    {
+      "title": "3M Diskette Reference Manual (1983) [pdf]",
+      "score": 32,
+      "url": "https://retrocmp.de/fdd/diskette/3M_Diskette_Reference_Manual_May83.pdf",
+      "time": 1761608675.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45727696"
+    },
+    {
       "title": "SQLite concurrency and why you should care about it",
-      "score": 248,
+      "score": 262,
       "url": "https://jellyfin.org/posts/SQLite-locking/",
       "time": 1762001943.0,
       "comments_url": "https://news.ycombinator.com/item?id=45781298"
     },
     {
+      "title": "A Few Words About Async",
+      "score": 12,
+      "url": "https://yoric.github.io/post/quite-a-few-words-about-async/",
+      "time": 1762045844.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45787036"
+    },
+    {
       "title": "The Smol Training Playbook: The Secrets to Building World-Class LLMs",
-      "score": 123,
+      "score": 146,
       "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
       "time": 1761843166.0,
       "comments_url": "https://news.ycombinator.com/item?id=45762160"
     },
     {
-      "title": "Show HN: KeyLeak Detector – Scan websites for exposed API keys and secrets",
+      "title": "How to Build a Solar Powered Electric Oven",
+      "score": 15,
+      "url": "https://solar.lowtechmagazine.com/2025/10/how-to-build-a-solar-powered-electric-oven/",
+      "time": 1761398174.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45703666"
+    },
+    {
+      "title": "Automatically Translating C to Rust",
       "score": 9,
-      "url": "https://github.com/Amal-David/keyleak-detector",
-      "time": 1762037542.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45786192"
+      "url": "https://cacm.acm.org/research/automatically-translating-c-to-rust/",
+      "time": 1761318753.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45695483"
+    },
+    {
+      "title": "Why \"everyone dies\" gets AGI all wrong",
+      "score": 60,
+      "url": "https://bengoertzel.substack.com/p/why-everyone-dies-gets-agi-all-wrong",
+      "time": 1762044036.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45786888"
     },
     {
       "title": "OpenDesk by the Centre for Digital Sovereignty",
-      "score": 20,
+      "score": 38,
       "url": "https://www.opendesk.eu/en/product",
       "time": 1762035963.0,
       "comments_url": "https://news.ycombinator.com/item?id=45785986"
     },
     {
-      "title": "RegEx Crossword",
-      "score": 13,
-      "url": "https://jimbly.github.io/regex-crossword/",
-      "time": 1761662275.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45733453"
-    },
-    {
       "title": "The hardest program I've ever written (2015)",
-      "score": 52,
+      "score": 66,
       "url": "https://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/",
       "time": 1761714873.0,
       "comments_url": "https://news.ycombinator.com/item?id=45742886"
-    },
-    {
-      "title": "Austria: Pylons as sculpture for public acceptance of expanding electrification",
-      "score": 86,
-      "url": "https://www.goodgoodgood.co/articles/austrian-power-giants-power-line-animals",
-      "time": 1761645397.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45730940"
-    },
-    {
-      "title": "Chat Control proposal fails again after public opposition",
-      "score": 435,
-      "url": "https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/",
-      "time": 1762015377.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45783114"
-    },
-    {
-      "title": "CharlotteOS – An Experimental Modern Operating System",
-      "score": 147,
-      "url": "https://github.com/charlotte-os/Catten",
-      "time": 1762002767.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45781397"
-    },
-    {
-      "title": "Word2vec-style vector arithmetic on docs embeddings",
-      "score": 44,
-      "url": "https://technicalwriting.dev/embeddings/arithmetic/index.html",
-      "time": 1762024498.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45784455"
-    },
-    {
-      "title": "Hard Rust requirements from May onward",
-      "score": 314,
-      "url": "https://lists.debian.org/debian-devel/2025/10/msg00285.html",
-      "time": 1761982300.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45779860"
     }
   ]
 }
