@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-11-02T01:17:07.133313-05:00",
+  "last_updated": "2025-11-02T04:10:42.671891-05:00",
   "stories": [
     {
-      "title": "You Don't Need Anubis",
-      "score": 42,
-      "url": "https://fxgn.dev/blog/anubis/",
-      "time": 1762056233.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45787775"
+      "title": "Backpropagation is a leaky abstraction (2016)",
+      "score": 100,
+      "url": "https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b",
+      "time": 1762060812.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45787993"
+    },
+    {
+      "title": "Notes by djb on using Fil-C (2025)",
+      "score": 52,
+      "url": "https://cr.yp.to/2025/fil-c.html",
+      "time": 1762061522.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45788040"
     },
     {
       "title": "Visopsys: OS maintained by a single developer since 1997",
-      "score": 268,
+      "score": 312,
       "url": "https://visopsys.org/",
       "time": 1762034869.0,
       "comments_url": "https://news.ycombinator.com/item?id=45785858"
     },
     {
-      "title": "Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust",
-      "score": 36,
-      "url": "https://github.com/frostyplanet/crossfire-rs",
-      "time": 1762052835.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45787571"
-    },
-    {
       "title": "How I use every Claude Code feature",
-      "score": 157,
+      "score": 238,
       "url": "https://blog.sshh.io/p/how-i-use-every-claude-code-feature",
       "time": 1762042407.0,
       "comments_url": "https://news.ycombinator.com/item?id=45786738"
     },
     {
-      "title": "Pomelli",
-      "score": 136,
-      "url": "https://blog.google/technology/google-labs/pomelli/",
-      "time": 1762038565.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45786324"
+      "title": "Why do AI models use so many em-dashes?",
+      "score": 15,
+      "url": "https://www.seangoedecke.com/em-dashes/",
+      "time": 1762066318.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45788327"
     },
     {
       "title": "Claude Code can debug low-level cryptography",
-      "score": 275,
+      "score": 310,
       "url": "https://words.filippo.io/claude-debugging/",
       "time": 1762022516.0,
       "comments_url": "https://news.ycombinator.com/item?id=45784179"
     },
     {
+      "title": "CLI to manage your SQL database schemas and migrations",
+      "score": 17,
+      "url": "https://github.com/gh-PonyM/shed",
+      "time": 1762064604.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45788202"
+    },
+    {
+      "title": "Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust",
+      "score": 57,
+      "url": "https://github.com/frostyplanet/crossfire-rs",
+      "time": 1762052835.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45787571"
+    },
+    {
       "title": "Updated practice for review articles and position papers in ArXiv CS category",
-      "score": 431,
+      "score": 445,
       "url": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/",
       "time": 1762009085.0,
       "comments_url": "https://news.ycombinator.com/item?id=45782136"
     },
     {
-      "title": "GHC now runs in the browser",
-      "score": 281,
-      "url": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
-      "time": 1762014563.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45782981"
-    },
-    {
-      "title": "Anonymous credentials: rate-limit bots and agents without compromising privacy",
-      "score": 51,
-      "url": "https://blog.cloudflare.com/private-rate-limiting/",
-      "time": 1762044313.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45786914"
-    },
-    {
-      "title": "Meta readies $25B bond sale as soaring AI costs trigger stock sell-off",
-      "score": 17,
-      "url": "https://www.ft.com/content/120d2321-8382-4d74-ab48-f9ecb483c2a9",
-      "time": 1762061580.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45788042"
-    },
-    {
-      "title": "Show HN: Why write code if the LLM can just do the thing? (web app experiment)",
-      "score": 279,
-      "url": "https://github.com/samrolken/nokode",
-      "time": 1762019118.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45783640"
-    },
-    {
-      "title": "3M Diskette Reference Manual (1983) [pdf]",
-      "score": 56,
-      "url": "https://retrocmp.de/fdd/diskette/3M_Diskette_Reference_Manual_May83.pdf",
-      "time": 1761608675.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45727696"
-    },
-    {
-      "title": "Automatically Translating C to Rust",
-      "score": 28,
-      "url": "https://cacm.acm.org/research/automatically-translating-c-to-rust/",
-      "time": 1761318753.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45695483"
-    },
-    {
-      "title": "SQLite concurrency and why you should care about it",
-      "score": 284,
-      "url": "https://jellyfin.org/posts/SQLite-locking/",
-      "time": 1762001943.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45781298"
-    },
-    {
-      "title": "Beginner-friendly, unofficial documentation for Helix text editor",
-      "score": 117,
-      "url": "https://helix-editor.vercel.app/start-here/basics/",
-      "time": 1762025628.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45784596"
-    },
-    {
-      "title": "SailfishOS: A Linux-based European alternative to dominant mobile OSes",
-      "score": 219,
-      "url": "https://sailfishos.org/info/",
-      "time": 1762034700.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45785840"
-    },
-    {
-      "title": "Chip Hall of Fame: Intel 8088 Microprocessor",
-      "score": 5,
-      "url": "https://spectrum.ieee.org/chip-hall-of-fame-intel-8088-microprocessor",
-      "time": 1761514618.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45715408"
-    },
-    {
-      "title": "The Smol Training Playbook: The Secrets to Building World-Class LLMs",
-      "score": 167,
-      "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
-      "time": 1761843166.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45762160"
+      "title": "Pomelli",
+      "score": 168,
+      "url": "https://blog.google/technology/google-labs/pomelli/",
+      "time": 1762038565.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45786324"
     },
     {
       "title": "LM8560, the eternal chip from the 1980 years",
-      "score": 7,
+      "score": 29,
       "url": "https://www.tycospages.com/other-themes/lm8560-the-eternal-chip-from-the-1980-years/",
       "time": 1762057651.0,
       "comments_url": "https://news.ycombinator.com/item?id=45787842"
     },
     {
-      "title": "From 400 Mbps to 1.7 Gbps: A WiFi 7 Debugging Journey",
-      "score": 78,
-      "url": "https://blog.tymscar.com/posts/wifi7speedhunt/",
-      "time": 1762026603.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45784729"
+      "title": "FlightAware Map Design",
+      "score": 17,
+      "url": "https://andywoodruff.com/posts/2024/flightaware-maps/",
+      "time": 1761565356.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45719846"
+    },
+    {
+      "title": "Hyperbolic Non-Euclidean World (2007)",
+      "score": 7,
+      "url": "http://web1.kcn.jp/hp28ah77/",
+      "time": 1761526787.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45716371"
+    },
+    {
+      "title": "The Naked Man Problem and the Secret to Never Forgetting Numbers",
+      "score": 16,
+      "url": "https://ninjasandrobots.com/the-naked-man-problem-and-the-secret-to-never-forgetting-numbers",
+      "time": 1761670617.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45735432"
+    },
+    {
+      "title": "Chip Hall of Fame: Intel 8088 Microprocessor",
+      "score": 21,
+      "url": "https://spectrum.ieee.org/chip-hall-of-fame-intel-8088-microprocessor",
+      "time": 1761514618.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45715408"
+    },
+    {
+      "title": "GHC now runs in the browser",
+      "score": 303,
+      "url": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
+      "time": 1762014563.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45782981"
+    },
+    {
+      "title": "You Don't Need Anubis",
+      "score": 98,
+      "url": "https://fxgn.dev/blog/anubis/",
+      "time": 1762056233.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45787775"
+    },
+    {
+      "title": "Anonymous credentials: rate-limit bots and agents without compromising privacy",
+      "score": 65,
+      "url": "https://blog.cloudflare.com/private-rate-limiting/",
+      "time": 1762044313.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45786914"
+    },
+    {
+      "title": "Show HN: Why write code if the LLM can just do the thing? (web app experiment)",
+      "score": 307,
+      "url": "https://github.com/samrolken/nokode",
+      "time": 1762019118.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45783640"
+    },
+    {
+      "title": "SQLite concurrency and why you should care about it",
+      "score": 297,
+      "url": "https://jellyfin.org/posts/SQLite-locking/",
+      "time": 1762001943.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45781298"
     }
   ]
 }
