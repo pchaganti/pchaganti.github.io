@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-11-03T07:24:25.163048-05:00",
+  "last_updated": "2025-11-03T10:13:16.435053-05:00",
   "stories": [
     {
+      "title": "Why Nextcloud feels slow to use",
+      "score": 129,
+      "url": "https://ounapuu.ee/posts/2025/11/03/nextcloud-slow/",
+      "time": 1762176069.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45798681"
+    },
+    {
+      "title": "VimGraph",
+      "score": 49,
+      "url": "https://resources.wolframcloud.com/FunctionRepository/resources/VimGraph/",
+      "time": 1762177247.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45798838"
+    },
+    {
+      "title": "The Problem with Farmed Seafood",
+      "score": 47,
+      "url": "https://nautil.us/the-problem-with-farmed-seafood-1243674/",
+      "time": 1762177719.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45798898"
+    },
+    {
+      "title": "WebAssembly (WASM) arch support for the Linux kernel",
+      "score": 71,
+      "url": "https://github.com/joelseverin/linux-wasm",
+      "time": 1762015145.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45783074"
+    },
+    {
+      "title": "The Case Against PGVector",
+      "score": 48,
+      "url": "https://alex-jacobs.com/posts/the-case-against-pgvector/",
+      "time": 1762174227.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45798479"
+    },
+    {
+      "title": "Show HN: a Rust ray tracer that runs on any GPU – even in the browser",
+      "score": 18,
+      "url": "https://github.com/tchauffi/rust-rasterizer",
+      "time": 1762177515.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45798871"
+    },
+    {
+      "title": "Offline Math: Converting LaTeX to SVG with MathJax",
+      "score": 19,
+      "url": "https://sigwait.org/~alex/blog/2025/10/07/3t8acq.html",
+      "time": 1762176557.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45798746"
+    },
+    {
+      "title": "A collection of links that existed about Anguilla as of 2003",
+      "score": 9,
+      "url": "https://web.ai/",
+      "time": 1762177647.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45798892"
+    },
+    {
       "title": "Tiny electric motor can produce more than 1,000 horsepower",
-      "score": 176,
+      "score": 308,
       "url": "https://supercarblondie.com/electric-motor-yasa-more-powerful-tesla-mercedes/",
       "time": 1762161601.0,
       "comments_url": "https://news.ycombinator.com/item?id=45797242"
     },
     {
+      "title": "A visualization of the RGB space covered by named colors",
+      "score": 14,
+      "url": "https://codepen.io/meodai/full/zdgXJj/",
+      "time": 1761754179.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45748816"
+    },
+    {
+      "title": "OSS Alternative to Open WebUI – ChatGPT-Like UI, API and CLI",
+      "score": 27,
+      "url": "https://github.com/ServiceStack/llms",
+      "time": 1762171528.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45798193"
+    },
+    {
       "title": "KaTeX – The fastest math typesetting library for the web",
-      "score": 81,
+      "score": 130,
       "url": "https://katex.org/",
       "time": 1761741616.0,
       "comments_url": "https://news.ycombinator.com/item?id=45746063"
     },
     {
+      "title": "Geonum – geometric number library for unlimited dimensions with O(1) complexity",
+      "score": 4,
+      "url": "https://github.com/mxfactorial/geonum",
+      "time": 1762179057.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45799096"
+    },
+    {
+      "title": "Google suspended my company's Google cloud account for the third time",
+      "score": 232,
+      "url": "https://www.agwa.name/blog/post/google_suspended_sslmates_cloud_account_again",
+      "time": 1762177158.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45798827"
+    },
+    {
       "title": "Oxy is Cloudflare's Rust-based next generation proxy framework (2023)",
-      "score": 121,
+      "score": 158,
       "url": "https://blog.cloudflare.com/introducing-oxy/",
       "time": 1762139626.0,
       "comments_url": "https://news.ycombinator.com/item?id=45795511"
     },
     {
+      "title": "A turn lane in Rhododendron",
+      "score": 13,
+      "url": "https://www.greentape.pub/p/a-turn-lane-in-rhododendron",
+      "time": 1761505111.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45714336"
+    },
+    {
       "title": "Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it (2020)",
-      "score": 325,
+      "score": 357,
       "url": "https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html",
       "time": 1762117695.0,
       "comments_url": "https://news.ycombinator.com/item?id=45793466"
     },
     {
-      "title": "ECL Runs Maxima in a Browser",
-      "score": 50,
-      "url": "https://mailman3.common-lisp.net/hyperkitty/list/ecl-devel@common-lisp.net/thread/T64S5EMVV6WHDPKWZ3AQHEPO3EQE2K5M/",
-      "time": 1762150880.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45796351"
+      "title": "Writing an Asciidoc Parser in Rust: Asciidocr",
+      "score": 6,
+      "url": "https://www.bikesbooksandbullshit.com/bullshit/2025/01/08/writing-an-asciidoc-parser-in-rust.html",
+      "time": 1762050464.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45787403"
     },
     {
-      "title": "The Arduino Uno Q is a weird hybrid SBC",
-      "score": 49,
-      "url": "https://www.jeffgeerling.com/blog/2025/arduino-uno-q-weird-hybrid-sbc",
-      "time": 1761925761.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45773421"
+      "title": "I analyzed 180M jobs to see what jobs AI is replacing today",
+      "score": 44,
+      "url": "https://bloomberry.com/blog/i-analyzed-180m-jobs-to-see-what-jobs-ai-is-actually-replacing-today/",
+      "time": 1762174338.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45798489"
     },
     {
-      "title": "Using FreeBSD to make self-hosting fun again",
-      "score": 338,
-      "url": "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/",
-      "time": 1762081283.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45789424"
-    },
-    {
-      "title": "Recantha's Tiny Toolkit",
-      "score": 13,
-      "url": "https://tinytoolk.it/toolkits/recantha-kit/",
-      "time": 1761841915.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45761894"
-    },
-    {
-      "title": "Linux Tidbits and Collecting Pebbles",
-      "score": 19,
-      "url": "https://unixbhaskar.wordpress.com/2025/03/02/linux-tidbits-and-collecting-pebbles/",
-      "time": 1761733319.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45744885"
-    },
-    {
-      "title": "Nvidia to invest up to $1B in AI startup Poolside",
-      "score": 29,
-      "url": "https://www.reuters.com/business/nvidia-invest-up-1-billion-ai-startup-poolside-bloomberg-news-reports-2025-10-30/",
-      "time": 1762166831.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45797740"
-    },
-    {
-      "title": "When models manipulate manifolds: The geometry of a counting task",
-      "score": 70,
-      "url": "https://transformer-circuits.pub/2025/linebreaks/index.html",
-      "time": 1761717056.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45743105"
-    },
-    {
-      "title": "Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody",
-      "score": 151,
-      "url": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
-      "time": 1762116054.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45793244"
-    },
-    {
-      "title": "Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch",
-      "score": 327,
-      "url": "https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/",
-      "time": 1762083806.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45789602"
-    },
-    {
-      "title": "Syllabi – Open-source agentic AI with tools, RAG, and multi-channel deploy",
-      "score": 55,
-      "url": "https://www.syllabi-ai.com/",
-      "time": 1762135147.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45795186"
-    },
-    {
-      "title": "Why don't you use dependent types?",
-      "score": 238,
-      "url": "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html",
-      "time": 1762095996.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45790827"
-    },
-    {
-      "title": "Update and shut down no longer restarts PC, 25H2 patch addresses decades-old bug",
-      "score": 13,
-      "url": "https://www.windowslatest.com/2025/11/02/update-and-shut-down-no-longer-restarts-pc-as-windows-11-25h2-patch-addresses-a-decades-old-bug/",
-      "time": 1762168979.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45797934"
-    },
-    {
-      "title": "URLs are state containers",
-      "score": 439,
-      "url": "https://alfy.blog/2025/10/31/your-url-is-your-state.html",
-      "time": 1762081978.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45789474"
-    },
-    {
-      "title": "Show HN: Centia.io – Open PostgreSQL/PostGIS back end for developers",
-      "score": 8,
-      "url": "https://centia.io/",
-      "time": 1761390789.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45702931"
-    },
-    {
-      "title": "How the Mayans were able to accurately predict solar eclipses for centuries",
-      "score": 90,
-      "url": "https://phys.org/news/2025-10-mayans-accurately-solar-eclipses-centuries.html",
-      "time": 1761563719.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45719636"
-    },
-    {
-      "title": "Underdetermined Weaving with Machines (2021) [video]",
-      "score": 37,
-      "url": "https://www.youtube.com/watch?v=on_sK8KoObo",
-      "time": 1761359371.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45700932"
+      "title": "Skyfall-GS – Synthesizing Immersive 3D Urban Scenes from Satellite Imagery",
+      "score": 7,
+      "url": "https://skyfall-gs.jayinnn.dev/",
+      "time": 1762177579.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45798881"
     }
   ]
 }
