@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-03T19:57:18.928656-05:00",
+  "last_updated": "2025-11-03T22:38:06.684919-05:00",
   "papers": [
     {
       "title": "Continuous Autoregressive Language Models",
@@ -40,7 +40,7 @@
     {
       "title": "Interaction as Intelligence Part II: Asynchronous Human-Agent Rollout\n  for Long-Horizon Task Training",
       "summary": "Large Language Model (LLM) agents have recently shown strong potential in\ndomains such as automated coding, deep research, and graphical user interface\nmanipulation. However, training them to succeed on long-horizon,\ndomain-specialized tasks remains challenging. Current methods primarily fall\ninto two categories. The first relies on dense human annotations through\nbehavior cloning, which is prohibitively expensive for long-horizon tasks that\ncan take days or months. The second depends on outcome-driven sampling, which\noften collapses due to the rarity of valid positive trajectories on\ndomain-specialized tasks. We introduce Apollo, a sampling framework that\nintegrates asynchronous human guidance with action-level data filtering.\nInstead of requiring annotators to shadow every step, Apollo allows them to\nintervene only when the agent drifts from a promising trajectory, by providing\nprior knowledge, strategic advice, etc. This lightweight design makes it\npossible to sustain interactions for over 30 hours and produces valuable\ntrajectories at a lower cost. Apollo then applies supervision control to filter\nout sub-optimal actions and prevent error propagation. Together, these\ncomponents enable reliable and effective data collection in long-horizon\nenvironments. To demonstrate the effectiveness of Apollo, we evaluate it using\nInnovatorBench. Our experiments show that when applied to train the GLM-4.5\nmodel on InnovatorBench, Apollo achieves more than a 50% improvement over the\nuntrained baseline and a 28% improvement over a variant trained without human\ninteraction. These results highlight the critical role of human-in-the-loop\nsampling and the robustness of Apollo's design in handling long-horizon,\ndomain-specialized tasks.",
-      "url": "http://arxiv.org/abs/2510.27630v1",
+      "url": "http://arxiv.org/abs/2510.27630v2",
       "published_time_eastern_timestamp": 1761930022.0
     },
     {
@@ -52,7 +52,7 @@
     {
       "title": "InnovatorBench: Evaluating Agents' Ability to Conduct Innovative LLM\n  Research",
       "summary": "AI agents could accelerate scientific discovery by automating hypothesis\nformation, experiment design, coding, execution, and analysis, yet existing\nbenchmarks probe narrow skills in simplified settings. To address this gap, we\nintroduce InnovatorBench, a benchmark-platform pair for realistic, end-to-end\nassessment of agents performing Large Language Model (LLM) research. It\ncomprises 20 tasks spanning Data Construction, Filtering, Augmentation, Loss\nDesign, Reward Design, and Scaffold Construction, which require runnable\nartifacts and assessment of correctness, performance, output quality, and\nuncertainty. To support agent operation, we develop ResearchGym, a research\nenvironment offering rich action spaces, distributed and long-horizon\nexecution, asynchronous monitoring, and snapshot saving. We also implement a\nlightweight ReAct agent that couples explicit reasoning with executable\nplanning using frontier models such as Claude-4, GPT-5, GLM-4.5, and Kimi-K2.\nOur experiments demonstrate that while frontier models show promise in\ncode-driven research tasks, they struggle with fragile algorithm-related tasks\nand long-horizon decision making, such as impatience, poor resource management,\nand overreliance on template-based reasoning. Furthermore, agents require over\n11 hours to achieve their best performance on InnovatorBench, underscoring the\nbenchmark's difficulty and showing the potential of InnovatorBench to be the\nnext generation of code-based research benchmark.",
-      "url": "http://arxiv.org/abs/2510.27598v1",
+      "url": "http://arxiv.org/abs/2510.27598v2",
       "published_time_eastern_timestamp": 1761927743.0
     },
     {
@@ -64,7 +64,7 @@
     {
       "title": "Image Hashing via Cross-View Code Alignment in the Age of Foundation\n  Models",
       "summary": "Efficient large-scale retrieval requires representations that are both\ncompact and discriminative. Foundation models provide powerful visual and\nmultimodal embeddings, but nearest neighbor search in these high-dimensional\nspaces is computationally expensive. Hashing offers an efficient alternative by\nenabling fast Hamming distance search with binary codes, yet existing\napproaches often rely on complex pipelines, multi-term objectives, designs\nspecialized for a single learning paradigm, and long training times. We\nintroduce CroVCA (Cross-View Code Alignment), a simple and unified principle\nfor learning binary codes that remain consistent across semantically aligned\nviews. A single binary cross-entropy loss enforces alignment, while coding-rate\nmaximization serves as an anti-collapse regularizer to promote balanced and\ndiverse codes. To implement this, we design HashCoder, a lightweight MLP\nhashing network with a final batch normalization layer to enforce balanced\ncodes. HashCoder can be used as a probing head on frozen embeddings or to adapt\nencoders efficiently via LoRA fine-tuning. Across benchmarks, CroVCA achieves\nstate-of-the-art results in just 5 training epochs. At 16 bits, it particularly\nwell-for instance, unsupervised hashing on COCO completes in under 2 minutes\nand supervised hashing on ImageNet100 in about 3 minutes on a single GPU. These\nresults highlight CroVCA's efficiency, adaptability, and broad applicability.",
-      "url": "http://arxiv.org/abs/2510.27584v1",
+      "url": "http://arxiv.org/abs/2510.27584v2",
       "published_time_eastern_timestamp": 1761926926.0
     },
     {
