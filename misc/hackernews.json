@@ -1,82 +1,124 @@
 {
-  "last_updated": "2025-11-05T10:13:11.484377-05:00",
+  "last_updated": "2025-11-05T13:17:33.847614-05:00",
   "stories": [
     {
-      "title": "The Shadows Lurking in the Equations",
-      "score": 31,
+      "title": "The shadows lurking in the equations",
+      "score": 177,
       "url": "https://gods.art/articles/equation_shadows.html",
       "time": 1762352473.0,
       "comments_url": "https://news.ycombinator.com/item?id=45823141"
     },
     {
-      "title": "Removing XSLT for a more secure browser",
-      "score": 24,
-      "url": "https://developer.chrome.com/docs/web-platform/deprecating-xslt",
-      "time": 1762352063.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45823059"
+      "title": "Ruby and Its Neighbors: Smalltalk",
+      "score": 53,
+      "url": "https://noelrappin.com/blog/2025/11/ruby-and-its-neighbors-smalltalk/",
+      "time": 1762356275.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45823831"
     },
     {
       "title": "An eBPF Loophole: Using XDP for Egress Traffic",
-      "score": 68,
+      "score": 139,
       "url": "https://loopholelabs.io/blog/xdp-for-egress-traffic",
       "time": 1762273569.0,
       "comments_url": "https://news.ycombinator.com/item?id=45812756"
     },
     {
+      "title": "Learning from failure to tackle hard problems",
+      "score": 53,
+      "url": "https://blog.ml.cmu.edu/2025/10/27/learning-from-failure-to-tackle-extremely-hard-problems/",
+      "time": 1761848320.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45763262"
+    },
+    {
       "title": "A P2P Vision for QUIC (2024)",
-      "score": 11,
+      "score": 42,
       "url": "https://seemann.io/posts/2024-10-26---p2p-quic/",
       "time": 1762351582.0,
       "comments_url": "https://news.ycombinator.com/item?id=45822982"
     },
     {
-      "title": "Radiant Computer",
-      "score": 20,
-      "url": "https://radiant.computer",
-      "time": 1762348955.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45822559"
-    },
-    {
       "title": "Mr TIFF",
-      "score": 817,
+      "score": 896,
       "url": "https://inventingthefuture.ghost.io/mr-tiff/",
       "time": 1762297032.0,
       "comments_url": "https://news.ycombinator.com/item?id=45816853"
     },
     {
-      "title": "iOS 26.2 to allow third-party app stores in Japan ahead of regulatory deadline",
-      "score": 127,
-      "url": "https://www.macrumors.com/2025/11/05/ios-26-2-third-party-app-stores-japan/",
-      "time": 1762347104.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45822302"
-    },
-    {
       "title": "The grim truth behind the Pied Piper (2020)",
-      "score": 37,
+      "score": 61,
       "url": "https://www.bbc.com/travel/article/20200902-the-grim-truth-behind-the-pied-piper",
       "time": 1762345299.0,
       "comments_url": "https://news.ycombinator.com/item?id=45822071"
     },
     {
+      "title": "Norway reviews cybersecurity after remote-access feature found in Chinese buses",
+      "score": 68,
+      "url": "https://scandasia.com/norway-reviews-cybersecurity-after-hidden-remote-access-feature-found-in-chinese-buses/",
+      "time": 1762359481.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45824658"
+    },
+    {
+      "title": "iOS 26.2 to allow third-party app stores in Japan ahead of regulatory deadline",
+      "score": 235,
+      "url": "https://www.macrumors.com/2025/11/05/ios-26-2-third-party-app-stores-japan/",
+      "time": 1762347104.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45822302"
+    },
+    {
       "title": "SPy: An interpreter and compiler for a fast statically typed variant of Python",
-      "score": 142,
+      "score": 178,
       "url": "https://antocuni.eu/2025/10/29/inside-spy-part-1-motivations-and-goals/",
       "time": 1761840505.0,
       "comments_url": "https://news.ycombinator.com/item?id=45761594"
     },
     {
-      "title": "Carice TC2 – An fully analog electric car",
-      "score": 6,
+      "title": "Removing XSLT for a more secure browser",
+      "score": 104,
+      "url": "https://developer.chrome.com/docs/web-platform/deprecating-xslt",
+      "time": 1762352063.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45823059"
+    },
+    {
+      "title": "Carice TC2 – A non-digital electric car",
+      "score": 94,
       "url": "https://www.caricecars.com/",
       "time": 1762352736.0,
       "comments_url": "https://news.ycombinator.com/item?id=45823186"
     },
     {
-      "title": "Michael Burry is back with two bets against Nvidia and Palantir",
-      "score": 17,
-      "url": "https://www.cnn.com/2025/11/05/business/nvidia-palantir-michael-burry-stock",
-      "time": 1762353507.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45823313"
+      "title": "Ask HN: My family business runs on a 1993-era text-based-UI (TUI). Anybody else?",
+      "score": 132,
+      "url": "https://news.ycombinator.com/item?id=45823234",
+      "time": 1762352989.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45823234"
+    },
+    {
+      "title": "Radiant Computer",
+      "score": 116,
+      "url": "https://radiant.computer",
+      "time": 1762348955.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45822559"
+    },
+    {
+      "title": "Ex-FTC chair Lina Khan joins Mamdani's transition team",
+      "score": 9,
+      "url": "https://www.businessinsider.com/lina-khan-joins-zohran-mamdanis-transition-team-2025-11",
+      "time": 1762365690.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45825862"
+    },
+    {
+      "title": "Microsoft Can't Keep EU Data Safe from US Authorities",
+      "score": 119,
+      "url": "https://www.forbes.com/sites/emmawoollacott/2025/07/22/microsoft-cant-keep-eu-data-safe-from-us-authorities/",
+      "time": 1762351241.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45822902"
+    },
+    {
+      "title": "UPS plane crashes near Louisville airport",
+      "score": 309,
+      "url": "https://avherald.com/h?article=52f5748f&opt=0",
+      "time": 1762297853.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45816963"
     },
     {
       "title": "Founder in Residence at Woz (San Francisco)",
@@ -86,60 +128,18 @@
       "comments_url": "https://news.ycombinator.com/item?id=45821921"
     },
     {
-      "title": "Parsing Chemistry",
-      "score": 21,
-      "url": "https://re.factorcode.org/2025/10/parsing-chemistry.html",
-      "time": 1761329273.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45697414"
-    },
-    {
       "title": "RISC-V takes first step toward international ISO/IEC standardization",
-      "score": 201,
+      "score": 221,
       "url": "https://riscv.org/blog/risc-v-jtc1-pas-submitter/",
       "time": 1761831037.0,
       "comments_url": "https://news.ycombinator.com/item?id=45759839"
     },
     {
       "title": "Hypothesis: Property-Based Testing for Python",
-      "score": 169,
+      "score": 192,
       "url": "https://hypothesis.readthedocs.io/en/latest/",
       "time": 1762312537.0,
       "comments_url": "https://news.ycombinator.com/item?id=45818562"
-    },
-    {
-      "title": "UPS plane crashes near Louisville airport",
-      "score": 225,
-      "url": "https://avherald.com/h?article=52f5748f&opt=0",
-      "time": 1762297853.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45816963"
-    },
-    {
-      "title": "Asus Announces October Availability of ProArt Display 8K PA32KCX",
-      "score": 124,
-      "url": "https://press.asus.com/news/press-releases/asus-proart-display-8k-pa32kcx-availability/",
-      "time": 1761661024.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45733204"
-    },
-    {
-      "title": "Blue Prince (1989)",
-      "score": 14,
-      "url": "https://novalis.org/blog/2025-10-27-blue-prince-1989.html",
-      "time": 1761604728.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45727173"
-    },
-    {
-      "title": "Bluetui – A TUI for managing Bluetooth on Linux",
-      "score": 212,
-      "url": "https://github.com/pythops/bluetui",
-      "time": 1762298971.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45817114"
-    },
-    {
-      "title": "Kosmos: An AI Scientist for Autonomous Discovery",
-      "score": 9,
-      "url": "https://arxiv.org/abs/2511.02824",
-      "time": 1762353806.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45823358"
     }
   ]
 }
