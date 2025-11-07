@@ -1,82 +1,131 @@
 {
-  "last_updated": "2025-11-07T10:12:36.084541-05:00",
+  "last_updated": "2025-11-07T13:17:20.541601-05:00",
   "stories": [
     {
+      "title": "I Love OCaml",
+      "score": 156,
+      "url": "https://mccd.space/posts/ocaml-the-worlds-best/",
+      "time": 1762524349.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45846517"
+    },
+    {
+      "title": "Vodafone Germany is killing the open internet – one peering connection at a time",
+      "score": 29,
+      "url": "https://coffee.link/vodafone-germany-is-killing-the-open-internet-one-peering-connection-at-a-time/",
+      "time": 1762535106.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45848484"
+    },
+    {
+      "title": "Gmail AI gets more intrusive",
+      "score": 14,
+      "url": "https://daveverse.org/2025/11/07/gmail-ai-gets-even-more-intrusive/",
+      "time": 1762535221.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45848504"
+    },
+    {
       "title": "Leaving Meta and PyTorch",
-      "score": 469,
+      "score": 587,
       "url": "https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html",
       "time": 1762496090.0,
       "comments_url": "https://news.ycombinator.com/item?id=45843948"
     },
     {
+      "title": "Denmark's government aims to ban access to social media for children under 15",
+      "score": 107,
+      "url": "https://apnews.com/article/denmark-social-media-ban-children-7862d2a8cc590b4969c8931a01adc7f4",
+      "time": 1762532911.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45848083"
+    },
+    {
+      "title": "My Experience of building Bytebeat player in Zig",
+      "score": 37,
+      "url": "https://blog.karanjanthe.me/posts/zig-beat/",
+      "time": 1762254604.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45809649"
+    },
+    {
       "title": "A Fond Farewell",
-      "score": 368,
+      "score": 482,
       "url": "https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac",
       "time": 1762484492.0,
       "comments_url": "https://news.ycombinator.com/item?id=45843146"
     },
     {
-      "title": "OpenMW 0.50.0 Released – open-source Morrowind reimplementation",
-      "score": 66,
-      "url": "https://openmw.org/2025/openmw-0-50-0-released/",
-      "time": 1762521927.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45846090"
-    },
-    {
-      "title": "From Memorization to Reasoning in the Spectrum of Loss Curvature",
-      "score": 22,
-      "url": "https://arxiv.org/abs/2510.24256",
-      "time": 1762519429.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45845800"
-    },
-    {
-      "title": "I'm Making a Small RPG and I Need Feeback Regarding Performance",
-      "score": 23,
-      "url": "https://jslegenddev.substack.com/p/im-making-a-small-rpg-and-i-need",
-      "time": 1762523559.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45846360"
+      "title": "Toxic Salton Sea dust triggers changes in lung microbiome after just one week",
+      "score": 32,
+      "url": "https://phys.org/news/2025-10-toxic-salton-sea-triggers-lung.html",
+      "time": 1762534325.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45848341"
     },
     {
       "title": "PyTorch Helion",
-      "score": 52,
+      "score": 96,
       "url": "https://pytorch.org/blog/helion/",
       "time": 1762064497.0,
       "comments_url": "https://news.ycombinator.com/item?id=45788194"
     },
     {
-      "title": "Meta projected 10% of 2024 revenue came from scams",
-      "score": 190,
-      "url": "https://sherwood.news/tech/meta-projected-10-of-2024-revenue-came-from-scams-and-banned-goods-reuters/",
-      "time": 1762519194.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45845772"
+      "title": "OpenMW 0.50.0 Released – open-source Morrowind reimplementation",
+      "score": 177,
+      "url": "https://openmw.org/2025/openmw-0-50-0-released/",
+      "time": 1762521927.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45846090"
     },
     {
       "title": "You should write an agent",
-      "score": 834,
+      "score": 923,
       "url": "https://fly.io/blog/everyone-write-an-agent/",
       "time": 1762461426.0,
       "comments_url": "https://news.ycombinator.com/item?id=45840088"
     },
     {
-      "title": "1973 Implementation of Wordle Was Published by Dec (2022)",
-      "score": 22,
-      "url": "https://troypress.com/1973-implementation-of-wordle-was-published-by-dec/",
-      "time": 1761962217.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45778653"
+      "title": "Comparison Traits – Understanding Equality and Ordering in Rust",
+      "score": 30,
+      "url": "https://itsfoxstudio.substack.com/p/comparison-traits-understanding-equality",
+      "time": 1762077607.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45789143"
+    },
+    {
+      "title": "A.I. and Social Media Contribute to 'Brain Rot'",
+      "score": 95,
+      "url": "https://www.nytimes.com/2025/11/06/technology/personaltech/ai-social-media-brain-rot.html",
+      "time": 1762529673.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45847465"
+    },
+    {
+      "title": "From Memorization to Reasoning in the Spectrum of Loss Curvature",
+      "score": 37,
+      "url": "https://arxiv.org/abs/2510.24256",
+      "time": 1762519429.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45845800"
+    },
+    {
+      "title": "We chose OCaml to write Stategraph",
+      "score": 104,
+      "url": "https://stategraph.dev/blog/why-we-chose-ocaml",
+      "time": 1762521049.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45845958"
+    },
+    {
+      "title": "Meta projected 10% of 2024 revenue came from scams",
+      "score": 450,
+      "url": "https://sherwood.news/tech/meta-projected-10-of-2024-revenue-came-from-scams-and-banned-goods-reuters/",
+      "time": 1762519194.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45845772"
     },
     {
       "title": "Two billion email addresses were exposed",
-      "score": 529,
+      "score": 571,
       "url": "https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/",
       "time": 1762460423.0,
       "comments_url": "https://news.ycombinator.com/item?id=45839901"
     },
     {
-      "title": "Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model",
-      "score": 819,
-      "url": "https://moonshotai.github.io/Kimi-K2/thinking.html",
-      "time": 1762441566.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45836070"
+      "title": "1973 implementation of Wordle was published by DEC (2022)",
+      "score": 51,
+      "url": "https://troypress.com/1973-implementation-of-wordle-was-published-by-dec/",
+      "time": 1761962217.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45778653"
     },
     {
       "title": "Sweep (YC S23) is hiring to build autocomplete for JetBrains",
@@ -86,60 +135,11 @@
       "comments_url": "https://news.ycombinator.com/item?id=45845568"
     },
     {
-      "title": "Text case changes the size of QR codes",
-      "score": 98,
-      "url": "https://www.johndcook.com/blog/2025/10/31/smaller-qr-codes/",
-      "time": 1762040091.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45786490"
-    },
-    {
-      "title": "Comparison Traits – Understanding Equality and Ordering in Rust",
-      "score": 6,
-      "url": "https://itsfoxstudio.substack.com/p/comparison-traits-understanding-equality",
-      "time": 1762077607.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45789143"
-    },
-    {
-      "title": "Majority of teens hold negative views of news media, says report",
-      "score": 22,
-      "url": "https://www.niemanlab.org/2025/11/biased-boring-chaotic-and-bad-a-majority-of-teens-hold-negative-views-of-news-media-report-finds/",
-      "time": 1762511570.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45845147"
-    },
-    {
-      "title": "Show HN: I scraped 3B Goodreads reviews to train a better recommendation model",
-      "score": 479,
-      "url": "https://book.sv",
-      "time": 1762365045.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45825733"
-    },
-    {
-      "title": "The Silent Scientist: When Software Research Fails to Reach Its Audience",
-      "score": 50,
-      "url": "https://cacm.acm.org/opinion/the-silent-scientist-when-software-research-fails-to-reach-its-audience/",
-      "time": 1762008009.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45781965"
-    },
-    {
-      "title": "Game design is simple",
-      "score": 393,
-      "url": "https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/",
-      "time": 1762467863.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45841262"
-    },
-    {
-      "title": "We chose OCaml to write Stategraph",
-      "score": 55,
-      "url": "https://stategraph.dev/blog/why-we-chose-ocaml",
-      "time": 1762521049.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45845958"
-    },
-    {
-      "title": "Analysis indicates that the universe’s expansion is not accelerating",
-      "score": 211,
-      "url": "https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding",
-      "time": 1762461939.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45840200"
+      "title": "How to Keep Winning",
+      "score": 12,
+      "url": "https://amasad.me/keep-winning",
+      "time": 1762157629.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45796892"
     }
   ]
 }
