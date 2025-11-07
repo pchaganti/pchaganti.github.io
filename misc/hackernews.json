@@ -1,47 +1,82 @@
 {
-  "last_updated": "2025-11-07T07:23:27.311264-05:00",
+  "last_updated": "2025-11-07T10:12:36.084541-05:00",
   "stories": [
     {
       "title": "Leaving Meta and PyTorch",
-      "score": 355,
+      "score": 469,
       "url": "https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html",
       "time": 1762496090.0,
       "comments_url": "https://news.ycombinator.com/item?id=45843948"
     },
     {
       "title": "A Fond Farewell",
-      "score": 278,
+      "score": 368,
       "url": "https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac",
       "time": 1762484492.0,
       "comments_url": "https://news.ycombinator.com/item?id=45843146"
     },
     {
+      "title": "OpenMW 0.50.0 Released – open-source Morrowind reimplementation",
+      "score": 66,
+      "url": "https://openmw.org/2025/openmw-0-50-0-released/",
+      "time": 1762521927.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45846090"
+    },
+    {
+      "title": "From Memorization to Reasoning in the Spectrum of Loss Curvature",
+      "score": 22,
+      "url": "https://arxiv.org/abs/2510.24256",
+      "time": 1762519429.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45845800"
+    },
+    {
+      "title": "I'm Making a Small RPG and I Need Feeback Regarding Performance",
+      "score": 23,
+      "url": "https://jslegenddev.substack.com/p/im-making-a-small-rpg-and-i-need",
+      "time": 1762523559.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45846360"
+    },
+    {
+      "title": "PyTorch Helion",
+      "score": 52,
+      "url": "https://pytorch.org/blog/helion/",
+      "time": 1762064497.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45788194"
+    },
+    {
+      "title": "Meta projected 10% of 2024 revenue came from scams",
+      "score": 190,
+      "url": "https://sherwood.news/tech/meta-projected-10-of-2024-revenue-came-from-scams-and-banned-goods-reuters/",
+      "time": 1762519194.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45845772"
+    },
+    {
       "title": "You should write an agent",
-      "score": 747,
+      "score": 834,
       "url": "https://fly.io/blog/everyone-write-an-agent/",
       "time": 1762461426.0,
       "comments_url": "https://news.ycombinator.com/item?id=45840088"
     },
     {
+      "title": "1973 Implementation of Wordle Was Published by Dec (2022)",
+      "score": 22,
+      "url": "https://troypress.com/1973-implementation-of-wordle-was-published-by-dec/",
+      "time": 1761962217.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45778653"
+    },
+    {
       "title": "Two billion email addresses were exposed",
-      "score": 497,
+      "score": 529,
       "url": "https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/",
       "time": 1762460423.0,
       "comments_url": "https://news.ycombinator.com/item?id=45839901"
     },
     {
       "title": "Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model",
-      "score": 778,
+      "score": 819,
       "url": "https://moonshotai.github.io/Kimi-K2/thinking.html",
       "time": 1762441566.0,
       "comments_url": "https://news.ycombinator.com/item?id=45836070"
-    },
-    {
-      "title": "Text case changes the size of QR codes",
-      "score": 63,
-      "url": "https://www.johndcook.com/blog/2025/10/31/smaller-qr-codes/",
-      "time": 1762040091.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45786490"
     },
     {
       "title": "Sweep (YC S23) is hiring to build autocomplete for JetBrains",
@@ -51,95 +86,60 @@
       "comments_url": "https://news.ycombinator.com/item?id=45845568"
     },
     {
-      "title": "OpenTelemetry: Escape Hatch from the Observability Cartel",
-      "score": 21,
-      "url": "https://oneuptime.com/blog/post/2025-11-03-opentelemetry-escape-from-observability-cartel/view",
-      "time": 1762256530.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45809835"
+      "title": "Text case changes the size of QR codes",
+      "score": 98,
+      "url": "https://www.johndcook.com/blog/2025/10/31/smaller-qr-codes/",
+      "time": 1762040091.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45786490"
     },
     {
-      "title": "Game design is simple",
-      "score": 334,
-      "url": "https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/",
-      "time": 1762467863.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45841262"
+      "title": "Comparison Traits – Understanding Equality and Ordering in Rust",
+      "score": 6,
+      "url": "https://itsfoxstudio.substack.com/p/comparison-traits-understanding-equality",
+      "time": 1762077607.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45789143"
     },
     {
-      "title": "Lessons from Growing a Piracy Streaming Site",
-      "score": 157,
-      "url": "https://prison.josh.mn/lessons",
-      "time": 1762499370.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45844197"
-    },
-    {
-      "title": "The Silent Scientist: When Software Research Fails to Reach Its Audience",
-      "score": 31,
-      "url": "https://cacm.acm.org/opinion/the-silent-scientist-when-software-research-fails-to-reach-its-audience/",
-      "time": 1762008009.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45781965"
+      "title": "Majority of teens hold negative views of news media, says report",
+      "score": 22,
+      "url": "https://www.niemanlab.org/2025/11/biased-boring-chaotic-and-bad-a-majority-of-teens-hold-negative-views-of-news-media-report-finds/",
+      "time": 1762511570.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45845147"
     },
     {
       "title": "Show HN: I scraped 3B Goodreads reviews to train a better recommendation model",
-      "score": 430,
+      "score": 479,
       "url": "https://book.sv",
       "time": 1762365045.0,
       "comments_url": "https://news.ycombinator.com/item?id=45825733"
     },
     {
-      "title": "A Note on Fil-C",
-      "score": 194,
-      "url": "https://graydon2.dreamwidth.org/320265.html",
-      "time": 1762477198.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45842494"
+      "title": "The Silent Scientist: When Software Research Fails to Reach Its Audience",
+      "score": 50,
+      "url": "https://cacm.acm.org/opinion/the-silent-scientist-when-software-research-fails-to-reach-its-audience/",
+      "time": 1762008009.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45781965"
     },
     {
-      "title": "Cryptography 101 with Alfred Menezes",
-      "score": 54,
-      "url": "https://cryptography101.ca",
-      "time": 1762179126.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45799109"
+      "title": "Game design is simple",
+      "score": 393,
+      "url": "https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/",
+      "time": 1762467863.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45841262"
+    },
+    {
+      "title": "We chose OCaml to write Stategraph",
+      "score": 55,
+      "url": "https://stategraph.dev/blog/why-we-chose-ocaml",
+      "time": 1762521049.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45845958"
     },
     {
       "title": "Analysis indicates that the universe’s expansion is not accelerating",
-      "score": 193,
+      "score": 211,
       "url": "https://ras.ac.uk/news-and-press/research-highlights/universes-expansion-now-slowing-not-speeding",
       "time": 1762461939.0,
       "comments_url": "https://news.ycombinator.com/item?id=45840200"
-    },
-    {
-      "title": "We built a cloud GPU notebook that boots in seconds",
-      "score": 48,
-      "url": "https://modal.com/blog/notebooks-internals",
-      "time": 1762131041.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45794824"
-    },
-    {
-      "title": "From web developer to database developer in 10 years",
-      "score": 85,
-      "url": "https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html",
-      "time": 1762246969.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45808863"
-    },
-    {
-      "title": "Open Source Implementation of Apple's Private Compute Cloud",
-      "score": 406,
-      "url": "https://github.com/openpcc/openpcc",
-      "time": 1762357947.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45824243"
-    },
-    {
-      "title": "PyTorch Helion",
-      "score": 3,
-      "url": "https://pytorch.org/blog/helion/",
-      "time": 1762064497.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45788194"
-    },
-    {
-      "title": "JermCAD: Browser-Based CAD Software",
-      "score": 29,
-      "url": "https://github.com/jeremyaboyd/jerm-cad",
-      "time": 1762490320.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45843603"
     }
   ]
 }
