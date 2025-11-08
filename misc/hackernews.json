@@ -1,47 +1,75 @@
 {
-  "last_updated": "2025-11-08T07:20:52.000988-05:00",
+  "last_updated": "2025-11-08T10:10:45.261422-05:00",
   "stories": [
     {
+      "title": "Why is Zig so cool?",
+      "score": 408,
+      "url": "https://nilostolte.github.io/tech/articles/ZigCool.html",
+      "time": 1762556679.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45852328"
+    },
+    {
+      "title": "Why hasn't there been a new major sports league?",
+      "score": 10,
+      "url": "https://humaninvariant.substack.com/p/why-hasnt-there-been-a-new-major",
+      "time": 1762608990.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45856563"
+    },
+    {
       "title": "My friends and I accidentally faked the Ryzen 7 9700X3D leaks",
-      "score": 38,
+      "score": 177,
       "url": "https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/",
       "time": 1762601276.0,
       "comments_url": "https://news.ycombinator.com/item?id=45855933"
     },
     {
-      "title": "Valdi – A cross-platform UI framework",
-      "score": 320,
+      "title": "Valdi – A cross-platform UI framework that delivers native performance",
+      "score": 366,
       "url": "https://github.com/Snapchat/Valdi",
       "time": 1762560890.0,
       "comments_url": "https://news.ycombinator.com/item?id=45852854"
     },
     {
       "title": "Making Democracy Work: Fixing and Simplifying Egalitarian Paxos",
-      "score": 53,
+      "score": 82,
       "url": "https://arxiv.org/abs/2511.02743",
       "time": 1762586975.0,
       "comments_url": "https://news.ycombinator.com/item?id=45854862"
     },
     {
-      "title": "Why is Zig so cool?",
-      "score": 366,
-      "url": "https://nilostolte.github.io/tech/articles/ZigCool.html",
-      "time": 1762556679.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45852328"
+      "title": "AI benchmarks are a bad joke – and LLM makers are the ones laughing",
+      "score": 24,
+      "url": "https://www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/",
+      "time": 1762611502.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45856804"
     },
     {
-      "title": "Friendly Attributes Pattern in Ruby",
-      "score": 32,
+      "title": "Friendly attributes pattern in Ruby",
+      "score": 58,
       "url": "https://brunosutic.com/blog/ruby-friendly-attributes-pattern",
       "time": 1762110124.0,
       "comments_url": "https://news.ycombinator.com/item?id=45792555"
     },
     {
-      "title": "Becoming a Compiler Engineer",
-      "score": 241,
-      "url": "https://rona.substack.com/p/becoming-a-compiler-engineer",
-      "time": 1762551903.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45851495"
+      "title": "Dark mode by local sunlight (2021)",
+      "score": 19,
+      "url": "https://www.ctnicholas.dev/articles/dark-mode-by-sunlight",
+      "time": 1762182912.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45799949"
+    },
+    {
+      "title": "Reverse engineering a neural network's clever solution to binary addition (2023)",
+      "score": 29,
+      "url": "https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/",
+      "time": 1762240966.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45808288"
+    },
+    {
+      "title": "Myna: Monospace typeface designed for symbol-heavy programming languages",
+      "score": 310,
+      "url": "https://github.com/sayyadirfanali/Myna",
+      "time": 1762540056.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45849342"
     },
     {
       "title": "Cekura (YC F24) Is Hiring",
@@ -51,95 +79,67 @@
       "comments_url": "https://news.ycombinator.com/item?id=45856069"
     },
     {
-      "title": "Myna: Monospace typeface designed for symbol-heavy programming languages",
-      "score": 287,
-      "url": "https://github.com/sayyadirfanali/Myna",
-      "time": 1762540056.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45849342"
-    },
-    {
       "title": "Immutable Software Deploys Using ZFS Jails on FreeBSD",
-      "score": 94,
+      "score": 114,
       "url": "https://conradresearch.com/articles/immutable-software-deploy-zfs-jails",
       "time": 1762561305.0,
       "comments_url": "https://news.ycombinator.com/item?id=45852895"
     },
     {
-      "title": "How to find your ideal customer, right away",
-      "score": 53,
+      "title": "The Initial Ideal Customer Profile Worksheet",
+      "score": 66,
       "url": "https://www.reifyworks.com/writing/2023-01-30-iicp",
       "time": 1762190832.0,
       "comments_url": "https://news.ycombinator.com/item?id=45801651"
     },
     {
       "title": "How did I get here?",
-      "score": 234,
+      "score": 246,
       "url": "https://how-did-i-get-here.net/",
       "time": 1762545669.0,
       "comments_url": "https://news.ycombinator.com/item?id=45850382"
     },
     {
       "title": "Why I love OCaml (2023)",
-      "score": 337,
+      "score": 349,
       "url": "https://mccd.space/posts/ocaml-the-worlds-best/",
       "time": 1762524349.0,
       "comments_url": "https://news.ycombinator.com/item?id=45846517"
     },
     {
-      "title": "Ruby Solved My Problem",
-      "score": 230,
+      "title": "Mullvad: Shutting down our search proxy Leta",
+      "score": 142,
+      "url": "https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta",
+      "time": 1762562256.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45852974"
+    },
+    {
+      "title": "Things I've Heard Boomers Say That I Agree with 100%",
+      "score": 16,
+      "url": "https://wildingout.substack.com/p/12-things-ive-heard-boomers-say-that",
+      "time": 1762609721.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45856640"
+    },
+    {
+      "title": "Computational Complexity of Air Travel Planning (2003) [pdf]",
+      "score": 9,
+      "url": "http://www.ai.mit.edu/courses/6.034f/psets/ps1/airtravel.pdf",
+      "time": 1762256011.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45809782"
+    },
+    {
+      "title": "Ruby already solved my problem",
+      "score": 237,
       "url": "https://newsletter.masilotti.com/p/ruby-already-solved-my-problem",
       "time": 1762541135.0,
       "comments_url": "https://news.ycombinator.com/item?id=45849528"
     },
     {
-      "title": "Local First Htmx",
-      "score": 54,
-      "url": "https://elijahm.com/posts/local_first_htmx/",
-      "time": 1762568868.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45853536"
-    },
-    {
-      "title": "Running a 68060 CPU in Quadra 650",
-      "score": 49,
-      "url": "https://github.com/ZigZagJoe/Macintosh-Q650-68060",
-      "time": 1762564692.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45853204"
-    },
-    {
-      "title": "Copy button added to Stack Overflow",
-      "score": 9,
-      "url": "https://meta.stackexchange.com/questions/414573/results-of-the-october-2025-community-asks-sprint-copy-button-for-code-blocks",
-      "time": 1762601704.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45855955"
-    },
-    {
-      "title": "A rats to riches story: Larry the Downing Street cat finds place in TV spotlight",
-      "score": 17,
-      "url": "https://www.theguardian.com/politics/2025/nov/08/a-rats-to-riches-story-larry-the-downing-street-cat-finds-place-in-tv-spotlight",
-      "time": 1762595889.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45855546"
-    },
-    {
-      "title": "YouTube Removes Windows 11 Bypass Tutorials, Claims 'Risk of Physical Harm'",
-      "score": 666,
-      "url": "https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/",
-      "time": 1762548640.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45850963"
-    },
-    {
-      "title": "Reverse Engineering a Neural Network's Clever Solution to Binary Addition (2023)",
-      "score": 7,
-      "url": "https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/",
-      "time": 1762240966.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45808288"
-    },
-    {
-      "title": "Apple's \"notarisation\" – blocking software freedom of developers and users",
-      "score": 130,
-      "url": "https://fsfe.org/news/2025/news-20251105-01.en.html",
-      "time": 1762580228.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45854441"
+      "title": "Cerebras Code now supports GLM 4.6 at 1000 tokens/sec",
+      "score": 118,
+      "url": "https://www.cerebras.ai/code",
+      "time": 1762560027.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45852751"
     }
   ]
 }
