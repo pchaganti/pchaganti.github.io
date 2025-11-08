@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-11-08T04:11:06.302073-05:00",
+  "last_updated": "2025-11-08T07:20:52.000988-05:00",
   "stories": [
     {
-      "title": "Why is Zig so cool?",
-      "score": 322,
-      "url": "https://nilostolte.github.io/tech/articles/ZigCool.html",
-      "time": 1762556679.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45852328"
+      "title": "My friends and I accidentally faked the Ryzen 7 9700X3D leaks",
+      "score": 38,
+      "url": "https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/",
+      "time": 1762601276.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45855933"
     },
     {
-      "title": "Snapchat open-sources Valdi a cross-platform UI framework",
-      "score": 240,
+      "title": "Valdi – A cross-platform UI framework",
+      "score": 320,
       "url": "https://github.com/Snapchat/Valdi",
       "time": 1762560890.0,
       "comments_url": "https://news.ycombinator.com/item?id=45852854"
     },
     {
-      "title": "Becoming a Compiler Engineer",
-      "score": 211,
-      "url": "https://rona.substack.com/p/becoming-a-compiler-engineer",
-      "time": 1762551903.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45851495"
-    },
-    {
-      "title": "Myna: Monospace typeface designed for symbol-heavy programming languages",
-      "score": 260,
-      "url": "https://github.com/sayyadirfanali/Myna",
-      "time": 1762540056.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45849342"
-    },
-    {
-      "title": "Friendly Attributes Pattern in Ruby",
-      "score": 12,
-      "url": "https://brunosutic.com/blog/ruby-friendly-attributes-pattern",
-      "time": 1762110124.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45792555"
-    },
-    {
       "title": "Making Democracy Work: Fixing and Simplifying Egalitarian Paxos",
-      "score": 5,
+      "score": 53,
       "url": "https://arxiv.org/abs/2511.02743",
       "time": 1762586975.0,
       "comments_url": "https://news.ycombinator.com/item?id=45854862"
     },
     {
-      "title": "How to find your ideal customer, right away",
-      "score": 29,
-      "url": "https://www.reifyworks.com/writing/2023-01-30-iicp",
-      "time": 1762190832.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45801651"
+      "title": "Why is Zig so cool?",
+      "score": 366,
+      "url": "https://nilostolte.github.io/tech/articles/ZigCool.html",
+      "time": 1762556679.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45852328"
+    },
+    {
+      "title": "Friendly Attributes Pattern in Ruby",
+      "score": 32,
+      "url": "https://brunosutic.com/blog/ruby-friendly-attributes-pattern",
+      "time": 1762110124.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45792555"
+    },
+    {
+      "title": "Becoming a Compiler Engineer",
+      "score": 241,
+      "url": "https://rona.substack.com/p/becoming-a-compiler-engineer",
+      "time": 1762551903.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45851495"
+    },
+    {
+      "title": "Cekura (YC F24) Is Hiring",
+      "score": 1,
+      "url": "https://news.ycombinator.com/item?id=45856069",
+      "time": 1762603250.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45856069"
+    },
+    {
+      "title": "Myna: Monospace typeface designed for symbol-heavy programming languages",
+      "score": 287,
+      "url": "https://github.com/sayyadirfanali/Myna",
+      "time": 1762540056.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45849342"
     },
     {
       "title": "Immutable Software Deploys Using ZFS Jails on FreeBSD",
-      "score": 70,
+      "score": 94,
       "url": "https://conradresearch.com/articles/immutable-software-deploy-zfs-jails",
       "time": 1762561305.0,
       "comments_url": "https://news.ycombinator.com/item?id=45852895"
     },
     {
+      "title": "How to find your ideal customer, right away",
+      "score": 53,
+      "url": "https://www.reifyworks.com/writing/2023-01-30-iicp",
+      "time": 1762190832.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45801651"
+    },
+    {
       "title": "How did I get here?",
-      "score": 204,
+      "score": 234,
       "url": "https://how-did-i-get-here.net/",
       "time": 1762545669.0,
       "comments_url": "https://news.ycombinator.com/item?id=45850382"
     },
     {
       "title": "Why I love OCaml (2023)",
-      "score": 323,
+      "score": 337,
       "url": "https://mccd.space/posts/ocaml-the-worlds-best/",
       "time": 1762524349.0,
       "comments_url": "https://news.ycombinator.com/item?id=45846517"
     },
     {
       "title": "Ruby Solved My Problem",
-      "score": 219,
+      "score": 230,
       "url": "https://newsletter.masilotti.com/p/ruby-already-solved-my-problem",
       "time": 1762541135.0,
       "comments_url": "https://news.ycombinator.com/item?id=45849528"
     },
     {
       "title": "Local First Htmx",
-      "score": 36,
+      "score": 54,
       "url": "https://elijahm.com/posts/local_first_htmx/",
       "time": 1762568868.0,
       "comments_url": "https://news.ycombinator.com/item?id=45853536"
     },
     {
       "title": "Running a 68060 CPU in Quadra 650",
-      "score": 39,
+      "score": 49,
       "url": "https://github.com/ZigZagJoe/Macintosh-Q650-68060",
       "time": 1762564692.0,
       "comments_url": "https://news.ycombinator.com/item?id=45853204"
     },
     {
+      "title": "Copy button added to Stack Overflow",
+      "score": 9,
+      "url": "https://meta.stackexchange.com/questions/414573/results-of-the-october-2025-community-asks-sprint-copy-button-for-code-blocks",
+      "time": 1762601704.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45855955"
+    },
+    {
+      "title": "A rats to riches story: Larry the Downing Street cat finds place in TV spotlight",
+      "score": 17,
+      "url": "https://www.theguardian.com/politics/2025/nov/08/a-rats-to-riches-story-larry-the-downing-street-cat-finds-place-in-tv-spotlight",
+      "time": 1762595889.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45855546"
+    },
+    {
       "title": "YouTube Removes Windows 11 Bypass Tutorials, Claims 'Risk of Physical Harm'",
-      "score": 592,
+      "score": 666,
       "url": "https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/",
       "time": 1762548640.0,
       "comments_url": "https://news.ycombinator.com/item?id=45850963"
     },
     {
-      "title": "FSF40 Hackathon",
-      "score": 79,
-      "url": "https://www.fsf.org/events/fsf40-hackathon",
-      "time": 1762153874.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45796575"
-    },
-    {
-      "title": "Venn Diagram for 7 Sets",
-      "score": 125,
-      "url": "https://moebio.com/research/sevensets/",
-      "time": 1762248477.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45809007"
+      "title": "Reverse Engineering a Neural Network's Clever Solution to Binary Addition (2023)",
+      "score": 7,
+      "url": "https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/",
+      "time": 1762240966.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45808288"
     },
     {
       "title": "Apple's \"notarisation\" – blocking software freedom of developers and users",
-      "score": 56,
+      "score": 130,
       "url": "https://fsfe.org/news/2025/news-20251105-01.en.html",
       "time": 1762580228.0,
       "comments_url": "https://news.ycombinator.com/item?id=45854441"
-    },
-    {
-      "title": "How a devboard works (and how to make your own)",
-      "score": 71,
-      "url": "https://kaipereira.com/journal/build-a-devboard",
-      "time": 1762554928.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45852029"
-    },
-    {
-      "title": "Angel Investors, a Field Guide",
-      "score": 139,
-      "url": "https://www.jeanyang.com/posts/angel-investors-a-field-guide/",
-      "time": 1762535010.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45848468"
-    },
-    {
-      "title": "Transducer: Composition, abstraction, performance (2018)",
-      "score": 95,
-      "url": "https://funktionale-programmierung.de/en/2018/03/22/transducer.html",
-      "time": 1762252346.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45809429"
     }
   ]
 }
