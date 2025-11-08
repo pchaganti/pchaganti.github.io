@@ -1,117 +1,138 @@
 {
-  "last_updated": "2025-11-08T13:15:22.639911-05:00",
+  "last_updated": "2025-11-08T16:09:20.163839-05:00",
   "stories": [
     {
+      "title": "I want you to understand Chicago",
+      "score": 45,
+      "url": "https://aphyr.com/posts",
+      "time": 1762634948.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45859840"
+    },
+    {
+      "title": "Marko – A declarative, HTML‑based language that makes building web apps fun",
+      "score": 79,
+      "url": "https://markojs.com/",
+      "time": 1762627435.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45858905"
+    },
+    {
+      "title": "WriterdeckOS",
+      "score": 44,
+      "url": "https://writerdeckos.com",
+      "time": 1762627787.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45858945"
+    },
+    {
+      "title": "Transparent computer monitor designed to protect your vision",
+      "score": 30,
+      "url": "https://www.visualinstruments.co/phantom/display",
+      "time": 1762629076.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45859107"
+    },
+    {
       "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
-      "score": 32,
+      "score": 78,
       "url": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
       "time": 1762619141.0,
       "comments_url": "https://news.ycombinator.com/item?id=45857836"
     },
     {
-      "title": "Btop: A better modern alternative of htop with a gamified interface",
-      "score": 118,
-      "url": "https://github.com/aristocratos/btop",
-      "time": 1762613451.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45856987"
+      "title": "Avería: The Average Font (2011)",
+      "score": 22,
+      "url": "http://iotic.com/averia/",
+      "time": 1762630184.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45859243"
     },
     {
       "title": "An Algebraic Language for the Manipulation of Symbolic Expressions (1958) [pdf]",
-      "score": 30,
+      "score": 59,
       "url": "https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf",
       "time": 1762613883.0,
       "comments_url": "https://news.ycombinator.com/item?id=45857045"
     },
     {
-      "title": "AI benchmarks are a bad joke – and LLM makers are the ones laughing",
-      "score": 155,
-      "url": "https://www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/",
-      "time": 1762611502.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45856804"
-    },
-    {
-      "title": "C++ move semantics from scratch (2022)",
-      "score": 27,
-      "url": "https://cbarrete.com/move-from-scratch.html",
-      "time": 1762179377.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45799157"
-    },
-    {
-      "title": "Why is Zig so cool?",
-      "score": 443,
-      "url": "https://nilostolte.github.io/tech/articles/ZigCool.html",
-      "time": 1762556679.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45852328"
-    },
-    {
-      "title": "Valdi – A cross-platform UI framework that delivers native performance",
-      "score": 406,
-      "url": "https://github.com/Snapchat/Valdi",
-      "time": 1762560890.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45852854"
-    },
-    {
-      "title": "Ticker: Don't Die of Heart Disease",
-      "score": 174,
-      "url": "https://myticker.com/",
-      "time": 1762613945.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45857053"
-    },
-    {
-      "title": "52 Year old data tape could contain Unix history",
-      "score": 40,
-      "url": "https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/",
-      "time": 1762618334.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45857695"
-    },
-    {
-      "title": "Making Democracy Work: Fixing and Simplifying Egalitarian Paxos",
-      "score": 114,
-      "url": "https://arxiv.org/abs/2511.02743",
-      "time": 1762586975.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45854862"
-    },
-    {
-      "title": "Friendly attributes pattern in Ruby",
-      "score": 83,
-      "url": "https://brunosutic.com/blog/ruby-friendly-attributes-pattern",
-      "time": 1762110124.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45792555"
+      "title": "Facebook enables gender discrimination in job ads, European human rights rules",
+      "score": 33,
+      "url": "https://www.cnn.com/2025/02/28/tech/facebook-gender-discrimination-europe-ruling-asequals-intl",
+      "time": 1762629498.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45859160"
     },
     {
       "title": "Syntax and Semantics of Programming Languages",
-      "score": 6,
+      "score": 33,
       "url": "https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/",
       "time": 1762012931.0,
       "comments_url": "https://news.ycombinator.com/item?id=45782713"
     },
     {
-      "title": "My friends and I accidentally faked the Ryzen 7 9700X3D leaks",
-      "score": 225,
-      "url": "https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/",
-      "time": 1762601276.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45855933"
+      "title": "AI benchmarks are a bad joke – and LLM makers are the ones laughing",
+      "score": 239,
+      "url": "https://www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/",
+      "time": 1762611502.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45856804"
     },
     {
-      "title": "Computational Complexity of Air Travel Planning (2003) [pdf]",
+      "title": "Valdi – A cross-platform UI framework that delivers native performance",
+      "score": 437,
+      "url": "https://github.com/Snapchat/Valdi",
+      "time": 1762560890.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45852854"
+    },
+    {
+      "title": "Why is Zig so cool?",
+      "score": 463,
+      "url": "https://nilostolte.github.io/tech/articles/ZigCool.html",
+      "time": 1762556679.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45852328"
+    },
+    {
+      "title": "My first fifteen compilers (2019)",
+      "score": 8,
+      "url": "https://blog.sigplan.org/2019/07/09/my-first-fifteen-compilers/",
+      "time": 1761942610.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45776368"
+    },
+    {
+      "title": "Near mid-air collision at LAX between American Airlines and ITA [video]",
+      "score": 39,
+      "url": "https://www.youtube.com/watch?v=-j76cp7bETw",
+      "time": 1762629985.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45859216"
+    },
+    {
+      "title": "52 Year old data tape could contain Unix history",
+      "score": 105,
+      "url": "https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/",
+      "time": 1762618334.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45857695"
+    },
+    {
+      "title": "The modern homes hidden inside ancient ruins",
       "score": 33,
-      "url": "http://www.ai.mit.edu/courses/6.034f/psets/ps1/airtravel.pdf",
-      "time": 1762256011.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45809782"
+      "url": "https://www.ft.com/content/5f722a2e-71d8-430c-a476-95de2c4ad9a5",
+      "time": 1762114807.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45793060"
     },
     {
-      "title": "Myna: Monospace typeface designed for symbol-heavy programming languages",
-      "score": 331,
-      "url": "https://github.com/sayyadirfanali/Myna",
-      "time": 1762540056.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45849342"
+      "title": "Making Democracy Work: Fixing and Simplifying Egalitarian Paxos",
+      "score": 136,
+      "url": "https://arxiv.org/abs/2511.02743",
+      "time": 1762586975.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45854862"
     },
     {
-      "title": "Reverse engineering a neural network's clever solution to binary addition (2023)",
-      "score": 45,
-      "url": "https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/",
-      "time": 1762240966.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45808288"
+      "title": "Ticker: Don't die of heart disease",
+      "score": 260,
+      "url": "https://myticker.com/",
+      "time": 1762613945.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45857053"
+    },
+    {
+      "title": "Btop: A better modern alternative of htop with a gamified interface",
+      "score": 170,
+      "url": "https://github.com/aristocratos/btop",
+      "time": 1762613451.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45856987"
     },
     {
       "title": "Cekura (YC F24) Is Hiring",
@@ -119,27 +140,6 @@
       "url": "https://news.ycombinator.com/item?id=45856069",
       "time": 1762603250.0,
       "comments_url": "https://news.ycombinator.com/item?id=45856069"
-    },
-    {
-      "title": "Immutable Software Deploys Using ZFS Jails on FreeBSD",
-      "score": 136,
-      "url": "https://conradresearch.com/articles/immutable-software-deploy-zfs-jails",
-      "time": 1762561305.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45852895"
-    },
-    {
-      "title": "How did I get here?",
-      "score": 267,
-      "url": "https://how-did-i-get-here.net/",
-      "time": 1762545669.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45850382"
-    },
-    {
-      "title": "Dark mode by local sunlight (2021)",
-      "score": 28,
-      "url": "https://www.ctnicholas.dev/articles/dark-mode-by-sunlight",
-      "time": 1762182912.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45799949"
     }
   ]
 }
