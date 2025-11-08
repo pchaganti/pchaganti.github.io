@@ -1,75 +1,117 @@
 {
-  "last_updated": "2025-11-08T10:10:45.261422-05:00",
+  "last_updated": "2025-11-08T13:15:22.639911-05:00",
   "stories": [
     {
-      "title": "Why is Zig so cool?",
-      "score": 408,
-      "url": "https://nilostolte.github.io/tech/articles/ZigCool.html",
-      "time": 1762556679.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45852328"
+      "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
+      "score": 32,
+      "url": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
+      "time": 1762619141.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45857836"
     },
     {
-      "title": "Why hasn't there been a new major sports league?",
-      "score": 10,
-      "url": "https://humaninvariant.substack.com/p/why-hasnt-there-been-a-new-major",
-      "time": 1762608990.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45856563"
+      "title": "Btop: A better modern alternative of htop with a gamified interface",
+      "score": 118,
+      "url": "https://github.com/aristocratos/btop",
+      "time": 1762613451.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45856987"
     },
     {
-      "title": "My friends and I accidentally faked the Ryzen 7 9700X3D leaks",
-      "score": 177,
-      "url": "https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/",
-      "time": 1762601276.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45855933"
-    },
-    {
-      "title": "Valdi – A cross-platform UI framework that delivers native performance",
-      "score": 366,
-      "url": "https://github.com/Snapchat/Valdi",
-      "time": 1762560890.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45852854"
-    },
-    {
-      "title": "Making Democracy Work: Fixing and Simplifying Egalitarian Paxos",
-      "score": 82,
-      "url": "https://arxiv.org/abs/2511.02743",
-      "time": 1762586975.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45854862"
+      "title": "An Algebraic Language for the Manipulation of Symbolic Expressions (1958) [pdf]",
+      "score": 30,
+      "url": "https://softwarepreservation.computerhistory.org/LISP/MIT/AIM-001.pdf",
+      "time": 1762613883.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45857045"
     },
     {
       "title": "AI benchmarks are a bad joke – and LLM makers are the ones laughing",
-      "score": 24,
+      "score": 155,
       "url": "https://www.theregister.com/2025/11/07/measuring_ai_models_hampered_by/",
       "time": 1762611502.0,
       "comments_url": "https://news.ycombinator.com/item?id=45856804"
     },
     {
+      "title": "C++ move semantics from scratch (2022)",
+      "score": 27,
+      "url": "https://cbarrete.com/move-from-scratch.html",
+      "time": 1762179377.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45799157"
+    },
+    {
+      "title": "Why is Zig so cool?",
+      "score": 443,
+      "url": "https://nilostolte.github.io/tech/articles/ZigCool.html",
+      "time": 1762556679.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45852328"
+    },
+    {
+      "title": "Valdi – A cross-platform UI framework that delivers native performance",
+      "score": 406,
+      "url": "https://github.com/Snapchat/Valdi",
+      "time": 1762560890.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45852854"
+    },
+    {
+      "title": "Ticker: Don't Die of Heart Disease",
+      "score": 174,
+      "url": "https://myticker.com/",
+      "time": 1762613945.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45857053"
+    },
+    {
+      "title": "52 Year old data tape could contain Unix history",
+      "score": 40,
+      "url": "https://www.theregister.com/2025/11/07/unix_fourth_edition_tape_rediscovered/",
+      "time": 1762618334.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45857695"
+    },
+    {
+      "title": "Making Democracy Work: Fixing and Simplifying Egalitarian Paxos",
+      "score": 114,
+      "url": "https://arxiv.org/abs/2511.02743",
+      "time": 1762586975.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45854862"
+    },
+    {
       "title": "Friendly attributes pattern in Ruby",
-      "score": 58,
+      "score": 83,
       "url": "https://brunosutic.com/blog/ruby-friendly-attributes-pattern",
       "time": 1762110124.0,
       "comments_url": "https://news.ycombinator.com/item?id=45792555"
     },
     {
-      "title": "Dark mode by local sunlight (2021)",
-      "score": 19,
-      "url": "https://www.ctnicholas.dev/articles/dark-mode-by-sunlight",
-      "time": 1762182912.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45799949"
+      "title": "Syntax and Semantics of Programming Languages",
+      "score": 6,
+      "url": "https://homepage.cs.uiowa.edu/~slonnegr/plf/Book/",
+      "time": 1762012931.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45782713"
     },
     {
-      "title": "Reverse engineering a neural network's clever solution to binary addition (2023)",
-      "score": 29,
-      "url": "https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/",
-      "time": 1762240966.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45808288"
+      "title": "My friends and I accidentally faked the Ryzen 7 9700X3D leaks",
+      "score": 225,
+      "url": "https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/",
+      "time": 1762601276.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45855933"
+    },
+    {
+      "title": "Computational Complexity of Air Travel Planning (2003) [pdf]",
+      "score": 33,
+      "url": "http://www.ai.mit.edu/courses/6.034f/psets/ps1/airtravel.pdf",
+      "time": 1762256011.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45809782"
     },
     {
       "title": "Myna: Monospace typeface designed for symbol-heavy programming languages",
-      "score": 310,
+      "score": 331,
       "url": "https://github.com/sayyadirfanali/Myna",
       "time": 1762540056.0,
       "comments_url": "https://news.ycombinator.com/item?id=45849342"
+    },
+    {
+      "title": "Reverse engineering a neural network's clever solution to binary addition (2023)",
+      "score": 45,
+      "url": "https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/",
+      "time": 1762240966.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45808288"
     },
     {
       "title": "Cekura (YC F24) Is Hiring",
@@ -80,66 +122,24 @@
     },
     {
       "title": "Immutable Software Deploys Using ZFS Jails on FreeBSD",
-      "score": 114,
+      "score": 136,
       "url": "https://conradresearch.com/articles/immutable-software-deploy-zfs-jails",
       "time": 1762561305.0,
       "comments_url": "https://news.ycombinator.com/item?id=45852895"
     },
     {
-      "title": "The Initial Ideal Customer Profile Worksheet",
-      "score": 66,
-      "url": "https://www.reifyworks.com/writing/2023-01-30-iicp",
-      "time": 1762190832.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45801651"
-    },
-    {
       "title": "How did I get here?",
-      "score": 246,
+      "score": 267,
       "url": "https://how-did-i-get-here.net/",
       "time": 1762545669.0,
       "comments_url": "https://news.ycombinator.com/item?id=45850382"
     },
     {
-      "title": "Why I love OCaml (2023)",
-      "score": 349,
-      "url": "https://mccd.space/posts/ocaml-the-worlds-best/",
-      "time": 1762524349.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45846517"
-    },
-    {
-      "title": "Mullvad: Shutting down our search proxy Leta",
-      "score": 142,
-      "url": "https://mullvad.net/en/blog/shutting-down-our-search-proxy-leta",
-      "time": 1762562256.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45852974"
-    },
-    {
-      "title": "Things I've Heard Boomers Say That I Agree with 100%",
-      "score": 16,
-      "url": "https://wildingout.substack.com/p/12-things-ive-heard-boomers-say-that",
-      "time": 1762609721.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45856640"
-    },
-    {
-      "title": "Computational Complexity of Air Travel Planning (2003) [pdf]",
-      "score": 9,
-      "url": "http://www.ai.mit.edu/courses/6.034f/psets/ps1/airtravel.pdf",
-      "time": 1762256011.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45809782"
-    },
-    {
-      "title": "Ruby already solved my problem",
-      "score": 237,
-      "url": "https://newsletter.masilotti.com/p/ruby-already-solved-my-problem",
-      "time": 1762541135.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45849528"
-    },
-    {
-      "title": "Cerebras Code now supports GLM 4.6 at 1000 tokens/sec",
-      "score": 118,
-      "url": "https://www.cerebras.ai/code",
-      "time": 1762560027.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45852751"
+      "title": "Dark mode by local sunlight (2021)",
+      "score": 28,
+      "url": "https://www.ctnicholas.dev/articles/dark-mode-by-sunlight",
+      "time": 1762182912.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45799949"
     }
   ]
 }
