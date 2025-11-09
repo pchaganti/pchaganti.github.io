@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-09T10:10:44.966501-05:00",
+  "last_updated": "2025-11-09T13:15:28.255747-05:00",
   "papers": [
     {
       "title": "Tracking and Understanding Object Transformations",
@@ -90,36 +90,6 @@
       "summary": "As Large Language Models (LLMs) become integral to human-centered\napplications, understanding their personality-like behaviors is increasingly\nimportant for responsible development and deployment. This paper systematically\nevaluates six LLMs, applying the Big Five Inventory-2 (BFI-2) framework, to\nassess trait expressions under varying sampling temperatures. We find\nsignificant differences across four of the five personality dimensions, with\nNeuroticism and Extraversion susceptible to temperature adjustments. Further,\nhierarchical clustering reveals distinct model clusters, suggesting that\narchitectural features may predispose certain models toward stable trait\nprofiles. Taken together, these results offer new insights into the emergence\nof personality-like patterns in LLMs and provide a new perspective on model\ntuning, selection, and the ethical governance of AI systems. We share the data\nand code for this analysis here:\nhttps://osf.io/bsvzc/?view_only=6672219bede24b4e875097426dc3fac1",
       "url": "http://arxiv.org/abs/2511.04499v1",
       "published_time_eastern_timestamp": 1762446052.0
-    },
-    {
-      "title": "OUNLP at TSAR 2025 Shared Task: Multi-Round Text Simplifier via Code\n  Generation",
-      "summary": "This paper describes the OUNLP system submitted to the TSAR-2025 Shared Task\n(Alva-Manchego et al., 2025), designed for readability-controlled text\nsimplification using LLM-prompting-based generation. Based on the analysis of\nprompt-based text simplification methods, we discovered an interesting finding\nthat text simplification performance is highly related to the gap between the\nsource CEFR (Arase et al., 2022) level and the target CEFR level. Inspired by\nthis finding, we propose two multi-round simplification methods and generate\nthem via GPT-4o: rule-based simplification (MRS-Rule) and jointly rule-based\nLLM simplification (MRS-Joint). Our submitted systems ranked 7 out of 20 teams.\nLater improvements with MRS-Joint show that taking the LLM simplified\ncandidates as the starting point could further boost the multi-round\nsimplification performance.",
-      "url": "http://arxiv.org/abs/2511.04495v1",
-      "published_time_eastern_timestamp": 1762445792.0
-    },
-    {
-      "title": "Scalable Domain-decomposed Monte Carlo Neutral Transport for Nuclear\n  Fusion",
-      "summary": "EIRENE [1] is a Monte Carlo neutral transport solver heavily used in the\nfusion community. EIRENE does not implement domain decomposition, making it\nimpossible to use for simulations where the grid data does not fit on one\ncompute node (see e.g. [2]). This paper presents a domain-decomposed Monte\nCarlo (DDMC) algorithm implemented in a new open source Monte Carlo code,\nEiron. Two parallel algorithms currently used in EIRENE are also implemented in\nEiron, and the three algorithms are compared by running strong scaling tests,\nwith DDMC performing better than the other two algorithms in nearly all cases.\nOn the supercomputer Mahti [3], DDMC strong scaling is superlinear for grids\nthat do not fit into an L3 cache slice (4 MiB). The DDMC algorithm is also\nscaled up to 16384 cores in weak scaling tests, with a weak scaling efficiency\nof 45% in a high-collisional (heavier compute load) case, and 26% in a\nlow-collisional (lighter compute load) case. We conclude that implementing this\ndomain decomposition algorithm in EIRENE would improve performance and enable\nsimulations that are currently impossible due to memory constraints.",
-      "url": "http://arxiv.org/abs/2511.04489v1",
-      "published_time_eastern_timestamp": 1762445304.0
-    },
-    {
-      "title": "EDIT-Bench: Evaluating LLM Abilities to Perform Real-World Instructed\n  Code Edits",
-      "summary": "Instructed code editing, where LLMs directly modify a developer's existing\ncode based on a user instruction, is becoming a widely used interaction mode in\nAI coding assistants. However, few benchmarks directly evaluate this capability\nand current datasets often rely on artificial sources. We introduce EDIT-Bench,\na benchmark for evaluating LLM code editing capabilities grounded in real-world\nusage, i.e., user instructions and code contexts collected in the wild.\nEDIT-Bench comprises of 545 problems, multiple natural and programming\nlanguages, and a diverse set of real-world use cases, ranging from resolving\nerrors to adding features. EDIT-Bench introduces context-dependent problems\nthat require the model to understand code context, highlighted code, and cursor\nposition in addition to the user instruction. We evaluate 40 diverse LLMs and\nobserve that EDIT-Bench is a challenging set of problems where only 5 models\nscore over 60%. We find that model performance varies across different\ncategories of user instructions. Further, we find that varying levels of\ncontextual information greatly affect task success rate, with performance\nvarying up to 11%, indicating the importance of evaluating with realistic\ncontext.",
-      "url": "http://arxiv.org/abs/2511.04486v1",
-      "published_time_eastern_timestamp": 1762445128.0
-    },
-    {
-      "title": "Launch-Day Diffusion: Tracking Hacker News Impact on GitHub Stars for AI\n  Tools",
-      "summary": "Social news platforms have become key launch outlets for open-source\nprojects, especially Hacker News (HN), though quantifying their immediate\nimpact remains challenging. This paper presents a reproducible demonstration\nsystem that tracks how HN exposure translates into GitHub star growth for AI\nand LLM tools. Built entirely on public APIs, our pipeline analyzes 138\nrepository launches from 2024-2025 and reveals substantial launch effects:\nrepositories gain an average of 121 stars within 24 hours, 189 stars within 48\nhours, and 289 stars within a week of HN exposure. Through machine learning\nmodels (Elastic Net) and non-linear approaches (Gradient Boosting), we identify\nkey predictors of viral growth. Posting timing appears as key factor--launching\nat optimal hours can mean hundreds of additional stars--while the \"Show HN\" tag\nshows no statistical advantage after controlling for other factors. The\ndemonstration completes in under five minutes on standard hardware,\nautomatically collecting data, training models, and generating visualizations\nthrough single-file scripts. This makes our findings immediately reproducible\nand the framework easily be extended to other platforms, providing both\nresearchers and developers with actionable insights into launch dynamics.",
-      "url": "http://arxiv.org/abs/2511.04453v1",
-      "published_time_eastern_timestamp": 1762442630.0
-    },
-    {
-      "title": "The Peril of Preference: Why GRPO fails on Ordinal Rewards",
-      "summary": "Group-relative Policy Optimization's (GRPO) simplicity makes it highly\ndesirable for adapting LLMs to become experts at specific tasks. But this\nsimplicity also makes it ill-specified as we seek to enhance RL training with\nricher, non-binary feedback. When using ordinal rewards to give partial credit,\nGRPO's simplicity starts to hurt, as its group-average baseline often assigns a\npositive advantage to failed trajectories and reinforces incorrect behavior.\n  We introduce Correctness Relative Policy Optimization (CoRPO), a new\nformulation that solves this flaw. CoRPO uses an adaptive baseline that\nenforces a minimum quality threshold, ensuring failed solutions are never\npositively reinforced. Once the policy consistently meets this threshold, the\nbaseline automatically transitions to a relative preference mode, pushing the\nmodel to find optimal solutions rather than just \"acceptable\" ones. We\nempirically validate CoRPO on a code verification task, where it demonstrates\nmore stable convergence and better out-of-domain generalization.\n  This work represents a critical step in our broader research program to\nenable LLMs to learn genuinely new capabilities through reinforcement learning.\nWe achieve this by enabling LLMs to learn from rich, multi-dimensional feedback\n- progressing from binary to ordinal rewards in this work, and onward to\ndenser, per-step supervision.",
-      "url": "http://arxiv.org/abs/2511.04439v1",
-      "published_time_eastern_timestamp": 1762441970.0
     }
   ]
 }
