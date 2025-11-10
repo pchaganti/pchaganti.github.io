@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-11-10T01:20:06.184782-05:00",
+  "last_updated": "2025-11-10T04:15:18.816634-05:00",
   "stories": [
     {
+      "title": "XSLT RIP",
+      "score": 141,
+      "url": "https://xslt.rip/",
+      "time": 1762760376.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45873434"
+    },
+    {
+      "title": "Realtime BART Arrival Display",
+      "score": 72,
+      "url": "https://filbot.com/real-time-bart-display/",
+      "time": 1762757080.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45873113"
+    },
+    {
+      "title": "Beets: The music geek's media organizer",
+      "score": 33,
+      "url": "https://beets.io/",
+      "time": 1762756194.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45873037"
+    },
+    {
       "title": "Marble Fountain",
-      "score": 607,
+      "score": 683,
       "url": "https://willmorrison.net/posts/marble-fountain/",
       "time": 1762705569.0,
       "comments_url": "https://news.ycombinator.com/item?id=45866697"
     },
     {
       "title": "Ask HN: What Are You Working On? (Nov 2025)",
-      "score": 189,
+      "score": 248,
       "url": "https://news.ycombinator.com/item?id=45869146",
       "time": 1762722153.0,
       "comments_url": "https://news.ycombinator.com/item?id=45869146"
     },
     {
+      "title": "How the UK lost its shipbuilding industry",
+      "score": 83,
+      "url": "https://www.construction-physics.com/p/how-the-uk-lost-its-shipbuilding",
+      "time": 1762737838.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45871141"
+    },
+    {
       "title": "Montana becomes first state to enshrine 'right to compute' into law",
-      "score": 400,
+      "score": 435,
       "url": "https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/",
       "time": 1762693416.0,
       "comments_url": "https://news.ycombinator.com/item?id=45865289"
     },
     {
-      "title": "Drilling down on Uncle Sam's proposed TP-Link ban",
-      "score": 167,
-      "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
-      "time": 1762712264.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45867717"
+      "title": "DEC64: Decimal Floating Point (2020)",
+      "score": 27,
+      "url": "https://www.crockford.com/dec64.html",
+      "time": 1762039925.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45786475"
     },
     {
       "title": "Building a 2.5kWh battery from disposable vapes to power my workshop [video]",
-      "score": 163,
+      "score": 196,
       "url": "https://www.youtube.com/watch?v=dy-wFixuRVU",
       "time": 1762199490.0,
       "comments_url": "https://news.ycombinator.com/item?id=45803601"
     },
     {
-      "title": "LLM policy?",
-      "score": 134,
-      "url": "https://github.com/opencontainers/runc/issues/4990",
-      "time": 1762740659.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45871531"
+      "title": "Drilling down on Uncle Sam's proposed TP-Link ban",
+      "score": 194,
+      "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
+      "time": 1762712264.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45867717"
+    },
+    {
+      "title": "The Linux Kernel Looks to \"Bite the Bullet\" in Enabling Microsoft C Extensions",
+      "score": 23,
+      "url": "https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext",
+      "time": 1762762171.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45873625"
     },
     {
       "title": "Itiner-e: the Google Maps of Roman Roads",
-      "score": 56,
+      "score": 85,
       "url": "https://itiner-e.org/",
       "time": 1762681564.0,
       "comments_url": "https://news.ycombinator.com/item?id=45864341"
     },
     {
       "title": "JVM exceptions are weird: a decompiler perspective",
-      "score": 101,
+      "score": 123,
       "url": "https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/",
       "time": 1762247303.0,
       "comments_url": "https://news.ycombinator.com/item?id=45808899"
     },
     {
-      "title": "Show HN: DroidDock – A sleek macOS app for browsing Android device files via ADB",
-      "score": 51,
-      "url": "https://rajivm1991.github.io/DroidDock/",
-      "time": 1762735893.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45870925"
-    },
-    {
-      "title": "The Manuscripts of Edsger W. Dijkstra",
-      "score": 205,
-      "url": "https://www.cs.utexas.edu/~EWD/",
-      "time": 1762702062.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45866224"
-    },
-    {
-      "title": "The Principles of Diffusion Models",
-      "score": 164,
-      "url": "https://arxiv.org/abs/2510.21890",
-      "time": 1762704623.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45866572"
-    },
-    {
-      "title": "Today I Learned: Binfmt_misc",
-      "score": 29,
-      "url": "https://dfir.ch/posts/today_i_learned_binfmt_misc/",
-      "time": 1762206598.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45804870"
-    },
-    {
-      "title": "Former Nintendo employees reveal what it took to launch the NES",
-      "score": 108,
-      "url": "https://hanafuda.report/articles/former-nintendo-employees-reveal-what-it-took-to-launch-the-nes-in-america/",
-      "time": 1762201193.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45803904"
-    },
-    {
-      "title": "Sued by Nintendo",
-      "score": 128,
-      "url": "https://www.suedbynintendo.com/",
-      "time": 1762733591.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45870675"
-    },
-    {
-      "title": "Bumble Berry Pi – A Cheap DIY Raspberry Pi Handheld Cyberdeck",
-      "score": 125,
-      "url": "https://github.com/samcervantes/bumble-berry-pi",
-      "time": 1762706084.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45866772"
-    },
-    {
-      "title": "The Sega Master System",
-      "score": 77,
-      "url": "https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/",
-      "time": 1762715721.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45868259"
-    },
-    {
-      "title": "Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology",
-      "score": 141,
-      "url": "https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/",
-      "time": 1762692275.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45865159"
+      "title": "EU takes aim at plastic pellets to prevent their nightmare cleanup",
+      "score": 17,
+      "url": "https://www.yahoo.com/news/articles/eu-takes-aim-plastic-pellets-030314496.html",
+      "time": 1762763247.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45873756"
     },
     {
       "title": "A brief history of Time Machine (2024)",
-      "score": 3,
+      "score": 18,
       "url": "https://eclecticlight.co/2024/09/07/a-brief-history-of-time-machine/",
       "time": 1762203900.0,
       "comments_url": "https://news.ycombinator.com/item?id=45804416"
     },
     {
-      "title": "Work after work: Notes from an unemployed new grad watching the job market break",
-      "score": 291,
-      "url": "https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/",
-      "time": 1762735439.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45870863"
+      "title": "Today I Learned: Binfmt_misc",
+      "score": 56,
+      "url": "https://dfir.ch/posts/today_i_learned_binfmt_misc/",
+      "time": 1762206598.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45804870"
     },
     {
-      "title": "Email verification protocol",
-      "score": 153,
-      "url": "https://github.com/WICG/email-verification-protocol",
-      "time": 1762009496.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45782192"
+      "title": "The Manuscripts of Edsger W. Dijkstra",
+      "score": 219,
+      "url": "https://www.cs.utexas.edu/~EWD/",
+      "time": 1762702062.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45866224"
+    },
+    {
+      "title": "BBC director general and News CEO resign in bias controversy",
+      "score": 12,
+      "url": "https://www.bbc.co.uk/news/live/cd9kqz1yyxkt",
+      "time": 1762763129.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45873738"
+    },
+    {
+      "title": "Lee Felsenstein",
+      "score": 15,
+      "url": "https://en.wikipedia.org/wiki/Lee_Felsenstein",
+      "time": 1762220211.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45806606"
+    },
+    {
+      "title": "What If Java Had Symmetric Converter Methods on Collection?",
+      "score": 3,
+      "url": "https://donraab.medium.com/what-if-java-had-symmetric-converter-methods-on-collection-cbb824885c3f",
+      "time": 1762241861.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45808383"
     }
   ]
 }
