@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-10T22:41:23.226189-05:00",
+  "last_updated": "2025-11-11T01:19:13.733932-05:00",
   "papers": [
     {
       "title": "DigiData: Training and Evaluating General-Purpose Mobile Control Agents",
@@ -90,6 +90,36 @@
       "summary": "The exponential growth of AI agents and connected devices fundamentally\ntransforms the structure and capacity demands of global digital infrastructure.\nThis paper introduces a unified forecasting model that projects AI agent\npopulations to increase by more than 100 times between 2026 and 2036+, reaching\ntrillions of instances globally. In parallel, bandwidth demand is expected to\nsurge from 1 EB/day in 2026 to over 8,000 EB/day by 2036, which is an increase\nof 8000 times in a single decade. Through this growth model, we identify\ncritical bottleneck domains across access networks, edge gateways,\ninterconnection exchanges, and cloud infrastructures. Simulations reveal that\nedge and peering systems will experience saturation as early as 2030, with more\nthan 70% utilization of projected maximum capacity by 2033. To address these\nconstraints, we propose a coevolutionary shift in compute-network design,\nemphasizing distributed inference, AI-native traffic engineering, and\nintent-aware orchestration. Security, scalability, and coordination challenges\nare examined with a focus on sustaining intelligent connectivity throughout the\nnext digital decade.",
       "url": "http://arxiv.org/abs/2511.07265v1",
       "published_time_eastern_timestamp": 1762790989.0
+    },
+    {
+      "title": "AgenticSciML: Collaborative Multi-Agent Systems for Emergent Discovery\n  in Scientific Machine Learning",
+      "summary": "Scientific Machine Learning (SciML) integrates data-driven inference with\nphysical modeling to solve complex problems in science and engineering.\nHowever, the design of SciML architectures, loss formulations, and training\nstrategies remains an expert-driven research process, requiring extensive\nexperimentation and problem-specific insights. Here we introduce AgenticSciML,\na collaborative multi-agent system in which over 10 specialized AI agents\ncollaborate to propose, critique, and refine SciML solutions through structured\nreasoning and iterative evolution. The framework integrates structured debate,\nretrieval-augmented method memory, and ensemble-guided evolutionary search,\nenabling the agents to generate and assess new hypotheses about architectures\nand optimization procedures. Across physics-informed learning and operator\nlearning tasks, the framework discovers solution methods that outperform\nsingle-agent and human-designed baselines by up to four orders of magnitude in\nerror reduction. The agents produce novel strategies -- including adaptive\nmixture-of-expert architectures, decomposition-based PINNs, and\nphysics-informed operator learning models -- that do not appear explicitly in\nthe curated knowledge base. These results show that collaborative reasoning\namong AI agents can yield emergent methodological innovation, suggesting a path\ntoward scalable, transparent, and autonomous discovery in scientific computing.",
+      "url": "http://arxiv.org/abs/2511.07262v1",
+      "published_time_eastern_timestamp": 1762790793.0
+    },
+    {
+      "title": "PADiff: Predictive and Adaptive Diffusion Policies for Ad Hoc Teamwork",
+      "summary": "Ad hoc teamwork (AHT) requires agents to collaborate with previously unseen\nteammates, which is crucial for many real-world applications. The core\nchallenge of AHT is to develop an ego agent that can predict and adapt to\nunknown teammates on the fly. Conventional RL-based approaches optimize a\nsingle expected return, which often causes policies to collapse into a single\ndominant behavior, thus failing to capture the multimodal cooperation patterns\ninherent in AHT. In this work, we introduce PADiff, a diffusion-based approach\nthat captures agent's multimodal behaviors, unlocking its diverse cooperation\nmodes with teammates. However, standard diffusion models lack the ability to\npredict and adapt in highly non-stationary AHT scenarios. To address this\nlimitation, we propose a novel diffusion-based policy that integrates critical\npredictive information about teammates into the denoising process. Extensive\nexperiments across three cooperation environments demonstrate that PADiff\noutperforms existing AHT methods significantly.",
+      "url": "http://arxiv.org/abs/2511.07260v1",
+      "published_time_eastern_timestamp": 1762790740.0
+    },
+    {
+      "title": "Bridging the Prototype-Production Gap: A Multi-Agent System for\n  Notebooks Transformation",
+      "summary": "The increasing adoption of Jupyter notebooks in data science and machine\nlearning workflows has created a gap between exploratory code development and\nproduction-ready software systems. While notebooks excel at iterative\ndevelopment and visualization, they often lack proper software engineering\nprinciples, making their transition to production environments challenging.\nThis paper presents Codelevate, a novel multi-agent system that automatically\ntransforms Jupyter notebooks into well-structured, maintainable Python code\nrepositories. Our system employs three specialized agents - Architect,\nDeveloper, and Structure - working in concert through a shared dependency tree\nto ensure architectural coherence and code quality. Our experimental results\nvalidate Codelevate's capability to bridge the prototype-to-production gap\nthrough autonomous code transformation, yielding quantifiable improvements in\ncode quality metrics while preserving computational semantics.",
+      "url": "http://arxiv.org/abs/2511.07257v1",
+      "published_time_eastern_timestamp": 1762790710.0
+    },
+    {
+      "title": "Discourse Graph Guided Document Translation with Large Language Models",
+      "summary": "Adapting large language models to full document translation remains\nchallenging due to the difficulty of capturing long-range dependencies and\npreserving discourse coherence throughout extended texts. While recent agentic\nmachine translation systems mitigate context window constraints through\nmulti-agent orchestration and persistent memory, they require substantial\ncomputational resources and are sensitive to memory retrieval strategies. We\nintroduce TransGraph, a discourse-guided framework that explicitly models\ninter-chunk relationships through structured discourse graphs and selectively\nconditions each translation segment on relevant graph neighbourhoods rather\nthan relying on sequential or exhaustive context. Across three document-level\nMT benchmarks spanning six languages and diverse domains, TransGraph\nconsistently surpasses strong baselines in translation quality and terminology\nconsistency while incurring significantly lower token overhead.",
+      "url": "http://arxiv.org/abs/2511.07230v1",
+      "published_time_eastern_timestamp": 1762789681.0
+    },
+    {
+      "title": "Evaluating Online Moderation Via LLM-Powered Counterfactual Simulations",
+      "summary": "Online Social Networks (OSNs) widely adopt content moderation to mitigate the\nspread of abusive and toxic discourse. Nonetheless, the real effectiveness of\nmoderation interventions remains unclear due to the high cost of data\ncollection and limited experimental control. The latest developments in Natural\nLanguage Processing pave the way for a new evaluation approach. Large Language\nModels (LLMs) can be successfully leveraged to enhance Agent-Based Modeling and\nsimulate human-like social behavior with unprecedented degree of believability.\nYet, existing tools do not support simulation-based evaluation of moderation\nstrategies. We fill this gap by designing a LLM-powered simulator of OSN\nconversations enabling a parallel, counterfactual simulation where toxic\nbehavior is influenced by moderation interventions, keeping all else equal. We\nconduct extensive experiments, unveiling the psychological realism of OSN\nagents, the emergence of social contagion phenomena and the superior\neffectiveness of personalized moderation strategies.",
+      "url": "http://arxiv.org/abs/2511.07204v1",
+      "published_time_eastern_timestamp": 1762788719.0
     }
   ]
 }
