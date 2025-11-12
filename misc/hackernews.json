@@ -1,96 +1,117 @@
 {
-  "last_updated": "2025-11-11T19:58:24.226192-05:00",
+  "last_updated": "2025-11-11T22:40:23.293567-05:00",
   "stories": [
     {
-      "title": "I can build enterprise software but I can't charge for it",
-      "score": 84,
-      "url": "https://gist.github.com/EchenD/8b211ebfa4941d2c5df7b526790b31aa",
-      "time": 1762905488.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45894569"
-    },
-    {
       "title": "X5.1 solar flare, G4 geomagnetic storm watch",
-      "score": 134,
+      "score": 204,
       "url": "https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html",
       "time": 1762895906.0,
       "comments_url": "https://news.ycombinator.com/item?id=45893004"
     },
     {
-      "title": ".NET MAUI Is Coming to Linux and the Browser, Powered by Avalonia",
-      "score": 62,
+      "title": ".NET MAUI is coming to Linux and the browser, powered by Avalonia",
+      "score": 105,
       "url": "https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia",
       "time": 1762901432.0,
       "comments_url": "https://news.ycombinator.com/item?id=45893986"
     },
     {
       "title": "I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours",
-      "score": 89,
+      "score": 140,
       "url": "https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/",
       "time": 1762896319.0,
       "comments_url": "https://news.ycombinator.com/item?id=45893095"
     },
     {
-      "title": "Why Nietzsche Matters in the Age of Artificial Intelligence",
-      "score": 16,
-      "url": "https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/",
-      "time": 1762905589.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45894588"
-    },
-    {
       "title": "Laptops adorned with creative stickers",
-      "score": 139,
+      "score": 209,
       "url": "https://stickertop.art/main/",
       "time": 1762084732.0,
       "comments_url": "https://news.ycombinator.com/item?id=45789674"
     },
     {
       "title": "Four strange places to see London's Roman Wall",
-      "score": 49,
+      "score": 82,
       "url": "https://diamondgeezer.blogspot.com/2025/11/odd-places-to-see-londons-roman-wall.html",
       "time": 1762900301.0,
       "comments_url": "https://news.ycombinator.com/item?id=45893795"
     },
     {
-      "title": "Heroku Support for .NET 10",
-      "score": 22,
-      "url": "https://www.heroku.com/blog/support-for-dotnet-10-lts-what-developers-need-know/",
-      "time": 1762899497.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45893646"
-    },
-    {
-      "title": "A modern 35mm film scanner for home",
-      "score": 120,
-      "url": "https://www.soke.engineering/",
-      "time": 1762890499.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45891907"
+      "title": "Why Nietzsche Matters in the Age of Artificial Intelligence",
+      "score": 56,
+      "url": "https://cacm.acm.org/blogcacm/why-nietzsche-matters-in-the-age-of-artificial-intelligence/",
+      "time": 1762905589.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45894588"
     },
     {
       "title": "The terminal of the future",
-      "score": 91,
+      "score": 131,
       "url": "https://jyn.dev/the-terminal-of-the-future",
       "time": 1762891893.0,
       "comments_url": "https://news.ycombinator.com/item?id=45892191"
     },
     {
+      "title": "Heroku Support for .NET 10",
+      "score": 43,
+      "url": "https://www.heroku.com/blog/support-for-dotnet-10-lts-what-developers-need-know/",
+      "time": 1762899497.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45893646"
+    },
+    {
+      "title": "The history of Casio watches",
+      "score": 170,
+      "url": "https://www.casio.com/us/watches/50th/Heritage/1970s/",
+      "time": 1762640200.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45860552"
+    },
+    {
+      "title": "A modern 35mm film scanner for home",
+      "score": 156,
+      "url": "https://www.soke.engineering/",
+      "time": 1762890499.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45891907"
+    },
+    {
+      "title": "Pikaday: A friendly guide to front-end date pickers",
+      "score": 144,
+      "url": "https://pikaday.dbushell.com",
+      "time": 1762873127.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45887957"
+    },
+    {
+      "title": "My fan worked fine, so I gave it WiFi",
+      "score": 134,
+      "url": "https://ellis.codes/blog/my-fan-worked-fine-so-i-gave-it-wi-fi/",
+      "time": 1762391063.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45830178"
+    },
+    {
       "title": "A catalog of side effects",
-      "score": 67,
+      "score": 78,
       "url": "https://bernsteinbear.com/blog/compiler-effects/",
       "time": 1762890289.0,
       "comments_url": "https://news.ycombinator.com/item?id=45891868"
     },
     {
-      "title": "Who Still Uses Cash?",
-      "score": 23,
-      "url": "https://www.voronoiapp.com/economy/Who-Still-Uses-Cash-7090",
-      "time": 1762902400.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45894145"
+      "title": "FFmpeg to Google: Fund us or stop sending bugs",
+      "score": 600,
+      "url": "https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/",
+      "time": 1762885931.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45891016"
     },
     {
-      "title": "Collaboration sucks",
-      "score": 274,
-      "url": "https://newsletter.posthog.com/p/collaboration-sucks",
-      "time": 1762892858.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45892394"
+      "title": "Scaling HNSWs",
+      "score": 157,
+      "url": "https://antirez.com/news/156",
+      "time": 1762870309.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45887466"
+    },
+    {
+      "title": "We ran over 600 image generations to compare AI image models",
+      "score": 122,
+      "url": "https://latenitesoft.com/blog/evaluating-frontier-ai-image-generation-models/",
+      "time": 1762882014.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45890186"
     },
     {
       "title": "Meticulous (YC S21) is hiring to redefine software dev",
@@ -100,46 +121,25 @@
       "comments_url": "https://news.ycombinator.com/item?id=45892773"
     },
     {
-      "title": "The history of Casio watches",
-      "score": 147,
-      "url": "https://www.casio.com/us/watches/50th/Heritage/1970s/",
-      "time": 1762640200.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45860552"
+      "title": "Collaboration sucks",
+      "score": 323,
+      "url": "https://newsletter.posthog.com/p/collaboration-sucks",
+      "time": 1762892858.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45892394"
     },
     {
-      "title": "Pikaday: A friendly guide to front-end date pickers",
-      "score": 120,
-      "url": "https://pikaday.dbushell.com",
-      "time": 1762873127.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45887957"
+      "title": "Modern Optimizers – An Alchemist's Notes on Deep Learning",
+      "score": 16,
+      "url": "https://notes.kvfrans.com/7-misc/modern-optimizers.html",
+      "time": 1762495689.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45843927"
     },
     {
-      "title": "Scaling HNSWs",
-      "score": 143,
-      "url": "https://antirez.com/news/156",
-      "time": 1762870309.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45887466"
-    },
-    {
-      "title": "Learning to Model the World with Language",
-      "score": 5,
-      "url": "https://dynalang.github.io/",
-      "time": 1762472859.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45841998"
-    },
-    {
-      "title": "FFmpeg to Google: Fund us or stop sending bugs",
-      "score": 460,
-      "url": "https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/",
-      "time": 1762885931.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45891016"
-    },
-    {
-      "title": "My fan worked fine, so I gave it WiFi",
-      "score": 101,
-      "url": "https://ellis.codes/blog/my-fan-worked-fine-so-i-gave-it-wi-fi/",
-      "time": 1762391063.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45830178"
+      "title": "The AI Localhost",
+      "score": 3,
+      "url": "https://getairbook.notion.site/The-AI-Localhost-2a1d4a82803d802a8753ffbcfa985664?source=copy_link",
+      "time": 1762239656.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45808149"
     }
   ]
 }
