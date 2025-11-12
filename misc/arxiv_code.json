@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-12T01:18:58.584681-05:00",
+  "last_updated": "2025-11-12T04:14:29.770423-05:00",
   "papers": [
     {
       "title": "JaCoText: A Pretrained Model for Java Code-Text Generation",
@@ -80,16 +80,16 @@
       "published_time_eastern_timestamp": 1727841441.0
     },
     {
-      "title": "The DTFE public software: The Delaunay Tessellation Field Estimator code",
-      "summary": "We present the DTFE public software, a code for reconstructing fields from a discrete set of samples/measurements using the maximum of information contained in the point distribution. The code is written in C++ using the CGAL library and is parallelized using OpenMP. The software was designed for the analysis of cosmological data but can be used in other fields where one must interpolate quantities given at a discrete point set. The software comes with a wide suite of options to facilitate the analysis of 2- and 3-dimensional data and of both numerical simulations and galaxy redshift surveys. For comparison purposes, the code also implements the TSC and SPH grid interpolation methods. The code comes with an extensive user guide detailing the program options, examples and the inner workings of the code. The DTFE public software and further information can be found at http://www.astro.rug.nl/~voronoi/DTFE/dtfe.html .",
-      "url": "http://arxiv.org/abs/1105.0370v4",
-      "published_time_eastern_timestamp": 1304352015.0
-    },
-    {
       "title": "Floquet codes without parent subsystem codes",
       "summary": "We propose a new class of error-correcting dynamic codes in two and three dimensions that has no explicit connection to any parent subsystem code. The two-dimensional code, which we call the CSS honeycomb code, is geometrically similar to that of the honeycomb code by Hastings and Haah, and also dynamically embeds an instantaneous toric code. However, unlike the honeycomb code it possesses an explicit CSS structure and its gauge checks do not form a subsystem code. Nevertheless, we show that our dynamic protocol conserves logical information and possesses a threshold for error correction. We generalize this construction to three dimensions and obtain a code that fault-tolerantly alternates between realizing two type-I fracton models, the checkerboard and the X-cube model. Finally, we show the compatibility of our CSS honeycomb code protocol and the honeycomb code by showing the possibility of randomly switching between the two protocols without information loss while still measuring error syndromes. We call this more general aperiodic structure `dynamic tree codes', which we also generalize to three dimensions. We construct a probabilistic finite automaton prescription that generates dynamic tree codes correcting any single-qubit Pauli errors and can be viewed as a step towards the development of practical fault-tolerant random codes.",
       "url": "http://arxiv.org/abs/2210.02468v4",
       "published_time_eastern_timestamp": 1664992802.0
+    },
+    {
+      "title": "The DTFE public software: The Delaunay Tessellation Field Estimator code",
+      "summary": "We present the DTFE public software, a code for reconstructing fields from a discrete set of samples/measurements using the maximum of information contained in the point distribution. The code is written in C++ using the CGAL library and is parallelized using OpenMP. The software was designed for the analysis of cosmological data but can be used in other fields where one must interpolate quantities given at a discrete point set. The software comes with a wide suite of options to facilitate the analysis of 2- and 3-dimensional data and of both numerical simulations and galaxy redshift surveys. For comparison purposes, the code also implements the TSC and SPH grid interpolation methods. The code comes with an extensive user guide detailing the program options, examples and the inner workings of the code. The DTFE public software and further information can be found at http://www.astro.rug.nl/~voronoi/DTFE/dtfe.html .",
+      "url": "http://arxiv.org/abs/1105.0370v4",
+      "published_time_eastern_timestamp": 1304352015.0
     },
     {
       "title": "A new three-dimensional general-relativistic hydrodynamics code",
