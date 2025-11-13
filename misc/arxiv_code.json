@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-13T10:14:33.778132-05:00",
+  "last_updated": "2025-11-13T13:17:28.658694-05:00",
   "papers": [
     {
       "title": "JaCoText: A Pretrained Model for Java Code-Text Generation",
@@ -68,28 +68,28 @@
       "published_time_eastern_timestamp": 1744215551.0
     },
     {
-      "title": "Unified Framework for Quantum Code Embedding",
-      "summary": "Given a Calderbank-Shor-Steane (CSS) code, it is sometimes necessary to modify the stabilizer code by adding an arbitrary number of physical qubits and parity checks. Motivations may include embedding a high-dimensional quantum low-density parity check (LDPC) code into finite-dimensional Euclidean space, or reducing the weights of an arbitrary CSS code. During this embedding, it is essential that the modified CSS code possesses an isomorphic set of logical qubits as the original CSS code. However, despite numerous explicit constructions, the conditions of when such a property holds true is not known in general. Therefore, using the language of homological algebra, we provide a unified framework that guarantees a natural isomorphism between the output and input codes. In particular, we explicitly show how previous works fit into our framework.",
-      "url": "http://arxiv.org/abs/2507.05361v2",
-      "published_time_eastern_timestamp": 1751911206.0
-    },
-    {
       "title": "From Code to Correctness: Closing the Last Mile of Code Generation with Hierarchical Debugging",
       "summary": "While large language models have made significant strides in code generation, the pass rate of the generated code is bottlenecked on subtle errors, often requiring human intervention to pass tests, especially for complex problems. Existing LLM-based debugging systems treat generated programs as monolithic units, failing to address bugs at multiple levels of granularity, from low-level syntax errors to high-level algorithmic flaws. In this paper, we introduce Multi-Granularity Debugger (MGDebugger), a hierarchical code debugger by isolating, identifying, and resolving bugs at various levels of granularity. MGDebugger decomposes problematic code into a hierarchical tree structure of subfunctions, with each level representing a particular granularity of error. During debugging, it analyzes each subfunction and iteratively resolves bugs in a bottom-up manner. To effectively test each subfunction, we propose an LLM-simulated Python executor, which traces code execution and tracks important variable states to pinpoint errors accurately. Extensive experiments demonstrate that MGDebugger outperforms existing debugging systems, achieving an 18.9% improvement in accuracy over seed generations in HumanEval and a 97.6% repair success rate in HumanEvalFix. Furthermore, MGDebugger effectively fixes bugs across different categories and difficulty levels, demonstrating its robustness and effectiveness.",
       "url": "http://arxiv.org/abs/2410.01215v3",
       "published_time_eastern_timestamp": 1727841441.0
     },
     {
-      "title": "The DTFE public software: The Delaunay Tessellation Field Estimator code",
-      "summary": "We present the DTFE public software, a code for reconstructing fields from a discrete set of samples/measurements using the maximum of information contained in the point distribution. The code is written in C++ using the CGAL library and is parallelized using OpenMP. The software was designed for the analysis of cosmological data but can be used in other fields where one must interpolate quantities given at a discrete point set. The software comes with a wide suite of options to facilitate the analysis of 2- and 3-dimensional data and of both numerical simulations and galaxy redshift surveys. For comparison purposes, the code also implements the TSC and SPH grid interpolation methods. The code comes with an extensive user guide detailing the program options, examples and the inner workings of the code. The DTFE public software and further information can be found at http://www.astro.rug.nl/~voronoi/DTFE/dtfe.html .",
-      "url": "http://arxiv.org/abs/1105.0370v4",
-      "published_time_eastern_timestamp": 1304352015.0
+      "title": "Unified Framework for Quantum Code Embedding",
+      "summary": "Given a Calderbank-Shor-Steane (CSS) code, it is sometimes necessary to modify the stabilizer code by adding an arbitrary number of physical qubits and parity checks. Motivations may include embedding a high-dimensional quantum low-density parity check (LDPC) code into finite-dimensional Euclidean space, or reducing the weights of an arbitrary CSS code. During this embedding, it is essential that the modified CSS code possesses an isomorphic set of logical qubits as the original CSS code. However, despite numerous explicit constructions, the conditions of when such a property holds true is not known in general. Therefore, using the language of homological algebra, we provide a unified framework that guarantees a natural isomorphism between the output and input codes. In particular, we explicitly show how previous works fit into our framework.",
+      "url": "http://arxiv.org/abs/2507.05361v2",
+      "published_time_eastern_timestamp": 1751911206.0
     },
     {
       "title": "Floquet codes without parent subsystem codes",
       "summary": "We propose a new class of error-correcting dynamic codes in two and three dimensions that has no explicit connection to any parent subsystem code. The two-dimensional code, which we call the CSS honeycomb code, is geometrically similar to that of the honeycomb code by Hastings and Haah, and also dynamically embeds an instantaneous toric code. However, unlike the honeycomb code it possesses an explicit CSS structure and its gauge checks do not form a subsystem code. Nevertheless, we show that our dynamic protocol conserves logical information and possesses a threshold for error correction. We generalize this construction to three dimensions and obtain a code that fault-tolerantly alternates between realizing two type-I fracton models, the checkerboard and the X-cube model. Finally, we show the compatibility of our CSS honeycomb code protocol and the honeycomb code by showing the possibility of randomly switching between the two protocols without information loss while still measuring error syndromes. We call this more general aperiodic structure `dynamic tree codes', which we also generalize to three dimensions. We construct a probabilistic finite automaton prescription that generates dynamic tree codes correcting any single-qubit Pauli errors and can be viewed as a step towards the development of practical fault-tolerant random codes.",
       "url": "http://arxiv.org/abs/2210.02468v4",
       "published_time_eastern_timestamp": 1664992802.0
+    },
+    {
+      "title": "The DTFE public software: The Delaunay Tessellation Field Estimator code",
+      "summary": "We present the DTFE public software, a code for reconstructing fields from a discrete set of samples/measurements using the maximum of information contained in the point distribution. The code is written in C++ using the CGAL library and is parallelized using OpenMP. The software was designed for the analysis of cosmological data but can be used in other fields where one must interpolate quantities given at a discrete point set. The software comes with a wide suite of options to facilitate the analysis of 2- and 3-dimensional data and of both numerical simulations and galaxy redshift surveys. For comparison purposes, the code also implements the TSC and SPH grid interpolation methods. The code comes with an extensive user guide detailing the program options, examples and the inner workings of the code. The DTFE public software and further information can be found at http://www.astro.rug.nl/~voronoi/DTFE/dtfe.html .",
+      "url": "http://arxiv.org/abs/1105.0370v4",
+      "published_time_eastern_timestamp": 1304352015.0
     },
     {
       "title": "A new three-dimensional general-relativistic hydrodynamics code",
