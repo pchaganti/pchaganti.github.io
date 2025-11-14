@@ -1,40 +1,96 @@
 {
-  "last_updated": "2025-11-13T16:11:49.552805-05:00",
+  "last_updated": "2025-11-13T19:58:24.350571-05:00",
   "stories": [
     {
       "title": "Nano Banana can be prompt engineered for nuanced AI image generation",
-      "score": 251,
+      "score": 424,
       "url": "https://minimaxir.com/2025/11/nano-banana-prompts/",
       "time": 1763055553.0,
       "comments_url": "https://news.ycombinator.com/item?id=45917875"
     },
     {
-      "title": "Rust in Android: move fast and fix things",
-      "score": 113,
-      "url": "https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html",
-      "time": 1763058756.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45918616"
-    },
-    {
       "title": "Zed is our office",
-      "score": 353,
+      "score": 458,
       "url": "https://zed.dev/blog/zed-is-our-office",
       "time": 1763048486.0,
       "comments_url": "https://news.ycombinator.com/item?id=45916196"
     },
     {
+      "title": "OpenMANET Wi-Fi HaLow open-source project for Raspberry Pi–based MANET radios",
+      "score": 58,
+      "url": "https://openmanet.net/",
+      "time": 1763068694.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45920677"
+    },
+    {
+      "title": "650GB of Data (Delta Lake on S3). Polars vs. DuckDB vs. Daft vs. Spark",
+      "score": 49,
+      "url": "https://dataengineeringcentral.substack.com/p/650gb-of-data-delta-lake-on-s3-polars",
+      "time": 1763069606.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45920881"
+    },
+    {
       "title": "Launch HN: Tweeks (YC W25) – Browser extension to deshittify the web",
-      "score": 116,
+      "score": 160,
       "url": "https://www.tweeks.io/onboarding",
       "time": 1763049784.0,
       "comments_url": "https://news.ycombinator.com/item?id=45916525"
     },
     {
-      "title": "Disrupting the first reported AI-orchestrated cyber espionage campaign",
-      "score": 69,
-      "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
-      "time": 1763058852.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45918638"
+      "title": "Checkout.com hacked, refuses ransom payment, donates to security labs",
+      "score": 537,
+      "url": "https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion",
+      "time": 1763025810.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45912698"
+    },
+    {
+      "title": "Blue Origin lands New Glenn rocket booster on second try",
+      "score": 188,
+      "url": "https://techcrunch.com/2025/11/13/blue-origin-lands-new-glenn-rocket-booster-on-second-try/",
+      "time": 1763069065.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45920748"
+    },
+    {
+      "title": "How to fix subsystem request failed on channel 0",
+      "score": 6,
+      "url": "https://blog.x-way.org/Linux/2025/11/06/How-to-fix-subsystem-request-failed-on-channel-0.html",
+      "time": 1762462252.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45840260"
+    },
+    {
+      "title": "SIMA 2: An agent that plays, reasons, and learns with you in virtual 3D worlds",
+      "score": 164,
+      "url": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
+      "time": 1763047778.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45916037"
+    },
+    {
+      "title": "Why do we need dithering?",
+      "score": 41,
+      "url": "https://typefully.com/DanHollick/why-do-we-need-dithering-Ut7oD4k",
+      "time": 1762284475.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45814939"
+    },
+    {
+      "title": "Show HN: DBOS Java – Postgres-Backed Durable Workflows",
+      "score": 45,
+      "url": "https://github.com/dbos-inc/dbos-transact-java",
+      "time": 1763066023.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45920156"
+    },
+    {
+      "title": "Think in math, write in code (2019)",
+      "score": 97,
+      "url": "https://www.jmeiners.com/think-in-math/",
+      "time": 1762689795.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45864954"
+    },
+    {
+      "title": "Rust in Android: move fast and fix things",
+      "score": 276,
+      "url": "https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html",
+      "time": 1763058756.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45918616"
     },
     {
       "title": "Piramidal (YC W24) Hiring: Front End Engineer",
@@ -44,102 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=45920468"
     },
     {
-      "title": "GitHub Partial Outage",
-      "score": 155,
-      "url": "https://www.githubstatus.com/incidents/1jw8ltnr1qrj",
-      "time": 1763046279.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45915731"
-    },
-    {
-      "title": "Checkout.com hacked, refuses ransom payment, donates to security labs",
-      "score": 470,
-      "url": "https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion",
-      "time": 1763025810.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45912698"
-    },
-    {
-      "title": "SlopStop: Community-driven AI slop detection in Kagi Search",
-      "score": 123,
-      "url": "https://blog.kagi.com/slopstop",
-      "time": 1763060606.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45919067"
-    },
-    {
-      "title": "SIMA 2: An agent that plays, reasons, and learns with you in virtual 3D worlds",
-      "score": 126,
-      "url": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
-      "time": 1763047778.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45916037"
-    },
-    {
-      "title": "Hemp Ban Hidden Inside Government Shutdown Bill",
-      "score": 217,
-      "url": "https://hightimes.com/news/politics/hemp-ban-hidden-inside-government-shutdown-bill/",
-      "time": 1763048297.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45916152"
-    },
-    {
-      "title": "Think in math, write in code",
-      "score": 57,
-      "url": "https://www.jmeiners.com/think-in-math/",
-      "time": 1762689795.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45864954"
-    },
-    {
-      "title": "Remind: A sophisticated calendar and alarm program",
-      "score": 17,
-      "url": "https://dianne.skoll.ca/projects/remind/",
-      "time": 1762476455.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45842419"
-    },
-    {
       "title": "Blender Lab",
-      "score": 169,
+      "score": 197,
       "url": "https://www.blender.org/news/introducing-blender-lab/",
       "time": 1763041127.0,
       "comments_url": "https://news.ycombinator.com/item?id=45914761"
     },
     {
-      "title": "The Eggstraordinary Fortress",
-      "score": 9,
-      "url": "https://ahmed1011001.github.io/Notes/stories/eggstrodinary.html",
-      "time": 1763057429.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45918331"
+      "title": "SlopStop: Community-driven AI slop detection in Kagi Search",
+      "score": 258,
+      "url": "https://blog.kagi.com/slopstop",
+      "time": 1763060606.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45919067"
     },
     {
-      "title": "The Useful Personal Computer",
-      "score": 55,
-      "url": "https://technicshistory.com/2025/11/02/the-useful-personal-computer/",
-      "time": 1762093148.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45790530"
+      "title": "GitHub Partial Outage",
+      "score": 179,
+      "url": "https://www.githubstatus.com/incidents/1jw8ltnr1qrj",
+      "time": 1763046279.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45915731"
     },
     {
-      "title": "Denx (a.k.a. U-Boot) Retires",
-      "score": 79,
-      "url": "https://www.denx.de/",
-      "time": 1763043048.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45915069"
+      "title": "Itiner-E – The Digital Atlas of Ancient Roads",
+      "score": 11,
+      "url": "https://itiner-e.org/",
+      "time": 1762460015.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45839822"
     },
     {
-      "title": "Show HN: DBOS Java – Postgres-Backed Durable Workflows",
-      "score": 6,
-      "url": "https://github.com/dbos-inc/dbos-transact-java",
-      "time": 1763066023.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45920156"
+      "title": "The emergence and diversification of dog morphology",
+      "score": 10,
+      "url": "https://www.science.org/doi/10.1126/science.adt0995",
+      "time": 1763074881.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45921861"
     },
     {
-      "title": "IBM Patented Euler's 200 Year Old Math Technique for 'AI Interpretability'",
-      "score": 72,
-      "url": "https://leetarxiv.substack.com/p/ibm-patented-eulers-fractions",
-      "time": 1763059293.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45918732"
-    },
-    {
-      "title": "Heartbeats in Distributed Systems",
-      "score": 81,
-      "url": "https://arpitbhayani.me/blogs/heartbeats-in-distributed-systems/",
-      "time": 1763041430.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45914815"
+      "title": "Remind: A sophisticated calendar and alarm program",
+      "score": 33,
+      "url": "https://dianne.skoll.ca/projects/remind/",
+      "time": 1762476455.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45842419"
     }
   ]
 }
