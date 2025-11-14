@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-14T07:25:32.808363-05:00",
+  "last_updated": "2025-11-14T10:12:10.382997-05:00",
   "papers": [
     {
       "title": "JaCoText: A Pretrained Model for Java Code-Text Generation",
@@ -80,16 +80,16 @@
       "published_time_eastern_timestamp": 1751911206.0
     },
     {
-      "title": "Floquet codes without parent subsystem codes",
-      "summary": "We propose a new class of error-correcting dynamic codes in two and three dimensions that has no explicit connection to any parent subsystem code. The two-dimensional code, which we call the CSS honeycomb code, is geometrically similar to that of the honeycomb code by Hastings and Haah, and also dynamically embeds an instantaneous toric code. However, unlike the honeycomb code it possesses an explicit CSS structure and its gauge checks do not form a subsystem code. Nevertheless, we show that our dynamic protocol conserves logical information and possesses a threshold for error correction. We generalize this construction to three dimensions and obtain a code that fault-tolerantly alternates between realizing two type-I fracton models, the checkerboard and the X-cube model. Finally, we show the compatibility of our CSS honeycomb code protocol and the honeycomb code by showing the possibility of randomly switching between the two protocols without information loss while still measuring error syndromes. We call this more general aperiodic structure `dynamic tree codes', which we also generalize to three dimensions. We construct a probabilistic finite automaton prescription that generates dynamic tree codes correcting any single-qubit Pauli errors and can be viewed as a step towards the development of practical fault-tolerant random codes.",
-      "url": "http://arxiv.org/abs/2210.02468v4",
-      "published_time_eastern_timestamp": 1664992802.0
-    },
-    {
       "title": "The DTFE public software: The Delaunay Tessellation Field Estimator code",
       "summary": "We present the DTFE public software, a code for reconstructing fields from a discrete set of samples/measurements using the maximum of information contained in the point distribution. The code is written in C++ using the CGAL library and is parallelized using OpenMP. The software was designed for the analysis of cosmological data but can be used in other fields where one must interpolate quantities given at a discrete point set. The software comes with a wide suite of options to facilitate the analysis of 2- and 3-dimensional data and of both numerical simulations and galaxy redshift surveys. For comparison purposes, the code also implements the TSC and SPH grid interpolation methods. The code comes with an extensive user guide detailing the program options, examples and the inner workings of the code. The DTFE public software and further information can be found at http://www.astro.rug.nl/~voronoi/DTFE/dtfe.html .",
       "url": "http://arxiv.org/abs/1105.0370v4",
       "published_time_eastern_timestamp": 1304352015.0
+    },
+    {
+      "title": "Floquet codes without parent subsystem codes",
+      "summary": "We propose a new class of error-correcting dynamic codes in two and three dimensions that has no explicit connection to any parent subsystem code. The two-dimensional code, which we call the CSS honeycomb code, is geometrically similar to that of the honeycomb code by Hastings and Haah, and also dynamically embeds an instantaneous toric code. However, unlike the honeycomb code it possesses an explicit CSS structure and its gauge checks do not form a subsystem code. Nevertheless, we show that our dynamic protocol conserves logical information and possesses a threshold for error correction. We generalize this construction to three dimensions and obtain a code that fault-tolerantly alternates between realizing two type-I fracton models, the checkerboard and the X-cube model. Finally, we show the compatibility of our CSS honeycomb code protocol and the honeycomb code by showing the possibility of randomly switching between the two protocols without information loss while still measuring error syndromes. We call this more general aperiodic structure `dynamic tree codes', which we also generalize to three dimensions. We construct a probabilistic finite automaton prescription that generates dynamic tree codes correcting any single-qubit Pauli errors and can be viewed as a step towards the development of practical fault-tolerant random codes.",
+      "url": "http://arxiv.org/abs/2210.02468v4",
+      "published_time_eastern_timestamp": 1664992802.0
     },
     {
       "title": "A new three-dimensional general-relativistic hydrodynamics code",
@@ -110,16 +110,16 @@
       "published_time_eastern_timestamp": 1748881784.0
     },
     {
-      "title": "LoRACode: LoRA Adapters for Code Embeddings",
-      "summary": "Code embeddings are essential for semantic code search; however, current approaches often struggle to capture the precise syntactic and contextual nuances inherent in code. Open-source models such as CodeBERT and UniXcoder exhibit limitations in scalability and efficiency, while high-performing proprietary systems impose substantial computational costs. We introduce a parameter-efficient fine-tuning method based on Low-Rank Adaptation (LoRA) to construct task-specific adapters for code retrieval. Our approach reduces the number of trainable parameters to less than two percent of the base model, enabling rapid fine-tuning on extensive code corpora (2 million samples in 25 minutes on two H100 GPUs). Experiments demonstrate an increase of up to 9.1% in Mean Reciprocal Rank (MRR) for Code2Code search, and up to 86.69% for Text2Code search tasks across multiple programming languages. Distinction in task-wise and language-wise adaptation helps explore the sensitivity of code retrieval for syntactical and linguistic variations. To foster research in this area, we make our code and pre-trained models publicly available.",
-      "url": "http://arxiv.org/abs/2503.05315v2",
-      "published_time_eastern_timestamp": 1741344645.0
-    },
-    {
       "title": "InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback",
       "summary": "Humans write code in a fundamentally interactive manner and rely on constant execution feedback to correct errors, resolve ambiguities, and decompose tasks. While LLMs have recently exhibited promising coding capabilities, current coding benchmarks mostly consider a static instruction-to-code sequence transduction process, which has the potential for error propagation and a disconnect between the generated code and its final execution environment. To address this gap, we introduce InterCode, a lightweight, flexible, and easy-to-use framework of interactive coding as a standard reinforcement learning (RL) environment, with code as actions and execution feedback as observations. Our framework is language and platform agnostic, uses self-contained Docker environments to provide safe and reproducible execution, and is compatible out-of-the-box with traditional seq2seq coding methods, while enabling the development of new methods for interactive code generation. We use InterCode to create three interactive code environments with Bash, SQL, and Python as action spaces, leveraging data from the static NL2Bash, Spider, and MBPP datasets. We demonstrate InterCode's viability as a testbed by evaluating multiple state-of-the-art LLMs configured with different prompting strategies such as ReAct and Plan & Solve. Our results showcase the benefits of interactive code generation and demonstrate that InterCode can serve as a challenging benchmark for advancing code understanding and generation capabilities. InterCode is designed to be easily extensible and can even be used to create new tasks such as Capture the Flag, a popular coding puzzle that is inherently multi-step and involves multiple programming languages. Project site with code and data: https://intercode-benchmark.github.io",
       "url": "http://arxiv.org/abs/2306.14898v3",
       "published_time_eastern_timestamp": 1687802390.0
+    },
+    {
+      "title": "LoRACode: LoRA Adapters for Code Embeddings",
+      "summary": "Code embeddings are essential for semantic code search; however, current approaches often struggle to capture the precise syntactic and contextual nuances inherent in code. Open-source models such as CodeBERT and UniXcoder exhibit limitations in scalability and efficiency, while high-performing proprietary systems impose substantial computational costs. We introduce a parameter-efficient fine-tuning method based on Low-Rank Adaptation (LoRA) to construct task-specific adapters for code retrieval. Our approach reduces the number of trainable parameters to less than two percent of the base model, enabling rapid fine-tuning on extensive code corpora (2 million samples in 25 minutes on two H100 GPUs). Experiments demonstrate an increase of up to 9.1% in Mean Reciprocal Rank (MRR) for Code2Code search, and up to 86.69% for Text2Code search tasks across multiple programming languages. Distinction in task-wise and language-wise adaptation helps explore the sensitivity of code retrieval for syntactical and linguistic variations. To foster research in this area, we make our code and pre-trained models publicly available.",
+      "url": "http://arxiv.org/abs/2503.05315v2",
+      "published_time_eastern_timestamp": 1741344645.0
     }
   ]
 }
