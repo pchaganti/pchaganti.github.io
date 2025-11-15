@@ -1,47 +1,68 @@
 {
-  "last_updated": "2025-11-15T07:21:00.380639-05:00",
+  "last_updated": "2025-11-15T10:10:56.756849-05:00",
   "stories": [
     {
-      "title": "One Handed Keyboard",
-      "score": 34,
-      "url": "https://github.com/htx-studio/One-Handed-Keyboard",
-      "time": 1763199855.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45936262"
-    },
-    {
-      "title": "The Internet Is Cool. Thank You, TCP",
-      "score": 98,
-      "url": "https://cefboud.com/posts/tcp-deep-dive-internals/",
-      "time": 1763188670.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45935503"
+      "title": "How to write type-safe generics in C",
+      "score": 17,
+      "url": "https://raphgl.github.io/blog/generics-in-c.html",
+      "time": 1763215089.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45937518"
     },
     {
       "title": "Our investigation into the suspicious pressure on Archive.today",
-      "score": 115,
+      "score": 416,
       "url": "https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html",
       "time": 1763202652.0,
       "comments_url": "https://news.ycombinator.com/item?id=45936460"
     },
     {
+      "title": "The Nature of the Beast: Charles Le Brun's Human-Animal Hybrids (1806)",
+      "score": 8,
+      "url": "https://publicdomainreview.org/collection/le-brun-human-animal-hybrids/",
+      "time": 1762750019.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45872519"
+    },
+    {
+      "title": "The Internet Is Cool. Thank You, TCP",
+      "score": 160,
+      "url": "https://cefboud.com/posts/tcp-deep-dive-internals/",
+      "time": 1763188670.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45935503"
+    },
+    {
       "title": "AI World Clocks",
-      "score": 1065,
+      "score": 1153,
       "url": "https://clocks.brianmoore.com/",
       "time": 1763145322.0,
       "comments_url": "https://news.ycombinator.com/item?id=45930151"
     },
     {
+      "title": "The Pen and the Spade: The Poems of Seamus Heaney",
+      "score": 8,
+      "url": "https://literaryreview.co.uk/the-pen-the-spade-2",
+      "time": 1763014921.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45911396"
+    },
+    {
+      "title": "One Handed Keyboard",
+      "score": 62,
+      "url": "https://github.com/htx-studio/One-Handed-Keyboard",
+      "time": 1763199855.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45936262"
+    },
+    {
       "title": "Messing with Scraper Bots",
-      "score": 56,
+      "score": 90,
       "url": "https://herman.bearblog.dev/messing-with-bots/",
       "time": 1763192298.0,
       "comments_url": "https://news.ycombinator.com/item?id=45935729"
     },
     {
-      "title": "AMD GPUs Go Brrr",
-      "score": 171,
-      "url": "https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr",
-      "time": 1763172376.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45934416"
+      "title": "So, you want to design your own language? (2017)",
+      "score": 108,
+      "url": "https://cs.lmu.edu/~ray/notes/languagedesignnotes/",
+      "time": 1763185483.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45935342"
     },
     {
       "title": "Activeloop (YC S18) Is Hiring MTS(Back End)and AI Search Engineer",
@@ -51,95 +72,74 @@
       "comments_url": "https://news.ycombinator.com/item?id=45936837"
     },
     {
+      "title": "Streaming AI Agent Desktops with Gaming Protocols",
+      "score": 18,
+      "url": "https://blog.helix.ml/p/technical-deep-dive-on-streaming",
+      "time": 1762361948.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45825121"
+    },
+    {
       "title": "Can text be made to sound more than just its words? (2022)",
-      "score": 12,
+      "score": 26,
       "url": "https://arxiv.org/abs/2202.10631",
       "time": 1762121835.0,
       "comments_url": "https://news.ycombinator.com/item?id=45793920"
     },
     {
-      "title": "So, you want to design your own language? (2017)",
-      "score": 87,
-      "url": "https://cs.lmu.edu/~ray/notes/languagedesignnotes/",
-      "time": 1763185483.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45935342"
-    },
-    {
-      "title": "Spec-Driven Development: The Waterfall Strikes Back",
-      "score": 116,
-      "url": "https://marmelab.com/blog/2025/11/12/spec-driven-development-waterfall-strikes-back.html",
-      "time": 1763192903.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45935763"
-    },
-    {
-      "title": "A new Google model is nearly perfect on automated handwriting recognition",
-      "score": 358,
-      "url": "https://generativehistory.substack.com/p/has-google-quietly-solved-two-of",
-      "time": 1762869135.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45887262"
-    },
-    {
       "title": "Unofficial Microsoft Teams client for Linux",
-      "score": 152,
+      "score": 186,
       "url": "https://github.com/IsmaelMartinez/teams-for-linux",
       "time": 1762242118.0,
       "comments_url": "https://news.ycombinator.com/item?id=45808407"
     },
     {
-      "title": "Löb and Möb: Loops in Haskell (2013)",
-      "score": 47,
-      "url": "https://github.com/quchen/articles/blob/master/loeb-moeb.md",
-      "time": 1762519324.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45845782"
-    },
-    {
-      "title": "SSL Configuration Generator",
-      "score": 181,
-      "url": "https://ssl-config.mozilla.org/",
-      "time": 1763158504.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45932798"
-    },
-    {
-      "title": "HipKittens: Fast and furious AMD kernels",
-      "score": 187,
-      "url": "https://hazyresearch.stanford.edu/blog/2025-11-09-hk",
-      "time": 1763087240.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45923188"
-    },
-    {
-      "title": "Continuous Architecture: A decade of designing for change",
-      "score": 10,
-      "url": "https://continuousarchitecture.com/2025/11/04/a-decade-of-ca/",
-      "time": 1762255344.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45809722"
-    },
-    {
-      "title": "'No One Lives Forever' turns 25 and you still can't buy it legitimately",
-      "score": 270,
-      "url": "https://www.techdirt.com/2025/11/13/no-one-lives-forever-turns-25-you-still-cant-buy-it-legitimately/",
-      "time": 1763137886.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45928492"
+      "title": "A new Google model is nearly perfect on automated handwriting recognition",
+      "score": 395,
+      "url": "https://generativehistory.substack.com/p/has-google-quietly-solved-two-of",
+      "time": 1762869135.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45887262"
     },
     {
       "title": "Lawmakers want to ban VPNs and have no idea what they're doing",
-      "score": 271,
+      "score": 360,
       "url": "https://www.eff.org/deeplinks/2025/11/lawmakers-want-ban-vpns-and-they-have-no-idea-what-theyre-doing",
       "time": 1763102353.0,
       "comments_url": "https://news.ycombinator.com/item?id=45924483"
     },
     {
-      "title": "All praise to the lunch ladies",
-      "score": 198,
-      "url": "https://bittersoutherner.com/issue-no-12/all-praise-to-the-lunch-ladies",
-      "time": 1763150098.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45931403"
+      "title": "Kagi Bloopers – Search Results Gone Wrong",
+      "score": 119,
+      "url": "https://help.kagi.com/kagi/bloopers/",
+      "time": 1763209388.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45936964"
     },
     {
-      "title": "Random Font – a typographic experiment exploring randomness [pdf]",
-      "score": 21,
-      "url": "https://www.ilcovile.it/scritti/COVILE_834_Reprint_Random_Font.pdf",
-      "time": 1762419840.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45833047"
+      "title": "History and use of the Estes AstroCam 110",
+      "score": 10,
+      "url": "https://www.dembrudders.com/history-and-use-of-the-estes-astrocam-110.html",
+      "time": 1762292498.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45816208"
+    },
+    {
+      "title": "HipKittens: Fast and furious AMD kernels",
+      "score": 205,
+      "url": "https://hazyresearch.stanford.edu/blog/2025-11-09-hk",
+      "time": 1763087240.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45923188"
+    },
+    {
+      "title": "Go's Sweet 16",
+      "score": 173,
+      "url": "https://go.dev/blog/16years",
+      "time": 1763159595.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45932962"
+    },
+    {
+      "title": "Löb and Möb: Loops in Haskell (2013)",
+      "score": 65,
+      "url": "https://github.com/quchen/articles/blob/master/loeb-moeb.md",
+      "time": 1762519324.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45845782"
     }
   ]
 }
