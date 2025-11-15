@@ -1,40 +1,96 @@
 {
-  "last_updated": "2025-11-14T16:11:23.334044-05:00",
+  "last_updated": "2025-11-14T19:56:57.057983-05:00",
   "stories": [
     {
       "title": "AI World Clocks",
-      "score": 306,
+      "score": 613,
       "url": "https://clocks.brianmoore.com/",
       "time": 1763145322.0,
       "comments_url": "https://news.ycombinator.com/item?id=45930151"
     },
     {
+      "title": "SSL Configuration Generator",
+      "score": 41,
+      "url": "https://ssl-config.mozilla.org/",
+      "time": 1763158504.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45932798"
+    },
+    {
+      "title": "HipKittens: Fast and furious AMD kernels",
+      "score": 67,
+      "url": "https://hazyresearch.stanford.edu/blog/2025-11-09-hk",
+      "time": 1763087240.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45923188"
+    },
+    {
       "title": "A race condition in Aurora RDS",
-      "score": 133,
+      "score": 185,
       "url": "https://hightouch.com/blog/uncovering-a-race-condition-in-aurora-rds",
       "time": 1763144408.0,
       "comments_url": "https://news.ycombinator.com/item?id=45929921"
     },
     {
-      "title": "Houston, We Have a Problem: Anthropic Rides an Artificial Wave – BIML",
-      "score": 13,
-      "url": "https://berryvilleiml.com/2025/11/14/houston-we-have-a-problem-anthropic-rides-an-artificial-wave/",
-      "time": 1763150791.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45931552"
+      "title": "Unofficial Microsoft Teams Client for Linux",
+      "score": 21,
+      "url": "https://github.com/IsmaelMartinez/teams-for-linux",
+      "time": 1762242118.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45808407"
     },
     {
       "title": "Structured Outputs on the Claude Developer Platform (API)",
-      "score": 37,
+      "score": 82,
       "url": "https://www.claude.com/blog/structured-outputs-on-the-claude-developer-platform",
       "time": 1763147063.0,
       "comments_url": "https://news.ycombinator.com/item?id=45930598"
     },
     {
-      "title": "All Praise to the Lunch Ladies",
-      "score": 46,
+      "title": "Has Google solved two of AI's oldest problems?",
+      "score": 128,
+      "url": "https://generativehistory.substack.com/p/has-google-quietly-solved-two-of",
+      "time": 1762869135.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45887262"
+    },
+    {
+      "title": "All praise to the lunch ladies",
+      "score": 109,
       "url": "https://bittersoutherner.com/issue-no-12/all-praise-to-the-lunch-ladies",
       "time": 1763150098.0,
       "comments_url": "https://news.ycombinator.com/item?id=45931403"
+    },
+    {
+      "title": "Manganese is Lyme disease's double-edge sword",
+      "score": 117,
+      "url": "https://news.northwestern.edu/stories/2025/11/manganese-is-lyme-diseases-double-edge-sword",
+      "time": 1763139063.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45928709"
+    },
+    {
+      "title": "Show HN: Tiny Diffusion – A character-level text diffusion model from scratch",
+      "score": 87,
+      "url": "https://github.com/nathan-barry/tiny-diffusion",
+      "time": 1762787635.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45876742"
+    },
+    {
+      "title": "Go's Sweet 16",
+      "score": 68,
+      "url": "https://go.dev/blog/16years",
+      "time": 1763159595.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45932962"
+    },
+    {
+      "title": "The disguised return of EU Chat Control",
+      "score": 497,
+      "url": "https://reclaimthenet.org/the-disguised-return-of-the-eus-private-message-scanning-plot",
+      "time": 1763142847.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45929511"
+    },
+    {
+      "title": "Xqerl – Erlang XQuery 3.1 Processor",
+      "score": 31,
+      "url": "https://zadean.github.io/xqerl/",
+      "time": 1762854485.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45885677"
     },
     {
       "title": "Mentra (YC W25) Is Hiring: Head of Growth to Make Smart Glasses Mainstream",
@@ -44,102 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=45932131"
     },
     {
-      "title": "Manganese is Lyme disease's double-edge sword",
-      "score": 89,
-      "url": "https://news.northwestern.edu/stories/2025/11/manganese-is-lyme-diseases-double-edge-sword",
-      "time": 1763139063.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45928709"
-    },
-    {
-      "title": "Show HN: Tiny Diffusion – A character-level text diffusion model from scratch",
-      "score": 46,
-      "url": "https://github.com/nathan-barry/tiny-diffusion",
-      "time": 1762787635.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45876742"
-    },
-    {
-      "title": "The disguised return of EU Chat Control",
-      "score": 314,
-      "url": "https://reclaimthenet.org/the-disguised-return-of-the-eus-private-message-scanning-plot",
-      "time": 1763142847.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45929511"
-    },
-    {
-      "title": "Minisforum Stuffs Entire Arm Homelab in the MS-R1",
-      "score": 40,
-      "url": "https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1",
-      "time": 1763145775.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45930284"
-    },
-    {
-      "title": "Awk Technical Notes (2023)",
-      "score": 53,
-      "url": "https://maximullaris.com/awk_tech_notes.html",
-      "time": 1762166411.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45797689"
-    },
-    {
-      "title": "Bitchat for Gaza – messaging without internet",
-      "score": 207,
-      "url": "https://updates.techforpalestine.org/bitchat-for-gaza-messaging-without-internet/",
-      "time": 1763142220.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45929358"
-    },
-    {
       "title": "US Tech Market Treemap",
-      "score": 63,
+      "score": 102,
       "url": "https://caplocus.com/",
       "time": 1763138532.0,
       "comments_url": "https://news.ycombinator.com/item?id=45928620"
     },
     {
-      "title": "Incus-OS: Immutable Linux OS to run Incus as a hypervisor",
-      "score": 120,
-      "url": "https://linuxcontainers.org/incus-os/",
-      "time": 1762335598.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45821154"
+      "title": "GEN-0 / Embodied Foundation Models That Scale with Physical Interaction",
+      "score": 4,
+      "url": "https://generalistai.com/blog/nov-04-2025-GEN-0",
+      "time": 1762338314.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45821402"
     },
     {
-      "title": "AGI fantasy is a blocker to actual engineering",
-      "score": 475,
-      "url": "https://www.tomwphillips.co.uk/2025/11/agi-fantasy-is-a-blocker-to-actual-engineering/",
-      "time": 1763126484.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45926469"
+      "title": "No Leak, No Problem – Bypassing ASLR with a ROP Chain to Gain RCE",
+      "score": 7,
+      "url": "https://modzero.com/en/blog/no-leak-no-problem/",
+      "time": 1763163576.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45933497"
     },
     {
-      "title": "Honda: 2 years of ml vs 1 month of prompting - heres what we learned",
-      "score": 253,
-      "url": "https://www.levs.fyi/blog/2-years-of-ml-vs-1-month-of-prompting/",
-      "time": 1762780309.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45875618"
+      "title": "Awk Technical Notes (2023)",
+      "score": 95,
+      "url": "https://maximullaris.com/awk_tech_notes.html",
+      "time": 1762166411.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45797689"
     },
     {
-      "title": "Meeting notes between Forgejo and the Dutch government via Git commits",
-      "score": 77,
-      "url": "https://codeberg.org/forgejo/sustainability/pulls/137/files",
-      "time": 1763141717.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45929247"
+      "title": "Minisforum Stuffs Entire Arm Homelab in the MS-R1",
+      "score": 66,
+      "url": "https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1",
+      "time": 1763145775.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45930284"
     },
     {
-      "title": "Magit manuals are available online again",
-      "score": 100,
-      "url": "https://github.com/magit/magit/issues/5472",
-      "time": 1763122199.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45926037"
-    },
-    {
-      "title": "GPG and Me (2015)",
-      "score": 16,
-      "url": "https://moxie.org/2015/02/24/gpg-and-me.html",
-      "time": 1762847923.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45885070"
-    },
-    {
-      "title": "Germany to ban Huawei from future 6G network",
-      "score": 124,
-      "url": "https://www.bloomberg.com/news/articles/2025-11-13/germany-to-ban-huawei-from-future-6g-network-in-sovereignty-push",
-      "time": 1763140748.0,
-      "comments_url": "https://news.ycombinator.com/item?id=45929052"
+      "title": "Bitchat for Gaza – messaging without internet",
+      "score": 338,
+      "url": "https://updates.techforpalestine.org/bitchat-for-gaza-messaging-without-internet/",
+      "time": 1763142220.0,
+      "comments_url": "https://news.ycombinator.com/item?id=45929358"
     }
   ]
 }
