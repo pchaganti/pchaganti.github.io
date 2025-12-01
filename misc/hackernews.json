@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-12-01T04:19:36.472122-05:00",
+  "last_updated": "2025-12-01T07:26:38.286290-05:00",
   "stories": [
     {
       "title": "Search tool that only returns content created before ChatGPT's public release",
-      "score": 340,
+      "score": 497,
       "url": "https://tegabrain.com/Slop-Evader",
       "time": 1764561966.0,
       "comments_url": "https://news.ycombinator.com/item?id=46103376"
     },
     {
+      "title": "Self-hosting a Matrix server for 5 years",
+      "score": 40,
+      "url": "https://yaky.dev/2025-11-30-self-hosting-matrix/",
+      "time": 1764588399.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46106132"
+    },
+    {
       "title": "Advent of Code 2025",
-      "score": 928,
+      "score": 1009,
       "url": "https://adventofcode.com/2025/about",
       "time": 1764508035.0,
       "comments_url": "https://news.ycombinator.com/item?id=46096337"
     },
     {
-      "title": "Do the thinking models think?",
-      "score": 21,
-      "url": "https://bytesauna.com/post/consciousness",
-      "time": 1764574007.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46104511"
+      "title": "Detection of triboelectric discharges during dust events on Mars",
+      "score": 55,
+      "url": "https://gizmodo.com/weve-detected-lightning-on-mars-for-the-first-time-2000691996",
+      "time": 1764185203.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46061390"
     },
     {
-      "title": "SmartTube Compromised",
-      "score": 60,
-      "url": "https://www.aftvnews.com/smarttubes-official-apk-was-compromised-with-malware-what-you-should-do-if-you-use-it/",
-      "time": 1764565261.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46103657"
-    },
-    {
-      "title": "A Love Letter to FreeBSD",
-      "score": 290,
-      "url": "https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/",
-      "time": 1764540307.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46100892"
-    },
-    {
-      "title": "Advent of Sysadmin 2025",
-      "score": 199,
-      "url": "https://sadservers.com/advent",
-      "time": 1764551848.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46102347"
-    },
-    {
-      "title": "Writing a good Claude.md",
-      "score": 497,
-      "url": "https://www.humanlayer.dev/blog/writing-a-good-claude-md",
-      "time": 1764525403.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46098838"
-    },
-    {
-      "title": "Algorithms for Optimization [pdf]",
-      "score": 235,
-      "url": "https://algorithmsbook.com/optimization/files/optimization.pdf",
-      "time": 1764544892.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46101492"
-    },
-    {
-      "title": "DeepSeek releases open-weights math model with IMO gold medal performance",
-      "score": 18,
+      "title": "DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning",
+      "score": 151,
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-Math-V2",
       "time": 1764579271.0,
       "comments_url": "https://news.ycombinator.com/item?id=46105079"
     },
     {
-      "title": "N-Body Simulator – Interactive 3 Body Problem and Gravitational Physics",
-      "score": 16,
-      "url": "https://trisolarchaos.com/?pr=lagrange&n=3&s=5.0&so=0.01&im=verlet&dt=5.00e-4&rt=1.0e-6&at=1.0e-8&bs=0.50&sf=0&sv=0&cm=free&kt=1&st=1&ag=0&tl=1500&cp=0.0000,0.0000,10.0000&ct=0.0000,0.0000,0.0000",
-      "time": 1764077722.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46045643"
+      "title": "UK Government plans new powers to label dissenting movements as 'subversion'",
+      "score": 70,
+      "url": "https://netpol.org/2025/11/28/government-plans-new-powers-to-label-dissenting-movements-as-subversion/",
+      "time": 1764588934.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46106181"
+    },
+    {
+      "title": "Trifold is a tool to quickly and cheaply host static websites using a CDN",
+      "score": 30,
+      "url": "https://www.jpt.sh/projects/trifold/",
+      "time": 1763972385.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46031608"
+    },
+    {
+      "title": "A Love Letter to FreeBSD",
+      "score": 335,
+      "url": "https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/",
+      "time": 1764540307.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46100892"
+    },
+    {
+      "title": "Writing a good Claude.md",
+      "score": 560,
+      "url": "https://www.humanlayer.dev/blog/writing-a-good-claude-md",
+      "time": 1764525403.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46098838"
+    },
+    {
+      "title": "Why Is ChatGPT for Mac So Good?",
+      "score": 9,
+      "url": "https://allenpike.com/2025/why-is-chatgpt-so-good-claude",
+      "time": 1764586276.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46105896"
+    },
+    {
+      "title": "Advent of Sysadmin 2025",
+      "score": 254,
+      "url": "https://sadservers.com/advent",
+      "time": 1764551848.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46102347"
     },
     {
       "title": "X210Ai is a new motherboard to upgrade ThinkPad X201/200",
-      "score": 77,
+      "score": 107,
       "url": "https://www.tpart.net/about-x210ai/",
       "time": 1764558749.0,
       "comments_url": "https://news.ycombinator.com/item?id=46103097"
     },
     {
-      "title": "Google Antigravity just deleted the contents of whole drive",
-      "score": 172,
-      "url": "https://old.reddit.com/r/google_antigravity/comments/1p82or6/google_antigravity_just_deleted_the_contents_of/",
-      "time": 1764563968.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46103532"
+      "title": "Algorithms for Optimization [pdf]",
+      "score": 272,
+      "url": "https://algorithmsbook.com/optimization/files/optimization.pdf",
+      "time": 1764544892.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46101492"
+    },
+    {
+      "title": "N-Body Simulator – Interactive 3 Body Problem and Gravitational Physics",
+      "score": 54,
+      "url": "https://trisolarchaos.com/?pr=lagrange&n=3&s=5.0&so=0.01&im=verlet&dt=5.00e-4&rt=1.0e-6&at=1.0e-8&bs=0.50&sf=0&sv=0&cm=free&kt=1&st=1&ag=0&tl=1500&cp=0.0000,0.0000,10.0000&ct=0.0000,0.0000,0.0000",
+      "time": 1764077722.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46045643"
+    },
+    {
+      "title": "Games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton",
+      "score": 67,
+      "url": "https://areweanticheatyet.com/",
+      "time": 1764572757.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46104396"
+    },
+    {
+      "title": "Xlibre is a fork of the Xorg Xserver with lots of code cleanups",
+      "score": 44,
+      "url": "https://x11libre.net/",
+      "time": 1764586297.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46105897"
+    },
+    {
+      "title": "Whole-body Learning in Creating Mathematical/Architectural Structures [pdf]",
+      "score": 7,
+      "url": "https://archive.bridgesmathart.org/2017/bridges2017-523.pdf",
+      "time": 1764008349.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46037185"
+    },
+    {
+      "title": "1GB Raspberry Pi 5, and memory-driven price rises",
+      "score": 26,
+      "url": "https://www.raspberrypi.com/news/1gb-raspberry-pi-5-now-available-at-45-and-memory-driven-price-rises/",
+      "time": 1764589038.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46106186"
     },
     {
       "title": "Windows drive letters are not limited to A-Z",
-      "score": 433,
+      "score": 454,
       "url": "https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/",
       "time": 1764510017.0,
       "comments_url": "https://news.ycombinator.com/item?id=46096556"
     },
     {
-      "title": "Replacing My Window Manager with Google Chrome",
-      "score": 46,
-      "url": "https://foxmoss.com/blog/dote/",
-      "time": 1764272063.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46072521"
-    },
-    {
       "title": "Engineers repurpose a mosquito proboscis to create a 3D printing nozzle",
-      "score": 32,
+      "score": 55,
       "url": "https://techxplore.com/news/2025-11-repurpose-mosquito-proboscis-3d-nozzle.html",
       "time": 1764196704.0,
       "comments_url": "https://news.ycombinator.com/item?id=46063145"
-    },
-    {
-      "title": "Migrating Dillo from GitHub",
-      "score": 344,
-      "url": "https://dillo-browser.org/news/migration-from-github/",
-      "time": 1764511900.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46096800"
-    },
-    {
-      "title": "GitHub to Codeberg: my experience",
-      "score": 246,
-      "url": "https://eldred.fr/blog/forge-migration/",
-      "time": 1764519133.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46097829"
-    },
-    {
-      "title": "Ly – A lightweight TUI (ncurses-like) display manager for Linux and BSD",
-      "score": 41,
-      "url": "https://codeberg.org/fairyglade/ly",
-      "time": 1764548884.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46101996"
-    },
-    {
-      "title": "How to run phones while being struck by suicide drones",
-      "score": 105,
-      "url": "https://nasa.cx/hn/posts/how-to-run-hundreds-of-phones-while-being-struck-by-suicide-drones/",
-      "time": 1764535789.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46100282"
-    },
-    {
-      "title": "We've Detected Lightning on Mars",
-      "score": 5,
-      "url": "https://gizmodo.com/weve-detected-lightning-on-mars-for-the-first-time-2000691996",
-      "time": 1764185203.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46061390"
     }
   ]
 }
