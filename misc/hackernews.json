@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-12-02T13:20:18.167985-05:00",
+  "last_updated": "2025-12-02T16:12:07.471147-05:00",
   "stories": [
     {
-      "title": "Bun has been acquired by Anthropic",
-      "score": 78,
+      "title": "Anthropic acquires Bun",
+      "score": 911,
       "url": "https://bun.com/blog/bun-joins-anthropic",
       "time": 1764698744.0,
       "comments_url": "https://news.ycombinator.com/item?id=46124267"
     },
     {
-      "title": "100000 TPS over a billion rows: the unreasonable effectiveness of SQLite",
-      "score": 22,
+      "title": "100k TPS over a billion rows: the unreasonable effectiveness of SQLite",
+      "score": 187,
       "url": "https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html",
       "time": 1764698393.0,
       "comments_url": "https://news.ycombinator.com/item?id=46124205"
     },
     {
-      "title": "I Designed and Printed a Custom Nose Guard to Help My Dog with DLE",
-      "score": 131,
+      "title": "Claude 4.5 Opus' Soul Document",
+      "score": 136,
+      "url": "https://simonwillison.net/2025/Dec/2/claude-soul-document/",
+      "time": 1764702354.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46125184"
+    },
+    {
+      "title": "Amazon launches Trainium3",
+      "score": 67,
+      "url": "https://techcrunch.com/2025/12/02/amazon-releases-an-impressive-new-ai-chip-and-teases-a-nvidia-friendly-roadmap/",
+      "time": 1764702271.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46125155"
+    },
+    {
+      "title": "Paged Out",
+      "score": 30,
+      "url": "https://pagedout.institute",
+      "time": 1764706460.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46126217"
+    },
+    {
+      "title": "Delty (YC X25) Is Hiring",
+      "score": 1,
+      "url": "https://www.ycombinator.com/companies/delty/jobs/aPWMaiq-full-stack-software-engineer",
+      "time": 1764709259.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46126822"
+    },
+    {
+      "title": "I designed and printed a custom nose guard to help my dog with DLE",
+      "score": 263,
       "url": "https://snoutcover.com/billie-story",
       "time": 1764485793.0,
       "comments_url": "https://news.ycombinator.com/item?id=46094460"
     },
     {
-      "title": "Learning Music with Strudel",
-      "score": 245,
+      "title": "OpenAI declares 'code red' as Google catches up in AI race",
+      "score": 241,
+      "url": "https://www.theverge.com/news/836212/openai-code-red-chatgpt",
+      "time": 1764687616.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46121870"
+    },
+    {
+      "title": "Learning music with Strudel",
+      "score": 315,
       "url": "https://terryds.notion.site/Learning-Music-with-Strudel-2ac98431b24180deb890cc7de667ea92",
       "time": 1764115759.0,
       "comments_url": "https://news.ycombinator.com/item?id=46052478"
     },
     {
+      "title": "Cursed circuits: charge pump voltage halver",
+      "score": 31,
+      "url": "https://lcamtuf.substack.com/p/cursed-circuits-charge-pump-voltage",
+      "time": 1764701273.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46124892"
+    },
+    {
+      "title": "Free static site generator for small restaurants and cafes",
+      "score": 15,
+      "url": "https://lite.localcafe.org/",
+      "time": 1764706135.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46126141"
+    },
+    {
+      "title": "All about automotive lidar",
+      "score": 23,
+      "url": "https://mainstreetautonomy.com/blog/2025-08-29-all-about-automotive-lidar/",
+      "time": 1764610990.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46110395"
+    },
+    {
+      "title": "School Cell Phone Bans and Student Achievement (NBER Digest)",
+      "score": 40,
+      "url": "https://www.nber.org/digest/202512/school-cell-phone-bans-and-student-achievement",
+      "time": 1764698291.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46124179"
+    },
+    {
+      "title": "Zig's new plan for asynchronous programs",
+      "score": 150,
+      "url": "https://lwn.net/SubscriberLink/1046084/4c048ee008e1c70e/",
+      "time": 1764685876.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46121539"
+    },
+    {
+      "title": "Solving the Partridge Packing Problem Using MiniZinc",
+      "score": 9,
+      "url": "https://zayenz.se/blog/post/partridge-packing/",
+      "time": 1764168832.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46057932"
+    },
+    {
       "title": "Mistral 3 family of models released",
-      "score": 417,
+      "score": 562,
       "url": "https://mistral.ai/news/mistral-3",
       "time": 1764687713.0,
       "comments_url": "https://news.ycombinator.com/item?id=46121889"
     },
     {
-      "title": "Nixtml: Static website and blog generator written in Nix",
-      "score": 63,
-      "url": "https://github.com/arnarg/nixtml",
-      "time": 1764687289.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46121799"
-    },
-    {
-      "title": "Addressing the adding situation",
-      "score": 226,
-      "url": "https://xania.org/202512/02-adding-integers",
-      "time": 1764675029.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46120181"
-    },
-    {
-      "title": "YesNotice",
-      "score": 85,
-      "url": "https://infinitedigits.co/docs/software/yesnotice/",
-      "time": 1764086913.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46047170"
-    },
-    {
-      "title": "Poka Labs (YC S24) Is Hiring a Founding Engineer",
-      "score": 1,
-      "url": "https://www.ycombinator.com/companies/poka-labs/jobs/RCQgmqB-founding-engineer",
-      "time": 1764694812.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46123374"
-    },
-    {
-      "title": "Advent of Compiler Optimisations 2025",
-      "score": 274,
-      "url": "https://xania.org/202511/advent-of-compiler-optimisation",
-      "time": 1764669102.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46119500"
-    },
-    {
-      "title": "Python Data Science Handbook",
-      "score": 127,
-      "url": "https://jakevdp.github.io/PythonDataScienceHandbook/",
-      "time": 1764679108.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46120611"
-    },
-    {
-      "title": "Lowtype: Elegant Types in Ruby",
-      "score": 24,
-      "url": "https://codeberg.org/Iow/type",
-      "time": 1764348632.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46080307"
-    },
-    {
-      "title": "Show HN: Marmot – Single-binary data catalog (no Kafka, no Elasticsearch)",
-      "score": 64,
-      "url": "https://github.com/marmotdata/marmot",
-      "time": 1764687580.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46121860"
-    },
-    {
-      "title": "A series of vignettes from my childhood and early career",
-      "score": 107,
-      "url": "https://www.jasonscheirer.com/weblog/vignettes/",
-      "time": 1764678514.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46120549"
-    },
-    {
-      "title": "Apple Releases Open Weights Video Model",
-      "score": 379,
-      "url": "https://starflow-v.github.io",
-      "time": 1764652201.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46117802"
-    },
-    {
-      "title": "What will enter the public domain in 2026?",
-      "score": 424,
-      "url": "https://publicdomainreview.org/features/entering-the-public-domain/2026/",
-      "time": 1764645790.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46117112"
-    },
-    {
-      "title": "4.3M Browsers Infected: Inside ShadyPanda's 7-Year Malware Campaign",
-      "score": 16,
-      "url": "https://www.koi.ai/blog/4-million-browsers-infected-inside-shadypanda-7-year-malware-campaign",
-      "time": 1764693052.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46122957"
-    },
-    {
       "title": "The Junior Hiring Crisis",
-      "score": 7,
+      "score": 132,
       "url": "https://people-work.io/blog/junior-hiring-crisis/",
       "time": 1764697713.0,
       "comments_url": "https://news.ycombinator.com/item?id=46124063"
     },
     {
-      "title": "YouTube increases FreeBASIC performance (2019)",
-      "score": 136,
-      "url": "https://freebasic.net/forum/viewtopic.php?t=27927",
-      "time": 1764475781.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46093613"
+      "title": "YesNotice",
+      "score": 125,
+      "url": "https://infinitedigits.co/docs/software/yesnotice/",
+      "time": 1764086913.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46047170"
     },
     {
-      "title": "Comparing AWS Lambda ARM64 vs. x86_64 Performance Across Runtimes in Late 2025",
-      "score": 105,
-      "url": "https://chrisebert.net/comparing-aws-lambda-arm64-vs-x86_64-performance-across-multiple-runtimes-in-late-2025/",
-      "time": 1764666701.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46119214"
+      "title": "Code Wiki: Accelerating your code understanding",
+      "score": 23,
+      "url": "https://developers.googleblog.com/en/introducing-code-wiki-accelerating-your-code-understanding/",
+      "time": 1764133250.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46054338"
+    },
+    {
+      "title": "Addressing the adding situation",
+      "score": 234,
+      "url": "https://xania.org/202512/02-adding-integers",
+      "time": 1764675029.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46120181"
     }
   ]
 }
