@@ -1,61 +1,96 @@
 {
-  "last_updated": "2025-12-03T13:20:09.913211-05:00",
+  "last_updated": "2025-12-03T16:11:53.359921-05:00",
   "stories": [
     {
-      "title": "Steam Deck lead reveals Valve is funding ARM compatibility of Windows games",
-      "score": 142,
-      "url": "https://frvr.com/blog/news/steam-deck-lead-reveals-valve-is-funding-arm-compatibility-of-windows-games-to-expand-pc-gaming-and-release-ultraportables-in-the-future/",
-      "time": 1764781213.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46136901"
+      "title": "Ghostty is now non-profit",
+      "score": 405,
+      "url": "https://mitchellh.com/writing/ghostty-non-profit",
+      "time": 1764787206.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46138238"
+    },
+    {
+      "title": "Everyone in Seattle hates AI",
+      "score": 206,
+      "url": "https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html",
+      "time": 1764790645.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46138952"
     },
     {
       "title": "Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files",
-      "score": 68,
+      "score": 295,
       "url": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k",
       "time": 1764783873.0,
       "comments_url": "https://news.ycombinator.com/item?id=46137514"
     },
     {
+      "title": "Valve reveals it’s the architect behind a push to bring Windows games to Arm",
+      "score": 159,
+      "url": "https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais",
+      "time": 1764707590.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46126446"
+    },
+    {
       "title": "1D Conway's Life glider found, 3.7B cells long",
-      "score": 77,
+      "score": 203,
       "url": "https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136",
       "time": 1764782689.0,
       "comments_url": "https://news.ycombinator.com/item?id=46137253"
     },
     {
-      "title": "MinIO is now in maintenance-mode",
-      "score": 189,
-      "url": "https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2",
-      "time": 1764777619.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46136023"
-    },
-    {
-      "title": "Launch HN: Phind 3 (YC S22) – Every answer is a mini-app",
-      "score": 15,
-      "url": "https://news.ycombinator.com/item?id=46137548",
-      "time": 1764784035.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46137548"
-    },
-    {
       "title": "RCE Vulnerability in React and Next.js",
-      "score": 109,
+      "score": 248,
       "url": "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp",
       "time": 1764777623.0,
       "comments_url": "https://news.ycombinator.com/item?id=46136026"
     },
     {
+      "title": "Lie groups are crucial to some of the most fundamental theories in physics",
+      "score": 41,
+      "url": "https://www.quantamagazine.org/what-are-lie-groups-20251203/",
+      "time": 1764789160.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46138632"
+    },
+    {
+      "title": "Micron Announces Exit from Crucial Consumer Business",
+      "score": 95,
+      "url": "https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business",
+      "time": 1764785072.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46137783"
+    },
+    {
+      "title": "Launch HN: Phind 3 (YC S22) – Every answer is a mini-app",
+      "score": 51,
+      "url": "https://news.ycombinator.com/item?id=46137548",
+      "time": 1764784035.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46137548"
+    },
+    {
+      "title": "Prompt Injection via Poetry",
+      "score": 34,
+      "url": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
+      "time": 1764784871.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46137746"
+    },
+    {
+      "title": "Why are my headphones buzzing whenever I run my game?",
+      "score": 98,
+      "url": "https://alexene.dev/2025/12/03/Why-do-my-headphones-buzz-when-i-run-my-game.html",
+      "time": 1764775830.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46135627"
+    },
+    {
       "title": "How to Synthesize a House Loop",
-      "score": 77,
+      "score": 119,
       "url": "https://loopmaster.xyz/tutorials/how-to-synthesize-a-house-loop",
       "time": 1764270296.0,
       "comments_url": "https://news.ycombinator.com/item?id=46072280"
     },
     {
-      "title": "Congressional lawmakers 47% pts better at picking stocks",
-      "score": 648,
-      "url": "https://www.nber.org/papers/w34524",
-      "time": 1764769810.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46134443"
+      "title": "MinIO is now in maintenance-mode",
+      "score": 321,
+      "url": "https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2",
+      "time": 1764777619.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46136023"
     },
     {
       "title": "Rocketable (YC W25) is hiring a founding engineer to automate software companies",
@@ -65,81 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=46136918"
     },
     {
-      "title": "You Can't Fool the Optimizer",
-      "score": 177,
+      "title": "R packages for data science",
+      "score": 27,
+      "url": "https://tidyverse.org/",
+      "time": 1764159520.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46056708"
+    },
+    {
+      "title": "Apple Desktop Bus Protocol (2021)",
+      "score": 33,
+      "url": "https://www.lopaciuk.eu/2021/03/26/apple-adb-protocol.html",
+      "time": 1764509992.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46096552"
+    },
+    {
+      "title": "You can't fool the optimizer",
+      "score": 213,
       "url": "https://xania.org/202512/03-more-adding-integers",
       "time": 1764764074.0,
       "comments_url": "https://news.ycombinator.com/item?id=46133622"
     },
     {
-      "title": "GSWT: Gaussian Splatting Wang Tiles",
-      "score": 50,
-      "url": "https://yunfan.zone/gswt_webpage/",
-      "time": 1764772825.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46134991"
+      "title": "Show HN: Fresh – A new terminal editor built in Rust",
+      "score": 54,
+      "url": "https://sinelaw.github.io/fresh/",
+      "time": 1764773126.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46135067"
     },
     {
-      "title": "Shrinking While Linking",
-      "score": 10,
-      "url": "https://www.tweag.io/blog/2025-11-27-shrinking-static-libs/",
-      "time": 1764497113.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46095372"
+      "title": "“Captain Gains” on Capitol Hill",
+      "score": 744,
+      "url": "https://www.nber.org/papers/w34524",
+      "time": 1764769810.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46134443"
     },
     {
-      "title": "Stop Talking",
-      "score": 3,
-      "url": "https://gurkan.in/2025/12/stop-talking/",
-      "time": 1764785389.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46137845"
-    },
-    {
-      "title": "A Look at Rust from 2012",
-      "score": 120,
-      "url": "https://purplesyringa.moe/blog/a-look-at-rust-from-2012/",
-      "time": 1764105156.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46050855"
-    },
-    {
-      "title": "Prompt Injection via Poetry",
-      "score": 6,
-      "url": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
-      "time": 1764784871.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46137746"
-    },
-    {
-      "title": "Are we repeating the telecoms crash with AI datacenters?",
-      "score": 80,
-      "url": "https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/",
-      "time": 1764760496.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46133141"
-    },
-    {
-      "title": "Zig quits GitHub, says Microsoft's AI obsession has ruined the service",
-      "score": 783,
-      "url": "https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/",
-      "time": 1764748357.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46131406"
-    },
-    {
-      "title": "Interview with RollerCoaster Tycoon's Creator, Chris Sawyer (2024)",
-      "score": 232,
-      "url": "https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13",
-      "time": 1764736336.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46130335"
-    },
-    {
-      "title": "Why are my headphones buzzing whenever I run my game?",
-      "score": 72,
-      "url": "https://alexene.dev/2025/12/03/Why-do-my-headphones-buzz-when-i-run-my-game.html",
-      "time": 1764775830.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46135627"
-    },
-    {
-      "title": "Helldivers 2 devs slash install size from 154GB to 23GB",
-      "score": 274,
-      "url": "https://www.tomshardware.com/video-games/pc-gaming/helldivers-2-install-size-slashed-from-154gb-to-just-23gb-85-percent-reduction-accomplished-by-de-duplicating-game-data-an-optimization-for-older-mechanical-hard-drives",
-      "time": 1764768058.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46134178"
+      "title": "Anthropic taps IPO lawyers as it races OpenAI to go public",
+      "score": 215,
+      "url": "https://www.ft.com/content/3254fa30-5bdb-4c30-8560-7cd7ebbefc5f",
+      "time": 1764755607.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46132531"
     }
   ]
 }
