@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-12-03T10:14:29.463497-05:00",
+  "last_updated": "2025-12-03T13:20:09.913211-05:00",
   "stories": [
     {
+      "title": "Steam Deck lead reveals Valve is funding ARM compatibility of Windows games",
+      "score": 142,
+      "url": "https://frvr.com/blog/news/steam-deck-lead-reveals-valve-is-funding-arm-compatibility-of-windows-games-to-expand-pc-gaming-and-release-ultraportables-in-the-future/",
+      "time": 1764781213.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46136901"
+    },
+    {
+      "title": "Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files",
+      "score": 68,
+      "url": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k",
+      "time": 1764783873.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46137514"
+    },
+    {
+      "title": "1D Conway's Life glider found, 3.7B cells long",
+      "score": 77,
+      "url": "https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136",
+      "time": 1764782689.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46137253"
+    },
+    {
+      "title": "MinIO is now in maintenance-mode",
+      "score": 189,
+      "url": "https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2",
+      "time": 1764777619.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46136023"
+    },
+    {
+      "title": "Launch HN: Phind 3 (YC S22) – Every answer is a mini-app",
+      "score": 15,
+      "url": "https://news.ycombinator.com/item?id=46137548",
+      "time": 1764784035.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46137548"
+    },
+    {
+      "title": "RCE Vulnerability in React and Next.js",
+      "score": 109,
+      "url": "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp",
+      "time": 1764777623.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46136026"
+    },
+    {
+      "title": "How to Synthesize a House Loop",
+      "score": 77,
+      "url": "https://loopmaster.xyz/tutorials/how-to-synthesize-a-house-loop",
+      "time": 1764270296.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46072280"
+    },
+    {
       "title": "Congressional lawmakers 47% pts better at picking stocks",
-      "score": 217,
+      "score": 648,
       "url": "https://www.nber.org/papers/w34524",
       "time": 1764769810.0,
       "comments_url": "https://news.ycombinator.com/item?id=46134443"
     },
     {
+      "title": "Rocketable (YC W25) is hiring a founding engineer to automate software companies",
+      "score": 1,
+      "url": "https://www.ycombinator.com/companies/rocketable/jobs/CArgzmX-founding-engineer-automation-platform",
+      "time": 1764781278.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46136918"
+    },
+    {
       "title": "You Can't Fool the Optimizer",
-      "score": 115,
+      "score": 177,
       "url": "https://xania.org/202512/03-more-adding-integers",
       "time": 1764764074.0,
       "comments_url": "https://news.ycombinator.com/item?id=46133622"
     },
     {
+      "title": "GSWT: Gaussian Splatting Wang Tiles",
+      "score": 50,
+      "url": "https://yunfan.zone/gswt_webpage/",
+      "time": 1764772825.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46134991"
+    },
+    {
+      "title": "Shrinking While Linking",
+      "score": 10,
+      "url": "https://www.tweag.io/blog/2025-11-27-shrinking-static-libs/",
+      "time": 1764497113.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46095372"
+    },
+    {
+      "title": "Stop Talking",
+      "score": 3,
+      "url": "https://gurkan.in/2025/12/stop-talking/",
+      "time": 1764785389.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46137845"
+    },
+    {
       "title": "A Look at Rust from 2012",
-      "score": 73,
+      "score": 120,
       "url": "https://purplesyringa.moe/blog/a-look-at-rust-from-2012/",
       "time": 1764105156.0,
       "comments_url": "https://news.ycombinator.com/item?id=46050855"
     },
     {
-      "title": "Anthropic acquires Bun",
-      "score": 1999,
-      "url": "https://bun.com/blog/bun-joins-anthropic",
-      "time": 1764698744.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46124267"
+      "title": "Prompt Injection via Poetry",
+      "score": 6,
+      "url": "https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/",
+      "time": 1764784871.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46137746"
     },
     {
-      "title": "Helldivers 2 devs slash install size from 154GB to 23GB",
-      "score": 129,
-      "url": "https://www.tomshardware.com/video-games/pc-gaming/helldivers-2-install-size-slashed-from-154gb-to-just-23gb-85-percent-reduction-accomplished-by-de-duplicating-game-data-an-optimization-for-older-mechanical-hard-drives",
-      "time": 1764768058.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46134178"
+      "title": "Are we repeating the telecoms crash with AI datacenters?",
+      "score": 80,
+      "url": "https://martinalderson.com/posts/are-we-really-repeating-the-telecoms-crash-with-ai-datacenters/",
+      "time": 1764760496.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46133141"
     },
     {
       "title": "Zig quits GitHub, says Microsoft's AI obsession has ruined the service",
-      "score": 595,
+      "score": 783,
       "url": "https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/",
       "time": 1764748357.0,
       "comments_url": "https://news.ycombinator.com/item?id=46131406"
     },
     {
-      "title": "IBM CEO says there is 'no way' spending on AI data centers will pay off",
-      "score": 692,
-      "url": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
-      "time": 1764699023.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46124324"
-    },
-    {
       "title": "Interview with RollerCoaster Tycoon's Creator, Chris Sawyer (2024)",
-      "score": 194,
+      "score": 232,
       "url": "https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13",
       "time": 1764736336.0,
       "comments_url": "https://news.ycombinator.com/item?id=46130335"
     },
     {
-      "title": "The \"Mad Men\" in 4K on HBO Max Debacle",
-      "score": 201,
-      "url": "http://fxrant.blogspot.com/2025/12/the-mad-men-in-4k-on-hbo-max-debacle.html",
-      "time": 1764762600.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46133422"
+      "title": "Why are my headphones buzzing whenever I run my game?",
+      "score": 72,
+      "url": "https://alexene.dev/2025/12/03/Why-do-my-headphones-buzz-when-i-run-my-game.html",
+      "time": 1764775830.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46135627"
     },
     {
-      "title": "Super fast aggregations in PostgreSQL 19",
-      "score": 140,
-      "url": "https://www.cybertec-postgresql.com/en/super-fast-aggregations-in-postgresql-19/",
-      "time": 1764135148.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46054467"
-    },
-    {
-      "title": "AI agents break rules under everyday pressure",
-      "score": 214,
-      "url": "https://spectrum.ieee.org/ai-agents-safety",
-      "time": 1764240735.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46067995"
-    },
-    {
-      "title": "Mission Critical Advanced Scheduling (ALAP/ASAP) System",
-      "score": 20,
-      "url": "https://github.com/rodmena-limited/scriptplan",
-      "time": 1764309020.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46075873"
-    },
-    {
-      "title": "Paged Out",
-      "score": 502,
-      "url": "https://pagedout.institute",
-      "time": 1764706460.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46126217"
-    },
-    {
-      "title": "Researchers Find Microbe Capable of Producing Oxygen from Martian Soil",
-      "score": 61,
-      "url": "https://scienceclock.com/microbe-that-could-turn-martian-dust-into-oxygen/",
-      "time": 1764743668.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46130907"
-    },
-    {
-      "title": "The Writing Is on the Wall for Handwriting Recognition",
-      "score": 101,
-      "url": "https://newsletter.dancohen.org/archive/the-writing-is-on-the-wall-for-handwriting-recognition/",
-      "time": 1764170082.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46058154"
-    },
-    {
-      "title": "Optimizations in C++ compilers: a practical journey",
-      "score": 9,
-      "url": "https://queue.acm.org/detail.cfm?id=3372264",
-      "time": 1764366122.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46083014"
-    },
-    {
-      "title": "OpenAI declares 'code red' as Google catches up in AI race",
-      "score": 738,
-      "url": "https://www.theverge.com/news/836212/openai-code-red-chatgpt",
-      "time": 1764687616.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46121870"
-    },
-    {
-      "title": "I designed and printed a custom nose guard to help my dog with DLE",
-      "score": 562,
-      "url": "https://snoutcover.com/billie-story",
-      "time": 1764485793.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46094460"
-    },
-    {
-      "title": "Trying Out C++26 Executors",
-      "score": 40,
-      "url": "https://mropert.github.io/2025/11/21/trying_out_stdexec/",
-      "time": 1764270656.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46072323"
-    },
-    {
-      "title": "Quad9 DOH HTTP/1.1 Retirement, December 15, 2025",
-      "score": 82,
-      "url": "https://quad9.net/news/blog/doh-http-1-1-retirement/",
-      "time": 1764742042.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46130784"
+      "title": "Helldivers 2 devs slash install size from 154GB to 23GB",
+      "score": 274,
+      "url": "https://www.tomshardware.com/video-games/pc-gaming/helldivers-2-install-size-slashed-from-154gb-to-just-23gb-85-percent-reduction-accomplished-by-de-duplicating-game-data-an-optimization-for-older-mechanical-hard-drives",
+      "time": 1764768058.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46134178"
     }
   ]
 }
