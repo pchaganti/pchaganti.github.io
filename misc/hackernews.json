@@ -1,75 +1,110 @@
 {
-  "last_updated": "2025-12-04T04:16:34.818491-05:00",
+  "last_updated": "2025-12-04T07:26:57.257440-05:00",
   "stories": [
     {
-      "title": "Elites Could Shape Mass Preferences as AI Reduces Persuasion Costs",
-      "score": 57,
-      "url": "https://arxiv.org/abs/2512.04047",
-      "time": 1764837497.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46145180"
+      "title": "PGlite – Embeddable Postgres",
+      "score": 121,
+      "url": "https://pglite.dev/",
+      "time": 1764845562.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46146133"
+    },
+    {
+      "title": "It’s time to free JavaScript",
+      "score": 127,
+      "url": "https://javascript.tm/letter",
+      "time": 1764838915.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46145365"
     },
     {
       "title": "Ghostty is now non-profit",
-      "score": 1080,
+      "score": 1161,
       "url": "https://mitchellh.com/writing/ghostty-non-profit",
       "time": 1764787206.0,
       "comments_url": "https://news.ycombinator.com/item?id=46138238"
     },
     {
       "title": "Valve reveals it’s the architect behind a push to bring Windows games to Arm",
-      "score": 736,
+      "score": 805,
       "url": "https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais",
       "time": 1764707590.0,
       "comments_url": "https://news.ycombinator.com/item?id=46126446"
     },
     {
-      "title": "Uncloud - Tool for deploying containerised apps across servers without k8s",
-      "score": 76,
-      "url": "https://uncloud.run/",
-      "time": 1764828143.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46144275"
+      "title": "NextJS Security Vulnerability",
+      "score": 18,
+      "url": "https://nextjs.org/blog/CVE-2025-66478",
+      "time": 1764846844.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46146266"
     },
     {
       "title": "Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files",
-      "score": 665,
+      "score": 716,
       "url": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k",
       "time": 1764783873.0,
       "comments_url": "https://news.ycombinator.com/item?id=46137514"
     },
     {
-      "title": "Average DRAM price in USD over last 18 months",
-      "score": 286,
-      "url": "https://pcpartpicker.com/trends/price/memory/",
-      "time": 1764806906.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46142100"
+      "title": "Uncloud - Tool for deploying containerised apps across servers without k8s",
+      "score": 172,
+      "url": "https://uncloud.run/",
+      "time": 1764828143.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46144275"
+    },
+    {
+      "title": "Elites could shape mass preferences as AI reduces persuasion costs",
+      "score": 223,
+      "url": "https://arxiv.org/abs/2512.04047",
+      "time": 1764837497.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46145180"
+    },
+    {
+      "title": "Show HN: Walrus – a Kafka alternative written in Rust",
+      "score": 33,
+      "url": "https://github.com/nubskr/walrus",
+      "time": 1764602893.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46108557"
+    },
+    {
+      "title": "Interop and MathML Core",
+      "score": 12,
+      "url": "https://conflor.es/blog/2025-11-27-interop-and-mathml/",
+      "time": 1764522152.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46098356"
+    },
+    {
+      "title": "Unreal Tournament 2004 is back",
+      "score": 110,
+      "url": "https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/",
+      "time": 1764842795.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46145834"
     },
     {
       "title": "Micron Announces Exit from Crucial Consumer Business",
-      "score": 552,
+      "score": 611,
       "url": "https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business",
       "time": 1764785072.0,
       "comments_url": "https://news.ycombinator.com/item?id=46137783"
     },
     {
-      "title": "The Mysterious Realm of JavaScriptCore (2021)",
-      "score": 5,
-      "url": "https://www.cyberark.com/resources/threat-research-blog/the-mysterious-realm-of-javascriptcore",
-      "time": 1764837213.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46145154"
+      "title": "Average DRAM price in USD over last 18 months",
+      "score": 359,
+      "url": "https://pcpartpicker.com/trends/price/memory/",
+      "time": 1764806906.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46142100"
     },
     {
       "title": "1D Conway's Life glider found, 3.7B cells long",
-      "score": 437,
+      "score": 461,
       "url": "https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136",
       "time": 1764782689.0,
       "comments_url": "https://news.ycombinator.com/item?id=46137253"
     },
     {
-      "title": "Show HN: I built a dashboard to compare mortgage rates across 120 credit unions",
-      "score": 250,
-      "url": "https://finfam.app/blog/credit-union-mortgages",
-      "time": 1764794127.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46139761"
+      "title": "Show HN: MTXT – Music Text Format",
+      "score": 8,
+      "url": "https://github.com/Daninet/mtxt",
+      "time": 1764498094.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46095474"
     },
     {
       "title": "Saturn (YC S24) Is Hiring Senior AI Engineer",
@@ -80,66 +115,31 @@
     },
     {
       "title": "RCE Vulnerability in React and Next.js",
-      "score": 517,
+      "score": 551,
       "url": "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp",
       "time": 1764777623.0,
       "comments_url": "https://news.ycombinator.com/item?id=46136026"
     },
     {
-      "title": "In Northern Scotland, the Neolithic Age Never Ended",
-      "score": 14,
-      "url": "https://www.newyorker.com/magazine/2025/12/01/in-northern-scotland-the-neolithic-age-never-ended",
-      "time": 1764440071.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46089548"
+      "title": "Show HN: I built a dashboard to compare mortgage rates across 120 credit unions",
+      "score": 268,
+      "url": "https://finfam.app/blog/credit-union-mortgages",
+      "time": 1764794127.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46139761"
     },
     {
-      "title": "Why WinQuake exists and how it works",
-      "score": 69,
-      "url": "https://fabiensanglard.net/winquake/index.html",
-      "time": 1764813495.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46142866"
+      "title": "Building optimistic UI in Rails (and learn custom elements)",
+      "score": 7,
+      "url": "https://railsdesigner.com/custom-elements/",
+      "time": 1764846196.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46146204"
     },
     {
-      "title": "Acme, a brief history of one of the protocols which has changed the Internet",
-      "score": 114,
-      "url": "https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/",
-      "time": 1764804514.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46141745"
-    },
-    {
-      "title": "Show HN: Mirror_bridge – C++ Reflection powered Python binding generation",
-      "score": 12,
-      "url": "https://github.com/FranciscoThiesen/mirror_bridge",
-      "time": 1764828743.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46144331"
-    },
-    {
-      "title": "Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server",
-      "score": 90,
-      "url": "https://www.isc.org/kea/",
-      "time": 1764806284.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46142000"
-    },
-    {
-      "title": "Show HN: A Minimal Monthly Task Planner (printable, offline, no signup)",
-      "score": 35,
-      "url": "https://printcalendar.top/",
-      "time": 1764826191.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46144113"
-    },
-    {
-      "title": "8086 Microcode Browser",
-      "score": 104,
-      "url": "https://nand2mario.github.io/posts/2025/8086_microcode_browser/",
-      "time": 1764796571.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46140244"
-    },
-    {
-      "title": "The Differences Between an IndyCar and a F1 Car",
-      "score": 69,
-      "url": "https://www.openwheelworld.net/en/indycar101/76/IndyCar_vs_Formula_1_cars",
-      "time": 1764547431.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46101816"
+      "title": "All the Way Down",
+      "score": 25,
+      "url": "https://www.futilitycloset.com/2025/11/17/all-the-way-down-2/",
+      "time": 1764392533.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46085280"
     }
   ]
 }
