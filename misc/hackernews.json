@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-12-04T07:26:57.257440-05:00",
+  "last_updated": "2025-12-04T10:15:15.311174-05:00",
   "stories": [
     {
-      "title": "PGlite – Embeddable Postgres",
-      "score": 121,
-      "url": "https://pglite.dev/",
-      "time": 1764845562.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46146133"
-    },
-    {
       "title": "It’s time to free JavaScript",
-      "score": 127,
+      "score": 379,
       "url": "https://javascript.tm/letter",
       "time": 1764838915.0,
       "comments_url": "https://news.ycombinator.com/item?id=46145365"
     },
     {
-      "title": "Ghostty is now non-profit",
-      "score": 1161,
-      "url": "https://mitchellh.com/writing/ghostty-non-profit",
-      "time": 1764787206.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46138238"
+      "title": "Transparent Leadership Beats Servant Leadership",
+      "score": 42,
+      "url": "https://entropicthoughts.com/transparent-leadership-beats-servant-leadership",
+      "time": 1764855600.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46147540"
     },
     {
-      "title": "Valve reveals it’s the architect behind a push to bring Windows games to Arm",
-      "score": 805,
-      "url": "https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais",
-      "time": 1764707590.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46126446"
+      "title": "I ignore the spotlight as a staff engineer",
+      "score": 133,
+      "url": "https://lalitm.com/software-engineering-outside-the-spotlight/",
+      "time": 1764848196.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46146451"
     },
     {
-      "title": "NextJS Security Vulnerability",
-      "score": 18,
-      "url": "https://nextjs.org/blog/CVE-2025-66478",
-      "time": 1764846844.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46146266"
+      "title": "Functional Quadtrees",
+      "score": 38,
+      "url": "https://lbjgruppen.com/en/posts/functional-quadtree-clojure",
+      "time": 1764854318.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46147341"
     },
     {
-      "title": "Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files",
-      "score": 716,
-      "url": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k",
-      "time": 1764783873.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46137514"
+      "title": "PGlite – Embeddable Postgres",
+      "score": 281,
+      "url": "https://pglite.dev/",
+      "time": 1764845562.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46146133"
     },
     {
-      "title": "Uncloud - Tool for deploying containerised apps across servers without k8s",
-      "score": 172,
-      "url": "https://uncloud.run/",
-      "time": 1764828143.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46144275"
+      "title": "A lost Amazon world just reappeared in Bolivia",
+      "score": 15,
+      "url": "https://www.sciencedaily.com/releases/2025/11/251130205421.htm",
+      "time": 1764574246.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46104539"
     },
     {
-      "title": "Elites could shape mass preferences as AI reduces persuasion costs",
-      "score": 223,
-      "url": "https://arxiv.org/abs/2512.04047",
-      "time": 1764837497.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46145180"
+      "title": "Japanese Four-Cylinder Engine Is So Reliable Still in Production After 25 Years",
+      "score": 32,
+      "url": "https://www.topspeed.com/reliable-japanese-four-cylinder-engine-still-in-production/",
+      "time": 1764850183.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46146740"
     },
     {
-      "title": "Show HN: Walrus – a Kafka alternative written in Rust",
-      "score": 33,
-      "url": "https://github.com/nubskr/walrus",
-      "time": 1764602893.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46108557"
-    },
-    {
-      "title": "Interop and MathML Core",
-      "score": 12,
-      "url": "https://conflor.es/blog/2025-11-27-interop-and-mathml/",
-      "time": 1764522152.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46098356"
-    },
-    {
-      "title": "Unreal Tournament 2004 is back",
-      "score": 110,
-      "url": "https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/",
-      "time": 1764842795.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46145834"
-    },
-    {
-      "title": "Micron Announces Exit from Crucial Consumer Business",
-      "score": 611,
-      "url": "https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business",
-      "time": 1764785072.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46137783"
-    },
-    {
-      "title": "Average DRAM price in USD over last 18 months",
-      "score": 359,
-      "url": "https://pcpartpicker.com/trends/price/memory/",
-      "time": 1764806906.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46142100"
-    },
-    {
-      "title": "1D Conway's Life glider found, 3.7B cells long",
-      "score": 461,
-      "url": "https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136",
-      "time": 1764782689.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46137253"
+      "title": "Show HN: I analyzed 8k near-death experiences with AI and made them listenable",
+      "score": 6,
+      "url": "https://www.noeticmap.com/",
+      "time": 1764858351.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46147989"
     },
     {
       "title": "Show HN: MTXT – Music Text Format",
-      "score": 8,
+      "score": 38,
       "url": "https://github.com/Daninet/mtxt",
       "time": 1764498094.0,
       "comments_url": "https://news.ycombinator.com/item?id=46095474"
     },
     {
-      "title": "Saturn (YC S24) Is Hiring Senior AI Engineer",
-      "score": 1,
-      "url": "https://www.ycombinator.com/companies/saturn/jobs/R9s9o5f-senior-ai-engineer",
-      "time": 1764831651.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46144613"
-    },
-    {
-      "title": "RCE Vulnerability in React and Next.js",
-      "score": 551,
-      "url": "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp",
-      "time": 1764777623.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46136026"
-    },
-    {
-      "title": "Show HN: I built a dashboard to compare mortgage rates across 120 credit unions",
-      "score": 268,
-      "url": "https://finfam.app/blog/credit-union-mortgages",
-      "time": 1764794127.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46139761"
-    },
-    {
       "title": "Building optimistic UI in Rails (and learn custom elements)",
-      "score": 7,
+      "score": 36,
       "url": "https://railsdesigner.com/custom-elements/",
       "time": 1764846196.0,
       "comments_url": "https://news.ycombinator.com/item?id=46146204"
     },
     {
-      "title": "All the Way Down",
-      "score": 25,
-      "url": "https://www.futilitycloset.com/2025/11/17/all-the-way-down-2/",
-      "time": 1764392533.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46085280"
+      "title": "RAM is so expensive, Samsung won't even sell it to Samsung",
+      "score": 105,
+      "url": "https://www.pcworld.com/article/2998935/ram-is-so-expensive-samsung-wont-even-sell-it-to-samsung.html",
+      "time": 1764854407.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46147353"
+    },
+    {
+      "title": "Show HN: Walrus – a Kafka alternative written in Rust",
+      "score": 71,
+      "url": "https://github.com/nubskr/walrus",
+      "time": 1764602893.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46108557"
+    },
+    {
+      "title": "Unreal Tournament 2004 is back",
+      "score": 242,
+      "url": "https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/",
+      "time": 1764842795.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46145834"
+    },
+    {
+      "title": "Human hair grows through 'pulling' not pushing, study shows",
+      "score": 44,
+      "url": "https://phys.org/news/2025-12-human-hair.html",
+      "time": 1764854555.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46147371"
+    },
+    {
+      "title": "Uncloud - Tool for deploying containerised apps across servers without k8s",
+      "score": 212,
+      "url": "https://uncloud.run/",
+      "time": 1764828143.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46144275"
+    },
+    {
+      "title": "Micron Announces Exit from Crucial Consumer Business",
+      "score": 659,
+      "url": "https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business",
+      "time": 1764785072.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46137783"
+    },
+    {
+      "title": "Interop and MathML Core",
+      "score": 27,
+      "url": "https://conflor.es/blog/2025-11-27-interop-and-mathml/",
+      "time": 1764522152.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46098356"
+    },
+    {
+      "title": "30 years ago today \"Netscape and Sun announce JavaScript\"",
+      "score": 82,
+      "url": "https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html",
+      "time": 1764847920.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46146406"
+    },
+    {
+      "title": "Contextualization Machines",
+      "score": 3,
+      "url": "https://stochasm.blog/posts/contextualization-machines/",
+      "time": 1764605679.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46109130"
+    },
+    {
+      "title": "Imo.im – Instant Messenger",
+      "score": 10,
+      "url": "https://imo.im/",
+      "time": 1764851147.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46146877"
     }
   ]
 }
