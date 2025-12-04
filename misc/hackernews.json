@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-12-04T01:19:47.807441-05:00",
+  "last_updated": "2025-12-04T04:16:34.818491-05:00",
   "stories": [
     {
+      "title": "Elites Could Shape Mass Preferences as AI Reduces Persuasion Costs",
+      "score": 57,
+      "url": "https://arxiv.org/abs/2512.04047",
+      "time": 1764837497.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46145180"
+    },
+    {
       "title": "Ghostty is now non-profit",
-      "score": 954,
+      "score": 1080,
       "url": "https://mitchellh.com/writing/ghostty-non-profit",
       "time": 1764787206.0,
       "comments_url": "https://news.ycombinator.com/item?id=46138238"
     },
     {
-      "title": "New homes in London were delayed by 'energy-hungry' data centres",
-      "score": 64,
-      "url": "https://www.bbc.com/news/articles/c0mpr1mvwj3o",
-      "time": 1764820269.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46143622"
-    },
-    {
       "title": "Valve reveals it’s the architect behind a push to bring Windows games to Arm",
-      "score": 622,
+      "score": 736,
       "url": "https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais",
       "time": 1764707590.0,
       "comments_url": "https://news.ycombinator.com/item?id=46126446"
     },
     {
-      "title": "Average DRAM price in USD over last 18 months",
-      "score": 173,
-      "url": "https://pcpartpicker.com/trends/price/memory/",
-      "time": 1764806906.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46142100"
+      "title": "Uncloud - Tool for deploying containerised apps across servers without k8s",
+      "score": 76,
+      "url": "https://uncloud.run/",
+      "time": 1764828143.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46144275"
     },
     {
       "title": "Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files",
-      "score": 591,
+      "score": 665,
       "url": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k",
       "time": 1764783873.0,
       "comments_url": "https://news.ycombinator.com/item?id=46137514"
     },
     {
+      "title": "Average DRAM price in USD over last 18 months",
+      "score": 286,
+      "url": "https://pcpartpicker.com/trends/price/memory/",
+      "time": 1764806906.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46142100"
+    },
+    {
       "title": "Micron Announces Exit from Crucial Consumer Business",
-      "score": 472,
+      "score": 552,
       "url": "https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business",
       "time": 1764785072.0,
       "comments_url": "https://news.ycombinator.com/item?id=46137783"
     },
     {
+      "title": "The Mysterious Realm of JavaScriptCore (2021)",
+      "score": 5,
+      "url": "https://www.cyberark.com/resources/threat-research-blog/the-mysterious-realm-of-javascriptcore",
+      "time": 1764837213.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46145154"
+    },
+    {
       "title": "1D Conway's Life glider found, 3.7B cells long",
-      "score": 398,
+      "score": 437,
       "url": "https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136",
       "time": 1764782689.0,
       "comments_url": "https://news.ycombinator.com/item?id=46137253"
     },
     {
-      "title": "The Differences Between an IndyCar and a F1 Car",
-      "score": 33,
-      "url": "https://www.openwheelworld.net/en/indycar101/76/IndyCar_vs_Formula_1_cars",
-      "time": 1764547431.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46101816"
-    },
-    {
       "title": "Show HN: I built a dashboard to compare mortgage rates across 120 credit unions",
-      "score": 214,
+      "score": 250,
       "url": "https://finfam.app/blog/credit-union-mortgages",
       "time": 1764794127.0,
       "comments_url": "https://news.ycombinator.com/item?id=46139761"
     },
     {
-      "title": "Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server",
-      "score": 69,
-      "url": "https://www.isc.org/kea/",
-      "time": 1764806284.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46142000"
-    },
-    {
-      "title": "Acme, a brief history of one of the protocols which has changed the Internet",
-      "score": 86,
-      "url": "https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/",
-      "time": 1764804514.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46141745"
-    },
-    {
-      "title": "Russia Bans Roblox",
-      "score": 47,
-      "url": "https://www.bbc.com/news/articles/cn41q11gy58o",
-      "time": 1764822854.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46143841"
+      "title": "Saturn (YC S24) Is Hiring Senior AI Engineer",
+      "score": 1,
+      "url": "https://www.ycombinator.com/companies/saturn/jobs/R9s9o5f-senior-ai-engineer",
+      "time": 1764831651.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46144613"
     },
     {
       "title": "RCE Vulnerability in React and Next.js",
-      "score": 461,
+      "score": 517,
       "url": "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp",
       "time": 1764777623.0,
       "comments_url": "https://news.ycombinator.com/item?id=46136026"
     },
     {
+      "title": "In Northern Scotland, the Neolithic Age Never Ended",
+      "score": 14,
+      "url": "https://www.newyorker.com/magazine/2025/12/01/in-northern-scotland-the-neolithic-age-never-ended",
+      "time": 1764440071.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46089548"
+    },
+    {
+      "title": "Why WinQuake exists and how it works",
+      "score": 69,
+      "url": "https://fabiensanglard.net/winquake/index.html",
+      "time": 1764813495.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46142866"
+    },
+    {
+      "title": "Acme, a brief history of one of the protocols which has changed the Internet",
+      "score": 114,
+      "url": "https://blog.brocas.org/2025/12/01/ACME-a-brief-history-of-one-of-the-protocols-which-has-changed-the-Internet-Security/",
+      "time": 1764804514.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46141745"
+    },
+    {
+      "title": "Show HN: Mirror_bridge – C++ Reflection powered Python binding generation",
+      "score": 12,
+      "url": "https://github.com/FranciscoThiesen/mirror_bridge",
+      "time": 1764828743.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46144331"
+    },
+    {
+      "title": "Kea DHCP: Modern, open source DHCPv4 and DHCPv6 server",
+      "score": 90,
+      "url": "https://www.isc.org/kea/",
+      "time": 1764806284.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46142000"
+    },
+    {
+      "title": "Show HN: A Minimal Monthly Task Planner (printable, offline, no signup)",
+      "score": 35,
+      "url": "https://printcalendar.top/",
+      "time": 1764826191.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46144113"
+    },
+    {
       "title": "8086 Microcode Browser",
-      "score": 83,
+      "score": 104,
       "url": "https://nand2mario.github.io/posts/2025/8086_microcode_browser/",
       "time": 1764796571.0,
       "comments_url": "https://news.ycombinator.com/item?id=46140244"
     },
     {
-      "title": "Euler Conjecture and CDC 6600",
-      "score": 19,
-      "url": "https://fortran-lang.discourse.group/t/euler-conjecture-and-cdc-6600/10501",
-      "time": 1764820236.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46143618"
-    },
-    {
-      "title": "Ethiopian Volcano Erupts for First Time in Nearly 12K Years of Records",
-      "score": 29,
-      "url": "https://www.smithsonianmag.com/smart-news/ethiopian-volcano-erupts-for-the-first-time-in-nearly-12000-years-of-scientific-records-180987764/",
-      "time": 1764517596.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46097563"
-    },
-    {
-      "title": "Show HN: Identifiy test coverage gaps in your Go projects",
-      "score": 9,
-      "url": "https://github.com/LeanerCloud/testvet",
-      "time": 1764540428.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46100913"
-    },
-    {
-      "title": "Lie groups are crucial to some of the most fundamental theories in physics",
-      "score": 114,
-      "url": "https://www.quantamagazine.org/what-are-lie-groups-20251203/",
-      "time": 1764789160.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46138632"
-    },
-    {
-      "title": "Launch HN: Phind 3 (YC S22) – Every answer is a mini-app",
-      "score": 97,
-      "url": "https://news.ycombinator.com/item?id=46137548",
-      "time": 1764784035.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46137548"
-    },
-    {
-      "title": "Preserving Snow Crystals",
-      "score": 31,
-      "url": "https://www.its.caltech.edu/~atomic/snowcrystals/preserve/preserve.htm",
-      "time": 1764405141.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46085982"
+      "title": "The Differences Between an IndyCar and a F1 Car",
+      "score": 69,
+      "url": "https://www.openwheelworld.net/en/indycar101/76/IndyCar_vs_Formula_1_cars",
+      "time": 1764547431.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46101816"
     }
   ]
 }
