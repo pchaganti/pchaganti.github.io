@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-12-04T16:11:56.812861-05:00",
+  "last_updated": "2025-12-04T19:59:36.569985-05:00",
   "stories": [
     {
-      "title": "Plane crashed after 3D-printed part collapsed",
-      "score": 29,
-      "url": "https://www.bbc.com/news/articles/c1w932vqye0o",
-      "time": 1764881768.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46152941"
+      "title": "AV1 – Now Powering 30% of Netflix Streaming",
+      "score": 40,
+      "url": "https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80",
+      "time": 1764893397.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46155135"
+    },
+    {
+      "title": "CUDA-l2: Surpassing cuBLAS performance for matrix multiplication through RL",
+      "score": 69,
+      "url": "https://github.com/deepreinforce-ai/CUDA-L2",
+      "time": 1764882269.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46153058"
+    },
+    {
+      "title": "State of AI: An Empirical 100T Token Study with OpenRouter",
+      "score": 84,
+      "url": "https://openrouter.ai/state-of-ai",
+      "time": 1764887203.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46154022"
+    },
+    {
+      "title": "We gave 5 LLMs $100K to trade stocks for 8 months",
+      "score": 114,
+      "url": "https://www.aitradearena.com/research/we-ran-llms-for-8-months",
+      "time": 1764889705.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46154491"
     },
     {
       "title": "Multivox: Volumetric Display",
-      "score": 154,
+      "score": 218,
       "url": "https://github.com/AncientJames/multivox",
       "time": 1764867515.0,
       "comments_url": "https://news.ycombinator.com/item?id=46149813"
     },
     {
-      "title": "Transparent leadership beats servant leadership",
-      "score": 303,
-      "url": "https://entropicthoughts.com/transparent-leadership-beats-servant-leadership",
-      "time": 1764855600.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46147540"
-    },
-    {
-      "title": "Why are 38 percent of Stanford students saying they're disabled?",
-      "score": 255,
-      "url": "https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/",
-      "time": 1764871447.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46150715"
+      "title": "Thoughts on Go vs. Rust vs. Zig",
+      "score": 194,
+      "url": "https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/",
+      "time": 1764884424.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46153466"
     },
     {
       "title": "It’s time to free JavaScript (2024)",
-      "score": 585,
+      "score": 644,
       "url": "https://javascript.tm/letter",
       "time": 1764838915.0,
       "comments_url": "https://news.ycombinator.com/item?id=46145365"
     },
     {
-      "title": "PyTogether: Collaborative lightweight real-time Python IDE for teachers/learners",
-      "score": 35,
-      "url": "https://github.com/SJRiz/pytogether",
-      "time": 1764870187.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46150447"
+      "title": "Transparent leadership beats servant leadership",
+      "score": 357,
+      "url": "https://entropicthoughts.com/transparent-leadership-beats-servant-leadership",
+      "time": 1764855600.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46147540"
+    },
+    {
+      "title": "Trick users and bypass warnings – Modern SVG Clickjacking attacks",
+      "score": 13,
+      "url": "https://lyra.horse/blog/2025/12/svg-clickjacking/",
+      "time": 1764893016.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46155085"
+    },
+    {
+      "title": "Django 6",
+      "score": 205,
+      "url": "https://docs.djangoproject.com/en/6.0/releases/6.0/",
+      "time": 1764882596.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46153116"
+    },
+    {
+      "title": "StardustOS: Library operating system for building light-weight Unikernels",
+      "score": 13,
+      "url": "https://github.com/StardustOS",
+      "time": 1764888968.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46154344"
+    },
+    {
+      "title": "Why are 38 percent of Stanford students saying they're disabled?",
+      "score": 442,
+      "url": "https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/",
+      "time": 1764871447.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46150715"
     },
     {
       "title": "How elites could shape mass preferences as AI reduces persuasion costs",
-      "score": 410,
+      "score": 480,
       "url": "https://arxiv.org/abs/2512.04047",
       "time": 1764837497.0,
       "comments_url": "https://news.ycombinator.com/item?id=46145180"
     },
     {
-      "title": "Feynman vs. Computer",
-      "score": 44,
-      "url": "https://entropicthoughts.com/feynman-vs-computer",
-      "time": 1764864182.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46149066"
+      "title": "Help, My Java Object Vanished (and the GC Is Not at Fault)",
+      "score": 11,
+      "url": "https://arraying.de/posts/markword/",
+      "time": 1764424050.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46087509"
     },
     {
-      "title": "Hammersmith Bridge – Where did 25,000 vehicles go?",
-      "score": 20,
-      "url": "https://nickmaini.substack.com/p/hammersmith-bridge",
-      "time": 1764874342.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46151335"
+      "title": "A Cozy Mk IV light aircraft crashed after 3D-printed part was weakened by heat",
+      "score": 213,
+      "url": "https://www.bbc.com/news/articles/c1w932vqye0o",
+      "time": 1764881768.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46152941"
     },
     {
-      "title": "The RAM shortage comes for us all",
-      "score": 199,
-      "url": "https://www.jeffgeerling.com/blog/2025/ram-shortage-comes-us-all",
-      "time": 1764875771.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46151578"
-    },
-    {
-      "title": "I ignore the spotlight as a staff engineer",
-      "score": 355,
-      "url": "https://lalitm.com/software-engineering-outside-the-spotlight/",
-      "time": 1764848196.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46146451"
+      "title": "PyTogether: Collaborative lightweight real-time Python IDE for teachers/learners",
+      "score": 56,
+      "url": "https://github.com/SJRiz/pytogether",
+      "time": 1764870187.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46150447"
     },
     {
       "title": "Show HN: Onlyrecipe 2.0 – I added all features HN requested – 4 years later",
-      "score": 80,
+      "score": 123,
       "url": "https://onlyrecipeapp.com/?url=https://www.allrecipes.com/turkish-pasta-recipe-8754903",
       "time": 1764860768.0,
       "comments_url": "https://news.ycombinator.com/item?id=46148460"
     },
     {
-      "title": "Autism should not be treated as a single condition",
-      "score": 131,
-      "url": "https://www.economist.com/science-and-technology/2025/12/03/why-autism-should-not-be-treated-as-a-single-condition",
-      "time": 1764865531.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46149375"
-    },
-    {
-      "title": "Converge (YC S23) is hiring a martech expert in NYC",
-      "score": 1,
-      "url": "https://www.runconverge.com/careers/technical-customer-success-manager",
-      "time": 1764867637.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46149849"
-    },
-    {
-      "title": "Launch HN: Browser Buddy (YC W24) – A recommendation system for Internet writing",
-      "score": 28,
-      "url": "https://www.browserbuddy.com/",
-      "time": 1764867176.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46149727"
+      "title": "I ignore the spotlight as a staff engineer",
+      "score": 402,
+      "url": "https://lalitm.com/software-engineering-outside-the-spotlight/",
+      "time": 1764848196.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46146451"
     },
     {
       "title": "Fighting the age-gated internet",
-      "score": 104,
+      "score": 158,
       "url": "https://www.wired.com/story/age-verification-is-sweeping-the-us-activists-are-fighting-back/",
       "time": 1764855267.0,
       "comments_url": "https://news.ycombinator.com/item?id=46147493"
     },
     {
-      "title": "Functional Quadtrees",
-      "score": 99,
-      "url": "https://lbjgruppen.com/en/posts/functional-quadtree-clojure",
-      "time": 1764854318.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46147341"
-    },
-    {
-      "title": "Microsoft drops AI sales targets in half after salespeople miss their quotas",
-      "score": 277,
-      "url": "https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/",
-      "time": 1764862312.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46148748"
-    },
-    {
-      "title": "Yawning abyss of the decimal labyrinth",
-      "score": 8,
-      "url": "https://oh4.co/site/numogrammaticism.html",
-      "time": 1764278650.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46073346"
-    },
-    {
-      "title": "EU's top court just made it impossible to run a user-generated platform legally",
-      "score": 32,
-      "url": "https://www.techdirt.com/2025/12/04/eus-top-court-just-made-it-literally-impossible-to-run-a-user-generated-content-platform-legally/",
-      "time": 1764878104.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46152098"
+      "title": "SMS phishers pivot to points, taxes, fake retailers",
+      "score": 38,
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "time": 1764889687.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46154484"
     }
   ]
 }
