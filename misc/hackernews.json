@@ -1,54 +1,96 @@
 {
-  "last_updated": "2025-12-06T13:16:28.384124-05:00",
+  "last_updated": "2025-12-06T16:10:39.223991-05:00",
   "stories": [
     {
-      "title": "Perl's Decline Was Cultural",
-      "score": 33,
-      "url": "https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical",
-      "time": 1765042927.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46175112"
-    },
-    {
       "title": "Tiny Core Linux: a 23 MB Linux distro with graphical desktop",
-      "score": 187,
+      "score": 283,
       "url": "http://www.tinycorelinux.net/",
       "time": 1765030722.0,
       "comments_url": "https://news.ycombinator.com/item?id=46173547"
     },
     {
-      "title": "HTML as an Accessible Format for Papers",
-      "score": 100,
-      "url": "https://info.arxiv.org/about/accessible_HTML.html",
-      "time": 1765033192.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46173825"
+      "title": "OMSCS Open Courseware",
+      "score": 52,
+      "url": "https://sites.gatech.edu/omscsopencourseware/",
+      "time": 1765048475.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46175826"
     },
     {
       "title": "GrapheneOS is the only Android OS providing full security patches",
-      "score": 139,
+      "score": 294,
       "url": "https://grapheneos.social/@GrapheneOS/115647408229616018",
       "time": 1765029511.0,
       "comments_url": "https://news.ycombinator.com/item?id=46173407"
     },
     {
       "title": "Z-Image: Powerful and highly efficient image generation model with 6B parameters",
-      "score": 60,
+      "score": 153,
       "url": "https://github.com/Tongyi-MAI/Z-Image",
       "time": 1764502594.0,
       "comments_url": "https://news.ycombinator.com/item?id=46095817"
     },
     {
+      "title": "HTML as an Accessible Format for Papers",
+      "score": 160,
+      "url": "https://info.arxiv.org/about/accessible_HTML.html",
+      "time": 1765033192.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46173825"
+    },
+    {
+      "title": "Autism's confusing cousins",
+      "score": 163,
+      "url": "https://www.psychiatrymargins.com/p/autisms-confusing-cousins",
+      "time": 1765019920.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46172443"
+    },
+    {
+      "title": "Abstract Interpretation in the Toy Optimizer",
+      "score": 13,
+      "url": "https://bernsteinbear.com/blog/toy-abstract-interpretation/",
+      "time": 1764814187.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46142949"
+    },
+    {
+      "title": "The general who refused to crush Tiananmen's protesters",
+      "score": 57,
+      "url": "https://www.economist.com/china/2025/12/04/the-general-who-refused-to-crush-tiananmens-protesters",
+      "time": 1765050433.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46176072"
+    },
+    {
+      "title": "Zebra-Llama: Towards Efficient Hybrid Models",
+      "score": 3,
+      "url": "https://arxiv.org/abs/2505.17272",
+      "time": 1765052154.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46176289"
+    },
+    {
       "title": "Touching the Elephant – TPUs",
-      "score": 76,
+      "score": 121,
       "url": "https://considerthebulldog.com/tte-tpu/",
       "time": 1765024168.0,
       "comments_url": "https://news.ycombinator.com/item?id=46172797"
     },
     {
-      "title": "Show HN: SFX – A language where 0.1 and 0.2 = 0.3 and Context is first-class",
-      "score": 6,
-      "url": "https://github.com/roriau0422/sfex-lang",
-      "time": 1765041183.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46174878"
+      "title": "Finding Gene Cernan's Missing Moon Camera",
+      "score": 36,
+      "url": "https://www.spacecamera.co/articles/2020/3/3/gene-cernans-missing-lunar-surface-camera",
+      "time": 1764719998.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46128616"
+    },
+    {
+      "title": "Traveling Neighborhoods",
+      "score": 3,
+      "url": "https://supernuclear.substack.com/p/traveling-neighborhoods",
+      "time": 1764515089.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46097201"
+    },
+    {
+      "title": "Linux Instal Fest Belgrade",
+      "score": 131,
+      "url": "https://dmz.rs/lif2025_en",
+      "time": 1765016419.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46172167"
     },
     {
       "title": "Infisical (YC W23) Is Hiring Engineers to Build the Modern OSS Security Stack",
@@ -59,87 +101,45 @@
     },
     {
       "title": "The unexpected effectiveness of one-shot decompilation with Claude",
-      "score": 100,
+      "score": 134,
       "url": "https://blog.chrislewis.au/the-unexpected-effectiveness-of-one-shot-decompilation-with-claude/",
       "time": 1764349668.0,
       "comments_url": "https://news.ycombinator.com/item?id=46080498"
     },
     {
-      "title": "Linux Instal Fest Belgrade",
-      "score": 105,
-      "url": "https://dmz.rs/lif2025_en",
-      "time": 1765016419.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46172167"
-    },
-    {
-      "title": "A compact camera built using an optical mouse",
-      "score": 195,
-      "url": "https://petapixel.com/2025/11/13/this-guy-built-a-compact-camera-using-an-optical-mouse/",
-      "time": 1764777749.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46136059"
-    },
-    {
       "title": "Mapping Amazing: Bee Maps",
-      "score": 26,
+      "score": 45,
       "url": "https://maphappenings.com/2025/11/06/bee-maps/",
       "time": 1764492601.0,
       "comments_url": "https://news.ycombinator.com/item?id=46094989"
     },
     {
-      "title": "Self-hosting my photos with Immich",
-      "score": 543,
-      "url": "https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/",
-      "time": 1764493900.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46095087"
-    },
-    {
-      "title": "How I discovered a hidden microphone on a Chinese NanoKVM",
-      "score": 202,
-      "url": "https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/",
-      "time": 1765029299.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46173383"
+      "title": "A compact camera built using an optical mouse",
+      "score": 217,
+      "url": "https://petapixel.com/2025/11/13/this-guy-built-a-compact-camera-using-an-optical-mouse/",
+      "time": 1764777749.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46136059"
     },
     {
       "title": "Kids who ran away to 1960s San Francisco",
-      "score": 72,
+      "score": 100,
       "url": "https://www.fieldnotes.nautilus.quest/p/the-kids-who-ran-away-to-1960s-san",
       "time": 1764696136.0,
       "comments_url": "https://news.ycombinator.com/item?id=46123720"
     },
     {
+      "title": "Self-hosting my photos with Immich",
+      "score": 583,
+      "url": "https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/",
+      "time": 1764493900.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46095087"
+    },
+    {
       "title": "Cloudflare outage on December 5, 2025",
-      "score": 732,
+      "score": 747,
       "url": "https://blog.cloudflare.com/5-december-2025-outage/",
       "time": 1764948943.0,
       "comments_url": "https://news.ycombinator.com/item?id=46162656"
-    },
-    {
-      "title": "The Absent Silence (2010)",
-      "score": 56,
-      "url": "https://www.ursulakleguin.com/blog/3-the-absent-silence",
-      "time": 1764680395.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46120764"
-    },
-    {
-      "title": "Detecting AV1-encoded videos with Python",
-      "score": 6,
-      "url": "https://alexwlchan.net/2025/detecting-av1-videos/",
-      "time": 1764689349.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46122168"
-    },
-    {
-      "title": "Netflix to Acquire Warner Bros",
-      "score": 1640,
-      "url": "https://about.netflix.com/en/news/netflix-to-acquire-warner-bros",
-      "time": 1764937279.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46160315"
-    },
-    {
-      "title": "PalmOS on FisherPrice Pixter Toy",
-      "score": 156,
-      "url": "https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm#pixter",
-      "time": 1764991064.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46170309"
     }
   ]
 }
