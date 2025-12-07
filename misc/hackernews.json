@@ -1,142 +1,142 @@
 {
-  "last_updated": "2025-12-07T07:21:36.851873-05:00",
+  "last_updated": "2025-12-07T10:10:35.831911-05:00",
   "stories": [
     {
+      "title": "Java Hello World, LLVM Edition",
+      "score": 75,
+      "url": "https://www.javaadvent.com/2025/12/java-hello-world-llvm-edition.html",
+      "time": 1765108262.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46181076"
+    },
+    {
+      "title": "At least 50 hallucinated citations found in ICLR 2026 submissions",
+      "score": 46,
+      "url": "https://gptzero.me/news/iclr-2026/",
+      "time": 1765113386.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46181466"
+    },
+    {
+      "title": "Goodbye, Microsoft: Schleswig-Holstein Relies on Open Source and Saves Millions",
+      "score": 138,
+      "url": "https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html",
+      "time": 1765113684.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46181491"
+    },
+    {
+      "title": "Google Titans architecture, helping AI have long-term memory",
+      "score": 50,
+      "url": "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/",
+      "time": 1765110225.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46181231"
+    },
+    {
       "title": "Using LLMs at Oxide",
-      "score": 439,
+      "score": 525,
       "url": "https://rfd.shared.oxide.computer/rfd/0576",
       "time": 1765070260.0,
       "comments_url": "https://news.ycombinator.com/item?id=46178347"
     },
     {
       "title": "Kilauea erupts, destroying webcam [video]",
-      "score": 370,
+      "score": 433,
       "url": "https://www.youtube.com/watch?v=TK2N99BDw7A",
       "time": 1765064342.0,
       "comments_url": "https://news.ycombinator.com/item?id=46177645"
     },
     {
+      "title": "The Anatomy of a macOS App",
+      "score": 9,
+      "url": "https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/",
+      "time": 1765110713.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46181268"
+    },
+    {
+      "title": "Duplication Isn't Always an Anti-Pattern",
+      "score": 18,
+      "url": "https://medium.com/@HobokenDays/rethinking-duplication-c1f85f1c0102",
+      "time": 1764665912.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46119117"
+    },
+    {
       "title": "Z2 – Lithographically fabricated IC in a garage fab",
-      "score": 202,
+      "score": 236,
       "url": "https://sam.zeloof.xyz/second-ic/",
       "time": 1765076589.0,
       "comments_url": "https://news.ycombinator.com/item?id=46178789"
     },
     {
       "title": "Screenshots from developers: 2002 vs. 2015 (2015)",
-      "score": 322,
+      "score": 361,
       "url": "https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/",
       "time": 1765058109.0,
       "comments_url": "https://news.ycombinator.com/item?id=46176905"
     },
     {
       "title": "GrapheneOS is the only Android OS providing full security patches",
-      "score": 626,
+      "score": 665,
       "url": "https://grapheneos.social/@GrapheneOS/115647408229616018",
       "time": 1765029511.0,
       "comments_url": "https://news.ycombinator.com/item?id=46173407"
     },
     {
       "title": "The past was not that cute",
-      "score": 222,
+      "score": 293,
       "url": "https://juliawise.net/the-past-was-not-that-cute/",
       "time": 1765058015.0,
       "comments_url": "https://news.ycombinator.com/item?id=46176893"
     },
     {
-      "title": "Principles of Slack Maximalism",
-      "score": 26,
-      "url": "https://aelerinya.substack.com/p/the-10-principles-of-slack-maximalism",
-      "time": 1764354976.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46081418"
-    },
-    {
-      "title": "Eurydice: a Rust to C compiler (yes)",
-      "score": 116,
-      "url": "https://jonathan.protzenko.fr/2025/10/28/eurydice.html",
-      "time": 1765071693.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46178442"
-    },
-    {
-      "title": "Tiny Core Linux: a 23 MB Linux distro with graphical desktop",
-      "score": 453,
-      "url": "http://www.tinycorelinux.net/",
-      "time": 1765030722.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46173547"
-    },
-    {
-      "title": "Discovering the indieweb with calm tech",
-      "score": 104,
-      "url": "https://alexsci.com/blog/calm-tech-discover/",
-      "time": 1765077961.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46178892"
-    },
-    {
-      "title": "Perl's decline was cultural",
-      "score": 274,
-      "url": "https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical",
-      "time": 1765042927.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46175112"
-    },
-    {
-      "title": "Z-Image: Powerful and highly efficient image generation model with 6B parameters",
-      "score": 321,
-      "url": "https://github.com/Tongyi-MAI/Z-Image",
-      "time": 1764502594.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46095817"
-    },
-    {
-      "title": "Bikeshedding, or why I want to build a laptop",
-      "score": 144,
-      "url": "https://geohot.github.io//blog/jekyll/update/2025/11/29/bikeshedding-or-laptop.html",
-      "time": 1764551281.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46102276"
-    },
-    {
-      "title": "What even is \"literate programming\"?",
-      "score": 19,
+      "title": "What even is \"literate programming\"? (2024)",
+      "score": 37,
       "url": "https://pqnelson.github.io/2024/05/29/literate-programming.html",
       "time": 1764705369.0,
       "comments_url": "https://news.ycombinator.com/item?id=46125963"
     },
     {
-      "title": "HTML as an Accessible Format for Papers (2023)",
-      "score": 239,
-      "url": "https://info.arxiv.org/about/accessible_HTML.html",
-      "time": 1765033192.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46173825"
+      "title": "Eurydice: a Rust to C compiler (yes)",
+      "score": 133,
+      "url": "https://jonathan.protzenko.fr/2025/10/28/eurydice.html",
+      "time": 1765071693.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46178442"
     },
     {
-      "title": "Zebra-Llama – Towards efficient hybrid models",
-      "score": 97,
-      "url": "https://arxiv.org/abs/2505.17272",
-      "time": 1765052154.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46176289"
+      "title": "Discovering the indieweb with calm tech",
+      "score": 132,
+      "url": "https://alexsci.com/blog/calm-tech-discover/",
+      "time": 1765077961.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46178892"
     },
     {
-      "title": "My car charger can boil water really fast [video]",
-      "score": 38,
-      "url": "https://www.youtube.com/watch?v=INZybkX8tLI",
-      "time": 1764298701.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46075126"
+      "title": "Tiny Core Linux: a 23 MB Linux distro with graphical desktop",
+      "score": 465,
+      "url": "http://www.tinycorelinux.net/",
+      "time": 1765030722.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46173547"
     },
     {
-      "title": "OMSCS Open Courseware",
-      "score": 186,
-      "url": "https://sites.gatech.edu/omscsopencourseware/",
-      "time": 1765048475.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46175826"
+      "title": "How the Disappearance of Flight 19 Fueled the Legend of the Bermuda Triangle",
+      "score": 6,
+      "url": "https://www.smithsonianmag.com/history/how-the-disappearance-of-flight-19-a-navy-squadron-lost-in-1945-fueled-the-legend-of-the-bermuda-triangle-180987759/",
+      "time": 1765110304.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46181237"
     },
     {
-      "title": "Saving Japan's exceptionally rare 'snow monsters'",
-      "score": 93,
-      "url": "https://www.bbc.com/future/article/20251203-japans-disappearing-snow-monsters",
-      "time": 1765062413.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46177418"
+      "title": "Perl's decline was cultural",
+      "score": 297,
+      "url": "https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical",
+      "time": 1765042927.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46175112"
+    },
+    {
+      "title": "Building a Toast Component",
+      "score": 3,
+      "url": "https://emilkowal.ski/ui/building-a-toast-component",
+      "time": 1764773514.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46135145"
     },
     {
       "title": "Patching Pulse Oximeter Firmware",
-      "score": 7,
+      "score": 22,
       "url": "https://stefan-gloor.ch/pulseoximeter-hack",
       "time": 1764599691.0,
       "comments_url": "https://news.ycombinator.com/item?id=46107897"
