@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-12-08T01:21:47.758986-05:00",
+  "last_updated": "2025-12-08T04:19:50.525357-05:00",
   "stories": [
     {
+      "title": "GitHub Actions Has a Package Manager, and It Might Be the Worst",
+      "score": 26,
+      "url": "https://nesbitt.io/2025/12/06/github-actions-package-manager.html",
+      "time": 1765181732.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46189692"
+    },
+    {
       "title": "Turtletoy",
-      "score": 87,
+      "score": 174,
       "url": "https://turtletoy.net/",
       "time": 1764788228.0,
       "comments_url": "https://news.ycombinator.com/item?id=46138459"
     },
     {
+      "title": "Emacs is my new window manager",
+      "score": 72,
+      "url": "https://www.howardism.org/Technical/Emacs/new-window-manager.html",
+      "time": 1764942994.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46161328"
+    },
+    {
+      "title": "Applets Are Officially Gone, but Java in the Browser Is Better",
+      "score": 35,
+      "url": "https://frequal.com/java/AppletsGoneButJavaInTheBrowserBetterThanEver.html",
+      "time": 1765181786.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46189704"
+    },
+    {
+      "title": "The f*** off contact page",
+      "score": 3,
+      "url": "https://www.nicchan.me/blog/the-f-off-contact-page/",
+      "time": 1765184239.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46189994"
+    },
+    {
+      "title": "Damn Small Linux",
+      "score": 87,
+      "url": "https://www.damnsmalllinux.org/",
+      "time": 1765158431.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46187387"
+    },
+    {
       "title": "I failed to recreate the 1996 Space Jam website with Claude",
-      "score": 388,
+      "score": 433,
       "url": "https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/",
       "time": 1765127934.0,
       "comments_url": "https://news.ycombinator.com/item?id=46183294"
     },
     {
       "title": "Bag of words, have mercy on us",
-      "score": 125,
+      "score": 178,
       "url": "https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us",
       "time": 1765146682.0,
       "comments_url": "https://news.ycombinator.com/item?id=46185957"
     },
     {
-      "title": "Damn Small Linux",
-      "score": 38,
-      "url": "https://www.damnsmalllinux.org/",
-      "time": 1765158431.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46187387"
+      "title": "Show HN: ReadyKit – Superfast SaaS Starter with Multi-Tenant Workspaces",
+      "score": 37,
+      "url": "https://readykit.dev/",
+      "time": 1764487095.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46094552"
+    },
+    {
+      "title": "Show HN: Lockenv – Simple encrypted secrets storage for Git",
+      "score": 7,
+      "url": "https://github.com/illarion/lockenv",
+      "time": 1765179405.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46189480"
+    },
+    {
+      "title": "Truemetrics (YC S23) Is Hiring",
+      "score": 1,
+      "url": "https://www.ycombinator.com/companies/truemetrics/jobs/1EHTSyT-python-software-engineer-analystics-and-algorithms",
+      "time": 1765177233.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46189258"
     },
     {
       "title": "Dollar-stores overcharge customers while promising low prices",
-      "score": 339,
+      "score": 381,
       "url": "https://www.theguardian.com/us-news/2025/dec/03/customers-pay-more-rising-dollar-store-costs",
       "time": 1765118241.0,
       "comments_url": "https://news.ycombinator.com/item?id=46181962"
     },
     {
       "title": "Mechanical power generation using Earth's ambient radiation",
-      "score": 95,
+      "score": 120,
       "url": "https://www.science.org/doi/10.1126/sciadv.adw6833",
       "time": 1765144501.0,
       "comments_url": "https://news.ycombinator.com/item?id=46185576"
     },
     {
       "title": "The C++ standard for the F-35 Fighter Jet [video]",
-      "score": 229,
+      "score": 264,
       "url": "https://www.youtube.com/watch?v=Gv4sDL9Ljww",
       "time": 1765130826.0,
       "comments_url": "https://news.ycombinator.com/item?id=46183657"
     },
     {
       "title": "Google Titans architecture, helping AI have long-term memory",
-      "score": 448,
+      "score": 492,
       "url": "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/",
       "time": 1765110225.0,
       "comments_url": "https://news.ycombinator.com/item?id=46181231"
     },
     {
-      "title": "Work disincentives hit the near-poor hardest (2022)",
-      "score": 65,
-      "url": "https://www.niskanencenter.org/work-disincentives-hit-the-near-poor-hardest-why-and-what-to-do-about-it/",
-      "time": 1764712407.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46127412"
-    },
-    {
       "title": "Uninitialized garbage on ia64 can be deadly (2004)",
-      "score": 51,
+      "score": 68,
       "url": "https://devblogs.microsoft.com/oldnewthing/20040119-00/?p=41003",
       "time": 1764853893.0,
       "comments_url": "https://news.ycombinator.com/item?id=46147285"
     },
     {
       "title": "An Interactive Guide to the Fourier Transform",
-      "score": 184,
+      "score": 200,
       "url": "https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/",
       "time": 1764658217.0,
       "comments_url": "https://news.ycombinator.com/item?id=46118358"
     },
     {
-      "title": "Emacs Is My New Window Manager",
-      "score": 4,
-      "url": "https://www.howardism.org/Technical/Emacs/new-window-manager.html",
-      "time": 1764942994.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46161328"
+      "title": "I wasted years of my life in crypto",
+      "score": 212,
+      "url": "https://twitter.com/kenchangh/status/1994854381267947640",
+      "time": 1765112279.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46181371"
     },
     {
-      "title": "Scala 3 slowed us down?",
-      "score": 205,
-      "url": "https://kmaliszewski9.github.io/scala/2025/12/07/scala3-slowdown.html",
-      "time": 1765120097.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46182202"
-    },
-    {
-      "title": "CATL expects oceanic electric ships in 3 years",
-      "score": 95,
-      "url": "https://cleantechnica.com/2025/12/05/catl-expects-oceanic-electric-ships-in-3-years/",
-      "time": 1765051217.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46176169"
-    },
-    {
-      "title": "The Anatomy of a macOS App",
-      "score": 211,
-      "url": "https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/",
-      "time": 1765110713.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46181268"
-    },
-    {
-      "title": "Socialist ends by market means: A history",
-      "score": 57,
-      "url": "https://lucasvance.github.io/2100/history/",
-      "time": 1765160941.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46187645"
-    },
-    {
-      "title": "How I block all online ads",
-      "score": 136,
-      "url": "https://troubled.engineer/posts/no-ads/",
-      "time": 1765145939.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46185816"
-    },
-    {
-      "title": "(2018) How I created a database of all interesting Rush Hour configurations",
-      "score": 6,
+      "title": "Solving Rush Hour, the Puzzle (2018)",
+      "score": 20,
       "url": "https://www.michaelfogleman.com/rush/",
       "time": 1764420334.0,
       "comments_url": "https://news.ycombinator.com/item?id=46087115"
     },
     {
-      "title": "Toyota unintended acceleration and the big bowl of \"spaghetti\" code (2013)",
-      "score": 27,
-      "url": "https://www.safetyresearch.net/toyota-unintended-acceleration-and-the-big-bowl-of-spaghetti-code/",
-      "time": 1765153872.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46186950"
-    },
-    {
-      "title": "I wasted years of my life in crypto",
-      "score": 123,
-      "url": "https://twitter.com/kenchangh/status/1994854381267947640",
-      "time": 1765112279.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46181371"
+      "title": "The Anatomy of a macOS App",
+      "score": 234,
+      "url": "https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/",
+      "time": 1765110713.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46181268"
     }
   ]
 }
