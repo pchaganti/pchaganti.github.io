@@ -1,61 +1,96 @@
 {
-  "last_updated": "2025-12-08T13:19:43.270210-05:00",
+  "last_updated": "2025-12-08T16:11:18.594487-05:00",
   "stories": [
     {
-      "title": "AMD GPU Debugger",
-      "score": 113,
-      "url": "https://thegeeko.me/blog/amd-gpu-debugging/",
-      "time": 1765209974.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46193931"
+      "title": "Jepsen: NATS 2.12.1",
+      "score": 140,
+      "url": "https://jepsen.io/analyses/nats-2.12.1",
+      "time": 1765219863.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46196105"
+    },
+    {
+      "title": "Deep dive on Nvidia circular funding",
+      "score": 169,
+      "url": "https://philippeoger.com/pages/deep-dive-into-nvidias-virtuous-cycle",
+      "time": 1765219707.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46196076"
     },
     {
       "title": "Strong earthquake hits northern Japan, tsunami warning issued",
-      "score": 118,
+      "score": 192,
       "url": "https://www3.nhk.or.jp/nhkworld/en/news/20251209_02/",
       "time": 1765205448.0,
       "comments_url": "https://news.ycombinator.com/item?id=46192846"
     },
     {
+      "title": "AMD GPU Debugger",
+      "score": 161,
+      "url": "https://thegeeko.me/blog/amd-gpu-debugging/",
+      "time": 1765209974.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46193931"
+    },
+    {
       "title": "Let's put Tailscale on a jailbroken Kindle",
-      "score": 72,
+      "score": 149,
       "url": "https://tailscale.com/blog/tailscale-jailbroken-kindle",
       "time": 1765211648.0,
       "comments_url": "https://news.ycombinator.com/item?id=46194337"
     },
     {
+      "title": "Launch HN: Nia (YC S25) – Give better context to coding agents",
+      "score": 66,
+      "url": "https://www.trynia.ai/",
+      "time": 1765213814.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46194828"
+    },
+    {
+      "title": "IBM to acquire Confluent",
+      "score": 274,
+      "url": "https://www.confluent.io/blog/ibm-to-acquire-confluent/",
+      "time": 1765201439.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46192130"
+    },
+    {
       "title": "Hunting for North Korean Fiber Optic Cables",
-      "score": 86,
+      "score": 154,
       "url": "https://nkinternet.com/2025/12/08/hunting-for-north-korean-fiber-optic-cables/",
       "time": 1765211888.0,
       "comments_url": "https://news.ycombinator.com/item?id=46194384"
     },
     {
       "title": "AI should only run as fast as we can catch up",
-      "score": 27,
+      "score": 54,
       "url": "https://higashi.blog/2025/12/07/ai-verification/",
       "time": 1765215514.0,
       "comments_url": "https://news.ycombinator.com/item?id=46195198"
     },
     {
-      "title": "Launch HN: Nia (YC S25) – Give better context to coding agents",
-      "score": 25,
-      "url": "https://www.trynia.ai/",
-      "time": 1765213814.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46194828"
+      "title": "A series of tricks and techniques I learned doing tiny GLSL demos",
+      "score": 82,
+      "url": "https://blog.pkh.me/p/48-a-series-of-tricks-and-techniques-i-learned-doing-tiny-glsl-demos.html",
+      "time": 1765212282.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46194477"
     },
     {
-      "title": "Quanta to Publish Popular Math and Physics Titles by Terence Tao and David Tong",
-      "score": 17,
-      "url": "https://www.simonsfoundation.org/2025/12/08/quanta-books-to-publish-popular-math-and-physics-titles-by-terence-tao-and-david-tong/",
-      "time": 1765215595.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46195225"
+      "title": "Microsoft Download Center Archive",
+      "score": 66,
+      "url": "https://legacyupdate.net/download-center/",
+      "time": 1764963208.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46166178"
     },
     {
-      "title": "Flow: Actor-based language for C++, used by FoundationDB",
-      "score": 116,
-      "url": "https://github.com/apple/foundationdb/tree/main/flow",
-      "time": 1765199318.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46191763"
+      "title": "We collected 10k hours of neuro-language data in our basement",
+      "score": 49,
+      "url": "https://condu.it/thought/10k-hours",
+      "time": 1765215193.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46195109"
+    },
+    {
+      "title": "Microsoft increases Office 365 and Microsoft 365 license prices",
+      "score": 156,
+      "url": "https://office365itpros.com/2025/12/08/microsoft-365-pricing-increase/",
+      "time": 1765201761.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46192186"
     },
     {
       "title": "Legion Health (YC S21) is hiring a founding engineer (SF, in-person)",
@@ -65,81 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=46194720"
     },
     {
-      "title": "Microsoft has a problem: nobody wants to buy or use its shoddy AI products",
-      "score": 176,
-      "url": "https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai",
-      "time": 1765212871.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46194615"
+      "title": "Word spacing",
+      "score": 19,
+      "url": "https://en.wikipedia.org/wiki/Word_spacing",
+      "time": 1764922122.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46157914"
+    },
+    {
+      "title": "Flow: Actor-based language for C++, used by FoundationDB",
+      "score": 145,
+      "url": "https://github.com/apple/foundationdb/tree/main/flow",
+      "time": 1765199318.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46191763"
     },
     {
       "title": "Show HN: DuckDB for Kafka Stream Processing",
-      "score": 7,
+      "score": 35,
       "url": "https://sql-flow.com/docs/tutorials/intro/",
       "time": 1765214754.0,
       "comments_url": "https://news.ycombinator.com/item?id=46195007"
     },
     {
-      "title": "Nova Programming Language",
-      "score": 40,
-      "url": "https://nova-lang.net",
-      "time": 1765206189.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46192997"
+      "title": "Paramount launches hostile bid for Warner Bros",
+      "score": 139,
+      "url": "https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html",
+      "time": 1765203394.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46192459"
     },
     {
-      "title": "Colors of Growth",
-      "score": 37,
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5804462",
-      "time": 1765199592.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46191814"
+      "title": "GitHub no longer uses Toasts",
+      "score": 15,
+      "url": "https://primer.style/accessibility/toasts/",
+      "time": 1765223921.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46196831"
     },
     {
-      "title": "A series of tricks and techniques I learned doing tiny GLSL demos",
-      "score": 6,
-      "url": "https://blog.pkh.me/p/48-a-series-of-tricks-and-techniques-i-learned-doing-tiny-glsl-demos.html",
-      "time": 1765212282.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46194477"
-    },
-    {
-      "title": "The \"confident idiot\" problem: Why AI needs hard rules, not vibe checks",
-      "score": 241,
-      "url": "https://steerlabs.substack.com/p/confident-idiot-problem",
-      "time": 1764881336.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46152838"
-    },
-    {
-      "title": "IBM to Acquire Confluent",
-      "score": 212,
-      "url": "https://www.confluent.io/blog/ibm-to-acquire-confluent/",
-      "time": 1765201439.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46192130"
-    },
-    {
-      "title": "RIP Tetsu Yamauchi (Former Free and Faces Bassist)",
-      "score": 11,
-      "url": "https://www.loudersound.com/bands-artists/former-free-and-faces-bassist-tetsu-yamauchi-dead-at-79",
-      "time": 1765213716.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46194805"
-    },
-    {
-      "title": "Google Confirms Android Attacks-No Fix for Most Samsung Users",
-      "score": 49,
-      "url": "https://www.forbes.com/sites/zakdoffman/2025/12/08/google-confirms-android-attacks-no-fix-for-most-samsung-users/",
-      "time": 1765211570.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46194315"
-    },
-    {
-      "title": "Turtletoy",
-      "score": 284,
-      "url": "https://turtletoy.net/",
-      "time": 1764788228.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46138459"
-    },
-    {
-      "title": "Twelve Days of Shell",
-      "score": 202,
-      "url": "https://12days.cmdchallenge.com",
-      "time": 1765188787.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46190577"
+      "title": "No more O'Reilly subscriptions for me",
+      "score": 67,
+      "url": "https://zerokspot.com/weblog/2025/12/05/no-more-oreilly-subscriptions-for-me/",
+      "time": 1765210492.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46194063"
     }
   ]
 }
