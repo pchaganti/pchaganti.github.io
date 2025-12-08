@@ -1,47 +1,61 @@
 {
-  "last_updated": "2025-12-08T07:25:43.117202-05:00",
+  "last_updated": "2025-12-08T10:14:16.487570-05:00",
   "stories": [
     {
-      "title": "12 Days of Shell",
-      "score": 85,
+      "title": "Flow: Actor-based language for C++, used by FoundationDB",
+      "score": 63,
+      "url": "https://github.com/apple/foundationdb/tree/main/flow",
+      "time": 1765199318.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46191763"
+    },
+    {
+      "title": "IBM to Acquire Confluent",
+      "score": 81,
+      "url": "https://www.confluent.io/blog/ibm-to-acquire-confluent/",
+      "time": 1765201439.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46192130"
+    },
+    {
+      "title": "Alignment Is Capability",
+      "score": 37,
+      "url": "https://www.off-policy.com/alignment-is-capability/",
+      "time": 1765200209.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46191933"
+    },
+    {
+      "title": "Colors of Growth",
+      "score": 15,
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5804462",
+      "time": 1765199592.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46191814"
+    },
+    {
+      "title": "The \"confident idiot\" problem: Why AI needs hard rules, not vibe checks",
+      "score": 135,
+      "url": "https://steerlabs.substack.com/p/confident-idiot-problem",
+      "time": 1764881336.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46152838"
+    },
+    {
+      "title": "Twelve Days of Shell",
+      "score": 166,
       "url": "https://12days.cmdchallenge.com",
       "time": 1765188787.0,
       "comments_url": "https://news.ycombinator.com/item?id=46190577"
     },
     {
-      "title": "Show HN: Web app that lets you send email time capsules",
-      "score": 13,
-      "url": "https://resurf.me",
-      "time": 1765193842.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46191124"
-    },
-    {
-      "title": "GitHub Actions Has a Package Manager, and It Might Be the Worst",
-      "score": 167,
-      "url": "https://nesbitt.io/2025/12/06/github-actions-package-manager.html",
-      "time": 1765181732.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46189692"
-    },
-    {
-      "title": "Jujutsu Worktrees Are Convenient",
-      "score": 48,
-      "url": "https://shaddy.dev/notes/jj-worktrees/",
-      "time": 1764804411.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46141731"
-    },
-    {
       "title": "Turtletoy",
-      "score": 218,
+      "score": 253,
       "url": "https://turtletoy.net/",
       "time": 1764788228.0,
       "comments_url": "https://news.ycombinator.com/item?id=46138459"
     },
     {
-      "title": "Emacs is my new window manager",
-      "score": 117,
-      "url": "https://www.howardism.org/Technical/Emacs/new-window-manager.html",
-      "time": 1764942994.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46161328"
+      "title": "Optimize for momentum",
+      "score": 34,
+      "url": "http://muratbuffalo.blogspot.com/2025/12/optimize-for-momentum.html",
+      "time": 1764713094.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46127575"
     },
     {
       "title": "Nango (YC W23) is hiring back-end engineers and dev-rels (remote)",
@@ -51,95 +65,81 @@
       "comments_url": "https://news.ycombinator.com/item?id=46191269"
     },
     {
+      "title": "Client-side GPU load balancing with Redis and Lua",
+      "score": 28,
+      "url": "https://galileo.ai/blog/how-we-boosted-gpu-utilization-by-40-with-redis-lua",
+      "time": 1764697147.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46123948"
+    },
+    {
+      "title": "Emacs is my new window manager",
+      "score": 160,
+      "url": "https://www.howardism.org/Technical/Emacs/new-window-manager.html",
+      "time": 1764942994.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46161328"
+    },
+    {
       "title": "Damn Small Linux",
-      "score": 123,
+      "score": 166,
       "url": "https://www.damnsmalllinux.org/",
       "time": 1765158431.0,
       "comments_url": "https://news.ycombinator.com/item?id=46187387"
     },
     {
       "title": "I failed to recreate the 1996 Space Jam website with Claude",
-      "score": 467,
+      "score": 491,
       "url": "https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/",
       "time": 1765127934.0,
       "comments_url": "https://news.ycombinator.com/item?id=46183294"
     },
     {
-      "title": "Client-side GPU load balancing with Redis and Lua",
-      "score": 8,
-      "url": "https://galileo.ai/blog/how-we-boosted-gpu-utilization-by-40-with-redis-lua",
-      "time": 1764697147.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46123948"
+      "title": "C++ Enum Class and Error Codes, Part 3",
+      "score": 11,
+      "url": "https://mropert.github.io/2025/12/03/enum_class_error_codes_part3/",
+      "time": 1764852232.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46147021"
     },
     {
       "title": "Show HN: Lockenv – Simple encrypted secrets storage for Git",
-      "score": 35,
+      "score": 64,
       "url": "https://github.com/illarion/lockenv",
       "time": 1765179405.0,
       "comments_url": "https://news.ycombinator.com/item?id=46189480"
     },
     {
       "title": "Bag of words, have mercy on us",
-      "score": 207,
+      "score": 251,
       "url": "https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us",
       "time": 1765146682.0,
       "comments_url": "https://news.ycombinator.com/item?id=46185957"
     },
     {
-      "title": "Bad Dye Job",
+      "title": "Microsoft is quietly walking back its diversity efforts",
       "score": 16,
-      "url": "https://daringfireball.net/2025/12/bad_dye_job",
-      "time": 1765194437.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46191194"
+      "url": "https://www.theverge.com/tech/838079/microsoft-diversity-and-inclusion-changes-notepad",
+      "time": 1765205833.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46192919"
     },
     {
       "title": "Dollar-stores overcharge customers while promising low prices",
-      "score": 407,
+      "score": 440,
       "url": "https://www.theguardian.com/us-news/2025/dec/03/customers-pay-more-rising-dollar-store-costs",
       "time": 1765118241.0,
       "comments_url": "https://news.ycombinator.com/item?id=46181962"
     },
     {
-      "title": "Show HN: ReadyKit – Superfast SaaS Starter with Multi-Tenant Workspaces",
-      "score": 65,
-      "url": "https://readykit.dev/",
-      "time": 1764487095.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46094552"
+      "title": "GitHub Actions has a package manager, and it might be the worst",
+      "score": 247,
+      "url": "https://nesbitt.io/2025/12/06/github-actions-package-manager.html",
+      "time": 1765181732.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46189692"
     },
     {
       "title": "Google Titans architecture, helping AI have long-term memory",
-      "score": 521,
+      "score": 544,
       "url": "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/",
       "time": 1765110225.0,
       "comments_url": "https://news.ycombinator.com/item?id=46181231"
-    },
-    {
-      "title": "The C++ standard for the F-35 Fighter Jet [video]",
-      "score": 278,
-      "url": "https://www.youtube.com/watch?v=Gv4sDL9Ljww",
-      "time": 1765130826.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46183657"
-    },
-    {
-      "title": "The fuck off contact page",
-      "score": 238,
-      "url": "https://www.nicchan.me/blog/the-f-off-contact-page/",
-      "time": 1765184239.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46189994"
-    },
-    {
-      "title": "Optimize for Momentum",
-      "score": 4,
-      "url": "http://muratbuffalo.blogspot.com/2025/12/optimize-for-momentum.html",
-      "time": 1764713094.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46127575"
-    },
-    {
-      "title": "Mechanical power generation using Earth's ambient radiation",
-      "score": 133,
-      "url": "https://www.science.org/doi/10.1126/sciadv.adw6833",
-      "time": 1765144501.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46185576"
     }
   ]
 }
