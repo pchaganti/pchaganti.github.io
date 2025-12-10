@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-12-09T20:01:09.312156-05:00",
+  "last_updated": "2025-12-09T22:52:21.660953-05:00",
   "stories": [
     {
       "title": "Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now",
-      "score": 1773,
+      "score": 2045,
       "url": "https://dosaygo-studio.github.io/hn-front-page-2035/news",
       "time": 1765292438.0,
       "comments_url": "https://news.ycombinator.com/item?id=46205632"
     },
     {
+      "title": "The end of the kernel Rust experiment",
+      "score": 15,
+      "url": "https://lwn.net/Articles/1049831/",
+      "time": 1765336524.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46213585"
+    },
+    {
       "title": "PeerTube is recognized as a digital public good by Digital Public Goods Alliance",
-      "score": 380,
+      "score": 434,
       "url": "https://www.digitalpublicgoods.net/r/peertube",
       "time": 1765300117.0,
       "comments_url": "https://news.ycombinator.com/item?id=46207464"
     },
     {
+      "title": "NYC congestion pricing cuts air pollution by a fifth in six months",
+      "score": 88,
+      "url": "https://airqualitynews.com/cars-freight-transport/nyc-congestion-pricing-cuts-air-pollution-by-22-in-six-months/",
+      "time": 1765335525.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46213504"
+    },
+    {
       "title": "Django: what’s new in 6.0",
-      "score": 138,
+      "score": 183,
       "url": "https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/",
       "time": 1765312394.0,
       "comments_url": "https://news.ycombinator.com/item?id=46210240"
     },
     {
       "title": "Mistral releases Devstral2 and Mistral Vibe CLI",
-      "score": 479,
+      "score": 515,
       "url": "https://mistral.ai/news/devstral-2-vibe-cli",
       "time": 1765291501.0,
       "comments_url": "https://news.ycombinator.com/item?id=46205437"
     },
     {
       "title": "If you're going to vibe code, why not do it in C?",
-      "score": 300,
+      "score": 355,
       "url": "https://stephenramsay.net/posts/vibe-coding.html",
       "time": 1765300269.0,
       "comments_url": "https://news.ycombinator.com/item?id=46207505"
     },
     {
-      "title": "10 Years of Let's Encrypt",
-      "score": 435,
-      "url": "https://letsencrypt.org/2025/12/09/10-years",
-      "time": 1765306495.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46208962"
-    },
-    {
       "title": "Handsdown one of the coolest 3D websites",
-      "score": 381,
+      "score": 457,
       "url": "https://bruno-simon.com/",
       "time": 1765296418.0,
       "comments_url": "https://news.ycombinator.com/item?id=46206531"
     },
     {
       "title": "Pebble Index 01 – External memory for your brain",
-      "score": 380,
+      "score": 418,
       "url": "https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain",
       "time": 1765292589.0,
       "comments_url": "https://news.ycombinator.com/item?id=46205661"
     },
     {
+      "title": "10 Years of Let's Encrypt",
+      "score": 517,
+      "url": "https://letsencrypt.org/2025/12/09/10-years",
+      "time": 1765306495.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46208962"
+    },
+    {
       "title": "Italy's longest-serving barista reflects on six decades behind the counter",
-      "score": 57,
+      "score": 89,
       "url": "https://www.reuters.com/lifestyle/culture-current/anna-possi-six-decades-behind-counter-italys-bar-centrale-2025-11-20/",
       "time": 1764897749.0,
       "comments_url": "https://news.ycombinator.com/item?id=46155740"
     },
     {
-      "title": "Qt, Linux and everything: Debugging Qt WebAssembly",
-      "score": 40,
-      "url": "http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html",
-      "time": 1765315177.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46210806"
-    },
-    {
       "title": "Donating the Model Context Protocol and establishing the Agentic AI Foundation",
-      "score": 142,
+      "score": 171,
       "url": "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation",
       "time": 1765299942.0,
       "comments_url": "https://news.ycombinator.com/item?id=46207425"
     },
     {
-      "title": "Agentic AI Foundation",
-      "score": 53,
-      "url": "https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation",
-      "time": 1765310439.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46209846"
+      "title": "Post-transformer inference: 224× compression of Llama-70B with improved accuracy",
+      "score": 15,
+      "url": "https://zenodo.org/records/17873275",
+      "time": 1765329900.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46212969"
+    },
+    {
+      "title": "Writing our own Cheat Engine in Rust",
+      "score": 18,
+      "url": "https://lonami.dev/blog/woce-1/",
+      "time": 1764926476.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46158803"
+    },
+    {
+      "title": "Qt, Linux and everything: Debugging Qt WebAssembly",
+      "score": 51,
+      "url": "http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html",
+      "time": 1765315177.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46210806"
+    },
+    {
+      "title": "Operando interlayer expansion of curved graphene for dense supercapacitors",
+      "score": 13,
+      "url": "https://www.nature.com/articles/s41467-025-63485-0",
+      "time": 1764858390.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46147996"
     },
     {
       "title": "The stack circuitry of the Intel 8087 floating point chip, reverse-engineered",
-      "score": 76,
+      "score": 87,
       "url": "https://www.righto.com/2025/12/8087-stack-circuitry.html",
       "time": 1765304204.0,
       "comments_url": "https://news.ycombinator.com/item?id=46208409"
     },
     {
-      "title": "LLM from scratch, part 28 – training a base model from scratch on an RTX 3090",
-      "score": 467,
-      "url": "https://www.gilesthomas.com/2025/12/llm-from-scratch-28-training-a-base-model-from-scratch",
-      "time": 1764699468.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46124425"
-    },
-    {
-      "title": "ULID: Universally Unique Lexicographically Sortable Identifier",
-      "score": 46,
-      "url": "https://packagemain.tech/p/ulid-identifier-golang-postgres",
-      "time": 1764621907.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46112965"
-    },
-    {
       "title": "So you want to speak at software conferences?",
-      "score": 111,
+      "score": 131,
       "url": "https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html",
       "time": 1765305747.0,
       "comments_url": "https://news.ycombinator.com/item?id=46208773"
     },
     {
-      "title": "OpenEvolve: Teaching LLMs to Discover Algorithms Through Evolution",
-      "score": 12,
-      "url": "https://algorithmicsuperintelligence.ai/blog/openevolve-overview/index.html",
-      "time": 1765320873.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46211861"
+      "title": "When a video codec wins an Emmy",
+      "score": 16,
+      "url": "https://blog.mozilla.org/en/mozilla/av1-video-codec-wins-emmy/",
+      "time": 1764954901.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46164197"
     },
     {
       "title": "Kaiju – General purpose 3D/2D game engine in Go and Vulkan with built in editor",
-      "score": 145,
+      "score": 159,
       "url": "https://github.com/KaijuEngine/kaiju",
       "time": 1765291906.0,
       "comments_url": "https://news.ycombinator.com/item?id=46205519"
-    },
-    {
-      "title": "Linux CVEs, more than you ever wanted to know",
-      "score": 18,
-      "url": "http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/",
-      "time": 1765320456.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46211802"
-    },
-    {
-      "title": "A supersonic engine core makes the perfect power turbine",
-      "score": 53,
-      "url": "https://boomsupersonic.com/flyby/ai-needs-more-power-than-the-grid-can-deliver-supersonic-tech-can-fix-that",
-      "time": 1765295492.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46206277"
     }
   ]
 }
