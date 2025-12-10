@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-12-10T01:20:38.945040-05:00",
+  "last_updated": "2025-12-10T04:16:48.887650-05:00",
   "stories": [
     {
-      "title": "Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now",
-      "score": 2287,
-      "url": "https://dosaygo-studio.github.io/hn-front-page-2035/news",
-      "time": 1765292438.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46205632"
-    },
-    {
-      "title": "The end of the kernel Rust experiment",
-      "score": 201,
+      "title": "Rust in the kernel is no longer experimental",
+      "score": 460,
       "url": "https://lwn.net/Articles/1049831/",
       "time": 1765336524.0,
       "comments_url": "https://news.ycombinator.com/item?id=46213585"
     },
     {
+      "title": "Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now",
+      "score": 2520,
+      "url": "https://dosaygo-studio.github.io/hn-front-page-2035/news",
+      "time": 1765292438.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46205632"
+    },
+    {
+      "title": "Revisiting \"Let's Build a Compiler\"",
+      "score": 59,
+      "url": "https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/",
+      "time": 1765347739.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46214693"
+    },
+    {
       "title": "PeerTube is recognized as a digital public good by Digital Public Goods Alliance",
-      "score": 470,
+      "score": 517,
       "url": "https://www.digitalpublicgoods.net/r/peertube",
       "time": 1765300117.0,
       "comments_url": "https://news.ycombinator.com/item?id=46207464"
     },
     {
-      "title": "'Source available' is not open source (and that's okay)",
-      "score": 37,
-      "url": "https://dri.es/source-available-is-not-open-source-and-that-is-okay",
-      "time": 1765337594.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46213709"
+      "title": "Stop Breaking TLS",
+      "score": 36,
+      "url": "https://www.markround.com/blog/2025/12/09/stop-breaking-tls/",
+      "time": 1765350415.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46214950"
     },
     {
-      "title": "Dependable C",
-      "score": 12,
-      "url": "https://dependablec.org/",
-      "time": 1765340970.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46214091"
+      "title": "Putting email in its place with Emacs and Mu4e",
+      "score": 17,
+      "url": "https://eamonnsullivan.co.uk/posts-output/email-setup/2025-12-3-putting-email-in-its-place/",
+      "time": 1764798168.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46140579"
     },
     {
       "title": "Django: what’s new in 6.0",
-      "score": 215,
+      "score": 265,
       "url": "https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/",
       "time": 1765312394.0,
       "comments_url": "https://news.ycombinator.com/item?id=46210240"
     },
     {
-      "title": "If you're going to vibe code, why not do it in C?",
-      "score": 399,
-      "url": "https://stephenramsay.net/posts/vibe-coding.html",
-      "time": 1765300269.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46207505"
-    },
-    {
       "title": "Mistral releases Devstral2 and Mistral Vibe CLI",
-      "score": 544,
+      "score": 593,
       "url": "https://mistral.ai/news/devstral-2-vibe-cli",
       "time": 1765291501.0,
       "comments_url": "https://news.ycombinator.com/item?id=46205437"
     },
     {
-      "title": "Post-transformer inference: 224× compression of Llama-70B with improved accuracy",
-      "score": 56,
-      "url": "https://zenodo.org/records/17873275",
-      "time": 1765329900.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46212969"
-    },
-    {
-      "title": "Handsdown one of the coolest 3D websites",
-      "score": 491,
-      "url": "https://bruno-simon.com/",
-      "time": 1765296418.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46206531"
-    },
-    {
       "title": "When a video codec wins an Emmy",
-      "score": 58,
+      "score": 114,
       "url": "https://blog.mozilla.org/en/mozilla/av1-video-codec-wins-emmy/",
       "time": 1764954901.0,
       "comments_url": "https://news.ycombinator.com/item?id=46164197"
     },
     {
+      "title": "If you're going to vibe code, why not do it in C?",
+      "score": 447,
+      "url": "https://stephenramsay.net/posts/vibe-coding.html",
+      "time": 1765300269.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46207505"
+    },
+    {
+      "title": "Handsdown one of the coolest 3D websites",
+      "score": 555,
+      "url": "https://bruno-simon.com/",
+      "time": 1765296418.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46206531"
+    },
+    {
       "title": "Pebble Index 01 – External memory for your brain",
-      "score": 449,
+      "score": 483,
       "url": "https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain",
       "time": 1765292589.0,
       "comments_url": "https://news.ycombinator.com/item?id=46205661"
     },
     {
       "title": "Italy's longest-serving barista reflects on six decades behind the counter",
-      "score": 119,
+      "score": 168,
       "url": "https://www.reuters.com/lifestyle/culture-current/anna-possi-six-decades-behind-counter-italys-bar-centrale-2025-11-20/",
       "time": 1764897749.0,
       "comments_url": "https://news.ycombinator.com/item?id=46155740"
     },
     {
       "title": "10 Years of Let's Encrypt",
-      "score": 567,
+      "score": 635,
       "url": "https://letsencrypt.org/2025/12/09/10-years",
       "time": 1765306495.0,
       "comments_url": "https://news.ycombinator.com/item?id=46208962"
     },
     {
       "title": "Writing our own Cheat Engine in Rust",
-      "score": 40,
+      "score": 64,
       "url": "https://lonami.dev/blog/woce-1/",
       "time": 1764926476.0,
       "comments_url": "https://news.ycombinator.com/item?id=46158803"
     },
     {
       "title": "Donating the Model Context Protocol and establishing the Agentic AI Foundation",
-      "score": 189,
+      "score": 218,
       "url": "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation",
       "time": 1765299942.0,
       "comments_url": "https://news.ycombinator.com/item?id=46207425"
     },
     {
+      "title": "Cloth Simulation",
+      "score": 8,
+      "url": "https://cloth.mikail-khan.com/",
+      "time": 1764715477.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46127981"
+    },
+    {
+      "title": "Are the Three Musketeers allergic to muskets?(2014)",
+      "score": 13,
+      "url": "https://www.ox.ac.uk/news/arts-blog/are-three-musketeers-allergic-muskets",
+      "time": 1765346930.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46214617"
+    },
+    {
+      "title": "Cloudflare error page generator",
+      "score": 42,
+      "url": "https://github.com/donlon/cloudflare-error-page",
+      "time": 1765333087.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46213273"
+    },
+    {
       "title": "So you want to speak at software conferences?",
-      "score": 146,
+      "score": 170,
       "url": "https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html",
       "time": 1765305747.0,
       "comments_url": "https://news.ycombinator.com/item?id=46208773"
-    },
-    {
-      "title": "The stack circuitry of the Intel 8087 floating point chip, reverse-engineered",
-      "score": 97,
-      "url": "https://www.righto.com/2025/12/8087-stack-circuitry.html",
-      "time": 1765304204.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46208409"
-    },
-    {
-      "title": "Linux CVEs, more than you ever wanted to know",
-      "score": 42,
-      "url": "http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/",
-      "time": 1765320456.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46211802"
-    },
-    {
-      "title": "Qt, Linux and everything: Debugging Qt WebAssembly",
-      "score": 56,
-      "url": "http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html",
-      "time": 1765315177.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46210806"
     }
   ]
 }
