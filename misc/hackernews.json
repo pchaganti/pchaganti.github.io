@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-12-09T16:10:39.368464-05:00",
+  "last_updated": "2025-12-09T20:01:09.312156-05:00",
   "stories": [
     {
-      "title": "10 Years of Let's Encrypt",
-      "score": 243,
-      "url": "https://letsencrypt.org/2025/12/09/10-years",
-      "time": 1765306495.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46208962"
-    },
-    {
       "title": "Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now",
-      "score": 1163,
+      "score": 1773,
       "url": "https://dosaygo-studio.github.io/hn-front-page-2035/news",
       "time": 1765292438.0,
       "comments_url": "https://news.ycombinator.com/item?id=46205632"
     },
     {
       "title": "PeerTube is recognized as a digital public good by Digital Public Goods Alliance",
-      "score": 253,
+      "score": 380,
       "url": "https://www.digitalpublicgoods.net/r/peertube",
       "time": 1765300117.0,
       "comments_url": "https://news.ycombinator.com/item?id=46207464"
     },
     {
-      "title": "Mistral Releases Devstral 2 (72.2% SWE-Bench Verified) and Vibe CLI",
-      "score": 371,
+      "title": "Django: what’s new in 6.0",
+      "score": 138,
+      "url": "https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/",
+      "time": 1765312394.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46210240"
+    },
+    {
+      "title": "Mistral releases Devstral2 and Mistral Vibe CLI",
+      "score": 479,
       "url": "https://mistral.ai/news/devstral-2-vibe-cli",
       "time": 1765291501.0,
       "comments_url": "https://news.ycombinator.com/item?id=46205437"
     },
     {
       "title": "If you're going to vibe code, why not do it in C?",
-      "score": 181,
+      "score": 300,
       "url": "https://stephenramsay.net/posts/vibe-coding.html",
       "time": 1765300269.0,
       "comments_url": "https://news.ycombinator.com/item?id=46207505"
     },
     {
+      "title": "10 Years of Let's Encrypt",
+      "score": 435,
+      "url": "https://letsencrypt.org/2025/12/09/10-years",
+      "time": 1765306495.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46208962"
+    },
+    {
       "title": "Handsdown one of the coolest 3D websites",
-      "score": 266,
+      "score": 381,
       "url": "https://bruno-simon.com/",
       "time": 1765296418.0,
       "comments_url": "https://news.ycombinator.com/item?id=46206531"
     },
     {
       "title": "Pebble Index 01 – External memory for your brain",
-      "score": 283,
+      "score": 380,
       "url": "https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain",
       "time": 1765292589.0,
       "comments_url": "https://news.ycombinator.com/item?id=46205661"
     },
     {
-      "title": "We Need to Die",
-      "score": 27,
-      "url": "https://willllliam.com/blog/why-we-need-to-die/",
-      "time": 1765311666.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46210095"
+      "title": "Italy's longest-serving barista reflects on six decades behind the counter",
+      "score": 57,
+      "url": "https://www.reuters.com/lifestyle/culture-current/anna-possi-six-decades-behind-counter-italys-bar-centrale-2025-11-20/",
+      "time": 1764897749.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46155740"
     },
     {
-      "title": "So you want to speak at software conferences?",
-      "score": 63,
-      "url": "https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html",
-      "time": 1765305747.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46208773"
+      "title": "Qt, Linux and everything: Debugging Qt WebAssembly",
+      "score": 40,
+      "url": "http://qtandeverything.blogspot.com/2025/12/debugging-qt-webassembly-dwarf.html",
+      "time": 1765315177.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46210806"
     },
     {
-      "title": "Django: What's new in 6.0 – Adam Johnson",
-      "score": 11,
-      "url": "https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/",
-      "time": 1765312394.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46210240"
-    },
-    {
-      "title": "Agentic AI Foundation",
-      "score": 14,
-      "url": "https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation",
-      "time": 1765310439.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46209846"
-    },
-    {
-      "title": "Donating the Model Context Protocol and Establishing the Agentic AI Foundation",
-      "score": 81,
+      "title": "Donating the Model Context Protocol and establishing the Agentic AI Foundation",
+      "score": 142,
       "url": "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation",
       "time": 1765299942.0,
       "comments_url": "https://news.ycombinator.com/item?id=46207425"
     },
     {
-      "title": "LLM from scratch, part 28 – training a base model from scratch on an RTX 3090",
-      "score": 414,
-      "url": "https://www.gilesthomas.com/2025/12/llm-from-scratch-28-training-a-base-model-from-scratch",
-      "time": 1764699468.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46124425"
-    },
-    {
-      "title": "Clearspace (YC W23) Is Hiring a Founding Designer",
-      "score": 1,
-      "url": "https://www.ycombinator.com/companies/clearspace/jobs/yamWTLr-founding-designer-at-clearspace",
-      "time": 1765299671.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46207360"
-    },
-    {
-      "title": "Kaiju – General purpose 3D/2D game engine in Go and Vulkan with built in editor",
-      "score": 123,
-      "url": "https://github.com/KaijuEngine/kaiju",
-      "time": 1765291906.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46205519"
+      "title": "Agentic AI Foundation",
+      "score": 53,
+      "url": "https://block.xyz/inside/block-anthropic-and-openai-launch-the-agentic-ai-foundation",
+      "time": 1765310439.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46209846"
     },
     {
       "title": "The stack circuitry of the Intel 8087 floating point chip, reverse-engineered",
-      "score": 31,
+      "score": 76,
       "url": "https://www.righto.com/2025/12/8087-stack-circuitry.html",
       "time": 1765304204.0,
       "comments_url": "https://news.ycombinator.com/item?id=46208409"
     },
     {
-      "title": "My favourite small hash table",
-      "score": 91,
-      "url": "https://www.corsix.org/content/my-favourite-small-hash-table",
-      "time": 1765291640.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46205461"
-    },
-    {
-      "title": "Launch HN: Mentat (YC F24) – Controlling LLMs with Runtime Intervention",
-      "score": 26,
-      "url": "https://news.ycombinator.com/item?id=46207017",
-      "time": 1765298275.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46207017"
+      "title": "LLM from scratch, part 28 – training a base model from scratch on an RTX 3090",
+      "score": 467,
+      "url": "https://www.gilesthomas.com/2025/12/llm-from-scratch-28-training-a-base-model-from-scratch",
+      "time": 1764699468.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46124425"
     },
     {
       "title": "ULID: Universally Unique Lexicographically Sortable Identifier",
-      "score": 7,
+      "score": 46,
       "url": "https://packagemain.tech/p/ulid-identifier-golang-postgres",
       "time": 1764621907.0,
       "comments_url": "https://news.ycombinator.com/item?id=46112965"
     },
     {
-      "title": "30 Year Anniversary of WarCraft II: Tides of Darkness",
-      "score": 143,
-      "url": "https://www.jorsys.org/archive/december_2025.html#newsitem_2025-12-09T07:42:19Z",
-      "time": 1765271636.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46202921"
+      "title": "So you want to speak at software conferences?",
+      "score": 111,
+      "url": "https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html",
+      "time": 1765305747.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46208773"
+    },
+    {
+      "title": "OpenEvolve: Teaching LLMs to Discover Algorithms Through Evolution",
+      "score": 12,
+      "url": "https://algorithmicsuperintelligence.ai/blog/openevolve-overview/index.html",
+      "time": 1765320873.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46211861"
+    },
+    {
+      "title": "Kaiju – General purpose 3D/2D game engine in Go and Vulkan with built in editor",
+      "score": 145,
+      "url": "https://github.com/KaijuEngine/kaiju",
+      "time": 1765291906.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46205519"
+    },
+    {
+      "title": "Linux CVEs, more than you ever wanted to know",
+      "score": 18,
+      "url": "http://www.kroah.com/log/blog/2025/12/08/linux-cves-more-than-you-ever-wanted-to-know/",
+      "time": 1765320456.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46211802"
+    },
+    {
+      "title": "A supersonic engine core makes the perfect power turbine",
+      "score": 53,
+      "url": "https://boomsupersonic.com/flyby/ai-needs-more-power-than-the-grid-can-deliver-supersonic-tech-can-fix-that",
+      "time": 1765295492.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46206277"
     }
   ]
 }
