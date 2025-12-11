@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-12-11T01:21:07.714141-05:00",
+  "last_updated": "2025-12-11T04:18:04.266345-05:00",
   "stories": [
     {
       "title": "Size of Life",
-      "score": 1675,
+      "score": 1929,
       "url": "https://neal.fun/size-of-life/",
       "time": 1765382577.0,
       "comments_url": "https://news.ycombinator.com/item?id=46219346"
     },
     {
-      "title": "Patterns.dev",
-      "score": 123,
-      "url": "https://www.patterns.dev/",
-      "time": 1765415935.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46226483"
+      "title": "The Cost of a Closure in C",
+      "score": 39,
+      "url": "https://thephd.dev/the-cost-of-a-closure-in-c-c2y",
+      "time": 1765437693.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46228597"
     },
     {
       "title": "Getting a Gemini API key is an exercise in frustration",
-      "score": 396,
+      "score": 510,
       "url": "https://ankursethi.com/blog/gemini-api-key-frustration/",
       "time": 1765398552.0,
       "comments_url": "https://news.ycombinator.com/item?id=46223311"
     },
     {
+      "title": "Patterns.dev",
+      "score": 229,
+      "url": "https://www.patterns.dev/",
+      "time": 1765415935.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46226483"
+    },
+    {
       "title": "Australia begins enforcing world-first teen social media ban",
-      "score": 667,
+      "score": 749,
       "url": "https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/",
       "time": 1765303949.0,
       "comments_url": "https://news.ycombinator.com/item?id=46208348"
     },
     {
+      "title": "Booting Linux in QEMU and Writing PID 1 in Go to Illustrate Kernel as Program",
+      "score": 71,
+      "url": "https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/",
+      "time": 1764858338.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46147987"
+    },
+    {
       "title": "Auto-grading decade-old Hacker News discussions with hindsight",
-      "score": 390,
+      "score": 428,
       "url": "https://karpathy.bearblog.dev/auto-grade-hn/",
       "time": 1765387433.0,
       "comments_url": "https://news.ycombinator.com/item?id=46220540"
     },
     {
+      "title": "Python Workers redux: fast cold starts, packages, and a uv-first workflow",
+      "score": 45,
+      "url": "https://blog.cloudflare.com/python-workers-advancements/",
+      "time": 1765204921.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46192748"
+    },
+    {
       "title": "Incomplete list of mistakes in the design of CSS",
-      "score": 38,
+      "score": 101,
       "url": "https://wiki.csswg.org/ideas/mistakes",
       "time": 1765426852.0,
       "comments_url": "https://news.ycombinator.com/item?id=46227619"
     },
     {
-      "title": "Fossils reveal anacondas have been giants for over 12 million years",
-      "score": 27,
-      "url": "https://www.cam.ac.uk/stories/twelve-million-years-of-giant-anacondas",
-      "time": 1764671446.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46119762"
-    },
-    {
-      "title": "Show HN: Wirebrowser – A JavaScript debugger with breakpoint-driven heap search",
-      "score": 8,
-      "url": "https://github.com/fcavallarin/wirebrowser",
-      "time": 1765377043.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46218101"
-    },
-    {
-      "title": "3D-printed carotid artery-on-chips for personalized thrombosis investigation",
-      "score": 14,
-      "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202508890",
-      "time": 1764798055.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46140554"
-    },
-    {
-      "title": "Super Mario 64 for the PS1",
-      "score": 202,
-      "url": "https://github.com/malucard/sm64-psx",
-      "time": 1765393135.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46221925"
+      "title": "How the Brain Parses Language",
+      "score": 10,
+      "url": "https://www.quantamagazine.org/the-polyglot-neuroscientist-resolving-how-the-brain-parses-language-20251205/",
+      "time": 1765198010.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46191597"
     },
     {
       "title": "VCMI: An open-source engine for Heroes III",
-      "score": 40,
+      "score": 83,
       "url": "https://vcmi.eu/",
       "time": 1765038455.0,
       "comments_url": "https://news.ycombinator.com/item?id=46174534"
     },
     {
       "title": "How Google Maps allocates survival across London's restaurants",
-      "score": 186,
+      "score": 246,
       "url": "https://laurenleek.substack.com/p/how-google-maps-quietly-allocates",
       "time": 1765275602.0,
       "comments_url": "https://news.ycombinator.com/item?id=46203343"
     },
     {
+      "title": "Show HN: Wirebrowser – A JavaScript debugger with breakpoint-driven heap search",
+      "score": 24,
+      "url": "https://github.com/fcavallarin/wirebrowser",
+      "time": 1765377043.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46218101"
+    },
+    {
+      "title": "Super Mario 64 for the PS1",
+      "score": 219,
+      "url": "https://github.com/malucard/sm64-psx",
+      "time": 1765393135.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46221925"
+    },
+    {
       "title": "Rubio stages font coup: Times New Roman ousts Calibri",
-      "score": 220,
+      "score": 263,
       "url": "https://www.reuters.com/world/us/rubio-stages-font-coup-times-new-roman-ousts-calibri-2025-12-09/",
       "time": 1765325314.0,
       "comments_url": "https://news.ycombinator.com/item?id=46212438"
     },
     {
+      "title": "Fossils reveal anacondas have been giants for over 12 million years",
+      "score": 46,
+      "url": "https://www.cam.ac.uk/stories/twelve-million-years-of-giant-anacondas",
+      "time": 1764671446.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46119762"
+    },
+    {
+      "title": "Flow Where You Want – Guidance for Flow Models",
+      "score": 11,
+      "url": "https://drscotthawley.github.io/blog/posts/FlowWhereYouWant.html",
+      "time": 1764996374.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46170784"
+    },
+    {
       "title": "Qwen3-Omni-Flash-2025-12-01：a next-generation native multimodal large model",
-      "score": 238,
+      "score": 255,
       "url": "https://qwen.ai/blog?id=qwen3-omni-flash-20251201",
       "time": 1765383218.0,
       "comments_url": "https://news.ycombinator.com/item?id=46219538"
     },
     {
-      "title": "When would you ever want bubblesort? (2023)",
-      "score": 82,
-      "url": "https://buttondown.com/hillelwayne/archive/when-would-you-ever-want-bubblesort/",
-      "time": 1765403111.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46224311"
-    },
-    {
       "title": "Show HN: Automated license plate reader coverage in the USA",
-      "score": 158,
+      "score": 174,
       "url": "https://alpranalysis.com",
       "time": 1765388550.0,
       "comments_url": "https://news.ycombinator.com/item?id=46220794"
     },
     {
-      "title": "Python Workers redux: fast cold starts, packages, and a uv-first workflow",
-      "score": 15,
-      "url": "https://blog.cloudflare.com/python-workers-advancements/",
-      "time": 1765204921.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46192748"
-    },
-    {
-      "title": "Common Lisp, ASDF, and Quicklisp: packaging explained",
-      "score": 68,
-      "url": "https://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html",
-      "time": 1765365058.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46216446"
-    },
-    {
-      "title": "Scientists create ultra fast memory using light",
-      "score": 79,
-      "url": "https://www.isi.edu/news/81186/scientists-create-ultra-fast-memory-using-light/",
-      "time": 1764871881.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46150797"
-    },
-    {
-      "title": "Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise",
-      "score": 118,
-      "url": "https://arxiv.org/abs/2512.08309",
-      "time": 1765391847.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46221594"
+      "title": "3D-printed carotid artery-on-chips for personalized thrombosis investigation",
+      "score": 20,
+      "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202508890",
+      "time": 1764798055.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46140554"
     }
   ]
 }
