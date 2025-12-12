@@ -1,40 +1,96 @@
 {
-  "last_updated": "2025-12-11T16:14:05.600182-05:00",
+  "last_updated": "2025-12-11T20:01:22.008531-05:00",
   "stories": [
     {
       "title": "GPT-5.2",
-      "score": 444,
+      "score": 729,
       "url": "https://openai.com/index/introducing-gpt-5-2/",
       "time": 1765476287.0,
       "comments_url": "https://news.ycombinator.com/item?id=46234788"
     },
     {
-      "title": "My productivity app is a never-ending .txt file (2020)",
-      "score": 65,
-      "url": "https://jeffhuang.com/productivity_text_file/",
-      "time": 1765481458.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46236037"
+      "title": "Denial of service and source code exposure in React Server Components",
+      "score": 183,
+      "url": "https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components",
+      "time": 1765486006.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46236924"
     },
     {
-      "title": "Going Through Snowden Documents, Part 1",
-      "score": 123,
-      "url": "https://libroot.org/posts/going-through-snowden-documents-part-1/",
-      "time": 1765479128.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46235412"
+      "title": "Nokia N900 Necromancy – giving a new life to a classic Linux smartphone",
+      "score": 16,
+      "url": "https://yaky.dev/2025-12-11-nokia-n900-necromancy/",
+      "time": 1765497869.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46239177"
+    },
+    {
+      "title": "Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free",
+      "score": 193,
+      "url": "https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/",
+      "time": 1765477039.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46234920"
+    },
+    {
+      "title": "The highest quality codebase",
+      "score": 412,
+      "url": "https://gricha.dev/blog/the-highest-quality-codebase",
+      "time": 1765229589.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46197930"
+    },
+    {
+      "title": "An SVG is all you need",
+      "score": 128,
+      "url": "https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html",
+      "time": 1765481114.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46235959"
     },
     {
       "title": "Litestream VFS",
-      "score": 141,
+      "score": 214,
       "url": "https://fly.io/blog/litestream-vfs/",
       "time": 1765475950.0,
       "comments_url": "https://news.ycombinator.com/item?id=46234710"
     },
     {
-      "title": "The highest quality codebase",
-      "score": 331,
-      "url": "https://gricha.dev/blog/the-highest-quality-codebase",
-      "time": 1765229589.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46197930"
+      "title": "Programmers and software developers lost the plot on naming their tools",
+      "score": 134,
+      "url": "https://larr.net/p/namings.html",
+      "time": 1765476402.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46234806"
+    },
+    {
+      "title": "The architecture of “not bad”: Decoding the Chinese source code of the void",
+      "score": 57,
+      "url": "https://suggger.substack.com/p/the-architecture-of-not-bad-decoding",
+      "time": 1765462874.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46231709"
+    },
+    {
+      "title": "Show HN: Sim – Apache-2.0 n8n alternative",
+      "score": 137,
+      "url": "https://github.com/simstudioai/sim",
+      "time": 1765473611.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46234186"
+    },
+    {
+      "title": "Craft software that makes people feel something",
+      "score": 231,
+      "url": "https://rapha.land/craft-software-that-makes-people-feel-something/",
+      "time": 1765460708.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46231274"
+    },
+    {
+      "title": "UK House of Lords attempting to ban use of VPNs by anyone under 16",
+      "score": 252,
+      "url": "https://alecmuffett.com/article/134925",
+      "time": 1765485142.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46236738"
+    },
+    {
+      "title": "Powder and stone, or, why medieval rulers loved castles",
+      "score": 23,
+      "url": "https://1517.substack.com/p/powder-and-stone-or-why-medieval",
+      "time": 1765488952.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46237501"
     },
     {
       "title": "Almond (YC X25) Is Hiring SWEs and MechEs",
@@ -44,102 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=46237081"
     },
     {
-      "title": "An SVG is all you need",
-      "score": 39,
-      "url": "https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html",
-      "time": 1765481114.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46235959"
+      "title": "My productivity app is a never-ending .txt file (2020)",
+      "score": 149,
+      "url": "https://jeffhuang.com/productivity_text_file/",
+      "time": 1765481458.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46236037"
     },
     {
-      "title": "Denial of service and source code exposure in React Server Components",
-      "score": 19,
-      "url": "https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components",
-      "time": 1765486006.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46236924"
-    },
-    {
-      "title": "Show HN: Sim – Apache-2.0 n8n alternative",
-      "score": 78,
-      "url": "https://github.com/simstudioai/sim",
-      "time": 1765473611.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46234186"
-    },
-    {
-      "title": "Craft software that makes people feel something",
-      "score": 182,
-      "url": "https://rapha.land/craft-software-that-makes-people-feel-something/",
-      "time": 1765460708.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46231274"
-    },
-    {
-      "title": "Prove It All Night: With no fame or fortune, what keeps a band onstage? (1999)",
-      "score": 31,
-      "url": "https://chicagoreader.com/news/prove-it-all-night/",
-      "time": 1764711382.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46127191"
-    },
-    {
-      "title": "Launch HN: BrowserBook (YC F24) – IDE for deterministic browser automation",
-      "score": 52,
-      "url": "https://news.ycombinator.com/item?id=46232434",
-      "time": 1765466331.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46232434"
-    },
-    {
-      "title": "The architecture of \"not bad\": Decoding the Chinese source code of the void",
-      "score": 8,
-      "url": "https://suggger.substack.com/p/the-architecture-of-not-bad-decoding",
-      "time": 1765462874.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46231709"
-    },
-    {
-      "title": "An Orbital House of Cards: Frequent Megaconstellation Close Conjunctions",
-      "score": 69,
-      "url": "https://arxiv.org/abs/2512.09643",
-      "time": 1765465304.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46232220"
+      "title": "The Walt Disney Company and OpenAI Partner on Sora",
+      "score": 138,
+      "url": "https://openai.com/index/disney-sora-agreement/",
+      "time": 1765461916.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46231493"
     },
     {
       "title": "Auto-grading decade-old Hacker News discussions with hindsight",
-      "score": 546,
+      "score": 567,
       "url": "https://karpathy.bearblog.dev/auto-grade-hn/",
       "time": 1765387433.0,
       "comments_url": "https://news.ycombinator.com/item?id=46220540"
     },
     {
-      "title": "iPhone Typos? It's Not Just You – The iOS Keyboard Is Broken [video]",
-      "score": 322,
-      "url": "https://www.youtube.com/watch?v=hksVvXONrIo",
-      "time": 1765466743.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46232528"
+      "title": "Prove It All Night: With no fame or fortune, what keeps a band onstage? (1999)",
+      "score": 56,
+      "url": "https://chicagoreader.com/news/prove-it-all-night/",
+      "time": 1764711382.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46127191"
     },
     {
-      "title": "Deprecate like you mean it",
-      "score": 39,
-      "url": "https://entropicthoughts.com/deprecate-like-you-mean-it",
-      "time": 1765468350.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46232898"
+      "title": "RFC 6677 DNS Transport over TCP – Implementation Requirements (2016)",
+      "score": 15,
+      "url": "https://www.ietf.org/rfc/rfc7766.txt",
+      "time": 1765487929.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46237304"
     },
     {
-      "title": "Golang optimizations for high‑volume services",
-      "score": 23,
-      "url": "https://packagemain.tech/p/golang-optimizations-for-highvolume",
-      "time": 1765194580.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46191207"
-    },
-    {
-      "title": "Getting a Gemini API key is an exercise in frustration",
-      "score": 782,
-      "url": "https://ankursethi.com/blog/gemini-api-key-frustration/",
-      "time": 1765398552.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46223311"
-    },
-    {
-      "title": "Show HN: Local Privacy Firewall-blocks PII and secrets before ChatGPT sees them",
-      "score": 91,
-      "url": "https://github.com/privacyshield-ai/privacy-firewall",
-      "time": 1765296637.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46206591"
+      "title": "French supermarket's Christmas advert is worldwide hit (without AI) [video]",
+      "score": 199,
+      "url": "https://www.youtube.com/watch?v=Na9VmMNJvsA",
+      "time": 1765460155.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46231187"
     }
   ]
 }
