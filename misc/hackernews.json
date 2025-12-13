@@ -1,54 +1,75 @@
 {
-  "last_updated": "2025-12-13T13:16:24.358528-05:00",
+  "last_updated": "2025-12-13T16:10:42.842612-05:00",
   "stories": [
     {
       "title": "I tried Gleam for Advent of Code",
-      "score": 60,
+      "score": 175,
       "url": "https://blog.tymscar.com/posts/gleamaoc2025/",
       "time": 1765645214.0,
       "comments_url": "https://news.ycombinator.com/item?id=46255991"
     },
     {
-      "title": "Fast, Memory-Efficient Hash Table in Java: Borrowing the Best Ideas",
-      "score": 9,
-      "url": "https://bluuewhale.github.io/posts/building-a-fast-and-memory-efficient-hash-table-in-java-by-borrowing-the-best-ideas/",
-      "time": 1765647692.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46256325"
+      "title": "VPN location claims don't match real traffic exits",
+      "score": 39,
+      "url": "https://ipinfo.io/blog/vpn-location-mismatch-report",
+      "time": 1765655179.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46257339"
     },
     {
-      "title": "Java FFM zero-copy transport using io_uring",
-      "score": 70,
-      "url": "https://www.mvp.express/",
-      "time": 1765120765.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46182307"
+      "title": "What is a build system, anyway?",
+      "score": 13,
+      "url": "https://jyn.dev/what-is-a-build-system-anyway/",
+      "time": 1765655912.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46257442"
     },
     {
-      "title": "Analysis finds anytime electricity from solar available as battery costs plummet",
+      "title": "Want to sway an election? Here’s how much fake online accounts cost",
+      "score": 6,
+      "url": "https://www.science.org/content/article/want-sway-election-here-s-how-much-fake-online-accounts-cost",
+      "time": 1765658889.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46257871"
+    },
+    {
+      "title": "Ask HN: How do you handle release notes for multiple audiences?",
       "score": 20,
-      "url": "https://pv-magazine-usa.com/2025/12/12/analysis-finds-anytime-electricity-from-solar-available-as-battery-costs-plummet/",
-      "time": 1765647141.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46256249"
+      "url": "https://news.ycombinator.com/item?id=46257486",
+      "time": 1765656266.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46257486"
     },
     {
-      "title": "What is the nicest thing a stranger has ever done for you?",
-      "score": 109,
-      "url": "https://louplummer.lol/nice-stranger/",
-      "time": 1765481320.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46236001"
+      "title": "I Fed 24 Years of My Blog Posts to a Markov Model",
+      "score": 6,
+      "url": "https://susam.net/fed-24-years-of-posts-to-markov-model.html",
+      "time": 1765657193.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46257607"
     },
     {
       "title": "Cryptids",
-      "score": 33,
+      "score": 67,
       "url": "https://wiki.bbchallenge.org/wiki/Cryptids",
       "time": 1765021725.0,
       "comments_url": "https://news.ycombinator.com/item?id=46172586"
     },
     {
+      "title": "Useful patterns for building HTML tools",
+      "score": 178,
+      "url": "https://simonwillison.net/2025/Dec/10/html-tools/",
+      "time": 1765400921.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46223882"
+    },
+    {
       "title": "Ask HN: How can I get better at using AI for programming?",
-      "score": 49,
+      "score": 104,
       "url": "https://news.ycombinator.com/item?id=46255285",
       "time": 1765640236.0,
       "comments_url": "https://news.ycombinator.com/item?id=46255285"
+    },
+    {
+      "title": "Go Proposal: Secret Mode",
+      "score": 117,
+      "url": "https://antonz.org/accepted/runtime-secret/",
+      "time": 1765314652.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46210705"
     },
     {
       "title": "EasyPost (YC S13) Is Hiring",
@@ -58,85 +79,64 @@
       "comments_url": "https://news.ycombinator.com/item?id=46256002"
     },
     {
-      "title": "Useful patterns for building HTML tools",
-      "score": 109,
-      "url": "https://simonwillison.net/2025/Dec/10/html-tools/",
-      "time": 1765400921.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46223882"
+      "title": "Analysis finds anytime electricity from solar available as battery costs plummet",
+      "score": 115,
+      "url": "https://pv-magazine-usa.com/2025/12/12/analysis-finds-anytime-electricity-from-solar-available-as-battery-costs-plummet/",
+      "time": 1765647141.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46256249"
     },
     {
-      "title": "macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt",
-      "score": 499,
-      "url": "https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt",
-      "time": 1765572098.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46248644"
+      "title": "What is the nicest thing a stranger has ever done for you?",
+      "score": 217,
+      "url": "https://louplummer.lol/nice-stranger/",
+      "time": 1765481320.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46236001"
     },
     {
-      "title": "How exchanges turn order books into distributed logs",
-      "score": 86,
-      "url": "https://quant.engineering/exchange-order-book-distributed-logs.html",
-      "time": 1765201731.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46192181"
-    },
-    {
-      "title": "Photographer built a medium-format rangefinder, and so can you",
-      "score": 116,
+      "title": "Photographer built a medium-format rangefinder",
+      "score": 141,
       "url": "https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/",
       "time": 1765060169.0,
       "comments_url": "https://news.ycombinator.com/item?id=46177160"
     },
     {
-      "title": "Apple has locked my Apple ID, and I have no recourse. A plea for help",
-      "score": 1265,
-      "url": "https://hey.paris/posts/appleid/",
-      "time": 1765601759.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46252114"
-    },
-    {
       "title": "Researchers seeking better measures of cognitive fatigue",
-      "score": 60,
+      "score": 81,
       "url": "https://www.nature.com/articles/d41586-025-03974-w",
       "time": 1765394029.0,
       "comments_url": "https://news.ycombinator.com/item?id=46222162"
     },
     {
-      "title": "Z8086: Rebuilding the 8086 from Original Microcode",
-      "score": 11,
-      "url": "https://nand2mario.github.io/posts/2025/z8086/",
-      "time": 1765638269.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46255007"
+      "title": "Former Apple, Google designer: \"Are we stuck with the same Desktop UX forever?\" [video]",
+      "score": 32,
+      "url": "https://www.youtube.com/watch?v=1fZTOjd_bOQ",
+      "time": 1765651193.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46256834"
     },
     {
-      "title": "Go Proposal: Secret Mode",
-      "score": 67,
-      "url": "https://antonz.org/accepted/runtime-secret/",
-      "time": 1765314652.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46210705"
+      "title": "A Lisp Interpreter Implemented in Conway's Game of Life (2021)",
+      "score": 77,
+      "url": "https://woodrush.github.io/blog/posts/2022-01-12-lisp-in-life.html",
+      "time": 1765595213.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46251620"
     },
     {
-      "title": "A 'toaster with a lens': The story behind the first handheld digital camera",
-      "score": 59,
-      "url": "https://www.bbc.com/future/article/20251205-how-the-handheld-digital-camera-was-born",
-      "time": 1765199057.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46191734"
+      "title": "Java FFM zero-copy transport using io_uring",
+      "score": 89,
+      "url": "https://www.mvp.express/",
+      "time": 1765120765.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46182307"
     },
     {
-      "title": "Indexing 100M vectors in 20 minutes on PostgreSQL with 12GB RAM",
-      "score": 55,
-      "url": "https://blog.vectorchord.ai/how-we-made-100m-vector-indexing-in-20-minutes-possible-on-postgresql",
-      "time": 1765215015.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46195068"
-    },
-    {
-      "title": "GNU Unifont",
-      "score": 296,
-      "url": "https://unifoundry.com/unifont/index.html",
-      "time": 1765573054.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46248859"
+      "title": "Using Python for Scripting",
+      "score": 63,
+      "url": "https://hypirion.com/musings/use-python-for-scripting",
+      "time": 1765183923.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46189962"
     },
     {
       "title": "Dynamic Pong Wars",
-      "score": 15,
+      "score": 28,
       "url": "https://markodenic.tech/dynamic-pong-wars/",
       "time": 1765019689.0,
       "comments_url": "https://news.ycombinator.com/item?id=46172417"
