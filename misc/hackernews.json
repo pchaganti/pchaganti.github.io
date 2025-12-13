@@ -1,96 +1,131 @@
 {
-  "last_updated": "2025-12-12T19:57:56.158661-05:00",
+  "last_updated": "2025-12-12T22:43:56.809907-05:00",
   "stories": [
     {
-      "title": "macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt",
-      "score": 239,
-      "url": "https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt",
-      "time": 1765572098.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46248644"
-    },
-    {
       "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
-      "score": 52,
+      "score": 167,
       "url": "https://simonwillison.net/2025/Dec/12/openai-skills/",
       "time": 1765582219.0,
       "comments_url": "https://news.ycombinator.com/item?id=46250332"
     },
     {
+      "title": "macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt",
+      "score": 300,
+      "url": "https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt",
+      "time": 1765572098.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46248644"
+    },
+    {
       "title": "GNU Unifont",
-      "score": 145,
+      "score": 170,
       "url": "https://unifoundry.com/unifont/index.html",
       "time": 1765573054.0,
       "comments_url": "https://news.ycombinator.com/item?id=46248859"
     },
     {
       "title": "Rats Play DOOM",
-      "score": 159,
+      "score": 207,
       "url": "https://ratsplaydoom.com/",
       "time": 1765570558.0,
       "comments_url": "https://news.ycombinator.com/item?id=46248323"
     },
     {
       "title": "Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig",
-      "score": 53,
+      "score": 81,
       "url": "https://github.com/ringtailsoftware/uvm32",
       "time": 1765576934.0,
       "comments_url": "https://news.ycombinator.com/item?id=46249538"
     },
     {
-      "title": "Show HN: I made a spreadsheet where formulas also update backwards",
-      "score": 39,
-      "url": "https://victorpoughon.github.io/bidicalc/",
-      "time": 1765476055.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46234734"
-    },
-    {
-      "title": "Capsudo: Rethinking Sudo with Object Capabilities",
-      "score": 30,
-      "url": "https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html",
-      "time": 1765575724.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46249337"
-    },
-    {
-      "title": "50 years of proof assistants",
-      "score": 17,
-      "url": "https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html",
-      "time": 1765581986.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46250309"
-    },
-    {
       "title": "Ensuring a National Policy Framework for Artificial Intelligence",
-      "score": 49,
+      "score": 91,
       "url": "https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/",
       "time": 1765497370.0,
       "comments_url": "https://news.ycombinator.com/item?id=46239076"
     },
     {
-      "title": "Freeing a Xiaomi humidifier from the cloud",
-      "score": 19,
-      "url": "https://0l.de/blog/2025/11/xiaomi-humidifier/",
-      "time": 1765520248.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46241368"
+      "title": "Show HN: I made a spreadsheet where formulas also update backwards",
+      "score": 72,
+      "url": "https://victorpoughon.github.io/bidicalc/",
+      "time": 1765476055.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46234734"
     },
     {
-      "title": "Security issues with electronic invoices",
-      "score": 71,
-      "url": "https://invoice.secvuln.info/",
-      "time": 1765571321.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46248470"
+      "title": "50 years of proof assistants",
+      "score": 44,
+      "url": "https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html",
+      "time": 1765581986.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46250309"
+    },
+    {
+      "title": "Capsudo: Rethinking Sudo with Object Capabilities",
+      "score": 45,
+      "url": "https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html",
+      "time": 1765575724.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46249337"
+    },
+    {
+      "title": "So What Should We Call This – A Grue Jay?",
+      "score": 20,
+      "url": "https://cns.utexas.edu/news/research/so-what-should-we-call-grue-jay",
+      "time": 1765131085.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46183688"
     },
     {
       "title": "Go is portable, until it isn't",
-      "score": 8,
+      "score": 39,
       "url": "https://simpleobservability.com/blog/go-portable-until-isnt",
       "time": 1765106262.0,
       "comments_url": "https://news.ycombinator.com/item?id=46180911"
     },
     {
       "title": "SQLite JSON at full index speed using generated columns",
-      "score": 307,
+      "score": 322,
       "url": "https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing",
       "time": 1765545919.0,
       "comments_url": "https://news.ycombinator.com/item?id=46243904"
+    },
+    {
+      "title": "Freeing a Xiaomi humidifier from the cloud",
+      "score": 36,
+      "url": "https://0l.de/blog/2025/11/xiaomi-humidifier/",
+      "time": 1765520248.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46241368"
+    },
+    {
+      "title": "Sick of smart TVs? Here are your best options",
+      "score": 151,
+      "url": "https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/",
+      "time": 1765543900.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46243655"
+    },
+    {
+      "title": "Security issues with electronic invoices",
+      "score": 76,
+      "url": "https://invoice.secvuln.info/",
+      "time": 1765571321.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46248470"
+    },
+    {
+      "title": "Pg_ClickHouse: A Postgres extension for querying ClickHouse",
+      "score": 76,
+      "url": "https://clickhouse.com/blog/introducing-pg_clickhouse",
+      "time": 1765386879.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46220411"
+    },
+    {
+      "title": "String theory inspires a brilliant, baffling new math proof",
+      "score": 117,
+      "url": "https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/",
+      "time": 1765556590.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46245622"
+    },
+    {
+      "title": "Ferrari's Formula 1 Handovers: Handovers from Surgery to Intensive Care 2008;pdf",
+      "score": 4,
+      "url": "https://gwern.net/doc/technology/2008-sower.pdf",
+      "time": 1765048910.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46175888"
     },
     {
       "title": "Motion (YC W20) Is Hiring Senior Staff Front End Engineers",
@@ -100,46 +135,11 @@
       "comments_url": "https://news.ycombinator.com/item?id=46248892"
     },
     {
-      "title": "4 billion if statements (2023)",
-      "score": 577,
-      "url": "https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html",
-      "time": 1765035266.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46174114"
-    },
-    {
-      "title": "Building small Docker images faster",
-      "score": 18,
-      "url": "https://sgt.hootr.club/blog/docker-protips/",
-      "time": 1765535003.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46242700"
-    },
-    {
-      "title": "Pg_ClickHouse: A Postgres extension for querying ClickHouse",
-      "score": 65,
-      "url": "https://clickhouse.com/blog/introducing-pg_clickhouse",
-      "time": 1765386879.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46220411"
-    },
-    {
-      "title": "Fast Median Filter over arbitrary datatypes",
-      "score": 19,
-      "url": "https://martianlantern.github.io/2025/09/median-filter-over-arbitrary-datatypes/",
-      "time": 1765033689.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46173882"
-    },
-    {
-      "title": "Sick of smart TVs? Here are your best options",
-      "score": 81,
-      "url": "https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/",
-      "time": 1765543900.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46243655"
-    },
-    {
-      "title": "Home Depot GitHub token exposed for a year, granted access to internal systems",
-      "score": 174,
-      "url": "https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/",
-      "time": 1765563801.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46247000"
+      "title": "CM0 – A new Raspberry Pi you can't buy",
+      "score": 170,
+      "url": "https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy",
+      "time": 1765552759.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46244922"
     }
   ]
 }
