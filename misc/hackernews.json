@@ -1,145 +1,145 @@
 {
-  "last_updated": "2025-12-13T07:22:43.725313-05:00",
+  "last_updated": "2025-12-13T10:11:13.913456-05:00",
   "stories": [
     {
-      "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
-      "score": 422,
-      "url": "https://simonwillison.net/2025/Dec/12/openai-skills/",
-      "time": 1765582219.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46250332"
+      "title": "We built another object storage",
+      "score": 61,
+      "url": "https://fractalbits.com/blog/why-we-built-another-object-storage/",
+      "time": 1765628959.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46254087"
     },
     {
-      "title": "Bookmark for CAD/2d/3D Useful links",
-      "score": 16,
-      "url": "https://github.com/yogananda-muthaiah/SAP-CPQ/tree/main/Integrations/CAD-2d-3d",
-      "time": 1765624605.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46253763"
+      "title": "Java FFM zero-copy transport using io_uring",
+      "score": 27,
+      "url": "https://www.mvp.express/",
+      "time": 1765120765.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46182307"
+    },
+    {
+      "title": "How exchanges turn order books into distributed logs",
+      "score": 50,
+      "url": "https://quant.engineering/exchange-order-book-distributed-logs.html",
+      "time": 1765201731.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46192181"
     },
     {
       "title": "macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt",
-      "score": 430,
+      "score": 468,
       "url": "https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt",
       "time": 1765572098.0,
       "comments_url": "https://news.ycombinator.com/item?id=46248644"
     },
     {
-      "title": "1300 Still Images from the Animated Films of Hayao Miyazaki's Studio Ghibli (2023)",
-      "score": 174,
-      "url": "https://www.ghibli.jp/info/013772/",
-      "time": 1765594609.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46251582"
-    },
-    {
-      "title": "A 'toaster with a lens': The story behind the first handheld digital camera",
-      "score": 23,
-      "url": "https://www.bbc.com/future/article/20251205-how-the-handheld-digital-camera-was-born",
-      "time": 1765199057.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46191734"
-    },
-    {
-      "title": "Photographer Built a Medium-Format Rangefinder, and So Can You",
-      "score": 45,
-      "url": "https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/",
-      "time": 1765060169.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46177160"
+      "title": "AI is bringing old nuclear plants out of retirement",
+      "score": 36,
+      "url": "https://www.wbur.org/hereandnow/2025/12/09/nuclear-power-ai",
+      "time": 1765631316.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46254276"
     },
     {
       "title": "Sick of smart TVs? Here are your best options",
-      "score": 350,
+      "score": 436,
       "url": "https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/",
       "time": 1765543900.0,
       "comments_url": "https://news.ycombinator.com/item?id=46243655"
     },
     {
+      "title": "Photographer built a medium-format rangefinder, and so can you",
+      "score": 79,
+      "url": "https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/",
+      "time": 1765060169.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46177160"
+    },
+    {
+      "title": "Apple has locked my Apple ID, and I have no recourse. A plea for help",
+      "score": 877,
+      "url": "https://hey.paris/posts/appleid/",
+      "time": 1765601759.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46252114"
+    },
+    {
       "title": "GNU Unifont",
-      "score": 237,
+      "score": 288,
       "url": "https://unifoundry.com/unifont/index.html",
       "time": 1765573054.0,
       "comments_url": "https://news.ycombinator.com/item?id=46248859"
     },
     {
+      "title": "A 'toaster with a lens': The story behind the first handheld digital camera",
+      "score": 43,
+      "url": "https://www.bbc.com/future/article/20251205-how-the-handheld-digital-camera-was-born",
+      "time": 1765199057.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46191734"
+    },
+    {
+      "title": "Beautiful Abelian Sandpiles",
+      "score": 85,
+      "url": "https://eavan.blog/posts/beautiful-sandpiles.html",
+      "time": 1765311375.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46210044"
+    },
+    {
       "title": "Rats Play DOOM",
-      "score": 308,
+      "score": 336,
       "url": "https://ratsplaydoom.com/",
       "time": 1765570558.0,
       "comments_url": "https://news.ycombinator.com/item?id=46248323"
     },
     {
       "title": "Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig",
-      "score": 142,
+      "score": 167,
       "url": "https://github.com/ringtailsoftware/uvm32",
       "time": 1765576934.0,
       "comments_url": "https://news.ycombinator.com/item?id=46249538"
     },
     {
-      "title": "Beautiful Abelian Sandpiles",
-      "score": 54,
-      "url": "https://eavan.blog/posts/beautiful-sandpiles.html",
-      "time": 1765311375.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46210044"
-    },
-    {
-      "title": "Ferrari's Formula 1 Handovers: Handovers from Surgery to Intensive Care 2008;pdf",
-      "score": 64,
-      "url": "https://gwern.net/doc/technology/2008-sower.pdf",
-      "time": 1765048910.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46175888"
-    },
-    {
-      "title": "Show HN: I made a spreadsheet where formulas also update backwards",
-      "score": 156,
-      "url": "https://victorpoughon.github.io/bidicalc/",
-      "time": 1765476055.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46234734"
+      "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
+      "score": 482,
+      "url": "https://simonwillison.net/2025/Dec/12/openai-skills/",
+      "time": 1765582219.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46250332"
     },
     {
       "title": "Computer Animator and Amiga fanatic Dick Van Dyke turns 100",
-      "score": 50,
+      "score": 112,
       "url": "https://news.ycombinator.com/item?id=46252993",
       "time": 1765613748.0,
       "comments_url": "https://news.ycombinator.com/item?id=46252993"
     },
     {
-      "title": "Ensuring a National Policy Framework for Artificial Intelligence",
-      "score": 120,
-      "url": "https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/",
-      "time": 1765497370.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46239076"
+      "title": "Formula One Handovers and Handovers From Surgery to Intensive Care (2008) [pdf]",
+      "score": 82,
+      "url": "https://gwern.net/doc/technology/2008-sower.pdf",
+      "time": 1765048910.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46175888"
     },
     {
-      "title": "Go is portable, until it isn't",
-      "score": 96,
-      "url": "https://simpleobservability.com/blog/go-portable-until-isnt",
-      "time": 1765106262.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46180911"
+      "title": "Will West Coast Jazz Get Some Respect?",
+      "score": 11,
+      "url": "https://www.honest-broker.com/p/will-west-coast-jazz-finally-get",
+      "time": 1765055206.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46176592"
     },
     {
-      "title": "Gild Just One Lily",
-      "score": 23,
-      "url": "https://www.smashingmagazine.com/2025/04/gild-just-one-lily/",
-      "time": 1765201890.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46192212"
-    },
-    {
-      "title": "Optical Context Compression Is Just (Bad) Autoencoding",
-      "score": 6,
-      "url": "https://arxiv.org/abs/2512.03643",
-      "time": 1765265597.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46202254"
+      "title": "Show HN: I made a spreadsheet where formulas also update backwards",
+      "score": 179,
+      "url": "https://victorpoughon.github.io/bidicalc/",
+      "time": 1765476055.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46234734"
     },
     {
       "title": "Freeing a Xiaomi humidifier from the cloud",
-      "score": 103,
+      "score": 126,
       "url": "https://0l.de/blog/2025/11/xiaomi-humidifier/",
       "time": 1765520248.0,
       "comments_url": "https://news.ycombinator.com/item?id=46241368"
     },
     {
-      "title": "50 years of proof assistants",
-      "score": 94,
-      "url": "https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html",
-      "time": 1765581986.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46250309"
+      "title": "Obscuring P2P Nodes with Dandelion",
+      "score": 57,
+      "url": "https://www.johndcook.com/blog/2025/12/08/dandelion/",
+      "time": 1765211249.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46194245"
     }
   ]
 }
