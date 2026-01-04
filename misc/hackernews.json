@@ -1,61 +1,96 @@
 {
-  "last_updated": "2026-01-04T13:18:20.052532-05:00",
+  "last_updated": "2026-01-04T16:11:25.848267-05:00",
   "stories": [
     {
+      "title": "Show HN: Terminal UI for AWS",
+      "score": 40,
+      "url": "https://github.com/huseyinbabal/taws",
+      "time": 1767557842.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46491749"
+    },
+    {
+      "title": "I changed my personality in six weeks",
+      "score": 26,
+      "url": "https://www.bbc.com/future/article/20260102-how-i-changed-my-personality-in-six-weeks",
+      "time": 1767556948.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46491623"
+    },
+    {
+      "title": "Claude Code On-the-Go",
+      "score": 20,
+      "url": "https://granda.org/en/2026/01/02/claude-code-on-the-go/",
+      "time": 1767556100.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46491486"
+    },
+    {
       "title": "Lessons from 14 Years at Google",
-      "score": 276,
+      "score": 579,
       "url": "https://addyosmani.com/blog/21-lessons/",
       "time": 1767540234.0,
       "comments_url": "https://news.ycombinator.com/item?id=46488819"
     },
     {
-      "title": "Microservices Killed Our Startup. Monoliths Would've Saved Us",
-      "score": 43,
-      "url": "https://medium.com/lets-code-future/microservices-killed-our-startup-monoliths-wouldve-saved-us-4ebadf584a6d",
-      "time": 1767390756.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46469845"
+      "title": "Linear Address Spaces: Unsafe at any speed",
+      "score": 64,
+      "url": "https://queue.acm.org/detail.cfm?id=3534854",
+      "time": 1767167873.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46442282"
     },
     {
       "title": "Street Fighter II, the World Warrier (2021)",
-      "score": 163,
+      "score": 244,
       "url": "https://fabiensanglard.net/sf2_warrier/",
       "time": 1767537029.0,
       "comments_url": "https://news.ycombinator.com/item?id=46488278"
     },
     {
-      "title": "I charged $18,000 for a Static HTML Page (2019)",
-      "score": 45,
-      "url": "https://idiallo.com/blog/18000-dollars-static-web-page",
-      "time": 1767390896.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46469877"
+      "title": "Why does a least squares fit appear to have a bias when applied to simple data?",
+      "score": 17,
+      "url": "https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple",
+      "time": 1767558330.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46491821"
     },
     {
       "title": "The Unbearable Joy of Sitting Alone in a Café",
-      "score": 152,
+      "score": 293,
       "url": "https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/",
       "time": 1767537478.0,
       "comments_url": "https://news.ycombinator.com/item?id=46488355"
     },
     {
+      "title": "Server-rendered multiplayer games with Lua (no client code)",
+      "score": 11,
+      "url": "https://cleoselene.com/",
+      "time": 1767556492.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46491560"
+    },
+    {
+      "title": "Web development is fun again",
+      "score": 188,
+      "url": "https://ma.ttias.be/web-development-is-fun-again/",
+      "time": 1767538818.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46488576"
+    },
+    {
+      "title": "Stop Forwarding Errors, Start Designing Them",
+      "score": 32,
+      "url": "https://fast.github.io/blog/stop-forwarding-errors-start-designing-them/",
+      "time": 1767553345.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46491051"
+    },
+    {
+      "title": "Eurostar AI vulnerability: when a chatbot goes off the rails",
+      "score": 7,
+      "url": "https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/",
+      "time": 1767559972.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46492063"
+    },
+    {
       "title": "Show HN: An interactive guide to how browsers work",
-      "score": 77,
+      "score": 133,
       "url": "https://howbrowserswork.com/",
       "time": 1767539282.0,
       "comments_url": "https://news.ycombinator.com/item?id=46488654"
-    },
-    {
-      "title": "Using Hinge as a Command and Control Server",
-      "score": 34,
-      "url": "https://mattwie.se/hinge-command-control-c2",
-      "time": 1767535688.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46488101"
-    },
-    {
-      "title": "Understanding the bin, sbin, usr/bin, usr/sbin split (2010)",
-      "score": 122,
-      "url": "https://lists.busybox.net/pipermail/busybox/2010-December/074114.html",
-      "time": 1767534544.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46487921"
     },
     {
       "title": "Trellis AI (YC W24) is hiring engineers to build AI agents for healthcare access",
@@ -65,81 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=46489830"
     },
     {
-      "title": "Web development is fun again",
-      "score": 74,
-      "url": "https://ma.ttias.be/web-development-is-fun-again/",
-      "time": 1767538818.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46488576"
+      "title": "Seed of Life",
+      "score": 7,
+      "url": "https://seed-of-life-eight.vercel.app/",
+      "time": 1767558482.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46491846"
+    },
+    {
+      "title": "Show HN: Hover – IDE style hover documentation on any webpage",
+      "score": 13,
+      "url": "https://github.com/Sampsoon/hover",
+      "time": 1767552225.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46490895"
     },
     {
       "title": "Neural Networks: Zero to Hero",
-      "score": 603,
+      "score": 661,
       "url": "https://karpathy.ai/zero-to-hero.html",
       "time": 1767502936.0,
       "comments_url": "https://news.ycombinator.com/item?id=46485090"
     },
     {
-      "title": "Maybe comments should explain 'what' (2017)",
-      "score": 144,
-      "url": "https://www.hillelwayne.com/post/what-comments/",
-      "time": 1767523418.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46486780"
+      "title": "Using Hinge as a Command and Control Server",
+      "score": 65,
+      "url": "https://mattwie.se/hinge-command-control-c2",
+      "time": 1767535688.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46488101"
+    },
+    {
+      "title": "NSFW Acronyms for Programmers (Free eBook)",
+      "score": 14,
+      "url": "https://github.com/fristovic/naughty-words-every-programmer-should-know",
+      "time": 1767552568.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46490937"
     },
     {
       "title": "Bison return to Illinois' Kane County after 200 years",
-      "score": 40,
+      "score": 86,
       "url": "https://phys.org/news/2025-12-bison-illinois-kane-county-years.html",
       "time": 1767118976.0,
       "comments_url": "https://news.ycombinator.com/item?id=46436279"
-    },
-    {
-      "title": "FreeBSD Home NAS, part 3: WireGuard VPN, routing, and Linux peers",
-      "score": 88,
-      "url": "https://rtfm.co.ua/en/freebsd-home-nas-part-3-wireguard-vpn-linux-peer-and-routing/",
-      "time": 1767527734.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46487120"
-    },
-    {
-      "title": "One Formula That Demystifies 3D Graphics",
-      "score": 47,
-      "url": "https://www.youtube.com/watch?v=qjWkNZ0SXfo",
-      "time": 1767197452.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46445393"
-    },
-    {
-      "title": "Cold-blooded software (2023)",
-      "score": 48,
-      "url": "https://dubroy.com/blog/cold-blooded-software/",
-      "time": 1767536936.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46488261"
-    },
-    {
-      "title": "Moiré Explorer",
-      "score": 49,
-      "url": "https://play.ertdfgcvb.xyz/#/src/demos/moire_explorer",
-      "time": 1767531260.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46487472"
-    },
-    {
-      "title": "How I archived 10 years of memories using Spotify",
-      "score": 34,
-      "url": "https://notes.xdavidhu.me/notes/how-i-archived-10-years-of-memories-using-spotify",
-      "time": 1767539479.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46488696"
-    },
-    {
-      "title": "AI sycophancy panic",
-      "score": 31,
-      "url": "https://github.com/firasd/vibesbench/blob/main/docs/ai-sycophancy-panic.md",
-      "time": 1767537688.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46488396"
-    },
-    {
-      "title": "Anti-aging injection regrows knee cartilage and prevents arthritis",
-      "score": 99,
-      "url": "https://scitechdaily.com/anti-aging-injection-regrows-knee-cartilage-and-prevents-arthritis/",
-      "time": 1767539598.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46488711"
     }
   ]
 }
