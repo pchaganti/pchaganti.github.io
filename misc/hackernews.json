@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-01-03T23:06:59.272351-05:00",
+  "last_updated": "2026-01-04T01:19:49.774207-05:00",
   "stories": [
     {
+      "title": "Neural Networks: Zero to Hero",
+      "score": 38,
+      "url": "https://karpathy.ai/zero-to-hero.html",
+      "time": 1767502936.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46485090"
+    },
+    {
       "title": "Total monthly number of StackOverflow questions over time",
-      "score": 722,
+      "score": 889,
       "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph",
       "time": 1767479014.0,
       "comments_url": "https://news.ycombinator.com/item?id=46482345"
     },
     {
       "title": "The suck is why we're here",
-      "score": 140,
+      "score": 201,
       "url": "https://nik.art/the-suck-is-why-were-here/",
       "time": 1767482681.0,
       "comments_url": "https://news.ycombinator.com/item?id=46482877"
     },
     {
       "title": "MyTorch – Minimalist autograd in 450 lines of Python",
-      "score": 37,
+      "score": 56,
       "url": "https://github.com/obround/mytorch",
       "time": 1767489716.0,
       "comments_url": "https://news.ycombinator.com/item?id=46483776"
     },
     {
       "title": "The Most Popular Blogs of Hacker News in 2025",
-      "score": 455,
+      "score": 507,
       "url": "https://refactoringenglish.com/blog/2025-hn-top-5/",
       "time": 1767457210.0,
       "comments_url": "https://news.ycombinator.com/item?id=46478377"
     },
     {
       "title": "Swift on Android: Full Native App Development Now Possible",
-      "score": 124,
+      "score": 157,
       "url": "https://docs.swifdroid.com/app/",
       "time": 1767483552.0,
       "comments_url": "https://news.ycombinator.com/item?id=46483023"
     },
     {
-      "title": "The Great Gatsby is the most misunderstood novel (2021)",
-      "score": 36,
-      "url": "https://www.bbc.com/culture/article/20210209-the-worlds-most-misunderstood-novel",
-      "time": 1767489315.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46483729"
-    },
-    {
-      "title": "Ed25519-CLI – command-line interface for the Ed25519 signature system",
-      "score": 64,
-      "url": "https://lib25519.cr.yp.to/ed25519-cli.html",
-      "time": 1766938331.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46412070"
-    },
-    {
-      "title": "Corroded: Illegal Rust",
-      "score": 23,
-      "url": "https://github.com/buyukakyuz/corroded",
-      "time": 1767487554.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46483531"
-    },
-    {
-      "title": "Developing a BLAS Library for the AMD AI Engine [pdf]",
-      "score": 14,
-      "url": "https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf",
-      "time": 1767489999.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46483811"
-    },
-    {
-      "title": "Language Gives Authority to Weak Ideas",
-      "score": 36,
-      "url": "https://hichvg.substack.com/p/elegance-is-bullshit",
-      "time": 1767058365.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46428444"
-    },
-    {
-      "title": "Torch.ts – building PyTorch in TypeScript from scratch to learn",
-      "score": 29,
-      "url": "https://github.com/13point5/torch.ts",
-      "time": 1767170969.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46442502"
-    },
-    {
-      "title": "KDE onboarding is good now",
-      "score": 27,
-      "url": "https://rabbitictranslator.com/kde-onboarding/",
-      "time": 1767486702.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46483432"
-    },
-    {
       "title": "How Thomas Mann Wrote the Magic Mountain",
-      "score": 12,
+      "score": 33,
       "url": "https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain",
       "time": 1767492803.0,
       "comments_url": "https://news.ycombinator.com/item?id=46484104"
     },
     {
-      "title": "Scaling Latent Reasoning via Looped Language Models",
-      "score": 48,
-      "url": "https://arxiv.org/abs/2510.25741",
-      "time": 1767476073.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46481849"
+      "title": "KDE onboarding is good now",
+      "score": 66,
+      "url": "https://rabbitictranslator.com/kde-onboarding/",
+      "time": 1767486702.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46483432"
     },
     {
-      "title": "The Riven Diffs – Seeing Riven (1997) Differently",
-      "score": 53,
-      "url": "https://glthr.com/the-riven-diffs-1",
-      "time": 1767481317.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46482642"
+      "title": "Odoo: Open-Source ERP",
+      "score": 19,
+      "url": "https://github.com/odoo/odoo",
+      "time": 1767141329.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46439993"
+    },
+    {
+      "title": "Learning to Play Tic-Tac-Toe with Jax",
+      "score": 6,
+      "url": "https://joe-antognini.github.io/ml/jax-tic-tac-toe",
+      "time": 1767503387.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46485130"
     },
     {
       "title": "The Late Arrival of 16-Bit CP/M – By Nemanja Trifunovic",
-      "score": 11,
+      "score": 30,
       "url": "https://nemanjatrifunovic.substack.com/p/the-late-arrival-of-16-bit-cpm",
       "time": 1767047404.0,
       "comments_url": "https://news.ycombinator.com/item?id=46426614"
     },
     {
-      "title": "The C3 Programming Language",
-      "score": 306,
-      "url": "https://c3-lang.org",
-      "time": 1767458466.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46478647"
+      "title": "Ed25519-CLI – command-line interface for the Ed25519 signature system",
+      "score": 76,
+      "url": "https://lib25519.cr.yp.to/ed25519-cli.html",
+      "time": 1766938331.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46412070"
     },
     {
-      "title": "Take One Small Step",
-      "score": 58,
-      "url": "https://thinkhuman.com/take-one-small-step/",
-      "time": 1767477510.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46482107"
+      "title": "Finger-Nose Stylus for Touch Screens",
+      "score": 21,
+      "url": "https://variationsonnormal.com/2011/04/28/finger-nose-stylus-for-touchscreens/",
+      "time": 1767038384.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46424807"
     },
     {
-      "title": "Xr0 verifier, guarantee the safety of C programs at compile time",
-      "score": 66,
-      "url": "https://xr0.dev",
-      "time": 1767463821.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46479673"
+      "title": "Corroded: Illegal Rust",
+      "score": 52,
+      "url": "https://github.com/buyukakyuz/corroded",
+      "time": 1767487554.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46483531"
     },
     {
-      "title": "China DRAM Maker CXMT Targets $4.2B IPO as It Takes on Samsung, SK Hynix, Micron",
-      "score": 113,
-      "url": "https://www.ic-pcb.com/chinas-leading-dram-maker-cxmt-targets-42-billion-ipo-as-it-takes-on-samsung-sk-hynix-and-micron.html",
-      "time": 1767482069.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46482777"
+      "title": "Corundum – open-source FPGA-based NIC and platform for in-network compute",
+      "score": 5,
+      "url": "https://github.com/corundum/corundum",
+      "time": 1767503069.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46485101"
+    },
+    {
+      "title": "Show HN: Krowdovi – Video-based indoor navigation on a DePIN creator economy",
+      "score": 4,
+      "url": "https://github.com/daftpixie/krowdovi",
+      "time": 1767500593.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46484882"
+    },
+    {
+      "title": "Evolution: Training neural networks with genetic selection achieves 81% on MNIST",
+      "score": 8,
+      "url": "https://github.com/A1CST/GENREG_ALPHA_MNIST",
+      "time": 1767048688.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46426931"
+    },
+    {
+      "title": "Developing a BLAS Library for the AMD AI Engine [pdf]",
+      "score": 27,
+      "url": "https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf",
+      "time": 1767489999.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46483811"
+    },
+    {
+      "title": "The Great Gatsby is the most misunderstood novel (2021)",
+      "score": 43,
+      "url": "https://www.bbc.com/culture/article/20210209-the-worlds-most-misunderstood-novel",
+      "time": 1767489315.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46483729"
+    },
+    {
+      "title": "Scaling Latent Reasoning via Looped Language Models",
+      "score": 57,
+      "url": "https://arxiv.org/abs/2510.25741",
+      "time": 1767476073.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46481849"
     }
   ]
 }
