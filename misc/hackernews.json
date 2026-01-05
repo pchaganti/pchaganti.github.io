@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-01-05T04:23:45.921065-05:00",
+  "last_updated": "2026-01-05T07:28:05.476043-05:00",
   "stories": [
     {
-      "title": "Decorative Cryptography",
-      "score": 26,
-      "url": "https://www.dlp.rip/decorative-cryptography",
-      "time": 1767601778.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46496494"
+      "title": "It's hard to justify Tahoe icons",
+      "score": 78,
+      "url": "https://tonsky.me/blog/tahoe-icons/",
+      "time": 1767613902.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46497712"
     },
     {
       "title": "Databases in 2025: A Year in Review",
-      "score": 48,
+      "score": 166,
       "url": "https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html",
       "time": 1767597270.0,
       "comments_url": "https://news.ycombinator.com/item?id=46496103"
     },
     {
+      "title": "Decorative Cryptography",
+      "score": 101,
+      "url": "https://www.dlp.rip/decorative-cryptography",
+      "time": 1767601778.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46496494"
+    },
+    {
       "title": "A spider web unlike any seen before",
-      "score": 37,
+      "score": 109,
       "url": "https://www.nytimes.com/2025/11/08/science/biggest-spiderweb-sulfur-cave.html",
       "time": 1767596782.0,
       "comments_url": "https://news.ycombinator.com/item?id=46496054"
     },
     {
-      "title": "Building a Rust-style static analyzer for C++ with AI",
-      "score": 52,
-      "url": "http://mpaxos.com/blog/rusty-cpp.html",
-      "time": 1767589919.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46495539"
+      "title": "Anna's Archive Loses .Org Domain After Surprise Suspension",
+      "score": 134,
+      "url": "https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/",
+      "time": 1767608612.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46497164"
+    },
+    {
+      "title": "Show HN: Circuit Artist – Circuit simulator with propagation animation, rewind",
+      "score": 36,
+      "url": "https://github.com/lets-all-be-stupid-forever/circuit-artist",
+      "time": 1767197540.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46445412"
+    },
+    {
+      "title": "Revisiting the original Roomba and its simple architecture",
+      "score": 43,
+      "url": "https://robotsinplainenglish.com/e/2025-12-27-roomba.html",
+      "time": 1767416000.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46472930"
+    },
+    {
+      "title": "Ask HN: Help with LLVM",
+      "score": 23,
+      "url": "https://news.ycombinator.com/item?id=46465866",
+      "time": 1767368664.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46465866"
     },
     {
       "title": "Lessons from 14 years at Google",
-      "score": 1212,
+      "score": 1321,
       "url": "https://addyosmani.com/blog/21-lessons/",
       "time": 1767540234.0,
       "comments_url": "https://news.ycombinator.com/item?id=46488819"
     },
     {
-      "title": "Show HN: Terminal UI for AWS",
-      "score": 303,
-      "url": "https://github.com/huseyinbabal/taws",
-      "time": 1767557842.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46491749"
-    },
-    {
-      "title": "Logos Language Guide: Compile English to Rust",
-      "score": 35,
-      "url": "https://logicaffeine.com/guide",
-      "time": 1767275307.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46454085"
-    },
-    {
-      "title": "During Helene, I just wanted a plain text website",
-      "score": 187,
-      "url": "https://sparkbox.com/foundry/helene_and_mobile_web_performance",
-      "time": 1767580580.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46494734"
-    },
-    {
       "title": "The unbearable joy of sitting alone in a café",
-      "score": 608,
+      "score": 663,
       "url": "https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/",
       "time": 1767537478.0,
       "comments_url": "https://news.ycombinator.com/item?id=46488355"
     },
     {
+      "title": "During Helene, I just wanted a plain text website",
+      "score": 248,
+      "url": "https://sparkbox.com/foundry/helene_and_mobile_web_performance",
+      "time": 1767580580.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46494734"
+    },
+    {
+      "title": "Building a Rust-style static analyzer for C++ with AI",
+      "score": 71,
+      "url": "http://mpaxos.com/blog/rusty-cpp.html",
+      "time": 1767589919.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46495539"
+    },
+    {
       "title": "Why does a least squares fit appear to have a bias when applied to simple data?",
-      "score": 235,
+      "score": 258,
       "url": "https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple",
       "time": 1767558330.0,
       "comments_url": "https://news.ycombinator.com/item?id=46491821"
     },
     {
+      "title": "Monads in C# (Part 2): Result",
+      "score": 36,
+      "url": "https://alexyorke.github.io/2025/09/13/monads-in-c-sharp-part-2-result/",
+      "time": 1767293102.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46456787"
+    },
+    {
       "title": "Street Fighter II, the World Warrier (2021)",
-      "score": 373,
+      "score": 394,
       "url": "https://fabiensanglard.net/sf2_warrier/",
       "time": 1767537029.0,
       "comments_url": "https://news.ycombinator.com/item?id=46488278"
     },
     {
       "title": "I charged $18k for a Static HTML Page (2019)",
-      "score": 277,
+      "score": 329,
       "url": "https://idiallo.com/blog/18000-dollars-static-web-page",
       "time": 1767390896.0,
       "comments_url": "https://news.ycombinator.com/item?id=46469877"
     },
     {
+      "title": "Show HN: Terminal UI for AWS",
+      "score": 330,
+      "url": "https://github.com/huseyinbabal/taws",
+      "time": 1767557842.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46491749"
+    },
+    {
+      "title": "Logos Language Guide: Compile English to Rust",
+      "score": 44,
+      "url": "https://logicaffeine.com/guide",
+      "time": 1767275307.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46454085"
+    },
+    {
       "title": "Baffling purple honey found only in North Carolina",
-      "score": 73,
+      "score": 94,
       "url": "https://www.bbc.com/travel/article/20250417-the-baffling-purple-honey-found-only-in-north-carolina",
       "time": 1767215176.0,
       "comments_url": "https://news.ycombinator.com/item?id=46448356"
     },
     {
-      "title": "Monads in C# (Part 2): Result",
-      "score": 15,
-      "url": "https://alexyorke.github.io/2025/09/13/monads-in-c-sharp-part-2-result/",
-      "time": 1767293102.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46456787"
-    },
-    {
-      "title": "Inducing self-NSFW classification in image models to prevent deepfakes edits",
-      "score": 17,
-      "url": "https://news.ycombinator.com/item?id=46496357",
-      "time": 1767600121.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46496357"
-    },
-    {
       "title": "Web development is fun again",
-      "score": 379,
+      "score": 410,
       "url": "https://ma.ttias.be/web-development-is-fun-again/",
       "time": 1767538818.0,
       "comments_url": "https://news.ycombinator.com/item?id=46488576"
-    },
-    {
-      "title": "Why Microsoft Store Discontinued Support for Office Apps",
-      "score": 12,
-      "url": "https://www.bgr.com/2027774/why-microsoft-store-discontinued-office-support/",
-      "time": 1767281248.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46454824"
-    },
-    {
-      "title": "How to translate a ROM: The mysteries of the game cartridge [video]",
-      "score": 16,
-      "url": "https://www.youtube.com/watch?v=XDg73E1n5-g",
-      "time": 1767143405.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46440188"
-    },
-    {
-      "title": "Claude Code On-the-Go",
-      "score": 313,
-      "url": "https://granda.org/en/2026/01/02/claude-code-on-the-go/",
-      "time": 1767556100.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46491486"
-    },
-    {
-      "title": "Linear Address Spaces: Unsafe at any speed (2022)",
-      "score": 154,
-      "url": "https://queue.acm.org/detail.cfm?id=3534854",
-      "time": 1767167873.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46442282"
     }
   ]
 }
