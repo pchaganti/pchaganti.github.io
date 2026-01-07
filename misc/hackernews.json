@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-01-07T01:21:33.132867-05:00",
+  "last_updated": "2026-01-07T04:20:55.257316-05:00",
   "stories": [
     {
       "title": "The creator of Claude Code's Claude setup",
-      "score": 159,
+      "score": 330,
       "url": "https://twitter.com/bcherny/status/2007179832300581177",
       "time": 1767391670.0,
       "comments_url": "https://news.ycombinator.com/item?id=46470017"
     },
     {
       "title": "Sergey Brin's Unretirement",
-      "score": 70,
+      "score": 150,
       "url": "https://www.inc.com/jessica-stillman/google-co-founder-sergey-brins-unretirement-is-a-lesson-for-the-rest-of-us/91280208",
       "time": 1767259828.0,
       "comments_url": "https://news.ycombinator.com/item?id=46452641"
     },
     {
+      "title": "Vector graphics on GPU",
+      "score": 21,
+      "url": "https://gasiulis.name/vector-graphics-on-gpu/",
+      "time": 1767420498.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46473247"
+    },
+    {
       "title": "Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone",
-      "score": 367,
+      "score": 416,
       "url": "https://github.com/rberg27/doom-coding",
       "time": 1767728312.0,
       "comments_url": "https://news.ycombinator.com/item?id=46517458"
     },
     {
+      "title": "Show HN: TCP chat server written in C# and .NET 9, used in the terminal",
+      "score": 7,
+      "url": "https://github.com/Sieep-Coding/simple-chat-csharp",
+      "time": 1767405935.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46472047"
+    },
+    {
       "title": "Electronic nose for indoor mold detection and identification",
-      "score": 70,
+      "score": 107,
       "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adsr.202500124",
       "time": 1767745861.0,
       "comments_url": "https://news.ycombinator.com/item?id=46520935"
     },
     {
-      "title": "On the slow death of scaling",
-      "score": 40,
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662",
-      "time": 1767757685.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46522308"
-    },
-    {
       "title": "Opus 4.5 is not the normal AI agent experience that I have had thus far",
-      "score": 460,
+      "score": 539,
       "url": "https://burkeholland.github.io/posts/opus-4-5-change-everything/",
       "time": 1767721537.0,
       "comments_url": "https://news.ycombinator.com/item?id=46515696"
     },
     {
-      "title": "Microsoft probably killed my Snapdragon Dev Kit",
-      "score": 117,
-      "url": "https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/",
-      "time": 1767753429.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46521860"
-    },
-    {
       "title": "A 30B Qwen model walks into a Raspberry Pi and runs in real time",
-      "score": 190,
+      "score": 228,
       "url": "https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/",
       "time": 1767732901.0,
       "comments_url": "https://news.ycombinator.com/item?id=46518573"
     },
     {
       "title": "Show HN: SMTP Tunnel – A SOCKS5 proxy disguised as email traffic to bypass DPI",
-      "score": 20,
+      "score": 48,
       "url": "https://github.com/x011/smtp-tunnel-proxy",
       "time": 1767745809.0,
       "comments_url": "https://news.ycombinator.com/item?id=46520926"
     },
     {
+      "title": "Rust is beyond object-oriented, part 3: Inheritance (2023)",
+      "score": 22,
+      "url": "https://www.thecodedmessage.com/posts/oop-3-inheritance/",
+      "time": 1767449711.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46476915"
+    },
+    {
+      "title": "On the slow death of scaling",
+      "score": 63,
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662",
+      "time": 1767757685.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46522308"
+    },
+    {
       "title": "Oral microbiome sequencing after taking probiotics",
-      "score": 119,
+      "score": 137,
       "url": "https://blog.booleanbiotech.com/oral-microbiome-biogaia",
       "time": 1767733847.0,
       "comments_url": "https://news.ycombinator.com/item?id=46518804"
     },
     {
-      "title": "We recreated Steve Jobs's 1975 Atari horoscope program",
-      "score": 42,
-      "url": "https://blog.adafruit.com/2026/01/06/we-recreated-steve-jobss-1975-atari-horoscope-program-and-you-can-run-it/",
-      "time": 1767746683.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46521029"
-    },
-    {
       "title": "Vietnam bans unskippable ads",
-      "score": 1218,
+      "score": 1296,
       "url": "https://saigoneer.com/vietnam-news/28652-vienam-bans-unskippable-ads,-requires-skip-button-to-appear-after-5-seconds",
       "time": 1767717942.0,
       "comments_url": "https://news.ycombinator.com/item?id=46514677"
     },
     {
-      "title": "Show HN: VaultSandbox – Test your real MailGun/SES/etc. integration",
-      "score": 18,
-      "url": "https://vaultsandbox.com/",
-      "time": 1767707448.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46512203"
-    },
-    {
-      "title": "CES 2026: Taking the Lids Off AMD's Venice and MI400 SoCs",
-      "score": 88,
-      "url": "https://chipsandcheese.com/p/ces-2026-taking-the-lids-off-amds",
-      "time": 1767735964.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46519326"
-    },
-    {
-      "title": "What *is* code? (2015)",
-      "score": 12,
-      "url": "https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/",
-      "time": 1767305285.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46458610"
+      "title": "We recreated Steve Jobs's 1975 Atari horoscope program",
+      "score": 61,
+      "url": "https://blog.adafruit.com/2026/01/06/we-recreated-steve-jobss-1975-atari-horoscope-program-and-you-can-run-it/",
+      "time": 1767746683.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46521029"
     },
     {
       "title": "Calling All Hackers: How money works (2024)",
-      "score": 206,
+      "score": 239,
       "url": "https://phrack.org/issues/71/17",
       "time": 1767731085.0,
       "comments_url": "https://news.ycombinator.com/item?id=46518129"
     },
     {
+      "title": "What *is* code? (2015)",
+      "score": 30,
+      "url": "https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/",
+      "time": 1767305285.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46458610"
+    },
+    {
       "title": "I wanted a camera that doesn't exist, so I built it",
-      "score": 318,
+      "score": 351,
       "url": "https://medium.com/@cristi.baluta/i-wanted-a-camera-that-doesnt-exist-so-i-built-it-5f9864533eb7",
       "time": 1767373443.0,
       "comments_url": "https://news.ycombinator.com/item?id=46466843"
     },
     {
-      "title": "Comparing AI agents to cybersecurity professionals in real-world pen testing",
-      "score": 87,
-      "url": "https://arxiv.org/abs/2512.09882",
-      "time": 1767734587.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46518996"
+      "title": "CES 2026: Taking the Lids Off AMD's Venice and MI400 SoCs",
+      "score": 98,
+      "url": "https://chipsandcheese.com/p/ces-2026-taking-the-lids-off-amds",
+      "time": 1767735964.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46519326"
     },
     {
-      "title": "Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery",
-      "score": 60,
-      "url": "https://news.ycombinator.com/item?id=46515777",
-      "time": 1767721796.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46515777"
+      "title": "Show HN: VaultSandbox – Test your real MailGun/SES/etc. integration",
+      "score": 30,
+      "url": "https://vaultsandbox.com/",
+      "time": 1767707448.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46512203"
     },
     {
-      "title": "Two ways to crack a walnut, per Grothendieck (2025)",
-      "score": 14,
-      "url": "https://shreevatsa.net/post/grothendieck-approaches/",
-      "time": 1767570030.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46493607"
+      "title": "Microsoft probably killed my Snapdragon Dev Kit",
+      "score": 158,
+      "url": "https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/",
+      "time": 1767753429.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46521860"
     }
   ]
 }
