@@ -1,47 +1,75 @@
 {
-  "last_updated": "2026-01-08T07:28:12.665505-05:00",
+  "last_updated": "2026-01-08T10:17:22.326587-05:00",
   "stories": [
     {
+      "title": "The Jeff Dean Facts",
+      "score": 88,
+      "url": "https://github.com/LRitzdorf/TheJeffDeanFacts",
+      "time": 1767877325.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46540498"
+    },
+    {
+      "title": "Lights and Shadows (2020)",
+      "score": 154,
+      "url": "https://ciechanow.ski/lights-and-shadows/",
+      "time": 1767381850.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46468338"
+    },
+    {
       "title": "Project Patchouli: Open-source electromagnetic drawing tablet hardware",
-      "score": 259,
+      "score": 326,
       "url": "https://patchouli.readthedocs.io/en/latest/",
       "time": 1767849605.0,
       "comments_url": "https://news.ycombinator.com/item?id=46537489"
     },
     {
       "title": "A closer look at a BGP anomaly in Venezuela",
-      "score": 172,
+      "score": 255,
       "url": "https://blog.cloudflare.com/bgp-route-leak-venezuela/",
       "time": 1767854786.0,
       "comments_url": "https://news.ycombinator.com/item?id=46538001"
     },
     {
+      "title": "Show HN: DeepDream for Video with Temporal Consistency",
+      "score": 15,
+      "url": "https://github.com/jeremicna/deepdream-video-pytorch",
+      "time": 1767878519.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46540660"
+    },
+    {
+      "title": "Open Infrastructure Map",
+      "score": 275,
+      "url": "https://openinframap.org",
+      "time": 1767843072.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46536866"
+    },
+    {
       "title": "The Napoleon Technique: Postponing things to increase productivity",
-      "score": 111,
+      "score": 164,
       "url": "https://effectiviology.com/napoleon/",
       "time": 1767571664.0,
       "comments_url": "https://news.ycombinator.com/item?id=46493785"
     },
     {
       "title": "Kernel bugs hide for 2 years on average. Some hide for 20",
-      "score": 191,
+      "score": 220,
       "url": "https://pebblebed.com/blog/kernel-bugs",
       "time": 1767838689.0,
       "comments_url": "https://news.ycombinator.com/item?id=46536340"
     },
     {
-      "title": "Open Infrastructure Map",
-      "score": 208,
-      "url": "https://openinframap.org",
-      "time": 1767843072.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46536866"
+      "title": "Eat Real Food",
+      "score": 976,
+      "url": "https://realfood.gov",
+      "time": 1767806529.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46529237"
     },
     {
-      "title": "Anyone have experiences with Audio Induction Loops?",
-      "score": 27,
-      "url": "https://en.wikipedia.org/wiki/Audio_induction_loop",
-      "time": 1767561807.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46492401"
+      "title": "The price of fame? Mortality risk among famous singers",
+      "score": 13,
+      "url": "https://jech.bmj.com/content/early/2025/11/30/jech-2025-224589",
+      "time": 1767528678.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46487224"
     },
     {
       "title": "Mothers (YC X26) Is Hiring",
@@ -51,95 +79,67 @@
       "comments_url": "https://news.ycombinator.com/item?id=46540078"
     },
     {
-      "title": "Eat Real Food",
-      "score": 890,
-      "url": "https://realfood.gov",
-      "time": 1767806529.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46529237"
-    },
-    {
       "title": "Shipmap.org",
-      "score": 646,
+      "score": 694,
       "url": "https://www.shipmap.org/",
       "time": 1767798221.0,
       "comments_url": "https://news.ycombinator.com/item?id=46527161"
     },
     {
+      "title": "Bose is open-sourcing its old smart speakers instead of bricking them",
+      "score": 9,
+      "url": "https://www.theverge.com/news/858501/bose-soundtouch-smart-speakers-open-source",
+      "time": 1767884877.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46541892"
+    },
+    {
       "title": "Go.sum is not a lockfile",
-      "score": 95,
+      "score": 120,
       "url": "https://words.filippo.io/gosum/",
       "time": 1767845434.0,
       "comments_url": "https://news.ycombinator.com/item?id=46537095"
     },
     {
+      "title": "Anyone have experiences with Audio Induction Loops?",
+      "score": 41,
+      "url": "https://en.wikipedia.org/wiki/Audio_induction_loop",
+      "time": 1767561807.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46492401"
+    },
+    {
       "title": "Lessons from Hash Table Merging",
-      "score": 37,
+      "score": 53,
       "url": "https://gist.github.com/attractivechaos/d2efc77cc1db56bbd5fc597987e73338",
       "time": 1767358315.0,
       "comments_url": "https://news.ycombinator.com/item?id=46464270"
     },
     {
       "title": "Tailscale state file encryption no longer enabled by default",
-      "score": 302,
+      "score": 317,
       "url": "https://tailscale.com/changelog",
       "time": 1767817010.0,
       "comments_url": "https://news.ycombinator.com/item?id=46531925"
     },
     {
       "title": "ChatGPT Health",
-      "score": 313,
+      "score": 360,
       "url": "https://openai.com/index/introducing-chatgpt-health/",
       "time": 1767814179.0,
       "comments_url": "https://news.ycombinator.com/item?id=46531280"
     },
     {
-      "title": "Lights and Shadows",
-      "score": 9,
-      "url": "https://ciechanow.ski/lights-and-shadows/",
-      "time": 1767381850.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46468338"
-    },
-    {
       "title": "The Q, K, V Matrices",
-      "score": 140,
+      "score": 160,
       "url": "https://arpitbhayani.me/blogs/qkv-matrices/",
       "time": 1767773889.0,
       "comments_url": "https://news.ycombinator.com/item?id=46523887"
     },
     {
-      "title": "The virtual AmigaOS runtime (a.k.a. Wine for Amiga:)",
-      "score": 81,
-      "url": "https://github.com/cnvogelg/amitools/blob/main/docs/vamos.md",
-      "time": 1767833297.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46535515"
-    },
-    {
       "title": "LaTeX Coffee Stains (2021) [pdf]",
-      "score": 345,
+      "score": 365,
       "url": "https://ctan.math.illinois.edu/graphics/pgf/contrib/coffeestains/coffeestains-en.pdf",
       "time": 1767797191.0,
       "comments_url": "https://news.ycombinator.com/item?id=46526933"
-    },
-    {
-      "title": "GLSL Web CRT Shader",
-      "score": 68,
-      "url": "https://blog.gingerbeardman.com/2026/01/04/glsl-web-crt-shader/",
-      "time": 1767554543.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46491219"
-    },
-    {
-      "title": "Play Aardwolf MUD",
-      "score": 136,
-      "url": "https://www.aardwolf.com/",
-      "time": 1767828665.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46534777"
-    },
-    {
-      "title": "NPM to implement staged publishing after turbulent shift off classic tokens",
-      "score": 179,
-      "url": "https://socket.dev/blog/npm-to-implement-staged-publishing",
-      "time": 1767810679.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46530448"
     }
   ]
 }
