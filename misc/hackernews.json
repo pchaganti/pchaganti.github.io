@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-01-08T01:21:33.899475-05:00",
+  "last_updated": "2026-01-08T04:20:53.214006-05:00",
   "stories": [
     {
       "title": "Project Patchouli: Open-source electromagnetic drawing tablet hardware",
-      "score": 32,
+      "score": 161,
       "url": "https://patchouli.readthedocs.io/en/latest/",
       "time": 1767849605.0,
       "comments_url": "https://news.ycombinator.com/item?id=46537489"
     },
     {
-      "title": "Chase to become new issuer of Apple Card",
-      "score": 80,
-      "url": "https://www.jpmorganchase.com/ir/news/2026/chase-to-become-new-issuer-of-apple-card",
-      "time": 1767842951.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46536848"
+      "title": "A closer look at a BGP anomaly in Venezuela",
+      "score": 101,
+      "url": "https://blog.cloudflare.com/bgp-route-leak-venezuela/",
+      "time": 1767854786.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46538001"
+    },
+    {
+      "title": "The Napoleon Technique: Postponing Things to Increase Productivity",
+      "score": 47,
+      "url": "https://effectiviology.com/napoleon/",
+      "time": 1767571664.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46493785"
     },
     {
       "title": "Kernel bugs hide for 2 years on average. Some hide for 20",
-      "score": 108,
+      "score": 157,
       "url": "https://pebblebed.com/blog/kernel-bugs",
       "time": 1767838689.0,
       "comments_url": "https://news.ycombinator.com/item?id=46536340"
     },
     {
       "title": "Open Infrastructure Map",
-      "score": 53,
+      "score": 143,
       "url": "https://openinframap.org",
       "time": 1767843072.0,
       "comments_url": "https://news.ycombinator.com/item?id=46536866"
     },
     {
       "title": "Eat Real Food",
-      "score": 718,
+      "score": 815,
       "url": "https://realfood.gov",
       "time": 1767806529.0,
       "comments_url": "https://news.ycombinator.com/item?id=46529237"
     },
     {
+      "title": "Lessons from Hash Table Merging",
+      "score": 10,
+      "url": "https://gist.github.com/attractivechaos/d2efc77cc1db56bbd5fc597987e73338",
+      "time": 1767358315.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46464270"
+    },
+    {
+      "title": "Shipmap.org",
+      "score": 597,
+      "url": "https://www.shipmap.org/",
+      "time": 1767798221.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46527161"
+    },
+    {
       "title": "Tailscale state file encryption no longer enabled by default",
-      "score": 265,
+      "score": 287,
       "url": "https://tailscale.com/changelog",
       "time": 1767817010.0,
       "comments_url": "https://news.ycombinator.com/item?id=46531925"
     },
     {
       "title": "Go.sum is not a lockfile",
-      "score": 20,
+      "score": 58,
       "url": "https://words.filippo.io/gosum/",
       "time": 1767845434.0,
       "comments_url": "https://news.ycombinator.com/item?id=46537095"
     },
     {
-      "title": "Shipmap.org",
-      "score": 547,
-      "url": "https://www.shipmap.org/",
-      "time": 1767798221.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46527161"
+      "title": "AI misses nearly one-third of breast cancers, study finds",
+      "score": 66,
+      "url": "https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/",
+      "time": 1767854587.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46537983"
+    },
+    {
+      "title": "ChatGPT Health",
+      "score": 254,
+      "url": "https://openai.com/index/introducing-chatgpt-health/",
+      "time": 1767814179.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46531280"
     },
     {
       "title": "Play Aardwolf MUD",
-      "score": 109,
+      "score": 122,
       "url": "https://www.aardwolf.com/",
       "time": 1767828665.0,
       "comments_url": "https://news.ycombinator.com/item?id=46534777"
     },
     {
-      "title": "Show HN: Lean4 proof that SSOT requires definition-time hooks and introspection",
-      "score": 6,
-      "url": "https://zenodo.org/records/18177320",
-      "time": 1767849341.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46537459"
-    },
-    {
-      "title": "How dependabot works",
-      "score": 50,
-      "url": "https://nesbitt.io/2026/01/02/how-dependabot-actually-works.html",
-      "time": 1767397444.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46470927"
-    },
-    {
-      "title": "Reading Without Limits or Expectations",
-      "score": 13,
-      "url": "https://www.carolinecrampton.com/reading-without-limits-or-expectations/",
-      "time": 1767646244.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46504761"
-    },
-    {
-      "title": "Musashi: Motorola 680x0 emulator written in C",
-      "score": 46,
-      "url": "https://github.com/kstenerud/Musashi",
-      "time": 1767833480.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46535540"
-    },
-    {
-      "title": "Solo ASIC tapeout on a budget: detailed write up",
-      "score": 53,
-      "url": "https://old.reddit.com/r/chipdesign/comments/1q4kvxt/solo_asic_tapeout_on_a_budget_detailed_write_up/",
-      "time": 1767624989.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46499469"
-    },
-    {
-      "title": "GLSL Web CRT Shader",
-      "score": 32,
-      "url": "https://blog.gingerbeardman.com/2026/01/04/glsl-web-crt-shader/",
-      "time": 1767554543.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46491219"
-    },
-    {
       "title": "The Q, K, V Matrices",
-      "score": 80,
+      "score": 112,
       "url": "https://arpitbhayani.me/blogs/qkv-matrices/",
       "time": 1767773889.0,
       "comments_url": "https://news.ycombinator.com/item?id=46523887"
     },
     {
+      "title": "The virtual AmigaOS runtime (a.k.a. Wine for Amiga:)",
+      "score": 62,
+      "url": "https://github.com/cnvogelg/amitools/blob/main/docs/vamos.md",
+      "time": 1767833297.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46535515"
+    },
+    {
       "title": "LaTeX Coffee Stains (2021) [pdf]",
-      "score": 308,
+      "score": 326,
       "url": "https://ctan.math.illinois.edu/graphics/pgf/contrib/coffeestains/coffeestains-en.pdf",
       "time": 1767797191.0,
       "comments_url": "https://news.ycombinator.com/item?id=46526933"
     },
     {
       "title": "NPM to implement staged publishing after turbulent shift off classic tokens",
-      "score": 155,
+      "score": 168,
       "url": "https://socket.dev/blog/npm-to-implement-staged-publishing",
       "time": 1767810679.0,
       "comments_url": "https://news.ycombinator.com/item?id=46530448"
     },
     {
+      "title": "Musashi: Motorola 680x0 emulator written in C",
+      "score": 62,
+      "url": "https://github.com/kstenerud/Musashi",
+      "time": 1767833480.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46535540"
+    },
+    {
       "title": "US will ban Wall Street investors from buying single-family homes",
-      "score": 762,
+      "score": 831,
       "url": "https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/",
       "time": 1767813199.0,
       "comments_url": "https://news.ycombinator.com/item?id=46531068"
     },
     {
-      "title": "Fighting back against biometric surveillance at Wegmans",
-      "score": 185,
-      "url": "https://blog.adafruit.com/2026/01/07/dont-let-the-grocery-store-scan-your-face-a-guide-to-fighting-back-against-biometric-surveillance-at-wegmans/",
-      "time": 1767833291.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46535514"
+      "title": "GLSL Web CRT Shader",
+      "score": 48,
+      "url": "https://blog.gingerbeardman.com/2026/01/04/glsl-web-crt-shader/",
+      "time": 1767554543.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46491219"
     }
   ]
 }
