@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-08T22:58:53.963796-05:00",
+  "last_updated": "2026-01-09T01:21:31.909768-05:00",
   "papers": [
     {
       "title": "Learning Latent Action World Models In The Wild",
@@ -87,7 +87,7 @@
     },
     {
       "title": "FinDeepForecast: A Live Multi-Agent System for Benchmarking Deep Research Agents in Financial Forecasting",
-      "summary": "Deep Research (DR) Agents powered by advanced Large Language Models (LLMs) have fundamentally shifted the paradigm for completing complex research tasks. Yet, a comprehensive and live evaluation of their forecasting performance on real-world, research-oriented tasks in high-stakes domains (e.g., finance) remains underexplored. We introduce FinDeepForecast, the first live, end-to-end multi-agent system for automatically evaluating DR agents by continuously generating research-oriented fi- nancial forecasting tasks. This system is equipped with a dual-track taxonomy, enabling the dynamic generation of recurrent and non-recurrent forecasting tasks at both corporate and macro levels. With this system, we generate FinDeepForecastBench, a weekly evaluation benchmark over a ten-week horizon, encompassing 8 global economies and 1,314 listed companies, and evaluate 13 representative methods. Extensive experiments show that, while DR agents consistently outperform strong baselines, their performance still falls short of genuine forward-looking financial reasoning. We expect the proposed FinDeepForecast system to consistently facilitate future advancements of DR agents in research-oriented financial forecasting tasks. The benchmark and leaderboard are publicly available on the OpenFinArena Platform.",
+      "summary": "Deep Research (DR) Agents powered by advanced Large Language Models (LLMs) have fundamentally shifted the paradigm for completing complex research tasks. Yet, a comprehensive and live evaluation of their forecasting performance on real-world, research-oriented tasks in high-stakes domains (e.g., finance) remains underexplored. We introduce FinDeepForecast, the first live, end-to-end multi-agent system for automatically evaluating DR agents by continuously generating research-oriented financial forecasting tasks. This system is equipped with a dual-track taxonomy, enabling the dynamic generation of recurrent and non-recurrent forecasting tasks at both corporate and macro levels. With this system, we generate FinDeepForecastBench, a weekly evaluation benchmark over a ten-week horizon, encompassing 8 global economies and 1,314 listed companies, and evaluate 13 representative methods. Extensive experiments show that, while DR agents consistently outperform strong baselines, their performance still falls short of genuine forward-looking financial reasoning. We expect the proposed FinDeepForecast system to consistently facilitate future advancements of DR agents in research-oriented financial forecasting tasks. The benchmark and leaderboard are publicly available on the OpenFinArena Platform.",
       "url": "http://arxiv.org/abs/2601.05039v1",
       "published_time_eastern_timestamp": 1767887109.0
     },
