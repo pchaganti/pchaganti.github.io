@@ -1,40 +1,96 @@
 {
-  "last_updated": "2026-01-08T16:13:32.904292-05:00",
+  "last_updated": "2026-01-08T20:04:02.017990-05:00",
   "stories": [
     {
-      "title": "IBM AI ('Bob') Downloads and Executes Malware",
-      "score": 195,
-      "url": "https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware",
-      "time": 1767896349.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46544454"
-    },
-    {
       "title": "How to Code Claude Code in 200 Lines of Code",
-      "score": 63,
+      "score": 294,
       "url": "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/",
       "time": 1767902066.0,
       "comments_url": "https://news.ycombinator.com/item?id=46545620"
     },
     {
-      "title": "Texas First State to End American Bar Association oversight of law schools",
-      "score": 24,
-      "url": "https://www.keranews.org/news/2026-01-06/texas-supreme-court-ends-american-bar-association-law-school-accreditation",
-      "time": 1767905048.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46546188"
+      "title": "Embassy: Modern embedded framework, using Rust and async",
+      "score": 64,
+      "url": "https://github.com/embassy-rs/embassy",
+      "time": 1767913245.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46547740"
     },
     {
-      "title": "Bose is open-sourcing its old smart speakers instead of bricking them",
-      "score": 1746,
-      "url": "https://www.theverge.com/news/858501/bose-soundtouch-smart-speakers-open-source",
+      "title": "Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU",
+      "score": 120,
+      "url": "https://github.com/samuel-vitorino/sopro",
+      "time": 1767904627.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46546113"
+    },
+    {
+      "title": "Bose has released API docs and opened the API for its EoL SoundTouch speakers",
+      "score": 2064,
+      "url": "https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/",
       "time": 1767884877.0,
       "comments_url": "https://news.ycombinator.com/item?id=46541892"
     },
     {
+      "title": "The Unreasonable Effectiveness of the Fourier Transform",
+      "score": 126,
+      "url": "https://joshuawise.com/resources/ofdm/",
+      "time": 1767898828.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46544981"
+    },
+    {
+      "title": "Tumblr removed from Apple App Store over abuse images",
+      "score": 4,
+      "url": "https://www.bbc.com/news/technology-46275138",
+      "time": 1767920306.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46548787"
+    },
+    {
+      "title": "The Jeff Dean Facts",
+      "score": 386,
+      "url": "https://github.com/LRitzdorf/TheJeffDeanFacts",
+      "time": 1767877325.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46540498"
+    },
+    {
+      "title": "Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi",
+      "score": 51,
+      "url": "https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/",
+      "time": 1767907046.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46546614"
+    },
+    {
       "title": "Google AI Studio is now sponsoring Tailwind CSS",
-      "score": 215,
+      "score": 428,
       "url": "https://twitter.com/OfficialLoganK/status/2009339263251566902",
       "time": 1767899363.0,
       "comments_url": "https://news.ycombinator.com/item?id=46545077"
+    },
+    {
+      "title": "AI coding assistants are getting worse?",
+      "score": 211,
+      "url": "https://spectrum.ieee.org/ai-coding-degrades",
+      "time": 1767885615.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46542036"
+    },
+    {
+      "title": "Fixing a Buffer Overflow in Unix v4 Like It's 1973",
+      "score": 77,
+      "url": "https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/",
+      "time": 1767896987.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46544610"
+    },
+    {
+      "title": "Show HN: macOS menu bar app to track Claude usage in real time",
+      "score": 75,
+      "url": "https://github.com/richhickson/claudecodeusage",
+      "time": 1767896657.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46544524"
+    },
+    {
+      "title": "Pole of Inaccessibility",
+      "score": 19,
+      "url": "https://en.wikipedia.org/wiki/Pole_of_inaccessibility",
+      "time": 1767482486.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46482844"
     },
     {
       "title": "Mux (YC W16) is hiring a platform engineer that cares about (internal) DX",
@@ -44,102 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=46546413"
     },
     {
-      "title": "The Unreasonable Effectiveness of the Fourier Transform",
-      "score": 48,
-      "url": "https://joshuawise.com/resources/ofdm/",
-      "time": 1767898828.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46544981"
-    },
-    {
-      "title": "Fixing a Buffer Overflow in Unix v4 Like It's 1973",
-      "score": 49,
-      "url": "https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/",
-      "time": 1767896987.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46544610"
-    },
-    {
-      "title": "The Jeff Dean Facts",
-      "score": 327,
-      "url": "https://github.com/LRitzdorf/TheJeffDeanFacts",
-      "time": 1767877325.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46540498"
+      "title": "Show HN: A geofence-based social network app 6 years in development",
+      "score": 29,
+      "url": "https://www.localvideoapp.com",
+      "time": 1767905792.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46546349"
     },
     {
       "title": "Ushikuvirus: Newly discovered virus may offer clues to the origin of eukaryotes",
-      "score": 38,
+      "score": 61,
       "url": "https://www.tus.ac.jp/en/mediarelations/archive/20251219_9539.html",
       "time": 1767847195.0,
       "comments_url": "https://news.ycombinator.com/item?id=46537253"
     },
     {
+      "title": "Learning to Play Tic-Tac-Toe with Jax",
+      "score": 29,
+      "url": "https://joe-antognini.github.io/ml/jax-tic-tac-toe",
+      "time": 1767503387.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46485130"
+    },
+    {
       "title": "Digital Red Queen: Adversarial Program Evolution in Core War with LLMs",
-      "score": 61,
+      "score": 92,
       "url": "https://sakana.ai/drq/",
       "time": 1767889003.0,
       "comments_url": "https://news.ycombinator.com/item?id=46542761"
     },
     {
-      "title": "Task-free intelligence testing of LLMs",
-      "score": 12,
-      "url": "https://www.marble.onl/posts/tapping/index.html",
-      "time": 1767901907.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46545587"
-    },
-    {
-      "title": "Iran Goes Into IPv6 Blackout",
-      "score": 288,
-      "url": "https://radar.cloudflare.com/routing/ir",
-      "time": 1767888708.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46542683"
-    },
-    {
-      "title": "Show HN: macOS menu bar app to track Claude usage in real time",
-      "score": 28,
-      "url": "https://github.com/richhickson/claudecodeusage",
-      "time": 1767896657.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46544524"
-    },
-    {
-      "title": "I used Lego to design a farm for people who are blind – like me",
-      "score": 81,
-      "url": "https://www.bbc.co.uk/news/articles/c4g4zlyqnr0o",
-      "time": 1767636173.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46502269"
-    },
-    {
       "title": "Lights and Shadows (2020)",
-      "score": 207,
+      "score": 220,
       "url": "https://ciechanow.ski/lights-and-shadows/",
       "time": 1767381850.0,
       "comments_url": "https://news.ycombinator.com/item?id=46468338"
     },
     {
-      "title": "Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU",
-      "score": 7,
-      "url": "https://github.com/samuel-vitorino/sopro",
-      "time": 1767904627.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46546113"
-    },
-    {
-      "title": "Intellectual Junkyards",
-      "score": 11,
-      "url": "https://www.forester-notes.org/QHXS/index.xml",
-      "time": 1767587134.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46495319"
-    },
-    {
-      "title": "Project Patchouli: Open-source electromagnetic drawing tablet hardware",
-      "score": 406,
-      "url": "https://patchouli.readthedocs.io/en/latest/",
-      "time": 1767849605.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46537489"
-    },
-    {
-      "title": "A closer look at a BGP anomaly in Venezuela",
-      "score": 352,
-      "url": "https://blog.cloudflare.com/bgp-route-leak-venezuela/",
-      "time": 1767854786.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46538001"
+      "title": "Making Magic Leap past Nvidia's secure bootchain and breaking Tesla Autopilots",
+      "score": 23,
+      "url": "https://fahrplan.events.ccc.de/congress/2025/fahrplan/event/making-the-magic-leap-past-nvidia-s-secure-bootchain-and-breaking-some-tesla-autopilots-along-the-way",
+      "time": 1767275925.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46454160"
     }
   ]
 }
