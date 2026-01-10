@@ -1,61 +1,96 @@
 {
-  "last_updated": "2026-01-10T13:18:22.522888-05:00",
+  "last_updated": "2026-01-10T16:11:04.640409-05:00",
   "stories": [
     {
       "title": "Open Chaos: A self-evolving open-source project",
-      "score": 66,
+      "score": 210,
       "url": "https://www.openchaos.dev/",
       "time": 1768061035.0,
       "comments_url": "https://news.ycombinator.com/item?id=46566812"
     },
     {
-      "title": "AI is a business model stress test",
-      "score": 30,
-      "url": "https://dri.es/ai-is-a-business-model-stress-test",
-      "time": 1768064194.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46567392"
-    },
-    {
       "title": "A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)",
-      "score": 244,
+      "score": 310,
       "url": "https://nightingaledvs.com/dark-sky-weather-data-viz/",
       "time": 1768047800.0,
       "comments_url": "https://news.ycombinator.com/item?id=46565132"
     },
     {
-      "title": "Allow me to introduce, the Citroen C15",
-      "score": 517,
-      "url": "https://eupolicy.social/@jmaris/115860595238097654",
-      "time": 1768043535.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46564696"
+      "title": "AI is a business model stress test",
+      "score": 74,
+      "url": "https://dri.es/ai-is-a-business-model-stress-test",
+      "time": 1768064194.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46567392"
     },
     {
-      "title": "New information extracted from Snowden PDFs through metadata version analysis",
-      "score": 171,
-      "url": "https://libroot.org/posts/going-through-snowden-documents-part-4/",
-      "time": 1768044239.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46564762"
+      "title": "Show HN: I used Claude Code to discover connections between 100 books",
+      "score": 26,
+      "url": "https://trails.pieterma.es/",
+      "time": 1768064215.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46567400"
     },
     {
-      "title": "UK government exempting itself from cyber law inspires little confidence",
-      "score": 182,
-      "url": "https://www.theregister.com/2026/01/10/csr_bill_analysis/",
-      "time": 1768053087.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46565731"
+      "title": "Rats caught on camera hunting flying bats",
+      "score": 31,
+      "url": "https://scienceclock.com/rats-caught-on-camera-hunting-flying-bats-for-the-first-time/",
+      "time": 1768070686.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46568662"
+    },
+    {
+      "title": "Finding and Fixing Ghostty's Largest Memory Leak",
+      "score": 34,
+      "url": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
+      "time": 1768071517.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46568794"
+    },
+    {
+      "title": "ASCII-Driven Development",
+      "score": 46,
+      "url": "https://medium.com/@calufa/ascii-driven-development-850f66661351",
+      "time": 1767860297.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46538628"
+    },
+    {
+      "title": "Side-by-side comparison of how AI models answer moral dilemmas",
+      "score": 32,
+      "url": "https://civai.org/p/ai-values",
+      "time": 1767909186.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46547024"
     },
     {
       "title": "I replaced Windows with Linux and everything's going great",
-      "score": 201,
+      "score": 354,
       "url": "https://www.theverge.com/tech/858910/linux-diary-gaming-desktop",
       "time": 1768058786.0,
       "comments_url": "https://news.ycombinator.com/item?id=46566465"
     },
     {
-      "title": "“Erdos problem #728 was solved more or less autonomously by AI”",
-      "score": 572,
-      "url": "https://mathstodon.xyz/@tao/115855840223258103",
-      "time": 1767998355.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46560445"
+      "title": "Bichon: A lightweight, high-performance Rust email archiver with WebUI",
+      "score": 28,
+      "url": "https://github.com/rustmailer/bichon",
+      "time": 1768073345.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46569075"
+    },
+    {
+      "title": "New information extracted from Snowden PDFs through metadata version analysis",
+      "score": 231,
+      "url": "https://libroot.org/posts/going-through-snowden-documents-part-4/",
+      "time": 1768044239.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46564762"
+    },
+    {
+      "title": "ChatGPT Health is a marketplace, guess who is the product?",
+      "score": 164,
+      "url": "https://consciousdigital.org/chatgpt-health-is-a-marketplace-guess-who-is-the-product/",
+      "time": 1767883220.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46541533"
+    },
+    {
+      "title": "Org Mode Syntax Is One of the Most Reasonable Markup Languages to Use for Text",
+      "score": 186,
+      "url": "https://karl-voit.at/2017/09/23/orgmode-as-markup-only/",
+      "time": 1768036530.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46564116"
     },
     {
       "title": "UpCodes (YC S17) is hiring PMs, SWEs to automate construction compliance",
@@ -65,81 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=46567458"
     },
     {
+      "title": "Bindless Oriented Graphics Programming",
+      "score": 15,
+      "url": "https://alextardif.com/BindlessProgramming.html",
+      "time": 1767775476.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46524051"
+    },
+    {
+      "title": "Drones that recharge directly on transmission lines",
+      "score": 111,
+      "url": "https://www.ycombinator.com/companies/voltair",
+      "time": 1768063399.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46567218"
+    },
+    {
+      "title": "Distributed Denial of Secrets",
+      "score": 32,
+      "url": "https://ddosecrets.com/",
+      "time": 1767830731.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46535143"
+    },
+    {
+      "title": "UK government exempting itself from cyber law inspires little confidence",
+      "score": 253,
+      "url": "https://www.theregister.com/2026/01/10/csr_bill_analysis/",
+      "time": 1768053087.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46565731"
+    },
+    {
+      "title": "“Erdos problem #728 was solved more or less autonomously by AI”",
+      "score": 586,
+      "url": "https://mathstodon.xyz/@tao/115855840223258103",
+      "time": 1767998355.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46560445"
+    },
+    {
       "title": "Httpz – Zero-Allocation HTTP/1.1 Parser for OxCaml",
-      "score": 41,
+      "score": 62,
       "url": "https://github.com/avsm/httpz",
       "time": 1767780132.0,
       "comments_url": "https://news.ycombinator.com/item?id=46524554"
-    },
-    {
-      "title": "Org Mode Syntax Is One of the Most Reasonable Markup Languages to Use for Text",
-      "score": 149,
-      "url": "https://karl-voit.at/2017/09/23/orgmode-as-markup-only/",
-      "time": 1768036530.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46564116"
-    },
-    {
-      "title": "Reverse Engineering the Epson FilmScan 200 for Classic Mac",
-      "score": 56,
-      "url": "https://ronangaillard.github.io/posts/reverse-engineering-epson-filmscan-200/",
-      "time": 1767428812.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46474065"
-    },
-    {
-      "title": "Creating Embroidered Charts with R and ImageMagick",
-      "score": 55,
-      "url": "https://aman.bh/blog/2025/creating-embroidered-charts-with-r-and-imagemagick",
-      "time": 1767710010.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46512743"
-    },
-    {
-      "title": "Microsoft May Have Created the Slowest Windows in 25 Years with Windows 11",
-      "score": 149,
-      "url": "https://www.eteknix.com/microsoft-may-have-created-the-slowest-windows-in-25-years-with-windows-11/",
-      "time": 1768063016.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46567138"
-    },
-    {
-      "title": "Greenland sharks maintain vision for centuries through DNA repair mechanism",
-      "score": 211,
-      "url": "https://phys.org/news/2026-01-eye-greenland-sharks-vision-centuries.html",
-      "time": 1767703492.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46511555"
-    },
-    {
-      "title": "Time Travelling and Fixing Bugs with Property-Based Testing (2019)",
-      "score": 7,
-      "url": "https://wickstrom.tech/2019-11-17-time-travelling-and-fixing-bugs-with-property-based-testing.html",
-      "time": 1767676040.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46508956"
-    },
-    {
-      "title": "JavaScript Demos in 140 Characters",
-      "score": 312,
-      "url": "https://beta.dwitter.net",
-      "time": 1767984510.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46557489"
-    },
-    {
-      "title": "Show HN: Yuanzai World – LLM RPGs with branching world-lines",
-      "score": 17,
-      "url": "https://www.yuanzai.world/",
-      "time": 1768049293.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46565265"
-    },
-    {
-      "title": "Changes to Android Open Source Project",
-      "score": 248,
-      "url": "https://source.android.com/",
-      "time": 1767778546.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46524379"
-    },
-    {
-      "title": "How Markdown took over the world",
-      "score": 378,
-      "url": "https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/",
-      "time": 1767981140.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46556695"
     }
   ]
 }
