@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-01-11T04:13:26.714113-05:00",
+  "last_updated": "2026-01-11T07:24:29.540423-05:00",
   "stories": [
     {
       "title": "C++ std::move doesn't move anything: A deep dive into Value Categories",
-      "score": 24,
+      "score": 98,
       "url": "https://0xghost.dev/blog/std-move-deep-dive/",
       "time": 1767949293.0,
       "comments_url": "https://news.ycombinator.com/item?id=46551602"
     },
     {
+      "title": "I dumped Windows 11 for Linux, and you should too",
+      "score": 53,
+      "url": "https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html",
+      "time": 1768131082.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46574707"
+    },
+    {
       "title": "The Concise TypeScript Book",
-      "score": 65,
+      "score": 108,
       "url": "https://github.com/gibbok/typescript-book",
       "time": 1768110123.0,
       "comments_url": "https://news.ycombinator.com/item?id=46573001"
     },
     {
-      "title": "Vojtux – Unofficial Linux Distribution Aimed at Visually Impaired Users",
-      "score": 28,
-      "url": "https://github.com/vojtapolasek/vojtux",
-      "time": 1767786206.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46525271"
-    },
-    {
       "title": "More than one hundred years of Film Sizes",
-      "score": 7,
+      "score": 38,
       "url": "https://wichm.home.xs4all.nl/filmsize.html",
       "time": 1768119764.0,
       "comments_url": "https://news.ycombinator.com/item?id=46573688"
     },
     {
-      "title": "Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering",
-      "score": 137,
-      "url": "https://github.com/OlaProeis/Ferrite",
-      "time": 1768096201.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46571980"
-    },
-    {
-      "title": "'Bandersnatch': The Works That Inspired the 'Black Mirror' Interactive Feature (2019)",
-      "score": 23,
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/black-mirror-bandersnatch-real-life-works-influences-1173330/",
-      "time": 1767665238.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46507891"
+      "title": "Vojtux – Unofficial Linux Distribution Aimed at Visually Impaired Users",
+      "score": 58,
+      "url": "https://github.com/vojtapolasek/vojtux",
+      "time": 1767786206.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46525271"
     },
     {
       "title": "Finding and fixing Ghostty's largest memory leak",
-      "score": 410,
+      "score": 478,
       "url": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
       "time": 1768071517.0,
       "comments_url": "https://news.ycombinator.com/item?id=46568794"
     },
     {
+      "title": "'Bandersnatch': The Works That Inspired the 'Black Mirror' Interactive Feature (2019)",
+      "score": 47,
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/black-mirror-bandersnatch-real-life-works-influences-1173330/",
+      "time": 1767665238.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46507891"
+    },
+    {
+      "title": "Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering",
+      "score": 179,
+      "url": "https://github.com/OlaProeis/Ferrite",
+      "time": 1768096201.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46571980"
+    },
+    {
       "title": "Show HN: I used Claude Code to discover connections between 100 books",
-      "score": 332,
+      "score": 379,
       "url": "https://trails.pieterma.es/",
       "time": 1768064215.0,
       "comments_url": "https://news.ycombinator.com/item?id=46567400"
     },
     {
-      "title": "A battle over Canada’s mystery brain disease",
-      "score": 127,
-      "url": "https://www.bbc.com/news/articles/c623r47d67lo",
-      "time": 1768106727.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46572769"
+      "title": "Think of Pavlov",
+      "score": 4,
+      "url": "https://boz.com/articles/think-pavlov",
+      "time": 1768129386.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46574475"
     },
     {
       "title": "Code and Let Live",
-      "score": 312,
+      "score": 356,
       "url": "https://fly.io/blog/code-and-let-live/",
       "time": 1767985919.0,
       "comments_url": "https://news.ycombinator.com/item?id=46557825"
     },
     {
-      "title": "A Year of Work on the Arch Linux Package Management (ALPM) Project",
-      "score": 49,
-      "url": "https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/",
-      "time": 1768097294.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46572060"
-    },
-    {
-      "title": "My Home Fibre Network Disintegrated",
-      "score": 134,
-      "url": "https://alienchow.dev/post/fibre_disintegration/",
-      "time": 1768105144.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46572679"
-    },
-    {
-      "title": "Open Chaos: A self-evolving open-source project",
-      "score": 372,
-      "url": "https://www.openchaos.dev/",
-      "time": 1768061035.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46566812"
-    },
-    {
-      "title": "An Experimental Approach to Printf in HLSL",
-      "score": 24,
-      "url": "https://www.abolishcrlf.org//2025/12/31/Printf.html",
-      "time": 1767779583.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46524483"
-    },
-    {
       "title": "CPU Counters on Apple Silicon: article + tool",
-      "score": 67,
+      "score": 95,
       "url": "https://blog.bugsiki.dev/posts/apple-pmu/",
       "time": 1767785973.0,
       "comments_url": "https://news.ycombinator.com/item?id=46525236"
     },
     {
+      "title": "A Year of Work on the Arch Linux Package Management (ALPM) Project",
+      "score": 70,
+      "url": "https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/",
+      "time": 1768097294.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46572060"
+    },
+    {
+      "title": "Open Chaos: A self-evolving open-source project",
+      "score": 381,
+      "url": "https://www.openchaos.dev/",
+      "time": 1768061035.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46566812"
+    },
+    {
       "title": "AI is a business model stress test",
-      "score": 243,
+      "score": 267,
       "url": "https://dri.es/ai-is-a-business-model-stress-test",
       "time": 1768064194.0,
       "comments_url": "https://news.ycombinator.com/item?id=46567392"
     },
     {
-      "title": "Show HN: VAM Seek – 2D video navigation grid, 15KB, zero server load",
-      "score": 25,
-      "url": "https://github.com/unhaya/vam-seek",
-      "time": 1768100254.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46572304"
-    },
-    {
-      "title": "Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more",
-      "score": 101,
-      "url": "https://news.ycombinator.com/item?id=46571149",
-      "time": 1768088725.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46571149"
+      "title": "Show HN: Play poker with LLMs, or watch them play against each other",
+      "score": 126,
+      "url": "https://llmholdem.com/",
+      "time": 1768073259.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46569061"
     },
     {
       "title": "Overdose deaths are falling in America because of a 'supply shock': study",
-      "score": 124,
+      "score": 152,
       "url": "https://www.economist.com/united-states/2026/01/08/why-overdose-deaths-are-falling-in-america",
       "time": 1768074889.0,
       "comments_url": "https://news.ycombinator.com/item?id=46569312"
     },
     {
-      "title": "I build products to get \"unplugged\" from the internet",
-      "score": 15,
-      "url": "https://getunplugged.io/I-build-products-to-get-unplugged",
-      "time": 1768107679.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46572821"
+      "title": "Show HN: I built an Open Source screen timer for the m5stickc (Arduino)",
+      "score": 7,
+      "url": "https://partridge.works/screenie-christmas-project-2025-26/",
+      "time": 1767707484.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46512210"
+    },
+    {
+      "title": "Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more",
+      "score": 110,
+      "url": "https://news.ycombinator.com/item?id=46571149",
+      "time": 1768088725.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46571149"
+    },
+    {
+      "title": "An Experimental Approach to Printf in HLSL",
+      "score": 28,
+      "url": "https://www.abolishcrlf.org//2025/12/31/Printf.html",
+      "time": 1767779583.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46524483"
     }
   ]
 }
