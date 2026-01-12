@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-01-12T13:20:47.269164-05:00",
+  "last_updated": "2026-01-12T16:13:14.942355-05:00",
   "stories": [
     {
+      "title": "Cowork: Claude Code for the rest of your work",
+      "score": 234,
+      "url": "https://claude.com/blog/cowork-research-preview",
+      "time": 1768246039.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46593022"
+    },
+    {
       "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
-      "score": 195,
+      "score": 373,
       "url": "https://github.com/haykgrigo3/TimeCapsuleLLM",
       "time": 1768233867.0,
       "comments_url": "https://news.ycombinator.com/item?id=46590280"
     },
     {
-      "title": "LLVM: The bad parts",
-      "score": 171,
-      "url": "https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html",
-      "time": 1768227493.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46588837"
-    },
-    {
-      "title": "Date is out, Temporal is in",
-      "score": 127,
-      "url": "https://piccalil.li/blog/date-is-out-and-temporal-is-in/",
-      "time": 1768231236.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46589658"
-    },
-    {
-      "title": "Show HN: AI in SolidWorks",
-      "score": 27,
-      "url": "https://www.trylad.com",
-      "time": 1768236977.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46591100"
-    },
-    {
       "title": "Postal Arbitrage",
-      "score": 10,
+      "score": 153,
       "url": "https://walzr.com/postal-arbitrage",
       "time": 1768239710.0,
       "comments_url": "https://news.ycombinator.com/item?id=46591708"
     },
     {
+      "title": "Unauthenticated remote code execution in OpenCode",
+      "score": 122,
+      "url": "https://cy.md/opencode-rce/",
+      "time": 1768170812.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46581095"
+    },
+    {
+      "title": "The chess bot on Delta Air Lines will destroy you (2024) [video]",
+      "score": 34,
+      "url": "https://www.youtube.com/watch?v=c0mLhHDcY3I",
+      "time": 1768247857.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46593395"
+    },
+    {
+      "title": "Date is out, Temporal is in",
+      "score": 235,
+      "url": "https://piccalil.li/blog/date-is-out-and-temporal-is-in/",
+      "time": 1768231236.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46589658"
+    },
+    {
+      "title": "Fabrice Bellard's TS Zip",
+      "score": 17,
+      "url": "https://www.bellard.org/ts_zip/",
+      "time": 1768249607.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46593802"
+    },
+    {
+      "title": "LLVM: The bad parts",
+      "score": 227,
+      "url": "https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html",
+      "time": 1768227493.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46588837"
+    },
+    {
+      "title": "Show HN: AI in SolidWorks",
+      "score": 77,
+      "url": "https://www.trylad.com",
+      "time": 1768236977.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46591100"
+    },
+    {
       "title": "Floppy disks turn out to be the greatest TV remote for kids",
-      "score": 316,
+      "score": 414,
       "url": "https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/",
       "time": 1768223269.0,
       "comments_url": "https://news.ycombinator.com/item?id=46587934"
     },
     {
-      "title": "Message Queues: A Simple Guide with Analogies",
-      "score": 21,
+      "title": "Clearspace (YC W23) Is Hiring an Applied Researcher (ML)",
+      "score": 1,
+      "url": "https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace",
+      "time": 1768243307.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46592461"
+    },
+    {
+      "title": "Perlsecret – Perl secret operators and constants",
+      "score": 23,
+      "url": "https://metacpan.org/dist/perlsecret/view/lib/perlsecret.pod",
+      "time": 1767739148.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46519839"
+    },
+    {
+      "title": "Show HN: Agent-of-empires: OpenCode and Claude Code session manager",
+      "score": 20,
+      "url": "https://github.com/njbrake/agent-of-empires",
+      "time": 1768227787.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46588905"
+    },
+    {
+      "title": "Message Queues: A Simple Guide with Analogies (2024)",
+      "score": 56,
       "url": "https://www.cloudamqp.com/blog/message-queues-exaplined-with-analogies.html",
       "time": 1768238229.0,
       "comments_url": "https://news.ycombinator.com/item?id=46591402"
     },
     {
-      "title": "The struggle of resizing windows on macOS Tahoe",
-      "score": 2399,
-      "url": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
-      "time": 1768164475.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46579864"
+      "title": "Show HN: Fall asleep by watching JavaScript load",
+      "score": 26,
+      "url": "https://github.com/sarusso/bedtime",
+      "time": 1768242972.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46592376"
     },
     {
-      "title": "Carma (YC W24 clients, A in 6mo) Eng hiring: Replace $500B human fleet ops with AI",
-      "score": 1,
-      "url": "https://news.ycombinator.com/item?id=46591170",
-      "time": 1768237248.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46591170"
+      "title": "Apple picks Google's Gemini to power Siri",
+      "score": 474,
+      "url": "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html",
+      "time": 1768231341.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46589675"
     },
     {
-      "title": "Reproducing DeepSeek's MHC: When Residual Connections Explode",
-      "score": 68,
-      "url": "https://taylorkolasinski.com/notes/mhc-reproduction/",
-      "time": 1768226252.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46588572"
+      "title": "Update on age requirements for apps distributed in Texas",
+      "score": 5,
+      "url": "https://developer.apple.com/news/?id=8jzbigf4",
+      "time": 1768249654.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46593819"
     },
     {
       "title": "Building a 25 Gbit/s workstation for the SCION Association",
-      "score": 11,
+      "score": 53,
       "url": "https://github.com/scionassociation/blog-25gbit-workstation",
       "time": 1768234816.0,
       "comments_url": "https://news.ycombinator.com/item?id=46590541"
     },
     {
-      "title": "Launch a Debugging Terminal into GitHub Actions",
-      "score": 94,
-      "url": "https://blog.gripdev.xyz/2026/01/10/actions-terminal-on-failure-for-debugging/",
-      "time": 1768220727.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46587498"
-    },
-    {
-      "title": "History's Attention Gap",
-      "score": 10,
-      "url": "https://kidopoly.com/research/attention-gap/",
-      "time": 1767787797.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46525477"
-    },
-    {
-      "title": "Ai, Japanese chimpanzee who counted and painted dies at 49",
-      "score": 122,
-      "url": "https://www.bbc.com/news/articles/cj9r3zl2ywyo",
-      "time": 1768209045.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46585947"
-    },
-    {
-      "title": "Personal thoughts/notes from working on Zootopia 2",
-      "score": 182,
-      "url": "https://blog.yiningkarlli.com/2025/12/zootopia-2.html",
-      "time": 1767788941.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46525639"
-    },
-    {
       "title": "Zen-C: Write like a high-level language, run like C",
-      "score": 92,
+      "score": 135,
       "url": "https://github.com/z-libs/Zen-C",
       "time": 1768222664.0,
       "comments_url": "https://news.ycombinator.com/item?id=46587804"
     },
     {
-      "title": "Anthropic made a mistake in cutting off third-party clients",
-      "score": 93,
-      "url": "https://archaeologist.dev/artifacts/anthropic",
-      "time": 1768215449.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46586766"
-    },
-    {
-      "title": "Lightpanda migrate DOM implementation to Zig",
-      "score": 164,
-      "url": "https://lightpanda.io/blog/posts/migrating-our-dom-to-zig",
-      "time": 1768210969.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46586179"
-    },
-    {
-      "title": "CLI agents make self-hosting on a home server easier and fun",
-      "score": 706,
-      "url": "https://fulghum.io/self-hosting",
-      "time": 1768166997.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46580326"
-    },
-    {
-      "title": "JRR Tolkien reads from The Hobbit for 30 Minutes (1952)",
-      "score": 262,
-      "url": "https://www.openculture.com/2026/01/j-r-r-tolkien-reads-from-the-hobbit-for-30-minutes-1952.html",
-      "time": 1767796996.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46526896"
+      "title": "Show HN: Yolobox – Run AI coding agents with full sudo without nuking home dir",
+      "score": 34,
+      "url": "https://github.com/finbarr/yolobox",
+      "time": 1768242842.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46592344"
     }
   ]
 }
