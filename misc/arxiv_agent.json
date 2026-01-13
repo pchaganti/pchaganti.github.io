@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-13T13:21:41.650174-05:00",
+  "last_updated": "2026-01-13T16:13:52.062289-05:00",
   "papers": [
     {
       "title": "Optimal Learning Rate Schedule for Balancing Effort and Performance",
@@ -8,7 +8,7 @@
       "published_time_eastern_timestamp": 1768244347.0
     },
     {
-      "title": "Video Generation Models in Robotics - Applications, Research Challenges, Future Directions",
+      "title": "Video Generation Models in Robotics -- Applications, Research Challenges, Future Directions",
       "summary": "Video generation models have emerged as high-fidelity models of the physical world, capable of synthesizing high-quality videos capturing fine-grained interactions between agents and their environments conditioned on multi-modal user inputs. Their impressive capabilities address many of the long-standing challenges faced by physics-based simulators, driving broad adoption in many problem domains, e.g., robotics. For example, video models enable photorealistic, physically consistent deformable-body simulation without making prohibitive simplifying assumptions, which is a major bottleneck in physics-based simulation. Moreover, video models can serve as foundation world models that capture the dynamics of the world in a fine-grained and expressive way. They thus overcome the limited expressiveness of language-only abstractions in describing intricate physical interactions. In this survey, we provide a review of video models and their applications as embodied world models in robotics, encompassing cost-effective data generation and action prediction in imitation learning, dynamics and rewards modeling in reinforcement learning, visual planning, and policy evaluation. Further, we highlight important challenges hindering the trustworthy integration of video models in robotics, which include poor instruction following, hallucinations such as violations of physics, and unsafe content generation, in addition to fundamental limitations such as significant data curation, training, and inference costs. We present potential future directions to address these open research challenges to motivate research and ultimately facilitate broader applications, especially in safety-critical settings.",
       "url": "http://arxiv.org/abs/2601.07823v1",
       "published_time_eastern_timestamp": 1768244254.0
