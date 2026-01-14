@@ -1,89 +1,117 @@
 {
-  "last_updated": "2026-01-13T23:04:23.140750-05:00",
+  "last_updated": "2026-01-14T01:21:39.106553-05:00",
   "stories": [
     {
       "title": "There's a ridiculous amount of tech in a disposable vape",
-      "score": 41,
+      "score": 168,
       "url": "https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html",
       "time": 1768240201.0,
       "comments_url": "https://news.ycombinator.com/item?id=46591810"
     },
     {
+      "title": "1000 Blank White Cards",
+      "score": 63,
+      "url": "https://en.wikipedia.org/wiki/1000_Blank_White_Cards",
+      "time": 1768360117.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46611823"
+    },
+    {
+      "title": "ASCII Clouds",
+      "score": 96,
+      "url": "https://caidan.dev/portfolio/ascii_clouds/",
+      "time": 1768357242.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46611507"
+    },
+    {
       "title": "A 40-line fix eliminated a 400x performance gap",
-      "score": 173,
+      "score": 216,
       "url": "https://questdb.com/blog/jvm-current-thread-user-time/",
       "time": 1768345236.0,
       "comments_url": "https://news.ycombinator.com/item?id=46609630"
     },
     {
       "title": "Every GitHub object has two IDs",
-      "score": 134,
+      "score": 178,
       "url": "https://www.greptile.com/blog/github-ids",
       "time": 1768319553.0,
       "comments_url": "https://news.ycombinator.com/item?id=46602591"
     },
     {
-      "title": "ASCII Clouds",
-      "score": 39,
-      "url": "https://caidan.dev/portfolio/ascii_clouds/",
-      "time": 1768357242.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46611507"
-    },
-    {
-      "title": "vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep",
-      "score": 56,
-      "url": "https://blog.vllm.ai/2025/12/17/large-scale-serving.html",
-      "time": 1768319999.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46602737"
-    },
-    {
-      "title": "The $LANG Programming Language",
-      "score": 104,
-      "url": "https://news.ycombinator.com/item?id=46610557",
-      "time": 1768349839.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46610557"
-    },
-    {
-      "title": "The truth behind the 2026 J.P. Morgan Healthcare Conference",
-      "score": 104,
-      "url": "https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan",
-      "time": 1768328520.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46605332"
+      "title": "The Gleam Programming Language",
+      "score": 45,
+      "url": "https://gleam.run/",
+      "time": 1768358965.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46611667"
     },
     {
       "title": "Show HN: OSS AI agent that indexes and searches the Epstein files",
-      "score": 15,
+      "score": 49,
       "url": "https://epstein.trynia.ai/",
       "time": 1768355812.0,
       "comments_url": "https://news.ycombinator.com/item?id=46611348"
     },
     {
+      "title": "Show HN: Cachekit – High performance caching policies library in Rust",
+      "score": 25,
+      "url": "https://github.com/OxidizeLabs/cachekit",
+      "time": 1768357732.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46611548"
+    },
+    {
+      "title": "vLLM large scale serving: DeepSeek 2.2k tok/s/h200 with wide-ep",
+      "score": 80,
+      "url": "https://blog.vllm.ai/2025/12/17/large-scale-serving.html",
+      "time": 1768319999.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46602737"
+    },
+    {
+      "title": "Show HN: 1D-Pong Game at 39C3",
+      "score": 7,
+      "url": "https://github.com/ogermer/1d-pong",
+      "time": 1768162994.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46579612"
+    },
+    {
+      "title": "The $LANG Programming Language",
+      "score": 142,
+      "url": "https://news.ycombinator.com/item?id=46610557",
+      "time": 1768349839.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46610557"
+    },
+    {
+      "title": "Handling secrets (somewhat) securely in shells",
+      "score": 30,
+      "url": "https://linus.schreibt.jetzt/posts/shell-secrets.html",
+      "time": 1767971865.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46554774"
+    },
+    {
+      "title": "Show HN: The Tsonic Programming Language",
+      "score": 12,
+      "url": "https://tsonic.org",
+      "time": 1768325182.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46604308"
+    },
+    {
+      "title": "Stop using natural language interfaces",
+      "score": 36,
+      "url": "https://tidepool.leaflet.pub/3mcbegnuf2k2i",
+      "time": 1768357748.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46611550"
+    },
+    {
       "title": "The Emacs Widget Library: A Critique and Case Study",
-      "score": 21,
+      "score": 39,
       "url": "https://www.d12frosted.io/posts/2025-11-26-emacs-widget-library",
       "time": 1768199846.0,
       "comments_url": "https://news.ycombinator.com/item?id=46584864"
     },
     {
-      "title": "Are two heads better than one?",
-      "score": 133,
-      "url": "https://eieio.games/blog/two-heads-arent-better-than-one/",
-      "time": 1768321379.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46603111"
-    },
-    {
-      "title": "No management needed: anti-patterns in early-stage engineering teams",
-      "score": 109,
-      "url": "https://www.ablg.io/blog/no-management-needed",
-      "time": 1768330470.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46605854"
-    },
-    {
-      "title": "Show HN: Cachekit – High performance caching policies library in Rust",
-      "score": 6,
-      "url": "https://github.com/OxidizeLabs/cachekit",
-      "time": 1768357732.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46611548"
+      "title": "The truth behind the 2026 J.P. Morgan Healthcare Conference",
+      "score": 161,
+      "url": "https://www.owlposting.com/p/the-truth-behind-the-2026-jp-morgan",
+      "time": 1768328520.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46605332"
     },
     {
       "title": "Sei (YC W22) Is Hiring a DevOps Engineer (India/In-Office/Chennai/Gurgaon)",
@@ -93,53 +121,25 @@
       "comments_url": "https://news.ycombinator.com/item?id=46610967"
     },
     {
+      "title": "Are two heads better than one?",
+      "score": 145,
+      "url": "https://eieio.games/blog/two-heads-arent-better-than-one/",
+      "time": 1768321379.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46603111"
+    },
+    {
+      "title": "No management needed: anti-patterns in early-stage engineering teams",
+      "score": 138,
+      "url": "https://www.ablg.io/blog/no-management-needed",
+      "time": 1768330470.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46605854"
+    },
+    {
       "title": "The Tulip Creative Computer",
-      "score": 195,
+      "score": 206,
       "url": "https://github.com/shorepine/tulipcc",
       "time": 1768324242.0,
       "comments_url": "https://news.ycombinator.com/item?id=46603995"
-    },
-    {
-      "title": "AI generated music barred from Bandcamp",
-      "score": 639,
-      "url": "https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/",
-      "time": 1768329110.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46605490"
-    },
-    {
-      "title": "Exa-d: How to store the web in S3",
-      "score": 8,
-      "url": "https://exa.ai/blog/exa-d",
-      "time": 1768353239.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46611063"
-    },
-    {
-      "title": "Why we built our own background agent",
-      "score": 61,
-      "url": "https://builders.ramp.com/post/why-we-built-our-background-agent",
-      "time": 1768232196.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46589842"
-    },
-    {
-      "title": "When hardware goes end-of-life, companies need to open-source the software",
-      "score": 213,
-      "url": "https://www.marcia.no/words/eol",
-      "time": 1768344591.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46609492"
-    },
-    {
-      "title": "We can't have nice things because of AI scrapers",
-      "score": 314,
-      "url": "https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/",
-      "time": 1768341452.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46608840"
-    },
-    {
-      "title": "How to make a damn website (2024)",
-      "score": 156,
-      "url": "https://lmnt.me/blog/how-to-make-a-damn-website.html",
-      "time": 1768325026.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46604250"
     }
   ]
 }
