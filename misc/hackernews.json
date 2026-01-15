@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-01-14T16:13:32.382382-05:00",
+  "last_updated": "2026-01-14T20:01:21.268906-05:00",
   "stories": [
     {
       "title": "Claude Cowork Exfiltrates Files",
-      "score": 80,
+      "score": 390,
       "url": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
       "time": 1768421545.0,
       "comments_url": "https://news.ycombinator.com/item?id=46622328"
     },
     {
+      "title": "Anthropic Explicitly Blocking OpenCode",
+      "score": 58,
+      "url": "https://gist.github.com/R44VC0RP/bd391f6a23185c0fed6c6b5fb2bac50e",
+      "time": 1768435464.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46625918"
+    },
+    {
+      "title": "Scaling long-running autonomous coding",
+      "score": 89,
+      "url": "https://cursor.com/blog/scaling-agents",
+      "time": 1768429084.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46624541"
+    },
+    {
+      "title": "The State of OpenSSL for pyca/cryptography",
+      "score": 59,
+      "url": "https://cryptography.io/en/latest/statements/state-of-openssl/",
+      "time": 1768428250.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46624352"
+    },
+    {
+      "title": "Furiosa: 3.5x efficiency over H100s",
+      "score": 4,
+      "url": "https://furiosa.ai/blog/introducing-rngd-server-efficient-ai-inference-at-data-center-scale",
+      "time": 1768438401.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46626410"
+    },
+    {
       "title": "Ask HN: Share your personal website",
-      "score": 203,
+      "score": 381,
       "url": "https://news.ycombinator.com/item?id=46618714",
       "time": 1768410462.0,
       "comments_url": "https://news.ycombinator.com/item?id=46618714"
     },
     {
-      "title": "Why some clothes shrink in the wash and how to unshrink them",
-      "score": 340,
-      "url": "https://www.swinburne.edu.au/news/2025/08/why-some-clothes-shrink-in-the-wash-and-how-to-unshrink-them/",
-      "time": 1768100316.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46572307"
-    },
-    {
-      "title": "So, you've hit an age gate. what now?",
-      "score": 232,
-      "url": "https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now",
-      "time": 1768411642.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46619030"
-    },
-    {
-      "title": "The string theory hype machine will never die",
-      "score": 31,
-      "url": "https://www.math.columbia.edu/~woit/wordpress/?p=15407",
-      "time": 1768419108.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46621518"
-    },
-    {
-      "title": "Ask HN: How do you safely give LLMs SSH/DB access?",
-      "score": 15,
-      "url": "https://news.ycombinator.com/item?id=46620990",
-      "time": 1768417583.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46620990"
-    },
-    {
-      "title": "Verizon outages reported across U.S.",
-      "score": 162,
-      "url": "https://www.firstcoastnews.com/article/news/nation-world/verizon-outage-reported/507-ef3cb3d0-f595-432f-9f84-d1690a5085a7",
-      "time": 1768417096.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46620835"
-    },
-    {
-      "title": "Ski map artist James Niehues, the 'Monet of the mountains' (2021)",
-      "score": 53,
-      "url": "https://adventure.com/ski-map-artist-james-niehues/",
-      "time": 1768085905.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46570811"
-    },
-    {
-      "title": "Show HN: Harmony – AI notetaker for Discord",
-      "score": 12,
-      "url": "https://harmonynotetaker.ai/",
-      "time": 1768420956.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46622139"
-    },
-    {
       "title": "Show HN: WebTiles – create a tiny 250x250 website with neighbors around you",
-      "score": 10,
+      "score": 103,
       "url": "https://webtiles.kicya.net/",
       "time": 1768005130.0,
       "comments_url": "https://news.ycombinator.com/item?id=46561341"
     },
     {
-      "title": "Show HN: HyTags – HTML as a Programming Language",
-      "score": 50,
-      "url": "https://hytags.org",
-      "time": 1768301822.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46599403"
+      "title": "Sun Position Calculator",
+      "score": 53,
+      "url": "https://drajmarsh.bitbucket.io/earthsun.html",
+      "time": 1768426011.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46623761"
+    },
+    {
+      "title": "Generate QR Codes with Pure SQL in PostgreSQL",
+      "score": 33,
+      "url": "https://tanelpoder.com/posts/generate-qr-code-with-pure-sql-in-postgres/",
+      "time": 1768061982.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46566974"
+    },
+    {
+      "title": "Why some clothes shrink in the wash and how to unshrink them",
+      "score": 425,
+      "url": "https://www.swinburne.edu.au/news/2025/08/why-some-clothes-shrink-in-the-wash-and-how-to-unshrink-them/",
+      "time": 1768100316.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46572307"
+    },
+    {
+      "title": "ChromaDB Explorer",
+      "score": 20,
+      "url": "https://www.chroma-explorer.com/",
+      "time": 1768429816.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46624731"
+    },
+    {
+      "title": "SparkFun Officially Dropping AdaFruit due to CoC Violation",
+      "score": 375,
+      "url": "https://www.sparkfun.com/official-response",
+      "time": 1768401297.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46616488"
     },
     {
       "title": "Roam 50GB is now Roam 100GB",
-      "score": 200,
+      "score": 241,
       "url": "https://starlink.com/support/article/58c9c8b7-474e-246f-7e3c-06db3221d34d",
       "time": 1768406591.0,
       "comments_url": "https://news.ycombinator.com/item?id=46617668"
     },
     {
-      "title": "Show HN: A fast CLI and MCP server for managing Lambda cloud GPU instances",
-      "score": 9,
-      "url": "https://github.com/Strand-AI/lambda-cli",
-      "time": 1768419921.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46621786"
+      "title": "Find a pub that needs you",
+      "score": 205,
+      "url": "https://www.ismypubfucked.com/",
+      "time": 1768405462.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46617360"
     },
     {
-      "title": "Wind power slashed 4.6B euros off electricity bills in Spain last year",
-      "score": 76,
-      "url": "https://www.surinenglish.com/spain/wind-power-slashes-billion-euros-off-electricity-bills-20251217082020-nt.html",
-      "time": 1768421896.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46622463"
+      "title": "Native ZFS VDEV for Object Storage (OpenZFS Summit)",
+      "score": 82,
+      "url": "https://www.zettalane.com/blog/openzfs-summit-2025-mayanas-objbacker.html",
+      "time": 1768416577.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46620673"
     },
     {
-      "title": "Show HN: A 10KiB kernel for cloud apps",
-      "score": 53,
-      "url": "https://github.com/ReturnInfinity/BareMetal-Cloud",
-      "time": 1768406693.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46617705"
-    },
-    {
-      "title": "GitHub should charge everyone $1 more per month to fund open source",
-      "score": 140,
-      "url": "https://blog.greg.technology/2025/11/27/github-should-charge-1-dollar-more-per-month.html",
-      "time": 1768407907.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46618027"
-    },
-    {
-      "title": "Edge of Emulation: Game Boy Sewing Machines (2020)",
-      "score": 92,
-      "url": "https://shonumi.github.io/articles/art22.html",
-      "time": 1768401350.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46616496"
-    },
-    {
-      "title": "I’m leaving Redis for SolidQueue",
-      "score": 279,
-      "url": "https://www.simplethread.com/redis-solidqueue/",
-      "time": 1768382758.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46614037"
+      "title": "I hate GitHub Actions with passion",
+      "score": 406,
+      "url": "https://xlii.space/eng/i-hate-github-actions-with-passion/",
+      "time": 1768387993.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46614558"
     },
     {
       "title": "Show HN: Webctl – Browser automation for agents based on CLI instead of MCP",
-      "score": 17,
+      "score": 57,
       "url": "https://github.com/cosinusalpha/webctl",
       "time": 1768401280.0,
       "comments_url": "https://news.ycombinator.com/item?id=46616481"
     },
     {
-      "title": "Government drops plans for mandatory digital ID to work in UK",
-      "score": 144,
-      "url": "https://www.bbc.com/news/articles/c3385zrrx73o",
-      "time": 1768404599.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46617149"
+      "title": "Rubik's Cube in Prolog – Order",
+      "score": 13,
+      "url": "https://medium.com/@kenichisasagawa/i-am-preparing-material-for-a-prolog-book-af7580acfee7",
+      "time": 1768044776.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46564818"
+    },
+    {
+      "title": "Ford F-150 Lightning outsold the Cybertruck and was then canceled for poor sales",
+      "score": 418,
+      "url": "https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/",
+      "time": 1768411209.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46618901"
+    },
+    {
+      "title": "The hunt for a stolen Jackson Pollock",
+      "score": 14,
+      "url": "https://www.washingtonpost.com/entertainment/art/interactive/2026/jackson-pollock-theft-isaacs-family/",
+      "time": 1768378879.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46613624"
     }
   ]
 }
