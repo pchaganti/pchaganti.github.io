@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-01-16T07:26:35.195184-05:00",
+  "last_updated": "2026-01-16T10:15:29.363675-05:00",
   "stories": [
     {
+      "title": "Astro Joining Cloudflare",
+      "score": 100,
+      "url": "https://astro.build/blog/joining-cloudflare/",
+      "time": 1768573554.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46646645"
+    },
+    {
+      "title": "Just the Browser",
+      "score": 237,
+      "url": "https://justthebrowser.com/",
+      "time": 1768565032.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46645615"
+    },
+    {
+      "title": "Michelangelo's First Painting, Created When He Was Only 12 or 13 Years Old",
+      "score": 49,
+      "url": "https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html",
+      "time": 1768571065.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46646263"
+    },
+    {
+      "title": "Dev-Owned Testing: Why It Fails in Practice and Succeeds in Theory",
+      "score": 16,
+      "url": "https://dl.acm.org/doi/10.1145/3780063.3780066",
+      "time": 1768570771.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46646226"
+    },
+    {
+      "title": "Lock-Picking Robot",
+      "score": 25,
+      "url": "https://github.com/etinaude/Lock-Picking-Robot",
+      "time": 1768225362.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46588379"
+    },
+    {
+      "title": "Show HN: The Analog I – Inducing Recursive Self-Modeling in LLMs [pdf]",
+      "score": 18,
+      "url": "https://github.com/philMarcus/Birth-of-a-Mind",
+      "time": 1768570819.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46646228"
+    },
+    {
       "title": "OpenBSD-current now runs as guest under Apple Hypervisor",
-      "score": 292,
+      "score": 328,
       "url": "https://www.undeadly.org/cgi?action=article;sid=20260115203619",
       "time": 1768533036.0,
       "comments_url": "https://news.ycombinator.com/item?id=46642560"
     },
     {
       "title": "List of individual trees",
-      "score": 163,
+      "score": 236,
       "url": "https://en.wikipedia.org/wiki/List_of_individual_trees",
       "time": 1768521901.0,
       "comments_url": "https://news.ycombinator.com/item?id=46641284"
     },
     {
-      "title": "The spectrum of isolation: From bare metal to WebAssembly",
-      "score": 33,
-      "url": "https://buildsoftwaresystems.com/post/guide-to-execution-environments/",
-      "time": 1768555623.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46644661"
+      "title": "psc: The ps utility, with an eBPF twist and container context",
+      "score": 15,
+      "url": "https://github.com/loresuso/psc",
+      "time": 1768569620.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46646091"
     },
     {
-      "title": "Cue Does It All, but Can It Literate?",
-      "score": 24,
-      "url": "https://xlii.space/cue/cue-does-it-all-but-can-it-literate/",
-      "time": 1768226394.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46588607"
+      "title": "Show HN: I built a text-based business simulator to replace video courses",
+      "score": 54,
+      "url": "https://www.core-mba.pro/",
+      "time": 1768527715.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46641992"
     },
     {
-      "title": "Apple is fighting for TSMC capacity as Nvidia takes center stage",
-      "score": 701,
-      "url": "https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc",
-      "time": 1768489362.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46633488"
+      "title": "America could have $4 lunch bowls like Japan–but our zoning laws [prevent that]",
+      "score": 18,
+      "url": "https://abio.substack.com/p/america-could-have-4-lunch-bowls",
+      "time": 1768575407.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46646970"
     },
     {
       "title": "Interactive eBPF",
-      "score": 48,
+      "score": 106,
       "url": "https://ebpf.party/",
       "time": 1768550462.0,
       "comments_url": "https://news.ycombinator.com/item?id=46644181"
     },
     {
+      "title": "Training my smartwatch to track intelligence",
+      "score": 49,
+      "url": "https://dmvaldman.github.io/rooklift/",
+      "time": 1768429176.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46624563"
+    },
+    {
+      "title": "The spectrum of isolation: From bare metal to WebAssembly",
+      "score": 66,
+      "url": "https://buildsoftwaresystems.com/post/guide-to-execution-environments/",
+      "time": 1768555623.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46644661"
+    },
+    {
+      "title": "Apple is fighting for TSMC capacity as Nvidia takes center stage",
+      "score": 727,
+      "url": "https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc",
+      "time": 1768489362.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46633488"
+    },
+    {
       "title": "Pocket TTS: A high quality TTS that gives your CPU a voice",
-      "score": 473,
+      "score": 527,
       "url": "https://kyutai.org/blog/2026-01-13-pocket-tts",
       "time": 1768454048.0,
       "comments_url": "https://news.ycombinator.com/item?id=46628329"
     },
     {
       "title": "Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark",
-      "score": 393,
+      "score": 458,
       "url": "https://briarproject.org/manual/fa/",
       "time": 1768505882.0,
       "comments_url": "https://news.ycombinator.com/item?id=46638013"
     },
     {
-      "title": "pf: Make af-to less magical",
-      "score": 18,
-      "url": "https://undeadly.org/cgi?action=article;sid=20260116085115",
-      "time": 1768554405.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46644541"
-    },
-    {
       "title": "Inside The Internet Archive's Infrastructure",
-      "score": 363,
+      "score": 390,
       "url": "https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting",
       "time": 1768375612.0,
       "comments_url": "https://news.ycombinator.com/item?id=46613324"
     },
     {
-      "title": "On Being a Human Being in the Time of Collapse (2022) [pdf]",
-      "score": 106,
-      "url": "https://web.cs.ucdavis.edu/~rogaway/papers/crisis/crisis.pdf",
-      "time": 1768558792.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46644962"
-    },
-    {
-      "title": "Bringing the Predators to Life in MAME",
-      "score": 26,
-      "url": "https://lysiwyg.mataroa.blog/blog/bringing-the-predators-to-life-in-mame/",
-      "time": 1768369088.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46612727"
-    },
-    {
-      "title": "Linux boxes via SSH: suspended when disconected",
-      "score": 228,
-      "url": "https://shellbox.dev/",
-      "time": 1768508413.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46638629"
-    },
-    {
-      "title": "Ask HN: How can we solve the loneliness epidemic?",
-      "score": 616,
-      "url": "https://news.ycombinator.com/item?id=46635345",
-      "time": 1768495753.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46635345"
-    },
-    {
-      "title": "My Gripes with Prolog",
-      "score": 109,
-      "url": "https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/",
-      "time": 1768522288.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46641348"
-    },
-    {
-      "title": "Claude is good at assembling blocks, but still falls apart at creating them",
-      "score": 261,
-      "url": "https://www.approachwithalacrity.com/claude-ne/",
-      "time": 1768407971.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46618042"
-    },
-    {
-      "title": "Primecoin and Cunningham Prime Chains",
-      "score": 22,
-      "url": "https://www.johndcook.com/blog/2026/01/10/prime-chains/",
-      "time": 1768149032.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46577105"
-    },
-    {
       "title": "Show HN: pgwire-replication - pure rust client for Postgres CDC",
-      "score": 7,
+      "score": 21,
       "url": "https://github.com/vnvo/pgwire-replication",
       "time": 1768127182.0,
       "comments_url": "https://news.ycombinator.com/item?id=46574277"
     },
     {
-      "title": "All 23-Bit Still Lifes Are Glider Constructible",
-      "score": 100,
-      "url": "https://mvr.github.io/posts/xs23.html",
-      "time": 1768521546.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46641239"
-    },
-    {
-      "title": "Data is the only moat",
-      "score": 162,
-      "url": "https://frontierai.substack.com/p/data-is-your-only-moat",
-      "time": 1768503272.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46637328"
+      "title": "pf: Make af-to less magical",
+      "score": 37,
+      "url": "https://undeadly.org/cgi?action=article;sid=20260116085115",
+      "time": 1768554405.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46644541"
     }
   ]
 }
