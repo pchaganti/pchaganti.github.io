@@ -1,61 +1,103 @@
 {
-  "last_updated": "2026-01-21T13:31:49.938060-05:00",
+  "last_updated": "2026-01-21T16:21:11.410240-05:00",
   "stories": [
     {
+      "title": "FreeBSD",
+      "score": 44,
+      "url": "https://docs.freebsd.org/en/books/handbook/",
+      "time": 1769028545.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46711346"
+    },
+    {
       "title": "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
-      "score": 276,
+      "score": 391,
       "url": "https://github.com/ChartGPU/ChartGPU",
       "time": 1769007296.0,
       "comments_url": "https://news.ycombinator.com/item?id=46706528"
     },
     {
-      "title": "illumos",
-      "score": 44,
-      "url": "https://illumos.org/",
-      "time": 1769017182.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46708807"
+      "title": "TeraWave Satellite Communications Network",
+      "score": 77,
+      "url": "https://www.blueorigin.com/terawave",
+      "time": 1769020318.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46709548"
     },
     {
-      "title": "SmartOS",
-      "score": 106,
-      "url": "https://docs.smartos.org/",
-      "time": 1769008998.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46706947"
-    },
-    {
-      "title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
-      "score": 55,
-      "url": "https://blog.kagi.com/waiting-dawn-search",
-      "time": 1769016483.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46708678"
-    },
-    {
-      "title": "PicoPCMCIA – a PCMCIA development board for retro-computing enthusiasts",
-      "score": 50,
-      "url": "https://www.yyzkevin.com/picopcmcia/",
-      "time": 1769013837.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46708096"
+      "title": "Linux from Scratch",
+      "score": 254,
+      "url": "https://www.linuxfromscratch.org/lfs/view/stable/",
+      "time": 1769021080.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46709727"
     },
     {
       "title": "Skip Is Now Free and Open Source",
-      "score": 88,
+      "score": 177,
       "url": "https://skip.dev/blog/skip-is-free/",
       "time": 1769008853.0,
       "comments_url": "https://news.ycombinator.com/item?id=46706906"
     },
     {
-      "title": "Swedish Alecta has sold off an estimated $8B of US Treasury Bonds",
-      "score": 100,
-      "url": "https://www.di.se/nyheter/di-avslojar-alecta-har-dumpat-amerikanska-statspapper/",
-      "time": 1769001186.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46705256"
+      "title": "The WebRacket language is a subset of Racket that compiles to WebAssembly",
+      "score": 42,
+      "url": "https://github.com/soegaard/webracket",
+      "time": 1768685038.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46662247"
+    },
+    {
+      "title": "PicoPCMCIA – a PCMCIA development board for retro-computing enthusiasts",
+      "score": 94,
+      "url": "https://www.yyzkevin.com/picopcmcia/",
+      "time": 1769013837.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46708096"
+    },
+    {
+      "title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
+      "score": 148,
+      "url": "https://blog.kagi.com/waiting-dawn-search",
+      "time": 1769016483.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46708678"
+    },
+    {
+      "title": "Letting Claude Play Text Adventures",
+      "score": 20,
+      "url": "https://borretti.me/article/letting-claude-play-text-adventures",
+      "time": 1768597345.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46652173"
+    },
+    {
+      "title": "Slouching Towards Bethlehem – Joan Didion (1967)",
+      "score": 33,
+      "url": "https://www.saturdayeveningpost.com/2017/06/didion/",
+      "time": 1769016969.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46708766"
+    },
+    {
+      "title": "Stanford scientists found a way to regrow cartilage and stop arthritis",
+      "score": 181,
+      "url": "https://www.sciencedaily.com/releases/2026/01/260120000333.htm",
+      "time": 1769018736.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46709179"
+    },
+    {
+      "title": "Tell HN: Bending Spoons laid off almost everybody at Vimeo yesterday",
+      "score": 280,
+      "url": "https://news.ycombinator.com/item?id=46707699",
+      "time": 1769012079.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46707699"
     },
     {
       "title": "Claude's New Constitution",
-      "score": 40,
+      "score": 157,
       "url": "https://www.anthropic.com/news/claude-new-constitution",
       "time": 1769011489.0,
       "comments_url": "https://news.ycombinator.com/item?id=46707572"
+    },
+    {
+      "title": "JPEG XL Test Page",
+      "score": 131,
+      "url": "https://tildeweb.nl/~michiel/jxl/",
+      "time": 1769013506.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46708032"
     },
     {
       "title": "Autonomous (YC F25) is hiring – AI-native financial advisor at 0% advisory fees",
@@ -65,81 +107,39 @@
       "comments_url": "https://news.ycombinator.com/item?id=46708315"
     },
     {
-      "title": "JPEG XL Demo Page",
-      "score": 73,
-      "url": "https://tildeweb.nl/~michiel/jxl/",
-      "time": 1769013506.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46708032"
-    },
-    {
-      "title": "GenAI, the Snake Eating Its Own Tail",
-      "score": 4,
-      "url": "https://www.ybrikman.com/blog/2026/01/21/gen-ai-snake-eating-its-own-tail/",
-      "time": 1769019274.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46709320"
-    },
-    {
-      "title": "Nested Code Fences in Markdown",
-      "score": 133,
-      "url": "https://susam.net/nested-code-fences.html",
-      "time": 1769000915.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46705201"
-    },
-    {
       "title": "Can you slim macOS down?",
-      "score": 66,
+      "score": 119,
       "url": "https://eclecticlight.co/2026/01/21/can-you-slim-macos-down/",
       "time": 1768981686.0,
       "comments_url": "https://news.ycombinator.com/item?id=46702411"
     },
     {
-      "title": "Stanford scientists found a way to regrow cartilage and stop arthritis",
-      "score": 18,
-      "url": "https://www.sciencedaily.com/releases/2026/01/260120000333.htm",
-      "time": 1769018736.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46709179"
-    },
-    {
-      "title": "Beowulf's opening \"What\" is no interjection",
-      "score": 16,
-      "url": "https://www.poetryfoundation.org/poetry-news/69208/new-research-opening-line-of-beowulf-is-not-what-weve-eternally-thunk",
-      "time": 1768803593.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46675583"
-    },
-    {
-      "title": "EU–INC – A new pan-European legal entity",
-      "score": 597,
-      "url": "https://www.eu-inc.org/",
-      "time": 1768992560.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46703763"
-    },
-    {
-      "title": "Anthropic's original take home assignment open sourced",
-      "score": 568,
-      "url": "https://github.com/anthropics/original_performance_takehome",
-      "time": 1768964072.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46700594"
-    },
-    {
       "title": "Show HN: Company hiring trends and insights from job postings",
-      "score": 3,
+      "score": 22,
       "url": "https://jobswithgpt.com/company-profiles/",
       "time": 1769017937.0,
       "comments_url": "https://news.ycombinator.com/item?id=46708990"
     },
     {
-      "title": "RTS for Agents",
-      "score": 76,
-      "url": "https://www.getagentcraft.com/",
-      "time": 1768587615.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46649853"
+      "title": "Show HN: Rails UI",
+      "score": 62,
+      "url": "https://railsui.com/",
+      "time": 1769020279.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46709543"
     },
     {
-      "title": "Show HN: yolo-cage – AI coding agents that can't exfiltrate secrets",
-      "score": 28,
-      "url": "https://github.com/borenstein/yolo-cage",
-      "time": 1769008409.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46706796"
+      "title": "SmartOS",
+      "score": 150,
+      "url": "https://docs.smartos.org/",
+      "time": 1769008998.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46706947"
+    },
+    {
+      "title": "Nested Code Fences in Markdown",
+      "score": 162,
+      "url": "https://susam.net/nested-code-fences.html",
+      "time": 1769000915.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46705201"
     }
   ]
 }
