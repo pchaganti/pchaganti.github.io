@@ -1,89 +1,131 @@
 {
-  "last_updated": "2026-01-21T20:04:57.353165-05:00",
+  "last_updated": "2026-01-21T23:04:47.706026-05:00",
   "stories": [
     {
-      "title": "Take potentially dangerous PDFs, and convert them to safe PDFs",
-      "score": 56,
+      "title": "Internet voting is insecure and should not be used in public elections",
+      "score": 305,
+      "url": "https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/",
+      "time": 1769044273.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46713924"
+    },
+    {
+      "title": "Convert potentially dangerous PDFs to safe PDFs",
+      "score": 115,
       "url": "https://github.com/freedomofpress/dangerzone",
       "time": 1769036044.0,
       "comments_url": "https://news.ycombinator.com/item?id=46712815"
     },
     {
+      "title": "Binary fuse filters: Fast and smaller than xor filters (2022)",
+      "score": 59,
+      "url": "https://arxiv.org/abs/2201.01174",
+      "time": 1768658537.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46658128"
+    },
+    {
+      "title": "Threat actors expand abuse of Microsoft Visual Studio Code",
+      "score": 44,
+      "url": "https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/",
+      "time": 1769040720.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46713526"
+    },
+    {
       "title": "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
-      "score": 489,
+      "score": 528,
       "url": "https://github.com/ChartGPU/ChartGPU",
       "time": 1769007296.0,
       "comments_url": "https://news.ycombinator.com/item?id=46706528"
     },
     {
       "title": "Claude's new constitution",
-      "score": 285,
+      "score": 352,
       "url": "https://www.anthropic.com/news/claude-new-constitution",
       "time": 1769011489.0,
       "comments_url": "https://news.ycombinator.com/item?id=46707572"
     },
     {
-      "title": "Show HN: RatatuiRuby wraps Rust Ratatui as a RubyGem – TUIs with the joy of Ruby",
-      "score": 54,
-      "url": "https://www.ratatui-ruby.dev/",
-      "time": 1768658580.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46658133"
+      "title": "Show HN: TerabyteDeals – Compare storage prices by $/TB",
+      "score": 93,
+      "url": "https://terabytedeals.com",
+      "time": 1769030039.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46711649"
     },
     {
-      "title": "Golfing APL/K in 90 Lines of Python",
-      "score": 47,
-      "url": "https://aljamal.substack.com/p/golfing-aplk-in-90-lines-of-python",
-      "time": 1768592040.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46651027"
+      "title": "Mote: An Interactive Ecosystem Simulation [video]",
+      "score": 9,
+      "url": "https://www.youtube.com/watch?v=Hju0H3NHxVI",
+      "time": 1769034618.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46712547"
     },
     {
       "title": "Skip is now free and open source",
-      "score": 267,
+      "score": 316,
       "url": "https://skip.dev/blog/skip-is-free/",
       "time": 1769008853.0,
       "comments_url": "https://news.ycombinator.com/item?id=46706906"
     },
     {
       "title": "Letting Claude play text adventures",
-      "score": 69,
+      "score": 87,
       "url": "https://borretti.me/article/letting-claude-play-text-adventures",
       "time": 1768597345.0,
       "comments_url": "https://news.ycombinator.com/item?id=46652173"
     },
     {
-      "title": "The WebRacket language is a subset of Racket that compiles to WebAssembly",
-      "score": 88,
-      "url": "https://github.com/soegaard/webracket",
-      "time": 1768685038.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46662247"
-    },
-    {
-      "title": "Challenges in join optimization",
-      "score": 40,
-      "url": "https://www.starrocks.io/blog/inside-starrocks-why-joins-are-faster-than-youd-expect",
-      "time": 1769015011.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46708351"
-    },
-    {
       "title": "Show HN: Rails UI",
-      "score": 101,
+      "score": 123,
       "url": "https://railsui.com/",
       "time": 1769020279.0,
       "comments_url": "https://news.ycombinator.com/item?id=46709543"
     },
     {
-      "title": "Mystery of the Head Activator",
-      "score": 16,
-      "url": "https://www.asimov.press/p/head-activator",
-      "time": 1768760314.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46670503"
+      "title": "Golfing APL/K in 90 Lines of Python",
+      "score": 59,
+      "url": "https://aljamal.substack.com/p/golfing-aplk-in-90-lines-of-python",
+      "time": 1768592040.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46651027"
     },
     {
-      "title": "Three types of LLM workloads and how to serve them",
-      "score": 34,
-      "url": "https://modal.com/llm-almanac/workloads",
-      "time": 1769012106.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46707708"
+      "title": "Show HN: RatatuiRuby wraps Rust Ratatui as a RubyGem – TUIs with the joy of Ruby",
+      "score": 89,
+      "url": "https://www.ratatui-ruby.dev/",
+      "time": 1768658580.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46658133"
+    },
+    {
+      "title": "TrustTunnel: AdGuard VPN protocol goes open-source",
+      "score": 82,
+      "url": "https://adguard-vpn.com/en/blog/adguard-vpn-protocol-goes-open-source-meet-trusttunnel.html",
+      "time": 1769016086.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46708601"
+    },
+    {
+      "title": "Tell HN: 2 years building a kids audio app as a solo dev – lessons learned",
+      "score": 60,
+      "url": "https://news.ycombinator.com/item?id=46705676",
+      "time": 1769003347.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46705676"
+    },
+    {
+      "title": "The WebRacket language is a subset of Racket that compiles to WebAssembly",
+      "score": 110,
+      "url": "https://github.com/soegaard/webracket",
+      "time": 1768685038.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46662247"
+    },
+    {
+      "title": "Beowulf's opening \"What\" is no interjection (2013)",
+      "score": 55,
+      "url": "https://www.poetryfoundation.org/poetry-news/69208/new-research-opening-line-of-beowulf-is-not-what-weve-eternally-thunk",
+      "time": 1768803593.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46675583"
+    },
+    {
+      "title": "Show HN: Open-source certificate from GitHub activity",
+      "score": 12,
+      "url": "https://certificate.brendonmatos.com",
+      "time": 1768751525.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46668780"
     },
     {
       "title": "Jerry (YC S17) Is Hiring",
@@ -93,50 +135,8 @@
       "comments_url": "https://news.ycombinator.com/item?id=46711792"
     },
     {
-      "title": "TrustTunnel: AdGuard VPN protocol goes open-source",
-      "score": 57,
-      "url": "https://adguard-vpn.com/en/blog/adguard-vpn-protocol-goes-open-source-meet-trusttunnel.html",
-      "time": 1769016086.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46708601"
-    },
-    {
-      "title": "An explanation of cheating in Doom2 Deathmatch (1999)",
-      "score": 20,
-      "url": "https://www.doom2.net/doom2/cheating.html",
-      "time": 1768645745.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46656909"
-    },
-    {
-      "title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
-      "score": 216,
-      "url": "https://blog.kagi.com/waiting-dawn-search",
-      "time": 1769016483.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46708678"
-    },
-    {
-      "title": "Setting Up a Cluster of Tiny PCs for Parallel Computing",
-      "score": 26,
-      "url": "https://www.kenkoonwong.com/blog/parallel-computing/",
-      "time": 1769022517.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46710042"
-    },
-    {
-      "title": "Stevey's Birthday Blog",
-      "score": 23,
-      "url": "https://steve-yegge.medium.com/steveys-birthday-blog-34f437139cb5",
-      "time": 1768885579.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46688101"
-    },
-    {
-      "title": "Tell HN: 2 years building a kids audio app as a solo dev – lessons learned",
-      "score": 37,
-      "url": "https://news.ycombinator.com/item?id=46705676",
-      "time": 1769003347.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46705676"
-    },
-    {
       "title": "SIMD programming in pure Rust",
-      "score": 49,
+      "score": 67,
       "url": "https://kerkour.com/introduction-rust-simd",
       "time": 1768815542.0,
       "comments_url": "https://news.ycombinator.com/item?id=46676861"
