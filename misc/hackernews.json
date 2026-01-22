@@ -1,47 +1,82 @@
 {
-  "last_updated": "2026-01-22T07:29:31.989184-05:00",
+  "last_updated": "2026-01-22T10:21:19.819896-05:00",
   "stories": [
     {
+      "title": "Design Thinking Books You Must Read",
+      "score": 137,
+      "url": "https://www.designorate.com/design-thinking-books/",
+      "time": 1769082670.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46718061"
+    },
+    {
+      "title": "Douglas Adams on the English–American cultural divide over \"heroes\"",
+      "score": 159,
+      "url": "https://shreevatsa.net/post/douglas-adams-cultural-divide/",
+      "time": 1769089848.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46719222"
+    },
+    {
+      "title": "Tree-sitter vs. Language Servers",
+      "score": 6,
+      "url": "https://lambdaland.org/posts/2026-01-21_tree-sitter_vs_lsp/",
+      "time": 1769093278.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46719899"
+    },
+    {
       "title": "We will ban you and ridicule you in public if you waste our time on crap reports",
-      "score": 260,
+      "score": 586,
       "url": "https://curl.se/.well-known/security.txt",
       "time": 1769078907.0,
       "comments_url": "https://news.ycombinator.com/item?id=46717556"
     },
     {
       "title": "Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete",
-      "score": 358,
+      "score": 434,
       "url": "https://huggingface.co/sweepai/sweep-next-edit-1.5B",
       "time": 1769037760.0,
       "comments_url": "https://news.ycombinator.com/item?id=46713106"
     },
     {
-      "title": "In Praise of APL (1977)",
-      "score": 40,
-      "url": "https://www.jsoftware.com/papers/perlis77.htm",
-      "time": 1769071496.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46716696"
+      "title": "ISO PDF spec is getting Brotli – ~20 % smaller documents with no quality loss",
+      "score": 51,
+      "url": "https://pdfa.org/want-to-make-your-pdfs-20-smaller-for-free/",
+      "time": 1769078483.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46717507"
     },
     {
       "title": "Doctors in Brazil using tilapia fish skin to treat burn victims",
-      "score": 134,
+      "score": 181,
       "url": "https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims",
       "time": 1769058946.0,
       "comments_url": "https://news.ycombinator.com/item?id=46715600"
     },
     {
-      "title": "Design Thinking Books You Must Read",
-      "score": 4,
-      "url": "https://www.designorate.com/design-thinking-books/",
-      "time": 1769082670.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46718061"
+      "title": "In Praise of APL (1977)",
+      "score": 65,
+      "url": "https://www.jsoftware.com/papers/perlis77.htm",
+      "time": 1769071496.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46716696"
     },
     {
-      "title": "Threat actors expand abuse of Microsoft Visual Studio Code",
-      "score": 191,
-      "url": "https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/",
-      "time": 1769040720.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46713526"
+      "title": "30 Years of ReactOS",
+      "score": 87,
+      "url": "https://reactos.org/blogs/30yrs-of-ros/",
+      "time": 1769069037.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46716469"
+    },
+    {
+      "title": "Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant",
+      "score": 401,
+      "url": "https://www.media.mit.edu/publications/your-brain-on-chatgpt/",
+      "time": 1769035305.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46712678"
+    },
+    {
+      "title": "Palantir, Meta, OpenAI Execs Appointed Lieutenant Colonels in US Army",
+      "score": 54,
+      "url": "https://twitter.com/SecArmy/status/1933693585183965372",
+      "time": 1769092372.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46719704"
     },
     {
       "title": "Flowtel (YC W25) Is Hiring",
@@ -51,95 +86,60 @@
       "comments_url": "https://news.ycombinator.com/item?id=46718140"
     },
     {
-      "title": "Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant",
-      "score": 271,
-      "url": "https://www.media.mit.edu/publications/your-brain-on-chatgpt/",
-      "time": 1769035305.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46712678"
+      "title": "You can now download Windows 7 and Vista ISO images with all the updates",
+      "score": 35,
+      "url": "https://www.neowin.net/news/you-can-now-download-windows-7-and-vista-iso-images-with-every-possible-update-included/",
+      "time": 1769091252.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46719489"
     },
     {
-      "title": "Hands-On Introduction to Unikernels",
-      "score": 68,
-      "url": "https://labs.iximiuz.com/tutorials/unikernels-intro-93976514",
-      "time": 1768587370.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46649786"
+      "title": "Show HN: Interactive physics simulations I built while teaching my daughter",
+      "score": 8,
+      "url": "https://www.projectlumen.app/",
+      "time": 1768804617.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46675669"
     },
     {
-      "title": "Gathering Linux Syscall Numbers in a C Table",
-      "score": 55,
-      "url": "https://t-cadet.github.io/programming-wisdom/#2026-01-17-gathering-linux-syscall-numbers",
-      "time": 1768665462.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46659016"
-    },
-    {
-      "title": "Claude's new constitution",
-      "score": 474,
-      "url": "https://www.anthropic.com/news/claude-new-constitution",
-      "time": 1769011489.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46707572"
+      "title": "Threat actors expand abuse of Microsoft Visual Studio Code",
+      "score": 226,
+      "url": "https://www.jamf.com/blog/threat-actors-expand-abuse-of-visual-studio-code/",
+      "time": 1769040720.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46713526"
     },
     {
       "title": "eBay explicitly bans AI \"buy for me\" agents in user agreement update",
-      "score": 160,
+      "score": 218,
       "url": "https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/",
       "time": 1769029667.0,
       "comments_url": "https://news.ycombinator.com/item?id=46711574"
     },
     {
-      "title": "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
-      "score": 609,
-      "url": "https://github.com/ChartGPU/ChartGPU",
-      "time": 1769007296.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46706528"
+      "title": "Gathering Linux Syscall Numbers in a C Table",
+      "score": 74,
+      "url": "https://t-cadet.github.io/programming-wisdom/#2026-01-17-gathering-linux-syscall-numbers",
+      "time": 1768665462.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46659016"
+    },
+    {
+      "title": "Qwen3-TTS Family Is Now Open Sourced: Voice Design, Clone, and Generation",
+      "score": 5,
+      "url": "https://qwen.ai/blog?id=qwen3tts-0115",
+      "time": 1769089885.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46719229"
+    },
+    {
+      "title": "Hands-On Introduction to Unikernels",
+      "score": 85,
+      "url": "https://labs.iximiuz.com/tutorials/unikernels-intro-93976514",
+      "time": 1768587370.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46649786"
     },
     {
       "title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
-      "score": 343,
+      "score": 390,
       "url": "https://blog.kagi.com/waiting-dawn-search",
       "time": 1769016483.0,
       "comments_url": "https://news.ycombinator.com/item?id=46708678"
-    },
-    {
-      "title": "40M Americans Live Alone, 29% of households",
-      "score": 7,
-      "url": "https://www.apolloacademy.com/40-million-americans-live-alone/",
-      "time": 1769084326.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46718299"
-    },
-    {
-      "title": "Skip is now free and open source",
-      "score": 432,
-      "url": "https://skip.dev/blog/skip-is-free/",
-      "time": 1769008853.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46706906"
-    },
-    {
-      "title": "From stealth blackout to whitelisting: Inside the Iranian shutdown",
-      "score": 128,
-      "url": "https://www.kentik.com/blog/from-stealth-blackout-to-whitelisting-inside-the-iranian-shutdown/",
-      "time": 1769040036.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46713444"
-    },
-    {
-      "title": "Binary fuse filters: Fast and smaller than xor filters (2022)",
-      "score": 108,
-      "url": "https://arxiv.org/abs/2201.01174",
-      "time": 1768658537.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46658128"
-    },
-    {
-      "title": "Lix – universal version control system for binary files",
-      "score": 78,
-      "url": "https://lix.dev/blog/introducing-lix/",
-      "time": 1769039706.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46713387"
-    },
-    {
-      "title": "TrustTunnel: AdGuard VPN protocol goes open-source",
-      "score": 154,
-      "url": "https://adguard-vpn.com/en/blog/adguard-vpn-protocol-goes-open-source-meet-trusttunnel.html",
-      "time": 1769016086.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46708601"
     }
   ]
 }
