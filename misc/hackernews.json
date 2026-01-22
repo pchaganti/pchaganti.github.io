@@ -1,61 +1,96 @@
 {
-  "last_updated": "2026-01-22T13:19:44.495573-05:00",
+  "last_updated": "2026-01-22T16:14:50.916566-05:00",
   "stories": [
     {
       "title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
-      "score": 350,
+      "score": 544,
       "url": "https://gptzero.me/news/neurips/",
       "time": 1769095248.0,
       "comments_url": "https://news.ycombinator.com/item?id=46720395"
     },
     {
       "title": "Show HN: isometric.nyc – giant isometric pixel art map of NYC",
-      "score": 80,
+      "score": 345,
       "url": "https://cannoneyed.com/isometric-nyc/",
       "time": 1769100755.0,
       "comments_url": "https://news.ycombinator.com/item?id=46721802"
     },
     {
-      "title": "Qwen3-TTS Family Is Now Open Sourced: Voice Design, Clone, and Generation",
-      "score": 211,
+      "title": "Qwen3-TTS family is now open sourced: Voice design, clone, and generation",
+      "score": 336,
       "url": "https://qwen.ai/blog?id=qwen3tts-0115",
       "time": 1769089885.0,
       "comments_url": "https://news.ycombinator.com/item?id=46719229"
     },
     {
       "title": "It looks like the status/need-triage label was removed",
-      "score": 93,
+      "score": 232,
       "url": "https://github.com/google-gemini/gemini-cli/issues/16728",
       "time": 1769098220.0,
       "comments_url": "https://news.ycombinator.com/item?id=46721179"
     },
     {
+      "title": "Why does SSH send 100 packets per keystroke?",
+      "score": 131,
+      "url": "https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/",
+      "time": 1769110052.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46723990"
+    },
+    {
       "title": "CSS Optical Illusions",
-      "score": 16,
+      "score": 89,
       "url": "https://alvaromontoro.com/blog/68091/css-optical-illusions",
       "time": 1769103682.0,
       "comments_url": "https://news.ycombinator.com/item?id=46722570"
     },
     {
+      "title": "'Askers' vs. 'Guessers' (2010)",
+      "score": 22,
+      "url": "https://www.theatlantic.com/national/2010/05/askers-vs-guessers/340891/",
+      "time": 1769082001.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46717960"
+    },
+    {
+      "title": "Compiling Scheme to WebAssembly",
+      "score": 17,
+      "url": "https://eli.thegreenplace.net/2026/compiling-scheme-to-webassembly/",
+      "time": 1768692594.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46663200"
+    },
+    {
+      "title": "Recent discoveries on the acquisition of the highest levels of human performance",
+      "score": 48,
+      "url": "https://www.science.org/doi/abs/10.1126/science.adt7790",
+      "time": 1769104862.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46722853"
+    },
+    {
       "title": "Tree-sitter vs. Language Servers",
-      "score": 118,
+      "score": 174,
       "url": "https://lambdaland.org/posts/2026-01-21_tree-sitter_vs_lsp/",
       "time": 1769093278.0,
       "comments_url": "https://news.ycombinator.com/item?id=46719899"
     },
     {
-      "title": "In Europe, Wind and Solar Overtake Fossil Fuels",
-      "score": 310,
-      "url": "https://e360.yale.edu/digest/europe-wind-solar-fossil-fuels",
-      "time": 1769091255.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46719491"
+      "title": "Reverse engineering Lyft Bikes for fun (and profit?)",
+      "score": 22,
+      "url": "https://ilanbigio.com/blog/lyft-bikes.html",
+      "time": 1769100352.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46721703"
     },
     {
-      "title": "Design Thinking Books You Must Read",
-      "score": 205,
-      "url": "https://www.designorate.com/design-thinking-books/",
-      "time": 1769082670.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46718061"
+      "title": "'Active' sitting is better for brain health: review of studies",
+      "score": 22,
+      "url": "https://www.sciencealert.com/not-all-sitting-is-equal-one-type-was-just-linked-to-better-brain-health",
+      "time": 1769108636.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46723694"
+    },
+    {
+      "title": "I was banned from Claude for scaffolding a Claude.md file?",
+      "score": 200,
+      "url": "https://hugodaniel.com/posts/claude-code-banned-me/",
+      "time": 1769107107.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46723384"
     },
     {
       "title": "AnswerThis (YC F25) Is Hiring",
@@ -66,80 +101,45 @@
     },
     {
       "title": "Launch HN: Constellation Space (YC W26) – AI for satellite mission assurance",
-      "score": 9,
+      "score": 23,
       "url": "https://constellation-io.com/",
       "time": 1769101401.0,
       "comments_url": "https://news.ycombinator.com/item?id=46721933"
     },
     {
-      "title": "Macron says €300B in EU savings sent to the US every year will be invested in EU",
-      "score": 43,
-      "url": "https://old.reddit.com/r/europe/comments/1qjtvtl/macron_says_300_billion_in_european_savings_flown/",
-      "time": 1769103771.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46722594"
+      "title": "Design Thinking Books (2024)",
+      "score": 251,
+      "url": "https://www.designorate.com/design-thinking-books/",
+      "time": 1769082670.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46718061"
     },
     {
-      "title": "ISO PDF spec is getting Brotli – ~20 % smaller documents with no quality loss",
-      "score": 105,
-      "url": "https://pdfa.org/want-to-make-your-pdfs-20-smaller-for-free/",
-      "time": 1769078483.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46717507"
+      "title": "Keeping 20k GPUs healthy",
+      "score": 40,
+      "url": "https://modal.com/blog/gpu-health",
+      "time": 1768752971.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46669001"
     },
     {
-      "title": "30 Years of ReactOS",
-      "score": 175,
-      "url": "https://reactos.org/blogs/30yrs-of-ros/",
-      "time": 1769069037.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46716469"
+      "title": "Mote: An Interactive Ecosystem Simulation [video]",
+      "score": 41,
+      "url": "https://www.youtube.com/watch?v=Hju0H3NHxVI",
+      "time": 1769034618.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46712547"
     },
     {
-      "title": "Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete",
-      "score": 482,
-      "url": "https://huggingface.co/sweepai/sweep-next-edit-1.5B",
-      "time": 1769037760.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46713106"
+      "title": "Show HN: CLI for working with Apple Core ML models",
+      "score": 6,
+      "url": "https://github.com/schappim/coreml-cli",
+      "time": 1769112746.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46724565"
     },
     {
-      "title": "Joe Armstrong and Jeremy Ruston – Intertwingling the Tiddlywiki with Erlang [video]",
-      "score": 28,
-      "url": "https://www.youtube.com/watch?v=Uv1UfLPK7_Q",
-      "time": 1768855684.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46684299"
-    },
-    {
-      "title": "Doctors in Brazil using tilapia fish skin to treat burn victims",
-      "score": 236,
-      "url": "https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims",
-      "time": 1769058946.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46715600"
-    },
-    {
-      "title": "Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant",
-      "score": 507,
-      "url": "https://www.media.mit.edu/publications/your-brain-on-chatgpt/",
-      "time": 1769035305.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46712678"
-    },
-    {
-      "title": "TTY and Buffering",
-      "score": 11,
-      "url": "https://mattrighetti.com/2026/01/12/tty-and-buffering",
-      "time": 1768669303.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46659635"
-    },
-    {
-      "title": "Show HN: Interactive physics simulations I built while teaching my daughter",
-      "score": 49,
-      "url": "https://www.projectlumen.app/",
-      "time": 1768804617.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46675669"
-    },
-    {
-      "title": "Pragmatic Bitmap Filters in Microsoft SQL Server",
-      "score": 10,
-      "url": "https://www.vldb.org/cidrdb/2026/i-cant-believe-its-not-yannakakis-pragmatic-bitmap-filters-in-microsoft-sql-server.html",
-      "time": 1768667919.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46659396"
+      "title": "Your app subscription is now my weekend project",
+      "score": 71,
+      "url": "https://rselbach.com/your-sub-is-now-my-weekend-project",
+      "time": 1768774603.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46672713"
     }
   ]
 }
