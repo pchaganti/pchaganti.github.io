@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-01-23T01:21:53.382468-05:00",
+  "last_updated": "2026-01-23T07:28:48.865989-05:00",
   "stories": [
     {
+      "title": "Ghostty's AI Policy",
+      "score": 142,
+      "url": "https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md",
+      "time": 1769161826.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46730504"
+    },
+    {
       "title": "I built a light that reacts to radio waves [video]",
-      "score": 13,
+      "score": 224,
       "url": "https://www.youtube.com/watch?v=moBCOEiqiPs",
       "time": 1769146475.0,
       "comments_url": "https://news.ycombinator.com/item?id=46728808"
     },
     {
-      "title": "Capital One to acquire Brex for $5.15B",
-      "score": 266,
-      "url": "https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/",
-      "time": 1769116992.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46725288"
+      "title": "Replacing Protobuf with Rust to go 5 times faster",
+      "score": 50,
+      "url": "https://pgdog.dev/blog/replace-protobuf-with-rust",
+      "time": 1769159011.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46730214"
     },
     {
-      "title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
-      "score": 786,
-      "url": "https://gptzero.me/news/neurips/",
-      "time": 1769095248.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46720395"
+      "title": "AI Is a Horse (2024)",
+      "score": 68,
+      "url": "https://kconner.com/2024/08/02/ai-is-a-horse.html",
+      "time": 1768868454.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46686402"
     },
     {
-      "title": "Talking to LLMs has improved my thinking",
-      "score": 47,
-      "url": "https://philipotoole.com/why-talking-to-llms-has-improved-my-thinking/",
-      "time": 1769140326.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46728197"
+      "title": "Proton Spam and the AI Consent Problem",
+      "score": 237,
+      "url": "https://dbushell.com/2026/01/22/proton-spam/",
+      "time": 1769151689.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46729368"
     },
     {
       "title": "Show HN: isometric.nyc – giant isometric pixel art map of NYC",
-      "score": 799,
+      "score": 1000,
       "url": "https://cannoneyed.com/isometric-nyc/",
       "time": 1769100755.0,
       "comments_url": "https://news.ycombinator.com/item?id=46721802"
     },
     {
+      "title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
+      "score": 861,
+      "url": "https://gptzero.me/news/neurips/",
+      "time": 1769095248.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46720395"
+    },
+    {
+      "title": "The State of Modern AI Text to Speech Systems for Screen Reader Users",
+      "score": 14,
+      "url": "https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html",
+      "time": 1769160267.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46730346"
+    },
+    {
+      "title": "Capital One to acquire Brex for $5.15B",
+      "score": 312,
+      "url": "https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/",
+      "time": 1769116992.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46725288"
+    },
+    {
       "title": "Why does SSH send 100 packets per keystroke?",
-      "score": 389,
+      "score": 513,
       "url": "https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/",
       "time": 1769110052.0,
       "comments_url": "https://news.ycombinator.com/item?id=46723990"
     },
     {
       "title": "I was banned from Claude for scaffolding a Claude.md file?",
-      "score": 451,
+      "score": 574,
       "url": "https://hugodaniel.com/posts/claude-code-banned-me/",
       "time": 1769107107.0,
       "comments_url": "https://news.ycombinator.com/item?id=46723384"
     },
     {
       "title": "Qwen3-TTS family is now open sourced: Voice design, clone, and generation",
-      "score": 538,
+      "score": 631,
       "url": "https://qwen.ai/blog?id=qwen3tts-0115",
       "time": 1769089885.0,
       "comments_url": "https://news.ycombinator.com/item?id=46719229"
     },
     {
       "title": "TI-99/4A: Leaning More on the Firmware",
-      "score": 6,
+      "score": 45,
       "url": "https://bumbershootsoft.wordpress.com/2026/01/17/ti-99-4a-leaning-more-heavily-on-the-firmware/",
       "time": 1768778359.0,
       "comments_url": "https://news.ycombinator.com/item?id=46673216"
     },
     {
-      "title": "Turso is an in-process SQL database, compatible with SQLite",
-      "score": 87,
-      "url": "https://github.com/tursodatabase/turso",
-      "time": 1768820687.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46677583"
-    },
-    {
-      "title": "Bugs Apple Loves",
-      "score": 388,
-      "url": "https://www.bugsappleloves.com",
-      "time": 1769135052.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46727587"
-    },
-    {
-      "title": "Writing First, Tooling Second",
-      "score": 10,
-      "url": "https://susam.net/writing-first-tooling-second.html",
-      "time": 1768805518.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46675745"
-    },
-    {
       "title": "Douglas Adams on the English–American cultural divide over \"heroes\"",
-      "score": 394,
+      "score": 467,
       "url": "https://shreevatsa.net/post/douglas-adams-cultural-divide/",
       "time": 1769089848.0,
       "comments_url": "https://news.ycombinator.com/item?id=46719222"
     },
     {
-      "title": "Improving the usability of C libraries in Swift",
-      "score": 84,
-      "url": "https://www.swift.org/blog/improving-usability-of-c-libraries-in-swift/",
-      "time": 1769124884.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46726526"
-    },
-    {
-      "title": "Why medieval city-builder video games are historically inaccurate (2020)",
-      "score": 98,
-      "url": "https://www.leidenmedievalistsblog.nl/articles/why-medieval-city-builder-video-games-are-historically-inaccurate",
-      "time": 1769127778.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46726857"
-    },
-    {
-      "title": "Scaling PostgreSQL to power 800M ChatGPT users",
-      "score": 121,
-      "url": "https://openai.com/index/scaling-postgresql/",
-      "time": 1769117063.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46725300"
-    },
-    {
       "title": "Your app subscription is now my weekend project",
-      "score": 293,
+      "score": 397,
       "url": "https://rselbach.com/your-sub-is-now-my-weekend-project",
       "time": 1768774603.0,
       "comments_url": "https://news.ycombinator.com/item?id=46672713"
     },
     {
-      "title": "Captive Wi-Fi",
-      "score": 19,
-      "url": "https://en.wikipedia.org/wiki/Captive_portal",
-      "time": 1768753662.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46669120"
+      "title": "Our collective obsession with boredom: Interview with a boredom lab researcher",
+      "score": 10,
+      "url": "https://nautil.us/why-the-do-nothing-challenge-doesnt-do-much-for-you-1262005/",
+      "time": 1768854624.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46684097"
     },
     {
-      "title": "Launch HN: Constellation Space (YC W26) – AI for satellite mission assurance",
-      "score": 35,
-      "url": "https://news.ycombinator.com/item?id=46721933",
-      "time": 1769101401.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46721933"
+      "title": "Bugs Apple Loves",
+      "score": 712,
+      "url": "https://www.bugsappleloves.com",
+      "time": 1769135052.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46727587"
     },
     {
-      "title": "CSS Optical Illusions",
-      "score": 162,
-      "url": "https://alvaromontoro.com/blog/68091/css-optical-illusions",
-      "time": 1769103682.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46722570"
+      "title": "Scaling PostgreSQL to power 800M ChatGPT users",
+      "score": 211,
+      "url": "https://openai.com/index/scaling-postgresql/",
+      "time": 1769117063.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46725300"
+    },
+    {
+      "title": "Improving the usability of C libraries in Swift",
+      "score": 120,
+      "url": "https://www.swift.org/blog/improving-usability-of-c-libraries-in-swift/",
+      "time": 1769124884.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46726526"
+    },
+    {
+      "title": "Writing First, Tooling Second",
+      "score": 41,
+      "url": "https://susam.net/writing-first-tooling-second.html",
+      "time": 1768805518.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46675745"
     }
   ]
 }
