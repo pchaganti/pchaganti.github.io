@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-01-24T13:18:45.546808-05:00",
+  "last_updated": "2026-01-24T16:11:08.762889-05:00",
   "stories": [
     {
-      "title": "Doing gigabit Ethernet over my British phone wires",
-      "score": 318,
-      "url": "https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/",
-      "time": 1769249671.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46742362"
+      "title": "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
+      "score": 192,
+      "url": "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp",
+      "time": 1769281448.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46746476"
     },
     {
-      "title": "How I Became a Quant [pdf]",
-      "score": 42,
-      "url": "https://engineering.nyu.edu/sites/default/files/2021-10/How_I_Became_a_Quant%20%281%29.pdf",
-      "time": 1768796481.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46675030"
+      "title": "I added a Bluesky comment section to my blog",
+      "score": 34,
+      "url": "https://micahcantor.com/blog/bluesky-comment-section.html",
+      "time": 1769286820.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46747366"
+    },
+    {
+      "title": "Postmortem: Our first VLEO satellite mission (with imagery and flight data)",
+      "score": 34,
+      "url": "https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next",
+      "time": 1769285019.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46747119"
+    },
+    {
+      "title": "Bye Bye Gmail",
+      "score": 37,
+      "url": "https://m24tom.com/bye-bye-gmail/show",
+      "time": 1769283892.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46746946"
+    },
+    {
+      "title": "Raspberry Pi Drag Race: Pi 1 to Pi 5 – Performance Comparison",
+      "score": 73,
+      "url": "https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/",
+      "time": 1769277960.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46745922"
+    },
+    {
+      "title": "First Design Engineer Hire – Build Games at Gym Class (YC W22)",
+      "score": 1,
+      "url": "https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-design-engineer-senior-staff-principal",
+      "time": 1769288462.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46747625"
+    },
+    {
+      "title": "Why Does Destroying Resources via TF Suck?",
+      "score": 12,
+      "url": "https://newsletter.masterpoint.io/p/why-does-destroying-resources-via-tf-suck",
+      "time": 1769284411.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46747022"
+    },
+    {
+      "title": "Memory layout in Zig with formulas",
+      "score": 33,
+      "url": "https://raymondtana.github.io/math/programming/2026/01/23/zig-alignment-and-sizing.html",
+      "time": 1769270265.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46744647"
     },
     {
       "title": "Claude Code's new hidden feature: Swarms",
-      "score": 82,
+      "score": 186,
       "url": "https://twitter.com/NicerInPerson/status/2014989679796347375",
       "time": 1769265347.0,
       "comments_url": "https://news.ycombinator.com/item?id=46743908"
     },
     {
-      "title": "Tao Te Ching – Translated by Ursula K. Le Guin",
-      "score": 62,
-      "url": "https://github.com/nrrb/tao-te-ching/blob/master/Ursula%20K%20Le%20Guin.md",
-      "time": 1769274091.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46745233"
+      "title": "Doing gigabit Ethernet over my British phone wires",
+      "score": 367,
+      "url": "https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/",
+      "time": 1769249671.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46742362"
     },
     {
-      "title": "Maze Algorithms (2017)",
+      "title": "JSON-render: LLM-based JSON-to-UI tool",
+      "score": 19,
+      "url": "https://json-render.dev/",
+      "time": 1769281976.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46746570"
+    },
+    {
+      "title": "Shared Claude: A website controlled by the public",
+      "score": 17,
+      "url": "https://sharedclaude.com/",
+      "time": 1769242502.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46741923"
+    },
+    {
+      "title": "Microservices for the Benefits, Not the Hustle",
+      "score": 10,
+      "url": "https://wolfoliver.medium.com/the-purposes-of-microservices-4e5f373f4ea3",
+      "time": 1769000587.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46705134"
+    },
+    {
+      "title": "Small Kafka: Tansu and SQLite on a free t3.micro",
       "score": 27,
-      "url": "http://www.jamisbuck.org/mazes/",
-      "time": 1769198869.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46737202"
+      "url": "https://blog.tansu.io/articles/broker-aws-free-tier",
+      "time": 1768909111.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46690779"
     },
     {
-      "title": "December in Servo: multiple windows, proxy support, better caching, and more",
-      "score": 41,
-      "url": "https://servo.org/blog/2026/01/23/december-in-servo/",
-      "time": 1769274204.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46745259"
+      "title": "Agent orchestration for the timid",
+      "score": 21,
+      "url": "https://substack.com/inbox/post/185649875",
+      "time": 1769282753.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46746681"
     },
     {
-      "title": "Gmail Spam Detection Down",
-      "score": 32,
-      "url": "https://www.google.com/appsstatus/dashboard/incidents/NNnDkY9CJ36annsfytjQ?hl=en",
-      "time": 1769275980.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46745591"
-    },
-    {
-      "title": "I Like GitLab",
-      "score": 145,
-      "url": "https://www.whileforloop.com/en/blog/2026/01/21/i-like-gitlab/",
-      "time": 1769250746.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46742432"
-    },
-    {
-      "title": "Metriport (YC S22) is hiring a security eng to harden healthcare data infra",
-      "score": 1,
-      "url": "https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer",
-      "time": 1769274007.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46745224"
-    },
-    {
-      "title": "Are we all plagiarists now?",
-      "score": 65,
-      "url": "https://www.economist.com/culture/2026/01/22/are-we-all-plagiarists-now",
-      "time": 1769272454.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46744968"
-    },
-    {
-      "title": "MS confirms it will give the FBI your Windows PC data encryption key if asked",
-      "score": 231,
-      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare",
-      "time": 1769259322.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46743154"
-    },
-    {
-      "title": "Many Small Queries Are Efficient in SQLite",
-      "score": 114,
-      "url": "https://www.sqlite.org/np1queryprob.html",
-      "time": 1769253315.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46742635"
-    },
-    {
-      "title": "How I Estimate Work as a Staff Software Engineer",
-      "score": 241,
+      "title": "How I estimate work",
+      "score": 331,
       "url": "https://www.seangoedecke.com/how-i-estimate-work/",
       "time": 1769250152.0,
       "comments_url": "https://news.ycombinator.com/item?id=46742389"
     },
     {
-      "title": "Internet Archive's Storage",
-      "score": 246,
-      "url": "https://blog.dshr.org/2026/01/internet-archives-storage.html",
-      "time": 1768929409.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46694618"
+      "title": "Maze Algorithms (2017)",
+      "score": 68,
+      "url": "http://www.jamisbuck.org/mazes/",
+      "time": 1769198869.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46737202"
     },
     {
-      "title": "When employees feel slighted, they work less",
-      "score": 189,
-      "url": "https://penntoday.upenn.edu/news/penn-wharton-when-employees-feel-slighted-they-work-less",
-      "time": 1768912093.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46691108"
+      "title": "The Kept and the Killed (2022)",
+      "score": 12,
+      "url": "https://publicdomainreview.org/essay/the-kept-and-the-killed/",
+      "time": 1769269809.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46744569"
     },
     {
-      "title": "Unrolling the Codex agent loop",
-      "score": 414,
-      "url": "https://openai.com/index/unrolling-the-codex-agent-loop/",
-      "time": 1769200956.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46737630"
+      "title": "Understanding Rust Closures",
+      "score": 9,
+      "url": "https://antoine.vandecreme.net/blog/rust-closures/",
+      "time": 1769280133.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46746266"
     },
     {
-      "title": "JVIC: New web-based Commodore VIC 20 emulator",
-      "score": 26,
-      "url": "https://vic20.games/#/basic/24k",
-      "time": 1769255635.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46742828"
-    },
-    {
-      "title": "Proof of Corn",
-      "score": 447,
-      "url": "https://proofofcorn.com/",
-      "time": 1769190991.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46735511"
-    },
-    {
-      "title": "6 Years Building Video Players. 9B Requests. Starting Over",
-      "score": 22,
-      "url": "https://www.mux.com/blog/6-years-building-video-players-9-billion-requests-starting-over",
-      "time": 1768898084.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46689342"
-    },
-    {
-      "title": "C++26 Reflection loves QRangeModel",
+      "title": "Show HN: JSciPy – SciPy-inspired signal processing library for Java and Android",
       "score": 3,
-      "url": "https://www.qt.io/blog/c26-reflection-qrangemodel",
-      "time": 1768886393.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46688191"
+      "url": "https://github.com/hissain/jscipy",
+      "time": 1769286701.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46747351"
     }
   ]
 }
