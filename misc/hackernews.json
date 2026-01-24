@@ -1,40 +1,82 @@
 {
-  "last_updated": "2026-01-23T20:01:52.240816-05:00",
+  "last_updated": "2026-01-23T22:56:14.821875-05:00",
   "stories": [
     {
+      "title": "Open-source self-driving for 325 car models from 27 brands",
+      "score": 160,
+      "url": "https://comma.ai",
+      "time": 1769216450.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46740029"
+    },
+    {
       "title": "Unrolling the Codex agent loop",
-      "score": 186,
+      "score": 237,
       "url": "https://openai.com/index/unrolling-the-codex-agent-loop/",
       "time": 1769200956.0,
       "comments_url": "https://news.ycombinator.com/item?id=46737630"
     },
     {
       "title": "New YC homepage",
-      "score": 146,
+      "score": 192,
       "url": "https://www.ycombinator.com/",
       "time": 1769191691.0,
       "comments_url": "https://news.ycombinator.com/item?id=46735644"
     },
     {
+      "title": "Some C habits I employ for the modern day",
+      "score": 87,
+      "url": "https://www.unix.dog/~yosh/blog/c-habits-for-me.html",
+      "time": 1768809826.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46676125"
+    },
+    {
+      "title": "Losing 1½ Million Lines of Go",
+      "score": 39,
+      "url": "https://www.tbray.org/ongoing/When/202x/2026/01/14/Unicode-Properties",
+      "time": 1768835211.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46679802"
+    },
+    {
       "title": "Gas Town's agent patterns, design bottlenecks, and vibecoding at scale",
-      "score": 240,
+      "score": 269,
       "url": "https://maggieappleton.com/gastown",
       "time": 1769185158.0,
       "comments_url": "https://news.ycombinator.com/item?id=46734302"
     },
     {
+      "title": "Caroline Ellison Former Alameda CEO Released from Prison After 440 Days",
+      "score": 36,
+      "url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450",
+      "time": 1769223582.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46740644"
+    },
+    {
+      "title": "The Internet Doesn't Suck: Blame Big Tech, Not the Internet",
+      "score": 12,
+      "url": "https://riverseeber.net/blog/post/the-internet-doesnt-suck/",
+      "time": 1769218905.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46740280"
+    },
+    {
+      "title": "Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops",
+      "score": 704,
+      "url": "https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/",
+      "time": 1769191136.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46735545"
+    },
+    {
       "title": "Proof of Corn",
-      "score": 309,
+      "score": 326,
       "url": "https://proofofcorn.com/",
       "time": 1769190991.0,
       "comments_url": "https://news.ycombinator.com/item?id=46735511"
     },
     {
-      "title": "Banned C++ Features in Chromium",
-      "score": 94,
-      "url": "https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md",
-      "time": 1769200078.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46737447"
+      "title": "Route leak incident on January 22, 2026",
+      "score": 124,
+      "url": "https://blog.cloudflare.com/route-leak-incident-january-22-2026/",
+      "time": 1769190885.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46735489"
     },
     {
       "title": "Noora Health (YC W14) Is Hiring AI/ML Engineer",
@@ -44,102 +86,60 @@
       "comments_url": "https://news.ycombinator.com/item?id=46740028"
     },
     {
-      "title": "Some C habits I employ for the modern day",
-      "score": 37,
-      "url": "https://www.unix.dog/~yosh/blog/c-habits-for-me.html",
-      "time": 1768809826.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46676125"
-    },
-    {
-      "title": "Route leak incident on January 22, 2026",
-      "score": 111,
-      "url": "https://blog.cloudflare.com/route-leak-incident-january-22-2026/",
-      "time": 1769190885.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46735489"
-    },
-    {
-      "title": "Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops",
-      "score": 599,
-      "url": "https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/",
-      "time": 1769191136.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46735545"
+      "title": "Wilson Lin on FastRender: a browser built by parallel agents",
+      "score": 31,
+      "url": "https://simonwillison.net/2026/Jan/23/fastrender/",
+      "time": 1769207281.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46738853"
     },
     {
       "title": "Mental Models (2018)",
-      "score": 36,
+      "score": 56,
       "url": "https://fs.blog/mental-models/",
       "time": 1769202535.0,
       "comments_url": "https://news.ycombinator.com/item?id=46737957"
     },
     {
-      "title": "TikTok Is Now Collecting More Data About Its Users",
-      "score": 65,
-      "url": "https://www.wired.com/story/tiktok-new-privacy-policy/",
-      "time": 1769208701.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46739078"
-    },
-    {
-      "title": "KORG phase8 – Acoustic Synthesizer",
-      "score": 181,
-      "url": "https://www.korg.com/us/products/dj/phase8/",
-      "time": 1769178886.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46732967"
-    },
-    {
-      "title": "Certificate Transparency Log Explorer",
-      "score": 13,
-      "url": "https://certs.swerdlow.dev",
-      "time": 1769198264.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46737076"
-    },
-    {
       "title": "Booting from a vinyl record (2020)",
-      "score": 271,
+      "score": 287,
       "url": "https://boginjr.com/it/sw/dev/vinyl-boot/",
       "time": 1769164749.0,
       "comments_url": "https://news.ycombinator.com/item?id=46730885"
     },
     {
-      "title": "Gold fever, cold, and the true adventures of Jack London in the wild",
-      "score": 34,
-      "url": "https://www.smithsonianmag.com/history/gold-fever-deadly-cold-and-amazing-true-adventures-jack-london-wild-180973316/",
-      "time": 1768741790.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46667545"
-    },
-    {
-      "title": "Proton Spam and the AI Consent Problem",
-      "score": 468,
-      "url": "https://dbushell.com/2026/01/22/proton-spam/",
-      "time": 1769151689.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46729368"
-    },
-    {
-      "title": "Killing the ISP Appliance: An eBPF/XDP Approach to Distributed BNG",
-      "score": 64,
-      "url": "https://markgascoyne.co.uk/posts/ebpf-bng/",
-      "time": 1769189393.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46735179"
-    },
-    {
-      "title": "Ask HN: What's the current best local/open speech-to-speech setup?",
-      "score": 47,
-      "url": "https://news.ycombinator.com/item?id=46731068",
-      "time": 1769166258.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46731068"
+      "title": "KORG phase8 – Acoustic Synthesizer",
+      "score": 197,
+      "url": "https://www.korg.com/us/products/dj/phase8/",
+      "time": 1769178886.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46732967"
     },
     {
       "title": "The tech monoculture is finally breaking",
-      "score": 114,
+      "score": 145,
       "url": "http://www.jasonwillems.com/technology/2025/12/17/Tech-Is-Fun-Again/",
       "time": 1769181993.0,
       "comments_url": "https://news.ycombinator.com/item?id=46733624"
     },
     {
-      "title": "Notes on the Intel 8086 processor's arithmetic-logic unit",
-      "score": 70,
-      "url": "https://www.righto.com/2026/01/notes-on-intel-8086-processors.html",
-      "time": 1769189187.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46735133"
+      "title": "Ask HN: What's the current best local/open speech-to-speech setup?",
+      "score": 75,
+      "url": "https://news.ycombinator.com/item?id=46731068",
+      "time": 1769166258.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46731068"
+    },
+    {
+      "title": "Proton Spam and the AI Consent Problem",
+      "score": 483,
+      "url": "https://dbushell.com/2026/01/22/proton-spam/",
+      "time": 1769151689.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46729368"
+    },
+    {
+      "title": "Banned C++ features in Chromium",
+      "score": 122,
+      "url": "https://chromium.googlesource.com/chromium/src/+/main/styleguide/c++/c++-features.md",
+      "time": 1769200078.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46737447"
     }
   ]
 }
