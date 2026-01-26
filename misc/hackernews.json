@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-01-25T16:11:45.468193-05:00",
+  "last_updated": "2026-01-25T20:09:15.266311-05:00",
   "stories": [
     {
       "title": "First, make me care",
-      "score": 109,
+      "score": 298,
       "url": "https://gwern.net/blog/2026/make-me-care",
       "time": 1769367820.0,
       "comments_url": "https://news.ycombinator.com/item?id=46757067"
     },
     {
-      "title": "OnePlus update blocks downgrades and custom ROMs by blowing a fuse",
-      "score": 31,
-      "url": "https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback",
-      "time": 1769373565.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46757944"
+      "title": "Clawdbot - open source personal AI assistant",
+      "score": 17,
+      "url": "https://github.com/clawdbot/clawdbot",
+      "time": 1769387261.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46760237"
     },
     {
       "title": "A macOS app that blurs your screen when you slouch",
-      "score": 370,
+      "score": 460,
       "url": "https://github.com/tldev/posturr",
       "time": 1769355291.0,
       "comments_url": "https://news.ycombinator.com/item?id=46754944"
     },
     {
-      "title": "Spanish track was fractured before high-speed train disaster, report finds",
-      "score": 50,
-      "url": "https://www.bbc.com/news/articles/c1m77dmxlvlo",
-      "time": 1769368370.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46757162"
+      "title": "Show HN: A small programming language where everything is pass-by-value",
+      "score": 31,
+      "url": "https://github.com/Jcparkyn/herd",
+      "time": 1769382066.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46759520"
     },
     {
-      "title": "Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems",
-      "score": 124,
-      "url": "https://www.diljitpr.net/blog-post-postgresql-dlq",
-      "time": 1769356263.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46755115"
+      "title": "Case study: Creative math – How AI fakes proofs",
+      "score": 25,
+      "url": "https://tomaszmachnik.pl/case-study-math-en.html",
+      "time": 1769381090.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46759352"
     },
     {
       "title": "Doom has been ported to an earbud",
-      "score": 270,
+      "score": 336,
       "url": "https://doombuds.com",
       "time": 1769343732.0,
       "comments_url": "https://news.ycombinator.com/item?id=46753484"
     },
     {
+      "title": "Oneplus phone update introduces hardware anti-rollback",
+      "score": 334,
+      "url": "https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback",
+      "time": 1769373565.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46757944"
+    },
+    {
+      "title": "Scientists identify brain waves that define the limits of 'you'",
+      "score": 6,
+      "url": "https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you",
+      "time": 1769386242.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46760099"
+    },
+    {
+      "title": "Guix for Development",
+      "score": 14,
+      "url": "https://dthompson.us/posts/guix-for-development.html",
+      "time": 1768907733.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46690592"
+    },
+    {
       "title": "A flawed paper in management science has been cited more than 6k times",
-      "score": 567,
+      "score": 618,
       "url": "https://statmodeling.stat.columbia.edu/2026/01/22/aking/",
       "time": 1769331870.0,
       "comments_url": "https://news.ycombinator.com/item?id=46752151"
     },
     {
-      "title": "Google confirms 'high-friction' sideloading flow is coming to Android",
-      "score": 561,
-      "url": "https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/",
-      "time": 1768892693.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46688804"
+      "title": "Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems",
+      "score": 159,
+      "url": "https://www.diljitpr.net/blog-post-postgresql-dlq",
+      "time": 1769356263.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46755115"
     },
     {
-      "title": "Web-based image editor modeled after Deluxe Paint",
-      "score": 139,
-      "url": "https://github.com/steffest/DPaint-js",
-      "time": 1769345693.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46753708"
+      "title": "Spanish track was fractured before high-speed train disaster, report finds",
+      "score": 124,
+      "url": "https://www.bbc.com/news/articles/c1m77dmxlvlo",
+      "time": 1769368370.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46757162"
+    },
+    {
+      "title": "The '3.5% rule': How a small minority can change the world (2019)",
+      "score": 163,
+      "url": "https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world",
+      "time": 1769376431.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46758450"
+    },
+    {
+      "title": "Bitwise conversion of doubles using only FP multiplication and addition (2020)",
+      "score": 15,
+      "url": "https://dougallj.wordpress.com/2020/05/10/bitwise-conversion-of-doubles-using-only-floating-point-multiplication-and-addition/",
+      "time": 1769352903.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46754522"
+    },
+    {
+      "title": "Show HN: An interactive map of US lighthouses and navigational aids",
+      "score": 26,
+      "url": "https://www.lighthouses.app/",
+      "time": 1769364386.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46756427"
     },
     {
       "title": "I was right about ATProto key management",
-      "score": 6,
+      "score": 105,
       "url": "https://notes.nora.codes/atproto-again/",
       "time": 1769369483.0,
       "comments_url": "https://news.ycombinator.com/item?id=46757357"
     },
     {
-      "title": "ICE using Palantir tool that feeds on Medicaid data",
-      "score": 530,
-      "url": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
-      "time": 1769362579.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46756117"
+      "title": "Show HN: Elo ranking for landing pages",
+      "score": 6,
+      "url": "https://landingleaderboard.com/",
+      "time": 1769388114.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46760338"
     },
     {
-      "title": "Publishing on the ATmosphere",
-      "score": 27,
-      "url": "https://tynanistyping.offprint.app/a/3mcsvjjceei23-publishing-on-the-atmosphere",
-      "time": 1768912412.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46691152"
+      "title": "Web-based image editor modeled after Deluxe Paint",
+      "score": 172,
+      "url": "https://github.com/steffest/DPaint-js",
+      "time": 1769345693.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46753708"
     },
     {
-      "title": "Introduction to PostgreSQL Indexes",
-      "score": 250,
-      "url": "https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/",
-      "time": 1769328423.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46751826"
+      "title": "The behavioral cost of personalized pricing",
+      "score": 52,
+      "url": "https://digitalseams.com/blog/the-behavioral-cost-of-personalized-pricing",
+      "time": 1769368752.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46757224"
     },
     {
-      "title": "Show HN: Bonsplit – Tabs and splits for native macOS apps",
-      "score": 161,
-      "url": "https://bonsplit.alasdairmonk.com",
-      "time": 1769342202.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46753301"
-    },
-    {
-      "title": "AI Tribalism",
-      "score": 8,
-      "url": "https://nolanlawson.com/2026/01/24/ai-tribalism/",
-      "time": 1769374897.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46758175"
-    },
-    {
-      "title": "Show HN: TUI for managing XDG default applications",
-      "score": 97,
-      "url": "https://github.com/mitjafelicijan/xdgctl",
-      "time": 1769339944.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46753078"
-    },
-    {
-      "title": "ANN v3: 200ms p99 query latency over 100B vectors",
-      "score": 85,
-      "url": "https://turbopuffer.com/blog/ann-v3",
-      "time": 1769025539.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46710747"
-    },
-    {
-      "title": "Data Leak Exposes 149M Logins, Including Gmail, Facebook",
-      "score": 32,
-      "url": "https://www.techrepublic.com/article/news-149-million-passwords-exposed-infostealer-database/",
-      "time": 1769370310.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46757465"
-    },
-    {
-      "title": "Optimizing GPU Programs from Java Using Babylon and Hat",
-      "score": 7,
-      "url": "https://openjdk.org/projects/babylon/articles/hat-matmul/hat-matmul",
-      "time": 1768902083.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46689895"
-    },
-    {
-      "title": "150k lines of vibe coded Elixir: The good, the bad and the ugly",
-      "score": 57,
-      "url": "https://getboothiq.com/blog/150k-lines-vibe-coded-elixir-good-bad-ugly",
-      "time": 1769338469.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46752907"
+      "title": "Infinite pancakes, anyone?",
+      "score": 17,
+      "url": "https://www.nytimes.com/2026/01/20/science/infinite-pancake-math-puzzle.html",
+      "time": 1769088189.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46718923"
     }
   ]
 }
