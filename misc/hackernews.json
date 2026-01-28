@@ -1,47 +1,89 @@
 {
-  "last_updated": "2026-01-28T07:30:35.704774-05:00",
+  "last_updated": "2026-01-28T10:23:11.164428-05:00",
   "stories": [
     {
+      "title": "Microsoft forced me to switch to Linux",
+      "score": 99,
+      "url": "https://www.himthe.dev/blog/microsoft-to-linux",
+      "time": 1769610501.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46795864"
+    },
+    {
+      "title": "Airfoil (2024)",
+      "score": 98,
+      "url": "https://ciechanow.ski/airfoil/",
+      "time": 1769610750.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46795908"
+    },
+    {
       "title": "Show HN: The HN Arcade",
-      "score": 60,
+      "score": 157,
       "url": "https://andrewgy8.github.io/hnarcade/",
       "time": 1769597432.0,
       "comments_url": "https://news.ycombinator.com/item?id=46793693"
     },
     {
-      "title": "There's only one Woz, but we can all learn from him",
-      "score": 140,
-      "url": "https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award",
-      "time": 1769190505.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46735407"
+      "title": "A verification layer for browser agents: Amazon case study",
+      "score": 6,
+      "url": "https://sentienceapi.com/blog/verification-layer-amazon-case-study",
+      "time": 1769566094.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46790127"
     },
     {
-      "title": "Devuan – Debian Without Systemd",
-      "score": 51,
-      "url": "https://www.devuan.org/",
-      "time": 1769590708.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46792783"
+      "title": "Package Management Is a Wicked Problem",
+      "score": 26,
+      "url": "https://nesbitt.io/2026/01/23/package-management-is-a-wicked-problem.html",
+      "time": 1769228662.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46741045"
     },
     {
-      "title": "Prism",
-      "score": 665,
-      "url": "https://openai.com/index/introducing-prism",
-      "time": 1769536990.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46783752"
+      "title": "Show HN: Dwm.tmux – a dwm-inspired window manager for tmux",
+      "score": 32,
+      "url": "https://github.com/saysjonathan/dwm.tmux",
+      "time": 1769213720.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46739704"
     },
     {
       "title": "Rust at Scale: An Added Layer of Security for WhatsApp",
-      "score": 69,
+      "score": 152,
       "url": "https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/",
       "time": 1769581267.0,
       "comments_url": "https://news.ycombinator.com/item?id=46791742"
     },
     {
-      "title": "SVG Path Editor",
-      "score": 117,
-      "url": "https://yqnn.github.io/svg-path-editor/",
-      "time": 1769123165.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46726269"
+      "title": "Show HN: Build Web Automations via Demonstration",
+      "score": 5,
+      "url": "https://www.notte.cc/launch-week-i/demonstrate-mode",
+      "time": 1769521710.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46779864"
+    },
+    {
+      "title": "There's only one Woz, but we can all learn from him",
+      "score": 205,
+      "url": "https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award",
+      "time": 1769190505.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46735407"
+    },
+    {
+      "title": "Prism",
+      "score": 708,
+      "url": "https://openai.com/index/introducing-prism",
+      "time": 1769536990.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46783752"
+    },
+    {
+      "title": "A few random notes from Claude coding quite a bit last few weeks",
+      "score": 762,
+      "url": "https://twitter.com/karpathy/status/2015883857489522876",
+      "time": 1769461759.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46771564"
+    },
+    {
+      "title": "Virtual Boy on TV with Intelligent Systems Video Boy",
+      "score": 53,
+      "url": "https://hcs64.com/video-boy-vue/",
+      "time": 1769589170.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46792572"
     },
     {
       "title": "Kyber (YC W23) Is Hiring a Staff Engineer",
@@ -51,95 +93,53 @@
       "comments_url": "https://news.ycombinator.com/item?id=46794231"
     },
     {
-      "title": "A few random notes from Claude coding quite a bit last few weeks",
-      "score": 679,
-      "url": "https://twitter.com/karpathy/status/2015883857489522876",
-      "time": 1769461759.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46771564"
-    },
-    {
-      "title": "Pandas 3.0",
-      "score": 85,
-      "url": "https://pandas.pydata.org/community/blog/pandas-3.0.html",
-      "time": 1769186747.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46734641"
+      "title": "SVG Path Editor",
+      "score": 166,
+      "url": "https://yqnn.github.io/svg-path-editor/",
+      "time": 1769123165.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46726269"
     },
     {
       "title": "430k-year-old well-preserved wooden tools are the oldest ever found",
-      "score": 431,
+      "score": 454,
       "url": "https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html",
       "time": 1769528789.0,
       "comments_url": "https://news.ycombinator.com/item?id=46781530"
     },
     {
-      "title": "Thirty Years of the Square Kilometre Array",
-      "score": 24,
-      "url": "https://physicsworld.com/a/thirty-years-of-the-square-kilometre-array-heres-what-the-worlds-largest-radio-telescope-project-has-achieved-so-far/",
-      "time": 1769363629.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46756311"
-    },
-    {
-      "title": "ASML staffing changes could result in a net reduction of around 1700 positions",
-      "score": 258,
-      "url": "https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation",
-      "time": 1769587362.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46792370"
-    },
-    {
       "title": "Golden Ratio using an equilateral triangle inscribed in a circle",
-      "score": 97,
+      "score": 128,
       "url": "https://geometrycode.com/free/how-to-graphically-derive-the-golden-ratio-using-an-equilateral-triangle-inscribed-in-a-circle/",
       "time": 1769189268.0,
       "comments_url": "https://news.ycombinator.com/item?id=46735152"
     },
     {
-      "title": "Make.ts",
-      "score": 100,
-      "url": "https://matklad.github.io/2026/01/27/make-ts.html",
-      "time": 1769585751.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46792194"
-    },
-    {
-      "title": "Rust’s Standard Library on the GPU",
-      "score": 198,
-      "url": "https://www.vectorware.com/blog/rust-std-on-gpu/",
-      "time": 1769230142.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46741150"
-    },
-    {
-      "title": "Doing the thing is doing the thing",
-      "score": 421,
-      "url": "https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing",
-      "time": 1769494666.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46776155"
-    },
-    {
-      "title": "Parametric CAD in Rust",
-      "score": 181,
-      "url": "https://campedersen.com/vcad",
-      "time": 1769546174.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46786196"
-    },
-    {
-      "title": "Lennart Poettering, Christian Brauner founded a new company",
-      "score": 308,
-      "url": "https://amutable.com/about",
-      "time": 1769540235.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46784572"
+      "title": "Pandas 3.0",
+      "score": 167,
+      "url": "https://pandas.pydata.org/community/blog/pandas-3.0.html",
+      "time": 1769186747.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46734641"
     },
     {
       "title": "I Made a MIT Licensed Mecrisp-Stellaris Language Server",
-      "score": 3,
+      "score": 14,
       "url": "https://mecrisp-stellaris-folkdoc.sourceforge.io/mecrisp-stellaris-lsp.html",
       "time": 1769332137.0,
       "comments_url": "https://news.ycombinator.com/item?id=46752172"
     },
     {
-      "title": "Xfwl4 – The Roadmap for a Xfce Wayland Compositor",
-      "score": 326,
-      "url": "https://alexxcons.github.io/blogpost_15.html",
-      "time": 1769520353.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46779645"
+      "title": "Thirty Years of the Square Kilometre Array",
+      "score": 43,
+      "url": "https://physicsworld.com/a/thirty-years-of-the-square-kilometre-array-heres-what-the-worlds-largest-radio-telescope-project-has-achieved-so-far/",
+      "time": 1769363629.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46756311"
+    },
+    {
+      "title": "Rust’s Standard Library on the GPU",
+      "score": 225,
+      "url": "https://www.vectorware.com/blog/rust-std-on-gpu/",
+      "time": 1769230142.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46741150"
     }
   ]
 }
