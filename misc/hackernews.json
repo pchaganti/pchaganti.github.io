@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-01-29T10:27:02.748297-05:00",
+  "last_updated": "2026-01-29T13:31:55.832284-05:00",
   "stories": [
     {
       "title": "Claude Code Daily Benchmarks for Degradation Tracking",
-      "score": 84,
+      "score": 322,
       "url": "https://marginlab.ai/trackers/claude-code/",
       "time": 1769695147.0,
       "comments_url": "https://news.ycombinator.com/item?id=46810282"
     },
     {
+      "title": "Project Genie: Experimenting with infinite, interactive worlds",
+      "score": 90,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+      "time": 1769706159.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46812933"
+    },
+    {
+      "title": "Launch HN: AgentMail (YC S25) – An API that gives agents their own email inboxes",
+      "score": 50,
+      "url": "https://news.ycombinator.com/item?id=46812608",
+      "time": 1769704953.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46812608"
+    },
+    {
+      "title": "Drug trio found to block tumour resistance in pancreatic cancer",
+      "score": 52,
+      "url": "https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/",
+      "time": 1769703064.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46812159"
+    },
+    {
+      "title": "OTelBench: AI struggles with simple SRE tasks (Opus 4.5 scores only 29%)",
+      "score": 87,
+      "url": "https://quesma.com/blog/introducing-otel-bench/",
+      "time": 1769701041.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46811588"
+    },
+    {
+      "title": "Project Genie: Interactive worlds generated in real-time",
+      "score": 30,
+      "url": "https://labs.google/projectgenie",
+      "time": 1769706406.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46813002"
+    },
+    {
       "title": "Europe’s next-generation weather satellite sends back first images",
-      "score": 449,
+      "score": 561,
       "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images",
       "time": 1769670437.0,
       "comments_url": "https://news.ycombinator.com/item?id=46806773"
     },
     {
-      "title": "A lot of population numbers are fake",
-      "score": 80,
-      "url": "https://davidoks.blog/p/a-lot-of-population-numbers-are-fake",
-      "time": 1769693814.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46810027"
+      "title": "US cybersecurity chief leaked sensitive government files to ChatGPT: Report",
+      "score": 222,
+      "url": "https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/",
+      "time": 1769703139.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46812173"
     },
     {
-      "title": "Apple to soon take up to 30% cut from all Patreon creators in iOS app",
-      "score": 712,
-      "url": "https://www.macrumors.com/2026/01/28/patreon-apple-tax/",
-      "time": 1769633970.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46801419"
+      "title": "Reflex (YC W23) Senior Software Engineer Infra",
+      "score": 1,
+      "url": "https://www.ycombinator.com/companies/reflex/jobs/Jcwrz7A-lead-software-engineer-infra",
+      "time": 1769706042.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46812892"
     },
     {
-      "title": "How to Choose Colors for Your CLI Applications",
-      "score": 8,
+      "title": "Is the RAM shortage killing small VPS hosts?",
+      "score": 35,
+      "url": "https://www.fourplex.net/2026/01/29/is-the-ram-shortage-killing-small-vps-hosts/",
+      "time": 1769701377.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46811664"
+    },
+    {
+      "title": "AI's Impact on Engineering Jobs May Be Different Than Expected",
+      "score": 6,
+      "url": "https://semiengineering.com/ais-impact-on-engineering-jobs-may-be-different-than-initial-projections/",
+      "time": 1769709610.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46813834"
+    },
+    {
+      "title": "EmulatorJS",
+      "score": 27,
+      "url": "https://github.com/EmulatorJS/EmulatorJS",
+      "time": 1769149600.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46729139"
+    },
+    {
+      "title": "How to Choose Colors for Your CLI Applications (2023)",
+      "score": 99,
       "url": "https://blog.xoria.org/terminal-colors/",
       "time": 1769698148.0,
       "comments_url": "https://news.ycombinator.com/item?id=46810904"
     },
     {
-      "title": "Show HN: ShapedQL – A SQL engine for multi-stage ranking and RAG",
-      "score": 36,
-      "url": "https://playground.shaped.ai",
-      "time": 1769522049.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46779922"
+      "title": "Heating homes with the largest particle accelerator",
+      "score": 31,
+      "url": "https://home.cern/news/news/cern/heating-homes-worlds-largest-particle-accelerator",
+      "time": 1769701744.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46811762"
     },
     {
-      "title": "Render Mermaid diagrams as SVGs or ASCII art",
-      "score": 330,
-      "url": "https://github.com/lukilabs/beautiful-mermaid",
-      "time": 1769652520.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46804828"
+      "title": "Computing Sharding with Einsum",
+      "score": 10,
+      "url": "https://blog.ezyang.com/2026/01/computing-sharding-with-einsum/",
+      "time": 1769349297.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46754097"
     },
     {
-      "title": "Apt-bundle: brew bundle for apt",
-      "score": 20,
-      "url": "https://github.com/apt-bundle/apt-bundle",
-      "time": 1769322865.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46751382"
+      "title": "Apple to soon take up to 30% cut from all Patreon creators in iOS app",
+      "score": 889,
+      "url": "https://www.macrumors.com/2026/01/28/patreon-apple-tax/",
+      "time": 1769633970.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46801419"
+    },
+    {
+      "title": "Making niche solutions is the point",
+      "score": 53,
+      "url": "https://ntietz.com/blog/making-niche-solutions-is-the-point/",
+      "time": 1769464565.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46772132"
+    },
+    {
+      "title": "Run Clawdbot/Moltbot on Cloudflare with Moltworker",
+      "score": 59,
+      "url": "https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/",
+      "time": 1769697787.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46810828"
+    },
+    {
+      "title": "The Sovereign Tech Fund Invests in Scala",
+      "score": 65,
+      "url": "https://www.scala-lang.org/blog/2026/01/27/sta-invests-in-scala.html",
+      "time": 1769690578.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46809420"
     },
     {
       "title": "Break Me If You Can: Exploiting PKO and Relay Attacks in 3DES/AES NFC",
-      "score": 5,
+      "score": 32,
       "url": "https://www.breakmeifyoucan.com/",
       "time": 1769696421.0,
       "comments_url": "https://news.ycombinator.com/item?id=46810536"
-    },
-    {
-      "title": "Vitamin D and Omega-3 have a larger effect on depression than antidepressants",
-      "score": 533,
-      "url": "https://blog.ncase.me/on-depression/",
-      "time": 1769682900.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46808251"
-    },
-    {
-      "title": "We can’t send mail farther than 500 miles (2002)",
-      "score": 505,
-      "url": "https://web.mit.edu/jemorris/humor/500-miles",
-      "time": 1769659113.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46805665"
-    },
-    {
-      "title": "Deep dive into Turso, the \"SQLite rewrite in Rust\"",
-      "score": 11,
-      "url": "https://kerkour.com/turso-sqlite",
-      "time": 1769698316.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46810950"
-    },
-    {
-      "title": "Mecha Comet – Open Modular Linux Handheld Computer",
-      "score": 205,
-      "url": "https://mecha.so/comet",
-      "time": 1769377490.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46758652"
-    },
-    {
-      "title": "Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105",
-      "score": 190,
-      "url": "https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105",
-      "time": 1769652702.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46804854"
-    },
-    {
-      "title": "Decompiling Xbox games using PDB debug info",
-      "score": 79,
-      "url": "https://i686.me/blog/csplit/",
-      "time": 1769449338.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46768845"
-    },
-    {
-      "title": "Tea Chemistry (1997)",
-      "score": 54,
-      "url": "https://www.researchgate.net/profile/Matthew-Harbowy/publication/216792045_Tea_Chemistry/links/0912f4fb863f786725000000/Tea-Chemistry.pdf",
-      "time": 1769197037.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46736804"
-    },
-    {
-      "title": "Building a High-Performance Rotating Bloom Filter in Java",
-      "score": 10,
-      "url": "https://medium.com/@udaysagar.2177/building-a-high-performance-rotating-bloom-filter-in-java-a9e75de993bf",
-      "time": 1769309444.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46750220"
-    },
-    {
-      "title": "Playing Board Games with Deep Convolutional Neural Network on 8bit Motorola 6809",
-      "score": 3,
-      "url": "https://ipsj.ixsq.nii.ac.jp/records/229345",
-      "time": 1769695392.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46810337"
-    },
-    {
-      "title": "Airfoil (2024)",
-      "score": 497,
-      "url": "https://ciechanow.ski/airfoil/",
-      "time": 1769610750.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46795908"
-    },
-    {
-      "title": "Xmake: A cross-platform build utility based on Lua",
-      "score": 74,
-      "url": "https://xmake.io/",
-      "time": 1769339567.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46753037"
     }
   ]
 }
