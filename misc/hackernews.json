@@ -1,47 +1,82 @@
 {
-  "last_updated": "2026-01-30T07:34:24.907941-05:00",
+  "last_updated": "2026-01-30T10:25:38.522789-05:00",
   "stories": [
     {
+      "title": "Code is cheap. Show me the talk",
+      "score": 58,
+      "url": "https://nadh.in/blog/code-is-cheap/",
+      "time": 1769774750.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46823485"
+    },
+    {
       "title": "Moltbook",
-      "score": 559,
+      "score": 707,
       "url": "https://www.moltbook.com/",
       "time": 1769745334.0,
       "comments_url": "https://news.ycombinator.com/item?id=46820360"
     },
     {
-      "title": "Software Pump and Dump",
-      "score": 130,
-      "url": "http://tautvilas.lt/software-pump-and-dump/",
-      "time": 1769500991.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46776848"
+      "title": "Wisconsin communities signed secrecy deals for billion-dollar data centers",
+      "score": 148,
+      "url": "https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers",
+      "time": 1769779433.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46824098"
     },
     {
-      "title": "Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron",
-      "score": 113,
-      "url": "https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/",
-      "time": 1769753976.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46821134"
+      "title": "Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents",
+      "score": 7,
+      "url": "https://github.com/amlalabs/amla-sandbox",
+      "time": 1769783672.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46824877"
+    },
+    {
+      "title": "Tesla’s autonomous vehicles are crashing at a rate much higher tha human drivers",
+      "score": 349,
+      "url": "https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/",
+      "time": 1769768071.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46822632"
     },
     {
       "title": "OpenClaw – Moltbot Renamed Again",
-      "score": 272,
+      "score": 347,
       "url": "https://openclaw.ai/blog/introducing-openclaw",
       "time": 1769750088.0,
       "comments_url": "https://news.ycombinator.com/item?id=46820783"
     },
     {
+      "title": "Implementing a tiny CPU rasterizer (2024)",
+      "score": 15,
+      "url": "https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer-part-1.html",
+      "time": 1769381134.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46759358"
+    },
+    {
+      "title": "Richard Feynman Side Hustles",
+      "score": 31,
+      "url": "https://twitter.com/carl_feynman/status/2016979540099420428",
+      "time": 1769783609.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46824867"
+    },
+    {
       "title": "The Engineer who invented the Mars Rover Suspension in his garage [video]",
-      "score": 22,
+      "score": 68,
       "url": "https://www.youtube.com/watch?v=QKSPk_0N4Jc",
       "time": 1769472513.0,
       "comments_url": "https://news.ycombinator.com/item?id=46773655"
     },
     {
-      "title": "GOG: Linux \"the next major frontier\" for gaming as it works on a native client",
-      "score": 231,
-      "url": "https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/",
-      "time": 1769760581.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46821774"
+      "title": "Track Your Routine – Open-source app for task management",
+      "score": 27,
+      "url": "https://github.com/MSF01/TYR",
+      "time": 1769773966.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46823358"
+    },
+    {
+      "title": "Where I'm at with AI",
+      "score": 18,
+      "url": "https://paulosman.me/2026/01/18/where-im-at-with-ai/",
+      "time": 1769783912.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46824925"
     },
     {
       "title": "Pangolin (YC S25) is hiring software engineers (open-source, Go, networking)",
@@ -51,95 +86,60 @@
       "comments_url": "https://news.ycombinator.com/item?id=46823544"
     },
     {
-      "title": "Tesla's Robotaxi data confirms crash rate 3x worse than humans even with monitor",
-      "score": 99,
-      "url": "https://electrek.co/2026/01/29/teslas-own-robotaxi-data-confirms-crash-rate-3x-worse-than-humans-even-with-monitor/",
-      "time": 1769768071.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46822632"
-    },
-    {
-      "title": "Show HN: Cicada – a scripting language that integrates with C",
-      "score": 3,
-      "url": "https://github.com/heltilda/cicada",
-      "time": 1769774846.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46823498"
+      "title": "GOG: Linux \"the next major frontier\" for gaming as it works on a native client",
+      "score": 366,
+      "url": "https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/",
+      "time": 1769760581.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46821774"
     },
     {
       "title": "How AI assistance impacts the formation of coding skills",
-      "score": 127,
+      "score": 193,
       "url": "https://www.anthropic.com/research/AI-assistance-coding-skills",
       "time": 1769751683.0,
       "comments_url": "https://news.ycombinator.com/item?id=46820924"
     },
     {
+      "title": "Show HN: Cicada – A scripting language that integrates with C",
+      "score": 26,
+      "url": "https://github.com/heltilda/cicada",
+      "time": 1769774846.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46823498"
+    },
+    {
+      "title": "Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron",
+      "score": 276,
+      "url": "https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/",
+      "time": 1769753976.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46821134"
+    },
+    {
       "title": "Grid: Free, local-first, browser-based 3D printing/CNC/laser slicer",
-      "score": 314,
+      "score": 334,
       "url": "https://grid.space/stem/",
       "time": 1769726337.0,
       "comments_url": "https://news.ycombinator.com/item?id=46817813"
     },
     {
       "title": "PlayStation 2 Recompilation Project Is Absolutely Incredible",
-      "score": 456,
+      "score": 483,
       "url": "https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/",
       "time": 1769712938.0,
       "comments_url": "https://news.ycombinator.com/item?id=46814743"
     },
     {
-      "title": "Track Your Routine – Open-source app for task management",
-      "score": 4,
-      "url": "https://github.com/MSF01/TYR",
-      "time": 1769773966.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46823358"
+      "title": "Ode to the AA Battery",
+      "score": 35,
+      "url": "https://www.jeffgeerling.com/blog/2026/ode-to-the-aa-battery/",
+      "time": 1769781329.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46824400"
     },
     {
       "title": "Project Genie: Experimenting with infinite, interactive worlds",
-      "score": 598,
+      "score": 617,
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
       "time": 1769706159.0,
       "comments_url": "https://news.ycombinator.com/item?id=46812933"
-    },
-    {
-      "title": "Claude Code daily benchmarks for degradation tracking",
-      "score": 705,
-      "url": "https://marginlab.ai/trackers/claude-code/",
-      "time": 1769695147.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46810282"
-    },
-    {
-      "title": "Doin' It with a 555: One Chip to Rule Them All",
-      "score": 61,
-      "url": "https://aashvik.com/posts/555-revolution/",
-      "time": 1769526121.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46780891"
-    },
-    {
-      "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
-      "score": 222,
-      "url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
-      "time": 1769720551.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46816539"
-    },
-    {
-      "title": "Stargaze: SpaceX's Space Situational Awareness System",
-      "score": 102,
-      "url": "https://starlink.com/updates/stargaze",
-      "time": 1769742703.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46820113"
-    },
-    {
-      "title": "The WiFi only works when it's raining (2024)",
-      "score": 221,
-      "url": "https://predr.ag/blog/wifi-only-works-when-its-raining/",
-      "time": 1769719656.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46816357"
-    },
-    {
-      "title": "Backseat Software",
-      "score": 115,
-      "url": "https://blog.mikeswanson.com/backseat-software/",
-      "time": 1769724607.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46817452"
     }
   ]
 }
