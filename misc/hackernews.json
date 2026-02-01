@@ -1,40 +1,103 @@
 {
-  "last_updated": "2026-01-31T16:13:15.500188-05:00",
+  "last_updated": "2026-01-31T20:25:44.231039-05:00",
   "stories": [
     {
       "title": "Mobile carriers can get your GPS location",
-      "score": 259,
+      "score": 421,
       "url": "https://an.dywa.ng/carrier-gnss.html",
       "time": 1769880094.0,
       "comments_url": "https://news.ycombinator.com/item?id=46838597"
     },
     {
-      "title": "Genode OS is a tool kit for building highly secure special-purpose OS",
-      "score": 74,
-      "url": "https://genode.org/about/index",
-      "time": 1769882612.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46838981"
+      "title": "Scientist who helped eradicate smallpox dies at age 89",
+      "score": 67,
+      "url": "https://www.scientificamerican.com/article/smallpox-eradication-champion-william-foege-dies-at-89/",
+      "time": 1769594591.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46793313"
+    },
+    {
+      "title": "Generative AI and Wikipedia editing: What we learned in 2025",
+      "score": 62,
+      "url": "https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/",
+      "time": 1769894042.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46840924"
     },
     {
       "title": "Demystifying ARM SME to Optimize General Matrix Multiplications",
-      "score": 17,
+      "score": 57,
       "url": "https://arxiv.org/abs/2512.21473",
       "time": 1769889922.0,
       "comments_url": "https://news.ycombinator.com/item?id=46840252"
     },
     {
-      "title": "US has investigated claims WhatsApp chats aren't private",
-      "score": 62,
-      "url": "https://www.bloomberg.com/news/articles/2026-01-29/us-has-investigated-claims-that-whatsapp-chats-aren-t-private",
-      "time": 1769880330.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46838635"
+      "title": "Wikipedia: Sandbox",
+      "score": 50,
+      "url": "https://en.wikipedia.org/wiki/Wikipedia:Sandbox",
+      "time": 1769807521.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46829965"
+    },
+    {
+      "title": "Data Processing Benchmark Featuring Rust, Go, Swift, Zig, Julia etc.",
+      "score": 42,
+      "url": "https://github.com/zupat/related_post_gen",
+      "time": 1769892656.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46840698"
     },
     {
       "title": "The Saddest Moment (2013) [pdf]",
-      "score": 18,
+      "score": 66,
       "url": "https://www.usenix.org/system/files/login-logout_1305_mickens.pdf",
       "time": 1769889756.0,
       "comments_url": "https://news.ycombinator.com/item?id=46840219"
+    },
+    {
+      "title": "Swift is a more convenient Rust",
+      "score": 184,
+      "url": "https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust",
+      "time": 1769897103.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46841374"
+    },
+    {
+      "title": "Show HN: Minimal – Open-Source Community driven Hardened Container Images",
+      "score": 64,
+      "url": "https://github.com/rtvkiz/minimal",
+      "time": 1769889480.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46840178"
+    },
+    {
+      "title": "Ferrari vs. Markets",
+      "score": 31,
+      "url": "https://ferrari-imports.enigmatechnologies.dev/",
+      "time": 1769714732.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46815209"
+    },
+    {
+      "title": "In Praise of –dry-run",
+      "score": 29,
+      "url": "https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/",
+      "time": 1769892133.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46840612"
+    },
+    {
+      "title": "Nintendo DS code editor and scriptable game engine",
+      "score": 84,
+      "url": "https://crl.io/ds-game-engine/",
+      "time": 1769884056.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46839215"
+    },
+    {
+      "title": "Writing a .NET Garbage Collector in C# – Part 6: Mark and Sweep",
+      "score": 36,
+      "url": "https://minidump.net/writing-a-net-gc-in-c-part-6/",
+      "time": 1769516604.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46779061"
+    },
+    {
+      "title": "Finland to end \"uncontrolled human experiment\" with ban on youth social media",
+      "score": 468,
+      "url": "https://yle.fi/a/74-20207494",
+      "time": 1769879182.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46838417"
     },
     {
       "title": "CollectWise (YC F24) Is Hiring",
@@ -44,102 +107,39 @@
       "comments_url": "https://news.ycombinator.com/item?id=46840801"
     },
     {
-      "title": "Claude Code is your customer",
-      "score": 28,
-      "url": "https://calebjohn.xyz/blog/b2cc/",
-      "time": 1769504965.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46777409"
-    },
-    {
-      "title": "Show HN: Minimal – Open-Source Community driven Hardened Container Images",
-      "score": 12,
-      "url": "https://github.com/rtvkiz/minimal",
-      "time": 1769889480.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46840178"
-    },
-    {
       "title": "CPython Internals Explained",
-      "score": 115,
+      "score": 165,
       "url": "https://github.com/zpoint/CPython-Internals",
       "time": 1769522857.0,
       "comments_url": "https://news.ycombinator.com/item?id=46780086"
     },
     {
-      "title": "Nintendo DS code editor and scriptable game engine",
-      "score": 26,
-      "url": "https://crl.io/ds-game-engine/",
-      "time": 1769884056.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46839215"
+      "title": "The Spacecraft That Wouldn't Die",
+      "score": 25,
+      "url": "https://www.corememory.com/p/exclusive-theres-a-spaceship-epic-aerospace-chimera",
+      "time": 1769892964.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46840753"
     },
     {
-      "title": "Finland to end \"uncontrolled human experiment\" with ban on youth social media",
-      "score": 258,
-      "url": "https://yle.fi/a/74-20207494",
-      "time": 1769879182.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46838417"
+      "title": "Genode OS is a tool kit for building highly secure special-purpose OS",
+      "score": 105,
+      "url": "https://genode.org/about/index",
+      "time": 1769882612.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46838981"
     },
     {
-      "title": "Death Note: L, Anonymity and Eluding Entropy (2011)",
-      "score": 40,
-      "url": "https://gwern.net/death-note-anonymity",
-      "time": 1769886694.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46839743"
+      "title": "Show HN: Moltbook – A social network for moltbots (clawdbots) to hang out",
+      "score": 129,
+      "url": "https://www.moltbook.com/",
+      "time": 1769638155.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46802254"
     },
     {
-      "title": "Google Cloud suspended my account for 2 years, only automated replies",
-      "score": 57,
-      "url": "https://news.ycombinator.com/item?id=46839375",
-      "time": 1769884896.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46839375"
-    },
-    {
-      "title": "Berlin: Record harvest sparks mass giveaway of free potatoes",
-      "score": 38,
-      "url": "https://www.theguardian.com/world/2026/jan/31/record-harvest-berlin-giveaway-potatoes",
-      "time": 1769886952.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46839784"
-    },
-    {
-      "title": "\"Giving up upstream-ing my patches & feel free to pick them up\"",
-      "score": 103,
+      "title": "Giving up upstream-ing my patches and feel free to pick them up",
+      "score": 132,
       "url": "https://mail.openjdk.org/pipermail/hotspot-dev/2026-January/118080.html",
       "time": 1769856818.0,
       "comments_url": "https://news.ycombinator.com/item?id=46835454"
-    },
-    {
-      "title": "NASA's WB-57 crash lands at Houston",
-      "score": 128,
-      "url": "https://arstechnica.com/space/2026/01/one-of-nasas-three-wb-57-aircraft-just-did-a-belly-landing-in-houston/",
-      "time": 1769586219.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46792242"
-    },
-    {
-      "title": "We have ipinfo at home or how to geolocate IPs in your CLI using latency",
-      "score": 172,
-      "url": "https://blog.globalping.io/we-have-ipinfo-at-home-or-how-to-geolocate-ips-in-your-cli-using-latency/",
-      "time": 1769851805.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46834953"
-    },
-    {
-      "title": "My ridiculously robust photo management system (Immich edition)",
-      "score": 203,
-      "url": "https://jaisenmathai.com/articles/my-ridiculously-robust-photo-management-system-immich-edition/",
-      "time": 1769606276.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46794971"
-    },
-    {
-      "title": "Show HN: I trained a 9M speech model to fix my Mandarin tones",
-      "score": 412,
-      "url": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
-      "time": 1769820687.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46832074"
-    },
-    {
-      "title": "Guix System First Impressions as a Nix User",
-      "score": 107,
-      "url": "https://nemin.hu/guix.html",
-      "time": 1769858544.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46835612"
     }
   ]
 }
