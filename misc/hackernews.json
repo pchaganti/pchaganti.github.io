@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-02-02T07:37:02.768839-05:00",
+  "last_updated": "2026-02-02T10:30:30.249229-05:00",
   "stories": [
     {
-      "title": "Termux",
-      "score": 30,
-      "url": "https://github.com/termux/termux-app",
-      "time": 1770030224.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46854642"
+      "title": "Nano-vLLM: How a vLLM-style inference engine works",
+      "score": 78,
+      "url": "https://neutree.ai/blog/nano-vllm-part-1",
+      "time": 1770036755.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46855447"
     },
     {
-      "title": "Applications where agents are first-class citizens",
-      "score": 10,
-      "url": "https://every.to/guides/agent-native",
-      "time": 1770033572.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46855003"
+      "title": "Geologists may have solved mystery of Green River's 'uphill' route",
+      "score": 20,
+      "url": "https://phys.org/news/2026-01-geologists-mystery-green-river-uphill.html",
+      "time": 1770038953.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46855803"
     },
     {
-      "title": "Defeating a 40-year-old copy protection dongle",
-      "score": 629,
-      "url": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
-      "time": 1769981451.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46849567"
-    },
-    {
-      "title": "Microsoft is walking back Windows 11's AI overload",
-      "score": 39,
-      "url": "https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall",
-      "time": 1770033149.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46854951"
-    },
-    {
-      "title": "My (very) fast zero-allocation webserver using OxCaml",
-      "score": 8,
+      "title": "My fast zero-allocation webserver using OxCaml",
+      "score": 59,
       "url": "https://anil.recoil.org/notes/oxcaml-httpz",
       "time": 1770029144.0,
       "comments_url": "https://news.ycombinator.com/item?id=46854534"
     },
     {
-      "title": "Apple's MacBook Pro DFU port documentation is wrong",
-      "score": 126,
-      "url": "https://lapcatsoftware.com/articles/2026/2/1.html",
-      "time": 1770002995.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46852096"
+      "title": "Defeating a 40-year-old copy protection dongle",
+      "score": 715,
+      "url": "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle",
+      "time": 1769981451.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46849567"
+    },
+    {
+      "title": "4x faster network file sync with rclone (vs rsync) (2025)",
+      "score": 29,
+      "url": "https://www.jeffgeerling.com/blog/2025/4x-faster-network-file-sync-rclone-vs-rsync/",
+      "time": 1769743052.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46820142"
+    },
+    {
+      "title": "Termux",
+      "score": 210,
+      "url": "https://github.com/termux/termux-app",
+      "time": 1770030224.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46854642"
+    },
+    {
+      "title": "Hypergrowth isn’t always easy",
+      "score": 40,
+      "url": "https://tailscale.com/blog/hypergrowth-isnt-always-easy",
+      "time": 1769807841.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46830026"
+    },
+    {
+      "title": "MaliciousCorgi: AI Extensions send your code to China",
+      "score": 52,
+      "url": "https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers",
+      "time": 1770037198.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46855527"
+    },
+    {
+      "title": "Claude Code is suddenly everywhere inside Microsoft",
+      "score": 106,
+      "url": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
+      "time": 1770033538.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46854999"
     },
     {
       "title": "My iPhone 16 Pro Max produces garbage output when running MLX LLMs",
-      "score": 326,
+      "score": 369,
       "url": "https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/",
       "time": 1769979116.0,
       "comments_url": "https://news.ycombinator.com/item?id=46849258"
     },
     {
+      "title": "Apple's MacBook Pro DFU port documentation is wrong",
+      "score": 153,
+      "url": "https://lapcatsoftware.com/articles/2026/2/1.html",
+      "time": 1770002995.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46852096"
+    },
+    {
       "title": "Show HN: Apate API mocking/prototyping server and Rust unit test library",
-      "score": 7,
+      "score": 22,
       "url": "https://github.com/rustrum/apate",
       "time": 1769941747.0,
       "comments_url": "https://news.ycombinator.com/item?id=46845097"
     },
     {
-      "title": "Ratchets in Software Development",
-      "score": 51,
-      "url": "https://qntm.org/ratchet",
-      "time": 1769711508.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46814340"
-    },
-    {
-      "title": "EU must become a 'genuine federation' to avoid deindustrialisation and decline",
-      "score": 17,
-      "url": "https://www.euronews.com/my-europe/2026/02/02/eu-must-become-a-genuine-federation-to-avoid-deindustrialisation-and-decline-draghi-says",
-      "time": 1770034080.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46855059"
-    },
-    {
       "title": "Show HN: Wikipedia as a doomscrollable social media feed",
-      "score": 262,
+      "score": 324,
       "url": "https://xikipedia.org",
       "time": 1769991139.0,
       "comments_url": "https://news.ycombinator.com/item?id=46850803"
     },
     {
       "title": "Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation",
-      "score": 410,
+      "score": 451,
       "url": "https://github.com/gavrielc/nanoclaw",
       "time": 1769986162.0,
       "comments_url": "https://news.ycombinator.com/item?id=46850205"
     },
     {
-      "title": "Actors: A Model of Concurrent Computation [pdf] (1985)",
-      "score": 97,
-      "url": "https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf",
-      "time": 1769994675.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46851192"
+      "title": "Ratchets in software development (2021)",
+      "score": 78,
+      "url": "https://qntm.org/ratchet",
+      "time": 1769711508.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46814340"
     },
     {
-      "title": "Claude Code is suddenly everywhere inside Microsoft",
-      "score": 15,
-      "url": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
-      "time": 1770033538.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46854999"
+      "title": "Best Gas Masks",
+      "score": 284,
+      "url": "https://www.theverge.com/policy/868571/best-gas-masks",
+      "time": 1769709714.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46813867"
     },
     {
-      "title": "Contracts in Nix",
-      "score": 68,
-      "url": "https://sraka.xyz/posts/contracts.html",
-      "time": 1769933721.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46844466"
-    },
-    {
-      "title": "Apple I Advertisement (1976)",
-      "score": 246,
-      "url": "http://apple1.chez.com/Apple1project/Gallery/Gallery.htm",
-      "time": 1769967417.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46847780"
-    },
-    {
-      "title": "Adventure Game Studio: OSS software for creating adventure games",
-      "score": 340,
-      "url": "https://www.adventuregamestudio.co.uk/",
-      "time": 1769954216.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46846252"
+      "title": "Library of Juggling",
+      "score": 48,
+      "url": "https://libraryofjuggling.com/",
+      "time": 1770019129.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46853552"
     },
     {
       "title": "Ian's Shoelace Site",
-      "score": 210,
+      "score": 289,
       "url": "https://www.fieggen.com/shoelace/",
       "time": 1769971084.0,
       "comments_url": "https://news.ycombinator.com/item?id=46848231"
     },
     {
-      "title": "EU launches government satcom program in sovereignty push",
-      "score": 56,
-      "url": "https://spacenews.com/eu-launches-government-satcom-program-in-sovereignty-push/",
-      "time": 1770022780.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46853888"
+      "title": "Adventure Game Studio: OSS software for creating adventure games",
+      "score": 364,
+      "url": "https://www.adventuregamestudio.co.uk/",
+      "time": 1769954216.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46846252"
     },
     {
-      "title": "Treasures found on HS2 route stored in secret warehouse",
-      "score": 74,
-      "url": "https://www.bbc.com/news/articles/c93v21q5xdvo",
-      "time": 1769984079.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46849926"
+      "title": "Apple I Advertisement (1976)",
+      "score": 261,
+      "url": "http://apple1.chez.com/Apple1project/Gallery/Gallery.htm",
+      "time": 1769967417.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46847780"
     }
   ]
 }
