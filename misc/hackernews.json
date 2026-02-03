@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-02-02T20:17:46.403346-05:00",
+  "last_updated": "2026-02-02T23:41:12.481295-05:00",
   "stories": [
     {
-      "title": "xAI joins SpaceX",
-      "score": 407,
-      "url": "https://www.spacex.com/updates#xai-joins-spacex",
-      "time": 1770069082.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46862170"
+      "title": "How does misalignment scale with model intelligence and task complexity?",
+      "score": 129,
+      "url": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
+      "time": 1770078486.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46864498"
     },
     {
       "title": "The Codex App",
-      "score": 500,
+      "score": 574,
       "url": "https://openai.com/index/introducing-the-codex-app/",
       "time": 1770055368.0,
       "comments_url": "https://news.ycombinator.com/item?id=46859054"
     },
     {
       "title": "Anki ownership transferred to AnkiHub",
-      "score": 199,
+      "score": 284,
       "url": "https://forums.ankiweb.net/t/ankis-growing-up/68610",
       "time": 1770065335.0,
       "comments_url": "https://news.ycombinator.com/item?id=46861313"
     },
     {
       "title": "GitHub experience various partial-outages/degradations",
-      "score": 135,
+      "score": 169,
       "url": "https://www.githubstatus.com?todayis=2026-02-02",
       "time": 1770067696.0,
       "comments_url": "https://news.ycombinator.com/item?id=46861842"
     },
     {
-      "title": "The Hot Mess of AI",
-      "score": 27,
-      "url": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
-      "time": 1770078486.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46864498"
-    },
-    {
-      "title": "Ask HN: Who is hiring? (February 2026)",
-      "score": 235,
-      "url": "https://news.ycombinator.com/item?id=46857488",
-      "time": 1770048090.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46857488"
-    },
-    {
-      "title": "Julia",
-      "score": 16,
-      "url": "https://borretti.me/fiction/julia",
-      "time": 1770073079.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46863357"
-    },
-    {
-      "title": "Hacking Moltbook",
-      "score": 237,
-      "url": "https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys",
-      "time": 1770048516.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46857615"
+      "title": "Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition",
+      "score": 4,
+      "url": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
+      "time": 1770093205.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46866544"
     },
     {
       "title": "The Connection Machine CM-1 \"Feynman\" T-shirt",
-      "score": 11,
+      "score": 54,
       "url": "https://tamikothiel.com/cm/cm-tshirt.html",
       "time": 1769764248.0,
       "comments_url": "https://news.ycombinator.com/item?id=46822177"
     },
     {
-      "title": "Court orders restart of all US offshore wind power construction",
-      "score": 153,
-      "url": "https://arstechnica.com/science/2026/02/court-orders-restart-of-all-us-offshore-wind-construction/",
-      "time": 1770072304.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46863112"
-    },
-    {
-      "title": "Joedb, the Journal-Only Embedded Database",
-      "score": 31,
-      "url": "https://www.joedb.org/index.html",
-      "time": 1769790845.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46826454"
-    },
-    {
-      "title": "Firefox Getting New Controls to Turn Off AI Features",
-      "score": 49,
-      "url": "https://www.macrumors.com/2026/02/02/firefox-ai-toggle/",
-      "time": 1770076442.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46864120"
-    },
-    {
-      "title": "4x faster network file sync with rclone (vs rsync) (2025)",
-      "score": 256,
-      "url": "https://www.jeffgeerling.com/blog/2025/4x-faster-network-file-sync-rclone-vs-rsync/",
-      "time": 1769743052.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46820142"
-    },
-    {
-      "title": "Nano-vLLM: How a vLLM-style inference engine works",
-      "score": 216,
-      "url": "https://neutree.ai/blog/nano-vllm-part-1",
-      "time": 1770036755.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46855447"
-    },
-    {
-      "title": "Advancing AI Benchmarking with Game Arena",
-      "score": 103,
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
-      "time": 1770054547.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46858873"
-    },
-    {
-      "title": "The largest number representable in 64 bits",
-      "score": 77,
-      "url": "https://tromp.github.io/blog/2026/01/28/largest-number-revised",
-      "time": 1770057096.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46859443"
-    },
-    {
-      "title": "Zig Libc",
-      "score": 140,
-      "url": "https://ziglang.org/devlog/2026/#2026-01-31",
-      "time": 1770053299.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46858622"
+      "title": "xAI joins SpaceX",
+      "score": 560,
+      "url": "https://www.spacex.com/updates#xai-joins-spacex",
+      "time": 1770069082.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46862170"
     },
     {
       "title": "Todd C. Miller – Sudo maintainer for over 30 years",
-      "score": 286,
+      "score": 335,
       "url": "https://www.millert.dev/",
       "time": 1770053126.0,
       "comments_url": "https://news.ycombinator.com/item?id=46858577"
     },
     {
-      "title": "Ask HN: Who wants to be hired? (February 2026)",
-      "score": 95,
-      "url": "https://news.ycombinator.com/item?id=46857487",
-      "time": 1770048090.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46857487"
+      "title": "Carnegie Mellon Unversity Computer Club FTP Server",
+      "score": 38,
+      "url": "http://128.237.157.9/pub/",
+      "time": 1769666363.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46806346"
     },
     {
-      "title": "Geologists may have solved mystery of Green River's 'uphill' route",
-      "score": 140,
-      "url": "https://phys.org/news/2026-01-geologists-mystery-green-river-uphill.html",
-      "time": 1770038953.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46855803"
+      "title": "The TSA's New $45 Fee to Fly Without ID Is Illegal",
+      "score": 287,
+      "url": "https://www.frommers.com/tips/airfare/the-tsa-new-45-fee-to-fly-without-id-is-illegal-says-regulatory-expert/",
+      "time": 1770072490.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46863162"
+    },
+    {
+      "title": "Ask HN: Who is hiring? (February 2026)",
+      "score": 247,
+      "url": "https://news.ycombinator.com/item?id=46857488",
+      "time": 1770048090.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46857488"
+    },
+    {
+      "title": "Hacking Moltbook",
+      "score": 266,
+      "url": "https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys",
+      "time": 1770048516.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46857615"
+    },
+    {
+      "title": "Julia",
+      "score": 72,
+      "url": "https://borretti.me/fiction/julia",
+      "time": 1770073079.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46863357"
+    },
+    {
+      "title": "Court orders restart of all US offshore wind power construction",
+      "score": 270,
+      "url": "https://arstechnica.com/science/2026/02/court-orders-restart-of-all-us-offshore-wind-construction/",
+      "time": 1770072304.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46863112"
+    },
+    {
+      "title": "4x faster network file sync with rclone (vs rsync) (2025)",
+      "score": 277,
+      "url": "https://www.jeffgeerling.com/blog/2025/4x-faster-network-file-sync-rclone-vs-rsync/",
+      "time": 1769743052.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46820142"
+    },
+    {
+      "title": "Linux From Scratch ends SysVinit support",
+      "score": 114,
+      "url": "https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2026-02/msg00000.html",
+      "time": 1770054327.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46858829"
+    },
+    {
+      "title": "Firefox Getting New Controls to Turn Off AI Features",
+      "score": 121,
+      "url": "https://www.macrumors.com/2026/02/02/firefox-ai-toggle/",
+      "time": 1770076442.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46864120"
+    },
+    {
+      "title": "See how many words you have written in Hacker News comments",
+      "score": 14,
+      "url": "https://serjaimelannister.github.io/hn-words/",
+      "time": 1769802892.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46829029"
+    },
+    {
+      "title": "G Lang – A lightweight interpreter written in D (2.4MB)",
+      "score": 22,
+      "url": "https://news.ycombinator.com/item?id=46824411",
+      "time": 1769781364.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46824411"
+    },
+    {
+      "title": "Training a trillion parameter model to be funny",
+      "score": 30,
+      "url": "https://jokegen.sdan.io/blog",
+      "time": 1769533085.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46782692"
     }
   ]
 }
