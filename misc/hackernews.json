@@ -1,82 +1,131 @@
 {
-  "last_updated": "2026-02-03T10:40:22.663884-05:00",
+  "last_updated": "2026-02-03T13:43:17.794872-05:00",
   "stories": [
     {
+      "title": "Qwen3-Coder-Next",
+      "score": 285,
+      "url": "https://qwen.ai/blog?id=qwen3-coder-next",
+      "time": 1770134510.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46872706"
+    },
+    {
+      "title": "Deno Sandbox",
+      "score": 69,
+      "url": "https://deno.com/blog/introducing-deno-sandbox",
+      "time": 1770140000.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46874097"
+    },
+    {
+      "title": "Xcode 26.3 unlocks the power of agentic coding",
+      "score": 47,
+      "url": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
+      "time": 1770141848.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46874619"
+    },
+    {
       "title": "Agent Skills",
-      "score": 102,
+      "score": 241,
       "url": "https://agentskills.io/home",
       "time": 1770127794.0,
       "comments_url": "https://news.ycombinator.com/item?id=46871173"
     },
     {
+      "title": "Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust",
+      "score": 74,
+      "url": "https://github.com/j178/prek",
+      "time": 1770136174.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46873138"
+    },
+    {
+      "title": "France dumps Zoom and Teams as Europe seeks digital autonomy from the US",
+      "score": 219,
+      "url": "https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060",
+      "time": 1770136758.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46873294"
+    },
+    {
       "title": "What's up with all those equals signs anyway?",
-      "score": 344,
+      "score": 479,
       "url": "https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/",
       "time": 1770111460.0,
       "comments_url": "https://news.ycombinator.com/item?id=46868759"
     },
     {
-      "title": "GitHub Browser Plugin for AI Contribution Blame in Pull Requests",
-      "score": 14,
-      "url": "https://blog.rbby.dev/posts/github-ai-contribution-blame-for-pull-requests/",
-      "time": 1770129325.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46871473"
+      "title": "Launch HN: Modelence (YC S25) – App Builder with TypeScript / MongoDB Framework",
+      "score": 23,
+      "url": "https://news.ycombinator.com/item?id=46872733",
+      "time": 1770134601.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46872733"
     },
     {
-      "title": "Heritability of intrinsic human life span is about 50%",
-      "score": 25,
-      "url": "https://www.science.org/doi/10.1126/science.adz1187",
-      "time": 1769948002.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46845650"
+      "title": "Kilobyte is precisely 1000 bytes",
+      "score": 19,
+      "url": "https://waspdev.com/articles/2026-01-11/kilobyte-is-1000-bytes",
+      "time": 1770137630.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46873539"
     },
     {
-      "title": "Show HN: Sandboxing untrusted code using WebAssembly",
-      "score": 12,
-      "url": "https://github.com/mavdol/capsule",
-      "time": 1770128881.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46871387"
-    },
-    {
-      "title": "Show HN: difi – A Git diff TUI with Neovim integration (written in Go)",
-      "score": 11,
-      "url": "https://github.com/oug-t/difi",
-      "time": 1770126444.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46870917"
-    },
-    {
-      "title": "Ask HN: Is there anyone here who still uses slide rules?",
-      "score": 47,
-      "url": "https://news.ycombinator.com/item?id=46871179",
-      "time": 1770127821.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46871179"
-    },
-    {
-      "title": "Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition",
-      "score": 201,
-      "url": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
-      "time": 1770093205.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46866544"
+      "title": "Defining Safe Hardware Design [pdf]",
+      "score": 15,
+      "url": "https://people.csail.mit.edu/rachit/files/pubs/safe-hdls.pdf",
+      "time": 1770138724.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46873790"
     },
     {
       "title": "Bunny Database",
-      "score": 31,
+      "score": 154,
       "url": "https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/",
       "time": 1770120824.0,
       "comments_url": "https://news.ycombinator.com/item?id=46870015"
     },
     {
-      "title": "Show HN: Safe-now.live – Ultra-light emergency info site (<10KB)",
-      "score": 102,
-      "url": "https://safe-now.live",
-      "time": 1770109564.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46868479"
+      "title": "Heritability of intrinsic human life span is about 50%",
+      "score": 88,
+      "url": "https://www.science.org/doi/10.1126/science.adz1187",
+      "time": 1769948002.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46845650"
     },
     {
-      "title": "Show HN: Inverting Agent Model (App as Clients, Chat as Server and Reflection)",
+      "title": "AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines",
+      "score": 3,
+      "url": "https://github.com/alibaba/AliSQL",
+      "time": 1770144018.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46875228"
+    },
+    {
+      "title": "I made 20 GDPR deletion requests. 12 were ignored",
+      "score": 88,
+      "url": "https://nikolak.com/gdpr-failure/",
+      "time": 1770140902.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46874345"
+    },
+    {
+      "title": "221 Cannon Road Is Not for Sale",
+      "score": 19,
+      "url": "https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/",
+      "time": 1770137766.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46873574"
+    },
+    {
+      "title": "The Everdeck: A Universal Card System (2019)",
+      "score": 50,
+      "url": "https://thewrongtools.wordpress.com/2019/10/10/the-everdeck/",
+      "time": 1769611101.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46795961"
+    },
+    {
+      "title": "Show HN: C discrete event SIM w stackful coroutines runs 45x faster than SimPy",
       "score": 12,
-      "url": "https://github.com/RAIL-Suite/RAIL",
-      "time": 1770128209.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46871251"
+      "url": "https://github.com/ambonvik/cimba",
+      "time": 1770134947.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46872818"
+    },
+    {
+      "title": "Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition",
+      "score": 219,
+      "url": "https://krzysztofjankowski.com/floppinux/floppinux-2025.html",
+      "time": 1770093205.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46866544"
     },
     {
       "title": "Emerge Career (YC S22) is hiring a product designer",
@@ -86,60 +135,11 @@
       "comments_url": "https://news.ycombinator.com/item?id=46869901"
     },
     {
-      "title": "Banning lead in gas worked. The proof is in our hair",
-      "score": 176,
-      "url": "https://attheu.utah.edu/health-medicine/banning-lead-in-gas-worked-the-proof-is-in-our-hair/",
-      "time": 1770083541.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46865275"
-    },
-    {
-      "title": "The Codex App",
-      "score": 745,
-      "url": "https://openai.com/index/introducing-the-codex-app/",
-      "time": 1770055368.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46859054"
-    },
-    {
-      "title": "Anki ownership transferred to AnkiHub",
-      "score": 492,
-      "url": "https://forums.ankiweb.net/t/ankis-growing-up/68610",
-      "time": 1770065335.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46861313"
-    },
-    {
-      "title": "Todd C. Miller – Sudo maintainer for over 30 years",
-      "score": 540,
-      "url": "https://www.millert.dev/",
-      "time": 1770053126.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46858577"
-    },
-    {
-      "title": "How does misalignment scale with model intelligence and task complexity?",
-      "score": 217,
-      "url": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
-      "time": 1770078486.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46864498"
-    },
-    {
-      "title": "LNAI – Define AI coding tool configs once, sync to Claude, Cursor, Codex, etc.",
-      "score": 54,
-      "url": "https://github.com/KrystianJonca/lnai",
-      "time": 1770108357.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46868318"
-    },
-    {
-      "title": "GitHub experience various partial-outages/degradations",
-      "score": 243,
-      "url": "https://www.githubstatus.com?todayis=2026-02-02",
-      "time": 1770067696.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46861842"
-    },
-    {
-      "title": "A WhatsApp bug lets malicious media files spread through group chats",
-      "score": 9,
-      "url": "https://www.malwarebytes.com/blog/news/2026/01/a-whatsapp-bug-lets-malicious-media-files-spread-through-group-chats",
-      "time": 1770129506.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46871504"
+      "title": "Show HN: Sandboxing untrusted code using WebAssembly",
+      "score": 37,
+      "url": "https://github.com/mavdol/capsule",
+      "time": 1770128881.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46871387"
     }
   ]
 }
