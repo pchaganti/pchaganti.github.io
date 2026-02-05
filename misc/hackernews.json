@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-02-05T01:45:40.208176-05:00",
+  "last_updated": "2026-02-05T04:34:55.189067-05:00",
   "stories": [
     {
-      "title": "When internal hostnames are leaked to the clown",
-      "score": 81,
-      "url": "https://rachelbythebay.com/w/2026/02/03/badnas/",
-      "time": 1770268956.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46895972"
-    },
-    {
-      "title": "Voxtral Transcribe 2",
-      "score": 836,
-      "url": "https://mistral.ai/news/voxtral-transcribe-2",
-      "time": 1770217697.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46886735"
-    },
-    {
-      "title": "Postgres Postmaster does not scale",
-      "score": 73,
-      "url": "https://www.recall.ai/blog/postgres-postmaster-does-not-scale",
-      "time": 1770222651.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46887893"
-    },
-    {
       "title": "Don't rent the cloud, own instead",
-      "score": 14,
+      "score": 229,
       "url": "https://blog.comma.ai/datacenter/",
       "time": 1770270601.0,
       "comments_url": "https://news.ycombinator.com/item?id=46896146"
     },
     {
-      "title": "A few CPU hardware bugs",
-      "score": 24,
-      "url": "https://www.taricorp.net/2026/a-few-cpu-bugs/",
-      "time": 1770262783.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46895388"
+      "title": "When internal hostnames are leaked to the clown",
+      "score": 155,
+      "url": "https://rachelbythebay.com/w/2026/02/03/badnas/",
+      "time": 1770268956.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46895972"
+    },
+    {
+      "title": "Modernizing Linux swapping: introducing the swap table",
+      "score": 27,
+      "url": "https://lwn.net/SubscriberLink/1056405/e728d95dd16f5e1b/",
+      "time": 1770274723.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46896586"
+    },
+    {
+      "title": "Wirth's Revenge",
+      "score": 53,
+      "url": "https://jmoiron.net/blog/wirths-revenge/",
+      "time": 1770262706.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46895381"
+    },
+    {
+      "title": "Adobe Animate will be discontinued effective March 1, 2026",
+      "score": 20,
+      "url": "https://helpx.adobe.com/uk/animate/kb/end-of-life.html",
+      "time": 1770070442.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46862574"
     },
     {
       "title": "Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite",
-      "score": 126,
+      "score": 164,
       "url": "https://sqldef.github.io/",
       "time": 1769943402.0,
       "comments_url": "https://news.ycombinator.com/item?id=46845239"
     },
     {
-      "title": "ICE seeks industry input on ad tech location data for investigative use",
-      "score": 104,
-      "url": "https://www.biometricupdate.com/202602/ice-seeks-industry-input-on-ad-tech-location-data-for-investigative-use",
-      "time": 1770267721.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46895860"
+      "title": "Postgres Postmaster does not scale",
+      "score": 94,
+      "url": "https://www.recall.ai/blog/postgres-postmaster-does-not-scale",
+      "time": 1770222651.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46887893"
     },
     {
       "title": "Claude Code: connect to a local model when your quota runs out",
-      "score": 247,
+      "score": 273,
       "url": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
       "time": 1769949821.0,
       "comments_url": "https://news.ycombinator.com/item?id=46845845"
     },
     {
-      "title": "OpenClaw is what Apple intelligence should have been",
-      "score": 269,
-      "url": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
-      "time": 1770251286.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46893970"
+      "title": "A few CPU hardware bugs",
+      "score": 53,
+      "url": "https://www.taricorp.net/2026/a-few-cpu-bugs/",
+      "time": 1770262783.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46895388"
+    },
+    {
+      "title": "Study: Older Cannabis Users Have Larger Brains, Better Cognition",
+      "score": 24,
+      "url": "https://news.cuanschutz.edu/news-stories/study-finds-cannabis-usage-in-middle-aged-and-older-adults-associated-with-larger-brain-volume-better-cognitive-function",
+      "time": 1770268722.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46895950"
     },
     {
       "title": "AI is killing B2B SaaS",
-      "score": 308,
+      "score": 339,
       "url": "https://nmn.gl/blog/ai-killing-b2b-saas",
       "time": 1770224968.0,
       "comments_url": "https://news.ycombinator.com/item?id=46888441"
     },
     {
-      "title": "Claude Code for Infrastructure",
-      "score": 194,
-      "url": "https://www.fluid.sh/",
-      "time": 1770230048.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46889703"
-    },
-    {
-      "title": "Why S7 Scheme? (2020)",
-      "score": 11,
-      "url": "https://iainctduncan.github.io/scheme-for-max-docs/s7.html",
-      "time": 1769859336.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46835677"
+      "title": "OpenClaw is what Apple intelligence should have been",
+      "score": 317,
+      "url": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
+      "time": 1770251286.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46893970"
     },
     {
       "title": "A case study in PDF forensics: The Epstein PDFs",
-      "score": 273,
+      "score": 296,
       "url": "https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/",
       "time": 1770216406.0,
       "comments_url": "https://news.ycombinator.com/item?id=46886440"
     },
     {
-      "title": "Remarkable Pro Colors",
-      "score": 92,
-      "url": "https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/",
-      "time": 1769947920.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46845642"
+      "title": "Claude Code for Infrastructure",
+      "score": 212,
+      "url": "https://www.fluid.sh/",
+      "time": 1770230048.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46889703"
     },
     {
       "title": "Microsoft's Copilot chatbot is running into problems",
-      "score": 184,
+      "score": 206,
       "url": "https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28",
       "time": 1770221335.0,
       "comments_url": "https://news.ycombinator.com/item?id=46887564"
     },
     {
-      "title": "An interactive version of Byrne's The Elements of Euclid (1847)",
-      "score": 14,
-      "url": "https://c82.net/euclid/",
-      "time": 1770097796.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46867018"
+      "title": "Why S7 Scheme? (2020)",
+      "score": 21,
+      "url": "https://iainctduncan.github.io/scheme-for-max-docs/s7.html",
+      "time": 1769859336.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46835677"
+    },
+    {
+      "title": "Remarkable Pro Colors",
+      "score": 103,
+      "url": "https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/",
+      "time": 1769947920.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46845642"
     },
     {
       "title": "Building a 24-bit arcade CRT display adapter from scratch",
-      "score": 148,
+      "score": 158,
       "url": "https://www.scd31.com/posts/building-an-arcade-display-adapter",
       "time": 1770226505.0,
       "comments_url": "https://news.ycombinator.com/item?id=46888795"
     },
     {
       "title": "I built a search engine to index the un-indexable parts of Telegram",
-      "score": 9,
+      "score": 21,
       "url": "https://telehunt.org",
       "time": 1769965967.0,
       "comments_url": "https://news.ycombinator.com/item?id=46847603"
     },
     {
-      "title": "Listen to Understand",
-      "score": 31,
-      "url": "https://talk.bradwoods.io/blog/listen-to-understand/",
-      "time": 1769942979.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46845203"
-    },
-    {
-      "title": "Wirth's Revenge",
-      "score": 9,
-      "url": "https://jmoiron.net/blog/wirths-revenge/",
-      "time": 1770262706.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46895381"
+      "title": "Voxtral Transcribe 2",
+      "score": 892,
+      "url": "https://mistral.ai/news/voxtral-transcribe-2",
+      "time": 1770217697.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46886735"
     }
   ]
 }
