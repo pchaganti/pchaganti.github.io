@@ -1,44 +1,86 @@
 {
-  "last_updated": "2026-02-05T07:39:40.452718-05:00",
+  "last_updated": "2026-02-05T10:33:37.653743-05:00",
   "stories": [
     {
       "title": "Don't rent the cloud, own instead",
-      "score": 426,
+      "score": 671,
       "url": "https://blog.comma.ai/datacenter/",
       "time": 1770270601.0,
       "comments_url": "https://news.ycombinator.com/item?id=46896146"
     },
     {
+      "title": "Company as Code",
+      "score": 69,
+      "url": "https://blog.42futures.com/p/company-as-code",
+      "time": 1770296188.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46899132"
+    },
+    {
+      "title": "The New Collabora Office for Desktop",
+      "score": 27,
+      "url": "https://www.collaboraonline.com/collabora-office/",
+      "time": 1770299279.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46899591"
+    },
+    {
       "title": "When internal hostnames are leaked to the clown",
-      "score": 237,
+      "score": 305,
       "url": "https://rachelbythebay.com/w/2026/02/03/badnas/",
       "time": 1770268956.0,
       "comments_url": "https://news.ycombinator.com/item?id=46895972"
     },
     {
+      "title": "CIA to Sunset the World Factbook",
+      "score": 158,
+      "url": "https://www.abc.net.au/news/2026-02-05/cia-closes-world-factbook-online-resource/106307724",
+      "time": 1770295992.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46899100"
+    },
+    {
+      "title": "Programming Patterns: The Story of the Jacquard Loom",
+      "score": 22,
+      "url": "https://www.scienceandindustrymuseum.org.uk/objects-and-stories/jacquard-loom",
+      "time": 1769960595.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46846940"
+    },
+    {
+      "title": "A Broken Heart",
+      "score": 67,
+      "url": "https://allenpike.com/2026/a-broken-heart/",
+      "time": 1769932686.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46844393"
+    },
+    {
+      "title": "Simply Scheme: Introducing Computer Science (1999)",
+      "score": 46,
+      "url": "https://people.eecs.berkeley.edu/~bh/ss-toc2.html",
+      "time": 1769949330.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46845790"
+    },
+    {
       "title": "The Missing Layer",
-      "score": 20,
+      "score": 44,
       "url": "https://yagmin.com/blog/the-missing-layer/",
       "time": 1770288417.0,
       "comments_url": "https://news.ycombinator.com/item?id=46898223"
     },
     {
-      "title": "Nanobot: Ultra-Lightweight Alternative to OpenClaw",
-      "score": 44,
-      "url": "https://github.com/HKUDS/nanobot",
-      "time": 1770284351.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46897737"
-    },
-    {
       "title": "Show HN: Micropolis/SimCity Clone in Emacs Lisp",
-      "score": 38,
+      "score": 81,
       "url": "https://github.com/vkazanov/elcity",
       "time": 1770281173.0,
       "comments_url": "https://news.ycombinator.com/item?id=46897332"
     },
     {
+      "title": "GB Renewables Map",
+      "score": 16,
+      "url": "https://renewables-map.robinhawkes.com/",
+      "time": 1770295681.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46899066"
+    },
+    {
       "title": "Making Ferrite Core Inductors at Home",
-      "score": 29,
+      "score": 60,
       "url": "https://danielmangum.com/posts/making-ferrite-core-inductors-home/",
       "time": 1770034066.0,
       "comments_url": "https://news.ycombinator.com/item?id=46855057"
@@ -51,95 +93,53 @@
       "comments_url": "https://news.ycombinator.com/item?id=46898713"
     },
     {
+      "title": "CG/SQL – SQL dialect compiler to C for sqlite3 mimicking stored procedures",
+      "score": 4,
+      "url": "https://ricomariani.github.io/CG-SQL-author/",
+      "time": 1769934330.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46844511"
+    },
+    {
+      "title": "Nanobot: Ultra-Lightweight Alternative to OpenClaw",
+      "score": 93,
+      "url": "https://github.com/HKUDS/nanobot",
+      "time": 1770284351.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46897737"
+    },
+    {
+      "title": "Top downloaded skill in ClawHub contains malware",
+      "score": 117,
+      "url": "https://1password.com/blog/from-magic-to-malware-how-openclaws-agent-skills-become-an-attack-surface",
+      "time": 1770291903.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46898615"
+    },
+    {
       "title": "Wirth's Revenge",
-      "score": 86,
+      "score": 122,
       "url": "https://jmoiron.net/blog/wirths-revenge/",
       "time": 1770262706.0,
       "comments_url": "https://news.ycombinator.com/item?id=46895381"
     },
     {
-      "title": "Battle-Testing Lynx at Allegro",
+      "title": "Improving Unnesting of Complex Queries [pdf]",
       "score": 16,
-      "url": "https://blog.allegro.tech/2026/02/battle-testing-lynx-js-at-allegro.html",
-      "time": 1770284963.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46897810"
+      "url": "https://15799.courses.cs.cmu.edu/spring2025/papers/11-unnesting/neumann-btw2025.pdf",
+      "time": 1769882967.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46839036"
     },
     {
       "title": "Sqldef: Idempotent schema management tool for MySQL, PostgreSQL, SQLite",
-      "score": 191,
+      "score": 223,
       "url": "https://sqldef.github.io/",
       "time": 1769943402.0,
       "comments_url": "https://news.ycombinator.com/item?id=46845239"
     },
     {
       "title": "Claude Code: connect to a local model when your quota runs out",
-      "score": 304,
+      "score": 337,
       "url": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
       "time": 1769949821.0,
       "comments_url": "https://news.ycombinator.com/item?id=46845845"
-    },
-    {
-      "title": "Simply Scheme: Introducing Computer Science (1999)",
-      "score": 4,
-      "url": "https://people.eecs.berkeley.edu/~bh/ss-toc2.html",
-      "time": 1769949330.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46845790"
-    },
-    {
-      "title": "A case study in PDF forensics: The Epstein PDFs",
-      "score": 324,
-      "url": "https://pdfa.org/a-case-study-in-pdf-forensics-the-epstein-pdfs/",
-      "time": 1770216406.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46886440"
-    },
-    {
-      "title": "AI is killing B2B SaaS",
-      "score": 373,
-      "url": "https://nmn.gl/blog/ai-killing-b2b-saas",
-      "time": 1770224968.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46888441"
-    },
-    {
-      "title": "A few CPU hardware bugs",
-      "score": 75,
-      "url": "https://www.taricorp.net/2026/a-few-cpu-bugs/",
-      "time": 1770262783.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46895388"
-    },
-    {
-      "title": "Data breach: DOGE 'accidentally' leaked the whole Social Security database [pdf]",
-      "score": 79,
-      "url": "https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.197.0.pdf",
-      "time": 1770284323.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46897732"
-    },
-    {
-      "title": "Microsoft's Copilot chatbot is running into problems",
-      "score": 228,
-      "url": "https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28",
-      "time": 1770221335.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46887564"
-    },
-    {
-      "title": "Claude Code for Infrastructure",
-      "score": 231,
-      "url": "https://www.fluid.sh/",
-      "time": 1770230048.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46889703"
-    },
-    {
-      "title": "OpenClaw is what Apple intelligence should have been",
-      "score": 364,
-      "url": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
-      "time": 1770251286.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46893970"
-    },
-    {
-      "title": "A Broken Heart",
-      "score": 9,
-      "url": "https://allenpike.com/2026/a-broken-heart/",
-      "time": 1769932686.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46844393"
     }
   ]
 }
