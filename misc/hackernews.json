@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-02-05T23:42:35.384276-05:00",
+  "last_updated": "2026-02-06T01:41:35.845259-05:00",
   "stories": [
     {
       "title": "Claude Opus 4.6",
-      "score": 1712,
+      "score": 1810,
       "url": "https://www.anthropic.com/news/claude-opus-4-6",
       "time": 1770313133.0,
       "comments_url": "https://news.ycombinator.com/item?id=46902223"
     },
     {
+      "title": "Things Unix can do atomically (2010)",
+      "score": 31,
+      "url": "https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html",
+      "time": 1770355795.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46909468"
+    },
+    {
+      "title": "Systems Thinking",
+      "score": 27,
+      "url": "http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html",
+      "time": 1770355476.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46909439"
+    },
+    {
       "title": "GPT-5.3-Codex",
-      "score": 1150,
+      "score": 1213,
       "url": "https://openai.com/index/introducing-gpt-5-3-codex/",
       "time": 1770314888.0,
       "comments_url": "https://news.ycombinator.com/item?id=46902638"
     },
     {
-      "title": "GitHub Actions is slowly killing engineering teams",
-      "score": 56,
-      "url": "https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/",
-      "time": 1770346711.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46908491"
-    },
-    {
       "title": "My AI Adoption Journey",
-      "score": 430,
+      "score": 491,
       "url": "https://mitchellh.com/writing/my-ai-adoption-journey",
       "time": 1770318280.0,
       "comments_url": "https://news.ycombinator.com/item?id=46903558"
     },
     {
       "title": "We tasked Opus 4.6 using agent teams to build a C Compiler",
-      "score": 443,
+      "score": 480,
       "url": "https://www.anthropic.com/engineering/building-c-compiler",
       "time": 1770318471.0,
       "comments_url": "https://news.ycombinator.com/item?id=46903616"
     },
     {
       "title": "Recreating Epstein PDFs from raw encoded attachments",
-      "score": 271,
+      "score": 298,
       "url": "https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/",
       "time": 1770232747.0,
       "comments_url": "https://news.ycombinator.com/item?id=46890335"
     },
     {
-      "title": "Pong Cam – My ESP32S3 Thinks It's a WebCam",
-      "score": 36,
-      "url": "https://www.atomic14.com/2026/02/01/pong-cam",
-      "time": 1769942216.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46845135"
+      "title": "Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust",
+      "score": 7,
+      "url": "https://github.com/artifact-keeper",
+      "time": 1770351179.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46909037"
     },
     {
-      "title": "Animated Knots",
-      "score": 105,
-      "url": "https://www.animatedknots.com/",
-      "time": 1770038285.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46855697"
+      "title": "Unlocking high-performance PostgreSQL with key memory optimizations",
+      "score": 24,
+      "url": "https://stormatics.tech/blogs/unlocking-high-performance-postgresql-key-memory-optimizations",
+      "time": 1770015956.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46853261"
     },
     {
       "title": "I reversed Tower of Fantasy's anti-cheat driver: a BYOVD toolkit never loaded",
-      "score": 19,
+      "score": 39,
       "url": "https://vespalec.com/blog/tower-of-flaws/",
       "time": 1770348149.0,
       "comments_url": "https://news.ycombinator.com/item?id=46908671"
     },
     {
+      "title": "GitHub Actions is slowly killing engineering teams",
+      "score": 146,
+      "url": "https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/",
+      "time": 1770346711.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46908491"
+    },
+    {
+      "title": "Animated Knots",
+      "score": 136,
+      "url": "https://www.animatedknots.com/",
+      "time": 1770038285.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46855697"
+    },
+    {
+      "title": "How to carry more than your own bodyweight (2025)",
+      "score": 6,
+      "url": "https://www.bbc.com/future/article/20250124-how-to-carry-more-than-your-own-bodyweight",
+      "time": 1770087338.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46865849"
+    },
+    {
+      "title": "Waiting for Postgres 19: Better planner hints with path generation strategies [video]",
+      "score": 12,
+      "url": "https://www.youtube.com/watch?v=QLb3nhIy2Lc",
+      "time": 1770348351.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46908700"
+    },
+    {
       "title": "Review of 1984 by Isaac Asimov (1980)",
-      "score": 116,
+      "score": 128,
       "url": "https://www.newworker.org/ncptrory/1984.htm",
       "time": 1770327597.0,
       "comments_url": "https://news.ycombinator.com/item?id=46905761"
     },
     {
       "title": "MenuetOS – a GUI OS that boots from a single floppy disk",
-      "score": 125,
+      "score": 133,
       "url": "https://www.menuetos.net/",
       "time": 1770102214.0,
       "comments_url": "https://news.ycombinator.com/item?id=46867526"
     },
     {
-      "title": "C isn't a programming language anymore (2022)",
-      "score": 48,
-      "url": "https://faultlore.com/blah/c-isnt-a-language/",
-      "time": 1770336955.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46907350"
-    },
-    {
       "title": "The RCE that AMD won't fix",
-      "score": 98,
+      "score": 136,
       "url": "https://mrbruh.com/amd/",
       "time": 1770334158.0,
       "comments_url": "https://news.ycombinator.com/item?id=46906947"
     },
     {
-      "title": "Launching My Side Project as a Solo Dev: The Walkthrough",
-      "score": 50,
-      "url": "https://alt-romes.github.io/posts/2026-01-30-from-side-project-to-kickstarter-a-walkthrough.html",
-      "time": 1769947092.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46845567"
-    },
-    {
       "title": "Claude Opus 4.6 extra usage promo",
-      "score": 135,
+      "score": 146,
       "url": "https://support.claude.com/en/articles/13613973-claude-opus-4-6-extra-usage-promo",
       "time": 1770322548.0,
       "comments_url": "https://news.ycombinator.com/item?id=46904569"
     },
     {
       "title": "LinkedIn checks for 2953 browser extensions",
-      "score": 340,
+      "score": 360,
       "url": "https://github.com/mdp/linkedin-extension-fingerprinting",
       "time": 1770321639.0,
       "comments_url": "https://news.ycombinator.com/item?id=46904361"
     },
     {
-      "title": "Hypernetworks: Neural Networks for Hierarchical Data",
-      "score": 47,
-      "url": "https://blog.sturdystatistics.com/posts/hnet_part_I/",
-      "time": 1770310538.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46901716"
-    },
-    {
-      "title": "Unlocking high-performance PostgreSQL with key memory optimizations",
-      "score": 8,
-      "url": "https://stormatics.tech/blogs/unlocking-high-performance-postgresql-key-memory-optimizations",
-      "time": 1770015956.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46853261"
-    },
-    {
-      "title": "Why we need to know about CORS (2020)",
-      "score": 20,
-      "url": "https://evan-moon.github.io/2020/05/21/about-cors/en/",
-      "time": 1769932672.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46844391"
-    },
-    {
-      "title": "What if writing tests was a joyful experience? (2023)",
-      "score": 47,
-      "url": "https://blog.janestreet.com/the-joy-of-expect-tests/",
-      "time": 1770328311.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46905896"
+      "title": "The browser catches homograph attacks, the terminal doesn't",
+      "score": 42,
+      "url": "https://github.com/sheeki03/tirith",
+      "time": 1770123979.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46870501"
     }
   ]
 }
