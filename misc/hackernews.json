@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-02-06T16:22:20.807541-05:00",
+  "last_updated": "2026-02-06T20:12:07.166853-05:00",
   "stories": [
     {
+      "title": "OpenCiv3: Open-source, cross-platform reimagining of Civilization III",
+      "score": 296,
+      "url": "https://openciv3.org/",
+      "time": 1770414683.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46918612"
+    },
+    {
       "title": "The Waymo World Model",
-      "score": 463,
+      "score": 692,
       "url": "https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation",
       "time": 1770394842.0,
       "comments_url": "https://news.ycombinator.com/item?id=46914785"
     },
     {
+      "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
+      "score": 101,
+      "url": "https://github.com/valdanylchuk/breezydemo",
+      "time": 1770413591.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46918429"
+    },
+    {
+      "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
+      "score": 75,
+      "url": "https://github.com/pydantic/monty",
+      "time": 1770412596.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46918254"
+    },
+    {
       "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
-      "score": 118,
+      "score": 214,
       "url": "https://vecti.com",
       "time": 1770406057.0,
       "comments_url": "https://news.ycombinator.com/item?id=46917033"
     },
     {
-      "title": "How to effectively write quality code with AI",
-      "score": 56,
-      "url": "https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/",
-      "time": 1770403799.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46916586"
-    },
-    {
-      "title": "Show HN: If you lose your memory, how to regain access to your computer?",
-      "score": 47,
-      "url": "https://eljojo.github.io/rememory/",
-      "time": 1770403918.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46916609"
+      "title": "A century of hair samples proves leaded gas ban worked",
+      "score": 20,
+      "url": "https://arstechnica.com/science/2026/02/a-century-of-hair-samples-proves-leaded-gas-ban-worked/",
+      "time": 1770097131.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46866937"
     },
     {
       "title": "Microsoft open-sources LiteBox, a security-focused library OS",
-      "score": 230,
+      "score": 289,
       "url": "https://github.com/microsoft/litebox",
       "time": 1770390784.0,
       "comments_url": "https://news.ycombinator.com/item?id=46913793"
     },
     {
       "title": "Sheldon Brown's Bicycle Technical Info",
-      "score": 208,
+      "score": 285,
       "url": "https://www.sheldonbrown.com/",
       "time": 1770392442.0,
       "comments_url": "https://news.ycombinator.com/item?id=46914159"
     },
     {
-      "title": "Learning from context is harder than we thought",
-      "score": 80,
-      "url": "https://hy.tencent.com/research/100025?langVersion=en",
-      "time": 1770124057.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46870514"
+      "title": "Show HN: R3forth, a ColorForth-inspired language with a tiny VM",
+      "score": 37,
+      "url": "https://github.com/phreda4/r3",
+      "time": 1770415813.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46918824"
     },
     {
-      "title": "Understanding Neural Network, Visually",
-      "score": 174,
-      "url": "https://visualrambling.space/neural-network/",
-      "time": 1770130151.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46871654"
-    },
-    {
-      "title": "I spent 5 years in DevOps – Solutions engineering gave me what I was missing",
-      "score": 30,
-      "url": "https://infisical.com/blog/devops-to-solutions-engineering",
-      "time": 1770396347.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46915102"
-    },
-    {
-      "title": "I now assume that all ads on Apple news are scams",
-      "score": 834,
-      "url": "https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/",
-      "time": 1770380203.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46911901"
-    },
-    {
-      "title": "Show HN: BioTradingArena – Benchmark for LLMs to predict biotech stock movements",
-      "score": 11,
-      "url": "https://www.biotradingarena.com/hn",
-      "time": 1770397912.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46915427"
-    },
-    {
-      "title": "An Update on Heroku",
-      "score": 142,
-      "url": "https://www.heroku.com/blog/an-update-on-heroku/",
-      "time": 1770391223.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46913903"
-    },
-    {
-      "title": "Masked namespace vulnerability in Temporal",
-      "score": 9,
-      "url": "https://depthfirst.com/post/the-masked-namespace-vulnerability-in-temporal-cve-2025-14986",
-      "time": 1770408295.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46917477"
-    },
-    {
-      "title": "Show HN: Smooth CLI – Token-efficient browser for AI agents",
-      "score": 50,
-      "url": "https://docs.smooth.sh/cli/overview",
-      "time": 1770308013.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46901233"
-    },
-    {
-      "title": "Planetary Roller Screws",
-      "score": 12,
-      "url": "https://www.humanityslastmachine.com/#planetary-roller-screws",
-      "time": 1770109199.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46868435"
-    },
-    {
-      "title": "Claude Composer",
-      "score": 8,
-      "url": "https://www.josh.ing/blog/claude-composer",
-      "time": 1770238769.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46891689"
+      "title": "Show HN: If you lose your memory, how to regain access to your computer?",
+      "score": 122,
+      "url": "https://eljojo.github.io/rememory/",
+      "time": 1770403918.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46916609"
     },
     {
       "title": "Hackers (1995) Animated Experience",
-      "score": 286,
+      "score": 358,
       "url": "https://hackers-1995.vercel.app/",
       "time": 1770385795.0,
       "comments_url": "https://news.ycombinator.com/item?id=46912800"
     },
     {
-      "title": "A new bill in New York would require disclaimers on AI-generated news content",
-      "score": 469,
-      "url": "https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/",
-      "time": 1770371815.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46910963"
+      "title": "How to effectively write quality code with AI",
+      "score": 144,
+      "url": "https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/",
+      "time": 1770403799.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46916586"
     },
     {
-      "title": "Invention of DNA \"page numbers\" opens up possibilities for the bioeconomy",
-      "score": 130,
-      "url": "https://www.caltech.edu/about/news/invention-dna-page-numbers-synthesis-kaihang-wang",
-      "time": 1770373576.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46911170"
+      "title": "I spent 5 years in DevOps – Solutions engineering gave me what I was missing",
+      "score": 86,
+      "url": "https://infisical.com/blog/devops-to-solutions-engineering",
+      "time": 1770396347.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46915102"
     },
     {
-      "title": "Things Unix can do atomically (2010)",
-      "score": 234,
-      "url": "https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html",
-      "time": 1770355795.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46909468"
+      "title": "An Update on Heroku",
+      "score": 278,
+      "url": "https://www.heroku.com/blog/an-update-on-heroku/",
+      "time": 1770391223.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46913903"
+    },
+    {
+      "title": "Learning from context is harder than we thought",
+      "score": 127,
+      "url": "https://hy.tencent.com/research/100025?langVersion=en",
+      "time": 1770124057.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46870514"
+    },
+    {
+      "title": "Early Christian Writings",
+      "score": 126,
+      "url": "https://earlychristianwritings.com/",
+      "time": 1770415246.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46918727"
+    },
+    {
+      "title": "Understanding Neural Network, Visually",
+      "score": 215,
+      "url": "https://visualrambling.space/neural-network/",
+      "time": 1770130151.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46871654"
+    },
+    {
+      "title": "FORTH? Really!?",
+      "score": 22,
+      "url": "https://rescrv.net/w/2026/02/06/associative",
+      "time": 1770386049.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46912843"
+    },
+    {
+      "title": "Claude Composer",
+      "score": 79,
+      "url": "https://www.josh.ing/blog/claude-composer",
+      "time": 1770238769.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46891689"
+    },
+    {
+      "title": "Evaluating and mitigating the growing risk of LLM-discovered 0-days",
+      "score": 24,
+      "url": "https://red.anthropic.com/2026/zero-days/",
+      "time": 1770313837.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46902374"
     }
   ]
 }
