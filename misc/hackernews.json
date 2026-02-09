@@ -1,142 +1,142 @@
 {
-  "last_updated": "2026-02-09T01:55:15.942312-05:00",
+  "last_updated": "2026-02-09T04:53:01.799278-05:00",
   "stories": [
     {
-      "title": "Claude’s C Compiler vs. GCC",
-      "score": 126,
-      "url": "https://harshanu.space/en/tech/ccc-vs-gcc/",
-      "time": 1770611438.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46941603"
-    },
-    {
       "title": "Art of Roads in Games",
-      "score": 184,
+      "score": 297,
       "url": "https://sandboxspirit.com/blog/art-of-roads-in-games/",
       "time": 1770584724.0,
       "comments_url": "https://news.ycombinator.com/item?id=46938511"
     },
     {
       "title": "Vouch",
-      "score": 754,
+      "score": 843,
       "url": "https://github.com/mitchellh/vouch",
       "time": 1770520168.0,
       "comments_url": "https://news.ycombinator.com/item?id=46930961"
     },
     {
       "title": "LispE: Lisp Interpreter with Pattern Programming and Lazy Evaluation",
-      "score": 15,
+      "score": 51,
       "url": "https://github.com/naver/lispe",
       "time": 1770230069.0,
       "comments_url": "https://news.ycombinator.com/item?id=46889710"
     },
     {
-      "title": "TSMC to make advanced AI semiconductors in Japan",
-      "score": 74,
-      "url": "https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5",
-      "time": 1770611894.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46941640"
-    },
-    {
-      "title": "Reverse Engineering the Prom for the SGI O2",
-      "score": 81,
-      "url": "https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/",
-      "time": 1770589525.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46939187"
-    },
-    {
-      "title": "Custom Firmware for the MZ-RH1 – Ready for Testing",
-      "score": 28,
-      "url": "https://sir68k.re/posts/rh1-firmware-available/",
-      "time": 1770213459.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46885841"
-    },
-    {
       "title": "Show HN: A custom font that displays Cistercian numerals using ligatures",
-      "score": 61,
+      "score": 88,
       "url": "https://bobbiec.github.io/cistercian-font.html",
       "time": 1770590386.0,
       "comments_url": "https://news.ycombinator.com/item?id=46939312"
     },
     {
-      "title": "Apple XNU: Clutch Scheduler",
-      "score": 129,
-      "url": "https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md",
-      "time": 1770583135.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46938280"
-    },
-    {
-      "title": "More Mac malware from Google search",
-      "score": 153,
-      "url": "https://eclecticlight.co/2026/01/30/more-malware-from-google-search/",
-      "time": 1770583975.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46938398"
+      "title": "Claude’s C Compiler vs. GCC",
+      "score": 248,
+      "url": "https://harshanu.space/en/tech/ccc-vs-gcc/",
+      "time": 1770611438.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46941603"
     },
     {
       "title": "Every book recommended on the Odd Lots Discord",
-      "score": 72,
+      "score": 94,
       "url": "https://odd-lots-books.netlify.app/",
       "time": 1770593279.0,
       "comments_url": "https://news.ycombinator.com/item?id=46939685"
     },
     {
-      "title": "Quartz crystals",
-      "score": 56,
-      "url": "https://www.pa3fwm.nl/technotes/tn13a.html",
-      "time": 1770539196.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46932444"
+      "title": "Apple XNU: Clutch Scheduler",
+      "score": 137,
+      "url": "https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md",
+      "time": 1770583135.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46938280"
+    },
+    {
+      "title": "Clean Coder: The Dark Path (2017)",
+      "score": 4,
+      "url": "https://blog.cleancoder.com/uncle-bob/2017/01/11/TheDarkPath.html",
+      "time": 1770221766.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46887665"
+    },
+    {
+      "title": "Custom Firmware for the MZ-RH1 – Ready for Testing",
+      "score": 46,
+      "url": "https://sir68k.re/posts/rh1-firmware-available/",
+      "time": 1770213459.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46885841"
+    },
+    {
+      "title": "More Mac malware from Google search",
+      "score": 184,
+      "url": "https://eclecticlight.co/2026/01/30/more-malware-from-google-search/",
+      "time": 1770583975.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46938398"
+    },
+    {
+      "title": "TSMC to make advanced AI semiconductors in Japan",
+      "score": 156,
+      "url": "https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5",
+      "time": 1770611894.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46941640"
     },
     {
       "title": "Ask HN: What are you working on? (February 2026)",
-      "score": 122,
+      "score": 151,
       "url": "https://news.ycombinator.com/item?id=46937696",
       "time": 1770579355.0,
       "comments_url": "https://news.ycombinator.com/item?id=46937696"
     },
     {
-      "title": "Cooking with glasses",
-      "score": 17,
-      "url": "https://macwright.com/2025/09/21/cooking-with-glasses",
-      "time": 1770304052.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46900447"
-    },
-    {
-      "title": "Nobody knows how the whole system works",
-      "score": 11,
-      "url": "https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/",
-      "time": 1770614895.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46941882"
-    },
-    {
       "title": "Show HN: I created a Mars colony RPG based on Kim Stanley Robinson’s Mars books",
-      "score": 178,
+      "score": 203,
       "url": "https://underhillgame.com/",
       "time": 1770570510.0,
       "comments_url": "https://news.ycombinator.com/item?id=46936237"
     },
     {
-      "title": "Show HN: Horizons – OSS agent execution engine",
-      "score": 29,
-      "url": "https://github.com/synth-laboratories/Horizons",
-      "time": 1770339511.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46907651"
+      "title": "Quartz crystals",
+      "score": 73,
+      "url": "https://www.pa3fwm.nl/technotes/tn13a.html",
+      "time": 1770539196.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46932444"
+    },
+    {
+      "title": "Reverse Engineering the Prom for the SGI O2",
+      "score": 91,
+      "url": "https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/",
+      "time": 1770589525.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46939187"
     },
     {
       "title": "Roundcube Webmail: SVG feImage bypasses image blocking to track email opens",
-      "score": 126,
+      "score": 141,
       "url": "https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/",
       "time": 1770575066.0,
       "comments_url": "https://news.ycombinator.com/item?id=46937012"
     },
     {
-      "title": "Stop generating, start thinking",
-      "score": 99,
-      "url": "https://localghost.dev/blog/stop-generating-start-thinking/",
-      "time": 1770587899.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46938958"
+      "title": "Werewolf Vflex Adapter Review",
+      "score": 4,
+      "url": "https://hagensieker.com/2026/02/05/werewolf-vflex-adapter-review/",
+      "time": 1770300851.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46899833"
+    },
+    {
+      "title": "The Little Bool of Doom (2025)",
+      "score": 106,
+      "url": "https://blog.svgames.pl/article/the-little-bool-of-doom",
+      "time": 1770573770.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46936828"
+    },
+    {
+      "title": "Cooking with glasses",
+      "score": 24,
+      "url": "https://macwright.com/2025/09/21/cooking-with-glasses",
+      "time": 1770304052.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46900447"
     },
     {
       "title": "A tough labor market for white-collar workers has turned recruiting upside down",
-      "score": 24,
+      "score": 48,
       "url": "https://www.wsj.com/lifestyle/careers/job-hunters-are-so-desperate-that-theyre-paying-to-get-recruited-44891ac2",
       "time": 1770614617.0,
       "comments_url": "https://news.ycombinator.com/item?id=46941850"
