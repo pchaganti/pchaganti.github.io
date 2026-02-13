@@ -1,82 +1,110 @@
 {
-  "last_updated": "2026-02-13T10:33:28.332204-05:00",
+  "last_updated": "2026-02-13T13:34:33.729406-05:00",
   "stories": [
     {
-      "title": "Zed editor switching graphics lib from blade to wgpu",
-      "score": 108,
-      "url": "https://github.com/zed-industries/zed/pull/46758",
-      "time": 1770991394.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47002825"
-    },
-    {
       "title": "Monosketch",
-      "score": 243,
+      "score": 469,
       "url": "https://monosketch.io/",
       "time": 1770985085.0,
       "comments_url": "https://news.ycombinator.com/item?id=47001871"
     },
     {
-      "title": "Open Source Is Not About You (2018)",
-      "score": 44,
-      "url": "https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9",
-      "time": 1770993388.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47003219"
-    },
-    {
-      "title": "Resizing windows on macOS Tahoe – the saga continues",
-      "score": 713,
-      "url": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
-      "time": 1770940344.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46997008"
-    },
-    {
-      "title": "Green’s Dictionary of Slang - Five hundred years of the vulgar tongue",
-      "score": 22,
-      "url": "https://greensdictofslang.com/",
-      "time": 1770527436.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46931482"
-    },
-    {
-      "title": "MinIO repository is no longer maintained",
-      "score": 344,
-      "url": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
-      "time": 1770968763.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47000041"
-    },
-    {
-      "title": "Faster Than Dijkstra?",
-      "score": 9,
-      "url": "https://systemsapproach.org/2026/02/09/faster-than-dijkstra/",
-      "time": 1770690994.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46954637"
-    },
-    {
-      "title": "Show HN: I speak 5 languages. Duolingo taught me none. So I built lairner",
-      "score": 8,
-      "url": "https://lairner.com",
-      "time": 1770995512.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47003596"
-    },
-    {
       "title": "Apple, fix my keyboard before the timer ends or I'm leaving iPhone",
-      "score": 83,
+      "score": 526,
       "url": "https://ios-countdown.win/",
       "time": 1770992461.0,
       "comments_url": "https://news.ycombinator.com/item?id=47003064"
     },
     {
-      "title": "Implementing Auto Tiling with Just 5 Tiles",
-      "score": 36,
-      "url": "https://www.kyledunbar.dev/2026/02/05/Implementing-auto-tiling-with-just-5-tiles.html",
-      "time": 1770514656.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46930461"
+      "title": "Open Source Is Not About You (2018)",
+      "score": 136,
+      "url": "https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9",
+      "time": 1770993388.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47003219"
+    },
+    {
+      "title": "CBP Signs Clearview AI Deal to Use Face Recognition for 'Tactical Targeting'",
+      "score": 105,
+      "url": "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/",
+      "time": 1771002781.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47005081"
+    },
+    {
+      "title": "Zed editor switching graphics lib from blade to wgpu",
+      "score": 227,
+      "url": "https://github.com/zed-industries/zed/pull/46758",
+      "time": 1770991394.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47002825"
+    },
+    {
+      "title": "Sandwich Bill of Materials",
+      "score": 40,
+      "url": "https://nesbitt.io/2026/02/08/sandwich-bill-of-materials.html",
+      "time": 1770592554.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46939613"
+    },
+    {
+      "title": "Green’s Dictionary of Slang - Five hundred years of the vulgar tongue",
+      "score": 61,
+      "url": "https://greensdictofslang.com/",
+      "time": 1770527436.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46931482"
+    },
+    {
+      "title": "Faster Than Dijkstra?",
+      "score": 54,
+      "url": "https://systemsapproach.org/2026/02/09/faster-than-dijkstra/",
+      "time": 1770690994.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46954637"
+    },
+    {
+      "title": "Resizing windows on macOS Tahoe – the saga continues",
+      "score": 776,
+      "url": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
+      "time": 1770940344.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46997008"
+    },
+    {
+      "title": "MMAcevedo aka Lena by qntm",
+      "score": 247,
+      "url": "https://qntm.org/mmacevedo",
+      "time": 1770960280.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46999224"
+    },
+    {
+      "title": "An open replacement for the IBM 3174 Establishment Controller",
+      "score": 16,
+      "url": "https://github.com/lowobservable/oec",
+      "time": 1770489556.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46926299"
     },
     {
       "title": "GPT‑5.3‑Codex‑Spark",
-      "score": 807,
+      "score": 843,
       "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
       "time": 1770919569.0,
       "comments_url": "https://news.ycombinator.com/item?id=46992553"
+    },
+    {
+      "title": "Gemini 3 Deep Think",
+      "score": 993,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+      "time": 1770915350.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46991240"
+    },
+    {
+      "title": "I spent two days gigging at RentAHuman and didn't make a single cent",
+      "score": 50,
+      "url": "https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/",
+      "time": 1770999068.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47004319"
+    },
+    {
+      "title": "Implementing Auto Tiling with Just 5 Tiles",
+      "score": 52,
+      "url": "https://www.kyledunbar.dev/2026/02/05/Implementing-auto-tiling-with-just-5-tiles.html",
+      "time": 1770514656.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46930461"
     },
     {
       "title": "Gauntlet AI (YC S17) train you to master building with AI, give you $200k+ job",
@@ -86,60 +114,32 @@
       "comments_url": "https://news.ycombinator.com/item?id=47001968"
     },
     {
-      "title": "Gemini 3 Deep Think",
-      "score": 947,
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
-      "time": 1770915350.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46991240"
-    },
-    {
-      "title": "Cache Monet",
-      "score": 73,
-      "url": "https://cachemonet.com",
-      "time": 1770546120.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46933020"
-    },
-    {
-      "title": "Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla | Ghostscript)",
-      "score": 371,
-      "url": "https://news.ycombinator.com/item?id=46996490",
-      "time": 1770937138.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46996490"
-    },
-    {
       "title": "Advanced Aerial Robotics Made Simple",
-      "score": 44,
+      "score": 75,
       "url": "https://www.drehmflight.com",
       "time": 1770563430.0,
       "comments_url": "https://news.ycombinator.com/item?id=46934860"
     },
     {
-      "title": "An AI agent published a hit piece on me",
-      "score": 2042,
-      "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
-      "time": 1770913404.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46990729"
+      "title": "Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla | Ghostscript)",
+      "score": 435,
+      "url": "https://news.ycombinator.com/item?id=46996490",
+      "time": 1770937138.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46996490"
     },
     {
-      "title": "Particle Lenia",
-      "score": 38,
-      "url": "https://znah.net/lenia/",
-      "time": 1770581719.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46938084"
+      "title": "MinIO repository is no longer maintained",
+      "score": 408,
+      "url": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
+      "time": 1770968763.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47000041"
     },
     {
-      "title": "MMAcevedo aka Lena by qntm",
-      "score": 185,
-      "url": "https://qntm.org/mmacevedo",
-      "time": 1770960280.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46999224"
-    },
-    {
-      "title": "We interfaced single-threaded C++ with multi-threaded Rust",
-      "score": 70,
-      "url": "https://antithesis.com/blog/2026/rust_cpp/",
-      "time": 1770471947.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46923825"
+      "title": "Cache Monet",
+      "score": 104,
+      "url": "https://cachemonet.com",
+      "time": 1770546120.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46933020"
     }
   ]
 }
