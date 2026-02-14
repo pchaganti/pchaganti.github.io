@@ -1,68 +1,96 @@
 {
-  "last_updated": "2026-02-14T04:22:31.341941-05:00",
+  "last_updated": "2026-02-14T07:28:01.045131-05:00",
   "stories": [
     {
       "title": "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
-      "score": 37,
+      "score": 143,
       "url": "https://ziglang.org/devlog/2026/#2026-02-13",
       "time": 1771057331.0,
       "comments_url": "https://news.ycombinator.com/item?id=47012717"
     },
     {
+      "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
+      "score": 371,
+      "url": "https://www.wallstreetraider.com/story.html",
+      "time": 1770691498.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46954696"
+    },
+    {
       "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
-      "score": 94,
+      "score": 125,
       "url": "https://github.com/mickamy/sql-tap",
       "time": 1771043255.0,
       "comments_url": "https://news.ycombinator.com/item?id=47011567"
     },
     {
       "title": "The Three Year Myth",
-      "score": 40,
+      "score": 82,
       "url": "https://green.spacedino.net/the-three-year-myth/",
       "time": 1770753098.0,
       "comments_url": "https://news.ycombinator.com/item?id=46965829"
     },
     {
-      "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
-      "score": 254,
-      "url": "https://www.wallstreetraider.com/story.html",
-      "time": 1770691498.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46954696"
-    },
-    {
       "title": "Understanding the Go Compiler: The Linker",
-      "score": 62,
+      "score": 98,
       "url": "https://internals-for-interns.com/posts/the-go-linker/",
       "time": 1770572806.0,
       "comments_url": "https://news.ycombinator.com/item?id=46936671"
     },
     {
+      "title": "YouTube as Storage",
+      "score": 57,
+      "url": "https://github.com/PulseBeat02/yt-media-storage",
+      "time": 1771060215.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47012964"
+    },
+    {
+      "title": "Babylon 5 is now free to watch on YouTube",
+      "score": 277,
+      "url": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
+      "time": 1770972542.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47000505"
+    },
+    {
       "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
-      "score": 158,
+      "score": 179,
       "url": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
       "time": 1771018552.0,
       "comments_url": "https://news.ycombinator.com/item?id=47008163"
     },
     {
-      "title": "Common Lisp Screenshots: today's CL applications in action",
-      "score": 104,
-      "url": "http://www.lisp-screenshots.org",
-      "time": 1770860675.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46983873"
+      "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
+      "score": 61,
+      "url": "https://infosec.exchange/@mttaggart/116065340523529645",
+      "time": 1771061325.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47013059"
+    },
+    {
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "score": 502,
+      "url": "https://openai.com/index/new-result-theoretical-physics/",
+      "time": 1771010412.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47006594"
     },
     {
       "title": "How the Little Guy Moved",
-      "score": 13,
+      "score": 46,
       "url": "https://animationobsessive.substack.com/p/how-the-little-guy-moved",
       "time": 1770658227.0,
       "comments_url": "https://news.ycombinator.com/item?id=46948097"
     },
     {
-      "title": "GPT-5.2 derives a new result in theoretical physics",
-      "score": 466,
-      "url": "https://openai.com/index/new-result-theoretical-physics/",
-      "time": 1771010412.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47006594"
+      "title": "Common Lisp Screenshots: today's CL applications in action",
+      "score": 122,
+      "url": "http://www.lisp-screenshots.org",
+      "time": 1770860675.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46983873"
+    },
+    {
+      "title": "The World of Harmonics – With a Coffee, Guitar and Synth",
+      "score": 19,
+      "url": "https://mynoise.net/vlog.php?ep=20260204",
+      "time": 1770641589.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46944716"
     },
     {
       "title": "Cogram (YC W22) – Hiring former technical founders",
@@ -72,74 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=47012312"
     },
     {
+      "title": "NPMX – a fast, modern browser for the NPM registry",
+      "score": 110,
+      "url": "https://npmx.dev",
+      "time": 1771035274.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47010823"
+    },
+    {
       "title": "Building a TUI is easy now",
-      "score": 220,
+      "score": 239,
       "url": "https://hatchet.run/blog/tuis-are-easy-now",
       "time": 1771005054.0,
       "comments_url": "https://news.ycombinator.com/item?id=47005509"
     },
     {
       "title": "Backblaze Drive Stats for 2025",
-      "score": 64,
+      "score": 97,
       "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/",
       "time": 1771043701.0,
       "comments_url": "https://news.ycombinator.com/item?id=47011602"
     },
     {
       "title": "Font Rendering from First Principles",
-      "score": 149,
+      "score": 165,
       "url": "https://mccloskeybr.com/articles/font_rendering.html",
       "time": 1770512309.0,
       "comments_url": "https://news.ycombinator.com/item?id=46930181"
     },
     {
-      "title": "Babylon 5 is now free to watch on YouTube",
-      "score": 176,
-      "url": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
-      "time": 1770972542.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47000505"
+      "title": "The mathematics of compression in database systems",
+      "score": 7,
+      "url": "https://www.bitsxpages.com/p/the-mathematics-of-compression-in",
+      "time": 1770743237.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46963047"
     },
     {
-      "title": "Gradient.horse",
-      "score": 250,
-      "url": "https://gradient.horse",
-      "time": 1770696829.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46955311"
-    },
-    {
-      "title": "NPMX – a fast, modern browser for the NPM registry",
-      "score": 91,
-      "url": "https://npmx.dev",
-      "time": 1771035274.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47010823"
-    },
-    {
-      "title": "The EU moves to kill infinite scrolling",
-      "score": 560,
-      "url": "https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/",
-      "time": 1771015931.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47007656"
-    },
-    {
-      "title": "Adventures in Neural Rendering",
-      "score": 27,
-      "url": "https://interplayoflight.wordpress.com/2026/02/10/adventures-in-neural-rendering/",
-      "time": 1770758776.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46967147"
-    },
-    {
-      "title": "gRPC: From service definition to wire format",
-      "score": 122,
-      "url": "https://kreya.app/blog/grpc-deep-dive/",
-      "time": 1770639443.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46944430"
-    },
-    {
-      "title": "Monosketch",
-      "score": 769,
-      "url": "https://monosketch.io/",
-      "time": 1770985085.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47001871"
+      "title": "The Sling: Humanity's Forgotten Power",
+      "score": 8,
+      "url": "https://www.slinging.org/",
+      "time": 1770671634.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46951430"
     }
   ]
 }
