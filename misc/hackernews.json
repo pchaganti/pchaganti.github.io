@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-02-14T13:21:53.759414-05:00",
+  "last_updated": "2026-02-14T16:16:01.399284-05:00",
   "stories": [
     {
+      "title": "News publishers limit Internet Archive access due to AI scraping concerns",
+      "score": 212,
+      "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
+      "time": 1771094792.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47017138"
+    },
+    {
+      "title": "uBlock filter list to hide all YouTube Shorts",
+      "score": 202,
+      "url": "https://github.com/i5heu/ublock-hide-yt-shorts/",
+      "time": 1771090605.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47016443"
+    },
+    {
       "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
-      "score": 153,
+      "score": 248,
       "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
       "time": 1771083347.0,
       "comments_url": "https://news.ycombinator.com/item?id=47015294"
     },
     {
       "title": "Ooh.directory: a place to find good blogs that interest you",
-      "score": 256,
+      "score": 331,
       "url": "https://ooh.directory/",
       "time": 1771076420.0,
       "comments_url": "https://news.ycombinator.com/item?id=47014449"
     },
     {
-      "title": "Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB",
-      "score": 119,
-      "url": "https://github.com/datavorous/sameshi",
-      "time": 1771076864.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47014500"
-    },
-    {
-      "title": "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
-      "score": 286,
-      "url": "https://ziglang.org/devlog/2026/#2026-02-13",
-      "time": 1771057331.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47012717"
+      "title": "OpenAI should build Slack",
+      "score": 21,
+      "url": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
+      "time": 1771055413.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47012553"
     },
     {
       "title": "Amsterdam Compiler Kit",
-      "score": 16,
+      "score": 62,
       "url": "https://github.com/davidgiven/ack",
       "time": 1771087847.0,
       "comments_url": "https://news.ycombinator.com/item?id=47016008"
     },
     {
-      "title": "Shades of Halftone",
-      "score": 67,
-      "url": "https://blog.maximeheckel.com/posts/shades-of-halftone/",
-      "time": 1770730547.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46959531"
+      "title": "You can't trust the internet anymore",
+      "score": 82,
+      "url": "https://nicole.express/2026/not-my-casual-hobby.html",
+      "time": 1771098685.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47017727"
     },
     {
-      "title": "A Review of M Disc Archival Capability. With long term testing results",
-      "score": 20,
-      "url": "http://www.microscopy-uk.org.uk/mag/artsep16/mol-mdisc-review.html",
-      "time": 1771085264.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47015579"
+      "title": "How often do full-body MRIs find cancer?",
+      "score": 10,
+      "url": "https://www.usatoday.com/story/life/health-wellness/2026/02/11/full-body-mris-cancer-aneurysm/88396037007/",
+      "time": 1771021315.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47008607"
     },
     {
-      "title": "Vim 9.2 Released",
-      "score": 129,
-      "url": "https://www.vim.org/vim-9.2-released.php",
-      "time": 1771083583.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47015330"
+      "title": "Colored Petri Nets, LLMs, and distributed applications",
+      "score": 4,
+      "url": "https://blog.sao.dev/cpns-llms-distributed-apps/",
+      "time": 1771103288.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47018405"
+    },
+    {
+      "title": "A header-only C vector database library",
+      "score": 30,
+      "url": "https://github.com/abdimoallim/vdb",
+      "time": 1771091109.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47016530"
+    },
+    {
+      "title": "Descent, ported to the web",
+      "score": 63,
+      "url": "https://mrdoob.github.io/three-descent/",
+      "time": 1771097604.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47017545"
+    },
+    {
+      "title": "Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB",
+      "score": 156,
+      "url": "https://github.com/datavorous/sameshi",
+      "time": 1771076864.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47014500"
+    },
+    {
+      "title": "Windows NT/OS2 Design Workbook",
+      "score": 38,
+      "url": "https://computernewb.com/~lily/files/Documents/NTDesignWorkbook/",
+      "time": 1770766695.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46968641"
+    },
+    {
+      "title": "Discord: A case study in performance optimization",
+      "score": 6,
+      "url": "https://newsletter.fullstack.zip/p/discord-a-case-study-in-performance",
+      "time": 1771031008.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47010147"
+    },
+    {
+      "title": "IBM tripling entry-level jobs after finding the limits of AI adoption",
+      "score": 45,
+      "url": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
+      "time": 1771025649.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47009327"
     },
     {
       "title": "Ask HN: How to get started with robotics as a hobbyist?",
-      "score": 37,
+      "score": 104,
       "url": "https://news.ycombinator.com/item?id=46934622",
       "time": 1770561891.0,
       "comments_url": "https://news.ycombinator.com/item?id=46934622"
     },
     {
-      "title": "Show HN: Arcmark – macOS bookmark manager that attaches to browser as sidebar",
-      "score": 16,
-      "url": "https://github.com/Geek-1001/arcmark",
-      "time": 1771088124.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47016058"
+      "title": "Launching Interop 2026",
+      "score": 7,
+      "url": "https://hacks.mozilla.org/2026/02/launching-interop-2026/",
+      "time": 1771022428.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47008821"
     },
     {
-      "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
-      "score": 614,
-      "url": "https://www.wallstreetraider.com/story.html",
-      "time": 1770691498.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46954696"
+      "title": "Fun with Algebraic Effects – From Toy Examples to Hardcaml Simulations",
+      "score": 42,
+      "url": "https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/",
+      "time": 1770751653.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46965462"
     },
     {
-      "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
-      "score": 205,
-      "url": "https://github.com/mickamy/sql-tap",
-      "time": 1771043255.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47011567"
+      "title": "The consequences of task switching in supervisory programming",
+      "score": 4,
+      "url": "https://martinfowler.com/fragments/2026-02-13.html",
+      "time": 1771006728.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47005856"
     },
     {
-      "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
-      "score": 427,
-      "url": "https://infosec.exchange/@mttaggart/116065340523529645",
-      "time": 1771061325.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47013059"
-    },
-    {
-      "title": "Babylon 5 is now free to watch on YouTube",
-      "score": 513,
-      "url": "https://cordcuttersnews.com/babylon-5-is-now-free-to-watch-on-youtube/",
-      "time": 1770972542.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47000505"
-    },
-    {
-      "title": "Platforms bend over backward to help DHS censor ICE critics, advocates say",
-      "score": 186,
-      "url": "https://arstechnica.com/tech-policy/2026/02/platforms-bend-over-backward-to-help-dhs-censor-ice-critics-advocates-say/",
-      "time": 1771084196.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47015406"
-    },
-    {
-      "title": "Audiophiles Can't Distinguish Audio Sent Through Copper, Banana or Mud",
-      "score": 29,
-      "url": "https://www.tomshardware.com/speakers/in-a-blind-test-audiophiles-couldnt-tell-the-difference-between-audio-signals-sent-through-copper-wire-a-banana-or-wet-mud-the-mud-should-sound-perfectly-awful-but-it-doesnt-notes-the-experiment-creator",
-      "time": 1771087697.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47015987"
-    },
-    {
-      "title": "What color are your bits? (2004)",
-      "score": 28,
-      "url": "https://ansuz.sooke.bc.ca/entry/23",
-      "time": 1770788231.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46971273"
-    },
-    {
-      "title": "7zip.com Is Serving Malware",
-      "score": 57,
-      "url": "https://www.malwarebytes.com/blog/threat-intel/2026/02/fake-7-zip-downloads-are-turning-home-pcs-into-proxy-nodes",
-      "time": 1771081109.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47014995"
-    },
-    {
-      "title": "Code Storage by the Pierre Computer Company",
-      "score": 37,
-      "url": "https://code.storage/",
-      "time": 1770718347.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46957629"
-    },
-    {
-      "title": "Stoat removes all LLM-generated code following user criticism",
-      "score": 30,
-      "url": "https://github.com/orgs/stoatchat/discussions/1022",
-      "time": 1771088070.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47016050"
+      "title": "SkyRL brings Tinker to your GPUs (2025)",
+      "score": 4,
+      "url": "https://novasky-ai.notion.site/skyrl-tinker",
+      "time": 1771007184.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47005945"
     }
   ]
 }
