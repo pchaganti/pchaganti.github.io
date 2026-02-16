@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-02-16T04:42:47.650621-05:00",
+  "last_updated": "2026-02-16T07:41:01.409960-05:00",
   "stories": [
     {
+      "title": "MessageFormat: Unicode standard for localizable message strings",
+      "score": 57,
+      "url": "https://github.com/unicode-org/message-format-wg",
+      "time": 1771237582.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47033328"
+    },
+    {
       "title": "I’m joining OpenAI",
-      "score": 1005,
+      "score": 1133,
       "url": "https://steipete.me/posts/2026/openclaw",
       "time": 1771192455.0,
       "comments_url": "https://news.ycombinator.com/item?id=47028013"
     },
     {
       "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
-      "score": 418,
+      "score": 674,
       "url": "https://mastodon.world/@knowmadd/116072773118828295",
       "time": 1771223508.0,
       "comments_url": "https://news.ycombinator.com/item?id=47031580"
     },
     {
-      "title": "Building SQLite with a small swarm",
-      "score": 52,
-      "url": "https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html",
-      "time": 1771220331.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47031268"
+      "title": "Vim-pencil: Rethinking Vim as a tool for writing",
+      "score": 25,
+      "url": "https://github.com/preservim/vim-pencil",
+      "time": 1770942923.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46997356"
+    },
+    {
+      "title": "Qwen3.5: Towards Native Multimodal Agents",
+      "score": 35,
+      "url": "https://qwen.ai/blog?id=qwen3.5",
+      "time": 1771234341.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47032876"
     },
     {
       "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
-      "score": 273,
+      "score": 311,
       "url": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
       "time": 1771193830.0,
       "comments_url": "https://news.ycombinator.com/item?id=47028227"
     },
     {
       "title": "picol: A Tcl interpreter in 500 lines of code",
-      "score": 18,
+      "score": 46,
       "url": "https://github.com/antirez/picol",
       "time": 1771229051.0,
       "comments_url": "https://news.ycombinator.com/item?id=47032235"
     },
     {
-      "title": "Expensively Quadratic: The LLM Agent Cost Curve",
-      "score": 26,
-      "url": "https://blog.exe.dev/expensively-quadratic",
-      "time": 1770968690.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47000034"
+      "title": "Anthropic tries to hide Claude's AI actions. Devs hate it",
+      "score": 36,
+      "url": "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/",
+      "time": 1771239988.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47033622"
     },
     {
       "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
-      "score": 454,
+      "score": 517,
       "url": "https://modern-css.com",
       "time": 1771178650.0,
       "comments_url": "https://news.ycombinator.com/item?id=47025851"
     },
     {
       "title": "Arm wants a bigger slice of the chip business",
-      "score": 71,
+      "score": 100,
       "url": "https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business",
       "time": 1771209374.0,
       "comments_url": "https://news.ycombinator.com/item?id=47030271"
     },
     {
+      "title": "Building SQLite with a small swarm",
+      "score": 74,
+      "url": "https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html",
+      "time": 1771220331.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47031268"
+    },
+    {
+      "title": "Expensively Quadratic: The LLM Agent Cost Curve",
+      "score": 53,
+      "url": "https://blog.exe.dev/expensively-quadratic",
+      "time": 1770968690.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47000034"
+    },
+    {
+      "title": "Rolling your own serverless OCR in 40 lines of code",
+      "score": 8,
+      "url": "https://christopherkrapu.com/blog/2026/ocr-textbooks-modal-deepseek/",
+      "time": 1770902602.0,
+      "comments_url": "https://news.ycombinator.com/item?id=46988538"
+    },
+    {
       "title": "1,300-year-old world chronicle unearthed in Sinai",
-      "score": 32,
+      "score": 60,
       "url": "https://www.heritagedaily.com/2026/02/1300-year-old-world-chronicle-unearthed-in-sinai/156948",
       "time": 1770868908.0,
       "comments_url": "https://news.ycombinator.com/item?id=46984768"
     },
     {
-      "title": "Lost Soviet Moon Lander May Have Been Found",
-      "score": 38,
-      "url": "https://www.nytimes.com/2026/02/10/science/luna-9-moon-lander-soviet.html",
-      "time": 1770822188.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46975822"
-    },
-    {
       "title": "LT6502: A 6502-based homebrew laptop",
-      "score": 351,
+      "score": 364,
       "url": "https://github.com/TechPaula/LT6502",
       "time": 1771175555.0,
       "comments_url": "https://news.ycombinator.com/item?id=47025399"
     },
     {
       "title": "Audio is the one area small labs are winning",
-      "score": 193,
+      "score": 225,
       "url": "https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai",
       "time": 1770961185.0,
       "comments_url": "https://news.ycombinator.com/item?id=46999285"
     },
     {
-      "title": "Designing a 36-key custom keyboard layout (2021)",
-      "score": 7,
-      "url": "https://peterxjang.medium.com/designing-a-36-key-custom-keyboard-layout-24498a0eecd4",
-      "time": 1770993884.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47003294"
-    },
-    {
-      "title": "Show HN: Solving Sudoku reasoning via Energy Geometric models",
-      "score": 12,
-      "url": "https://www.davisgeometric.com/index.html",
-      "time": 1770888174.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46986604"
-    },
-    {
-      "title": "I gave Claude access to my pen plotter",
-      "score": 176,
-      "url": "https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter",
-      "time": 1770999358.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47004384"
-    },
-    {
       "title": "JavaScript-heavy approaches are not compatible with long-term performance goals",
-      "score": 77,
+      "score": 107,
       "url": "https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/",
       "time": 1771201583.0,
       "comments_url": "https://news.ycombinator.com/item?id=47029339"
     },
     {
+      "title": "I gave Claude access to my pen plotter",
+      "score": 214,
+      "url": "https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter",
+      "time": 1770999358.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47004384"
+    },
+    {
       "title": "Show HN: Microgpt is a GPT you can visualize in the browser",
-      "score": 179,
+      "score": 209,
       "url": "https://microgpt.boratto.ca",
       "time": 1771180835.0,
       "comments_url": "https://news.ycombinator.com/item?id=47026186"
     },
     {
-      "title": "Databases should contain their own Metadata – Use SQL Everywhere",
-      "score": 21,
-      "url": "https://floedb.ai/blog/databases-should-contain-their-own-metadata-instrumentation-in-floe",
-      "time": 1770824170.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46976256"
-    },
-    {
-      "title": "EU bans the destruction of unsold apparel, clothing, accessories and footwear",
-      "score": 970,
-      "url": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
-      "time": 1771175418.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47025378"
-    },
-    {
-      "title": "Real-time PathTracing with global illumination in WebGL",
-      "score": 156,
-      "url": "https://erichlof.github.io/THREE.js-PathTracing-Renderer/",
-      "time": 1770921339.0,
-      "comments_url": "https://news.ycombinator.com/item?id=46993014"
+      "title": "Designing a 36-key custom keyboard layout (2021)",
+      "score": 23,
+      "url": "https://peterxjang.medium.com/designing-a-36-key-custom-keyboard-layout-24498a0eecd4",
+      "time": 1770993884.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47003294"
     }
   ]
 }
