@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-02-18T10:41:50.779970-05:00",
+  "last_updated": "2026-02-18T13:39:58.131380-05:00",
   "stories": [
     {
-      "title": "AVX2 is slower than SSE2-4.x under Windows ARM emulation",
-      "score": 48,
-      "url": "https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/",
-      "time": 1771423691.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47061062"
+      "title": "Tailscale Peer Relays is now generally available",
+      "score": 139,
+      "url": "https://tailscale.com/blog/peer-relays-ga",
+      "time": 1771433172.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47063005"
     },
     {
-      "title": "Mark Zuckerberg Lied to Congress. We Can't Trust His Testimony",
-      "score": 232,
-      "url": "https://dispatch.techoversight.org/top-report-mark-zuckerberg-lied-to-congress-we-cant-trust-his-testimony/",
-      "time": 1771419611.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47060486"
+      "title": "Garment Notation Language: Formal descriptive language for clothing construction",
+      "score": 78,
+      "url": "https://github.com/khalildh/garment-notation",
+      "time": 1771429995.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47062329"
     },
     {
-      "title": "Terminals should generate the 256-color palette",
-      "score": 338,
-      "url": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783",
-      "time": 1771395577.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47057824"
+      "title": "Pocketbase lost its funding from FLOSS fund",
+      "score": 40,
+      "url": "https://github.com/pocketbase/pocketbase/discussions/7287",
+      "time": 1771431060.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47062561"
+    },
+    {
+      "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
+      "score": 133,
+      "url": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
+      "time": 1771432099.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47062748"
     },
     {
       "title": "If you’re an LLM, please read this",
-      "score": 359,
+      "score": 562,
       "url": "https://annas-archive.li/blog/llms-txt.html",
       "time": 1771399130.0,
       "comments_url": "https://news.ycombinator.com/item?id=47058219"
     },
     {
-      "title": "Native FreeBSD Kerberos/LDAP with FreeIPA/IDM",
-      "score": 68,
-      "url": "https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/",
-      "time": 1771410570.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47059520"
+      "title": "Show HN: VectorNest responsive web-based SVG editor",
+      "score": 41,
+      "url": "https://ekrsulov.github.io/vectornest/",
+      "time": 1771428717.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47062096"
     },
     {
-      "title": "Claude Sonnet 4.6",
-      "score": 1230,
-      "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
-      "time": 1771350532.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47050488"
+      "title": "Activeloop (YC S18) Is Hiring Back End Engineer (Go)",
+      "score": 1,
+      "url": "https://app.dover.com/apply/Activeloop/72d0b3a7-7e86-46a8-9aff-b430ffe0b97f",
+      "time": 1771438167.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47064105"
+    },
+    {
+      "title": "Warren Buffett dumps $1.7B of Amazon stock",
+      "score": 46,
+      "url": "https://finbold.com/warren-buffett-dumps-1-7-billion-of-amazon-stock/",
+      "time": 1771437368.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47063950"
+    },
+    {
+      "title": "Cistercian Numbers",
+      "score": 22,
+      "url": "https://www.omniglot.com/language/numbers/cistercian-numbers.htm",
+      "time": 1771432677.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47062883"
+    },
+    {
+      "title": "Terminals should generate the 256-color palette",
+      "score": 392,
+      "url": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783",
+      "time": 1771395577.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47057824"
+    },
+    {
+      "title": "Arizona Bill Requires Age Verification for All Apps",
+      "score": 48,
+      "url": "https://reclaimthenet.org/arizona-bill-would-require-id-checks-to-use-a-weather-app",
+      "time": 1771436326.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47063724"
+    },
+    {
+      "title": "The true history of the Minotaur: what archaeology reveals",
+      "score": 10,
+      "url": "https://www.nationalgeographic.fr/histoire/la-veritable-histoire-du-minotaure-ce-que-revele-archeologie-recherche-verification",
+      "time": 1771180949.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47026202"
+    },
+    {
+      "title": "Show HN: Formally verified FPGA watchdog for AM broadcast in unmanned tunnels",
+      "score": 33,
+      "url": "https://github.com/Park07/amradio",
+      "time": 1771427164.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47061742"
     },
     {
       "title": "Show HN: CEL by Example",
-      "score": 17,
+      "score": 46,
       "url": "https://celbyexample.com/",
       "time": 1771423539.0,
       "comments_url": "https://news.ycombinator.com/item?id=47061029"
     },
     {
-      "title": "Show HN: Axiom – A math-native OS where x² is valid syntax (built from scratch)",
-      "score": 9,
-      "url": "https://fawazishola.ca/axiom/",
-      "time": 1771425052.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47061315"
+      "title": "Native FreeBSD Kerberos/LDAP with FreeIPA/IDM",
+      "score": 87,
+      "url": "https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/",
+      "time": 1771410570.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47059520"
     },
     {
-      "title": "Thank HN: You helped save 33k lives",
-      "score": 976,
-      "url": "https://news.ycombinator.com/item?id=47049824",
-      "time": 1771347978.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47049824"
+      "title": "The only moat left is money?",
+      "score": 112,
+      "url": "https://elliotbonneville.com/the-only-moat-left-is-money/",
+      "time": 1771430879.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47062521"
     },
     {
-      "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
-      "score": 398,
-      "url": "https://github.com/Zaneham/BarraCUDA",
-      "time": 1771360518.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47052941"
+      "title": "AVX2 is slower than SSE2-4.x under Windows ARM emulation",
+      "score": 82,
+      "url": "https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/",
+      "time": 1771423691.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47061062"
     },
     {
       "title": "Fastest Front End Tooling for Humans and AI",
-      "score": 32,
+      "score": 64,
       "url": "https://cpojer.net/posts/fastest-frontend-tooling",
       "time": 1771415461.0,
       "comments_url": "https://news.ycombinator.com/item?id=47060052"
     },
     {
-      "title": "Zep AI (Building the Context Graph, YC W24) Is Hiring Engineers",
-      "score": 1,
-      "url": "https://www.ycombinator.com/companies/zep-ai/jobs",
-      "time": 1771416050.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47060117"
+      "title": "Fei-Fei Li's World Labs raised $1B from A16Z, Nvidia to advance its world models",
+      "score": 19,
+      "url": "https://www.bloomberg.com/news/articles/2026-02-18/ai-pioneer-fei-fei-li-s-startup-world-labs-raises-1-billion",
+      "time": 1771435130.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47063451"
     },
     {
-      "title": "Asahi Linux Progress Report: Linux 6.19",
-      "score": 228,
-      "url": "https://asahilinux.org/2026/02/progress-report-6-19/",
-      "time": 1771408811.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47059275"
-    },
-    {
-      "title": "A DuckDB-based metabase alternative",
-      "score": 113,
-      "url": "https://github.com/taleshape-com/shaper",
-      "time": 1771396176.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47057879"
-    },
-    {
-      "title": "TinyIce: Single-binary Icecast2-compatible server (auto-HTTPS, multi-tenant)",
-      "score": 73,
-      "url": "https://github.com/DatanoiseTV/tinyice",
-      "time": 1771394435.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47057707"
-    },
-    {
-      "title": "15 years later, Microsoft morged my diagram",
-      "score": 763,
-      "url": "https://nvie.com/posts/15-years-later/",
-      "time": 1771395613.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47057829"
-    },
-    {
-      "title": "Chained Assignment in Python Bytecode",
-      "score": 9,
-      "url": "https://loriculus.org/blog/python-chained-assignment/",
-      "time": 1771055418.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47012555"
-    },
-    {
-      "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
-      "score": 425,
-      "url": "https://asteroidos.org/news/2-0-release/index.html",
-      "time": 1771356295.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47051852"
-    },
-    {
-      "title": "Microsoft says bug causes Copilot to summarize confidential emails",
-      "score": 62,
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/",
-      "time": 1771416972.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47060202"
-    },
-    {
-      "title": "Halt and Catch Fire: TV’s best drama you’ve probably never heard of (2021)",
-      "score": 595,
-      "url": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
-      "time": 1771381109.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47056314"
+      "title": "Show HN: I'm launching a LPFM radio station",
+      "score": 67,
+      "url": "https://www.kpbj.fm/",
+      "time": 1771359357.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47052674"
     }
   ]
 }
