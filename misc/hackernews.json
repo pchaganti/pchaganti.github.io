@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-02-19T01:49:19.569095-05:00",
+  "last_updated": "2026-02-19T04:36:03.442207-05:00",
   "stories": [
     {
-      "title": "European Tech Alternatives",
-      "score": 107,
-      "url": "https://eutechmap.com/map",
-      "time": 1771477657.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47070142"
-    },
-    {
       "title": "Sizing chaos",
-      "score": 439,
+      "score": 545,
       "url": "https://pudding.cool/2026/02/womens-sizing/",
       "time": 1771449500.0,
       "comments_url": "https://news.ycombinator.com/item?id=47066552"
     },
     {
       "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
-      "score": 273,
+      "score": 327,
       "url": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
       "time": 1771448071.0,
       "comments_url": "https://news.ycombinator.com/item?id=47066241"
     },
     {
       "title": "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
-      "score": 76,
+      "score": 112,
       "url": "https://nicolasdickenmann.com/blog/the-great-fp64-divide.html",
       "time": 1771465567.0,
       "comments_url": "https://news.ycombinator.com/item?id=47068890"
     },
     {
-      "title": "Anthropic officially bans using subscription auth for third party use",
-      "score": 231,
-      "url": "https://code.claude.com/docs/en/legal-and-compliance",
-      "time": 1771469546.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47069299"
-    },
-    {
-      "title": "Cosmologically Unique IDs",
-      "score": 340,
-      "url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
-      "time": 1771439842.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47064490"
-    },
-    {
-      "title": "How to Choose Between Hindley-Milner and Bidirectional Typing",
-      "score": 79,
-      "url": "https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/",
-      "time": 1771178864.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47025885"
-    },
-    {
       "title": "Step 3.5 Flash: Fast Enough to Think. Reliable Enough to Act",
-      "score": 36,
+      "score": 75,
       "url": "https://static.stepfun.com/blog/step-3.5-flash/",
       "time": 1771468320.0,
       "comments_url": "https://news.ycombinator.com/item?id=47069179"
     },
     {
+      "title": "Cosmologically Unique IDs",
+      "score": 380,
+      "url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
+      "time": 1771439842.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47064490"
+    },
+    {
+      "title": "Anthropic officially bans using subscription auth for third party use",
+      "score": 339,
+      "url": "https://code.claude.com/docs/en/legal-and-compliance",
+      "time": 1771469546.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47069299"
+    },
+    {
+      "title": "Visualizing the ARM64 Instruction Set (2024)",
+      "score": 37,
+      "url": "https://zyedidia.github.io/blog/posts/6-arm64/",
+      "time": 1771197604.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47028803"
+    },
+    {
       "title": "Tailscale Peer Relays is now generally available",
-      "score": 373,
+      "score": 406,
       "url": "https://tailscale.com/blog/peer-relays-ga",
       "time": 1771433172.0,
       "comments_url": "https://news.ycombinator.com/item?id=47063005"
     },
     {
+      "title": "How to choose between Hindley-Milner and bidirectional typing",
+      "score": 93,
+      "url": "https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/",
+      "time": 1771178864.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47025885"
+    },
+    {
       "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
-      "score": 306,
+      "score": 332,
       "url": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
       "time": 1771432099.0,
       "comments_url": "https://news.ycombinator.com/item?id=47062748"
     },
     {
+      "title": "A word processor from 1990s for Atari ST/TOS is still supported by enthusiasts",
+      "score": 44,
+      "url": "https://tempus-word.de/en/index",
+      "time": 1771267452.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47038578"
+    },
+    {
+      "title": "Fff.nvim – Typo-resistant code search",
+      "score": 32,
+      "url": "https://github.com/dmtrKovalenko/fff.nvim",
+      "time": 1771271550.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47039440"
+    },
+    {
       "title": "How AI is affecting productivity and jobs in Europe",
-      "score": 68,
+      "score": 112,
       "url": "https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe",
       "time": 1771460565.0,
       "comments_url": "https://news.ycombinator.com/item?id=47068320"
     },
     {
       "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
-      "score": 242,
+      "score": 267,
       "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
       "time": 1771437853.0,
       "comments_url": "https://news.ycombinator.com/item?id=47064047"
     },
     {
+      "title": "Mark Zuckerberg overruled 18 wellbeing experts to keep beauty filters on Insta",
+      "score": 48,
+      "url": "https://www.ft.com/content/0c6d8ff6-f207-431b-bfb9-1d8b42bb4b6d",
+      "time": 1771484068.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47070743"
+    },
+    {
+      "title": "US funding for global internet freedom 'effectively gutted'",
+      "score": 49,
+      "url": "https://www.theguardian.com/world/2026/feb/19/us-funding-for-global-internet-freedom-effectively-gutted",
+      "time": 1771483274.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47070658"
+    },
+    {
+      "title": "Stoolap/Node: A Native Node.js Driver That's Surprisingly Fast",
+      "score": 20,
+      "url": "https://stoolap.io/blog/2026/02/19/introducing-stoolap-node/",
+      "time": 1771481398.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47070446"
+    },
+    {
       "title": "Minecraft Java is switching from OpenGL to Vulkan",
-      "score": 156,
+      "score": 199,
       "url": "https://www.gamingonlinux.com/2026/02/minecraft-java-is-switching-from-opengl-to-vulkan-for-the-vibrant-visuals-update/",
       "time": 1771466133.0,
       "comments_url": "https://news.ycombinator.com/item?id=47068948"
     },
     {
-      "title": "A Pokémon of a Different Color",
-      "score": 92,
-      "url": "https://matthew.verive.me/blog/color/",
-      "time": 1771152049.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47022704"
-    },
-    {
-      "title": "Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript",
-      "score": 65,
-      "url": "https://blackboard.sh/blog/electrobun-v1/",
-      "time": 1771472767.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47069650"
-    },
-    {
-      "title": "Visualizing the ARM64 Instruction Set (2024)",
-      "score": 10,
-      "url": "https://zyedidia.github.io/blog/posts/6-arm64/",
-      "time": 1771197604.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47028803"
-    },
-    {
-      "title": "The Perils of ISBN",
-      "score": 110,
-      "url": "https://rygoldstein.com/posts/perils-of-isbn",
-      "time": 1771436077.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47063663"
-    },
-    {
-      "title": "R3forth: A concatenative language derived from ColorForth",
-      "score": 78,
-      "url": "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md",
-      "time": 1771442939.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47065179"
-    },
-    {
-      "title": "Making a font with ligatures to display thirteenth-century monk numerals",
-      "score": 75,
-      "url": "https://digitalseams.com/blog/making-a-font-with-9999-ligatures-to-display-thirteenth-century-monk-numerals",
-      "time": 1771170251.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47024585"
-    },
-    {
       "title": "Show HN: A Lisp where each function call runs a Docker container",
-      "score": 11,
+      "score": 36,
       "url": "https://github.com/a11ce/docker-lisp",
       "time": 1771474760.0,
       "comments_url": "https://news.ycombinator.com/item?id=47069876"
+    },
+    {
+      "title": "Martial arts robots at 2026 Spring Festival Gala [video]",
+      "score": 88,
+      "url": "https://www.youtube.com/watch?v=mUmlv814aJo",
+      "time": 1771454864.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47067496"
     }
   ]
 }
