@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-02-22T07:29:42.378044-05:00",
+  "last_updated": "2026-02-22T10:16:39.506825-05:00",
   "stories": [
     {
+      "title": "Attention Media ≠ Social Networks",
+      "score": 148,
+      "url": "https://susam.net/attention-media-vs-social-networks.html",
+      "time": 1771763806.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47110515"
+    },
+    {
+      "title": "What Is a Database Transaction?",
+      "score": 67,
+      "url": "https://planetscale.com/blog/database-transactions",
+      "time": 1771763321.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47110473"
+    },
+    {
+      "title": "Iran students stage first large anti-government protests since deadly crackdown",
+      "score": 22,
+      "url": "https://www.bbc.com/news/articles/c5yj2kzkrj0o",
+      "time": 1771768780.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47111067"
+    },
+    {
       "title": "Back to FreeBSD: Part 1",
-      "score": 72,
+      "score": 125,
       "url": "https://hypha.pub/back-to-freebsd-part-1",
       "time": 1771744587.0,
       "comments_url": "https://news.ycombinator.com/item?id=47108989"
     },
     {
+      "title": "Volatility: The volatile memory forensic extraction framework",
+      "score": 13,
+      "url": "https://github.com/volatilityfoundation/volatility3",
+      "time": 1771766407.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47110781"
+    },
+    {
       "title": "How Taalas “prints” LLM onto a chip?",
-      "score": 185,
+      "score": 269,
       "url": "https://www.anuragk.com/blog/posts/Taalas.html",
       "time": 1771700840.0,
       "comments_url": "https://news.ycombinator.com/item?id=47103661"
     },
     {
-      "title": "Show HN: Elecxzy – A lightweight, Lisp-free Emacs-like editor in Electron",
-      "score": 14,
-      "url": "https://github.com/kurouna/elecxzy",
-      "time": 1771678164.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47100328"
+      "title": "Man accidentally gains control of 7k robot vacuums",
+      "score": 15,
+      "url": "https://www.popsci.com/technology/robot-vacuum-army/",
+      "time": 1771771482.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47111400"
+    },
+    {
+      "title": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
+      "score": 11,
+      "url": "https://quesma.com/blog/introducing-binaryaudit/",
+      "time": 1771771844.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47111440"
     },
     {
       "title": "How I use Claude Code: Separation of planning and execution",
-      "score": 626,
+      "score": 714,
       "url": "https://boristane.com/blog/how-i-use-claude-code/",
       "time": 1771720145.0,
       "comments_url": "https://news.ycombinator.com/item?id=47106686"
     },
     {
       "title": "Japanese Woodblock Print Search",
-      "score": 121,
+      "score": 151,
       "url": "https://ukiyo-e.org/",
       "time": 1771730316.0,
       "comments_url": "https://news.ycombinator.com/item?id=47107781"
     },
     {
       "title": "How far back in time can you understand English?",
-      "score": 572,
+      "score": 633,
       "url": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
       "time": 1771426618.0,
       "comments_url": "https://news.ycombinator.com/item?id=47061614"
     },
     {
-      "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
-      "score": 274,
-      "url": "https://github.com/xaskasdf/ntransformer",
-      "time": 1771707450.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47104667"
-    },
-    {
-      "title": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
-      "score": 128,
-      "url": "https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate",
-      "time": 1771326069.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47046070"
-    },
-    {
       "title": "Gamedate – A site to revive dead multiplayer games",
-      "score": 154,
+      "score": 208,
       "url": "https://gamedate.org/",
       "time": 1771634668.0,
       "comments_url": "https://news.ycombinator.com/item?id=47096167"
     },
     {
-      "title": "Unreal Numbers",
-      "score": 17,
-      "url": "https://lcamtuf.substack.com/p/unreal-numbers",
-      "time": 1771332010.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47046853"
+      "title": "The Four-Color Theorem 1852–1976",
+      "score": 14,
+      "url": "https://www.ams.org/journals/notices/202603/noti3305/noti3305.html",
+      "time": 1771677126.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47100190"
+    },
+    {
+      "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
+      "score": 300,
+      "url": "https://github.com/xaskasdf/ntransformer",
+      "time": 1771707450.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47104667"
+    },
+    {
+      "title": "ReferenceFinder: Find coordinates on a piece of paper with only folds",
+      "score": 33,
+      "url": "https://mutsuntsai.github.io/reference-finder/",
+      "time": 1771475243.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47069918"
+    },
+    {
+      "title": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
+      "score": 151,
+      "url": "https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate",
+      "time": 1771326069.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47046070"
+    },
+    {
+      "title": "The Dance Floor Is Disappearing in a Sea of Phones",
+      "score": 48,
+      "url": "https://www.bloomberg.com/news/features/2026-02-20/a-boom-in-electronic-dance-music-is-changing-club-culture",
+      "time": 1771764097.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47110549"
     },
     {
       "title": "Evidence of the bouba-kiki effect in naïve baby chicks",
-      "score": 145,
+      "score": 164,
       "url": "https://www.science.org/doi/10.1126/science.adq7188",
       "time": 1771710718.0,
       "comments_url": "https://news.ycombinator.com/item?id=47105198"
     },
     {
-      "title": "Parse, Don't Validate and Type-Driven Design in Rust",
-      "score": 200,
-      "url": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
-      "time": 1771702806.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47103931"
-    },
-    {
-      "title": "Claws are now a new layer on top of LLM agents",
-      "score": 321,
-      "url": "https://twitter.com/karpathy/status/2024987174077432126",
-      "time": 1771635389.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47096253"
-    },
-    {
-      "title": "A Botnet Accidentally Destroyed I2P",
-      "score": 120,
-      "url": "https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/",
-      "time": 1771722497.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47106985"
+      "title": "Unreal Numbers",
+      "score": 38,
+      "url": "https://lcamtuf.substack.com/p/unreal-numbers",
+      "time": 1771332010.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47046853"
     },
     {
       "title": "What's the best way to learn a new language?",
-      "score": 12,
+      "score": 36,
       "url": "https://www.bbc.com/future/article/20260220-whats-the-best-way-to-learn-a-new-language",
       "time": 1771744462.0,
       "comments_url": "https://news.ycombinator.com/item?id=47108977"
-    },
-    {
-      "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
-      "score": 215,
-      "url": "https://www.koreaherald.com/article/10679206",
-      "time": 1771684336.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47101171"
-    },
-    {
-      "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
-      "score": 192,
-      "url": "https://github.com/tnm/zclaw",
-      "time": 1771677472.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47100232"
-    },
-    {
-      "title": "How I launched 3 consoles and found true love at Babbage's store no. 9 (2013)",
-      "score": 24,
-      "url": "https://arstechnica.com/gadgets/2013/01/how-i-launched-3-consoles-and-found-true-love-at-babbages-store-no-9/",
-      "time": 1771514058.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47074671"
-    },
-    {
-      "title": "Carelessness versus craftsmanship in cryptography",
-      "score": 41,
-      "url": "https://blog.trailofbits.com/2026/02/18/carelessness-versus-craftsmanship-in-cryptography/",
-      "time": 1771418092.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47060334"
-    },
-    {
-      "title": "Toyota’s hydrogen-powered Mirai has experienced rapid depreciation",
-      "score": 152,
-      "url": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
-      "time": 1771697364.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47103136"
     }
   ]
 }
