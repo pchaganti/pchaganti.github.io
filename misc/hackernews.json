@@ -1,47 +1,96 @@
 {
-  "last_updated": "2026-02-24T20:21:08.478486-05:00",
+  "last_updated": "2026-02-24T23:47:17.346426-05:00",
   "stories": [
     {
       "title": "I'm helping my dog vibe code games",
-      "score": 587,
+      "score": 727,
       "url": "https://www.calebleak.com/posts/dog-game/",
       "time": 1771953317.0,
       "comments_url": "https://news.ycombinator.com/item?id=47139675"
     },
     {
       "title": "Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3",
-      "score": 107,
+      "score": 166,
       "url": "https://github.com/moonshine-ai/moonshine",
       "time": 1771970047.0,
       "comments_url": "https://news.ycombinator.com/item?id=47143755"
     },
     {
       "title": "Mac mini will be made at a new facility in Houston",
-      "score": 313,
+      "score": 414,
       "url": "https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/",
       "time": 1771967625.0,
       "comments_url": "https://news.ycombinator.com/item?id=47143152"
     },
     {
-      "title": "Cell Service for the Fairly Paranoid",
-      "score": 58,
-      "url": "https://www.cape.co/",
-      "time": 1771972674.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47144325"
+      "title": "Pi – A minimal terminal coding harness",
+      "score": 237,
+      "url": "https://pi.dev",
+      "time": 1771970039.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47143754"
+    },
+    {
+      "title": "Mercury 2: The fastest reasoning LLM, powered by diffusion",
+      "score": 125,
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
+      "time": 1771973183.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47144464"
+    },
+    {
+      "title": "Amazon accused of widespread scheme to inflate prices across the economy",
+      "score": 226,
+      "url": "https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price",
+      "time": 1771981245.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47145907"
+    },
+    {
+      "title": "Justifying Text-Wrap: Pretty",
+      "score": 64,
+      "url": "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html",
+      "time": 1771525795.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47077215"
     },
     {
       "title": "Hacking an old Kindle to display bus arrival times",
-      "score": 162,
+      "score": 193,
       "url": "https://www.mariannefeng.com/portfolio/kindle/",
       "time": 1771962214.0,
       "comments_url": "https://news.ycombinator.com/item?id=47141797"
     },
     {
+      "title": "What Happened to Fry's Electronics",
+      "score": 12,
+      "url": "https://dfarq.homeip.net/what-happened-to-frys-electronics/",
+      "time": 1771991730.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47147122"
+    },
+    {
       "title": "Nearby Glasses",
-      "score": 231,
+      "score": 268,
       "url": "https://github.com/yjeanrenaud/yj_nearbyglasses",
       "time": 1771954840.0,
       "comments_url": "https://news.ycombinator.com/item?id=47140042"
+    },
+    {
+      "title": "Steel Bank Common Lisp",
+      "score": 170,
+      "url": "https://www.sbcl.org/",
+      "time": 1771957457.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47140657"
+    },
+    {
+      "title": "I pitched a roller coaster to Disneyland at age 10 in 1978",
+      "score": 409,
+      "url": "https://wordglyph.xyz/one-piece-at-a-time",
+      "time": 1771938231.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47136604"
+    },
+    {
+      "title": "Code has always been the easy part",
+      "score": 75,
+      "url": "https://laughingmeme.org/2026/02/09/code-has-always-been-the-easy-part.html",
+      "time": 1771670766.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47099476"
     },
     {
       "title": "Corgi Labs (YC W23) Is Hiring",
@@ -51,95 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=47145911"
     },
     {
-      "title": "Mercury 2: The fastest reasoning LLM, powered by diffusion",
-      "score": 41,
-      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
-      "time": 1771973183.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47144464"
-    },
-    {
-      "title": "I pitched a roller coaster to Disneyland at age 10 in 1978",
-      "score": 387,
-      "url": "https://wordglyph.xyz/one-piece-at-a-time",
-      "time": 1771938231.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47136604"
-    },
-    {
-      "title": "Show HN: Emdash – Open-source agentic development environment",
-      "score": 106,
-      "url": "https://github.com/generalaction/emdash",
-      "time": 1771956037.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47140322"
-    },
-    {
-      "title": "Pi – a minimal terminal coding harness",
-      "score": 139,
-      "url": "https://pi.dev",
-      "time": 1771970039.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47143754"
-    },
-    {
-      "title": "Optophone",
-      "score": 29,
-      "url": "https://en.wikipedia.org/wiki/Optophone",
-      "time": 1771621634.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47093978"
-    },
-    {
       "title": "Hugging Face Skills",
-      "score": 134,
+      "score": 146,
       "url": "https://github.com/huggingface/skills",
       "time": 1771954219.0,
       "comments_url": "https://news.ycombinator.com/item?id=47139902"
     },
     {
       "title": "Aesthetics of single threading",
-      "score": 12,
+      "score": 43,
       "url": "https://ta.fo/aesthetics-of-single-threading/",
       "time": 1771704853.0,
       "comments_url": "https://news.ycombinator.com/item?id=47104227"
     },
     {
-      "title": "How we rebuilt Next.js with AI in one week",
-      "score": 355,
-      "url": "https://blog.cloudflare.com/vinext/",
-      "time": 1771963620.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47142156"
+      "title": "Anthropic Drops Flagship Safety Pledge",
+      "score": 117,
+      "url": "https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/",
+      "time": 1771981726.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47145963"
     },
     {
-      "title": "IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight",
-      "score": 181,
-      "url": "https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html",
-      "time": 1771937894.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47136537"
+      "title": "Optophone",
+      "score": 56,
+      "url": "https://en.wikipedia.org/wiki/Optophone",
+      "time": 1771621634.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47093978"
     },
     {
-      "title": "Build Your Own Forth Interpreter",
-      "score": 48,
-      "url": "https://codingchallenges.fyi/challenges/challenge-forth/",
-      "time": 1771683248.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47101034"
+      "title": "Show HN: Emdash – Open-source agentic development environment",
+      "score": 122,
+      "url": "https://github.com/generalaction/emdash",
+      "time": 1771956037.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47140322"
     },
     {
-      "title": "We installed a single turnstile to feel secure",
-      "score": 268,
-      "url": "https://idiallo.com/blog/installed-single-turnstile-for-security-theater",
-      "time": 1771794431.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47114678"
-    },
-    {
-      "title": "OpenAI, the US government and Persona built an identity surveillance machine",
-      "score": 433,
-      "url": "https://vmfunc.re/blog/persona/",
-      "time": 1771957383.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47140632"
-    },
-    {
-      "title": "The history of knocking on wood",
-      "score": 11,
-      "url": "https://resobscura.substack.com/p/neolithic-habits-machine-age-tools",
-      "time": 1771946168.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47138213"
+      "title": "Georgian wine culture dates back, uninterrupted, approximately 8k years",
+      "score": 6,
+      "url": "https://www.wsetglobal.com/knowledge-centre/blog/2023/july/05/exploring-georgian-wine-history-grape-varieties-styles-and-amber-wine/",
+      "time": 1771616228.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47092809"
     }
   ]
 }
