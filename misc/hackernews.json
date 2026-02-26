@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-02-26T10:43:59.020313-05:00",
+  "last_updated": "2026-02-26T13:39:29.654639-05:00",
   "stories": [
     {
+      "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
+      "score": 189,
+      "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
+      "time": 1772121348.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47167763"
+    },
+    {
+      "title": "Google Street View in 2026",
+      "score": 40,
+      "url": "https://tech.marksblogg.com/google-street-view-coverage.html",
+      "time": 1772127483.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47169278"
+    },
+    {
+      "title": "Open Source Endowment – new funding source for open source maintainers",
+      "score": 114,
+      "url": "https://endowment.dev/",
+      "time": 1772122386.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47168012"
+    },
+    {
+      "title": "Palm OS User Interface Guidelines [pdf, 2003]",
+      "score": 42,
+      "url": "https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf",
+      "time": 1772125265.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47168726"
+    },
+    {
+      "title": "Nano Banana 2: Google's latest AI image generation model",
+      "score": 283,
+      "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+      "time": 1772121757.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47167858"
+    },
+    {
+      "title": "Will vibe coding end like the maker movement?",
+      "score": 59,
+      "url": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
+      "time": 1772122031.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47167931"
+    },
+    {
+      "title": "I baked a pie every day for a year and it changed my life",
+      "score": 28,
+      "url": "https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life",
+      "time": 1771880074.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47128645"
+    },
+    {
+      "title": "SynthID",
+      "score": 21,
+      "url": "https://deepmind.google/models/synthid/",
+      "time": 1772126915.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47169146"
+    },
+    {
+      "title": "Bild AI (YC W25) Is Hiring Interns to Make Housing Affordable",
+      "score": 1,
+      "url": "https://www.workatastartup.com/jobs/80596",
+      "time": 1772125225.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47168721"
+    },
+    {
       "title": "Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line",
-      "score": 168,
+      "score": 238,
       "url": "https://gitlab.com/here_forawhile/terminalphone",
       "time": 1772102445.0,
       "comments_url": "https://news.ycombinator.com/item?id=47164270"
     },
     {
-      "title": "Anthropic ditches its core safety promise",
-      "score": 283,
-      "url": "https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change",
-      "time": 1772110370.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47165397"
-    },
-    {
       "title": "Google API keys weren't secrets, but then Gemini changed the rules",
-      "score": 967,
+      "score": 1086,
       "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
       "time": 1772049254.0,
       "comments_url": "https://news.ycombinator.com/item?id=47156925"
     },
     {
-      "title": "Fentanyl makeover: Core structural redesign could lead to safer pain medications",
-      "score": 38,
-      "url": "https://www.scripps.edu/news-and-events/press-room/2026/20260211-janda-molecule.html",
-      "time": 1772109868.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47165299"
-    },
-    {
-      "title": "In 2025, Meta paid an effective federal tax rate of 3.5%",
-      "score": 26,
-      "url": "https://bsky.app/profile/rbreich.bsky.social/post/3mfptlfeucn2i",
-      "time": 1772118860.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47167171"
-    },
-    {
-      "title": "just-bash: Bash for Agents",
-      "score": 21,
-      "url": "https://github.com/vercel-labs/just-bash",
-      "time": 1772111790.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47165648"
-    },
-    {
-      "title": "Show HN: Agent Swarm – Multi-agent self-learning teams (OSS)",
-      "score": 58,
-      "url": "https://github.com/desplega-ai/agent-swarm",
-      "time": 1772108138.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47165046"
-    },
-    {
       "title": "BuildKit: Docker's Hidden Gem That Can Build Almost Anything",
-      "score": 9,
+      "score": 73,
       "url": "https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/",
       "time": 1772114746.0,
       "comments_url": "https://news.ycombinator.com/item?id=47166264"
     },
     {
-      "title": "Tell HN: YC companies scrape GitHub activity, send spam emails to users",
-      "score": 304,
-      "url": "https://news.ycombinator.com/item?id=47163885",
-      "time": 1772098508.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47163885"
+      "title": "Anthropic ditches its core safety promise",
+      "score": 523,
+      "url": "https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change",
+      "time": 1772110370.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47165397"
     },
     {
-      "title": "Jimi Hendrix was a systems engineer",
-      "score": 575,
-      "url": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
-      "time": 1772050607.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47157224"
+      "title": "Show HN: Hacker Smacker – spot great (and terrible) HN commenters at a glance",
+      "score": 19,
+      "url": "https://hackersmacker.org",
+      "time": 1771959616.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47141119"
     },
     {
-      "title": "Banned in California",
-      "score": 315,
-      "url": "https://www.bannedincalifornia.org/",
-      "time": 1772061400.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47159430"
+      "title": "just-bash: Bash for Agents",
+      "score": 70,
+      "url": "https://github.com/vercel-labs/just-bash",
+      "time": 1772111790.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47165648"
     },
     {
-      "title": "Hightouch (YC S19) Is Hiring",
-      "score": 1,
-      "url": "https://hightouch.com/careers#open-positions",
-      "time": 1772107334.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47164933"
+      "title": "Steering interpretable language models with concept algebra",
+      "score": 12,
+      "url": "https://www.guidelabs.ai/post/steerling-steering-8b/",
+      "time": 1772063734.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47159833"
     },
     {
-      "title": "How will OpenAI compete?",
-      "score": 358,
-      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
-      "time": 1772058565.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47158975"
+      "title": "Show HN: Beehive – Multi-Workspace Agent Orchestrator",
+      "score": 7,
+      "url": "https://storozhenko98.github.io/beehive/",
+      "time": 1771929676.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47135425"
     },
     {
-      "title": "Those who can, teach history",
-      "score": 15,
-      "url": "https://www.historytoday.com/archive/making-history/those-who-can-teach-history",
-      "time": 1771717024.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47106275"
+      "title": "Show HN: Mission Control – Open-source task management for AI agents",
+      "score": 7,
+      "url": "https://github.com/MeisnerDan/mission-control",
+      "time": 1772111553.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47165602"
     },
     {
-      "title": "Story of XZ Backdoor [video]",
-      "score": 31,
-      "url": "https://www.youtube.com/watch?v=aoag03mSuXQ",
-      "time": 1772115665.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47166473"
+      "title": "iPhone and iPad approved to handle classified NATO information",
+      "score": 17,
+      "url": "https://www.apple.com/newsroom/2026/02/iphone-and-ipad-approved-to-handle-classified-nato-information/",
+      "time": 1772129805.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47169815"
     },
     {
-      "title": "First Website (1992)",
-      "score": 273,
-      "url": "https://info.cern.ch",
-      "time": 1772060578.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47159302"
-    },
-    {
-      "title": "Making MCP cheaper via CLI",
-      "score": 281,
-      "url": "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html",
-      "time": 1772051377.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47157398"
-    },
-    {
-      "title": "Windows 11 Notepad to support Markdown",
-      "score": 325,
-      "url": "https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/",
-      "time": 1772039659.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47154399"
-    },
-    {
-      "title": "A 26-Gram Butterfly-Inspired Robot Achieving Autonomous Tailless Flight",
-      "score": 37,
-      "url": "https://arxiv.org/abs/2602.06811",
-      "time": 1771769709.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47111164"
-    },
-    {
-      "title": "Artist who “paints” portraits on glass by hitting it with a hammer",
-      "score": 219,
-      "url": "https://simonbergerart.com",
-      "time": 1771777548.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47112299"
+      "title": "Twitch: \"Hey, come back! This commercial break can't play while you're away.\"",
+      "score": 33,
+      "url": "https://twitter.com/KryDotExe/status/2026806591517856208",
+      "time": 1772129516.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47169748"
     }
   ]
 }
