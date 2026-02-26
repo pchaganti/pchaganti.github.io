@@ -1,61 +1,103 @@
 {
-  "last_updated": "2026-02-26T13:39:29.654639-05:00",
+  "last_updated": "2026-02-26T16:24:42.779482-05:00",
   "stories": [
     {
       "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
-      "score": 189,
+      "score": 267,
       "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
       "time": 1772121348.0,
       "comments_url": "https://news.ycombinator.com/item?id=47167763"
     },
     {
-      "title": "Google Street View in 2026",
-      "score": 40,
-      "url": "https://tech.marksblogg.com/google-street-view-coverage.html",
-      "time": 1772127483.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47169278"
-    },
-    {
-      "title": "Open Source Endowment – new funding source for open source maintainers",
-      "score": 114,
-      "url": "https://endowment.dev/",
-      "time": 1772122386.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47168012"
-    },
-    {
-      "title": "Palm OS User Interface Guidelines [pdf, 2003]",
-      "score": 42,
-      "url": "https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf",
-      "time": 1772125265.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47168726"
-    },
-    {
-      "title": "Nano Banana 2: Google's latest AI image generation model",
-      "score": 283,
-      "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
-      "time": 1772121757.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47167858"
+      "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
+      "score": 56,
+      "url": "https://www.usecardboard.com/",
+      "time": 1772131118.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47170174"
     },
     {
       "title": "Will vibe coding end like the maker movement?",
-      "score": 59,
+      "score": 181,
       "url": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
       "time": 1772122031.0,
       "comments_url": "https://news.ycombinator.com/item?id=47167931"
     },
     {
+      "title": "What Claude Code Chooses",
+      "score": 77,
+      "url": "https://amplifying.ai/research/claude-code-picks",
+      "time": 1772129546.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47169757"
+    },
+    {
+      "title": "Palm OS User Interface Guidelines (2003) [pdf]",
+      "score": 111,
+      "url": "https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf",
+      "time": 1772125265.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47168726"
+    },
+    {
+      "title": "OsmAnd's Faster Offline Navigation",
+      "score": 53,
+      "url": "https://osmand.net/blog/fast-routing/",
+      "time": 1772131079.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47170157"
+    },
+    {
       "title": "I baked a pie every day for a year and it changed my life",
-      "score": 28,
+      "score": 145,
       "url": "https://www.theguardian.com/lifeandstyle/2026/feb/22/a-new-start-after-60-i-baked-a-pie-every-day-for-a-year-and-it-changed-my-life",
       "time": 1771880074.0,
       "comments_url": "https://news.ycombinator.com/item?id=47128645"
     },
     {
-      "title": "SynthID",
-      "score": 21,
-      "url": "https://deepmind.google/models/synthid/",
-      "time": 1772126915.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47169146"
+      "title": "Museum of Plugs and Sockets",
+      "score": 24,
+      "url": "https://plugsocketmuseum.nl/index.html",
+      "time": 1771865938.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47124999"
+    },
+    {
+      "title": "Google API keys weren't secrets, but then Gemini changed the rules",
+      "score": 1175,
+      "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
+      "time": 1772049254.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47156925"
+    },
+    {
+      "title": "Show HN: Deff – side-by-side Git diff review in your terminal",
+      "score": 43,
+      "url": "https://github.com/flamestro/deff",
+      "time": 1772128446.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47169518"
+    },
+    {
+      "title": "Show HN: Hacker Smacker – spot great (and terrible) HN commenters at a glance",
+      "score": 59,
+      "url": "https://hackersmacker.org",
+      "time": 1771959616.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47141119"
+    },
+    {
+      "title": "Nano Banana 2: Google's latest AI image generation model",
+      "score": 394,
+      "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+      "time": 1772121757.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47167858"
+    },
+    {
+      "title": "Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line",
+      "score": 265,
+      "url": "https://gitlab.com/here_forawhile/terminalphone",
+      "time": 1772102445.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47164270"
+    },
+    {
+      "title": "BuildKit: Docker's Hidden Gem That Can Build Almost Anything",
+      "score": 114,
+      "url": "https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/",
+      "time": 1772114746.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47166264"
     },
     {
       "title": "Bild AI (YC W25) Is Hiring Interns to Make Housing Affordable",
@@ -65,81 +107,39 @@
       "comments_url": "https://news.ycombinator.com/item?id=47168721"
     },
     {
-      "title": "Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line",
-      "score": 238,
-      "url": "https://gitlab.com/here_forawhile/terminalphone",
-      "time": 1772102445.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47164270"
+      "title": "Show HN: Linex – A daily challenge: placing pieces on a board that fights back",
+      "score": 28,
+      "url": "https://www.playlinex.com/",
+      "time": 1771976038.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47145082"
     },
     {
-      "title": "Google API keys weren't secrets, but then Gemini changed the rules",
-      "score": 1086,
-      "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
-      "time": 1772049254.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47156925"
+      "title": "Google Street View in 2026",
+      "score": 100,
+      "url": "https://tech.marksblogg.com/google-street-view-coverage.html",
+      "time": 1772127483.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47169278"
     },
     {
-      "title": "BuildKit: Docker's Hidden Gem That Can Build Almost Anything",
-      "score": 73,
-      "url": "https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/",
-      "time": 1772114746.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47166264"
-    },
-    {
-      "title": "Anthropic ditches its core safety promise",
-      "score": 523,
-      "url": "https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change",
-      "time": 1772110370.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47165397"
-    },
-    {
-      "title": "Show HN: Hacker Smacker – spot great (and terrible) HN commenters at a glance",
-      "score": 19,
-      "url": "https://hackersmacker.org",
-      "time": 1771959616.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47141119"
-    },
-    {
-      "title": "just-bash: Bash for Agents",
-      "score": 70,
-      "url": "https://github.com/vercel-labs/just-bash",
-      "time": 1772111790.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47165648"
+      "title": "Lidar waveforms are worth 40x128x33 words",
+      "score": 5,
+      "url": "https://openaccess.thecvf.com/content/ICCV2025/html/Scheuble_Lidar_Waveforms_are_Worth_40x128x33_Words_ICCV_2025_paper.html",
+      "time": 1771849183.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47121352"
     },
     {
       "title": "Steering interpretable language models with concept algebra",
-      "score": 12,
+      "score": 30,
       "url": "https://www.guidelabs.ai/post/steerling-steering-8b/",
       "time": 1772063734.0,
       "comments_url": "https://news.ycombinator.com/item?id=47159833"
     },
     {
-      "title": "Show HN: Beehive – Multi-Workspace Agent Orchestrator",
-      "score": 7,
-      "url": "https://storozhenko98.github.io/beehive/",
-      "time": 1771929676.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47135425"
-    },
-    {
-      "title": "Show HN: Mission Control – Open-source task management for AI agents",
-      "score": 7,
-      "url": "https://github.com/MeisnerDan/mission-control",
-      "time": 1772111553.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47165602"
-    },
-    {
-      "title": "iPhone and iPad approved to handle classified NATO information",
-      "score": 17,
-      "url": "https://www.apple.com/newsroom/2026/02/iphone-and-ipad-approved-to-handle-classified-nato-information/",
-      "time": 1772129805.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47169815"
-    },
-    {
-      "title": "Twitch: \"Hey, come back! This commercial break can't play while you're away.\"",
-      "score": 33,
-      "url": "https://twitter.com/KryDotExe/status/2026806591517856208",
-      "time": 1772129516.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47169748"
+      "title": "Show HN: Rev-dep – 20x faster knip.dev alternative build in Go",
+      "score": 24,
+      "url": "https://github.com/jayu/rev-dep",
+      "time": 1772131647.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47170299"
     }
   ]
 }
