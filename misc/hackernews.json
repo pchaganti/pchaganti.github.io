@@ -1,96 +1,131 @@
 {
-  "last_updated": "2026-02-27T07:36:58.851578-05:00",
+  "last_updated": "2026-02-27T10:30:58.983352-05:00",
   "stories": [
     {
+      "title": "We deserve a better streams API for JavaScript",
+      "score": 54,
+      "url": "https://blog.cloudflare.com/a-better-web-streams-api/",
+      "time": 1772200973.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47180569"
+    },
+    {
       "title": "Statement from Dario Amodei on our discussions with the Department of War",
-      "score": 2107,
+      "score": 2465,
       "url": "https://www.anthropic.com/news/statement-department-of-war",
       "time": 1772145767.0,
       "comments_url": "https://news.ycombinator.com/item?id=47173121"
     },
     {
       "title": "Can you reverse engineer our neural network?",
-      "score": 62,
+      "score": 156,
       "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
       "time": 1771986013.0,
       "comments_url": "https://news.ycombinator.com/item?id=47146487"
     },
     {
       "title": "F-Droid Board of Directors nominations 2026",
-      "score": 43,
+      "score": 94,
       "url": "https://f-droid.org/2026/02/26/board-of-directors-nominations.html",
       "time": 1772188049.0,
       "comments_url": "https://news.ycombinator.com/item?id=47178863"
     },
     {
-      "title": "Dyson settles forced labour suit in landmark UK case",
-      "score": 53,
-      "url": "https://www.bbc.com/news/articles/cddnry8dnl7o",
-      "time": 1772187700.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47178836"
+      "title": "Show HN: RetroTick – Run classic Windows EXEs in the browser",
+      "score": 49,
+      "url": "https://retrotick.com/",
+      "time": 1772197610.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47180083"
     },
     {
-      "title": "The normalization of corruption in organizations (2003) [pdf]",
-      "score": 107,
-      "url": "https://gwern.net/doc/sociology/2003-ashforth.pdf",
-      "time": 1772173283.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47177186"
+      "title": "Show HN: Badge that shows how well your codebase fits in an LLM's context window",
+      "score": 7,
+      "url": "https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens",
+      "time": 1772205282.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47181471"
     },
     {
       "title": "An interactive intro to quadtrees",
-      "score": 42,
+      "score": 116,
       "url": "https://growingswe.com/blog/quadtrees",
       "time": 1771954265.0,
       "comments_url": "https://news.ycombinator.com/item?id=47139911"
     },
     {
+      "title": "The normalization of corruption in organizations (2003) [pdf]",
+      "score": 177,
+      "url": "https://gwern.net/doc/sociology/2003-ashforth.pdf",
+      "time": 1772173283.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47177186"
+    },
+    {
       "title": "The Hunt for Dark Breakfast",
-      "score": 281,
+      "score": 375,
       "url": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
       "time": 1772164188.0,
       "comments_url": "https://news.ycombinator.com/item?id=47176257"
     },
     {
       "title": "Breaking Free",
-      "score": 20,
+      "score": 88,
       "url": "https://www.forbrukerradet.no/breakingfree/",
       "time": 1772186202.0,
       "comments_url": "https://news.ycombinator.com/item?id=47178678"
     },
     {
+      "title": "Tenth Circuit: 4th Amendment Doesn't Support Broad Search of Protesters' Devices",
+      "score": 22,
+      "url": "https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0",
+      "time": 1772204944.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47181391"
+    },
+    {
+      "title": "The quixotic team trying to build a world in a 20-year-old game",
+      "score": 60,
+      "url": "https://arstechnica.com/gaming/2026/02/inside-the-quixotic-team-trying-to-build-an-entire-world-in-a-20-year-old-game/",
+      "time": 1771963864.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47142225"
+    },
+    {
       "title": "Reading English from 1000 Ad",
-      "score": 12,
+      "score": 44,
       "url": "https://lewiscampbell.tech/blog/260224.html",
       "time": 1771898810.0,
       "comments_url": "https://news.ycombinator.com/item?id=47131980"
     },
     {
+      "title": "Get free Claude max 20x for open-source maintainers",
+      "score": 61,
+      "url": "https://claude.com/contact-sales/claude-for-oss",
+      "time": 1772183338.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47178371"
+    },
+    {
+      "title": "OpenAI raises $110B on $730B pre-money valuation",
+      "score": 18,
+      "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+      "time": 1772204165.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47181211"
+    },
+    {
       "title": "What Claude Code chooses",
-      "score": 463,
+      "score": 519,
       "url": "https://amplifying.ai/research/claude-code-picks",
       "time": 1772129546.0,
       "comments_url": "https://news.ycombinator.com/item?id=47169757"
     },
     {
-      "title": "Compact disc story (1998)",
-      "score": 13,
-      "url": "https://www.researchgate.net/publication/294484774_Compact_disc_story",
-      "time": 1772163208.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47176150"
+      "title": "How to Allocate Memory",
+      "score": 14,
+      "url": "https://geocar.sdf1.org/alloc.html",
+      "time": 1771959391.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47141069"
     },
     {
-      "title": "MitID, Denmarks sole digital ID, has been down for over an hour and counting",
-      "score": 60,
-      "url": "https://www.digitaliser.dk/mitid/nyt-fra-mitid/2026/feb/driftsforstyrrelser-mitid",
-      "time": 1772189527.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47179038"
-    },
-    {
-      "title": "Quantitativity on the number of rational points in the Mordell conjecture",
-      "score": 5,
-      "url": "https://www.scientificamerican.com/article/mathematicians-make-a-breakthrough-on-2-000-year-old-problem-of-curves/",
-      "time": 1772112766.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47165840"
+      "title": "OpenAI's $110B funding round (investments from Amazon, Nvidia, SoftBank)",
+      "score": 17,
+      "url": "https://www.reuters.com/business/retail-consumer/amazon-invest-50-billion-openai-2026-02-27/",
+      "time": 1772203492.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47181051"
     },
     {
       "title": "Ubicloud (YC W24): Software Engineer – $95-$250K in Turkey, Netherlands, CA",
@@ -100,46 +135,11 @@
       "comments_url": "https://news.ycombinator.com/item?id=47178176"
     },
     {
-      "title": "80386 Protection",
-      "score": 89,
-      "url": "https://nand2mario.github.io/posts/2026/80386_protection/",
-      "time": 1771948592.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47138698"
-    },
-    {
-      "title": "The quixotic team trying to build a world in a 20-year-old game",
-      "score": 9,
-      "url": "https://arstechnica.com/gaming/2026/02/inside-the-quixotic-team-trying-to-build-an-entire-world-in-a-20-year-old-game/",
-      "time": 1771963864.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47142225"
-    },
-    {
-      "title": "What does \" 2>&1 \" mean?",
-      "score": 324,
-      "url": "https://stackoverflow.com/questions/818255/what-does-21-mean",
-      "time": 1772135926.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47171233"
-    },
-    {
-      "title": "The complete Manic Miner disassembly",
-      "score": 15,
-      "url": "https://skoolkit.ca/disassemblies/manic_miner/",
-      "time": 1772179372.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47177877"
-    },
-    {
-      "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
-      "score": 373,
-      "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
-      "time": 1772121348.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47167763"
-    },
-    {
-      "title": "Layoffs at Block",
-      "score": 764,
-      "url": "https://twitter.com/jack/status/2027129697092731343",
-      "time": 1772140676.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47172119"
+      "title": "Working on Pharo Smalltalk: BPatterns: Rewrite Engine with Smalltalk Style",
+      "score": 36,
+      "url": "http://dionisiydk.blogspot.com/2026/02/bpatterns-rewrite-engine-with-smalltalk.html",
+      "time": 1772183088.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47178344"
     }
   ]
 }
