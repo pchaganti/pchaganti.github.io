@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-02-28T20:23:59.836263-05:00",
+  "last_updated": "2026-02-28T23:48:17.126550-05:00",
   "stories": [
     {
+      "title": "Microgpt",
+      "score": 322,
+      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+      "time": 1772329166.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47202708"
+    },
+    {
       "title": "We do not think Anthropic should be designated as a supply chain risk",
-      "score": 185,
+      "score": 372,
       "url": "https://twitter.com/OpenAI/status/2027846016423321831",
       "time": 1772313856.0,
       "comments_url": "https://news.ycombinator.com/item?id=47200420"
     },
     {
       "title": "The Windows 95 user interface: A case study in usability engineering (1996)",
-      "score": 114,
+      "score": 186,
       "url": "https://dl.acm.org/doi/fullHtml/10.1145/238386.238611",
       "time": 1772317176.0,
       "comments_url": "https://news.ycombinator.com/item?id=47200904"
     },
     {
-      "title": "MinIO Is Dead, Long Live MinIO",
-      "score": 187,
-      "url": "https://blog.vonng.com/en/db/minio-resurrect/",
-      "time": 1772313413.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47200342"
-    },
-    {
-      "title": "Obsidian Sync now has a headless client",
-      "score": 376,
-      "url": "https://help.obsidian.md/sync/headless",
-      "time": 1772296313.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47197267"
-    },
-    {
       "title": "The happiest I've ever been",
-      "score": 307,
+      "score": 385,
       "url": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
       "time": 1772079227.0,
       "comments_url": "https://news.ycombinator.com/item?id=47161759"
     },
     {
+      "title": "Obsidian Sync now has a headless client",
+      "score": 428,
+      "url": "https://help.obsidian.md/sync/headless",
+      "time": 1772296313.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47197267"
+    },
+    {
+      "title": "H-Bomb: A Frank Lloyd Wright Typographic Mystery",
+      "score": 39,
+      "url": "https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic",
+      "time": 1772097537.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47163779"
+    },
+    {
       "title": "Show HN: Xmloxide – an agent made rust replacement for libxml2",
-      "score": 15,
+      "score": 43,
       "url": "https://github.com/jonwiggins/xmloxide",
       "time": 1772322281.0,
       "comments_url": "https://news.ycombinator.com/item?id=47201816"
     },
     {
       "title": "Block the “Upgrade to Tahoe” Alerts",
-      "score": 117,
+      "score": 170,
       "url": "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
       "time": 1772305441.0,
       "comments_url": "https://news.ycombinator.com/item?id=47198977"
     },
     {
       "title": "Addressing Antigravity Bans and Reinstating Access",
-      "score": 198,
+      "score": 217,
       "url": "https://github.com/google-gemini/gemini-cli/discussions/20632",
       "time": 1772286613.0,
       "comments_url": "https://news.ycombinator.com/item?id=47195371"
     },
     {
-      "title": "Verified Spec-Driven Development (VSDD)",
-      "score": 141,
-      "url": "https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00",
-      "time": 1772297934.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47197595"
-    },
-    {
       "title": "Woxi: Wolfram Mathematica Reimplementation in Rust",
-      "score": 242,
+      "score": 263,
       "url": "https://github.com/ad-si/Woxi",
       "time": 1772043886.0,
       "comments_url": "https://news.ycombinator.com/item?id=47155526"
     },
     {
-      "title": "Deterministic Programming with LLMs",
-      "score": 15,
-      "url": "https://www.mcherm.com/deterministic-programming-with-llms.html",
-      "time": 1772057849.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47158834"
+      "title": "Microsoft announces new \"mini PCs\" for Windows 365",
+      "score": 18,
+      "url": "https://www.neowin.net/news/microsoft-announces-new-mini-pcs-for-windows-365/",
+      "time": 1772129976.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47169858"
     },
     {
-      "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
-      "score": 195,
-      "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
-      "time": 1772310000.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47199781"
+      "title": "Verified Spec-Driven Development (VSDD)",
+      "score": 158,
+      "url": "https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00",
+      "time": 1772297934.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47197595"
     },
     {
       "title": "Building a Minimal Transformer for 10-digit Addition",
-      "score": 29,
+      "score": 44,
       "url": "https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition",
       "time": 1772316621.0,
       "comments_url": "https://news.ycombinator.com/item?id=47200828"
     },
     {
+      "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
+      "score": 275,
+      "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
+      "time": 1772310000.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47199781"
+    },
+    {
+      "title": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
+      "score": 203,
+      "url": "https://nowigetit.us",
+      "time": 1772285376.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47195123"
+    },
+    {
+      "title": "SpacetimeDB ThreeJS Support",
+      "score": 10,
+      "url": "https://discourse.threejs.org/t/spacetimedb-threejs-support-and-free-tier/90052",
+      "time": 1772050821.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47157265"
+    },
+    {
+      "title": "MCP server that reduces Claude Code context consumption by 98%",
+      "score": 281,
+      "url": "https://mksg.lu/blog/context-mode",
+      "time": 1772272880.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47193064"
+    },
+    {
       "title": "Werner Herzog Between Fact and Fiction",
-      "score": 62,
+      "score": 70,
       "url": "https://www.thenation.com/article/culture/werner-herzog-future-truth/",
       "time": 1772180865.0,
       "comments_url": "https://news.ycombinator.com/item?id=47178051"
     },
     {
       "title": "New evidence that Cantor plagiarized Dedekind?",
-      "score": 107,
+      "score": 114,
       "url": "https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/",
       "time": 1772040513.0,
       "comments_url": "https://news.ycombinator.com/item?id=47154637"
     },
     {
-      "title": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
-      "score": 181,
-      "url": "https://nowigetit.us",
-      "time": 1772285376.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47195123"
-    },
-    {
-      "title": "The whole thing was a scam",
-      "score": 579,
-      "url": "https://garymarcus.substack.com/p/the-whole-thing-was-scam",
-      "time": 1772297509.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47197505"
-    },
-    {
-      "title": "The archivist preserving decaying floppy disks",
-      "score": 44,
-      "url": "https://www.popsci.com/technology/floppy-disk-archivist-project/",
-      "time": 1772033332.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47152835"
-    },
-    {
-      "title": "747s and Coding Agents",
-      "score": 121,
-      "url": "https://carlkolon.com/2026/02/27/engineering-747-coding-agents/",
-      "time": 1772212920.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47182986"
-    },
-    {
-      "title": "MCP server that reduces Claude Code context consumption by 98%",
-      "score": 218,
-      "url": "https://mksg.lu/blog/context-mode",
-      "time": 1772272880.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47193064"
+      "title": "Deterministic Programming with LLMs",
+      "score": 34,
+      "url": "https://www.mcherm.com/deterministic-programming-with-llms.html",
+      "time": 1772057849.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47158834"
     }
   ]
 }
