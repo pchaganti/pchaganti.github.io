@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-03-01T23:42:58.833537-05:00",
+  "last_updated": "2026-03-02T01:44:41.354594-05:00",
   "stories": [
     {
-      "title": "WebMCP is available for early preview",
-      "score": 207,
-      "url": "https://developer.chrome.com/blog/webmcp-epp",
-      "time": 1772403238.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47211249"
-    },
-    {
-      "title": "If AI writes code, should the session be part of the commit?",
-      "score": 59,
-      "url": "https://github.com/mandel-macaque/memento",
-      "time": 1772411272.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47212355"
-    },
-    {
-      "title": "Show HN: Timber – Ollama for classical ML models, 336x faster than Python",
-      "score": 60,
-      "url": "https://github.com/kossisoroyce/timber",
-      "time": 1772413060.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47212576"
-    },
-    {
       "title": "Computer-generated dream world: Virtual reality for a 286 processor",
-      "score": 3,
+      "score": 58,
       "url": "https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/",
       "time": 1772425433.0,
       "comments_url": "https://news.ycombinator.com/item?id=47213866"
     },
     {
+      "title": "If AI writes code, should the session be part of the commit?",
+      "score": 144,
+      "url": "https://github.com/mandel-macaque/memento",
+      "time": 1772411272.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47212355"
+    },
+    {
+      "title": "Evolving descriptive text of mental content from human brain activity",
+      "score": 11,
+      "url": "https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts",
+      "time": 1772429976.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47214250"
+    },
+    {
+      "title": "WebMCP is available for early preview",
+      "score": 250,
+      "url": "https://developer.chrome.com/blog/webmcp-epp",
+      "time": 1772403238.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47211249"
+    },
+    {
       "title": "Everett shuts down Flock camera network after judge rules footage public record",
-      "score": 36,
+      "score": 149,
       "url": "https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae",
       "time": 1772424360.0,
       "comments_url": "https://news.ycombinator.com/item?id=47213764"
     },
     {
-      "title": "Little Free Library",
-      "score": 88,
-      "url": "https://littlefreelibrary.org/",
-      "time": 1772403490.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47211280"
+      "title": "Show HN: Timber – Ollama for classical ML models, 336x faster than Python",
+      "score": 98,
+      "url": "https://github.com/kossisoroyce/timber",
+      "time": 1772413060.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47212576"
+    },
+    {
+      "title": "How to record and retrieve anything you've ever had to look up twice",
+      "score": 18,
+      "url": "https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase",
+      "time": 1772424916.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47213819"
+    },
+    {
+      "title": "Show HN: I built a zero-browser, pure-JS typesetting engine for bit-perfect PDFs",
+      "score": 52,
+      "url": "https://github.com/cosmiciron/vmprint",
+      "time": 1772367911.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47206082"
+    },
+    {
+      "title": "Frankensqlite a Rust reimplementation of SQLite with concurrent writers",
+      "score": 36,
+      "url": "https://frankensqlite.com/",
+      "time": 1772163799.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47176209"
     },
     {
       "title": "Right-sizes LLM models to your system's RAM, CPU, and GPU",
-      "score": 47,
+      "score": 92,
       "url": "https://github.com/AlexsJones/llmfit",
       "time": 1772406916.0,
       "comments_url": "https://news.ycombinator.com/item?id=47211830"
     },
     {
       "title": "Ghostty – Terminal Emulator",
-      "score": 666,
+      "score": 693,
       "url": "https://ghostty.org/docs",
       "time": 1772367183.0,
       "comments_url": "https://news.ycombinator.com/item?id=47206009"
     },
     {
       "title": "Tove Jansson's criticized illustrations of The Hobbit (2023)",
-      "score": 121,
+      "score": 140,
       "url": "https://tovejansson.com/hobbit-tolkien/",
       "time": 1772209073.0,
       "comments_url": "https://news.ycombinator.com/item?id=47182284"
     },
     {
-      "title": "Show HN: I built a zero-browser, pure-JS typesetting engine for bit-perfect PDFs",
-      "score": 8,
-      "url": "https://github.com/cosmiciron/vmprint",
-      "time": 1772367911.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47206082"
-    },
-    {
       "title": "Why does C have the best file API",
-      "score": 83,
+      "score": 101,
       "url": "https://maurycyz.com/misc/c_files/",
       "time": 1772393104.0,
       "comments_url": "https://news.ycombinator.com/item?id=47209788"
     },
     {
-      "title": "Show HN: Vibe Code your 3D Models",
-      "score": 31,
-      "url": "https://github.com/ierror/synaps-cad",
-      "time": 1772213254.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47183039"
+      "title": "Little Free Library",
+      "score": 103,
+      "url": "https://littlefreelibrary.org/",
+      "time": 1772403490.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47211280"
     },
     {
       "title": "When does MCP make sense vs CLI?",
-      "score": 318,
+      "score": 352,
       "url": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
       "time": 1772384089.0,
       "comments_url": "https://news.ycombinator.com/item?id=47208398"
     },
     {
-      "title": "C64 Copy Protection",
-      "score": 24,
-      "url": "https://www.commodoregames.net/copyprotection/",
-      "time": 1772150392.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47174189"
-    },
-    {
-      "title": "Running Neural Amp Modeler on embedded hardware",
-      "score": 19,
-      "url": "https://www.tone3000.com/blog/running-nam-on-embedded-hardware",
-      "time": 1772216977.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47183793"
-    },
-    {
-      "title": "What our DNA reveals about the sex life of Neanderthals",
-      "score": 32,
-      "url": "https://www.nytimes.com/2026/02/26/science/human-evolution-neanderthal-sex.html",
-      "time": 1772142908.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47172481"
-    },
-    {
       "title": "Decision trees – the unreasonable power of nested decision rules",
-      "score": 425,
+      "score": 458,
       "url": "https://mlu-explain.github.io/decision-tree/",
       "time": 1772355352.0,
       "comments_url": "https://news.ycombinator.com/item?id=47204964"
     },
     {
-      "title": "Long Range E-Bike (2021)",
-      "score": 132,
-      "url": "https://jacquesmattheij.com/long-range-ebike/",
-      "time": 1772113292.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47165965"
+      "title": "Enable CORS for Your Blog",
+      "score": 10,
+      "url": "https://www.blogsareback.com/guides/enable-cors",
+      "time": 1772214111.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47183196"
+    },
+    {
+      "title": "Have your cake and decompress it too",
+      "score": 8,
+      "url": "https://spiraldb.com/post/cascading-compression-with-btrblocks",
+      "time": 1772206382.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47181714"
     },
     {
       "title": "Next-gen spacecraft are overwhelming communication networks",
-      "score": 39,
+      "score": 57,
       "url": "https://atempleton.bearblog.dev/how-next-gen-spacecraft-are-overwhelming-our-communication-networks/",
       "time": 1772209298.0,
       "comments_url": "https://news.ycombinator.com/item?id=47182339"
     },
     {
-      "title": "Ape Coding [fiction]",
-      "score": 152,
-      "url": "https://rsaksida.com/blog/ape-coding/",
-      "time": 1772374025.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47206798"
+      "title": "Show HN: Vibe Code your 3D Models",
+      "score": 48,
+      "url": "https://github.com/ierror/synaps-cad",
+      "time": 1772213254.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47183039"
     }
   ]
 }
