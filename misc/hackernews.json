@@ -1,47 +1,89 @@
 {
-  "last_updated": "2026-03-04T07:35:47.113216-05:00",
+  "last_updated": "2026-03-04T10:35:49.561775-05:00",
   "stories": [
     {
+      "title": "Nobody Gets Promoted for Simplicity",
+      "score": 331,
+      "url": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/",
+      "time": 1772624612.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47246110"
+    },
+    {
+      "title": "Glaze by Raycast",
+      "score": 91,
+      "url": "https://www.glazeapp.com/",
+      "time": 1772630491.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47247033"
+    },
+    {
+      "title": "\"It Turns Out\"",
+      "score": 31,
+      "url": "https://jsomers.net/blog/it-turns-out",
+      "time": 1772635966.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47248319"
+    },
+    {
       "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
-      "score": 849,
+      "score": 1011,
       "url": "https://grapheneos.social/@GrapheneOS/116160393783585567",
       "time": 1772585911.0,
       "comments_url": "https://news.ycombinator.com/item?id=47241551"
     },
     {
+      "title": "Qwen3.5 Fine-Tuning Guide – Unsloth Documentation",
+      "score": 68,
+      "url": "https://unsloth.ai/docs/models/qwen3.5/fine-tune",
+      "time": 1772625871.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47246296"
+    },
+    {
+      "title": "The one science reform we can all agree on, but we're too cowardly to do",
+      "score": 19,
+      "url": "https://www.experimental-history.com/p/the-one-science-reform-we-can-all",
+      "time": 1772636028.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47248341"
+    },
+    {
+      "title": "Apple Introduces MacBook Neo",
+      "score": 294,
+      "url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
+      "time": 1772633801.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47247645"
+    },
+    {
+      "title": "Chimpanzees Are into Crystals",
+      "score": 43,
+      "url": "https://www.nytimes.com/2026/03/04/science/chimpanzees-crystals.html",
+      "time": 1772610426.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47244395"
+    },
+    {
+      "title": "Libre Solar – Open Hardware for Renewable Energy",
+      "score": 35,
+      "url": "https://libre.solar",
+      "time": 1772355665.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47204994"
+    },
+    {
       "title": "RFC 9849. TLS Encrypted Client Hello",
-      "score": 124,
+      "score": 182,
       "url": "https://www.rfc-editor.org/rfc/rfc9849.html",
       "time": 1772609124.0,
       "comments_url": "https://news.ycombinator.com/item?id=47244291"
     },
     {
-      "title": "Agentic Engineering Patterns",
-      "score": 218,
-      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
-      "time": 1772600437.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47243272"
-    },
-    {
-      "title": "Bet on German Train Delays",
-      "score": 84,
-      "url": "https://bahn.bet",
-      "time": 1772617340.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47245211"
-    },
-    {
       "title": "RE#: how we built the fastest regex engine in F#",
-      "score": 41,
+      "score": 117,
       "url": "https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/",
       "time": 1772372856.0,
       "comments_url": "https://news.ycombinator.com/item?id=47206647"
     },
     {
-      "title": "Better JIT for Postgres",
-      "score": 82,
-      "url": "https://github.com/vladich/pg_jitter",
-      "time": 1772605030.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47243804"
+      "title": "Greg Knauss Is Losing Himself",
+      "score": 29,
+      "url": "https://shapeof.com/archives/2026/2/greg_knauss_is_losing_himself.html",
+      "time": 1772388548.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47209122"
     },
     {
       "title": "Jiga (YC W21) Is Hiring",
@@ -51,95 +93,53 @@
       "comments_url": "https://news.ycombinator.com/item?id=47246268"
     },
     {
-      "title": "A CPU that runs entirely on GPU",
-      "score": 131,
-      "url": "https://github.com/robertcprice/nCPU",
-      "time": 1772598632.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47243069"
-    },
-    {
-      "title": "MacBook Pro with M5 Pro and M5 Max",
-      "score": 804,
-      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
-      "time": 1772546526.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47232453"
-    },
-    {
-      "title": "Graphics Programming Resources",
-      "score": 118,
-      "url": "https://develop--gpvm-website.netlify.app/resources/",
-      "time": 1772590981.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47242193"
-    },
-    {
-      "title": "Show HN: Stacked Game of Life",
-      "score": 50,
-      "url": "https://stacked-game-of-life.koenvangilst.nl/",
-      "time": 1772296134.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47197218"
-    },
-    {
-      "title": "Show HN: I made a zero-copy coroutine tracer to find my scheduler's lost wakeups",
-      "score": 21,
-      "url": "https://github.com/lixiasky-back/coroTracer",
-      "time": 1772534486.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47230620"
-    },
-    {
-      "title": "Claude's Cycles [pdf]",
-      "score": 658,
-      "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
-      "time": 1772535462.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47230710"
-    },
-    {
-      "title": "Users fume over Outlook.com email 'carnage'",
-      "score": 34,
-      "url": "https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/",
-      "time": 1772624026.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47246044"
-    },
-    {
-      "title": "On the Design of Programming Languages (1974) [pdf]",
-      "score": 55,
-      "url": "https://web.cs.ucdavis.edu/~su/teaching/ecs240-w17/readings/PLHistoryGoodDesign.PDF",
-      "time": 1772356144.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47205031"
-    },
-    {
-      "title": "Voxile: A ray-traced game made in its own engine and programming language",
-      "score": 214,
-      "url": "https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update",
-      "time": 1772572227.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47239042"
-    },
-    {
-      "title": "Textadept",
-      "score": 151,
-      "url": "https://orbitalquark.github.io/textadept/",
-      "time": 1772343418.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47204027"
-    },
-    {
-      "title": "My spicy take on vibe coding for PMs",
-      "score": 125,
-      "url": "https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/",
-      "time": 1772581101.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47240736"
-    },
-    {
       "title": "Elevator Saga: The elevator programming game (2015)",
-      "score": 11,
+      "score": 57,
       "url": "https://play.elevatorsaga.com/index.html",
       "time": 1772349960.0,
       "comments_url": "https://news.ycombinator.com/item?id=47204504"
     },
     {
-      "title": "Weave – A language aware merge algorithm based on entities",
-      "score": 137,
-      "url": "https://github.com/Ataraxy-Labs/weave",
-      "time": 1772589141.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47241976"
+      "title": "Agentic Engineering Patterns",
+      "score": 325,
+      "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
+      "time": 1772600437.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47243272"
+    },
+    {
+      "title": "Charging a three-cell nickel-based battery pack with a Li-Ion charger [pdf]",
+      "score": 13,
+      "url": "https://www.ti.com/lit/an/slyt468/slyt468.pdf",
+      "time": 1772549757.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47233336"
+    },
+    {
+      "title": "A CPU that runs entirely on GPU",
+      "score": 169,
+      "url": "https://github.com/robertcprice/nCPU",
+      "time": 1772598632.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47243069"
+    },
+    {
+      "title": "Bet on German Train Delays",
+      "score": 217,
+      "url": "https://bahn.bet",
+      "time": 1772617340.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47245211"
+    },
+    {
+      "title": "Better JIT for Postgres",
+      "score": 113,
+      "url": "https://github.com/vladich/pg_jitter",
+      "time": 1772605030.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47243804"
+    },
+    {
+      "title": "Show HN: Stacked Game of Life",
+      "score": 104,
+      "url": "https://stacked-game-of-life.koenvangilst.nl/",
+      "time": 1772296134.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47197218"
     }
   ]
 }
