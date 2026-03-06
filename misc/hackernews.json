@@ -1,61 +1,103 @@
 {
-  "last_updated": "2026-03-06T13:32:34.997931-05:00",
+  "last_updated": "2026-03-06T16:21:11.943962-05:00",
   "stories": [
     {
+      "title": "Ada 2022",
+      "score": 52,
+      "url": "https://www.adaic.org/ada-resources/standards/ada22/",
+      "time": 1772827428.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47280352"
+    },
+    {
+      "title": "Why it takes you and an elephant the same amount of time to poop (2017)",
+      "score": 38,
+      "url": "https://www.pbs.org/newshour/health/takes-elephant-amount-time-poop",
+      "time": 1772828366.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47280550"
+    },
+    {
+      "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
+      "score": 454,
+      "url": "https://twitter.com/JosephPolitano/status/2029916364664611242",
+      "time": 1772819205.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47278426"
+    },
+    {
+      "title": "Anthropic, Please Make a New Slack",
+      "score": 45,
+      "url": "https://www.fivetran.com/blog/anthropic-please-make-a-new-slack",
+      "time": 1772826728.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47280200"
+    },
+    {
       "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
-      "score": 127,
+      "score": 188,
       "url": "https://github.com/moongate-community/moongatev2",
       "time": 1772806979.0,
       "comments_url": "https://news.ycombinator.com/item?id=47275236"
     },
     {
+      "title": "Hardening Firefox with Anthropic's Red Team",
+      "score": 365,
+      "url": "https://www.anthropic.com/news/mozilla-firefox-security",
+      "time": 1772797998.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47273854"
+    },
+    {
       "title": "Open Camera is a FOSS Camera App for Android",
-      "score": 97,
+      "score": 166,
       "url": "https://opencamera.org.uk/",
       "time": 1772466411.0,
       "comments_url": "https://news.ycombinator.com/item?id=47219462"
     },
     {
-      "title": "Paul Brainerd, Founder of Aldus PageMaker, has died",
-      "score": 43,
-      "url": "https://blog.adafruit.com/2026/03/04/pagemaker-and-aldus-founder-pioneer-paul-brainerd-1947-2026/",
-      "time": 1772811197.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47276220"
-    },
-    {
-      "title": "CT Scans of Health Wearables",
-      "score": 114,
-      "url": "https://www.lumafield.com/scan-of-the-month/health-wearables",
-      "time": 1772806566.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47275152"
-    },
-    {
       "title": "Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs",
-      "score": 4,
+      "score": 24,
       "url": "https://news.ycombinator.com/item?id=47278980",
       "time": 1772821581.0,
       "comments_url": "https://news.ycombinator.com/item?id=47278980"
     },
     {
+      "title": "Apache Otava",
+      "score": 31,
+      "url": "https://otava.apache.org/",
+      "time": 1772375232.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47206990"
+    },
+    {
+      "title": "Payphone Go",
+      "score": 261,
+      "url": "https://walzr.com/payphone-go/",
+      "time": 1772469943.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47220411"
+    },
+    {
+      "title": "CT Scans of Health Wearables",
+      "score": 149,
+      "url": "https://www.lumafield.com/scan-of-the-month/health-wearables",
+      "time": 1772806566.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47275152"
+    },
+    {
+      "title": "Triplet Superconductor",
+      "score": 25,
+      "url": "https://www.sciencedaily.com/releases/2026/02/260221000252.htm",
+      "time": 1772438767.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47215112"
+    },
+    {
       "title": "Astra: An open-source observatory control software",
-      "score": 27,
+      "score": 65,
       "url": "https://github.com/ppp-one/astra",
       "time": 1772813670.0,
       "comments_url": "https://news.ycombinator.com/item?id=47276865"
     },
     {
-      "title": "Supertoast tables",
-      "score": 24,
-      "url": "https://hatchet.run/blog/supertoast-tables",
-      "time": 1772815610.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47277420"
-    },
-    {
-      "title": "Payphone Go",
-      "score": 190,
-      "url": "https://walzr.com/payphone-go/",
-      "time": 1772469943.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47220411"
+      "title": "Entomologists use a particle accelerator to image ants at scale",
+      "score": 65,
+      "url": "https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan",
+      "time": 1772812412.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47276539"
     },
     {
       "title": "Multifactor (YC F25) Is Hiring an Engineering Lead",
@@ -65,81 +107,39 @@
       "comments_url": "https://news.ycombinator.com/item?id=47277679"
     },
     {
-      "title": "Entomologists use a particle accelerator to image ants at scale",
-      "score": 26,
-      "url": "https://spectrum.ieee.org/3d-scanning-particle-accelerator-antscan",
-      "time": 1772812412.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47276539"
-    },
-    {
-      "title": "Analytic Fog Rendering with Volumetric Primitives (2025)",
-      "score": 63,
-      "url": "https://matejlou.blog/2025/02/11/analytic-fog-rendering-with-volumetric-primitives/",
-      "time": 1772727164.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47263441"
-    },
-    {
-      "title": "Workers who love ‘synergizing paradigms’ might be bad at their jobs",
-      "score": 375,
-      "url": "https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs",
-      "time": 1772803854.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47274676"
-    },
-    {
       "title": "LibreSprite – open-source pixel art editor",
-      "score": 192,
+      "score": 220,
       "url": "https://libresprite.github.io/",
       "time": 1772788920.0,
       "comments_url": "https://news.ycombinator.com/item?id=47272799"
     },
     {
-      "title": "Global warming has accelerated significantly",
-      "score": 671,
-      "url": "https://www.researchgate.net/publication/389855619_Global_Warming_has_Accelerated_Significantly",
-      "time": 1772806203.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47275088"
+      "title": "Workers who love ‘synergizing paradigms’ might be bad at their jobs",
+      "score": 450,
+      "url": "https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs",
+      "time": 1772803854.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47274676"
     },
     {
-      "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
-      "score": 45,
-      "url": "https://twitter.com/JosephPolitano/status/2029916364664611242",
-      "time": 1772819205.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47278426"
+      "title": "Analytic Fog Rendering with Volumetric Primitives (2025)",
+      "score": 74,
+      "url": "https://matejlou.blog/2025/02/11/analytic-fog-rendering-with-volumetric-primitives/",
+      "time": 1772727164.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47263441"
     },
     {
-      "title": "Show HN: A trainable, modular electronic nose for industrial use",
-      "score": 8,
-      "url": "https://sniphi.com/",
-      "time": 1772555666.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47234907"
-    },
-    {
-      "title": "Show HN: Claude-replay – A video-like player for Claude Code sessions",
-      "score": 16,
-      "url": "https://github.com/es617/claude-replay",
-      "time": 1772812647.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47276604"
-    },
-    {
-      "title": "GPT-5.4",
-      "score": 956,
-      "url": "https://openai.com/index/introducing-gpt-5-4/",
-      "time": 1772734090.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47265045"
+      "title": "A tool that removes censorship from open-weight LLMs",
+      "score": 55,
+      "url": "https://github.com/elder-plinius/OBLITERATUS",
+      "time": 1772807275.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47275291"
     },
     {
       "title": "Good Bad ISPs",
-      "score": 41,
+      "score": 79,
       "url": "https://community.torproject.org/relay/community-resources/good-bad-isps/",
       "time": 1772806945.0,
       "comments_url": "https://news.ycombinator.com/item?id=47275230"
-    },
-    {
-      "title": "Claude Code wiped our production database with a Terraform command",
-      "score": 12,
-      "url": "https://twitter.com/Al_Grigor/status/2029889772181934425",
-      "time": 1772820472.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47278720"
     }
   ]
 }
