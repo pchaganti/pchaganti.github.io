@@ -1,103 +1,138 @@
 {
-  "last_updated": "2026-03-05T20:19:39.874420-05:00",
+  "last_updated": "2026-03-05T23:26:35.434713-05:00",
   "stories": [
     {
-      "title": "CBP tapped into the online advertising ecosystem to track peoples’ movements",
-      "score": 286,
-      "url": "https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/",
-      "time": 1772639849.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47249387"
-    },
-    {
-      "title": "Where things stand with the Department of War",
-      "score": 63,
-      "url": "https://www.anthropic.com/news/where-stand-department-war",
-      "time": 1772757641.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47269263"
-    },
-    {
       "title": "GPT-5.4",
-      "score": 613,
+      "score": 693,
       "url": "https://openai.com/index/introducing-gpt-5-4/",
       "time": 1772734090.0,
       "comments_url": "https://news.ycombinator.com/item?id=47265045"
     },
     {
-      "title": "The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now",
-      "score": 68,
-      "url": "https://charm.land/blog/v2/",
-      "time": 1772753212.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47268662"
+      "title": "Nobody ever got fired for using a struct",
+      "score": 39,
+      "url": "https://www.feldera.com/blog/nobody-ever-got-fired-for-using-a-struct",
+      "time": 1772493380.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47225655"
     },
     {
-      "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
-      "score": 70,
-      "url": "https://406.fail/",
-      "time": 1772748299.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47267947"
-    },
-    {
-      "title": "The Brand Age",
-      "score": 208,
-      "url": "https://paulgraham.com/brandage.html",
-      "time": 1772732650.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47264756"
+      "title": "Where things stand with the Department of War",
+      "score": 274,
+      "url": "https://www.anthropic.com/news/where-stand-department-war",
+      "time": 1772757641.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47269263"
     },
     {
       "title": "10% of Firefox crashes are caused by bitflips",
-      "score": 245,
+      "score": 358,
       "url": "https://mas.to/@gabrielesvelto/116171750653898304",
       "time": 1772654304.0,
       "comments_url": "https://news.ycombinator.com/item?id=47252971"
     },
     {
-      "title": "Wikipedia was in read-only mode following mass admin account compromise",
-      "score": 867,
-      "url": "https://www.wikimediastatus.net",
-      "time": 1772726694.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47263323"
+      "title": "The Brand Age",
+      "score": 267,
+      "url": "https://paulgraham.com/brandage.html",
+      "time": 1772732650.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47264756"
+    },
+    {
+      "title": "Labor market impacts of AI: A new measure and early evidence",
+      "score": 97,
+      "url": "https://www.anthropic.com/research/labor-market-impacts",
+      "time": 1772751301.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47268391"
+    },
+    {
+      "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
+      "score": 118,
+      "url": "https://406.fail/",
+      "time": 1772748299.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47267947"
+    },
+    {
+      "title": "CBP tapped into the online advertising ecosystem to track peoples’ movements",
+      "score": 405,
+      "url": "https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/",
+      "time": 1772639849.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47249387"
     },
     {
       "title": "Good software knows when to stop",
-      "score": 330,
+      "score": 370,
       "url": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
       "time": 1772718763.0,
       "comments_url": "https://news.ycombinator.com/item?id=47261561"
     },
     {
+      "title": "Stop Using Grey Text (2025)",
+      "score": 31,
+      "url": "https://catskull.net/stop-using-grey-text.html",
+      "time": 1772752557.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47268574"
+    },
+    {
+      "title": "Wikipedia was in read-only mode following mass admin account compromise",
+      "score": 912,
+      "url": "https://www.wikimediastatus.net",
+      "time": 1772726694.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47263323"
+    },
+    {
       "title": "Hardware hotplug events on Linux, the gory details",
-      "score": 114,
+      "score": 124,
       "url": "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html",
       "time": 1772443564.0,
       "comments_url": "https://news.ycombinator.com/item?id=47215602"
     },
     {
-      "title": "A ternary plot of citrus geneology",
-      "score": 83,
-      "url": "https://www.jlauf.com/writing/citrus/",
-      "time": 1772568843.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47238272"
-    },
-    {
       "title": "A GitHub Issue Title Compromised 4k Developer Machines",
-      "score": 307,
+      "score": 351,
       "url": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
       "time": 1772727721.0,
       "comments_url": "https://news.ycombinator.com/item?id=47263595"
     },
     {
+      "title": "Hacking Super Mario 64 using covering spaces",
+      "score": 17,
+      "url": "https://happel.ai/posts/covering-spaces-geometries-visualized/",
+      "time": 1772438203.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47215042"
+    },
+    {
+      "title": "A ternary plot of citrus geneology",
+      "score": 103,
+      "url": "https://www.jlauf.com/writing/citrus/",
+      "time": 1772568843.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47238272"
+    },
+    {
+      "title": "How to install and start using LineageOS on your phone",
+      "score": 19,
+      "url": "https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html",
+      "time": 1772757827.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47269288"
+    },
+    {
       "title": "Show HN: Jido 2.0, Elixir Agent Framework",
-      "score": 242,
+      "score": 258,
       "url": "https://jido.run/blog/jido-2-0-is-here",
       "time": 1772725732.0,
       "comments_url": "https://news.ycombinator.com/item?id=47263036"
     },
     {
-      "title": "OpenTitan Shipping in Production",
-      "score": 80,
-      "url": "https://opensource.googleblog.com/2026/03/opentitan-shipping-in-production.html",
-      "time": 1772736633.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47265619"
+      "title": "Remotely unlocking an encrypted hard disk",
+      "score": 104,
+      "url": "https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/",
+      "time": 1772736239.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47265521"
+    },
+    {
+      "title": "Show HN: PageAgent, A GUI agent that lives inside your web app",
+      "score": 77,
+      "url": "https://alibaba.github.io/page-agent/",
+      "time": 1772730107.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47264138"
     },
     {
       "title": "Structured AI (YC F25) Is Hiring",
@@ -105,41 +140,6 @@
       "url": "https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant",
       "time": 1772744490.0,
       "comments_url": "https://news.ycombinator.com/item?id=47267236"
-    },
-    {
-      "title": "Remotely unlocking an encrypted hard disk",
-      "score": 77,
-      "url": "https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/",
-      "time": 1772736239.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47265521"
-    },
-    {
-      "title": "GLiNER2: Unified Schema-Based Information Extraction",
-      "score": 37,
-      "url": "https://github.com/fastino-ai/GLiNER2",
-      "time": 1772741917.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47266736"
-    },
-    {
-      "title": "Judge orders government to begin refunding more than $130B in tariffs",
-      "score": 773,
-      "url": "https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c",
-      "time": 1772719546.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47261688"
-    },
-    {
-      "title": "Converting dash cam videos into Panoramax images",
-      "score": 27,
-      "url": "https://www.openstreetmap.org/user/FeetAndInches/diary/408268",
-      "time": 1772439415.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47215180"
-    },
-    {
-      "title": "Proton Mail Helped FBI Unmask Anonymous 'Stop Cop City' Protester",
-      "score": 182,
-      "url": "https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/",
-      "time": 1772746540.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47267628"
     }
   ]
 }
