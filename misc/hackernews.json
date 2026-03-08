@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-03-08T05:20:43.863711-04:00",
+  "last_updated": "2026-03-08T08:29:16.062098-04:00",
   "stories": [
     {
+      "title": "Notes on Writing WASM",
+      "score": 38,
+      "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
+      "time": 1772961894.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47295837"
+    },
+    {
       "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
-      "score": 22,
+      "score": 64,
       "url": "https://arxiv.org/abs/2603.03823",
       "time": 1772957510.0,
       "comments_url": "https://news.ycombinator.com/item?id=47295537"
     },
     {
+      "title": "The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp",
+      "score": 22,
+      "url": "https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus/",
+      "time": 1772631574.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47247248"
+    },
+    {
+      "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
+      "score": 48,
+      "url": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn",
+      "time": 1772638969.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47249139"
+    },
+    {
       "title": "Cloud VM benchmarks 2026",
-      "score": 214,
+      "score": 266,
       "url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
       "time": 1772930672.0,
       "comments_url": "https://news.ycombinator.com/item?id=47293119"
     },
     {
-      "title": "\"Warn about PyPy being unmaintained\"",
-      "score": 165,
-      "url": "https://github.com/astral-sh/uv/pull/17643",
-      "time": 1772933721.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47293415"
-    },
-    {
-      "title": "Show HN: Curiosity – DIY 6\" Newtonian Reflector Telescope",
-      "score": 13,
-      "url": "https://curiosity-telescope.vercel.app/",
-      "time": 1772954175.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47295279"
-    },
-    {
-      "title": "From RGB to L*a*b* color space (2024)",
-      "score": 27,
-      "url": "https://kaizoudou.com/from-rgb-to-lab-color-space/",
-      "time": 1772616253.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47245061"
-    },
-    {
-      "title": "CasNum",
-      "score": 276,
-      "url": "https://github.com/0x0mer/CasNum",
-      "time": 1772916231.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47291292"
-    },
-    {
-      "title": "MonoGame: A .NET framework for making cross-platform games",
-      "score": 71,
-      "url": "https://github.com/MonoGame/MonoGame",
-      "time": 1772936162.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47293682"
-    },
-    {
       "title": "How to run Qwen 3.5 locally",
-      "score": 136,
+      "score": 223,
       "url": "https://unsloth.ai/docs/models/qwen3.5",
       "time": 1772926337.0,
       "comments_url": "https://news.ycombinator.com/item?id=47292522"
     },
     {
-      "title": "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
-      "score": 70,
-      "url": "https://thecloudlet.github.io/blog/project/emacs-02/",
-      "time": 1772706195.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47259961"
+      "title": "Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage",
+      "score": 48,
+      "url": "https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/",
+      "time": 1772967272.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47296302"
+    },
+    {
+      "title": "Show HN: Curiosity – DIY 6\" Newtonian Reflector Telescope",
+      "score": 42,
+      "url": "https://curiosity-telescope.vercel.app/",
+      "time": 1772954175.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47295279"
+    },
+    {
+      "title": "Warn about PyPy being unmaintained",
+      "score": 225,
+      "url": "https://github.com/astral-sh/uv/pull/17643",
+      "time": 1772933721.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47293415"
+    },
+    {
+      "title": "The Lobster Programming Language",
+      "score": 26,
+      "url": "https://strlen.com/lobster/",
+      "time": 1772576694.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47239955"
+    },
+    {
+      "title": "CasNum",
+      "score": 299,
+      "url": "https://github.com/0x0mer/CasNum",
+      "time": 1772916231.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47291292"
+    },
+    {
+      "title": "From RGB to L*a*b* color space (2024)",
+      "score": 53,
+      "url": "https://kaizoudou.com/from-rgb-to-lab-color-space/",
+      "time": 1772616253.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47245061"
+    },
+    {
+      "title": "Show HN: Eyot, A programming language where the GPU is just another thread",
+      "score": 4,
+      "url": "https://cowleyforniastudios.com/2026/03/08/announcing-eyot/",
+      "time": 1772967844.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47296355"
+    },
+    {
+      "title": "Sem – Semantic version control. Entity-level diffs on top of Git",
+      "score": 30,
+      "url": "https://github.com/ataraxy-labs/sem",
+      "time": 1772949686.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47294924"
     },
     {
       "title": "A decade of Docker containers",
-      "score": 295,
+      "score": 318,
       "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
       "time": 1772902518.0,
       "comments_url": "https://news.ycombinator.com/item?id=47289311"
     },
     {
-      "title": "Dumping Lego NXT firmware off of an existing brick (2025)",
-      "score": 200,
-      "url": "https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html",
-      "time": 1772781468.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47271988"
-    },
-    {
       "title": "Yoghurt delivery women combatting loneliness in Japan",
-      "score": 282,
+      "score": 312,
       "url": "https://www.bbc.com/travel/article/20260302-the-yoghurt-delivery-women-combatting-loneliness-in-japan",
       "time": 1772889160.0,
       "comments_url": "https://news.ycombinator.com/item?id=47287344"
     },
     {
-      "title": "Show HN: A weird thing that detects your pulse from the browser video",
-      "score": 73,
-      "url": "https://pulsefeedback.io/",
-      "time": 1772634264.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47247762"
+      "title": "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
+      "score": 82,
+      "url": "https://thecloudlet.github.io/blog/project/emacs-02/",
+      "time": 1772706195.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47259961"
     },
     {
-      "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
-      "score": 112,
-      "url": "https://github.com/karpathy/autoresearch",
-      "time": 1772914965.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47291123"
+      "title": "Dumping Lego NXT firmware off of an existing brick (2025)",
+      "score": 214,
+      "url": "https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html",
+      "time": 1772781468.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47271988"
     },
     {
       "title": "The surprising whimsy of the Time Zone Database",
-      "score": 115,
+      "score": 139,
       "url": "https://muddy.jprs.me/links/2026-03-06-the-surprising-whimsy-of-the-time-zone-database/",
       "time": 1772908325.0,
       "comments_url": "https://news.ycombinator.com/item?id=47290198"
     },
     {
-      "title": "Best performance of a C++ singleton",
-      "score": 30,
-      "url": "https://andreasfertig.com/blog/2026/03/best-performance-of-a-cpp-singleton/",
-      "time": 1772804416.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47274768"
-    },
-    {
-      "title": "In 1985 Maxell built a bunch of life-size robots for its bad floppy ad",
-      "score": 108,
-      "url": "https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/",
-      "time": 1772633791.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47247644"
-    },
-    {
-      "title": "Ten years of deploying to production",
-      "score": 25,
-      "url": "https://brandonvin.github.io/2026/03/04/ten-years-of-deploying-to-production.html",
-      "time": 1772720746.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47261858"
-    },
-    {
-      "title": "FLASH radiotherapy's bold approach to cancer treatment",
-      "score": 211,
-      "url": "https://spectrum.ieee.org/flash-radiotherapy",
-      "time": 1772897616.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47288533"
-    },
-    {
-      "title": "macOS code injection for fun and no profit (2024)",
-      "score": 93,
-      "url": "https://mariozechner.at/posts/2024-07-20-macos-code-injection-fun/",
-      "time": 1772643900.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47250500"
+      "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
+      "score": 132,
+      "url": "https://github.com/karpathy/autoresearch",
+      "time": 1772914965.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47291123"
     }
   ]
 }
