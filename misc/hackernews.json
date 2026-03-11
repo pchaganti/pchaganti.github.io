@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-03-11T00:27:23.917868-04:00",
+  "last_updated": "2026-03-11T02:40:15.567476-04:00",
   "stories": [
     {
-      "title": "Tony Hoare has died",
-      "score": 1595,
-      "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
-      "time": 1773154216.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47324054"
-    },
-    {
-      "title": "U+237C ⍼ Is Azimuth",
-      "score": 200,
-      "url": "https://ionathan.ch/2026/02/16/angzarr.html",
-      "time": 1773182025.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47329605"
-    },
-    {
       "title": "Zig – Type Resolution Redesign and Language Changes",
-      "score": 63,
+      "score": 138,
       "url": "https://ziglang.org/devlog/2026/#2026-03-10",
       "time": 1773192287.0,
       "comments_url": "https://news.ycombinator.com/item?id=47330836"
     },
     {
+      "title": "Create value for others and don’t worry about the returns",
+      "score": 26,
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
+      "time": 1773207949.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47332074"
+    },
+    {
+      "title": "U+237C ⍼ Is Azimuth",
+      "score": 245,
+      "url": "https://ionathan.ch/2026/02/16/angzarr.html",
+      "time": 1773182025.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47329605"
+    },
+    {
+      "title": "Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider",
+      "score": 42,
+      "url": "https://github.com/gcv/julia-snail",
+      "time": 1772962054.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47295855"
+    },
+    {
       "title": "Cloudflare crawl endpoint",
-      "score": 176,
+      "score": 230,
       "url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
       "time": 1773181635.0,
       "comments_url": "https://news.ycombinator.com/item?id=47329557"
     },
     {
       "title": "Agents that run while I sleep",
-      "score": 266,
+      "score": 294,
       "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
       "time": 1773169786.0,
       "comments_url": "https://news.ycombinator.com/item?id=47327559"
     },
     {
-      "title": "Writing my own text editor, and daily-driving it",
-      "score": 32,
-      "url": "https://blog.jsbarretto.com/post/text-editor",
-      "time": 1773194662.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47331034"
-    },
-    {
-      "title": "Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider",
-      "score": 15,
-      "url": "https://github.com/gcv/julia-snail",
-      "time": 1772962054.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47295855"
+      "title": "Tony Hoare has died",
+      "score": 1679,
+      "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+      "time": 1773154216.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47324054"
     },
     {
       "title": "Yann LeCun raises $1B to build AI that understands the physical world",
-      "score": 376,
+      "score": 416,
       "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
       "time": 1773132413.0,
       "comments_url": "https://news.ycombinator.com/item?id=47320600"
     },
     {
+      "title": "Writing my own text editor, and daily-driving it",
+      "score": 67,
+      "url": "https://blog.jsbarretto.com/post/text-editor",
+      "time": 1773194662.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47331034"
+    },
+    {
+      "title": "RISC-V Is Sloooow",
+      "score": 201,
+      "url": "https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/",
+      "time": 1773173514.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47328214"
+    },
+    {
       "title": "SSH Secret Menu",
-      "score": 98,
+      "score": 139,
       "url": "https://twitter.com/rebane2001/status/2031037389347406054",
       "time": 1773113318.0,
       "comments_url": "https://news.ycombinator.com/item?id=47318797"
     },
     {
       "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
-      "score": 195,
+      "score": 202,
       "url": "https://github.com/RunanywhereAI/rcli",
       "time": 1773162892.0,
       "comments_url": "https://news.ycombinator.com/item?id=47326101"
     },
     {
       "title": "Debian decides not to decide on AI-generated contributions",
-      "score": 299,
+      "score": 311,
       "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
       "time": 1773154393.0,
       "comments_url": "https://news.ycombinator.com/item?id=47324087"
     },
     {
+      "title": "Standardizing source maps",
+      "score": 12,
+      "url": "https://bloomberg.github.io/js-blog/post/standardizing-source-maps/",
+      "time": 1773204143.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47331802"
+    },
+    {
+      "title": "Levels of Agentic Engineering",
+      "score": 142,
+      "url": "https://www.bassimeledath.com/blog/levels-of-agentic-engineering",
+      "time": 1773132520.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47320614"
+    },
+    {
       "title": "Universal vaccine against respiratory infections and allergens",
-      "score": 155,
+      "score": 196,
       "url": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html",
       "time": 1773182028.0,
       "comments_url": "https://news.ycombinator.com/item?id=47329608"
     },
     {
       "title": "Mesh over Bluetooth LE, TCP, or Reticulum",
-      "score": 55,
+      "score": 69,
       "url": "https://github.com/torlando-tech/columba",
       "time": 1773169321.0,
       "comments_url": "https://news.ycombinator.com/item?id=47327473"
     },
     {
       "title": "FFmpeg-over-IP – Connect to remote FFmpeg servers",
-      "score": 142,
+      "score": 162,
       "url": "https://github.com/steelbrain/ffmpeg-over-ip",
       "time": 1773167199.0,
       "comments_url": "https://news.ycombinator.com/item?id=47327015"
     },
     {
-      "title": "Invoker Commands API",
-      "score": 67,
-      "url": "https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API",
-      "time": 1772957813.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47295559"
+      "title": "Pike: To Exit or Not to Exit",
+      "score": 9,
+      "url": "https://tomjohnell.com/pike-solving-the-should-we-stop-here-or-gamble-on-the-next-exit-problem/",
+      "time": 1772967114.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47296284"
     },
     {
       "title": "Meta acquires Moltbook",
-      "score": 448,
+      "score": 466,
       "url": "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network",
       "time": 1773153486.0,
       "comments_url": "https://news.ycombinator.com/item?id=47323900"
-    },
-    {
-      "title": "Bippy: React Internals Toolkit",
-      "score": 27,
-      "url": "https://www.bippy.dev/",
-      "time": 1772964083.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47295996"
-    },
-    {
-      "title": "Intel Demos Chip to Compute with Encrypted Data",
-      "score": 231,
-      "url": "https://spectrum.ieee.org/fhe-intel",
-      "time": 1773148248.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47322815"
-    },
-    {
-      "title": "Exploring the ocean with Raspberry Pi–powered marine robots",
-      "score": 65,
-      "url": "https://www.raspberrypi.com/news/exploring-the-ocean-with-raspberry-pi-powered-marine-robots/",
-      "time": 1772904594.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47289590"
-    },
-    {
-      "title": "Roblox is minting teen millionaires",
-      "score": 86,
-      "url": "https://www.bloomberg.com/news/articles/2026-03-06/roblox-s-teen-millionaires-are-disrupting-the-gaming-industry",
-      "time": 1772932805.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47293337"
     }
   ]
 }
