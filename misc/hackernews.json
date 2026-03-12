@@ -1,142 +1,142 @@
 {
-  "last_updated": "2026-03-12T05:34:13.252156-04:00",
+  "last_updated": "2026-03-12T08:37:39.762448-04:00",
   "stories": [
     {
+      "title": "Big Data on the Cheapest MacBook",
+      "score": 37,
+      "url": "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook",
+      "time": 1773315674.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47349277"
+    },
+    {
+      "title": "Are LLMs not getting better?",
+      "score": 29,
+      "url": "https://entropicthoughts.com/no-swe-bench-improvement",
+      "time": 1773316145.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47349334"
+    },
+    {
+      "title": "Dolphin Progress Release 2603",
+      "score": 64,
+      "url": "https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/",
+      "time": 1773307381.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47348304"
+    },
+    {
       "title": "3D-Knitting: The Ultimate Guide",
-      "score": 24,
+      "score": 110,
       "url": "https://www.oliver-charles.com/pages/3d-knitting",
       "time": 1773304036.0,
       "comments_url": "https://news.ycombinator.com/item?id=47347945"
     },
     {
-      "title": "SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]",
-      "score": 32,
-      "url": "https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf",
-      "time": 1773298556.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47347362"
+      "title": "Avoiding Trigonometry (2013)",
+      "score": 70,
+      "url": "https://iquilezles.org/articles/noacos/",
+      "time": 1773306417.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47348192"
     },
     {
       "title": "Show HN: s@: decentralized social networking over static sites",
-      "score": 264,
+      "score": 327,
       "url": "http://satproto.org/",
       "time": 1773274939.0,
       "comments_url": "https://news.ycombinator.com/item?id=47344548"
     },
     {
-      "title": "Printf-Tac-Toe",
-      "score": 13,
-      "url": "https://github.com/carlini/printf-tac-toe",
-      "time": 1772971267.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47296645"
-    },
-    {
-      "title": "Temporal: The 9-year journey to fix time in JavaScript",
-      "score": 670,
-      "url": "https://bloomberg.github.io/js-blog/post/temporal/",
-      "time": 1773243350.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47336989"
-    },
-    {
-      "title": "Datahäxan",
-      "score": 54,
-      "url": "https://0dd.company/galleries/witches/7.html",
-      "time": 1773071282.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47310617"
+      "title": "SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]",
+      "score": 72,
+      "url": "https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf",
+      "time": 1773298556.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47347362"
     },
     {
       "title": "Returning to Rails in 2026",
-      "score": 99,
+      "score": 190,
       "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
       "time": 1773295606.0,
       "comments_url": "https://news.ycombinator.com/item?id=47347064"
     },
     {
+      "title": "Temporal: The 9-year journey to fix time in JavaScript",
+      "score": 718,
+      "url": "https://bloomberg.github.io/js-blog/post/temporal/",
+      "time": 1773243350.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47336989"
+    },
+    {
+      "title": "Printf-Tac-Toe",
+      "score": 50,
+      "url": "https://github.com/carlini/printf-tac-toe",
+      "time": 1772971267.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47296645"
+    },
+    {
+      "title": "Thinnings: Sublist Witnesses and de Bruijn Index Shift Clumping",
+      "score": 7,
+      "url": "https://www.philipzucker.com/thin1/",
+      "time": 1773079936.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47313008"
+    },
+    {
       "title": "Making WebAssembly a first-class language on the Web",
-      "score": 550,
+      "score": 597,
       "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
       "time": 1773204286.0,
       "comments_url": "https://news.ycombinator.com/item?id=47331811"
     },
     {
-      "title": "WebPKI and You",
-      "score": 46,
-      "url": "https://blog.brycekerley.net/2026/03/08/webpki-and-you.html",
-      "time": 1773060431.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47308349"
+      "title": "Datahäxan",
+      "score": 91,
+      "url": "https://0dd.company/galleries/witches/7.html",
+      "time": 1773071282.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47310617"
     },
     {
-      "title": "Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results",
-      "score": 147,
-      "url": "https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/",
-      "time": 1772970296.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47296568"
-    },
-    {
-      "title": "Many SWE-bench-Passing PRs would not be merged",
-      "score": 231,
-      "url": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
-      "time": 1773262612.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47341645"
+      "title": "1B identity records exposed in ID verification data leak",
+      "score": 83,
+      "url": "https://www.aol.com/articles/1-billion-identity-records-exposed-152505381.html",
+      "time": 1773308760.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47348440"
     },
     {
       "title": "I was interviewed by an AI bot for a job",
-      "score": 299,
+      "score": 344,
       "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
       "time": 1773253050.0,
       "comments_url": "https://news.ycombinator.com/item?id=47339164"
     },
     {
+      "title": "Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results",
+      "score": 181,
+      "url": "https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/",
+      "time": 1772970296.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47296568"
+    },
+    {
+      "title": "WebPKI and You",
+      "score": 71,
+      "url": "https://blog.brycekerley.net/2026/03/08/webpki-and-you.html",
+      "time": 1773060431.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47308349"
+    },
+    {
       "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-      "score": 3525,
+      "score": 3722,
       "url": "https://news.ycombinator.com/newsguidelines.html#generated",
       "time": 1773257369.0,
       "comments_url": "https://news.ycombinator.com/item?id=47340079"
     },
     {
       "title": "The MacBook Neo",
-      "score": 526,
+      "score": 565,
       "url": "https://daringfireball.net/2026/03/the_macbook_neo",
       "time": 1773229044.0,
       "comments_url": "https://news.ycombinator.com/item?id=47334293"
     },
     {
-      "title": "Show HN: A context-aware permission guard for Claude Code",
-      "score": 100,
-      "url": "https://github.com/manuelschipper/nah/",
-      "time": 1773271585.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47343927"
-    },
-    {
-      "title": "Iran-backed hackers claim wiper attack on medtech firm Stryker",
-      "score": 153,
-      "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
-      "time": 1773286168.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47346091"
-    },
-    {
-      "title": "Google closes deal to acquire Wiz",
-      "score": 290,
-      "url": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
-      "time": 1773241100.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47336476"
-    },
-    {
-      "title": "Entities enabling scientific fraud at scale (2025)",
-      "score": 288,
-      "url": "https://doi.org/10.1073/pnas.2420092122",
-      "time": 1773235932.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47335349"
-    },
-    {
-      "title": "Show HN: I built a tool that watches webpages and exposes changes as RSS",
-      "score": 238,
-      "url": "https://sitespy.app",
-      "time": 1773246066.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47337607"
-    },
-    {
       "title": "NASA's DART spacecraft changed an asteroid's orbit around the sun",
-      "score": 21,
+      "score": 44,
       "url": "https://www.sciencenews.org/article/spacecraft-changed-asteroid-orbit-nasa",
       "time": 1773014405.0,
       "comments_url": "https://news.ycombinator.com/item?id=47303044"
