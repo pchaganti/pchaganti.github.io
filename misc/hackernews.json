@@ -1,61 +1,103 @@
 {
-  "last_updated": "2026-03-12T14:40:20.503189-04:00",
+  "last_updated": "2026-03-12T17:24:14.198278-04:00",
   "stories": [
     {
+      "title": "AI error jails innocent grandmother for months in North Dakota fraud case",
+      "score": 49,
+      "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
+      "time": 1773348951.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47356968"
+    },
+    {
       "title": "Malus – Clean Room as a Service",
-      "score": 609,
+      "score": 870,
       "url": "https://malus.sh",
       "time": 1773322924.0,
       "comments_url": "https://news.ycombinator.com/item?id=47350424"
     },
     {
       "title": "Bubble Sorted Amen Break",
-      "score": 79,
+      "score": 193,
       "url": "https://parametricavocado.itch.io/amen-sorting",
       "time": 1773335636.0,
       "comments_url": "https://news.ycombinator.com/item?id=47354098"
     },
     {
       "title": "Reversing memory loss via gut-brain communication",
-      "score": 66,
+      "score": 149,
       "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
       "time": 1773333531.0,
       "comments_url": "https://news.ycombinator.com/item?id=47353533"
     },
     {
-      "title": "Show HN: OneCLI – Vault for AI Agents in Rust",
-      "score": 53,
-      "url": "https://github.com/onecli/onecli",
-      "time": 1773333666.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47353558"
-    },
-    {
-      "title": "The Met Releases High-Def 3D Scans of 140 Famous Art Objects",
-      "score": 106,
-      "url": "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html",
-      "time": 1773330219.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47352459"
-    },
-    {
       "title": "ATMs didn't kill bank teller jobs, but the iPhone did",
-      "score": 152,
+      "score": 235,
       "url": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
       "time": 1773326937.0,
       "comments_url": "https://news.ycombinator.com/item?id=47351371"
     },
     {
-      "title": "US banks' exposure to private credit hits $300B (2025)",
-      "score": 186,
-      "url": "https://alternativecreditinvestor.com/2025/10/22/us-banks-exposure-to-private-credit-hits-300bn/",
-      "time": 1773319406.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47349798"
+      "title": "The Met releases high-def 3D scans of 140 famous art objects",
+      "score": 160,
+      "url": "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html",
+      "time": 1773330219.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47352459"
     },
     {
-      "title": "Show HN: Understudy – Teach a desktop agent by demonstrating a task once",
-      "score": 28,
-      "url": "https://github.com/understudy-ai/understudy",
-      "time": 1773335075.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47353957"
+      "title": "Runners who churn butter on their runs",
+      "score": 36,
+      "url": "https://www.runnersworld.com/news/a70683169/how-to-make-butter-while-running/",
+      "time": 1773343305.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47355781"
+    },
+    {
+      "title": "An old photo of a large BBS (2022)",
+      "score": 113,
+      "url": "https://rachelbythebay.com/w/2022/01/26/swcbbs/",
+      "time": 1773344495.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47356017"
+    },
+    {
+      "title": "Bringing Chrome to ARM64 Linux Devices",
+      "score": 16,
+      "url": "https://blog.chromium.org/2026/03/bringing-chrome-to-arm64-linux-devices.html",
+      "time": 1773346395.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47356392"
+    },
+    {
+      "title": "Show HN: OneCLI – Vault for AI Agents in Rust",
+      "score": 89,
+      "url": "https://github.com/onecli/onecli",
+      "time": 1773333666.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47353558"
+    },
+    {
+      "title": "Launch HN: IonRouter (YC W26) – High-throughput, low-cost inference",
+      "score": 26,
+      "url": "https://ionrouter.io",
+      "time": 1773341556.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47355410"
+    },
+    {
+      "title": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
+      "score": 6,
+      "url": "https://aminrj.com/posts/rag-document-poisoning/",
+      "time": 1773322836.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47350407"
+    },
+    {
+      "title": "WolfIP: Lightweight TCP/IP stack with no dynamic memory allocations",
+      "score": 67,
+      "url": "https://github.com/wolfssl/wolfip",
+      "time": 1773329990.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47352385"
+    },
+    {
+      "title": "Forcing Flash Attention onto a TPU and Learning the Hard Way",
+      "score": 7,
+      "url": "https://archerzhang.me/forcing-flash-attention-onto-a-tpu",
+      "time": 1772942250.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47294271"
     },
     {
       "title": "Converge (YC S23) Is Hiring a Founding Platform Engineer (NYC, Onsite)",
@@ -65,81 +107,39 @@
       "comments_url": "https://news.ycombinator.com/item?id=47353904"
     },
     {
-      "title": "Kotlin creator's new language: a formal way to talk to LLMs instead of English",
-      "score": 193,
-      "url": "https://codespeak.dev/",
-      "time": 1773325363.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47350931"
-    },
-    {
-      "title": "Asia rolls out 4-day weeks, WFH to solve fuel crisis caused by Iran war",
-      "score": 256,
-      "url": "https://fortune.com/2026/03/11/iran-war-fuel-crisis-asia-work-from-home-closed-schools-price-caps/",
-      "time": 1773329437.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47352215"
-    },
-    {
-      "title": "The Cost of Indirection in Rust",
-      "score": 52,
-      "url": "https://blog.sebastiansastre.co/posts/cost-of-indirection-in-rust/",
-      "time": 1773077314.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47312226"
-    },
-    {
       "title": "Dolphin Progress Release 2603",
-      "score": 235,
+      "score": 269,
       "url": "https://dolphin-emu.org/blog/2026/03/12/dolphin-progress-report-release-2603/",
       "time": 1773307381.0,
       "comments_url": "https://news.ycombinator.com/item?id=47348304"
     },
     {
-      "title": "Show HN: Rudel – Claude Code Session Analytics",
-      "score": 106,
-      "url": "https://github.com/obsessiondb/rudel",
-      "time": 1773322872.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47350416"
+      "title": "Big data on the cheapest MacBook",
+      "score": 259,
+      "url": "https://duckdb.org/2026/03/11/big-data-on-the-cheapest-macbook",
+      "time": 1773315674.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47349277"
     },
     {
-      "title": "Full Spectrum and Infrared Photography",
-      "score": 19,
-      "url": "https://timstr.website/blog/fullspectrumphotography.html",
-      "time": 1772986262.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47298448"
-    },
-    {
-      "title": "Italian prosecutors seek trial for Amazon, 4 execs in alleged $1.4B tax evasion",
-      "score": 138,
-      "url": "https://www.reuters.com/world/italian-prosecutors-seek-trial-amazon-four-execs-over-alleged-14-bln-tax-evasion-2026-03-12/",
-      "time": 1773329681.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47352297"
+      "title": "Show HN: Understudy – Teach a desktop agent by demonstrating a task once",
+      "score": 58,
+      "url": "https://github.com/understudy-ai/understudy",
+      "time": 1773335075.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47353957"
     },
     {
       "title": "Show HN: Axe – A 12MB binary that replaces your AI framework",
-      "score": 66,
+      "score": 113,
       "url": "https://github.com/jrswab/axe",
       "time": 1773323352.0,
       "comments_url": "https://news.ycombinator.com/item?id=47350516"
     },
     {
-      "title": "Scrt: A CLI secret manager for developers, sysadmins and DevOps",
-      "score": 6,
-      "url": "https://github.com/loderunner/scrt",
-      "time": 1773336707.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47354366"
-    },
-    {
-      "title": "Contextual commits – An open standard for capturing the why in Git history",
-      "score": 8,
-      "url": "https://vidimitrov.substack.com/p/contextual-commits-an-open-standard",
-      "time": 1773336327.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47354263"
-    },
-    {
-      "title": "Apple's MacBook Neo makes repairs easier and cheaper than other MacBooks",
-      "score": 61,
-      "url": "https://arstechnica.com/gadgets/2026/03/more-modular-design-makes-macbook-neo-easier-to-fix-than-other-apple-laptops/",
-      "time": 1773335236.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47353993"
+      "title": "US private credit defaults hit record 9.2% in 2025, Fitch says",
+      "score": 148,
+      "url": "https://www.marketscreener.com/news/us-private-credit-defaults-hit-record-9-2-in-2025-fitch-says-ce7e5fd8df8fff2d",
+      "time": 1773319485.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47349806"
     }
   ]
 }
