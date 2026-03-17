@@ -1,68 +1,103 @@
 {
-  "last_updated": "2026-03-17T14:49:43.624835-04:00",
+  "last_updated": "2026-03-17T17:28:23.857328-04:00",
   "stories": [
     {
+      "title": "A Decade of Slug",
+      "score": 208,
+      "url": "https://terathon.com/blog/decade-slug.html",
+      "time": 1773773990.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47416736"
+    },
+    {
+      "title": "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
+      "score": 48,
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "time": 1773779019.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47417804"
+    },
+    {
+      "title": "Python 3.15's JIT is now back on track",
+      "score": 116,
+      "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
+      "time": 1773772647.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47416486"
+    },
+    {
       "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
-      "score": 261,
+      "score": 405,
       "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
       "time": 1773760589.0,
       "comments_url": "https://news.ycombinator.com/item?id=47413876"
     },
     {
-      "title": "Illinois Introducing Operating System Account Age Bill",
-      "score": 91,
-      "url": "https://www.ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5511",
-      "time": 1773770767.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47416131"
-    },
-    {
       "title": "Kagi Small Web",
-      "score": 589,
+      "score": 639,
       "url": "https://kagi.com/smallweb/",
       "time": 1773741233.0,
       "comments_url": "https://news.ycombinator.com/item?id=47410542"
     },
     {
-      "title": "If you thought the code writing speed was your problem; you have bigger problems",
-      "score": 25,
-      "url": "https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems",
-      "time": 1773769730.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47415919"
-    },
-    {
-      "title": "Node.js needs a virtual file system",
-      "score": 123,
-      "url": "https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system",
-      "time": 1773757717.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47413195"
-    },
-    {
-      "title": "'The Secret Agent': Exploring a Vibrant, yet Violent Brazil (2025)",
-      "score": 34,
-      "url": "https://theasc.com/articles/the-secret-agent-cinematography",
-      "time": 1773762969.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47414440"
+      "title": "It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]",
+      "score": 74,
+      "url": "https://www.youtube.com/watch?v=3Ploi723hg4",
+      "time": 1773429286.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47368425"
     },
     {
       "title": "Toward automated verification of unreviewed AI-generated code",
-      "score": 25,
+      "score": 64,
       "url": "https://peterlavigne.com/writing/verifying-ai-generated-code",
       "time": 1773658353.0,
       "comments_url": "https://news.ycombinator.com/item?id=47397367"
     },
     {
-      "title": "Finding a CPU Design Bug in the Xbox 360 (2018)",
-      "score": 119,
-      "url": "https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/",
-      "time": 1773409221.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47364337"
+      "title": "Edge.js: Run Node apps inside a WebAssembly sandbox",
+      "score": 46,
+      "url": "https://wasmer.io/posts/edgejs-safe-nodejs-using-wasm-sandbox",
+      "time": 1773770510.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47416081"
     },
     {
-      "title": "FFmpeg 8.1",
-      "score": 231,
-      "url": "https://ffmpeg.org/index.html#pr8.1",
-      "time": 1773759117.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47413525"
+      "title": "'The Secret Agent': Exploring a Vibrant, yet Violent Brazil (2025)",
+      "score": 91,
+      "url": "https://theasc.com/articles/the-secret-agent-cinematography",
+      "time": 1773762969.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47414440"
+    },
+    {
+      "title": "Node.js needs a virtual file system",
+      "score": 168,
+      "url": "https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system",
+      "time": 1773757717.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47413195"
+    },
+    {
+      "title": "Meta and TikTok let harmful content rise to drove engagement, say whistleblowers",
+      "score": 60,
+      "url": "https://www.bbc.com/news/articles/cqj9kgxqjwjo",
+      "time": 1773779073.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47417814"
+    },
+    {
+      "title": "OpenSUSE Kalpa",
+      "score": 106,
+      "url": "https://kalpadesktop.org/",
+      "time": 1773755657.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47412726"
+    },
+    {
+      "title": "Torturing Rustc by Emulating HKTs",
+      "score": 9,
+      "url": "https://www.harudagondi.space/blog/torturing-rustc-by-emulating-hkts/",
+      "time": 1773473109.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47374197"
+    },
+    {
+      "title": "Ryugu asteroid samples contain all DNA and RNA building blocks",
+      "score": 138,
+      "url": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
+      "time": 1773748865.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47411480"
     },
     {
       "title": "Spice Data (YC S19) Is Hiring a Product Specialist",
@@ -72,74 +107,39 @@
       "comments_url": "https://news.ycombinator.com/item?id=47415350"
     },
     {
-      "title": "Show HN: Antfly: Distributed, Multimodal Search and Memory and Graphs in Go",
-      "score": 49,
-      "url": "https://github.com/antflydb/antfly",
-      "time": 1773762315.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47414291"
-    },
-    {
-      "title": "Show HN: March Madness Bracket Challenge for AI Agents Only",
-      "score": 46,
-      "url": "https://www.Bracketmadness.ai",
-      "time": 1773752184.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47412015"
-    },
-    {
-      "title": "Heart, head, life, fate",
-      "score": 9,
-      "url": "https://www.lrb.co.uk/the-paper/v48/n05/steven-shapin/heart-head-life-fate",
-      "time": 1773372592.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47360359"
+      "title": "Finding a CPU Design Bug in the Xbox 360 (2018)",
+      "score": 141,
+      "url": "https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/",
+      "time": 1773409221.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47364337"
     },
     {
       "title": "Show HN: Crust – A CLI framework for TypeScript and Bun",
-      "score": 25,
+      "score": 47,
       "url": "https://github.com/chenxin-yan/crust",
       "time": 1773722609.0,
       "comments_url": "https://news.ycombinator.com/item?id=47408727"
     },
     {
-      "title": "Give Django your time and money, not your tokens",
-      "score": 343,
-      "url": "https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/",
-      "time": 1773673970.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47400089"
+      "title": "Java 26 is here",
+      "score": 94,
+      "url": "https://hanno.codes/2026/03/17/java-26-is-here/",
+      "time": 1773773049.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47416548"
     },
     {
-      "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
-      "score": 707,
-      "url": "https://mistral.ai/news/leanstral",
-      "time": 1773694780.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47404796"
+      "title": "The Plumbing of Everyday Magic",
+      "score": 29,
+      "url": "https://plumbing-of-everyday-magic.hyperclay.com/",
+      "time": 1773417441.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47366177"
     },
     {
-      "title": "Building a Shell",
-      "score": 130,
-      "url": "https://healeycodes.com/building-a-shell",
-      "time": 1773741154.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47410532"
-    },
-    {
-      "title": "GPT‑5.4 Mini and Nano",
-      "score": 81,
-      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-      "time": 1773767226.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47415441"
-    },
-    {
-      "title": "Efficient sparse computations using linear algebra aware compilers (2025)",
-      "score": 48,
-      "url": "https://www.osti.gov/biblio/3013883",
-      "time": 1773359707.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47358958"
-    },
-    {
-      "title": "OpenSUSE Kalpa",
-      "score": 82,
-      "url": "https://kalpadesktop.org/",
-      "time": 1773755657.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47412726"
+      "title": "FFmpeg 8.1",
+      "score": 294,
+      "url": "https://ffmpeg.org/index.html#pr8.1",
+      "time": 1773759117.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47413525"
     }
   ]
 }
