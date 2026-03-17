@@ -1,47 +1,103 @@
 {
-  "last_updated": "2026-03-16T17:30:11.738481-04:00",
+  "last_updated": "2026-03-16T21:17:04.644887-04:00",
   "stories": [
     {
+      "title": "US SEC preparing to scrap quarterly reporting requirement",
+      "score": 151,
+      "url": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
+      "time": 1773705755.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47406779"
+    },
+    {
+      "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
+      "score": 280,
+      "url": "https://mistral.ai/news/leanstral",
+      "time": 1773694780.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47404796"
+    },
+    {
       "title": "Meta’s renewed commitment to jemalloc",
-      "score": 246,
+      "score": 329,
       "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
       "time": 1773684752.0,
       "comments_url": "https://news.ycombinator.com/item?id=47402640"
     },
     {
-      "title": "Beyond Meat CEO 'It's Just Not the Moment for Plant-Based Meat' After Rebrand",
-      "score": 36,
-      "url": "https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/",
-      "time": 1773694789.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47404798"
-    },
-    {
       "title": "The “small web” is bigger than you might think",
-      "score": 221,
+      "score": 302,
       "url": "https://kevinboone.me/small_web_is_big.html",
       "time": 1773681477.0,
       "comments_url": "https://news.ycombinator.com/item?id=47401879"
     },
     {
+      "title": "US commercial insurers pay 254% of Medicare for the same hospital procedures",
+      "score": 196,
+      "url": "https://github.com/rexrodeo/american-healthcare-conundrum",
+      "time": 1773681207.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47401809"
+    },
+    {
       "title": "My Journey to a reliable and enjoyable locally hosted voice assistant (2025)",
-      "score": 264,
+      "score": 312,
       "url": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860",
       "time": 1773666598.0,
       "comments_url": "https://news.ycombinator.com/item?id=47398534"
     },
     {
+      "title": "Show HN: Thermal Receipt Printers – Markdown and Web UI",
+      "score": 29,
+      "url": "https://github.com/sadreck/ThermalMarky",
+      "time": 1773420541.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47366766"
+    },
+    {
+      "title": "In space, no one can hear you kernel panic",
+      "score": 17,
+      "url": "https://increment.com/software-architecture/in-space-no-one-can-hear-you-kernel-panic/",
+      "time": 1773360120.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47359010"
+    },
+    {
+      "title": "Show HN: Oxyde – Pydantic-native async ORM with a Rust core",
+      "score": 54,
+      "url": "https://github.com/mr-fatalyst/oxyde",
+      "time": 1773408912.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47364260"
+    },
+    {
+      "title": "Why I love FreeBSD",
+      "score": 344,
+      "url": "https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/",
+      "time": 1773660194.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47397574"
+    },
+    {
+      "title": "Canopy Height Maps v2",
+      "score": 5,
+      "url": "https://ai.meta.com/blog/world-resources-institute-dino-canopy-height-maps-v2/?_fb_noscript=1",
+      "time": 1773339850.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47355100"
+    },
+    {
       "title": "Language Model Teams as Distrbuted Systems",
-      "score": 48,
+      "score": 67,
       "url": "https://arxiv.org/abs/2603.12229",
       "time": 1773681553.0,
       "comments_url": "https://news.ycombinator.com/item?id=47401901"
     },
     {
-      "title": "Why I love FreeBSD",
-      "score": 285,
-      "url": "https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/",
-      "time": 1773660194.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47397574"
+      "title": "Starlink Mini as a failover",
+      "score": 189,
+      "url": "https://www.jackpearce.co.uk/posts/starlink-failover/",
+      "time": 1773648449.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47396264"
+    },
+    {
+      "title": "Polymarket gamblers threaten to kill me over Iran missile story",
+      "score": 1322,
+      "url": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
+      "time": 1773662406.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47397822"
     },
     {
       "title": "AnswerThis (YC F25) Is Hiring",
@@ -52,94 +108,38 @@
     },
     {
       "title": "Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps",
-      "score": 52,
+      "score": 64,
       "url": "https://news.ycombinator.com/item?id=47401042",
       "time": 1773678067.0,
       "comments_url": "https://news.ycombinator.com/item?id=47401042"
     },
     {
-      "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
-      "score": 54,
-      "url": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai",
-      "time": 1773691262.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47404074"
+      "title": "AirPods Max 2",
+      "score": 198,
+      "url": "https://www.apple.com/airpods-max/",
+      "time": 1773667323.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47398681"
     },
     {
       "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
-      "score": 98,
+      "score": 118,
       "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
       "time": 1773674736.0,
       "comments_url": "https://news.ycombinator.com/item?id=47400261"
     },
     {
       "title": "Show HN: Claude Code skills that build complete Godot games",
-      "score": 68,
+      "score": 152,
       "url": "https://github.com/htdt/godogen",
       "time": 1773677249.0,
       "comments_url": "https://news.ycombinator.com/item?id=47400868"
     },
     {
-      "title": "Polymarket gamblers threaten to kill me over Iran missile story",
-      "score": 1133,
-      "url": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
-      "time": 1773662406.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47397822"
-    },
-    {
       "title": "On The Need For Understanding",
-      "score": 43,
+      "score": 83,
       "url": "https://blog.information-superhighway.net/on-the-need-for-understanding",
       "time": 1773276792.0,
       "comments_url": "https://news.ycombinator.com/item?id=47344821"
-    },
-    {
-      "title": "Starlink Mini as a failover",
-      "score": 131,
-      "url": "https://www.jackpearce.co.uk/posts/starlink-failover/",
-      "time": 1773648449.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47396264"
-    },
-    {
-      "title": "Corruption erodes social trust more in democracies than in autocracies",
-      "score": 601,
-      "url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full",
-      "time": 1773660331.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47397593"
-    },
-    {
-      "title": "US Job Market Visualizer",
-      "score": 350,
-      "url": "https://karpathy.ai/jobs/",
-      "time": 1773673830.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47400060"
-    },
-    {
-      "title": "Home Assistant waters my plants",
-      "score": 225,
-      "url": "https://finnian.io/blog/home-assistant-waters-my-plants/",
-      "time": 1773310754.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47348652"
-    },
-    {
-      "title": "Cert Authorities Check for DNSSEC from Today",
-      "score": 72,
-      "url": "https://www.grepular.com/Cert_Authorities_Check_for_DNSSEC_From_Today",
-      "time": 1773612647.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47392510"
-    },
-    {
-      "title": "Lazycut: A simple terminal video trimmer using FFmpeg",
-      "score": 124,
-      "url": "https://github.com/emin-ozata/lazycut",
-      "time": 1773662708.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47397857"
-    },
-    {
-      "title": "Launch HN: Chamber (YC W26) – An AI Teammate for GPU Infrastructure",
-      "score": 18,
-      "url": "https://www.usechamber.io/",
-      "time": 1773680974.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47401766"
     }
   ]
 }
