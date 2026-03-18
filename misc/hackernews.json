@@ -1,72 +1,107 @@
 {
-  "last_updated": "2026-03-18T05:43:18.959019-04:00",
+  "last_updated": "2026-03-18T08:49:03.873573-04:00",
   "stories": [
     {
+      "title": "Rob Pike's 5 Rules of Programming",
+      "score": 219,
+      "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+      "time": 1773827994.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47423647"
+    },
+    {
+      "title": "Measuring progress toward AGI: A cognitive framework",
+      "score": 31,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/",
+      "time": 1773834284.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47424458"
+    },
+    {
       "title": "JPEG Compression",
-      "score": 174,
+      "score": 267,
       "url": "https://www.sophielwang.com/blog/jpeg",
       "time": 1773451908.0,
       "comments_url": "https://news.ycombinator.com/item?id=47372367"
     },
     {
+      "title": "Nightingale – open-source karaoke app that works with any song on your computer",
+      "score": 124,
+      "url": "https://nightingale.cafe/",
+      "time": 1773821184.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47422942"
+    },
+    {
+      "title": "Pandas Exercises for Data Analysis (Interactive)",
+      "score": 13,
+      "url": "https://machinelearningplus.com/python/101-pandas-exercises-python-interactive/",
+      "time": 1773425123.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47367601"
+    },
+    {
       "title": "Write up of my homebrew CPU build",
-      "score": 57,
+      "score": 105,
       "url": "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/",
       "time": 1773596208.0,
       "comments_url": "https://news.ycombinator.com/item?id=47389696"
     },
     {
       "title": "Mistral AI Releases Forge",
-      "score": 439,
+      "score": 556,
       "url": "https://mistral.ai/news/forge",
       "time": 1773781466.0,
       "comments_url": "https://news.ycombinator.com/item?id=47418295"
     },
     {
-      "title": "Celebrating Tony Hoare's mark on computer science",
-      "score": 21,
-      "url": "https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/",
-      "time": 1773815474.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47422228"
+      "title": "How the Eon Team Produced a Virtual Embodied Fly",
+      "score": 37,
+      "url": "https://eon.systems/updates/embodied-brain-emulation",
+      "time": 1773618274.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47393324"
     },
     {
       "title": "A Decade of Slug",
-      "score": 604,
+      "score": 648,
       "url": "https://terathon.com/blog/decade-slug.html",
       "time": 1773773990.0,
       "comments_url": "https://news.ycombinator.com/item?id=47416736"
     },
     {
       "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
-      "score": 677,
+      "score": 714,
       "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
       "time": 1773760589.0,
       "comments_url": "https://news.ycombinator.com/item?id=47413876"
     },
     {
-      "title": "Show HN: Pgit – A Git-like CLI backed by PostgreSQL",
-      "score": 32,
-      "url": "https://oseifert.ch/blog/building-pgit",
-      "time": 1773727877.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47409222"
+      "title": "Celebrating Tony Hoare's mark on computer science",
+      "score": 53,
+      "url": "https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/",
+      "time": 1773815474.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47422228"
     },
     {
       "title": "Python 3.15's JIT is now back on track",
-      "score": 370,
+      "score": 409,
       "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
       "time": 1773772647.0,
       "comments_url": "https://news.ycombinator.com/item?id=47416486"
     },
     {
+      "title": "Show HN: Pgit – A Git-like CLI backed by PostgreSQL",
+      "score": 65,
+      "url": "https://oseifert.ch/blog/building-pgit",
+      "time": 1773727877.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47409222"
+    },
+    {
       "title": "More than 135 open hardware devices flashable with your own firmware",
-      "score": 218,
+      "score": 261,
       "url": "https://openhardware.directory",
       "time": 1773435875.0,
       "comments_url": "https://news.ycombinator.com/item?id=47369883"
     },
     {
       "title": "The pleasures of poor product design",
-      "score": 112,
+      "score": 150,
       "url": "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design",
       "time": 1773795645.0,
       "comments_url": "https://news.ycombinator.com/item?id=47420432"
@@ -80,66 +115,31 @@
     },
     {
       "title": "Get Shit Done: A meta-prompting, context engineering and spec-driven dev system",
-      "score": 332,
+      "score": 363,
       "url": "https://github.com/gsd-build/get-shit-done",
       "time": 1773779019.0,
       "comments_url": "https://news.ycombinator.com/item?id=47417804"
     },
     {
-      "title": "Have a fucking website",
-      "score": 388,
-      "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
-      "time": 1773806022.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47421442"
-    },
-    {
-      "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
-      "score": 151,
-      "url": "https://github.com/adammiribyan/zeroboot",
-      "time": 1773755024.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47412569"
-    },
-    {
-      "title": "Forget Flags and Scripts: Just Rename the File",
-      "score": 36,
-      "url": "https://robertsdotpm.github.io/software_engineering/program_names_as_input.html",
-      "time": 1773807080.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47421513"
-    },
-    {
       "title": "(Media over QUIC) on a Boat",
-      "score": 5,
+      "score": 34,
       "url": "https://moq.dev/blog/on-a-boat/",
       "time": 1773449420.0,
       "comments_url": "https://news.ycombinator.com/item?id=47372072"
     },
     {
-      "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
-      "score": 115,
-      "url": "https://arxiv.org/abs/2603.15381",
-      "time": 1773783759.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47418722"
+      "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
+      "score": 198,
+      "url": "https://github.com/adammiribyan/zeroboot",
+      "time": 1773755024.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47412569"
     },
     {
-      "title": "Unsloth Studio",
-      "score": 278,
-      "url": "https://unsloth.ai/docs/new/studio",
-      "time": 1773761192.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47414032"
-    },
-    {
-      "title": "A tale about fixing eBPF spinlock issues in the Linux kernel",
-      "score": 93,
-      "url": "https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/",
-      "time": 1773795190.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47420388"
-    },
-    {
-      "title": "Honda is killing its EVs",
-      "score": 322,
-      "url": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/",
-      "time": 1773581888.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47387268"
+      "title": "Have a fucking website",
+      "score": 536,
+      "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
+      "time": 1773806022.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47421442"
     }
   ]
 }
