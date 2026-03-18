@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-03-18T12:01:14.416994-04:00",
+  "last_updated": "2026-03-18T14:46:21.747628-04:00",
   "stories": [
     {
-      "title": "Rob Pike's 5 Rules of Programming",
-      "score": 500,
+      "title": "Rob Pike's Rules of Programming (1989)",
+      "score": 633,
       "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
       "time": 1773827994.0,
       "comments_url": "https://news.ycombinator.com/item?id=47423647"
     },
     {
-      "title": "Nightingale – open-source karaoke app that works with any song on your computer",
-      "score": 338,
-      "url": "https://nightingale.cafe/",
-      "time": 1773821184.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47422942"
+      "title": "OpenRocket",
+      "score": 95,
+      "url": "https://openrocket.info/",
+      "time": 1773577214.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47386703"
+    },
+    {
+      "title": "2025 Turing award given for quantum information science",
+      "score": 31,
+      "url": "https://awards.acm.org/about/2025-turing",
+      "time": 1773828601.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47423694"
+    },
+    {
+      "title": "Nvidia NemoClaw",
+      "score": 107,
+      "url": "https://github.com/NVIDIA/NemoClaw",
+      "time": 1773847867.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47427027"
+    },
+    {
+      "title": "AI coding is gambling",
+      "score": 121,
+      "url": "https://notes.visaint.space/ai-coding-is-gambling/",
+      "time": 1773854522.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47428541"
     },
     {
       "title": "Machine Payments Protocol (MPP)",
-      "score": 8,
+      "score": 85,
       "url": "https://stripe.com/blog/machine-payments-protocol",
       "time": 1773847452.0,
       "comments_url": "https://news.ycombinator.com/item?id=47426936"
     },
     {
-      "title": "Federal Cyber Experts Called Microsoft's Cloud \"A Pile of Shit\", yet Approved It",
-      "score": 122,
-      "url": "https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government",
-      "time": 1773843242.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47426057"
+      "title": "Show HN: Hacker News archive (47M+ items, 11.6GB) as Parquet, updated every 5m",
+      "score": 85,
+      "url": "https://huggingface.co/datasets/open-index/hacker-news",
+      "time": 1773508323.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47378781"
     },
     {
-      "title": "Pandas Exercises for Data Analysis (Interactive)",
-      "score": 98,
-      "url": "https://machinelearningplus.com/python/101-pandas-exercises-python-interactive/",
-      "time": 1773425123.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47367601"
-    },
-    {
-      "title": "JPEG Compression",
-      "score": 357,
-      "url": "https://www.sophielwang.com/blog/jpeg",
-      "time": 1773451908.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47372367"
-    },
-    {
-      "title": "A Tiny Camera Revealed a Hidden Passage in the Great Pyramid",
-      "score": 54,
-      "url": "https://modernengineeringmarvels.com/2026/03/13/a-tiny-camera-revealed-a-hidden-passage-in-the-great-pyramid/",
-      "time": 1773446896.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47371749"
-    },
-    {
-      "title": "Write up of my homebrew CPU build",
-      "score": 179,
-      "url": "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/",
-      "time": 1773596208.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47389696"
+      "title": "Nightingale – open-source karaoke app that works with any song on your computer",
+      "score": 391,
+      "url": "https://nightingale.cafe/",
+      "time": 1773821184.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47422942"
     },
     {
       "title": "Death to Scroll Fade",
-      "score": 3,
+      "score": 250,
       "url": "https://dbushell.com/2026/01/09/death-to-scroll-fade/",
       "time": 1773847438.0,
       "comments_url": "https://news.ycombinator.com/item?id=47426932"
     },
     {
-      "title": "Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the Wild",
-      "score": 66,
-      "url": "https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
-      "time": 1773844120.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47426246"
+      "title": "Federal Cyber Experts Called Microsoft's Cloud \"A Pile of Shit\", yet Approved It",
+      "score": 306,
+      "url": "https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government",
+      "time": 1773843242.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47426057"
     },
     {
-      "title": "Mistral AI Releases Forge",
-      "score": 641,
-      "url": "https://mistral.ai/news/forge",
-      "time": 1773781466.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47418295"
+      "title": "Wander – A tiny, decentralised tool (just 2 files) to explore the small web",
+      "score": 41,
+      "url": "https://susam.net/wander/",
+      "time": 1773848992.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47427290"
     },
     {
-      "title": "A ngrok-style secure tunnel server written in Rust and Open Source",
-      "score": 26,
-      "url": "https://github.com/joaoh82/rustunnel",
-      "time": 1773842443.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47425918"
+      "title": "Oil nears $110 a barrel after gas field strike",
+      "score": 44,
+      "url": "https://www.bbc.com/news/articles/c78x83lpgngo",
+      "time": 1773856377.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47428963"
     },
     {
-      "title": "Restoring the first recording of computer music (2018)",
-      "score": 14,
-      "url": "https://www.bl.uk/stories/blogs/posts/restoring-the-first-recording-of-computer-music",
-      "time": 1773476896.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47374519"
-    },
-    {
-      "title": "A Fuzzer for the Toy Optimizer",
-      "score": 7,
-      "url": "https://bernsteinbear.com/blog/toy-fuzzer/",
-      "time": 1773761531.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47414112"
-    },
-    {
-      "title": "A Decade of Slug",
-      "score": 694,
-      "url": "https://terathon.com/blog/decade-slug.html",
-      "time": 1773773990.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47416736"
-    },
-    {
-      "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
-      "score": 755,
-      "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-      "time": 1773760589.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47413876"
-    },
-    {
-      "title": "Celebrating Tony Hoare's mark on computer science",
-      "score": 83,
-      "url": "https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/",
-      "time": 1773815474.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47422228"
-    },
-    {
-      "title": "Ndea (YC W26) is hiring a symbolic RL search guidance lead",
-      "score": 1,
-      "url": "https://ndea.com/jobs/search-guidance",
-      "time": 1773817213.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47422408"
-    },
-    {
-      "title": "Meta will shut down VR Horizon Worlds access June 15",
+      "title": "Show HN: Tmux-IDE, OSS agent-first terminal IDE",
       "score": 8,
-      "url": "https://www.engadget.com/ar-vr/meta-will-shut-down-vr-horizon-worlds-access-in-june-222028919.html",
-      "time": 1773848618.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47427214"
+      "url": "https://tmux.thijsverreck.com",
+      "time": 1773855985.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47428868"
     },
     {
-      "title": "Tech hobbyist makes shoulder-mounted guided missile prototype with $96 in parts",
-      "score": 142,
-      "url": "https://www.tomshardware.com/3d-printing/tech-hobbyist-makes-shoulder-mounted-guided-missile-prototype-with-usd96-in-parts-and-a-3d-printer-diy-manpads-includes-wi-fi-guidance-ballistics-calculations-optional-camera-for-tracking",
-      "time": 1773839055.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47425297"
+      "title": "Wanter – A tiny, decentralised tool to explore the small web",
+      "score": 12,
+      "url": "https://susam.net/wander/",
+      "time": 1773819793.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47422759"
+    },
+    {
+      "title": "CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root",
+      "score": 20,
+      "url": "https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root",
+      "time": 1773848599.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47427208"
+    },
+    {
+      "title": "Snowflake AI Escapes Sandbox and Executes Malware",
+      "score": 161,
+      "url": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware",
+      "time": 1773847807.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47427017"
+    },
+    {
+      "title": "Show HN: Will my flight have Starlink?",
+      "score": 59,
+      "url": "https://news.ycombinator.com/item?id=47428650",
+      "time": 1773854961.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47428650"
+    },
+    {
+      "title": "Write up of my homebrew CPU build",
+      "score": 201,
+      "url": "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/",
+      "time": 1773596208.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47389696"
+    },
+    {
+      "title": "DOGE canceled NC Museum grant for HVAC systems after ChatGPT flagged it as DEI",
+      "score": 20,
+      "url": "https://myfox8.com/news/north-carolina/high-point/doge-canceled-high-point-museum-grant-for-hvac-systems-after-chatgpt-flagged-it-as-dei-lawsuit-alleges/",
+      "time": 1773858390.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47429455"
+    },
+    {
+      "title": "Google Engineers Launch \"Sashiko\" for Agentic AI Code Review of the Linux Kernel",
+      "score": 47,
+      "url": "https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review",
+      "time": 1773850664.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47427647"
     }
   ]
 }
