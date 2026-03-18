@@ -1,110 +1,124 @@
 {
-  "last_updated": "2026-03-18T08:49:03.873573-04:00",
+  "last_updated": "2026-03-18T12:01:14.416994-04:00",
   "stories": [
     {
       "title": "Rob Pike's 5 Rules of Programming",
-      "score": 219,
+      "score": 500,
       "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
       "time": 1773827994.0,
       "comments_url": "https://news.ycombinator.com/item?id=47423647"
     },
     {
-      "title": "Measuring progress toward AGI: A cognitive framework",
-      "score": 31,
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/",
-      "time": 1773834284.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47424458"
-    },
-    {
-      "title": "JPEG Compression",
-      "score": 267,
-      "url": "https://www.sophielwang.com/blog/jpeg",
-      "time": 1773451908.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47372367"
-    },
-    {
       "title": "Nightingale – open-source karaoke app that works with any song on your computer",
-      "score": 124,
+      "score": 338,
       "url": "https://nightingale.cafe/",
       "time": 1773821184.0,
       "comments_url": "https://news.ycombinator.com/item?id=47422942"
     },
     {
+      "title": "Machine Payments Protocol (MPP)",
+      "score": 8,
+      "url": "https://stripe.com/blog/machine-payments-protocol",
+      "time": 1773847452.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47426936"
+    },
+    {
+      "title": "Federal Cyber Experts Called Microsoft's Cloud \"A Pile of Shit\", yet Approved It",
+      "score": 122,
+      "url": "https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government",
+      "time": 1773843242.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47426057"
+    },
+    {
       "title": "Pandas Exercises for Data Analysis (Interactive)",
-      "score": 13,
+      "score": 98,
       "url": "https://machinelearningplus.com/python/101-pandas-exercises-python-interactive/",
       "time": 1773425123.0,
       "comments_url": "https://news.ycombinator.com/item?id=47367601"
     },
     {
+      "title": "JPEG Compression",
+      "score": 357,
+      "url": "https://www.sophielwang.com/blog/jpeg",
+      "time": 1773451908.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47372367"
+    },
+    {
+      "title": "A Tiny Camera Revealed a Hidden Passage in the Great Pyramid",
+      "score": 54,
+      "url": "https://modernengineeringmarvels.com/2026/03/13/a-tiny-camera-revealed-a-hidden-passage-in-the-great-pyramid/",
+      "time": 1773446896.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47371749"
+    },
+    {
       "title": "Write up of my homebrew CPU build",
-      "score": 105,
+      "score": 179,
       "url": "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/",
       "time": 1773596208.0,
       "comments_url": "https://news.ycombinator.com/item?id=47389696"
     },
     {
+      "title": "Death to Scroll Fade",
+      "score": 3,
+      "url": "https://dbushell.com/2026/01/09/death-to-scroll-fade/",
+      "time": 1773847438.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47426932"
+    },
+    {
+      "title": "Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the Wild",
+      "score": 66,
+      "url": "https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/",
+      "time": 1773844120.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47426246"
+    },
+    {
       "title": "Mistral AI Releases Forge",
-      "score": 556,
+      "score": 641,
       "url": "https://mistral.ai/news/forge",
       "time": 1773781466.0,
       "comments_url": "https://news.ycombinator.com/item?id=47418295"
     },
     {
-      "title": "How the Eon Team Produced a Virtual Embodied Fly",
-      "score": 37,
-      "url": "https://eon.systems/updates/embodied-brain-emulation",
-      "time": 1773618274.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47393324"
+      "title": "A ngrok-style secure tunnel server written in Rust and Open Source",
+      "score": 26,
+      "url": "https://github.com/joaoh82/rustunnel",
+      "time": 1773842443.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47425918"
+    },
+    {
+      "title": "Restoring the first recording of computer music (2018)",
+      "score": 14,
+      "url": "https://www.bl.uk/stories/blogs/posts/restoring-the-first-recording-of-computer-music",
+      "time": 1773476896.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47374519"
+    },
+    {
+      "title": "A Fuzzer for the Toy Optimizer",
+      "score": 7,
+      "url": "https://bernsteinbear.com/blog/toy-fuzzer/",
+      "time": 1773761531.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47414112"
     },
     {
       "title": "A Decade of Slug",
-      "score": 648,
+      "score": 694,
       "url": "https://terathon.com/blog/decade-slug.html",
       "time": 1773773990.0,
       "comments_url": "https://news.ycombinator.com/item?id=47416736"
     },
     {
       "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
-      "score": 714,
+      "score": 755,
       "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
       "time": 1773760589.0,
       "comments_url": "https://news.ycombinator.com/item?id=47413876"
     },
     {
       "title": "Celebrating Tony Hoare's mark on computer science",
-      "score": 53,
+      "score": 83,
       "url": "https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/",
       "time": 1773815474.0,
       "comments_url": "https://news.ycombinator.com/item?id=47422228"
-    },
-    {
-      "title": "Python 3.15's JIT is now back on track",
-      "score": 409,
-      "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
-      "time": 1773772647.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47416486"
-    },
-    {
-      "title": "Show HN: Pgit – A Git-like CLI backed by PostgreSQL",
-      "score": 65,
-      "url": "https://oseifert.ch/blog/building-pgit",
-      "time": 1773727877.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47409222"
-    },
-    {
-      "title": "More than 135 open hardware devices flashable with your own firmware",
-      "score": 261,
-      "url": "https://openhardware.directory",
-      "time": 1773435875.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47369883"
-    },
-    {
-      "title": "The pleasures of poor product design",
-      "score": 150,
-      "url": "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design",
-      "time": 1773795645.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47420432"
     },
     {
       "title": "Ndea (YC W26) is hiring a symbolic RL search guidance lead",
@@ -114,32 +128,18 @@
       "comments_url": "https://news.ycombinator.com/item?id=47422408"
     },
     {
-      "title": "Get Shit Done: A meta-prompting, context engineering and spec-driven dev system",
-      "score": 363,
-      "url": "https://github.com/gsd-build/get-shit-done",
-      "time": 1773779019.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47417804"
+      "title": "Meta will shut down VR Horizon Worlds access June 15",
+      "score": 8,
+      "url": "https://www.engadget.com/ar-vr/meta-will-shut-down-vr-horizon-worlds-access-in-june-222028919.html",
+      "time": 1773848618.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47427214"
     },
     {
-      "title": "(Media over QUIC) on a Boat",
-      "score": 34,
-      "url": "https://moq.dev/blog/on-a-boat/",
-      "time": 1773449420.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47372072"
-    },
-    {
-      "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
-      "score": 198,
-      "url": "https://github.com/adammiribyan/zeroboot",
-      "time": 1773755024.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47412569"
-    },
-    {
-      "title": "Have a fucking website",
-      "score": 536,
-      "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
-      "time": 1773806022.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47421442"
+      "title": "Tech hobbyist makes shoulder-mounted guided missile prototype with $96 in parts",
+      "score": 142,
+      "url": "https://www.tomshardware.com/3d-printing/tech-hobbyist-makes-shoulder-mounted-guided-missile-prototype-with-usd96-in-parts-and-a-3d-printer-diy-manpads-includes-wi-fi-guidance-ballistics-calculations-optional-camera-for-tracking",
+      "time": 1773839055.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47425297"
     }
   ]
 }
