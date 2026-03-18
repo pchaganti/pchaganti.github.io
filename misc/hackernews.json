@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-03-18T14:46:21.747628-04:00",
+  "last_updated": "2026-03-18T17:26:43.829891-04:00",
   "stories": [
     {
-      "title": "Rob Pike's Rules of Programming (1989)",
-      "score": 633,
-      "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-      "time": 1773827994.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47423647"
-    },
-    {
       "title": "OpenRocket",
-      "score": 95,
+      "score": 270,
       "url": "https://openrocket.info/",
       "time": 1773577214.0,
       "comments_url": "https://news.ycombinator.com/item?id=47386703"
     },
     {
-      "title": "2025 Turing award given for quantum information science",
-      "score": 31,
-      "url": "https://awards.acm.org/about/2025-turing",
-      "time": 1773828601.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47423694"
-    },
-    {
-      "title": "Nvidia NemoClaw",
-      "score": 107,
-      "url": "https://github.com/NVIDIA/NemoClaw",
-      "time": 1773847867.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47427027"
-    },
-    {
-      "title": "AI coding is gambling",
-      "score": 121,
-      "url": "https://notes.visaint.space/ai-coding-is-gambling/",
-      "time": 1773854522.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47428541"
-    },
-    {
-      "title": "Machine Payments Protocol (MPP)",
-      "score": 85,
-      "url": "https://stripe.com/blog/machine-payments-protocol",
-      "time": 1773847452.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47426936"
-    },
-    {
-      "title": "Show HN: Hacker News archive (47M+ items, 11.6GB) as Parquet, updated every 5m",
-      "score": 85,
-      "url": "https://huggingface.co/datasets/open-index/hacker-news",
-      "time": 1773508323.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47378781"
-    },
-    {
-      "title": "Nightingale – open-source karaoke app that works with any song on your computer",
-      "score": 391,
-      "url": "https://nightingale.cafe/",
-      "time": 1773821184.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47422942"
-    },
-    {
-      "title": "Death to Scroll Fade",
-      "score": 250,
-      "url": "https://dbushell.com/2026/01/09/death-to-scroll-fade/",
-      "time": 1773847438.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47426932"
-    },
-    {
-      "title": "Federal Cyber Experts Called Microsoft's Cloud \"A Pile of Shit\", yet Approved It",
-      "score": 306,
-      "url": "https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government",
-      "time": 1773843242.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47426057"
-    },
-    {
-      "title": "Wander – A tiny, decentralised tool (just 2 files) to explore the small web",
-      "score": 41,
-      "url": "https://susam.net/wander/",
-      "time": 1773848992.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47427290"
-    },
-    {
-      "title": "Oil nears $110 a barrel after gas field strike",
-      "score": 44,
-      "url": "https://www.bbc.com/news/articles/c78x83lpgngo",
-      "time": 1773856377.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47428963"
-    },
-    {
-      "title": "Show HN: Tmux-IDE, OSS agent-first terminal IDE",
-      "score": 8,
-      "url": "https://tmux.thijsverreck.com",
-      "time": 1773855985.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47428868"
-    },
-    {
-      "title": "Wanter – A tiny, decentralised tool to explore the small web",
-      "score": 12,
+      "title": "Wander – A tiny, decentralised tool to explore the small web",
+      "score": 108,
       "url": "https://susam.net/wander/",
       "time": 1773819793.0,
       "comments_url": "https://news.ycombinator.com/item?id=47422759"
     },
     {
-      "title": "CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root",
-      "score": 20,
-      "url": "https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root",
-      "time": 1773848599.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47427208"
+      "title": "Rob Pike’s Rules of Programming (1989)",
+      "score": 764,
+      "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+      "time": 1773827994.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47423647"
     },
     {
-      "title": "Snowflake AI Escapes Sandbox and Executes Malware",
-      "score": 161,
-      "url": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware",
-      "time": 1773847807.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47427017"
+      "title": "Nvidia NemoClaw",
+      "score": 175,
+      "url": "https://github.com/NVIDIA/NemoClaw",
+      "time": 1773847867.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47427027"
+    },
+    {
+      "title": "Book: The Emerging Science of Machine Learning Benchmarks",
+      "score": 36,
+      "url": "https://mlbenchmarks.org/00-preface.html",
+      "time": 1773519303.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47380714"
+    },
+    {
+      "title": "Review: Samsung Galaxy S26 Ultra",
+      "score": 31,
+      "url": "https://www.wired.com/review/samsung-galaxy-s26-ultra/",
+      "time": 1773561824.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47385260"
+    },
+    {
+      "title": "Show HN: Elisym – Open protocol for AI agents to discover and pay each other",
+      "score": 16,
+      "url": "https://news.ycombinator.com/item?id=47425889",
+      "time": 1773842271.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47425889"
     },
     {
       "title": "Show HN: Will my flight have Starlink?",
-      "score": 59,
+      "score": 94,
       "url": "https://news.ycombinator.com/item?id=47428650",
       "time": 1773854961.0,
       "comments_url": "https://news.ycombinator.com/item?id=47428650"
     },
     {
-      "title": "Write up of my homebrew CPU build",
-      "score": 201,
-      "url": "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/",
-      "time": 1773596208.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47389696"
+      "title": "Show HN: Playing LongTurn FreeCiv with Friends",
+      "score": 26,
+      "url": "https://github.com/ndroo/freeciv.andrewmcgrath.info",
+      "time": 1773860514.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47429988"
     },
     {
-      "title": "DOGE canceled NC Museum grant for HVAC systems after ChatGPT flagged it as DEI",
-      "score": 20,
-      "url": "https://myfox8.com/news/north-carolina/high-point/doge-canceled-high-point-museum-grant-for-hvac-systems-after-chatgpt-flagged-it-as-dei-lawsuit-alleges/",
-      "time": 1773858390.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47429455"
+      "title": "Warranty Void If Regenerated",
+      "score": 8,
+      "url": "https://nearzero.software/p/warranty-void-if-regenerated",
+      "time": 1773866754.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47431237"
     },
     {
-      "title": "Google Engineers Launch \"Sashiko\" for Agentic AI Code Review of the Linux Kernel",
-      "score": 47,
-      "url": "https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review",
-      "time": 1773850664.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47427647"
+      "title": "2025 Turing award given for quantum information science",
+      "score": 63,
+      "url": "https://awards.acm.org/about/2025-turing",
+      "time": 1773828601.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47423694"
+    },
+    {
+      "title": "Nightingale – open-source karaoke app that works with any song on your computer",
+      "score": 442,
+      "url": "https://nightingale.cafe/",
+      "time": 1773821184.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47422942"
+    },
+    {
+      "title": "Machine Payments Protocol (MPP)",
+      "score": 107,
+      "url": "https://stripe.com/blog/machine-payments-protocol",
+      "time": 1773847452.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47426936"
+    },
+    {
+      "title": "Show HN: I built 48 lightweight SVG backgrounds you can copy/paste",
+      "score": 60,
+      "url": "https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/",
+      "time": 1773849044.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47427299"
+    },
+    {
+      "title": "CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root",
+      "score": 55,
+      "url": "https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root",
+      "time": 1773848599.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47427208"
+    },
+    {
+      "title": "FBI is buying location data to track US citizens, director confirms",
+      "score": 167,
+      "url": "https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/",
+      "time": 1773864592.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47430797"
+    },
+    {
+      "title": "Despite Doubts, Federal Cyber Experts Approved Microsoft Cloud Service",
+      "score": 400,
+      "url": "https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government",
+      "time": 1773843242.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47426057"
+    },
+    {
+      "title": "Show HN: Hacker News archive (47M+ items, 11.6GB) as Parquet, updated every 5m",
+      "score": 221,
+      "url": "https://huggingface.co/datasets/open-index/hacker-news",
+      "time": 1773508323.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47378781"
+    },
+    {
+      "title": "On a Boat",
+      "score": 103,
+      "url": "https://moq.dev/blog/on-a-boat/",
+      "time": 1773449420.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47372072"
+    },
+    {
+      "title": "Show HN: Tmux-IDE, OSS agent-first terminal IDE",
+      "score": 35,
+      "url": "https://tmux.thijsverreck.com",
+      "time": 1773855985.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47428868"
     }
   ]
 }
