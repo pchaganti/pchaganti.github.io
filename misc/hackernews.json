@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-03-18T21:21:04.311635-04:00",
+  "last_updated": "2026-03-19T00:49:14.279242-04:00",
   "stories": [
     {
+      "title": "Cook: A simple CLI for orchestrating Claude Code",
+      "score": 78,
+      "url": "https://rjcorwin.github.io/cook/",
+      "time": 1773886834.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47434024"
+    },
+    {
+      "title": "A sufficiently detailed spec is code",
+      "score": 58,
+      "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+      "time": 1773886997.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47434047"
+    },
+    {
       "title": "Austin’s surge of new housing construction drove down rents",
-      "score": 144,
+      "score": 411,
       "url": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
       "time": 1773879339.0,
       "comments_url": "https://news.ycombinator.com/item?id=47433058"
     },
     {
-      "title": "Warranty Void If Regenerated",
-      "score": 182,
-      "url": "https://nearzero.software/p/warranty-void-if-regenerated",
-      "time": 1773866754.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47431237"
-    },
-    {
       "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
-      "score": 129,
+      "score": 216,
       "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
       "time": 1773590349.0,
       "comments_url": "https://news.ycombinator.com/item?id=47388658"
     },
     {
-      "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
-      "score": 42,
-      "url": "https://github.com/alainnothere/llm-circuit-finder",
-      "time": 1773869472.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47431671"
+      "title": "Warranty Void If Regenerated",
+      "score": 243,
+      "url": "https://nearzero.software/p/warranty-void-if-regenerated",
+      "time": 1773866754.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47431237"
+    },
+    {
+      "title": "Autoresearch for SAT Solvers",
+      "score": 72,
+      "url": "https://github.com/iliazintchenko/agent-sat",
+      "time": 1773880832.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47433265"
     },
     {
       "title": "OpenRocket",
-      "score": 392,
+      "score": 461,
       "url": "https://openrocket.info/",
       "time": 1773577214.0,
       "comments_url": "https://news.ycombinator.com/item?id=47386703"
     },
     {
       "title": "Rob Pike’s Rules of Programming (1989)",
-      "score": 834,
+      "score": 887,
       "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
       "time": 1773827994.0,
       "comments_url": "https://news.ycombinator.com/item?id=47423647"
     },
     {
+      "title": "We Have Learned Nothing",
+      "score": 9,
+      "url": "https://colossus.com/article/we-have-learned-nothing-startup-pundits/",
+      "time": 1773888817.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47434311"
+    },
+    {
       "title": "Wander – A tiny, decentralised tool to explore the small web",
-      "score": 194,
+      "score": 237,
       "url": "https://susam.net/wander/",
       "time": 1773819793.0,
       "comments_url": "https://news.ycombinator.com/item?id=47422759"
     },
     {
-      "title": "The math that explains why bell curves are everywhere",
-      "score": 47,
-      "url": "https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/",
-      "time": 1773679892.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47401489"
+      "title": "RX – a new random-access JSON alternative",
+      "score": 38,
+      "url": "https://github.com/creationix/rx",
+      "time": 1773878285.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47432915"
     },
     {
       "title": "Nvidia NemoClaw",
-      "score": 235,
+      "score": 272,
       "url": "https://github.com/NVIDIA/NemoClaw",
       "time": 1773847867.0,
       "comments_url": "https://news.ycombinator.com/item?id=47427027"
     },
     {
-      "title": "What’s on HTTP?",
-      "score": 26,
-      "url": "https://whatsonhttp.com/",
-      "time": 1773871078.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47431930"
+      "title": "LotusNotes",
+      "score": 16,
+      "url": "https://computer.rip/2026-03-14-lotusnotes.html",
+      "time": 1773564059.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47385439"
+    },
+    {
+      "title": "Czech Man's Stone in Barn's Foundations Is Rare Bronze Age Spearhead Mold",
+      "score": 22,
+      "url": "https://www.smithsonianmag.com/smart-news/a-czech-man-used-this-stone-in-his-barns-foundations-it-turned-out-to-be-rare-bronze-age-spearhead-mold-180988339/",
+      "time": 1773662792.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47397862"
+    },
+    {
+      "title": "An x86-64 back end for raven-uxn",
+      "score": 22,
+      "url": "https://www.mattkeeter.com/blog/2026-03-15-uxn/",
+      "time": 1773583044.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47387431"
     },
     {
       "title": "Show HN: Will my flight have Starlink?",
-      "score": 161,
+      "score": 199,
       "url": "https://news.ycombinator.com/item?id=47428650",
       "time": 1773854961.0,
       "comments_url": "https://news.ycombinator.com/item?id=47428650"
     },
     {
       "title": "Book: The Emerging Science of Machine Learning Benchmarks",
-      "score": 86,
+      "score": 101,
       "url": "https://mlbenchmarks.org/00-preface.html",
       "time": 1773519303.0,
       "comments_url": "https://news.ycombinator.com/item?id=47380714"
     },
     {
-      "title": "Autoresearch for SAT Solvers",
-      "score": 3,
-      "url": "https://github.com/iliazintchenko/agent-sat",
-      "time": 1773880832.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47433265"
+      "title": "Show HN: Browser grand strategy game for hundreds of players on huge maps",
+      "score": 7,
+      "url": "https://borderhold.io/play",
+      "time": 1773651070.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47396496"
     },
     {
-      "title": "Nightingale – open-source karaoke app that works with any song on your computer",
-      "score": 497,
-      "url": "https://nightingale.cafe/",
-      "time": 1773821184.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47422942"
-    },
-    {
-      "title": "Show HN: Playing LongTurn FreeCiv with Friends",
-      "score": 49,
-      "url": "https://github.com/ndroo/freeciv.andrewmcgrath.info",
-      "time": 1773860514.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47429988"
-    },
-    {
-      "title": "CVE-2026-3888: Important Snap Flaw Enables Local Privilege Escalation to Root",
-      "score": 93,
-      "url": "https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root",
-      "time": 1773848599.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47427208"
+      "title": "What’s on HTTP?",
+      "score": 45,
+      "url": "https://whatsonhttp.com/",
+      "time": 1773871078.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47431930"
     },
     {
       "title": "Show HN: I built 48 lightweight SVG backgrounds you can copy/paste",
-      "score": 156,
+      "score": 208,
       "url": "https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/",
       "time": 1773849044.0,
       "comments_url": "https://news.ycombinator.com/item?id=47427299"
-    },
-    {
-      "title": "2025 Turing award given for quantum information science",
-      "score": 90,
-      "url": "https://awards.acm.org/about/2025-turing",
-      "time": 1773828601.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47423694"
-    },
-    {
-      "title": "An x86-64 back end for raven-uxn",
-      "score": 5,
-      "url": "https://www.mattkeeter.com/blog/2026-03-15-uxn/",
-      "time": 1773583044.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47387431"
-    },
-    {
-      "title": "Show HN: Tmux-IDE, OSS agent-first terminal IDE",
-      "score": 60,
-      "url": "https://tmux.thijsverreck.com",
-      "time": 1773855985.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47428868"
     }
   ]
 }
