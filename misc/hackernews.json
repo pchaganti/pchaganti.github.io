@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-03-20T17:22:18.078980-04:00",
+  "last_updated": "2026-03-20T21:12:07.158550-04:00",
   "stories": [
     {
+      "title": "OpenCode – The open source AI coding agent",
+      "score": 384,
+      "url": "https://opencode.ai/",
+      "time": 1774040632.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47460525"
+    },
+    {
       "title": "Our commitment to Windows quality",
-      "score": 124,
+      "score": 381,
       "url": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
       "time": 1774034173.0,
       "comments_url": "https://news.ycombinator.com/item?id=47459296"
     },
     {
+      "title": "We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster",
+      "score": 90,
+      "url": "https://www.openui.com/blog/rust-wasm-parser",
+      "time": 1774043286.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47461094"
+    },
+    {
+      "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
+      "score": 17,
+      "url": "https://github.com/arnoldrobbins/LinuxByExample-2e",
+      "time": 1774051042.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47462483"
+    },
+    {
+      "title": "Ghostling",
+      "score": 64,
+      "url": "https://github.com/ghostty-org/ghostling",
+      "time": 1774044697.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47461378"
+    },
+    {
       "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
-      "score": 377,
+      "score": 461,
       "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
       "time": 1774011716.0,
       "comments_url": "https://news.ycombinator.com/item?id=47453942"
     },
     {
+      "title": "Lent and Lisp",
+      "score": 12,
+      "url": "https://leancrew.com/all-this/2026/02/lent-and-lisp/",
+      "time": 1773838839.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47425257"
+    },
+    {
       "title": "Attention Residuals",
-      "score": 60,
+      "score": 116,
       "url": "https://github.com/MoonshotAI/Attention-Residuals",
       "time": 1774031021.0,
       "comments_url": "https://news.ycombinator.com/item?id=47458595"
     },
     {
-      "title": "A Japanese Glossary of Chopsticks Faux Pas",
-      "score": 8,
-      "url": "https://www.nippon.com/en/japan-data/h01362/",
-      "time": 1774040097.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47460452"
+      "title": "Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran",
+      "score": 39,
+      "url": "https://github.com/FormerLab/fortransky",
+      "time": 1774044411.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47461321"
     },
     {
-      "title": "VisiCalc Reconstructed",
-      "score": 137,
-      "url": "https://zserge.com/posts/visicalc/",
-      "time": 1773743995.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47410871"
+      "title": "An FAQ on Reinforcement Learning Environments",
+      "score": 18,
+      "url": "https://epoch.ai/gradient-updates/state-of-rl-envs",
+      "time": 1773923086.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47438169"
     },
     {
       "title": "The Los Angeles Aqueduct Is Wild",
-      "score": 242,
+      "score": 285,
       "url": "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild",
       "time": 1773773033.0,
       "comments_url": "https://news.ycombinator.com/item?id=47416543"
     },
     {
+      "title": "Discontinuation and reinitiation of dual-labeled GLP-1 receptor agonists",
+      "score": 53,
+      "url": "https://nautil.us/whiplash-heart-attack-and-stroke-risk-jumps-when-people-stop-taking-glp-1s-1279029",
+      "time": 1774042936.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47461018"
+    },
+    {
+      "title": "VisiCalc Reconstructed",
+      "score": 161,
+      "url": "https://zserge.com/posts/visicalc/",
+      "time": 1773743995.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47410871"
+    },
+    {
+      "title": "Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers",
+      "score": 15,
+      "url": "https://github.com/RedGridTactical/RedGridLink",
+      "time": 1774045551.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47461529"
+    },
+    {
       "title": "Show HN: I made an email app inspired by Arc browser",
-      "score": 14,
+      "score": 41,
       "url": "https://demo.define.app",
       "time": 1774029980.0,
       "comments_url": "https://news.ycombinator.com/item?id=47458348"
     },
     {
-      "title": "NumKong: 2'000 Mixed Precision Kernels for All",
-      "score": 5,
-      "url": "https://ashvardanian.com/posts/numkong/",
-      "time": 1774034979.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47459447"
+      "title": "Show HN: Baltic shadow fleet tracker – live AIS, cable proximity alerts",
+      "score": 29,
+      "url": "https://github.com/FormerLab/shadow-fleet-tracker-light",
+      "time": 1774040651.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47460528"
     },
     {
-      "title": "Parallel Perl – autoparallelizing interpreter with JIT",
-      "score": 79,
-      "url": "https://perl.petamem.com/gpw2026/perl-mit-ai-gpw2026.html#/4/1/1",
-      "time": 1773835145.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47424592"
+      "title": "Work_mem: It's a Trap",
+      "score": 27,
+      "url": "https://mydbanotebook.org/posts/work_mem-its-a-trap/",
+      "time": 1773867150.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47431304"
     },
     {
-      "title": "The bespoke software revolution? I'm not buying it",
-      "score": 37,
-      "url": "https://world.hey.com/jason/the-bespoke-software-revolution-i-m-not-buying-it-4bfad9ec",
-      "time": 1774038323.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47460154"
+      "title": "The worst volume control UI in the world (2017)",
+      "score": 59,
+      "url": "https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950",
+      "time": 1773829358.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47423762"
     },
     {
       "title": "Delve – Fake Compliance as a Service",
-      "score": 398,
+      "score": 535,
       "url": "https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service",
       "time": 1773947282.0,
       "comments_url": "https://news.ycombinator.com/item?id=47444319"
     },
     {
-      "title": "Entso-E final report on Iberian 2025 blackout",
-      "score": 159,
-      "url": "https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/",
-      "time": 1774004607.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47452955"
-    },
-    {
-      "title": "Launch HN: Sitefire (YC W26) – Automating actions to improve AI visibility",
+      "title": "NumKong: 2'000 Mixed Precision Kernels for All",
       "score": 25,
-      "url": "https://news.ycombinator.com/item?id=47457472",
-      "time": 1774026338.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47457472"
-    },
-    {
-      "title": "The Social Smolnet",
-      "score": 92,
-      "url": "https://ploum.net/2026-03-20-social-smolnet.html",
-      "time": 1774011739.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47453947"
-    },
-    {
-      "title": "Super Micro Shares Plunge 25% After Co-Founder Charged in $2.5B Smuggling Plot",
-      "score": 265,
-      "url": "https://www.forbes.com/sites/tylerroush/2026/03/20/super-micro-shares-plunge-25-after-co-founder-charged-in-25-billion-ai-chip-smuggling-plot/",
-      "time": 1774018089.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47455365"
-    },
-    {
-      "title": "Show HN: An open-source safety net for home hemodialysis",
-      "score": 18,
-      "url": "https://safehemo.com/",
-      "time": 1773708495.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47407184"
-    },
-    {
-      "title": "Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg",
-      "score": 134,
-      "url": "https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg",
-      "time": 1773709361.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47407293"
-    },
-    {
-      "title": "Meme Buildings",
-      "score": 3,
-      "url": "https://misfitsarchitecture.com/2026/03/15/meme-buildings/",
-      "time": 1774022140.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47456421"
-    },
-    {
-      "title": "Flash-KMeans: Fast and Memory-Efficient Exact K-Means",
-      "score": 152,
-      "url": "https://arxiv.org/abs/2603.09229",
-      "time": 1773725906.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47409055"
-    },
-    {
-      "title": "Just Put It on a Map",
-      "score": 126,
-      "url": "https://progressandpoverty.substack.com/p/just-put-it-on-a-map",
-      "time": 1773658390.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47397372"
+      "url": "https://ashvardanian.com/posts/numkong/",
+      "time": 1774034979.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47459447"
     }
   ]
 }
