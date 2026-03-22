@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-03-22T14:24:18.441899-04:00",
+  "last_updated": "2026-03-22T17:18:06.546762-04:00",
   "stories": [
     {
+      "title": "We indexed the Delve audit leak: 533 reports, 455 companies, 99.8% identical",
+      "score": 101,
+      "url": "https://trustcompliance.xyz",
+      "time": 1774210829.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47481729"
+    },
+    {
+      "title": "OpenClaw Is a Security Nightmare Dressed Up as a Daydream",
+      "score": 193,
+      "url": "https://composio.dev/content/openclaw-security-and-vulnerabilities",
+      "time": 1774200928.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47479962"
+    },
+    {
+      "title": "PC Gamer Recommends RSS Readers in a 37MB Article That Just Keeps Downloading",
+      "score": 108,
+      "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
+      "time": 1774203820.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47480507"
+    },
+    {
       "title": "The Future of Version Control",
-      "score": 141,
+      "score": 279,
       "url": "https://bramcohen.com/p/manyana",
       "time": 1774192588.0,
       "comments_url": "https://news.ycombinator.com/item?id=47478401"
     },
     {
-      "title": "Why I love NixOS",
-      "score": 49,
-      "url": "https://www.birkey.co/2026-03-22-why-i-love-nixos.html",
-      "time": 1774199826.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47479751"
-    },
-    {
-      "title": "Flash-MoE: Running a 397B Parameter Model on a Laptop",
-      "score": 218,
-      "url": "https://github.com/danveloper/flash-moe",
-      "time": 1774179003.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47476422"
-    },
-    {
-      "title": "Project Nomad – Knowledge That Never Goes Offline",
-      "score": 211,
-      "url": "https://www.projectnomad.us",
-      "time": 1774182518.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47476821"
+      "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
+      "score": 36,
+      "url": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/",
+      "time": 1774206163.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47480886"
     },
     {
       "title": "Reports of code's death are greatly exaggerated",
-      "score": 62,
+      "score": 138,
       "url": "https://stevekrouse.com/precision",
       "time": 1774177774.0,
       "comments_url": "https://news.ycombinator.com/item?id=47476315"
     },
     {
-      "title": "Building an FPGA 3dfx Voodoo with Modern RTL Tools",
-      "score": 107,
-      "url": "https://noquiche.fyi/voodoo",
-      "time": 1774185878.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47477284"
-    },
-    {
-      "title": "MAUI Is Coming to Linux",
-      "score": 45,
-      "url": "https://avaloniaui.net/blog/maui-avalonia-preview-1",
-      "time": 1774194201.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47478687"
-    },
-    {
-      "title": "Windows native app development is a mess",
-      "score": 176,
-      "url": "https://domenic.me/windows-native-dev/",
-      "time": 1774173451.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47475938"
-    },
-    {
-      "title": "Introducing DoorDash Tasks",
-      "score": 15,
-      "url": "https://about.doordash.com/en-us/news/introducing-doordash-tasks",
-      "time": 1774198117.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47479417"
-    },
-    {
-      "title": "More common mistakes to avoid when creating system architecture diagrams",
-      "score": 91,
-      "url": "https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/",
-      "time": 1774180312.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47476562"
-    },
-    {
-      "title": "A case against currying",
-      "score": 62,
-      "url": "https://emi-h.com/articles/a-case-against-currying.html",
-      "time": 1774184635.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47477090"
-    },
-    {
-      "title": "A review of dice that came with the white castle",
-      "score": 90,
-      "url": "https://boardgamegeek.com/thread/3533812/a-review-of-dice-that-came-with-the-white-castle",
-      "time": 1773902874.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47435783"
-    },
-    {
-      "title": "Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2",
-      "score": 282,
-      "url": "https://radar.cloudflare.com/domains/domain/archive.today",
-      "time": 1774151031.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47474255"
-    },
-    {
-      "title": "Zero ZGC4: A Better Graphing Calculator for School and Beyond",
-      "score": 7,
-      "url": "https://www.zerocalculators.com/features",
-      "time": 1773770854.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47416149"
-    },
-    {
-      "title": "25 Years of Eggs",
-      "score": 183,
-      "url": "https://www.john-rush.com/posts/eggs-25-years-20260219.html",
-      "time": 1773848648.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47427224"
-    },
-    {
-      "title": "The IBM scientist who rewrote the rules of information just won a Turing Award",
-      "score": 43,
-      "url": "https://www.ibm.com/think/news/ibm-scientist-charles-bennett-turing-award",
-      "time": 1774180417.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47476566"
-    },
-    {
-      "title": "Learnings from training a font recognition model from scratch",
-      "score": 5,
-      "url": "https://www.mixfont.com/blog/learnings-from-training-a-font-recognition-model-from-scratch",
-      "time": 1773778574.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47417707"
-    },
-    {
-      "title": "My first patch to the Linux kernel",
-      "score": 184,
-      "url": "https://pooladkhay.com/posts/first-kernel-patch/",
-      "time": 1773949867.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47444909"
-    },
-    {
       "title": "Five Years of Running a Systems Reading Group at Microsoft",
-      "score": 3,
+      "score": 70,
       "url": "https://armaansood.com/posts/systems-reading-group/",
       "time": 1774199198.0,
       "comments_url": "https://news.ycombinator.com/item?id=47479627"
     },
     {
-      "title": "Show HN: Revise – An AI Editor for Documents",
-      "score": 25,
-      "url": "https://revise.io",
-      "time": 1774186125.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47477339"
+      "title": "Project Nomad – Knowledge That Never Goes Offline",
+      "score": 299,
+      "url": "https://www.projectnomad.us",
+      "time": 1774182518.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47476821"
+    },
+    {
+      "title": "Flash-MoE: Running a 397B Parameter Model on a Laptop",
+      "score": 266,
+      "url": "https://github.com/danveloper/flash-moe",
+      "time": 1774179003.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47476422"
+    },
+    {
+      "title": "MAUI Is Coming to Linux",
+      "score": 109,
+      "url": "https://avaloniaui.net/blog/maui-avalonia-preview-1",
+      "time": 1774194201.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47478687"
+    },
+    {
+      "title": "Teaching Claude to QA a mobile app",
+      "score": 26,
+      "url": "https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html",
+      "time": 1774206240.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47480900"
+    },
+    {
+      "title": "How to Attract AI Bots to Your Open Source Project",
+      "score": 17,
+      "url": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html",
+      "time": 1774126681.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47471271"
+    },
+    {
+      "title": "Building an FPGA 3dfx Voodoo with Modern RTL Tools",
+      "score": 132,
+      "url": "https://noquiche.fyi/voodoo",
+      "time": 1774185878.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47477284"
+    },
+    {
+      "title": "Windows native app development is a mess",
+      "score": 262,
+      "url": "https://domenic.me/windows-native-dev/",
+      "time": 1774173451.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47475938"
+    },
+    {
+      "title": "Turkish Coffee? Since the 16th Century, It's in the Water",
+      "score": 16,
+      "url": "https://specialprojects.sprudge.com/?p=868",
+      "time": 1773762080.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47414231"
+    },
+    {
+      "title": "Vectorization of Verilog Designs and its Effects on Verification and Synthesis",
+      "score": 12,
+      "url": "https://arxiv.org/abs/2603.17099",
+      "time": 1773938437.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47442194"
+    },
+    {
+      "title": "Palantir extends reach into British state as gets access to sensitive FCA data",
+      "score": 102,
+      "url": "https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data",
+      "time": 1774202186.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47480200"
+    },
+    {
+      "title": "What Young Workers Are Doing to AI-Proof Themselves",
+      "score": 24,
+      "url": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284",
+      "time": 1774203481.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47480447"
+    },
+    {
+      "title": "More common mistakes to avoid when creating system architecture diagrams",
+      "score": 115,
+      "url": "https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/",
+      "time": 1774180312.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47476562"
+    },
+    {
+      "title": "Personal Computing (2022)",
+      "score": 10,
+      "url": "https://josh8.com/blog/personal_computing.html",
+      "time": 1774207935.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47481202"
     }
   ]
 }
