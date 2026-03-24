@@ -1,54 +1,89 @@
 {
-  "last_updated": "2026-03-24T14:50:37.943864-04:00",
+  "last_updated": "2026-03-24T17:29:23.224350-04:00",
   "stories": [
     {
-      "title": "ARM AGI CPU: Specs and SKUs",
-      "score": 49,
-      "url": "https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/",
-      "time": 1774375156.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47506641"
-    },
-    {
-      "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
-      "score": 130,
-      "url": "https://github.com/t8/hypura",
-      "time": 1774368142.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47504695"
+      "title": "GitHub is once again down",
+      "score": 170,
+      "url": "https://www.githubstatus.com/incidents/kp06czybl7dw",
+      "time": 1774383814.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47508608"
     },
     {
       "title": "Apple Business",
-      "score": 160,
+      "score": 352,
       "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
       "time": 1774366181.0,
       "comments_url": "https://news.ycombinator.com/item?id=47504112"
     },
     {
+      "title": "Is anybody else bored of talking about AI?",
+      "score": 237,
+      "url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
+      "time": 1774384268.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47508745"
+    },
+    {
       "title": "Arm AGI CPU",
-      "score": 52,
+      "score": 193,
       "url": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
       "time": 1774373442.0,
       "comments_url": "https://news.ycombinator.com/item?id=47506251"
     },
     {
+      "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+      "score": 279,
+      "url": "https://github.com/BerriAI/litellm/issues/24512",
+      "time": 1774353989.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47501426"
+    },
+    {
+      "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
+      "score": 166,
+      "url": "https://github.com/t8/hypura",
+      "time": 1774368142.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47504695"
+    },
+    {
+      "title": "Welcome to FastMCP",
+      "score": 31,
+      "url": "https://gofastmcp.com/getting-started/welcome",
+      "time": 1774382031.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47508149"
+    },
+    {
+      "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
+      "score": 351,
+      "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
+      "time": 1774377292.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47507150"
+    },
+    {
       "title": "Hypothesis, Antithesis, synthesis",
-      "score": 112,
+      "score": 161,
       "url": "https://antithesis.com/blog/2026/hegel/",
       "time": 1774366097.0,
       "comments_url": "https://news.ycombinator.com/item?id=47504094"
     },
     {
-      "title": "No Terms. No Conditions",
-      "score": 144,
-      "url": "https://notermsnoconditions.com",
-      "time": 1774367884.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47504615"
+      "title": "Show HN: Email.md – Markdown to responsive, email-safe HTML",
+      "score": 128,
+      "url": "https://www.emailmd.dev/",
+      "time": 1774369560.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47505144"
     },
     {
-      "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
-      "score": 100,
-      "url": "https://github.com/BerriAI/litellm/issues/24512",
-      "time": 1774353989.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47501426"
+      "title": "How the world’s first electric grid was built",
+      "score": 22,
+      "url": "https://worksinprogress.co/issue/how-the-worlds-first-electric-grid-was-built/",
+      "time": 1774016988.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47455079"
+    },
+    {
+      "title": "ARM AGI CPU: Specs and SKUs",
+      "score": 78,
+      "url": "https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/",
+      "time": 1774375156.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47506641"
     },
     {
       "title": "Lago (YC S21) Is Hiring",
@@ -58,88 +93,53 @@
       "comments_url": "https://news.ycombinator.com/item?id=47506490"
     },
     {
-      "title": "Show HN: Email.md – Markdown to responsive, email-safe HTML",
-      "score": 65,
-      "url": "https://www.emailmd.dev/",
-      "time": 1774369560.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47505144"
-    },
-    {
       "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
-      "score": 104,
+      "score": 180,
       "url": "https://github.com/ssrajadh/sentrysearch",
       "time": 1774364307.0,
       "comments_url": "https://news.ycombinator.com/item?id=47503617"
     },
     {
-      "title": "Tony Hoare and His Imprint on Computer Science",
-      "score": 42,
-      "url": "https://cacm.acm.org/blogcacm/tony-hoare-and-his-imprint-on-computer-science/",
-      "time": 1774042996.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47461036"
+      "title": "Epic Games to cut more than 1k jobs as Fortnite usage falls",
+      "score": 157,
+      "url": "https://www.reuters.com/legal/litigation/epic-games-said-tuesday-that-it-will-lay-off-more-than-1000-employees-2026-03-24/",
+      "time": 1774364970.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47503810"
+    },
+    {
+      "title": "No Terms. No Conditions",
+      "score": 193,
+      "url": "https://notermsnoconditions.com",
+      "time": 1774367884.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47504615"
+    },
+    {
+      "title": "Show HN: Gridland: make terminal apps that also run in the browser",
+      "score": 41,
+      "url": "https://www.gridland.io/",
+      "time": 1774371467.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47505731"
     },
     {
       "title": "Data Manipulation in Clojure Compared to R and Python",
-      "score": 25,
+      "score": 66,
       "url": "https://codewithkira.com/2024-07-18-tablecloth-dplyr-pandas-polars.html",
       "time": 1774173323.0,
       "comments_url": "https://news.ycombinator.com/item?id=47475930"
     },
     {
-      "title": "Nanobrew: The fastest macOS package manager compatible with brew",
-      "score": 121,
-      "url": "https://nanobrew.trilok.ai/",
-      "time": 1774352421.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47501211"
+      "title": "Missile defense is NP-complete",
+      "score": 208,
+      "url": "https://smu160.github.io/posts/missile-defense-is-np-complete/",
+      "time": 1774357238.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47501950"
     },
     {
-      "title": "Testing the Swift C compatibility with Raylib (+WASM)",
-      "score": 40,
-      "url": "https://carette.xyz/posts/swift_c_compatibility_with_raylib/",
-      "time": 1774187277.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47477525"
-    },
-    {
-      "title": "Atomic Display Switching: Solving",
-      "score": 3,
-      "url": "https://github.com/piot5/displayflow_cli",
-      "time": 1774377459.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47507194"
-    },
-    {
-      "title": "Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build",
-      "score": 73,
-      "url": "https://github.com/AmElmo/proofshot",
-      "time": 1774338406.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47499672"
-    },
-    {
-      "title": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
-      "score": 809,
-      "url": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
-      "time": 1774344989.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47500335"
-    },
-    {
-      "title": "WolfGuard: WireGuard with FIPS 140-3 cryptography",
-      "score": 49,
-      "url": "https://github.com/wolfssl/wolfguard",
-      "time": 1774367515.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47504498"
-    },
-    {
-      "title": "Debunking Zswap and Zram Myths",
-      "score": 144,
-      "url": "https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html",
-      "time": 1774348761.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47500746"
-    },
-    {
-      "title": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
-      "score": 273,
-      "url": "https://burntsushi.net/ripgrep/",
-      "time": 1774333899.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47499245"
+      "title": "Building Liberal Compute",
+      "score": 7,
+      "url": "https://simongrimm.substack.com/p/building-liberal-compute",
+      "time": 1773868049.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47431465"
     }
   ]
 }
