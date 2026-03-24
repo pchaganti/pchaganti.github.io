@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-03-24T08:50:24.414529-04:00",
+  "last_updated": "2026-03-24T11:56:57.065210-04:00",
   "stories": [
     {
+      "title": "LiteLLM Python package compromised by supply-chain attack",
+      "score": 429,
+      "url": "https://github.com/BerriAI/litellm/issues/24512",
+      "time": 1774355780.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47501729"
+    },
+    {
+      "title": "Major insider trading on oil detected ahead of Iran talks",
+      "score": 120,
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-24-2026/card/mystery-jump-in-oil-trading-ahead-of-trump-post-draws-scrutiny-56sgwdXtlOlonqIKDsL6",
+      "time": 1774365952.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47504060"
+    },
+    {
       "title": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
-      "score": 353,
+      "score": 654,
       "url": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
       "time": 1774344989.0,
       "comments_url": "https://news.ycombinator.com/item?id=47500335"
     },
     {
-      "title": "Opera: Rewind The Web to 1996 (Opera at 30)",
-      "score": 102,
-      "url": "https://www.web-rewind.com",
-      "time": 1774338842.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47499721"
+      "title": "Hypothesis, Antithesis, Synthesis",
+      "score": 13,
+      "url": "https://antithesis.com/blog/2026/hegel/",
+      "time": 1774366097.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47504094"
     },
     {
-      "title": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
-      "score": 122,
-      "url": "https://burntsushi.net/ripgrep/",
-      "time": 1774333899.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47499245"
+      "title": "The bridge to wealth is being pulled up with AI",
+      "score": 154,
+      "url": "https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/",
+      "time": 1774363160.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47503296"
+    },
+    {
+      "title": "Nanobrew: The fastest macOS package manager compatible with brew",
+      "score": 62,
+      "url": "https://nanobrew.trilok.ai/",
+      "time": 1774352421.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47501211"
     },
     {
       "title": "Debunking Zswap and Zram Myths",
-      "score": 35,
+      "score": 101,
       "url": "https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html",
       "time": 1774348761.0,
       "comments_url": "https://news.ycombinator.com/item?id=47500746"
     },
     {
-      "title": "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home",
-      "score": 188,
-      "url": "https://www.jackhogan.me/blog/box-of-secrets/",
-      "time": 1774269720.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47488686"
+      "title": "Secure Domain Name System (DNS) Deployment 2026 Guide [pdf]",
+      "score": 48,
+      "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-81r3.pdf",
+      "time": 1774354496.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47501511"
     },
     {
-      "title": "Log File Viewer for the Terminal",
-      "score": 204,
-      "url": "https://lnav.org/",
-      "time": 1774330373.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47498924"
+      "title": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
+      "score": 215,
+      "url": "https://burntsushi.net/ripgrep/",
+      "time": 1774333899.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47499245"
+    },
+    {
+      "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
+      "score": 40,
+      "url": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
+      "time": 1774365559.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47503965"
     },
     {
       "title": "curl > /dev/sda: How I made a Linux distro that runs wget | dd",
-      "score": 24,
+      "score": 99,
       "url": "https://astrid.tech/2026/03/24/0/curl-to-dev-sda/",
       "time": 1774346762.0,
       "comments_url": "https://news.ycombinator.com/item?id=47500522"
     },
     {
+      "title": "Opera: Rewind The Web to 1996 (Opera at 30)",
+      "score": 145,
+      "url": "https://www.web-rewind.com",
+      "time": 1774338842.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47499721"
+    },
+    {
+      "title": "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home",
+      "score": 231,
+      "url": "https://www.jackhogan.me/blog/box-of-secrets/",
+      "time": 1774269720.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47488686"
+    },
+    {
+      "title": "io_uring, libaio performance across Linux kernels and an unexpected IOMMU trap",
+      "score": 18,
+      "url": "https://blog.ydb.tech/how-io-uring-overtook-libaio-performance-across-linux-kernels-and-an-unexpected-iommu-trap-ea6126d9ef14",
+      "time": 1774358484.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47502193"
+    },
+    {
+      "title": "Log File Viewer for the Terminal",
+      "score": 249,
+      "url": "https://lnav.org/",
+      "time": 1774330373.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47498924"
+    },
+    {
+      "title": "So where are all the AI apps?",
+      "score": 159,
+      "url": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html",
+      "time": 1774361999.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47503006"
+    },
+    {
+      "title": "LLM Neuroanatomy II: Modern LLM Hacking and Hints of a Universal Language?",
+      "score": 44,
+      "url": "https://dnhkng.github.io/posts/rys-ii/",
+      "time": 1774348434.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47500709"
+    },
+    {
+      "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
+      "score": 7,
+      "url": "https://github.com/ssrajadh/sentrysearch",
+      "time": 1774364307.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47503617"
+    },
+    {
       "title": "MSA: Memory Sparse Attention",
-      "score": 33,
+      "score": 61,
       "url": "https://github.com/EverMind-AI/MSA",
       "time": 1774104478.0,
       "comments_url": "https://news.ycombinator.com/item?id=47467543"
     },
     {
-      "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
-      "score": 647,
-      "url": "https://twitter.com/anemll/status/2035901335984611412",
-      "time": 1774276210.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47490070"
-    },
-    {
-      "title": "No-build, no-NPM, SSR-first JavaScript framework if you hate React, love HTML",
-      "score": 55,
-      "url": "https://qitejs.qount25.dev",
-      "time": 1773928152.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47439413"
-    },
-    {
-      "title": "BIO – The Bao I/O Co-Processor",
-      "score": 55,
-      "url": "https://www.crowdsupply.com/baochip/dabao/updates/bio-the-bao-i-o-co-processor",
-      "time": 1774117261.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47469744"
-    },
-    {
-      "title": "Autoresearch on an old research idea",
-      "score": 378,
-      "url": "https://ykumar.me/blog/eclip-autoresearch/",
-      "time": 1774291258.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47493460"
-    },
-    {
-      "title": "FCC updates covered list to include foreign-made consumer routers",
-      "score": 359,
-      "url": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
-      "time": 1774301282.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47495344"
-    },
-    {
-      "title": "Overcoming the Friendship Recession",
+      "title": "Testing the Swift C compatibility with Raylib (+WASM)",
       "score": 4,
-      "url": "https://joeprevite.com/friendship-recession/",
-      "time": 1774010557.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47453737"
-    },
-    {
-      "title": "Show HN: Cq – Stack Overflow for AI coding agents",
-      "score": 166,
-      "url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
-      "time": 1774282263.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47491466"
-    },
-    {
-      "title": "A 6502 disassembler with a TUI: A modern take on Regenerator",
-      "score": 56,
-      "url": "https://github.com/ricardoquesada/regenerator2000",
-      "time": 1774024464.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47456997"
-    },
-    {
-      "title": "Dune3d: A parametric 3D CAD application",
-      "score": 181,
-      "url": "https://github.com/dune3d/dune3d",
-      "time": 1774166778.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47475417"
-    },
-    {
-      "title": "Claude Code Cheat Sheet",
-      "score": 465,
-      "url": "https://cc.storyfox.cz",
-      "time": 1774302260.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47495527"
-    },
-    {
-      "title": "Pompeii's battle scars linked to an ancient 'machine gun'",
-      "score": 90,
-      "url": "https://phys.org/news/2026-03-pompeii-scars-linked-ancient-machine.html",
-      "time": 1774008120.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47453398"
-    },
-    {
-      "title": "The Resolv hack: How one compromised key printed $23M",
-      "score": 96,
-      "url": "https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/",
-      "time": 1774303275.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47495719"
+      "url": "https://carette.xyz/posts/swift_c_compatibility_with_raylib/",
+      "time": 1774187277.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47477525"
     }
   ]
 }
