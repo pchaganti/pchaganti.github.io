@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-03-25T12:00:20.327185-04:00",
+  "last_updated": "2026-03-25T14:43:36.254189-04:00",
   "stories": [
     {
-      "title": "Local LLM App by Ente",
-      "score": 178,
-      "url": "https://ente.com/blog/ensu/",
-      "time": 1774442954.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47516650"
+      "title": "Thoughts on Slowing the Fuck Down",
+      "score": 280,
+      "url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
+      "time": 1774447634.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47517539"
     },
     {
       "title": "My Astrophotography in the Movie Project Hail Mary",
-      "score": 226,
+      "score": 453,
       "url": "https://rpastro.square.site/s/stories/phm",
       "time": 1774189686.0,
       "comments_url": "https://news.ycombinator.com/item?id=47477873"
     },
     {
+      "title": "Local LLM App by Ente",
+      "score": 276,
+      "url": "https://ente.com/blog/ensu/",
+      "time": 1774442954.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47516650"
+    },
+    {
+      "title": "Jury says Meta knowingly harmed children for profit, awarding landmark verdict",
+      "score": 220,
+      "url": "https://www.latimes.com/business/story/2026-03-25/jury-says-meta-knowingly-harmed-children-for-profit-awarding-landmark-verdict",
+      "time": 1774456275.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47519625"
+    },
+    {
+      "title": "Meta and YouTube Found Negligent in Landmark Social Media Addiction Case",
+      "score": 121,
+      "url": "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html",
+      "time": 1774459773.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47520505"
+    },
+    {
       "title": "TurboQuant: Redefining AI efficiency with extreme compression",
-      "score": 348,
+      "score": 410,
       "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
       "time": 1774414854.0,
       "comments_url": "https://news.ycombinator.com/item?id=47513475"
     },
     {
-      "title": "Supreme Court Sides with Cox in Copyright Fight over Pirated Music",
-      "score": 70,
-      "url": "https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html",
-      "time": 1774450976.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47518281"
+      "title": "Sony V. Cox Decision Reversed",
+      "score": 97,
+      "url": "https://supreme.justia.com/cases/federal/us/607/24-171/",
+      "time": 1774452842.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47518785"
     },
     {
       "title": "Antimatter has been transported for the first time",
-      "score": 54,
+      "score": 196,
       "url": "https://www.nature.com/articles/d41586-026-00950-w",
       "time": 1774450588.0,
       "comments_url": "https://news.ycombinator.com/item?id=47518171"
     },
     {
+      "title": "Meta and Google found liable in social media addiction trial",
+      "score": 36,
+      "url": "https://www.bbc.co.uk/news/articles/c747x7gz249o",
+      "time": 1774460597.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47520717"
+    },
+    {
       "title": "Goodbye to Sora",
-      "score": 933,
+      "score": 997,
       "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
       "time": 1774382465.0,
       "comments_url": "https://news.ycombinator.com/item?id=47508246"
     },
     {
+      "title": "Quantization from the Ground Up",
+      "score": 49,
+      "url": "https://ngrok.com/blog/quantization",
+      "time": 1774454794.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47519295"
+    },
+    {
       "title": "VitruvianOS – Desktop Linux Inspired by the BeOS",
-      "score": 262,
+      "score": 288,
       "url": "https://v-os.dev",
       "time": 1774408626.0,
       "comments_url": "https://news.ycombinator.com/item?id=47512816"
     },
     {
       "title": "Looking at Unity made me understand the point of C++ coroutines",
-      "score": 93,
+      "score": 117,
       "url": "https://mropert.github.io/2026/03/20/unity_cpp_coroutines/",
       "time": 1774135168.0,
       "comments_url": "https://news.ycombinator.com/item?id=47472566"
     },
     {
-      "title": "Building a coding agent in Swift from scratch",
-      "score": 27,
-      "url": "https://github.com/ivan-magda/swift-claude-code",
-      "time": 1774435540.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47515605"
-    },
-    {
       "title": "Flighty Airports",
-      "score": 436,
+      "score": 479,
       "url": "https://flighty.com/airports",
       "time": 1774398585.0,
       "comments_url": "https://news.ycombinator.com/item?id=47511589"
     },
     {
+      "title": "Building a coding agent in Swift from scratch",
+      "score": 48,
+      "url": "https://github.com/ivan-magda/swift-claude-code",
+      "time": 1774435540.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47515605"
+    },
+    {
       "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
-      "score": 830,
+      "score": 873,
       "url": "https://github.com/BerriAI/litellm/issues/24512",
       "time": 1774353989.0,
       "comments_url": "https://news.ycombinator.com/item?id=47501426"
     },
     {
+      "title": "Tracy Kidder, Author of 'The Soul of a New Machine,' Dies at 80",
+      "score": 46,
+      "url": "https://www.nytimes.com/2026/03/25/books/tracy-kidder-dead.html",
+      "time": 1774456988.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47519802"
+    },
+    {
       "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
-      "score": 523,
+      "score": 572,
       "url": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
       "time": 1774375428.0,
       "comments_url": "https://news.ycombinator.com/item?id=47506713"
     },
     {
-      "title": "VNDB founder Yorhel has died",
-      "score": 119,
-      "url": "https://vndb.org/t24787",
-      "time": 1774197858.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47479362"
-    },
-    {
-      "title": "In Edison’s Revenge, Data Centers Are Transitioning From AC to DC",
-      "score": 218,
-      "url": "https://spectrum.ieee.org/data-center-dc",
-      "time": 1774399495.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47511703"
-    },
-    {
-      "title": "Apple Business",
-      "score": 685,
-      "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
-      "time": 1774366181.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47504112"
-    },
-    {
       "title": "Miscellanea: The War in Iran",
-      "score": 140,
+      "score": 228,
       "url": "https://acoup.blog/2026/03/25/miscellanea-the-war-in-iran/",
       "time": 1774412834.0,
       "comments_url": "https://news.ycombinator.com/item?id=47513229"
     },
     {
-      "title": "Microbenchmarking Chipsets for Giggles",
-      "score": 37,
-      "url": "https://chipsandcheese.com/p/microbenchmarking-chipsets-for-giggles",
-      "time": 1774214310.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47482259"
-    },
-    {
-      "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
-      "score": 373,
-      "url": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
-      "time": 1774387473.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47509571"
-    },
-    {
-      "title": "Apple Just Lost Me",
-      "score": 316,
-      "url": "https://andregarzia.com/2026/03/apple-just-lost-me.html",
-      "time": 1774448424.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47517701"
-    },
-    {
-      "title": "Arm AGI CPU",
-      "score": 385,
-      "url": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
-      "time": 1774373442.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47506251"
+      "title": "Musketeer d'Artagnan's remains believed found under Dutch church",
+      "score": 53,
+      "url": "https://www.bbc.co.uk/news/articles/cm2rew2dgzzo",
+      "time": 1774453604.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47518965"
     }
   ]
 }
