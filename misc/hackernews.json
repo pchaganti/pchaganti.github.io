@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-03-27T02:57:32.638871-04:00",
+  "last_updated": "2026-03-27T05:44:52.993598-04:00",
   "stories": [
     {
+      "title": "A Faster Alternative to Jq",
+      "score": 97,
+      "url": "https://micahkepe.com/blog/jsongrep/",
+      "time": 1774595546.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47539825"
+    },
+    {
       "title": "Schedule tasks on the web",
-      "score": 77,
+      "score": 134,
       "url": "https://code.claude.com/docs/en/web-scheduled-tasks",
       "time": 1774586835.0,
       "comments_url": "https://news.ycombinator.com/item?id=47539188"
     },
     {
-      "title": "Why so many control rooms were seafoam green (2025)",
-      "score": 746,
-      "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
-      "time": 1774453589.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47518960"
+      "title": "The European AllSky7 fireball network",
+      "score": 42,
+      "url": "https://www.allsky7.net/#archive",
+      "time": 1774594849.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47539767"
     },
     {
       "title": "Apple discontinues the Mac Pro",
-      "score": 273,
+      "score": 351,
       "url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
       "time": 1774559090.0,
       "comments_url": "https://news.ycombinator.com/item?id=47535708"
     },
     {
+      "title": "Why so many control rooms were seafoam green (2025)",
+      "score": 801,
+      "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
+      "time": 1774453589.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47518960"
+    },
+    {
       "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
-      "score": 192,
+      "score": 240,
       "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
       "time": 1774564885.0,
       "comments_url": "https://news.ycombinator.com/item?id=47536761"
     },
     {
-      "title": "From 0% to 36% on Day 1 of ARC-AGI-3",
-      "score": 68,
-      "url": "https://www.symbolica.ai/blog/arc-agi-3",
-      "time": 1774575130.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47538078"
-    },
-    {
-      "title": "Dobase – Your workspace, your server",
-      "score": 61,
-      "url": "https://dobase.co/",
-      "time": 1774272299.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47489213"
-    },
-    {
-      "title": "DOOM Over DNS",
-      "score": 247,
-      "url": "https://github.com/resumex/doom-over-dns",
-      "time": 1774279058.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47490705"
-    },
-    {
       "title": "The Legibility of Serif and Sans Serif Typefaces (2022)",
-      "score": 20,
+      "score": 40,
       "url": "https://library.oapen.org//handle/20.500.12657/53344",
       "time": 1774288591.0,
       "comments_url": "https://news.ycombinator.com/item?id=47492894"
     },
     {
-      "title": "Chroma Context-1: Training a Self-Editing Search Agent",
-      "score": 39,
-      "url": "https://www.trychroma.com/research/context-1",
-      "time": 1774553119.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47534564"
+      "title": "Everything old is new again: memory optimization",
+      "score": 13,
+      "url": "https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html",
+      "time": 1774290153.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47493246"
     },
     {
-      "title": "Agent-to-agent pair programming",
-      "score": 48,
-      "url": "https://axeldelafosse.com/blog/agent-to-agent-pair-programming",
-      "time": 1774576075.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47538190"
+      "title": "$500 GPU outperforms Claude Sonnet on coding benchmarks",
+      "score": 248,
+      "url": "https://github.com/itigges22/ATLAS",
+      "time": 1774546284.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47533297"
+    },
+    {
+      "title": "Show HN: Minimalist library to generate SVG views of scientific data",
+      "score": 23,
+      "url": "https://github.com/alefore/mini_svg/",
+      "time": 1774288491.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47492871"
+    },
+    {
+      "title": "DOOM Over DNS",
+      "score": 277,
+      "url": "https://github.com/resumex/doom-over-dns",
+      "time": 1774279058.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47490705"
     },
     {
       "title": "My minute-by-minute response to the LiteLLM malware attack",
-      "score": 344,
+      "score": 368,
       "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
       "time": 1774540120.0,
       "comments_url": "https://news.ycombinator.com/item?id=47531967"
     },
     {
       "title": "Whistler: Live eBPF Programming from the Common Lisp REPL",
-      "score": 72,
+      "score": 91,
       "url": "https://atgreen.github.io/repl-yell/posts/whistler/",
       "time": 1774300396.0,
       "comments_url": "https://news.ycombinator.com/item?id=47495190"
     },
     {
-      "title": "$500 GPU outperforms Claude Sonnet on coding benchmarks",
-      "score": 172,
-      "url": "https://github.com/itigges22/ATLAS",
-      "time": 1774546284.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47533297"
-    },
-    {
       "title": "We rewrote JSONata with AI in a day, saved $500k/year",
-      "score": 109,
+      "score": 157,
       "url": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai",
       "time": 1774564601.0,
       "comments_url": "https://news.ycombinator.com/item?id=47536712"
     },
     {
       "title": "Generators in Lone Lisp",
-      "score": 25,
+      "score": 38,
       "url": "https://www.matheusmoreira.com/articles/generators-in-lone-lisp",
       "time": 1774273863.0,
       "comments_url": "https://news.ycombinator.com/item?id=47489535"
     },
     {
-      "title": "Anthropic Subprocessor Changes",
-      "score": 64,
-      "url": "https://trust.anthropic.com",
-      "time": 1774561035.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47536110"
-    },
-    {
       "title": "HyperAgents: Self-referential self-improving agents",
-      "score": 166,
+      "score": 180,
       "url": "https://github.com/facebookresearch/hyperagents",
       "time": 1774371250.0,
       "comments_url": "https://news.ycombinator.com/item?id=47505670"
     },
     {
-      "title": "We haven't seen the worst of what gambling and prediction markets will do",
-      "score": 670,
-      "url": "https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what",
-      "time": 1774554485.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47534848"
-    },
-    {
       "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
-      "score": 886,
+      "score": 891,
       "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
       "time": 1774473117.0,
       "comments_url": "https://news.ycombinator.com/item?id=47523330"
     },
     {
-      "title": "OpenTelemetry profiles enters public alpha",
-      "score": 161,
-      "url": "https://opentelemetry.io/blog/2026/profiles-alpha/",
-      "time": 1774541696.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47532339"
+      "title": "Anthropic Subprocessor Changes",
+      "score": 76,
+      "url": "https://trust.anthropic.com",
+      "time": 1774561035.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47536110"
+    },
+    {
+      "title": "Chroma Context-1: Training a Self-Editing Search Agent",
+      "score": 45,
+      "url": "https://www.trychroma.com/research/context-1",
+      "time": 1774553119.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47534564"
+    },
+    {
+      "title": "We haven't seen the worst of what gambling and prediction markets will do",
+      "score": 725,
+      "url": "https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what",
+      "time": 1774554485.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47534848"
     }
   ]
 }
