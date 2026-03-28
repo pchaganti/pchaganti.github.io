@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-03-28T14:27:40.752008-04:00",
+  "last_updated": "2026-03-28T17:21:36.077776-04:00",
   "stories": [
     {
       "title": "Founder of GitLab battles cancer by founding companies",
-      "score": 103,
+      "score": 409,
       "url": "https://sytse.com/cancer/",
       "time": 1774719589.0,
       "comments_url": "https://news.ycombinator.com/item?id=47556729"
     },
     {
+      "title": "CSS is DOOMed",
+      "score": 35,
+      "url": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
+      "time": 1774730341.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47557960"
+    },
+    {
+      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "score": 91,
+      "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+      "time": 1774723139.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47557166"
+    },
+    {
       "title": "Linux is an interpreter",
-      "score": 51,
+      "score": 119,
       "url": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
       "time": 1774717174.0,
       "comments_url": "https://news.ycombinator.com/item?id=47556359"
     },
     {
       "title": "AI overly affirms users asking for personal advice",
-      "score": 353,
+      "score": 443,
       "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
       "time": 1774706913.0,
       "comments_url": "https://news.ycombinator.com/item?id=47554773"
     },
     {
-      "title": "I Built an Open-World Engine for the N64 [video]",
-      "score": 239,
-      "url": "https://www.youtube.com/watch?v=lXxmIw9axWw",
-      "time": 1774698568.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47553717"
-    },
-    {
-      "title": "Spanish legislation as a Git repo",
-      "score": 588,
-      "url": "https://github.com/EnriqueLop/legalize-es",
-      "time": 1774699287.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47553798"
-    },
-    {
       "title": "I decompiled the White House's new app",
-      "score": 156,
+      "score": 274,
       "url": "https://thereallo.dev/blog/decompiling-the-white-house-app",
       "time": 1774712237.0,
       "comments_url": "https://news.ycombinator.com/item?id=47555556"
     },
     {
-      "title": "Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly",
-      "score": 233,
-      "url": "https://github.com/J-x-Z/cocoa-way",
-      "time": 1774692373.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47553185"
-    },
-    {
-      "title": "rpg.actor Game Jam",
-      "score": 20,
-      "url": "https://rpg.actor/jam",
-      "time": 1774715168.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47556033"
-    },
-    {
-      "title": "C++26: A User-Friednly assert() macro",
+      "title": "Detecting file changes on macOS with kqueue",
       "score": 43,
-      "url": "https://www.sandordargo.com/blog/2026/03/25/cpp26-user-friendly-assert",
-      "time": 1774435908.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47515652"
-    },
-    {
-      "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
-      "score": 242,
-      "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
-      "time": 1774685179.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47552562"
-    },
-    {
-      "title": "Folk are getting dangerously attached to AI that always tells them they're right",
-      "score": 175,
-      "url": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/",
-      "time": 1774709365.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47555090"
-    },
-    {
-      "title": "Circuit-level PDP-11/34 emulator",
-      "score": 12,
-      "url": "https://github.com/dbrll/ll-34",
-      "time": 1774715011.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47556001"
-    },
-    {
-      "title": "Improved Git Diffs with Delta, Fzf and a Little Shell Scripting",
-      "score": 66,
-      "url": "https://nickjanetakis.com/blog/awesome-git-diffs-with-delta-fzf-and-a-little-shell-scripting",
-      "time": 1774364558.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47503687"
-    },
-    {
-      "title": "StationeryObject",
-      "score": 21,
-      "url": "https://stationeryobject.com/archive/",
-      "time": 1774405985.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47512492"
-    },
-    {
-      "title": "Go hard on agents, not on your filesystem",
-      "score": 524,
-      "url": "https://jai.scs.stanford.edu/",
-      "time": 1774658394.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47550282"
-    },
-    {
-      "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
-      "score": 261,
-      "url": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
-      "time": 1774664224.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47550878"
+      "url": "https://www.vegardstikbakke.com/kqueue/",
+      "time": 1774384184.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47508710"
     },
     {
       "title": "Undroidwish – a single-file, batteries-included Tcl/Tk binary for many platforms",
-      "score": 4,
+      "score": 45,
       "url": "https://androwish.org/home/wiki?name=undroidwish",
       "time": 1774716586.0,
       "comments_url": "https://news.ycombinator.com/item?id=47556267"
     },
     {
-      "title": "Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer",
-      "score": 93,
-      "url": "https://github.com/dbrll/ATTN-11",
-      "time": 1774452008.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47518568"
+      "title": "I Built an Open-World Engine for the N64 [video]",
+      "score": 290,
+      "url": "https://www.youtube.com/watch?v=lXxmIw9axWw",
+      "time": 1774698568.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47553717"
     },
     {
-      "title": "Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers",
-      "score": 1,
-      "url": "https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer",
-      "time": 1774699267.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47553796"
+      "title": "Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly",
+      "score": 265,
+      "url": "https://github.com/J-x-Z/cocoa-way",
+      "time": 1774692373.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47553185"
     },
     {
-      "title": "RSA and Python",
-      "score": 10,
-      "url": "https://xnacly.me/posts/2023/rsa/",
-      "time": 1774454661.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47519255"
+      "title": "Spanish legislation as a Git repo",
+      "score": 655,
+      "url": "https://github.com/EnriqueLop/legalize-es",
+      "time": 1774699287.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47553798"
+    },
+    {
+      "title": "The first 40 months of the AI era",
+      "score": 30,
+      "url": "https://lzon.ca/posts/other/thoughts-ai-era/",
+      "time": 1774723328.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47557185"
+    },
+    {
+      "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
+      "score": 273,
+      "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+      "time": 1774685179.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47552562"
+    },
+    {
+      "title": "Circuit-level PDP-11/34 emulator",
+      "score": 36,
+      "url": "https://github.com/dbrll/ll-34",
+      "time": 1774715011.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47556001"
+    },
+    {
+      "title": "OpenCiv1 – open-source rewrite of Civ1",
+      "score": 13,
+      "url": "https://github.com/rajko-horvat/OpenCiv1",
+      "time": 1774722165.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47557064"
+    },
+    {
+      "title": "rpg.actor Game Jam",
+      "score": 49,
+      "url": "https://rpg.actor/jam",
+      "time": 1774715168.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47556033"
+    },
+    {
+      "title": "1929: Inside the Greatest Crash in Wall Street History",
+      "score": 9,
+      "url": "https://www.nybooks.com/articles/2026/03/26/tick-tick-boom-1929-andrew-ross-sorkin/",
+      "time": 1774414918.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47513482"
+    },
+    {
+      "title": "C++26: A User-Friednly assert() macro",
+      "score": 53,
+      "url": "https://www.sandordargo.com/blog/2026/03/25/cpp26-user-friendly-assert",
+      "time": 1774435908.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47515652"
+    },
+    {
+      "title": "Go hard on agents, not on your filesystem",
+      "score": 556,
+      "url": "https://jai.scs.stanford.edu/",
+      "time": 1774658394.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47550282"
+    },
+    {
+      "title": "Improved Git Diffs with Delta, Fzf and a Little Shell Scripting",
+      "score": 95,
+      "url": "https://nickjanetakis.com/blog/awesome-git-diffs-with-delta-fzf-and-a-little-shell-scripting",
+      "time": 1774364558.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47503687"
     }
   ]
 }
