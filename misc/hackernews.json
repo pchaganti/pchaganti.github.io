@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-03-29T17:23:52.974137-04:00",
+  "last_updated": "2026-03-29T21:29:15.402925-04:00",
   "stories": [
     {
-      "title": "ChatGPT Won't Let You Type Until Cloudflare Reads Your React State",
-      "score": 82,
+      "title": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
+      "score": 156,
+      "url": "https://github.com/anthropics/claude-code/issues/40710",
+      "time": 1774822506.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47567969"
+    },
+    {
+      "title": "The Cognitive Dark Forest",
+      "score": 227,
+      "url": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
+      "time": 1774812981.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47566442"
+    },
+    {
+      "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+      "score": 321,
       "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
       "time": 1774815665.0,
       "comments_url": "https://news.ycombinator.com/item?id=47566865"
     },
     {
       "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
-      "score": 303,
+      "score": 387,
       "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
       "time": 1774800742.0,
       "comments_url": "https://news.ycombinator.com/item?id=47564421"
     },
     {
-      "title": "The Cognitive Dark Forest",
-      "score": 80,
-      "url": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
-      "time": 1774812981.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47566442"
+      "title": "15 Years of Forking",
+      "score": 28,
+      "url": "https://www.waterfox.com/blog/15-years-of-forking/",
+      "time": 1774632131.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47545607"
     },
     {
-      "title": "Midnight train from GA: A view of America from the tracks as airports struggle",
-      "score": 26,
-      "url": "https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a",
-      "time": 1774814402.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47566653"
-    },
-    {
-      "title": "C++26 is done ISO C++ standards meeting, Trip Report",
-      "score": 113,
-      "url": "https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/",
-      "time": 1774806372.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47565365"
+      "title": "There is No Spoon. A software engineers primer for demystified ML",
+      "score": 42,
+      "url": "https://github.com/dreddnafious/thereisnospoon",
+      "time": 1774823291.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47568080"
     },
     {
       "title": "Pretext: TypeScript library for multiline text measurement and layout",
-      "score": 137,
+      "score": 192,
       "url": "https://github.com/chenglou/pretext",
       "time": 1774716765.0,
       "comments_url": "https://news.ycombinator.com/item?id=47556290"
     },
     {
+      "title": "Midnight train from GA: A view of America from the tracks as airports struggle",
+      "score": 64,
+      "url": "https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a",
+      "time": 1774814402.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47566653"
+    },
+    {
+      "title": "The road signs that teach travellers about France",
+      "score": 51,
+      "url": "https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france",
+      "time": 1774816202.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47566960"
+    },
+    {
+      "title": "I'll buy your electronics to feed our robot",
+      "score": 50,
+      "url": "https://www.dayworkx.com/",
+      "time": 1774554329.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47534812"
+    },
+    {
+      "title": "About the Atmosphere",
+      "score": 21,
+      "url": "https://toni.org/2026/03/27/about-the-atmosphere/",
+      "time": 1774653036.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47549586"
+    },
+    {
+      "title": "Coding Agents Could Make Free Software Matter Again",
+      "score": 102,
+      "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
+      "time": 1774822894.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47568028"
+    },
+    {
+      "title": "Ohm's Peg-to-WASM Compiler",
+      "score": 40,
+      "url": "https://ohmjs.org/blog/2026/03/12/peg-to-wasm",
+      "time": 1774586467.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47539165"
+    },
+    {
+      "title": "C++26 is done ISO C++ standards meeting, Trip Report",
+      "score": 164,
+      "url": "https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/",
+      "time": 1774806372.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47565365"
+    },
+    {
+      "title": "More on Version Control",
+      "score": 53,
+      "url": "https://bramcohen.com/p/more-on-version-control",
+      "time": 1774812374.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47566332"
+    },
+    {
+      "title": "Show HN: Crazierl – An Erlang Operating System",
+      "score": 40,
+      "url": "https://crazierl.org/demo/",
+      "time": 1774816706.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47567049"
+    },
+    {
       "title": "The RISE RISC-V Runners: free, native RISC-V CI on GitHub",
-      "score": 91,
+      "score": 111,
       "url": "https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/",
       "time": 1774538237.0,
       "comments_url": "https://news.ycombinator.com/item?id=47531576"
     },
     {
       "title": "Neovim 0.12.0",
-      "score": 206,
+      "score": 291,
       "url": "https://github.com/neovim/neovim/releases/tag/v0.12.0",
       "time": 1774805995.0,
       "comments_url": "https://news.ycombinator.com/item?id=47565316"
     },
     {
-      "title": "Kyushu Railway Company Train Varieties",
-      "score": 21,
-      "url": "https://www.jrkyushu.co.jp/english/train/index.html",
-      "time": 1774811287.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47566140"
-    },
-    {
-      "title": "More on Version Control",
-      "score": 27,
-      "url": "https://bramcohen.com/p/more-on-version-control",
-      "time": 1774812374.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47566332"
-    },
-    {
-      "title": "Creating West Coast Buddhism (2024)",
-      "score": 30,
-      "url": "https://letter.palladiummag.com/p/creating-west-coast-buddhism",
-      "time": 1774534114.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47530670"
-    },
-    {
-      "title": "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
-      "score": 51,
-      "url": "https://www.righto.com/2026/03/ibm-4-pi-computer-history.html",
-      "time": 1774801615.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47564579"
-    },
-    {
-      "title": "AyaFlow: A high-performance, eBPF-based network traffic analyzer written in Rust",
-      "score": 64,
-      "url": "https://github.com/DavidHavoc/ayaFlow",
-      "time": 1774798107.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47563978"
-    },
-    {
-      "title": "Show HN: I made a \"programming language\" looking for feedback",
-      "score": 15,
-      "url": "https://github.com/alonsovm44/glupe",
-      "time": 1774809358.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47565831"
-    },
-    {
-      "title": "Ohm's Peg-to-WASM Compiler",
-      "score": 8,
-      "url": "https://ohmjs.org/blog/2026/03/12/peg-to-wasm",
-      "time": 1774586467.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47539165"
-    },
-    {
-      "title": "Show HN: Crazierl – An Erlang Operating System",
-      "score": 4,
-      "url": "https://crazierl.org/demo/",
-      "time": 1774816706.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47567049"
-    },
-    {
-      "title": "The Epistemology of Microphysics",
-      "score": 29,
-      "url": "https://www.edwardfeser.com/unpublishedpapers/microphysics.html",
-      "time": 1774446378.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47517306"
-    },
-    {
       "title": "Show HN: QuickBEAM – run JavaScript as supervised Erlang/OTP processes",
-      "score": 52,
+      "score": 78,
       "url": "https://github.com/elixir-volt/quickbeam",
       "time": 1774731803.0,
       "comments_url": "https://news.ycombinator.com/item?id=47558094"
     },
     {
-      "title": "Observations from carbon dioxide monitoring",
-      "score": 24,
-      "url": "https://grieve-smith.com/ftn/2026/03/nine-observations-from-carbon-dioxide-monitoring/",
-      "time": 1774616191.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47542142"
-    },
-    {
-      "title": "Nitrile and latex gloves may cause overestimation of microplastics",
-      "score": 468,
-      "url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
-      "time": 1774777618.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47561711"
+      "title": "Creating West Coast Buddhism (2024)",
+      "score": 51,
+      "url": "https://letter.palladiummag.com/p/creating-west-coast-buddhism",
+      "time": 1774534114.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47530670"
     }
   ]
 }
