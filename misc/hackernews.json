@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-04-01T12:01:42.908667-04:00",
+  "last_updated": "2026-04-01T17:33:52.245793-04:00",
   "stories": [
     {
-      "title": "Is BGP Safe Yet? No. Test Your ISP",
-      "score": 136,
-      "url": "https://isbgpsafeyet.com/",
-      "time": 1775049029.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47600382"
+      "title": "Signing data structures the wrong way",
+      "score": 43,
+      "url": "https://blog.foks.pub/posts/domain-separation-in-idl/",
+      "time": 1775073120.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47605677"
     },
     {
-      "title": "Claude Code Unpacked : A visual guide",
-      "score": 854,
-      "url": "https://ccunpacked.dev/",
-      "time": 1775020537.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47597085"
+      "title": "Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs",
+      "score": 110,
+      "url": "https://github.com/hauntsaninja/git_bayesect",
+      "time": 1774729921.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47557921"
+    },
+    {
+      "title": "The revenge of the data scientist",
+      "score": 27,
+      "url": "https://hamel.dev/blog/posts/revenge/",
+      "time": 1774725157.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47557385"
+    },
+    {
+      "title": "Show HN: Flight-Viz – 10K flights on a 3D globe in 3.5MB of Rust+WASM",
+      "score": 21,
+      "url": "https://flight-viz.com",
+      "time": 1775064856.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47603966"
+    },
+    {
+      "title": "EmDash – a spiritual successor to WordPress that solves plugin security",
+      "score": 385,
+      "url": "https://blog.cloudflare.com/emdash-wordpress/",
+      "time": 1775060078.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47602832"
+    },
+    {
+      "title": "Ask HN: Who is hiring? (April 2026)",
+      "score": 155,
+      "url": "https://news.ycombinator.com/item?id=47601859",
+      "time": 1775055696.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47601859"
+    },
+    {
+      "title": "InspectMind AI (YC W24) Is Hiring",
+      "score": 1,
+      "url": "https://www.ycombinator.com/companies/inspectmind-ai/jobs/jQNra64-software-engineer-build-the-world-s-best-ai-plan-checker",
+      "time": 1775077206.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47606495"
+    },
+    {
+      "title": "Scientists crack a 20-year nuclear mystery behind the creation of gold",
+      "score": 16,
+      "url": "https://www.sciencedaily.com/releases/2026/03/260313002633.htm",
+      "time": 1775071572.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47605374"
+    },
+    {
+      "title": "Unsubscribe from the Church of Graphs",
+      "score": 18,
+      "url": "https://www.adorableandharmless.com/p/unsubscribe-from-the-church-of-graphs",
+      "time": 1775066291.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47604253"
+    },
+    {
+      "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
+      "score": 106,
+      "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
+      "time": 1775060255.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47602879"
+    },
+    {
+      "title": "AI for American-produced cement and concrete",
+      "score": 109,
+      "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
+      "time": 1775063844.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47603737"
+    },
+    {
+      "title": "Windows 95 defenses against installers that overwrite a file with an older one",
+      "score": 73,
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260324-00/?p=112159",
+      "time": 1774805923.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47565307"
+    },
+    {
+      "title": "Jax's true calling: Ray-Marching renderers on WebGL",
+      "score": 15,
+      "url": "https://benoit.paris/posts/jax-ray-marcher/",
+      "time": 1775072167.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47605494"
+    },
+    {
+      "title": "NASA Artemis II moon mission live launch broadcast",
+      "score": 280,
+      "url": "https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/",
+      "time": 1775063491.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47603657"
     },
     {
       "title": "CERN levels up with new superconducting karts",
-      "score": 291,
+      "score": 371,
       "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
       "time": 1775028433.0,
       "comments_url": "https://news.ycombinator.com/item?id=47597935"
     },
     {
-      "title": "Intuiting Pratt Parsing",
-      "score": 94,
-      "url": "https://louis.co.nz/2026/03/26/pratt-parsing.html",
-      "time": 1774873912.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47573450"
+      "title": "An Introduction to Writing Systems and Unicode",
+      "score": 42,
+      "url": "https://r12a.github.io/scripts/tutorial/part2",
+      "time": 1774806232.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47565350"
     },
     {
-      "title": "Consider the Greenland Shark (2020)",
-      "score": 46,
-      "url": "https://www.lrb.co.uk/the-paper/v42/n09/katherine-rundell/consider-the-greenland-shark",
-      "time": 1774597180.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47539945"
-    },
-    {
-      "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
-      "score": 164,
-      "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
-      "time": 1775020908.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47597119"
-    },
-    {
-      "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
-      "score": 162,
-      "url": "https://github.com/yannick-cw/korb",
-      "time": 1774853158.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47571183"
-    },
-    {
-      "title": "Ada and Spark on ARM Cortex-M – A Tutorial with Arduino and Nucleo Examples",
-      "score": 15,
-      "url": "http://inspirel.com/articles/Ada_On_Cortex.html",
-      "time": 1774679202.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47552144"
-    },
-    {
-      "title": "Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity",
-      "score": 65,
-      "url": "https://sycamore.dev",
-      "time": 1775046618.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47599956"
-    },
-    {
-      "title": "Chess in SQL",
-      "score": 131,
-      "url": "https://www.dbpro.app/blog/chess-in-pure-sql",
-      "time": 1774790716.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47562961"
-    },
-    {
-      "title": "OnlyOffice kills Nextcloud partnership for forking its project without approval",
-      "score": 38,
-      "url": "https://www.neowin.net/news/onlyoffice-suspends-nextcloud-partnership-over-unapproved-euro-office-fork/",
-      "time": 1775052718.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47601168"
-    },
-    {
-      "title": "Wasmer (YC S19) Is Hiring – Rust and DevRel Positions",
-      "score": 1,
-      "url": "https://www.workatastartup.com/companies/wasmer",
-      "time": 1775044817.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47599673"
-    },
-    {
-      "title": "A dot a day keeps the clutter away",
-      "score": 450,
-      "url": "https://scottlawsonbc.com/post/dot-system",
-      "time": 1774991701.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47593556"
-    },
-    {
-      "title": "AI has suddenly become more useful to open-source developers",
-      "score": 28,
-      "url": "https://www.zdnet.com/article/maybe-open-source-needs-ai/",
-      "time": 1775052470.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47601107"
-    },
-    {
-      "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
-      "score": 343,
-      "url": "https://prismml.com/",
-      "time": 1774990878.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47593422"
-    },
-    {
-      "title": "Iran war sparks renewables boom as Europeans rush to buy solar, heat pumps, EVs",
-      "score": 23,
-      "url": "https://www.euronews.com/2026/03/31/iran-war-sparks-renewables-boom-as-europeans-rush-to-buy-solar-heat-pumps-and-evs",
-      "time": 1775053165.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47601310"
-    },
-    {
-      "title": "TinyLoRA – Learning to Reason in 13 Parameters",
-      "score": 217,
-      "url": "https://arxiv.org/abs/2602.04118",
-      "time": 1774613472.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47541733"
-    },
-    {
-      "title": "TruffleRuby",
-      "score": 173,
-      "url": "https://chrisseaton.com/truffleruby/",
-      "time": 1774723179.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47557171"
-    },
-    {
-      "title": "I Quit. The Clankers Won",
-      "score": 311,
-      "url": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
-      "time": 1775034034.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47598511"
-    },
-    {
-      "title": "New Patches Allow Building Linux IPv6-Only, Option to Deprecate \"Legacy\" IPv4",
+      "title": "Show HN: Zerobox – Sandbox any command with file, network, credential controls",
       "score": 70,
-      "url": "https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs",
-      "time": 1775049333.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47600434"
+      "url": "https://github.com/afshinm/zerobox",
+      "time": 1774881156.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47574871"
+    },
+    {
+      "title": "How-to guide: Commissioning a Sensor Physics R&D Lab",
+      "score": 7,
+      "url": "https://gist.github.com/nup002/912383615b12dc1ec44ae9004c40b11f",
+      "time": 1774869585.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47572878"
+    },
+    {
+      "title": "SpaceX confidentially files to go public at $1.75T, reports say",
+      "score": 42,
+      "url": "https://www.theguardian.com/technology/2026/apr/01/spacex-public-offering-stock-market",
+      "time": 1775071145.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47605270"
+    },
+    {
+      "title": "The OpenAI graveyard: All the deals and products that haven't happened",
+      "score": 187,
+      "url": "https://www.forbes.com/sites/phoebeliu/2026/03/31/openai-graveyard-deals-and-products-havent-happened-openai/",
+      "time": 1775058930.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47602565"
     }
   ]
 }
