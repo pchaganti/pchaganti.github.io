@@ -1,54 +1,82 @@
 {
-  "last_updated": "2026-04-01T08:57:28.795546-04:00",
+  "last_updated": "2026-04-01T12:01:42.908667-04:00",
   "stories": [
     {
+      "title": "Is BGP Safe Yet? No. Test Your ISP",
+      "score": 136,
+      "url": "https://isbgpsafeyet.com/",
+      "time": 1775049029.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47600382"
+    },
+    {
       "title": "Claude Code Unpacked : A visual guide",
-      "score": 623,
+      "score": 854,
       "url": "https://ccunpacked.dev/",
       "time": 1775020537.0,
       "comments_url": "https://news.ycombinator.com/item?id=47597085"
     },
     {
       "title": "CERN levels up with new superconducting karts",
-      "score": 199,
+      "score": 291,
       "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
       "time": 1775028433.0,
       "comments_url": "https://news.ycombinator.com/item?id=47597935"
     },
     {
-      "title": "I Quit. The Clankers Won",
-      "score": 102,
-      "url": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
-      "time": 1775034034.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47598511"
-    },
-    {
       "title": "Intuiting Pratt Parsing",
-      "score": 52,
+      "score": 94,
       "url": "https://louis.co.nz/2026/03/26/pratt-parsing.html",
       "time": 1774873912.0,
       "comments_url": "https://news.ycombinator.com/item?id=47573450"
     },
     {
+      "title": "Consider the Greenland Shark (2020)",
+      "score": 46,
+      "url": "https://www.lrb.co.uk/the-paper/v42/n09/katherine-rundell/consider-the-greenland-shark",
+      "time": 1774597180.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47539945"
+    },
+    {
+      "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
+      "score": 164,
+      "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
+      "time": 1775020908.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47597119"
+    },
+    {
       "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
-      "score": 122,
+      "score": 162,
       "url": "https://github.com/yannick-cw/korb",
       "time": 1774853158.0,
       "comments_url": "https://news.ycombinator.com/item?id=47571183"
     },
     {
-      "title": "Show HN: Sycamore – next gen Rust UI library powered by fine-grained reactivity",
-      "score": 5,
+      "title": "Ada and Spark on ARM Cortex-M – A Tutorial with Arduino and Nucleo Examples",
+      "score": 15,
+      "url": "http://inspirel.com/articles/Ada_On_Cortex.html",
+      "time": 1774679202.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47552144"
+    },
+    {
+      "title": "Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity",
+      "score": 65,
       "url": "https://sycamore.dev",
       "time": 1775046618.0,
       "comments_url": "https://news.ycombinator.com/item?id=47599956"
     },
     {
-      "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
-      "score": 92,
-      "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
-      "time": 1775020908.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47597119"
+      "title": "Chess in SQL",
+      "score": 131,
+      "url": "https://www.dbpro.app/blog/chess-in-pure-sql",
+      "time": 1774790716.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47562961"
+    },
+    {
+      "title": "OnlyOffice kills Nextcloud partnership for forking its project without approval",
+      "score": 38,
+      "url": "https://www.neowin.net/news/onlyoffice-suspends-nextcloud-partnership-over-unapproved-euro-office-fork/",
+      "time": 1775052718.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47601168"
     },
     {
       "title": "Wasmer (YC S19) Is Hiring – Rust and DevRel Positions",
@@ -59,87 +87,59 @@
     },
     {
       "title": "A dot a day keeps the clutter away",
-      "score": 388,
+      "score": 450,
       "url": "https://scottlawsonbc.com/post/dot-system",
       "time": 1774991701.0,
       "comments_url": "https://news.ycombinator.com/item?id=47593556"
     },
     {
-      "title": "Chess in SQL",
-      "score": 89,
-      "url": "https://www.dbpro.app/blog/chess-in-pure-sql",
-      "time": 1774790716.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47562961"
+      "title": "AI has suddenly become more useful to open-source developers",
+      "score": 28,
+      "url": "https://www.zdnet.com/article/maybe-open-source-needs-ai/",
+      "time": 1775052470.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47601107"
     },
     {
       "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
-      "score": 308,
+      "score": 343,
       "url": "https://prismml.com/",
       "time": 1774990878.0,
       "comments_url": "https://news.ycombinator.com/item?id=47593422"
     },
     {
+      "title": "Iran war sparks renewables boom as Europeans rush to buy solar, heat pumps, EVs",
+      "score": 23,
+      "url": "https://www.euronews.com/2026/03/31/iran-war-sparks-renewables-boom-as-europeans-rush-to-buy-solar-heat-pumps-and-evs",
+      "time": 1775053165.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47601310"
+    },
+    {
       "title": "TinyLoRA – Learning to Reason in 13 Parameters",
-      "score": 195,
+      "score": 217,
       "url": "https://arxiv.org/abs/2602.04118",
       "time": 1774613472.0,
       "comments_url": "https://news.ycombinator.com/item?id=47541733"
     },
     {
       "title": "TruffleRuby",
-      "score": 147,
+      "score": 173,
       "url": "https://chrisseaton.com/truffleruby/",
       "time": 1774723179.0,
       "comments_url": "https://news.ycombinator.com/item?id=47557171"
     },
     {
-      "title": "MiniStack (replacement for LocalStack)",
-      "score": 253,
-      "url": "https://ministack.org/",
-      "time": 1774990095.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47593285"
+      "title": "I Quit. The Clankers Won",
+      "score": 311,
+      "url": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
+      "time": 1775034034.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47598511"
     },
     {
-      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-      "score": 1237,
-      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-      "time": 1774962270.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47586778"
-    },
-    {
-      "title": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
-      "score": 75,
-      "url": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/",
-      "time": 1774731846.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47558101"
-    },
-    {
-      "title": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
-      "score": 387,
-      "url": "https://responsiblestatecraft.org/iran-strait-of-hormuz/",
-      "time": 1774949443.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47584795"
-    },
-    {
-      "title": "In Case of Emergency, Make Burrito Bison 3 (2017)",
-      "score": 15,
-      "url": "https://juicybeast.com/2017/08/03/in-case-of-emergency-make-burrito-bison-3/",
-      "time": 1774881935.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47575039"
-    },
-    {
-      "title": "A Mysterious Numbers Station Is Broadcasting Through the Iran War",
-      "score": 22,
-      "url": "https://www.wired.com/story/a-mysterious-numbers-station-is-broadcasting-through-the-iran-war/",
-      "time": 1775043544.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47599510"
-    },
-    {
-      "title": "Slop is not necessarily the future",
-      "score": 260,
-      "url": "https://www.greptile.com/blog/ai-slopware-future",
-      "time": 1774967546.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47587953"
+      "title": "New Patches Allow Building Linux IPv6-Only, Option to Deprecate \"Legacy\" IPv4",
+      "score": 70,
+      "url": "https://www.phoronix.com/news/Linux-IPv6-IPv4-Legacy-Knobs",
+      "time": 1775049333.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47600434"
     }
   ]
 }
