@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-03-31T17:30:02.625972-04:00",
+  "last_updated": "2026-03-31T21:47:08.838718-04:00",
   "stories": [
     {
-      "title": "OpenAI raises $122B",
-      "score": 108,
-      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-      "time": 1774987650.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47592755"
-    },
-    {
       "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-      "score": 399,
+      "score": 781,
       "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
       "time": 1774962270.0,
       "comments_url": "https://news.ycombinator.com/item?id=47586778"
     },
     {
-      "title": "GitHub's Historic Uptime",
-      "score": 291,
-      "url": "https://damrnelson.github.io/github-historical-uptime/",
-      "time": 1774983689.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47591928"
+      "title": "TinyLoRA – Learning to Reason in 13 Parameters",
+      "score": 49,
+      "url": "https://arxiv.org/abs/2602.04118",
+      "time": 1774613472.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47541733"
     },
     {
       "title": "Ministack (Replacement for LocalStack)",
-      "score": 16,
+      "score": 138,
       "url": "https://ministack.org/",
       "time": 1774990095.0,
       "comments_url": "https://news.ycombinator.com/item?id=47593285"
     },
     {
-      "title": "Cohere Transcribe: Speech Recognition",
-      "score": 131,
-      "url": "https://cohere.com/blog/transcribe",
-      "time": 1774974422.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47589818"
+      "title": "TruffleRuby",
+      "score": 24,
+      "url": "https://chrisseaton.com/truffleruby/",
+      "time": 1774723179.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47557171"
+    },
+    {
+      "title": "A dot a day keeps the clutter away",
+      "score": 134,
+      "url": "https://scottlawsonbc.com/post/dot-system",
+      "time": 1774991701.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47593556"
+    },
+    {
+      "title": "OpenAI closes funding round at an $852B valuation",
+      "score": 328,
+      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "time": 1774987650.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47592755"
+    },
+    {
+      "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+      "score": 89,
+      "url": "https://prismml.com/",
+      "time": 1774990878.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47593422"
+    },
+    {
+      "title": "U.S. exempts oil industry from protecting Gulf animals, for 'national security'",
+      "score": 26,
+      "url": "https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security",
+      "time": 1775006331.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47595620"
+    },
+    {
+      "title": "4D Doom",
+      "score": 119,
+      "url": "https://github.com/danieldugas/HYPERHELL",
+      "time": 1774649974.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47549128"
     },
     {
       "title": "Slop is not necessarily the future",
-      "score": 117,
+      "score": 179,
       "url": "https://www.greptile.com/blog/ai-slopware-future",
       "time": 1774967546.0,
       "comments_url": "https://news.ycombinator.com/item?id=47587953"
     },
     {
-      "title": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
-      "score": 56,
-      "url": "https://github.com/timescale/pg_textsearch",
-      "time": 1774974592.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47589856"
+      "title": "Ordinary Lab Gloves May Have Skewed Microplastic Data",
+      "score": 52,
+      "url": "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1279386",
+      "time": 1774992168.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47593634"
     },
     {
       "title": "Open source CAD in the browser (Solvespace)",
-      "score": 249,
+      "score": 287,
       "url": "https://solvespace.com/webver.pl",
       "time": 1774961423.0,
       "comments_url": "https://news.ycombinator.com/item?id=47586614"
     },
     {
       "title": "Teenage Engineering's PO-32 acoustic modem and synth implementation",
-      "score": 39,
+      "score": 84,
       "url": "https://github.com/ericlewis/libpo32",
       "time": 1774659896.0,
       "comments_url": "https://news.ycombinator.com/item?id=47550433"
     },
     {
+      "title": "Learn Something Old Every Day, Part XVIII: How Does FPU Detection Work?",
+      "score": 24,
+      "url": "https://www.os2museum.com/wp/learn-something-old-every-day-part-xviii-how-does-fpu-detection-work/",
+      "time": 1774715356.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47556074"
+    },
+    {
+      "title": "Back to FreeBSD – Part 2 – Jails",
+      "score": 42,
+      "url": "https://hypha.pub/back-to-freebsd-part-2",
+      "time": 1774637702.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47546775"
+    },
+    {
+      "title": "Cohere Transcribe: Speech Recognition",
+      "score": 159,
+      "url": "https://cohere.com/blog/transcribe",
+      "time": 1774974422.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47589818"
+    },
+    {
       "title": "OkCupid gave 3M dating-app photos to facial recognition firm, FTC says",
-      "score": 198,
+      "score": 359,
       "url": "https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/",
       "time": 1774979704.0,
       "comments_url": "https://news.ycombinator.com/item?id=47591104"
     },
     {
-      "title": "Nematophagous Fungus",
-      "score": 23,
-      "url": "https://en.wikipedia.org/wiki/Nematophagous_fungus",
-      "time": 1774618882.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47542545"
-    },
-    {
-      "title": "Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)",
-      "score": 81,
-      "url": "https://github.com/jkool702/forkrun",
-      "time": 1774613540.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47541746"
-    },
-    {
       "title": "I Traced My Traffic Through a Home Tailscale Exit Node",
-      "score": 22,
+      "score": 71,
       "url": "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/",
       "time": 1774986403.0,
       "comments_url": "https://news.ycombinator.com/item?id=47592462"
     },
     {
-      "title": "4D Doom",
-      "score": 14,
-      "url": "https://github.com/danieldugas/HYPERHELL",
-      "time": 1774649974.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47549128"
+      "title": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
+      "score": 96,
+      "url": "https://github.com/timescale/pg_textsearch",
+      "time": 1774974592.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47589856"
     },
     {
-      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
-      "score": 1770,
-      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-      "time": 1774947640.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47584540"
-    },
-    {
-      "title": "A Primer on Long-Duration Life Support",
-      "score": 40,
-      "url": "https://mceglowski.substack.com/p/a-primer-on-long-duration-life-support",
-      "time": 1774573249.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47537875"
-    },
-    {
-      "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
-      "score": 48,
-      "url": "https://news.future-shock.ai/the-weight-of-remembering/",
-      "time": 1774737743.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47558733"
-    },
-    {
-      "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
-      "score": 1727,
-      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "time": 1774925657.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47582220"
-    },
-    {
-      "title": "Accidentally created my first fork bomb with Claude Code",
-      "score": 39,
-      "url": "https://www.droppedasbaby.com/posts/2602-01/",
-      "time": 1774942818.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47583959"
-    },
-    {
-      "title": "Audio tapes reveal mass rule-breaking in Milgram's obedience experiments",
-      "score": 178,
-      "url": "https://www.psypost.org/audio-tapes-reveal-mass-rule-breaking-in-milgram-s-obedience-experiments-2026-03-26/",
-      "time": 1774710502.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47555273"
+      "title": "Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)",
+      "score": 110,
+      "url": "https://github.com/jkool702/forkrun",
+      "time": 1774613540.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47541746"
     }
   ]
 }
