@@ -1,47 +1,103 @@
 {
-  "last_updated": "2026-04-01T17:33:52.245793-04:00",
+  "last_updated": "2026-04-01T21:23:15.134885-04:00",
   "stories": [
     {
-      "title": "Signing data structures the wrong way",
-      "score": 43,
-      "url": "https://blog.foks.pub/posts/domain-separation-in-idl/",
-      "time": 1775073120.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47605677"
+      "title": "A new C++ back end for ocamlc",
+      "score": 68,
+      "url": "https://github.com/ocaml/ocaml/pull/14701",
+      "time": 1775086502.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47608058"
     },
     {
-      "title": "Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs",
-      "score": 110,
-      "url": "https://github.com/hauntsaninja/git_bayesect",
-      "time": 1774729921.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47557921"
+      "title": "NASA’s Artemis II Crew Launches to the Moon",
+      "score": 586,
+      "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
+      "time": 1775063491.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47603657"
     },
     {
-      "title": "The revenge of the data scientist",
-      "score": 27,
-      "url": "https://hamel.dev/blog/posts/revenge/",
-      "time": 1774725157.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47557385"
+      "title": "DRAM pricing is killing the hobbyist SBC market",
+      "score": 278,
+      "url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
+      "time": 1775079401.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47606840"
     },
     {
-      "title": "Show HN: Flight-Viz – 10K flights on a 3D globe in 3.5MB of Rust+WASM",
-      "score": 21,
-      "url": "https://flight-viz.com",
-      "time": 1775064856.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47603966"
-    },
-    {
-      "title": "EmDash – a spiritual successor to WordPress that solves plugin security",
-      "score": 385,
+      "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
+      "score": 456,
       "url": "https://blog.cloudflare.com/emdash-wordpress/",
       "time": 1775060078.0,
       "comments_url": "https://news.ycombinator.com/item?id=47602832"
     },
     {
+      "title": "Fast and Gorgeous Erosion Filter",
+      "score": 53,
+      "url": "https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html",
+      "time": 1774946484.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47584386"
+    },
+    {
+      "title": "Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs",
+      "score": 198,
+      "url": "https://github.com/hauntsaninja/git_bayesect",
+      "time": 1774729921.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47557921"
+    },
+    {
+      "title": "Signing data structures the wrong way",
+      "score": 67,
+      "url": "https://blog.foks.pub/posts/domain-separation-in-idl/",
+      "time": 1775073120.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47605677"
+    },
+    {
+      "title": "AI for American-produced cement and concrete",
+      "score": 140,
+      "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
+      "time": 1775063844.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47603737"
+    },
+    {
+      "title": "IPv6 address, as a sentence you can remember",
+      "score": 21,
+      "url": "https://sentence2ipv6.tib3rius.com/",
+      "time": 1775085777.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47607923"
+    },
+    {
+      "title": "Set the Line Before It's Crossed",
+      "score": 22,
+      "url": "https://nomagicpill.substack.com/p/set-the-line-before-its-crossed",
+      "time": 1774871993.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47573138"
+    },
+    {
       "title": "Ask HN: Who is hiring? (April 2026)",
-      "score": 155,
+      "score": 194,
       "url": "https://news.ycombinator.com/item?id=47601859",
       "time": 1775055696.0,
       "comments_url": "https://news.ycombinator.com/item?id=47601859"
+    },
+    {
+      "title": "The revenge of the data scientist",
+      "score": 85,
+      "url": "https://hamel.dev/blog/posts/revenge/",
+      "time": 1774725157.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47557385"
+    },
+    {
+      "title": "Obfuscation is not security – AI can deobfuscate any minified JavaScript code",
+      "score": 29,
+      "url": "https://www.afterpack.dev/blog/claude-code-source-leak",
+      "time": 1775085929.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47607947"
+    },
+    {
+      "title": "Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)",
+      "score": 35,
+      "url": "https://getdull.app",
+      "time": 1775077493.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47606560"
     },
     {
       "title": "InspectMind AI (YC W24) Is Hiring",
@@ -51,95 +107,39 @@
       "comments_url": "https://news.ycombinator.com/item?id=47606495"
     },
     {
-      "title": "Scientists crack a 20-year nuclear mystery behind the creation of gold",
-      "score": 16,
-      "url": "https://www.sciencedaily.com/releases/2026/03/260313002633.htm",
-      "time": 1775071572.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47605374"
-    },
-    {
-      "title": "Unsubscribe from the Church of Graphs",
-      "score": 18,
-      "url": "https://www.adorableandharmless.com/p/unsubscribe-from-the-church-of-graphs",
-      "time": 1775066291.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47604253"
+      "title": "Ariane 6 user's manual [pdf]",
+      "score": 32,
+      "url": "https://www.ariane.group/app/uploads/sites/4/2024/10/Mua-6_Issue-2_Revision-0_March-2021.pdf",
+      "time": 1774731632.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47558073"
     },
     {
       "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
-      "score": 106,
+      "score": 139,
       "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
       "time": 1775060255.0,
       "comments_url": "https://news.ycombinator.com/item?id=47602879"
     },
     {
-      "title": "AI for American-produced cement and concrete",
-      "score": 109,
-      "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
-      "time": 1775063844.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47603737"
+      "title": "SpaceX files to go public",
+      "score": 184,
+      "url": "https://www.nytimes.com/2026/04/01/technology/spacex-ipo-elon-musk.html",
+      "time": 1775065794.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47604155"
     },
     {
-      "title": "Windows 95 defenses against installers that overwrite a file with an older one",
-      "score": 73,
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260324-00/?p=112159",
-      "time": 1774805923.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47565307"
+      "title": "Show HN: Flight-Viz – 10K flights on a 3D globe in 3.5MB of Rust+WASM",
+      "score": 57,
+      "url": "https://flight-viz.com",
+      "time": 1775064856.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47603966"
     },
     {
-      "title": "Jax's true calling: Ray-Marching renderers on WebGL",
-      "score": 15,
-      "url": "https://benoit.paris/posts/jax-ray-marcher/",
-      "time": 1775072167.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47605494"
-    },
-    {
-      "title": "NASA Artemis II moon mission live launch broadcast",
-      "score": 280,
-      "url": "https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/",
-      "time": 1775063491.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47603657"
-    },
-    {
-      "title": "CERN levels up with new superconducting karts",
-      "score": 371,
-      "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
-      "time": 1775028433.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47597935"
-    },
-    {
-      "title": "An Introduction to Writing Systems and Unicode",
-      "score": 42,
-      "url": "https://r12a.github.io/scripts/tutorial/part2",
-      "time": 1774806232.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47565350"
-    },
-    {
-      "title": "Show HN: Zerobox – Sandbox any command with file, network, credential controls",
-      "score": 70,
-      "url": "https://github.com/afshinm/zerobox",
-      "time": 1774881156.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47574871"
-    },
-    {
-      "title": "How-to guide: Commissioning a Sensor Physics R&D Lab",
-      "score": 7,
-      "url": "https://gist.github.com/nup002/912383615b12dc1ec44ae9004c40b11f",
-      "time": 1774869585.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47572878"
-    },
-    {
-      "title": "SpaceX confidentially files to go public at $1.75T, reports say",
-      "score": 42,
-      "url": "https://www.theguardian.com/technology/2026/apr/01/spacex-public-offering-stock-market",
-      "time": 1775071145.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47605270"
-    },
-    {
-      "title": "The OpenAI graveyard: All the deals and products that haven't happened",
-      "score": 187,
-      "url": "https://www.forbes.com/sites/phoebeliu/2026/03/31/openai-graveyard-deals-and-products-havent-happened-openai/",
-      "time": 1775058930.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47602565"
+      "title": "ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover",
+      "score": 31,
+      "url": "https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/",
+      "time": 1775087103.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47608155"
     }
   ]
 }
