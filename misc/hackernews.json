@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-04-02T14:42:52.566773-04:00",
+  "last_updated": "2026-04-02T17:28:32.850427-04:00",
   "stories": [
     {
       "title": "Google releases Gemma 4 open models",
-      "score": 545,
+      "score": 859,
       "url": "https://deepmind.google/models/gemma/gemma-4/",
       "time": 1775146254.0,
       "comments_url": "https://news.ycombinator.com/item?id=47616361"
     },
     {
-      "title": "Qwen3.6-Plus: Towards real world agents",
-      "score": 282,
-      "url": "https://qwen.ai/blog?id=qwen3.6",
-      "time": 1775140132.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47615002"
-    },
-    {
-      "title": "LinkedIn is illegally searching your computer",
-      "score": 1228,
-      "url": "https://browsergate.eu/",
-      "time": 1775135349.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47613981"
-    },
-    {
-      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "score": 319,
-      "url": "https://lemonade-server.ai",
-      "time": 1775127891.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47612724"
-    },
-    {
-      "title": "Hugo's New CSS Powers",
-      "score": 9,
-      "url": "https://www.brycewray.com/posts/2026/04/hugos-new-css-powers/",
-      "time": 1775153817.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47618120"
-    },
-    {
-      "title": "George Goble died recently – known for first dual-CPU-Unix and fast BBQ lighting",
-      "score": 8,
-      "url": "https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779",
-      "time": 1775154068.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47618176"
-    },
-    {
-      "title": "JSON Canvas Spec",
-      "score": 20,
-      "url": "https://jsoncanvas.org/spec/1.0/",
-      "time": 1774863518.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47572288"
-    },
-    {
-      "title": "Tailscale's New macOS Home",
-      "score": 10,
+      "title": "Tailscale's new macOS home",
+      "score": 195,
       "url": "https://tailscale.com/blog/macos-notch-escape",
       "time": 1775154123.0,
       "comments_url": "https://news.ycombinator.com/item?id=47618189"
     },
     {
       "title": "Cursor 3",
-      "score": 42,
+      "score": 167,
       "url": "https://cursor.com/blog/cursor-3",
       "time": 1775153621.0,
       "comments_url": "https://news.ycombinator.com/item?id=47618084"
     },
     {
+      "title": "George Goble died recently – known for first dual-CPU-Unix and fast BBQ lighting",
+      "score": 66,
+      "url": "https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779",
+      "time": 1775154068.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47618176"
+    },
+    {
+      "title": "Qwen3.6-Plus: Towards real world agents",
+      "score": 363,
+      "url": "https://qwen.ai/blog?id=qwen3.6",
+      "time": 1775140132.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47615002"
+    },
+    {
+      "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
+      "score": 66,
+      "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
+      "time": 1775150943.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47617415"
+    },
+    {
+      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+      "score": 382,
+      "url": "https://lemonade-server.ai",
+      "time": 1775127891.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47612724"
+    },
+    {
+      "title": "Significant progress made on Xbox 360 recompilation",
+      "score": 44,
+      "url": "https://readonlymemo.com/rexglue-xbox-360-recompilation-interview/",
+      "time": 1774788783.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47562762"
+    },
+    {
+      "title": "Artemis II's toilet is a moon mission milestone",
+      "score": 24,
+      "url": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
+      "time": 1775097432.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47609356"
+    },
+    {
+      "title": "LinkedIn is searching your browser extensions",
+      "score": 1448,
+      "url": "https://browsergate.eu/",
+      "time": 1775135349.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47613981"
+    },
+    {
+      "title": "Zep AI Is Hiring – Building the Agent Context Layer (YC W24)",
+      "score": 1,
+      "url": "https://www.ycombinator.com/companies/zep-ai/jobs",
+      "time": 1775155845.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47618602"
+    },
+    {
+      "title": "JSON Canvas Spec",
+      "score": 64,
+      "url": "https://jsoncanvas.org/spec/1.0/",
+      "time": 1774863518.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47572288"
+    },
+    {
+      "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
+      "score": 42,
+      "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
+      "time": 1775145627.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47616242"
+    },
+    {
+      "title": "Magic the Gathering Deck Shuffler",
+      "score": 19,
+      "url": "https://mtg.jessitron.honeydemo.io/",
+      "time": 1774884525.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47575557"
+    },
+    {
+      "title": "Artemis computer running two instances of MS outlook; they can't figure out why",
+      "score": 210,
+      "url": "https://bsky.app/profile/nikigrayson.com/post/3miik2wzosk25",
+      "time": 1775142525.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47615490"
+    },
+    {
       "title": "Inside Nepal's Fake Rescue Racket",
-      "score": 201,
+      "score": 233,
       "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
       "time": 1775130041.0,
       "comments_url": "https://news.ycombinator.com/item?id=47613078"
     },
     {
-      "title": "'Backrooms' and the Rise of the Institutional Gothic",
-      "score": 108,
-      "url": "https://thereader.mitpress.mit.edu/backrooms-and-the-rise-of-the-institutional-gothic/",
-      "time": 1775135885.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47614100"
+      "title": "OpenAI Acquires TBPN",
+      "score": 90,
+      "url": "https://openai.com/index/openai-acquires-tbpn/",
+      "time": 1775150809.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47617376"
     },
     {
       "title": "Significant Raise of Reports",
-      "score": 225,
+      "score": 257,
       "url": "https://lwn.net/Articles/1065620/",
       "time": 1775121258.0,
       "comments_url": "https://news.ycombinator.com/item?id=47611921"
     },
     {
-      "title": "IBM Announces Strategic Collaboration with Arm",
-      "score": 235,
-      "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
-      "time": 1775119724.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47611721"
+      "title": "Foxing aspires to be an eBPF-powered replication engine for Linux filesystems",
+      "score": 12,
+      "url": "https://codeberg.org/aenertia/foxing",
+      "time": 1774881048.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47574851"
     },
     {
-      "title": "Delve allegedly forked an open-source tool and sold it as its own",
-      "score": 181,
-      "url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
-      "time": 1775142188.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47615434"
-    },
-    {
-      "title": "Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps",
-      "score": 200,
-      "url": "https://www.tomshardware.com/networking/artemis-ii-will-use-laser-beams-to-live-stream-4k-moon-footage-one-giant-step-beyond-the-s-band-radio-comms-of-the-apollo-era",
-      "time": 1775142284.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47615449"
-    },
-    {
-      "title": "Renewables reached nearly 50% of global electricity capacity last year",
-      "score": 128,
-      "url": "https://www.theregister.com/2026/04/01/renewables_generated_nearly_half_global_power/",
-      "time": 1775143578.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47615756"
-    },
-    {
-      "title": "Sweden goes back to basics, swapping screens for books in the classroom",
-      "score": 595,
-      "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-      "time": 1775127000.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47612601"
-    },
-    {
-      "title": "An Example of Statistical Investigation of the Text Eugene Onegin – Markov, 1913 [pdf]",
-      "score": 21,
-      "url": "https://alpha60.de/research/markov/DavidLink_AnExampleOfStatistical_MarkovTrans_2007.pdf",
-      "time": 1774884512.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47575554"
-    },
-    {
-      "title": "Modern SQLite: Features You Didn't Know It Had",
-      "score": 78,
-      "url": "https://slicker.me/sqlite/features.htm",
-      "time": 1775147679.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47616704"
-    },
-    {
-      "title": "Quadratic Micropass Type Inference",
-      "score": 14,
-      "url": "https://articles.luminalang.com/a/micropass-inference/",
-      "time": 1774643842.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47547938"
+      "title": "Show HN: A P2P messenger with dual network modes (Fast and Tor)",
+      "score": 17,
+      "url": "https://github.com/Realman78/Kiyeovo/",
+      "time": 1775143965.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47615844"
     }
   ]
 }
