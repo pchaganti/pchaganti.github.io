@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-04-03T02:58:37.124051-04:00",
+  "last_updated": "2026-04-03T05:44:13.241226-04:00",
   "stories": [
     {
+      "title": "Proton Meet Isn't What They Told You It Was",
+      "score": 46,
+      "url": "https://www.sambent.com/proton-meet-isnt-what-they-told-you/",
+      "time": 1775206785.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47624558"
+    },
+    {
       "title": "Google releases Gemma 4 open models",
-      "score": 1357,
+      "score": 1470,
       "url": "https://deepmind.google/models/gemma/gemma-4/",
       "time": 1775146254.0,
       "comments_url": "https://news.ycombinator.com/item?id=47616361"
     },
     {
+      "title": "ESP32-S31: 320MHz 2C RV32IMAFCP+CLIC, 512KB SRAM, GbE, 802.11ax, 61 GPIO",
+      "score": 42,
+      "url": "https://www.espressif.com/en/news/ESP32_S31_Release",
+      "time": 1774777163.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47561678"
+    },
+    {
       "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
-      "score": 611,
+      "score": 774,
       "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
       "time": 1775145627.0,
       "comments_url": "https://news.ycombinator.com/item?id=47616242"
     },
     {
+      "title": "The True Shape of Io's Steeple Mountain",
+      "score": 45,
+      "url": "https://www.weareinquisitive.com/news/hidden-in-the-shadow",
+      "time": 1774786044.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47562455"
+    },
+    {
       "title": "Tailscale's new macOS home",
-      "score": 422,
+      "score": 458,
       "url": "https://tailscale.com/blog/macos-notch-escape",
       "time": 1775154123.0,
       "comments_url": "https://news.ycombinator.com/item?id=47618189"
     },
     {
-      "title": "C89cc.sh – standalone C89/ELF64 compiler in pure portable shell",
-      "score": 103,
-      "url": "https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19",
-      "time": 1775032909.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47598413"
-    },
-    {
       "title": "Cursor 3",
-      "score": 374,
+      "score": 418,
       "url": "https://cursor.com/blog/cursor-3",
       "time": 1775153621.0,
       "comments_url": "https://news.ycombinator.com/item?id=47618084"
     },
     {
       "title": "Artemis II's toilet is a moon mission milestone",
-      "score": 213,
+      "score": 251,
       "url": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
       "time": 1775097432.0,
       "comments_url": "https://news.ycombinator.com/item?id=47609356"
     },
     {
+      "title": "C89cc.sh – standalone C89/ELF64 compiler in pure portable shell",
+      "score": 124,
+      "url": "https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19",
+      "time": 1775032909.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47598413"
+    },
+    {
       "title": "Qwen3.6-Plus: Towards real world agents",
-      "score": 494,
+      "score": 527,
       "url": "https://qwen.ai/blog?id=qwen3.6",
       "time": 1775140132.0,
       "comments_url": "https://news.ycombinator.com/item?id=47615002"
     },
     {
-      "title": "Show HN: Home Maker: Declare Your Dev Tools in a Makefile",
-      "score": 30,
-      "url": "https://thottingal.in/blog/2026/03/29/home-maker/",
-      "time": 1774767364.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47560959"
+      "title": "Working on Products People Hate",
+      "score": 28,
+      "url": "https://www.seangoedecke.com/working-on-products-people-hate/",
+      "time": 1774776206.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47561606"
     },
     {
       "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
-      "score": 229,
+      "score": 253,
       "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
       "time": 1775150943.0,
       "comments_url": "https://news.ycombinator.com/item?id=47617415"
     },
     {
-      "title": "The True Shape of Io's Steeple Mountain",
-      "score": 8,
-      "url": "https://www.weareinquisitive.com/news/hidden-in-the-shadow",
-      "time": 1774786044.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47562455"
-    },
-    {
       "title": "Vector Meson Dominance",
-      "score": 15,
+      "score": 32,
       "url": "https://johncarlosbaez.wordpress.com/2026/03/29/vector-meson-dominance/",
       "time": 1774780084.0,
       "comments_url": "https://news.ycombinator.com/item?id=47561913"
     },
     {
+      "title": "Show HN: Home Maker: Declare Your Dev Tools in a Makefile",
+      "score": 55,
+      "url": "https://thottingal.in/blog/2026/03/29/home-maker/",
+      "time": 1774767364.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47560959"
+    },
+    {
       "title": "LinkedIn is searching your browser extensions",
-      "score": 1664,
+      "score": 1736,
       "url": "https://browsergate.eu/",
       "time": 1775135349.0,
       "comments_url": "https://news.ycombinator.com/item?id=47613981"
     },
     {
-      "title": "The Joy of Numbered Streets",
-      "score": 37,
-      "url": "https://humantransit.org/2026/03/the-joy-of-numbered-streets-or-call-it-39th-avenue.html",
-      "time": 1774674822.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47551847"
+      "title": "A Rave Review of Superpowers (For Claude Code)",
+      "score": 19,
+      "url": "https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/",
+      "time": 1775189390.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47623101"
     },
     {
-      "title": "Show HN: Made a little Artemis II tracker",
-      "score": 82,
-      "url": "https://artemis-ii-tracker.com/",
-      "time": 1775171765.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47621438"
+      "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+      "score": 14,
+      "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
+      "time": 1775204112.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47624317"
     },
     {
-      "title": "George Goble has died",
-      "score": 139,
-      "url": "https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779",
-      "time": 1775154068.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47618176"
+      "title": "Researchers uncover 2k-year-old bullet inscribed with ominous message",
+      "score": 8,
+      "url": "https://www.gbnews.com/science/archaeology-breakthrough-researchers-uncover-2000-year-old-bullet-ominous-message",
+      "time": 1774802249.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47564699"
     },
     {
       "title": "Significant progress made on Xbox 360 recompilation",
-      "score": 103,
+      "score": 115,
       "url": "https://readonlymemo.com/rexglue-xbox-360-recompilation-interview/",
       "time": 1774788783.0,
       "comments_url": "https://news.ycombinator.com/item?id=47562762"
     },
     {
-      "title": "OpenAI Acquires TBPN",
-      "score": 198,
-      "url": "https://openai.com/index/openai-acquires-tbpn/",
-      "time": 1775150809.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47617376"
-    },
-    {
-      "title": "A Few Good Magazines From the 70s and 80s",
-      "score": 52,
-      "url": "https://www.bi6.us/CO/MG.HTML",
-      "time": 1775171846.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47621448"
-    },
-    {
-      "title": "Inside Nepal's Fake Rescue Racket",
-      "score": 277,
-      "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
-      "time": 1775130041.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47613078"
-    },
-    {
-      "title": "JSON Canvas Spec (2024)",
-      "score": 100,
-      "url": "https://jsoncanvas.org/spec/1.0/",
-      "time": 1774863518.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47572288"
+      "title": "George Goble has died",
+      "score": 148,
+      "url": "https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779",
+      "time": 1775154068.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47618176"
     }
   ]
 }
