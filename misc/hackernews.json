@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-04-04T05:29:01.214064-04:00",
+  "last_updated": "2026-04-04T08:34:20.282374-04:00",
   "stories": [
     {
+      "title": "Apple: Embarrassingly Simple Self-Distillation Improves Code Generation",
+      "score": 110,
+      "url": "https://arxiv.org/abs/2604.01193",
+      "time": 1775298381.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47637757"
+    },
+    {
       "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
-      "score": 657,
+      "score": 799,
       "url": "https://news.ycombinator.com/item?id=47633396",
       "time": 1775256924.0,
       "comments_url": "https://news.ycombinator.com/item?id=47633396"
     },
     {
+      "title": "Some Unusual Trees",
+      "score": 62,
+      "url": "https://thoughts.wyounas.com/p/some-unusual-trees",
+      "time": 1775293459.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47637287"
+    },
+    {
+      "title": "The CMS is dead. Long live the CMS",
+      "score": 11,
+      "url": "https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms",
+      "time": 1775301870.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47638075"
+    },
+    {
       "title": "Artemis II crew take “spectacular” image of Earth",
-      "score": 745,
+      "score": 822,
       "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
       "time": 1775244902.0,
       "comments_url": "https://news.ycombinator.com/item?id=47631118"
     },
     {
-      "title": "Emotion concepts and their function in a large language model",
-      "score": 44,
-      "url": "https://www.anthropic.com/research/emotion-concepts-function",
-      "time": 1775284225.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47636435"
-    },
-    {
       "title": "iNaturalist",
-      "score": 417,
+      "score": 452,
       "url": "https://www.inaturalist.org/",
       "time": 1775236940.0,
       "comments_url": "https://news.ycombinator.com/item?id=47629433"
     },
     {
-      "title": "Delve removed from Y Combinator",
-      "score": 285,
-      "url": "https://www.ycombinator.com/companies/delve",
-      "time": 1775266622.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47634690"
+      "title": "Mbodi AI (YC P25) Is Hiring",
+      "score": 1,
+      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls",
+      "time": 1775304038.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47638270"
     },
     {
       "title": "OpenClaw privilege escalation vulnerability",
-      "score": 362,
+      "score": 416,
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
       "time": 1775233292.0,
       "comments_url": "https://news.ycombinator.com/item?id=47628608"
     },
     {
       "title": "Herbie: Automatically improve imprecise floating point formulas",
-      "score": 115,
+      "score": 141,
       "url": "https://herbie.uwplse.org/doc/latest/tutorial.html",
       "time": 1774954432.0,
       "comments_url": "https://news.ycombinator.com/item?id=47585469"
     },
     {
+      "title": "Delve removed from Y Combinator",
+      "score": 361,
+      "url": "https://www.ycombinator.com/companies/delve",
+      "time": 1775266622.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47634690"
+    },
+    {
+      "title": "The Cathedral, the Bazaar, and the Winchester Mystery House",
+      "score": 6,
+      "url": "https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html",
+      "time": 1775052814.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47601194"
+    },
+    {
+      "title": "The most-disliked people in the publishing industry",
+      "score": 16,
+      "url": "https://www.woman-of-letters.com/p/the-most-disliked-people-in-the-publishing",
+      "time": 1775023452.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47597366"
+    },
+    {
       "title": "Run Linux containers on Android, no root required",
-      "score": 117,
+      "score": 150,
       "url": "https://github.com/ExTV/Podroid",
       "time": 1775255035.0,
       "comments_url": "https://news.ycombinator.com/item?id=47633131"
     },
     {
-      "title": "What changes when you turn a Linux box into a router",
-      "score": 173,
-      "url": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
-      "time": 1774962800.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47586885"
-    },
-    {
       "title": "Improving my focus by giving up my big monitor",
-      "score": 88,
+      "score": 110,
       "url": "https://ounapuu.ee/posts/2026/04/01/focus/",
       "time": 1775021339.0,
       "comments_url": "https://news.ycombinator.com/item?id=47597159"
     },
     {
-      "title": "Post Mortem: axios NPM supply chain compromise",
-      "score": 253,
-      "url": "https://github.com/axios/axios/issues/10636",
-      "time": 1775174419.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47621792"
-    },
-    {
-      "title": "Gold overtakes U.S. Treasuries as the largest foreign reserve asset",
-      "score": 176,
-      "url": "https://economictimes.indiatimes.com/news/international/us/gold-overtakes-u-s-treasuries-as-the-worlds-largest-foreign-reserve-asset-in-2026-can-gold-challenge-the-u-s-dollars-dominance-and-hold-its-ground/articleshow/126420128.cms?from=mdr",
-      "time": 1775269832.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47635056"
-    },
-    {
       "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
-      "score": 298,
+      "score": 331,
       "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
       "time": 1775154269.0,
       "comments_url": "https://news.ycombinator.com/item?id=47618223"
     },
     {
+      "title": "What changes when you turn a Linux box into a router",
+      "score": 185,
+      "url": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
+      "time": 1774962800.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47586885"
+    },
+    {
+      "title": "Tesla Is Sitting on a Record 50k Unsold EVs",
+      "score": 38,
+      "url": "https://insideevs.com/news/791999/tesla-unsold-inventory-record-q1-2026/",
+      "time": 1775301595.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47638047"
+    },
+    {
       "title": "The Technocracy Movement of the 1930s",
-      "score": 98,
+      "score": 120,
       "url": "https://donotresearch.substack.com/p/welcome-to-the-technocracy",
       "time": 1775183362.0,
       "comments_url": "https://news.ycombinator.com/item?id=47622616"
     },
     {
-      "title": "Remembering Magnetic Memories and the Apollo AGC",
-      "score": 15,
-      "url": "https://2earth.github.io/website/20260304.html",
-      "time": 1775028161.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47597908"
-    },
-    {
       "title": "Go on Embedded Systems and WebAssembly",
-      "score": 160,
+      "score": 170,
       "url": "https://tinygo.org/",
       "time": 1775235429.0,
       "comments_url": "https://news.ycombinator.com/item?id=47629116"
     },
     {
-      "title": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
-      "score": 70,
-      "url": "https://github.com/borski/travel-hacking-toolkit",
-      "time": 1775269602.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47635033"
-    },
-    {
-      "title": "The house is a work of art: Frank Lloyd Wright",
-      "score": 83,
-      "url": "https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition",
-      "time": 1775254938.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47633116"
-    },
-    {
-      "title": "How to make a sliding, self-locking, and predator-proof chicken coop door (2020)",
-      "score": 105,
-      "url": "https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/",
-      "time": 1775242451.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47630576"
-    },
-    {
-      "title": "Big-Endian Testing with QEMU",
-      "score": 93,
-      "url": "https://www.hanshq.net/big-endian-qemu.html",
-      "time": 1775222938.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47626462"
+      "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+      "score": 76,
+      "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+      "time": 1775260011.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47633855"
     }
   ]
 }
