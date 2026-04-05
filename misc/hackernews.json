@@ -1,89 +1,124 @@
 {
-  "last_updated": "2026-04-05T11:23:32.782568-04:00",
+  "last_updated": "2026-04-05T14:30:11.543739-04:00",
   "stories": [
     {
-      "title": "Finnish sauna heat exposure induces stronger immune cell than cytokine responses",
-      "score": 99,
-      "url": "https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract",
-      "time": 1775394876.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47649113"
-    },
-    {
-      "title": "Iguanaworks has closed down. USB Infrared hardware open source maker",
-      "score": 50,
-      "url": "http://iguanaworks.net/products/usb-ir-transceiver.html",
-      "time": 1775395085.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47649148"
-    },
-    {
-      "title": "Eight years of wanting, three months of building with AI",
-      "score": 69,
-      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
-      "time": 1775393027.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47648828"
-    },
-    {
-      "title": "A Claude Code skill that makes Claude talk like a caveman, cutting token use",
-      "score": 276,
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "time": 1775379378.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47647455"
-    },
-    {
-      "title": "Artemis II crew see first glimpse of far side of Moon",
-      "score": 14,
+      "title": "Artemis II crew see first glimpse of far side of Moon [video]",
+      "score": 234,
       "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
       "time": 1775398692.0,
       "comments_url": "https://news.ycombinator.com/item?id=47649721"
     },
     {
-      "title": "Someone at BrowserStack Is Leaking Users' Email Address",
-      "score": 219,
-      "url": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/",
-      "time": 1775394878.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47649117"
+      "title": "Eight years of wanting, three months of building with AI",
+      "score": 308,
+      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+      "time": 1775393027.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47648828"
     },
     {
-      "title": "EPA Official in Charge of Methane Regs Wrote Oil Industry Argument Against Them",
-      "score": 24,
-      "url": "https://www.propublica.org/article/trump-epa-methane-deregulation-aaron-szabo-oil-gas-axpc",
-      "time": 1775400978.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47650089"
+      "title": "Caveman: Why use many token when few token do trick",
+      "score": 477,
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "time": 1775379378.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47647455"
     },
     {
-      "title": "Japanese, French and Omani Vessels Cross Strait of Hormuz",
-      "score": 44,
-      "url": "https://japantoday.com/category/politics/japanese-french-and-omani-vessels-cross-the-strait-of-hormuz",
-      "time": 1775399275.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47649811"
+      "title": "A tail-call interpreter in (nightly) Rust",
+      "score": 62,
+      "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
+      "time": 1775402281.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47650312"
     },
     {
-      "title": "The threat is comfortable drift toward not understanding what you're doing",
-      "score": 463,
-      "url": "https://ergosphere.blog/posts/the-machines-are-fine/",
-      "time": 1775383045.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47647788"
+      "title": "Reaffirming our commitment to child safety in the face of EuropeanUnion inaction",
+      "score": 27,
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/reaffirming-commitment-to-child-safety/",
+      "time": 1775409610.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47651626"
+    },
+    {
+      "title": "Computational Physics (2nd Edition)",
+      "score": 35,
+      "url": "https://websites.umich.edu/~mejn/cp2/",
+      "time": 1775403498.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47650502"
+    },
+    {
+      "title": "Just 'English with Hanzi'",
+      "score": 26,
+      "url": "https://www.oldnorthwhale.com/p/why-modern-chinese-is-just-english",
+      "time": 1775254797.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47633086"
+    },
+    {
+      "title": "Finnish sauna heat exposure induces stronger immune cell than cytokine responses",
+      "score": 211,
+      "url": "https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract",
+      "time": 1775394876.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47649113"
     },
     {
       "title": "Lisette a little language inspired by Rust that compiles to Go",
-      "score": 172,
+      "score": 210,
       "url": "https://lisette.run/",
       "time": 1775372239.0,
       "comments_url": "https://news.ycombinator.com/item?id=47646843"
     },
     {
+      "title": "Baby's Second Garbage Collector",
+      "score": 26,
+      "url": "https://www.matheusmoreira.com/articles/babys-second-garbage-collector",
+      "time": 1775124676.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47612331"
+    },
+    {
+      "title": "From birds to brains: My path to the fusiform face area (2024)",
+      "score": 8,
+      "url": "https://www.kavliprize.org/nancy-kanwisher-autobiography",
+      "time": 1775408935.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47651479"
+    },
+    {
       "title": "Friendica – A Decentralized Social Network",
-      "score": 43,
+      "score": 80,
       "url": "https://friendi.ca/",
       "time": 1775385666.0,
       "comments_url": "https://news.ycombinator.com/item?id=47648048"
     },
     {
-      "title": "Show HN: A game where you build a GPU",
-      "score": 845,
-      "url": "https://jaso1024.com/mvidia/",
-      "time": 1775321154.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47640728"
+      "title": "The threat is comfortable drift toward not understanding what you're doing",
+      "score": 640,
+      "url": "https://ergosphere.blog/posts/the-machines-are-fine/",
+      "time": 1775383045.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47647788"
+    },
+    {
+      "title": "Codex is switching to API pricing based usage for all users",
+      "score": 143,
+      "url": "https://help.openai.com/en/articles/20001106-codex-rate-card",
+      "time": 1775404688.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47650726"
+    },
+    {
+      "title": "German implementation of eIDAS will require an Apple/Google account to function",
+      "score": 497,
+      "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
+      "time": 1775343464.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47644406"
+    },
+    {
+      "title": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
+      "score": 53,
+      "url": "https://github.com/salmanmohammadi/nanocode/discussions/1",
+      "time": 1775398877.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47649742"
+    },
+    {
+      "title": "My Google Workspace account suspension",
+      "score": 256,
+      "url": "https://zencapital.substack.com/p/sad-story-of-my-google-workspace",
+      "time": 1775389693.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47648404"
     },
     {
       "title": "Hightouch (YC S19) Is Hiring",
@@ -93,53 +128,18 @@
       "comments_url": "https://news.ycombinator.com/item?id=47648499"
     },
     {
-      "title": "German implementation of eIDAS will require an Apple/Google account to function",
-      "score": 438,
-      "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
-      "time": 1775343464.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47644406"
+      "title": "Perfmon – Consolidate your favorite CLI monitoring tools into a single TUI",
+      "score": 21,
+      "url": "https://github.com/sumant1122/Perfmon",
+      "time": 1775398588.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47649701"
     },
     {
-      "title": "Sad Story of My Google Workspace Account Suspension",
-      "score": 157,
-      "url": "https://zencapital.substack.com/p/sad-story-of-my-google-workspace",
-      "time": 1775389693.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47648404"
-    },
-    {
-      "title": "Banray.eu: Raising awareness of the terrible idea that is always-on AI glasses",
-      "score": 12,
-      "url": "https://banray.eu/en/index.html",
-      "time": 1775400581.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47650022"
-    },
-    {
-      "title": "OpenScreen is an open-source alternative to Screen Studio",
-      "score": 380,
-      "url": "https://github.com/siddharthvaddem/openscreen",
-      "time": 1775007106.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47595695"
-    },
-    {
-      "title": "SPF/PC v4 for MS-DOS, FreeDOS, x86",
-      "score": 9,
-      "url": "https://github.com/moshix/SPFPC",
-      "time": 1775399840.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47649917"
-    },
-    {
-      "title": "Shared mutable state in Rust (2022)",
-      "score": 24,
-      "url": "https://draft.ryhl.io/blog/shared-mutable-state/",
-      "time": 1775086421.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47608040"
-    },
-    {
-      "title": "Introduction to Computer Music (2009) [pdf]",
-      "score": 190,
-      "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
-      "time": 1775354069.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47645432"
+      "title": "The Melanesian: Dark-skinned people with blonde hair region of Oceania",
+      "score": 23,
+      "url": "https://guardian.ng/life/the-melanesian-dark-skinned-people-with-blonde-hair/",
+      "time": 1775406111.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47650962"
     }
   ]
 }
