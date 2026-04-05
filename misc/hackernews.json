@@ -1,47 +1,89 @@
 {
-  "last_updated": "2026-04-05T08:36:33.241894-04:00",
+  "last_updated": "2026-04-05T11:23:32.782568-04:00",
   "stories": [
     {
-      "title": "The threat is comfortable drift toward not understanding what you're doing",
-      "score": 111,
-      "url": "https://ergosphere.blog/posts/the-machines-are-fine/",
-      "time": 1775383045.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47647788"
+      "title": "Finnish sauna heat exposure induces stronger immune cell than cytokine responses",
+      "score": 99,
+      "url": "https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract",
+      "time": 1775394876.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47649113"
     },
     {
-      "title": "Talk like caveman",
-      "score": 152,
+      "title": "Iguanaworks has closed down. USB Infrared hardware open source maker",
+      "score": 50,
+      "url": "http://iguanaworks.net/products/usb-ir-transceiver.html",
+      "time": 1775395085.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47649148"
+    },
+    {
+      "title": "Eight years of wanting, three months of building with AI",
+      "score": 69,
+      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+      "time": 1775393027.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47648828"
+    },
+    {
+      "title": "A Claude Code skill that makes Claude talk like a caveman, cutting token use",
+      "score": 276,
       "url": "https://github.com/JuliusBrussee/caveman",
       "time": 1775379378.0,
       "comments_url": "https://news.ycombinator.com/item?id=47647455"
     },
     {
+      "title": "Artemis II crew see first glimpse of far side of Moon",
+      "score": 14,
+      "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
+      "time": 1775398692.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47649721"
+    },
+    {
+      "title": "Someone at BrowserStack Is Leaking Users' Email Address",
+      "score": 219,
+      "url": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/",
+      "time": 1775394878.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47649117"
+    },
+    {
+      "title": "EPA Official in Charge of Methane Regs Wrote Oil Industry Argument Against Them",
+      "score": 24,
+      "url": "https://www.propublica.org/article/trump-epa-methane-deregulation-aaron-szabo-oil-gas-axpc",
+      "time": 1775400978.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47650089"
+    },
+    {
+      "title": "Japanese, French and Omani Vessels Cross Strait of Hormuz",
+      "score": 44,
+      "url": "https://japantoday.com/category/politics/japanese-french-and-omani-vessels-cross-the-strait-of-hormuz",
+      "time": 1775399275.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47649811"
+    },
+    {
+      "title": "The threat is comfortable drift toward not understanding what you're doing",
+      "score": 463,
+      "url": "https://ergosphere.blog/posts/the-machines-are-fine/",
+      "time": 1775383045.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47647788"
+    },
+    {
       "title": "Lisette a little language inspired by Rust that compiles to Go",
-      "score": 116,
+      "score": 172,
       "url": "https://lisette.run/",
       "time": 1775372239.0,
       "comments_url": "https://news.ycombinator.com/item?id=47646843"
     },
     {
-      "title": "Ubuntu now requires more RAM than Windows 11",
-      "score": 38,
-      "url": "https://www.howtogeek.com/ubuntu-now-requires-more-ram-than-windows-11/",
-      "time": 1775390245.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47648452"
+      "title": "Friendica – A Decentralized Social Network",
+      "score": 43,
+      "url": "https://friendi.ca/",
+      "time": 1775385666.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47648048"
     },
     {
       "title": "Show HN: A game where you build a GPU",
-      "score": 804,
+      "score": 845,
       "url": "https://jaso1024.com/mvidia/",
       "time": 1775321154.0,
       "comments_url": "https://news.ycombinator.com/item?id=47640728"
-    },
-    {
-      "title": "German implementation of eIDAS will require an Apple/Google account to function",
-      "score": 357,
-      "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
-      "time": 1775343464.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47644406"
     },
     {
       "title": "Hightouch (YC S19) Is Hiring",
@@ -51,95 +93,53 @@
       "comments_url": "https://news.ycombinator.com/item?id=47648499"
     },
     {
-      "title": "OpenScreen is an open-source alternative to Screen Studio",
-      "score": 341,
-      "url": "https://github.com/siddharthvaddem/openscreen",
-      "time": 1775007106.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47595695"
-    },
-    {
-      "title": "Introduction to Computer Music (2009) [pdf]",
-      "score": 173,
-      "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
-      "time": 1775354069.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47645432"
+      "title": "German implementation of eIDAS will require an Apple/Google account to function",
+      "score": 438,
+      "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
+      "time": 1775343464.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47644406"
     },
     {
       "title": "Sad Story of My Google Workspace Account Suspension",
-      "score": 21,
+      "score": 157,
       "url": "https://zencapital.substack.com/p/sad-story-of-my-google-workspace",
       "time": 1775389693.0,
       "comments_url": "https://news.ycombinator.com/item?id=47648404"
     },
     {
-      "title": "Costco sued for seeking refunds on tariffs customers paid",
-      "score": 33,
-      "url": "https://arstechnica.com/tech-policy/2026/03/costco-sued-for-seeking-refunds-on-tariffs-customers-paid/",
-      "time": 1774976116.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47590230"
+      "title": "Banray.eu: Raising awareness of the terrible idea that is always-on AI glasses",
+      "score": 12,
+      "url": "https://banray.eu/en/index.html",
+      "time": 1775400581.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47650022"
     },
     {
-      "title": "Scientists Figured Out How Eels Reproduce (2022)",
-      "score": 50,
-      "url": "https://www.intelligentliving.co/scientists-finally-figured-out-how-eels-reproduce/",
-      "time": 1775082834.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47607408"
+      "title": "OpenScreen is an open-source alternative to Screen Studio",
+      "score": 380,
+      "url": "https://github.com/siddharthvaddem/openscreen",
+      "time": 1775007106.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47595695"
     },
     {
-      "title": "Aegis – open-source FPGA silicon",
-      "score": 53,
-      "url": "https://github.com/MidstallSoftware/aegis",
-      "time": 1775368204.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47646472"
-    },
-    {
-      "title": "LLM Wiki – example of an \"idea file\"",
-      "score": 226,
-      "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
-      "time": 1775321865.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47640875"
-    },
-    {
-      "title": "Zml-smi: universal monitoring tool for GPUs, TPUs and NPUs",
-      "score": 57,
-      "url": "https://zml.ai/posts/zml-smi/",
-      "time": 1774963793.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47587089"
-    },
-    {
-      "title": "How many products does Microsoft have named 'Copilot'?",
-      "score": 689,
-      "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
-      "time": 1775331583.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47642569"
-    },
-    {
-      "title": "Rubysyn: Clarifying Ruby's Syntax and Semantics",
-      "score": 57,
-      "url": "https://github.com/squadette/rubysyn/blob/master/README.md",
-      "time": 1775037258.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47598835"
-    },
-    {
-      "title": "Show HN: OsintRadar – Curated directory for osint tools",
-      "score": 18,
-      "url": "https://osintradar.com/",
-      "time": 1775368702.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47646504"
+      "title": "SPF/PC v4 for MS-DOS, FreeDOS, x86",
+      "score": 9,
+      "url": "https://github.com/moshix/SPFPC",
+      "time": 1775399840.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47649917"
     },
     {
       "title": "Shared mutable state in Rust (2022)",
-      "score": 4,
+      "score": 24,
       "url": "https://draft.ryhl.io/blog/shared-mutable-state/",
       "time": 1775086421.0,
       "comments_url": "https://news.ycombinator.com/item?id=47608040"
     },
     {
-      "title": "Show HN: I built a small app for FSI German Course",
-      "score": 41,
-      "url": "https://detawk.com/",
-      "time": 1775130241.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47613118"
+      "title": "Introduction to Computer Music (2009) [pdf]",
+      "score": 190,
+      "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
+      "time": 1775354069.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47645432"
     }
   ]
 }
