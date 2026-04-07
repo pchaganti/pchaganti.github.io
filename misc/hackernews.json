@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-04-07T08:59:16.677275-04:00",
+  "last_updated": "2026-04-07T12:05:24.474324-04:00",
   "stories": [
     {
-      "title": "Are We Idiocracy Yet?",
-      "score": 484,
-      "url": "https://idiocracy.wtf/",
-      "time": 1775555859.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47672818"
-    },
-    {
-      "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
-      "score": 103,
-      "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
-      "time": 1775557512.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47673005"
-    },
-    {
       "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
-      "score": 53,
+      "score": 363,
       "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
       "time": 1775560064.0,
       "comments_url": "https://news.ycombinator.com/item?id=47673360"
     },
     {
+      "title": "Claude Code is locking people out for hours",
+      "score": 126,
+      "url": "https://github.com/anthropics/claude-code/issues/44257",
+      "time": 1775574263.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47676521"
+    },
+    {
+      "title": "Cloudflare targets 2029 for full post-quantum security",
+      "score": 42,
+      "url": "https://blog.cloudflare.com/post-quantum-roadmap/",
+      "time": 1775570854.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47675625"
+    },
+    {
+      "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
+      "score": 268,
+      "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
+      "time": 1775557512.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47673005"
+    },
+    {
+      "title": "Moving fast in hardware: lessons from lab to $100M ARR",
+      "score": 18,
+      "url": "https://blog.zacka.io/p/simplify-then-add-lightness-bc4",
+      "time": 1775574458.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47676557"
+    },
+    {
+      "title": "Dropping Cloudflare for Bunny.net",
+      "score": 211,
+      "url": "https://jola.dev/posts/dropping-cloudflare",
+      "time": 1775568185.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47675013"
+    },
+    {
       "title": "Show HN: A cartographer's attempt to realistically map Tolkien's world",
-      "score": 20,
+      "score": 89,
       "url": "https://www.intofarlands.com/atlasofarda",
       "time": 1775563935.0,
       "comments_url": "https://news.ycombinator.com/item?id=47674027"
     },
     {
-      "title": "LLM may be standardizing human expression – and subtly influencing how we think",
-      "score": 71,
-      "url": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/",
-      "time": 1775561342.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47673541"
-    },
-    {
-      "title": "Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead",
-      "score": 58,
-      "url": "https://locker.dev",
-      "time": 1775560337.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47673394"
-    },
-    {
-      "title": "Identify a London Underground Line just by listening to it",
-      "score": 62,
-      "url": "https://tubesoundquiz.com/",
-      "time": 1775556505.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47672884"
-    },
-    {
-      "title": "Blackholing My Email",
-      "score": 63,
-      "url": "https://www.johnsto.co.uk/blog/blackholing-my-email/",
-      "time": 1775551325.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47672318"
-    },
-    {
-      "title": "Breaking the console: a brief history of video game security",
-      "score": 39,
-      "url": "https://sergioprado.blog/breaking-the-console-a-brief-history-of-video-game-security/",
-      "time": 1775555488.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47672778"
-    },
-    {
       "title": "Every GPU That Mattered",
-      "score": 146,
+      "score": 231,
       "url": "https://sheets.works/data-viz/every-gpu",
       "time": 1775551097.0,
       "comments_url": "https://news.ycombinator.com/item?id=47672295"
     },
     {
-      "title": "Show HN: Pion/handoff – Move WebRTC out of browser and into Go",
-      "score": 11,
-      "url": "https://github.com/pion/handoff",
-      "time": 1775563311.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47673880"
+      "title": "You can't cancel a JavaScript promise (except sometimes you can)",
+      "score": 37,
+      "url": "https://www.inngest.com/blog/hanging-promises-for-control-flow",
+      "time": 1775568873.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47675155"
     },
     {
-      "title": "Running Out of Disk Space in Production",
-      "score": 39,
-      "url": "https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html",
-      "time": 1775227348.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47627217"
+      "title": "Identify a London Underground Line just by listening to it",
+      "score": 129,
+      "url": "https://tubesoundquiz.com/",
+      "time": 1775556505.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47672884"
+    },
+    {
+      "title": "9 Mothers (YC P26) Is Hiring – Lead Robotics and More",
+      "score": 1,
+      "url": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q",
+      "time": 1775569526.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47675302"
+    },
+    {
+      "title": "Good Taste the Only Real Moat Left",
+      "score": 3,
+      "url": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
+      "time": 1775577256.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47677241"
+    },
+    {
+      "title": "SQLite in Production: Lessons from Running a Store on a Single File",
+      "score": 74,
+      "url": "https://ultrathink.art/blog/sqlite-in-production-lessons",
+      "time": 1775294147.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47637353"
     },
     {
       "title": "My Experience as a Rice Farmer",
-      "score": 216,
+      "score": 284,
       "url": "https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html",
       "time": 1775138035.0,
       "comments_url": "https://news.ycombinator.com/item?id=47614528"
     },
     {
-      "title": "Floating point from scratch: Hard Mode",
-      "score": 38,
-      "url": "https://essenceia.github.io/projects/floating_dragon/",
-      "time": 1775325220.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47641472"
-    },
-    {
       "title": "Wi-Fi That Can Withstand a Nuclear Reactor: This receiver chip can take it",
-      "score": 10,
+      "score": 50,
       "url": "https://spectrum.ieee.org/robotics-in-nuclear-industry",
       "time": 1775149536.0,
       "comments_url": "https://news.ycombinator.com/item?id=47617103"
     },
     {
+      "title": "Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead",
+      "score": 176,
+      "url": "https://locker.dev",
+      "time": 1775560337.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47673394"
+    },
+    {
+      "title": "Blackholing My Email",
+      "score": 121,
+      "url": "https://www.johnsto.co.uk/blog/blackholing-my-email/",
+      "time": 1775551325.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47672318"
+    },
+    {
       "title": "DeiMOS – A Superoptimizer for the MOS 6502",
-      "score": 8,
+      "score": 49,
       "url": "https://aransentin.github.io/deimos/",
       "time": 1775560222.0,
       "comments_url": "https://news.ycombinator.com/item?id=47673379"
     },
     {
-      "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
-      "score": 413,
-      "url": "https://github.com/matthartman/ghost-pepper",
-      "time": 1775505016.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47666024"
+      "title": "Global Physics Photowalk: 2025 winners revealed",
+      "score": 7,
+      "url": "https://www.quantamagazine.org/global-physics-photowalk-2025-winners-revealed-20260401/",
+      "time": 1775234913.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47629021"
     },
     {
-      "title": "Sam Altman may control our future – can he be trusted?",
-      "score": 1567,
-      "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
-      "time": 1775471817.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47659135"
-    },
-    {
-      "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
-      "score": 1185,
-      "url": "https://github.com/anthropics/claude-code/issues/42796",
-      "time": 1775483435.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47660925"
-    },
-    {
-      "title": "Three hundred synths, 3 hardware projects, and one app",
-      "score": 71,
-      "url": "https://midi.guide/blog/three-hunded-synths-one-app/",
-      "time": 1775538745.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47670981"
+      "title": "Haunting Photos Show the Aftermath of the Kursk Submarine Disaster in 2000",
+      "score": 91,
+      "url": "https://rarehistoricalphotos.com/kursk-submarine-disaster-photos/",
+      "time": 1775146722.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47616475"
     }
   ]
 }
