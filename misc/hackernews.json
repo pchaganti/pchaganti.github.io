@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-04-07T05:59:25.246910-04:00",
+  "last_updated": "2026-04-07T08:59:16.677275-04:00",
   "stories": [
     {
+      "title": "Are We Idiocracy Yet?",
+      "score": 484,
+      "url": "https://idiocracy.wtf/",
+      "time": 1775555859.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47672818"
+    },
+    {
+      "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
+      "score": 103,
+      "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
+      "time": 1775557512.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47673005"
+    },
+    {
+      "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
+      "score": 53,
+      "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
+      "time": 1775560064.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47673360"
+    },
+    {
+      "title": "Show HN: A cartographer's attempt to realistically map Tolkien's world",
+      "score": 20,
+      "url": "https://www.intofarlands.com/atlasofarda",
+      "time": 1775563935.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47674027"
+    },
+    {
+      "title": "LLM may be standardizing human expression – and subtly influencing how we think",
+      "score": 71,
+      "url": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/",
+      "time": 1775561342.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47673541"
+    },
+    {
+      "title": "Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead",
+      "score": 58,
+      "url": "https://locker.dev",
+      "time": 1775560337.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47673394"
+    },
+    {
+      "title": "Identify a London Underground Line just by listening to it",
+      "score": 62,
+      "url": "https://tubesoundquiz.com/",
+      "time": 1775556505.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47672884"
+    },
+    {
+      "title": "Blackholing My Email",
+      "score": 63,
+      "url": "https://www.johnsto.co.uk/blog/blackholing-my-email/",
+      "time": 1775551325.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47672318"
+    },
+    {
+      "title": "Breaking the console: a brief history of video game security",
+      "score": 39,
+      "url": "https://sergioprado.blog/breaking-the-console-a-brief-history-of-video-game-security/",
+      "time": 1775555488.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47672778"
+    },
+    {
       "title": "Every GPU That Mattered",
-      "score": 64,
+      "score": 146,
       "url": "https://sheets.works/data-viz/every-gpu",
       "time": 1775551097.0,
       "comments_url": "https://news.ycombinator.com/item?id=47672295"
     },
     {
+      "title": "Show HN: Pion/handoff – Move WebRTC out of browser and into Go",
+      "score": 11,
+      "url": "https://github.com/pion/handoff",
+      "time": 1775563311.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47673880"
+    },
+    {
+      "title": "Running Out of Disk Space in Production",
+      "score": 39,
+      "url": "https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html",
+      "time": 1775227348.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47627217"
+    },
+    {
       "title": "My Experience as a Rice Farmer",
-      "score": 153,
+      "score": 216,
       "url": "https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html",
       "time": 1775138035.0,
       "comments_url": "https://news.ycombinator.com/item?id=47614528"
     },
     {
+      "title": "Floating point from scratch: Hard Mode",
+      "score": 38,
+      "url": "https://essenceia.github.io/projects/floating_dragon/",
+      "time": 1775325220.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47641472"
+    },
+    {
+      "title": "Wi-Fi That Can Withstand a Nuclear Reactor: This receiver chip can take it",
+      "score": 10,
+      "url": "https://spectrum.ieee.org/robotics-in-nuclear-industry",
+      "time": 1775149536.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47617103"
+    },
+    {
+      "title": "DeiMOS – A Superoptimizer for the MOS 6502",
+      "score": 8,
+      "url": "https://aransentin.github.io/deimos/",
+      "time": 1775560222.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47673379"
+    },
+    {
       "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
-      "score": 380,
+      "score": 413,
       "url": "https://github.com/matthartman/ghost-pepper",
       "time": 1775505016.0,
       "comments_url": "https://news.ycombinator.com/item?id=47666024"
     },
     {
-      "title": "Solod – A subset of Go that translates to C",
-      "score": 135,
-      "url": "https://github.com/solod-dev/solod",
-      "time": 1775522881.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47669337"
-    },
-    {
-      "title": "Three hundred synths, 3 hardware projects, and one app",
-      "score": 32,
-      "url": "https://midi.guide/blog/three-hunded-synths-one-app/",
-      "time": 1775538745.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47670981"
-    },
-    {
-      "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
-      "score": 1105,
-      "url": "https://github.com/anthropics/claude-code/issues/42796",
-      "time": 1775483435.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47660925"
-    },
-    {
       "title": "Sam Altman may control our future – can he be trusted?",
-      "score": 1409,
+      "score": 1567,
       "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
       "time": 1775471817.0,
       "comments_url": "https://news.ycombinator.com/item?id=47659135"
     },
     {
-      "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
-      "score": 276,
-      "url": "https://www.freestyle.sh/",
-      "time": 1775493131.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47663147"
+      "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+      "score": 1185,
+      "url": "https://github.com/anthropics/claude-code/issues/42796",
+      "time": 1775483435.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47660925"
     },
     {
-      "title": "A cryptography engineer's perspective on quantum computing timelines",
-      "score": 471,
-      "url": "https://words.filippo.io/crqc-timeline/",
-      "time": 1775489480.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47662234"
-    },
-    {
-      "title": "Second Revision of 6502 Laptop",
-      "score": 33,
-      "url": "https://codeberg.org/TechPaula/LT6502b",
-      "time": 1775221587.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47626242"
-    },
-    {
-      "title": "Apollo Guidance Computer restoration videos",
-      "score": 58,
-      "url": "https://www.curiousmarc.com/space/apollo-guidance-computer",
-      "time": 1775325535.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47641528"
-    },
-    {
-      "title": "Peptides: where to begin?",
-      "score": 157,
-      "url": "https://www.science.org/content/blog-post/ah-peptides-where-begin",
-      "time": 1775510523.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47667321"
-    },
-    {
-      "title": "German police name alleged leaders of GandCrab and REvil ransomware groups",
-      "score": 304,
-      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
-      "time": 1775483557.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47660954"
-    },
-    {
-      "title": "Show HN: AdaShape-3D modeler for intuitive 3D printing parts / Windows 11",
-      "score": 5,
-      "url": "https://adashape.com",
-      "time": 1775305994.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47638498"
-    },
-    {
-      "title": "Show HN: GovAuctions lets you browse government auctions at once",
-      "score": 277,
-      "url": "https://www.govauctions.app/",
-      "time": 1775492506.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47662945"
-    },
-    {
-      "title": "What being ripped off taught me",
-      "score": 411,
-      "url": "https://belief.horse/notes/what-being-ripped-off-taught-me/",
-      "time": 1775480021.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47660286"
-    },
-    {
-      "title": "AI singer now occupies eleven spots on iTunes singles chart",
-      "score": 178,
-      "url": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
-      "time": 1775491027.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47662596"
-    },
-    {
-      "title": "Book review: There Is No Antimemetics Division",
-      "score": 251,
-      "url": "https://www.stephendiehl.com/posts/no_antimimetics/",
-      "time": 1775483041.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47660853"
-    },
-    {
-      "title": "Show HN: Anos – a hand-written ~100KiB microkernel for x86-64 and RISC-V",
-      "score": 81,
-      "url": "https://github.com/roscopeco/anos",
-      "time": 1775285883.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47636579"
-    },
-    {
-      "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
-      "score": 245,
-      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
-      "time": 1775512328.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47667717"
+      "title": "Three hundred synths, 3 hardware projects, and one app",
+      "score": 71,
+      "url": "https://midi.guide/blog/three-hunded-synths-one-app/",
+      "time": 1775538745.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47670981"
     }
   ]
 }
