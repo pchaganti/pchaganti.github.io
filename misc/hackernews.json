@@ -1,47 +1,103 @@
 {
-  "last_updated": "2026-04-06T17:30:20.849024-04:00",
+  "last_updated": "2026-04-06T21:27:10.506133-04:00",
   "stories": [
     {
-      "title": "Show HN: Ghost Pepper – 100% local hold-to-talk speech-to-text for macOS",
-      "score": 72,
+      "title": "After 20 years I turned off Google Adsense for my websites",
+      "score": 92,
+      "url": "https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm",
+      "time": 1775517808.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47668727"
+    },
+    {
+      "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
+      "score": 114,
+      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+      "time": 1775512328.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47667717"
+    },
+    {
+      "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
+      "score": 223,
       "url": "https://github.com/matthartman/ghost-pepper",
       "time": 1775505016.0,
       "comments_url": "https://news.ycombinator.com/item?id=47666024"
     },
     {
+      "title": "Sam Altman may control our future – can he be trusted?",
+      "score": 810,
+      "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
+      "time": 1775471817.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47659135"
+    },
+    {
       "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
-      "score": 144,
+      "score": 200,
       "url": "https://www.freestyle.sh/",
       "time": 1775493131.0,
       "comments_url": "https://news.ycombinator.com/item?id=47663147"
     },
     {
       "title": "A cryptography engineer's perspective on quantum computing timelines",
-      "score": 219,
+      "score": 320,
       "url": "https://words.filippo.io/crqc-timeline/",
       "time": 1775489480.0,
       "comments_url": "https://news.ycombinator.com/item?id=47662234"
     },
     {
+      "title": "Porting Go's strings package to C",
+      "score": 24,
+      "url": "https://antonz.org/porting-go-strings/",
+      "time": 1775229165.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47627595"
+    },
+    {
       "title": "Show HN: GovAuctions lets you browse government auctions at once",
-      "score": 127,
+      "score": 210,
       "url": "https://www.govauctions.app/",
       "time": 1775492506.0,
       "comments_url": "https://news.ycombinator.com/item?id=47662945"
     },
     {
-      "title": "Got kicked out of uni and had the cops called for a social media website I made",
-      "score": 25,
-      "url": "https://monyatwu.com/blog/iitsocial/",
-      "time": 1775499041.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47664647"
+      "title": "Show HN: Hippo, biologically inspired memory for AI agents",
+      "score": 45,
+      "url": "https://github.com/kitfunso/hippo-memory",
+      "time": 1775512174.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47667672"
+    },
+    {
+      "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+      "score": 743,
+      "url": "https://github.com/anthropics/claude-code/issues/42796",
+      "time": 1775483435.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47660925"
     },
     {
       "title": "German police name alleged leaders of GandCrab and REvil ransomware groups",
-      "score": 229,
+      "score": 259,
       "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
       "time": 1775483557.0,
       "comments_url": "https://news.ycombinator.com/item?id=47660954"
+    },
+    {
+      "title": "What being ripped off taught me",
+      "score": 328,
+      "url": "https://belief.horse/notes/what-being-ripped-off-taught-me/",
+      "time": 1775480021.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47660286"
+    },
+    {
+      "title": "Book review: There Is No Antimemetics Division",
+      "score": 206,
+      "url": "https://www.stephendiehl.com/posts/no_antimimetics/",
+      "time": 1775483041.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47660853"
+    },
+    {
+      "title": "Solod – A Subset of Go That Translates to C",
+      "score": 4,
+      "url": "https://github.com/solod-dev/solod",
+      "time": 1775522881.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47669337"
     },
     {
       "title": "HackerRank (YC S11) Is Hiring",
@@ -51,95 +107,39 @@
       "comments_url": "https://news.ycombinator.com/item?id=47667011"
     },
     {
-      "title": "Battle for Wesnoth: open-source, turn-based strategy game",
-      "score": 320,
-      "url": "https://www.wesnoth.org",
-      "time": 1775497058.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47664186"
+      "title": "AI singer now occupies eleven spots on iTunes singles chart",
+      "score": 100,
+      "url": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
+      "time": 1775491027.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47662596"
     },
     {
-      "title": "What being ripped off taught me",
-      "score": 270,
-      "url": "https://belief.horse/notes/what-being-ripped-off-taught-me/",
-      "time": 1775480021.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47660286"
-    },
-    {
-      "title": "Book review: There Is No Antimemetics Division",
-      "score": 170,
-      "url": "https://www.stephendiehl.com/posts/no_antimimetics/",
-      "time": 1775483041.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47660853"
-    },
-    {
-      "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
-      "score": 590,
-      "url": "https://github.com/anthropics/claude-code/issues/42796",
-      "time": 1775483435.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47660925"
-    },
-    {
-      "title": "The cult of vibe coding is dogfooding run amok",
-      "score": 390,
-      "url": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
-      "time": 1775500263.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47664912"
+      "title": "Show HN: Tusk for macOS and Gnome",
+      "score": 46,
+      "url": "https://shapemachine.xyz/tusk/",
+      "time": 1775299172.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47637828"
     },
     {
       "title": "Sky – an Elm-inspired language that compiles to Go",
-      "score": 105,
+      "score": 126,
       "url": "https://github.com/anzellai/sky",
       "time": 1775488973.0,
       "comments_url": "https://news.ycombinator.com/item?id=47662116"
     },
     {
+      "title": "Show HN: Anos – a hand-written ~100KiB microkernel for x86-64 and RISC-V",
+      "score": 18,
+      "url": "https://github.com/roscopeco/anos",
+      "time": 1775285883.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47636579"
+    },
+    {
       "title": "Agent Reading Test",
-      "score": 29,
+      "score": 46,
       "url": "https://agentreadingtest.com",
       "time": 1775501817.0,
       "comments_url": "https://news.ycombinator.com/item?id=47665245"
-    },
-    {
-      "title": "A macOS bug that causes TCP networking to stop working after 49.7 days",
-      "score": 82,
-      "url": "https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking",
-      "time": 1775506854.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47666488"
-    },
-    {
-      "title": "Sam Altman may control our future – can he be trusted?",
-      "score": 219,
-      "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
-      "time": 1775471817.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47659135"
-    },
-    {
-      "title": "Eighteen Years of Greytrapping – Is the Weirdness Finally Paying Off?",
-      "score": 37,
-      "url": "https://nxdomain.no/~peter/eighteen_years_of_greytrapping.html",
-      "time": 1775289719.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47636937"
-    },
-    {
-      "title": "Show HN: Docking – extensible Linux dock in Python",
-      "score": 9,
-      "url": "https://docking.cc",
-      "time": 1775292552.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47637206"
-    },
-    {
-      "title": "The Last Quiet Thing",
-      "score": 109,
-      "url": "https://www.terrygodier.com/the-last-quiet-thing",
-      "time": 1775290493.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47637010"
-    },
-    {
-      "title": "Root Persistence via macOS Recovery Mode Safari",
-      "score": 12,
-      "url": "https://yaseenghanem.com/recovery-unrestricted-write-access/",
-      "time": 1775508101.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47666767"
     }
   ]
 }
