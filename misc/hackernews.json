@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-04-13T09:02:55.193296-04:00",
+  "last_updated": "2026-04-13T12:06:37.811249-04:00",
   "stories": [
     {
-      "title": "Android now stops you sharing your location in photos",
-      "score": 79,
-      "url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
-      "time": 1776080895.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47750669"
+      "title": "Servo is now available on crates.io",
+      "score": 207,
+      "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+      "time": 1776082342.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47750872"
     },
     {
-      "title": "I went to America's worst national parks so you don't have to",
-      "score": 39,
-      "url": "https://substack.com/home/post/p-193626949",
-      "time": 1776083375.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47751029"
+      "title": "Building a CLI for All of Cloudflare",
+      "score": 12,
+      "url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
+      "time": 1776095042.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47753689"
+    },
+    {
+      "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+      "score": 15,
+      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+      "time": 1776094266.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47753472"
+    },
+    {
+      "title": "Make Tmux Pretty and Usable",
+      "score": 94,
+      "url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
+      "time": 1776091735.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47752819"
+    },
+    {
+      "title": "Stealthy RCE on Hardened Linux: Noexec and Userland Execution PoC",
+      "score": 4,
+      "url": "https://hardenedlinux.org/blog/2026-04-13-stealthy-rce-on-hardened-linux-noexec--userland-execution-poc/",
+      "time": 1776094945.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47753656"
     },
     {
       "title": "All elementary functions from a single binary operator",
-      "score": 561,
+      "score": 675,
       "url": "https://arxiv.org/abs/2603.21852",
       "time": 1776044972.0,
       "comments_url": "https://news.ycombinator.com/item?id=47746610"
     },
     {
-      "title": "AI could be the end of the digital wave, not the next big thing",
-      "score": 14,
-      "url": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/",
-      "time": 1776083379.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47751032"
+      "title": "Claude.ai down",
+      "score": 66,
+      "url": "https://status.claude.com/incidents/6jd2m42f8mld",
+      "time": 1776094868.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47753643"
     },
     {
-      "title": "The economics of software teams: Why most engineering orgs are flying blind",
-      "score": 227,
-      "url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
-      "time": 1776059132.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47748064"
+      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "score": 133,
+      "url": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
+      "time": 1776087453.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47751781"
     },
     {
-      "title": "Taking on CUDA with ROCm: 'One Step After Another'",
-      "score": 204,
-      "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
-      "time": 1776033525.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47745284"
+      "title": "Microsoft isn't removing Copilot from Windows 11, it's just renaming it",
+      "score": 83,
+      "url": "https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/",
+      "time": 1776088104.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47751936"
     },
     {
-      "title": "Point Cloud Allemansrätten",
-      "score": 13,
-      "url": "https://digitalflapjack.com/weeknotes/point-cloud-allemansr%C3%A4tten/",
-      "time": 1776077710.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47750259"
+      "title": "Initial mainline video capture and camera support for Rockchip RK3588",
+      "score": 21,
+      "url": "https://www.collabora.com/news-and-blog/news-and-events/mainline-video-capture-and-camera-support-for-rockchip-rk3588.html",
+      "time": 1776086630.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47751621"
     },
     {
       "title": "Michigan 'digital age' bills pulled after privacy concerns raised",
-      "score": 11,
+      "score": 113,
       "url": "https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html",
       "time": 1776081935.0,
       "comments_url": "https://news.ycombinator.com/item?id=47750821"
     },
     {
+      "title": "The economics of software teams: Why most engineering orgs are flying blind",
+      "score": 325,
+      "url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
+      "time": 1776059132.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47748064"
+    },
+    {
+      "title": "We May Be Living Through the Most Consequential Hundred Days in Cyber History",
+      "score": 60,
+      "url": "https://ringmast4r.substack.com/p/we-may-be-living-through-the-most",
+      "time": 1776091985.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47752884"
+    },
+    {
+      "title": "Android now stops you sharing your location in photos",
+      "score": 238,
+      "url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
+      "time": 1776080895.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47750669"
+    },
+    {
+      "title": "Taking on CUDA with ROCm: 'One Step After Another'",
+      "score": 231,
+      "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
+      "time": 1776033525.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47745284"
+    },
+    {
       "title": "DIY Soft Drinks",
-      "score": 534,
+      "score": 605,
       "url": "https://blinry.org/diy-soft-drinks/",
       "time": 1776011923.0,
       "comments_url": "https://news.ycombinator.com/item?id=47741701"
     },
     {
+      "title": "MEMS Array Chip Can Project Video the Size of a Grain of Sand",
+      "score": 4,
+      "url": "https://spectrum.ieee.org/mems-photonics",
+      "time": 1776090362.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47752466"
+    },
+    {
       "title": "Bring Back Idiomatic Design (2023)",
-      "score": 589,
+      "score": 630,
       "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
       "time": 1775996486.0,
       "comments_url": "https://news.ycombinator.com/item?id=47738827"
     },
     {
       "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
-      "score": 412,
+      "score": 452,
       "url": "https://boringbar.app/",
       "time": 1776014744.0,
       "comments_url": "https://news.ycombinator.com/item?id=47742200"
     },
     {
-      "title": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
-      "score": 87,
-      "url": "https://github.com/brightbeanxyz/brightbean-studio",
-      "time": 1776072416.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47749674"
-    },
-    {
-      "title": "A perfectable programming language",
-      "score": 159,
-      "url": "https://alok.github.io/lean-pages/perfectable-lean/",
-      "time": 1776028284.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47744540"
-    },
-    {
       "title": "Most people can't juggle one ball",
-      "score": 405,
+      "score": 449,
       "url": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
       "time": 1775738120.0,
       "comments_url": "https://news.ycombinator.com/item?id=47702887"
-    },
-    {
-      "title": "Ask HN: What Are You Working On? (April 2026)",
-      "score": 254,
-      "url": "https://news.ycombinator.com/item?id=47741527",
-      "time": 1776011083.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47741527"
-    },
-    {
-      "title": "Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets",
-      "score": 94,
-      "url": "https://arxiv.org/abs/2604.07902",
-      "time": 1775985270.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47737542"
-    },
-    {
-      "title": "I gave every train in New York an instrument",
-      "score": 315,
-      "url": "https://www.trainjazz.com/",
-      "time": 1775834467.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47719490"
-    },
-    {
-      "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
-      "score": 992,
-      "url": "https://news.ycombinator.com/item?id=47738883",
-      "time": 1775996937.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47738883"
-    },
-    {
-      "title": "Caffeine, cocaine, and painkillers detected in sharks from The Bahamas",
-      "score": 44,
-      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0269749126001880",
-      "time": 1776068020.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47749222"
-    },
-    {
-      "title": "We have a 99% email reputation, but Gmail disagrees",
-      "score": 286,
-      "url": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
-      "time": 1775997745.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47738978"
     }
   ]
 }
