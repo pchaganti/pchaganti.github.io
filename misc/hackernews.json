@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-04-14T01:14:50.139038-04:00",
+  "last_updated": "2026-04-14T03:18:37.645721-04:00",
   "stories": [
     {
       "title": "DaVinci Resolve releases Photo Editor",
-      "score": 192,
+      "score": 384,
       "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
       "time": 1776133515.0,
       "comments_url": "https://news.ycombinator.com/item?id=47760529"
     },
     {
       "title": "A new spam policy for \"back button hijacking\"",
-      "score": 103,
+      "score": 230,
       "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
       "time": 1776135987.0,
       "comments_url": "https://news.ycombinator.com/item?id=47760764"
     },
     {
+      "title": "Can Claude Fly a Plane?",
+      "score": 30,
+      "url": "https://so.long.thanks.fish/can-claude-fly-a-plane/",
+      "time": 1776148365.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47762006"
+    },
+    {
       "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-      "score": 811,
+      "score": 876,
       "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
       "time": 1776102879.0,
       "comments_url": "https://news.ycombinator.com/item?id=47755629"
     },
     {
+      "title": "Sometimes powerful people just do dumb shit",
+      "score": 149,
+      "url": "https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/",
+      "time": 1776135860.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47760750"
+    },
+    {
       "title": "GitHub Stacked PRs",
-      "score": 567,
+      "score": 644,
       "url": "https://github.github.com/gh-stack/",
       "time": 1776112609.0,
       "comments_url": "https://news.ycombinator.com/item?id=47757495"
     },
     {
+      "title": "Distributed DuckDB Instance",
+      "score": 21,
+      "url": "https://github.com/citguru/openduck",
+      "time": 1776148304.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47761997"
+    },
+    {
+      "title": "TanStack Start Now Support React Server Components",
+      "score": 32,
+      "url": "https://tanstack.com/blog/react-server-components",
+      "time": 1776144531.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47761609"
+    },
+    {
       "title": "Lean proved this program correct; then I found a bug",
-      "score": 169,
+      "score": 218,
       "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
       "time": 1776126308.0,
       "comments_url": "https://news.ycombinator.com/item?id=47759709"
     },
     {
       "title": "WiiFin – Jellyfin Client for Nintendo Wii",
-      "score": 108,
+      "score": 134,
       "url": "https://github.com/fabienmillet/WiiFin",
       "time": 1776123198.0,
       "comments_url": "https://news.ycombinator.com/item?id=47759341"
     },
     {
-      "title": "I shipped a transaction bug, so I built a linter",
+      "title": "Multi-Agentic Software Development Is a Distributed Systems Problem",
+      "score": 12,
+      "url": "https://kirancodes.me/posts/log-distributed-llms.html",
+      "time": 1776144768.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47761625"
+    },
+    {
+      "title": "Roblox devs now need a subscription to share their games freely",
       "score": 19,
-      "url": "https://leonh.fr/posts/go-transaction-linter/",
-      "time": 1775811665.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47715389"
+      "url": "https://devforum.roblox.com/t/new-publishing-requirements-evaluation-process-for-games/4573166",
+      "time": 1776146671.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47761825"
     },
     {
       "title": "Design and implementation of DuckDB internals",
-      "score": 69,
+      "score": 102,
       "url": "https://duckdb.org/library/design-and-implementation-of-duckdb-internals/",
       "time": 1775829566.0,
       "comments_url": "https://news.ycombinator.com/item?id=47718284"
     },
     {
+      "title": "A soft robot has no problem moving with no motor and no gears",
+      "score": 11,
+      "url": "https://engineering.princeton.edu/news/2026/04/08/soft-robot-has-no-problem-moving-no-motor-and-no-gears",
+      "time": 1775774021.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47711148"
+    },
+    {
       "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
-      "score": 382,
+      "score": 403,
       "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
       "time": 1776094266.0,
       "comments_url": "https://news.ycombinator.com/item?id=47753472"
     },
     {
-      "title": "Hacker compromises A16Z-backed phone farm, calling them the 'antichrist'",
-      "score": 65,
-      "url": "https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/",
-      "time": 1776137536.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47760925"
-    },
-    {
-      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
-      "score": 348,
-      "url": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
-      "time": 1776087453.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47751781"
-    },
-    {
-      "title": "Rust Threads on the GPU",
-      "score": 24,
-      "url": "https://www.vectorware.com/blog/threads-on-gpu/",
-      "time": 1775762410.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47708457"
-    },
-    {
       "title": "Anastasia (1997) live action reference material",
-      "score": 4,
+      "score": 16,
       "url": "https://lostmediawiki.com/Anastasia_(partially_found_live-action_reference_material_for_Don_Bluth_animated_film;_1997)",
       "time": 1775822596.0,
       "comments_url": "https://news.ycombinator.com/item?id=47716805"
     },
     {
+      "title": "Rust Threads on the GPU",
+      "score": 46,
+      "url": "https://www.vectorware.com/blog/threads-on-gpu/",
+      "time": 1775762410.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47708457"
+    },
+    {
+      "title": "N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?",
+      "score": 58,
+      "url": "https://ndaybench.winfunc.com",
+      "time": 1776117243.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47758347"
+    },
+    {
+      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "score": 373,
+      "url": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
+      "time": 1776087453.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47751781"
+    },
+    {
       "title": "Write less code, be more responsible",
-      "score": 55,
+      "score": 72,
       "url": "https://blog.orhun.dev/code-responsibly/",
       "time": 1775899245.0,
       "comments_url": "https://news.ycombinator.com/item?id=47728970"
-    },
-    {
-      "title": "How to make Firefox builds 17% faster",
-      "score": 149,
-      "url": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
-      "time": 1776106208.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47756321"
-    },
-    {
-      "title": "Make tmux pretty and usable (2024)",
-      "score": 341,
-      "url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
-      "time": 1776091735.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47752819"
-    },
-    {
-      "title": "Building a CLI for all of Cloudflare",
-      "score": 280,
-      "url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
-      "time": 1776095042.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47753689"
-    },
-    {
-      "title": "The AI revolution in math has arrived",
-      "score": 66,
-      "url": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/",
-      "time": 1776122764.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47759292"
-    },
-    {
-      "title": "Air Powered Segment Display? [video]",
-      "score": 74,
-      "url": "https://www.youtube.com/watch?v=E1BLGpE5zH0",
-      "time": 1775899937.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47729046"
-    },
-    {
-      "title": "Android now stops you sharing your location in photos",
-      "score": 326,
-      "url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
-      "time": 1776080895.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47750669"
     }
   ]
 }
