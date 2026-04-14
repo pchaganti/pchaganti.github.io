@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-04-13T21:46:17.546615-04:00",
+  "last_updated": "2026-04-14T01:14:50.139038-04:00",
   "stories": [
     {
-      "title": "Lean proved this program correct; then I found a bug",
-      "score": 70,
-      "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
-      "time": 1776126308.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47759709"
+      "title": "DaVinci Resolve releases Photo Editor",
+      "score": 192,
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
+      "time": 1776133515.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47760529"
+    },
+    {
+      "title": "A new spam policy for \"back button hijacking\"",
+      "score": 103,
+      "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+      "time": 1776135987.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47760764"
     },
     {
       "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-      "score": 685,
+      "score": 811,
       "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
       "time": 1776102879.0,
       "comments_url": "https://news.ycombinator.com/item?id=47755629"
     },
     {
       "title": "GitHub Stacked PRs",
-      "score": 417,
+      "score": 567,
       "url": "https://github.github.com/gh-stack/",
       "time": 1776112609.0,
       "comments_url": "https://news.ycombinator.com/item?id=47757495"
     },
     {
+      "title": "Lean proved this program correct; then I found a bug",
+      "score": 169,
+      "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
+      "time": 1776126308.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47759709"
+    },
+    {
       "title": "WiiFin – Jellyfin Client for Nintendo Wii",
-      "score": 50,
+      "score": 108,
       "url": "https://github.com/fabienmillet/WiiFin",
       "time": 1776123198.0,
       "comments_url": "https://news.ycombinator.com/item?id=47759341"
     },
     {
-      "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
-      "score": 355,
-      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-      "time": 1776094266.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47753472"
+      "title": "I shipped a transaction bug, so I built a linter",
+      "score": 19,
+      "url": "https://leonh.fr/posts/go-transaction-linter/",
+      "time": 1775811665.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47715389"
     },
     {
-      "title": "How to make Firefox builds 17% faster",
-      "score": 135,
-      "url": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
-      "time": 1776106208.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47756321"
-    },
-    {
-      "title": "(AMD) Build AI Agents That Run Locally",
-      "score": 95,
-      "url": "https://amd-gaia.ai/docs",
-      "time": 1776108521.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47756772"
-    },
-    {
-      "title": "Servo is now available on crates.io",
-      "score": 422,
-      "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
-      "time": 1776082342.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47750872"
-    },
-    {
-      "title": "An Introduction to Obsidian",
-      "score": 146,
-      "url": "https://bryanhogan.com/blog/obsidian-introduction",
-      "time": 1775907302.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47729694"
-    },
-    {
-      "title": "Building a CLI for All of Cloudflare",
-      "score": 257,
-      "url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
-      "time": 1776095042.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47753689"
-    },
-    {
-      "title": "Write less code, be more responsible",
-      "score": 17,
-      "url": "https://blog.orhun.dev/code-responsibly/",
-      "time": 1775899245.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47728970"
-    },
-    {
-      "title": "Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours",
-      "score": 98,
-      "url": "https://www.ithihasas.in",
-      "time": 1776107407.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47756569"
-    },
-    {
-      "title": "Design and Implementation of DuckDB Internals",
-      "score": 7,
+      "title": "Design and implementation of DuckDB internals",
+      "score": 69,
       "url": "https://duckdb.org/library/design-and-implementation-of-duckdb-internals/",
       "time": 1775829566.0,
       "comments_url": "https://news.ycombinator.com/item?id=47718284"
     },
     {
-      "title": "I Just Want Simple S3",
-      "score": 100,
-      "url": "https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/",
-      "time": 1775903775.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47729350"
+      "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+      "score": 382,
+      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+      "time": 1776094266.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47753472"
     },
     {
-      "title": "N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?",
-      "score": 33,
-      "url": "https://ndaybench.winfunc.com",
-      "time": 1776117243.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47758347"
+      "title": "Hacker compromises A16Z-backed phone farm, calling them the 'antichrist'",
+      "score": 65,
+      "url": "https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/",
+      "time": 1776137536.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47760925"
+    },
+    {
+      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "score": 348,
+      "url": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
+      "time": 1776087453.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47751781"
+    },
+    {
+      "title": "Rust Threads on the GPU",
+      "score": 24,
+      "url": "https://www.vectorware.com/blog/threads-on-gpu/",
+      "time": 1775762410.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47708457"
+    },
+    {
+      "title": "Anastasia (1997) live action reference material",
+      "score": 4,
+      "url": "https://lostmediawiki.com/Anastasia_(partially_found_live-action_reference_material_for_Don_Bluth_animated_film;_1997)",
+      "time": 1775822596.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47716805"
+    },
+    {
+      "title": "Write less code, be more responsible",
+      "score": 55,
+      "url": "https://blog.orhun.dev/code-responsibly/",
+      "time": 1775899245.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47728970"
+    },
+    {
+      "title": "How to make Firefox builds 17% faster",
+      "score": 149,
+      "url": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
+      "time": 1776106208.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47756321"
+    },
+    {
+      "title": "Make tmux pretty and usable (2024)",
+      "score": 341,
+      "url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
+      "time": 1776091735.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47752819"
+    },
+    {
+      "title": "Building a CLI for all of Cloudflare",
+      "score": 280,
+      "url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
+      "time": 1776095042.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47753689"
+    },
+    {
+      "title": "The AI revolution in math has arrived",
+      "score": 66,
+      "url": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/",
+      "time": 1776122764.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47759292"
     },
     {
       "title": "Air Powered Segment Display? [video]",
-      "score": 36,
+      "score": 74,
       "url": "https://www.youtube.com/watch?v=E1BLGpE5zH0",
       "time": 1775899937.0,
       "comments_url": "https://news.ycombinator.com/item?id=47729046"
     },
     {
-      "title": "What We Learned Building a Rust Runtime for TypeScript",
-      "score": 40,
-      "url": "https://encore.dev/blog/rust-runtime",
-      "time": 1775897596.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47728823"
-    },
-    {
-      "title": "Tracking down a 25% Regression on LLVM RISC-V",
-      "score": 98,
-      "url": "https://blog.kaving.me/blog/tracking-down-a-25-regression-on-llvm-risc-v/",
-      "time": 1776023578.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47743728"
-    },
-    {
-      "title": "Mathematical Minimalism",
-      "score": 25,
-      "url": "https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/",
-      "time": 1776113139.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47757595"
-    },
-    {
-      "title": "Visualizing CPU Pipelining (2024)",
-      "score": 59,
-      "url": "https://timmastny.com/blog/visualizing-cpu-pipelining/",
-      "time": 1776104800.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47756036"
+      "title": "Android now stops you sharing your location in photos",
+      "score": 326,
+      "url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
+      "time": 1776080895.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47750669"
     }
   ]
 }
