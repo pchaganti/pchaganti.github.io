@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-04-14T06:07:41.800402-04:00",
+  "last_updated": "2026-04-14T09:04:14.793814-04:00",
   "stories": [
     {
-      "title": "Backblaze has stopped backing up your data",
-      "score": 78,
-      "url": "https://rareese.com/posts/backblaze/",
-      "time": 1776155427.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47762864"
+      "title": "What is jj and why should I care?",
+      "score": 100,
+      "url": "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html",
+      "time": 1776162819.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47763759"
     },
     {
       "title": "DaVinci Resolve – Photo",
-      "score": 569,
+      "score": 721,
       "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
       "time": 1776133515.0,
       "comments_url": "https://news.ycombinator.com/item?id=47760529"
     },
     {
+      "title": "NimConf 2026: Dates Announced, Registrations Open",
+      "score": 34,
+      "url": "https://nim-lang.org/blog/2026/04/07/nimconf-2026.html",
+      "time": 1776165550.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47764098"
+    },
+    {
       "title": "A new spam policy for “back button hijacking”",
-      "score": 361,
+      "score": 494,
       "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
       "time": 1776135987.0,
       "comments_url": "https://news.ycombinator.com/item?id=47760764"
     },
     {
-      "title": "An AI Vibe Coding Horror Story",
-      "score": 112,
-      "url": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
-      "time": 1776155745.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47762901"
+      "title": "Backblaze has stopped backing up your data",
+      "score": 340,
+      "url": "https://rareese.com/posts/backblaze/",
+      "time": 1776155427.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47762864"
     },
     {
       "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-      "score": 953,
+      "score": 1028,
       "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
       "time": 1776102879.0,
       "comments_url": "https://news.ycombinator.com/item?id=47755629"
     },
     {
       "title": "Introspective Diffusion Language Models",
-      "score": 40,
+      "score": 98,
       "url": "https://introspective-diffusion.github.io/",
       "time": 1776153453.0,
       "comments_url": "https://news.ycombinator.com/item?id=47762641"
     },
     {
       "title": "GitHub Stacked PRs",
-      "score": 714,
+      "score": 768,
       "url": "https://github.github.com/gh-stack/",
       "time": 1776112609.0,
       "comments_url": "https://news.ycombinator.com/item?id=47757495"
     },
     {
+      "title": "Franklin's bad ads for Apple ][ clones and the beloved impersonator they depict",
+      "score": 49,
+      "url": "https://buttondown.com/suchbadtechads/archive/franklin-ace-1000/",
+      "time": 1775849588.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47722629"
+    },
+    {
       "title": "Distributed DuckDB Instance",
-      "score": 55,
+      "score": 90,
       "url": "https://github.com/citguru/openduck",
       "time": 1776148304.0,
       "comments_url": "https://news.ycombinator.com/item?id=47761997"
     },
     {
-      "title": "Lean proved this program correct; then I found a bug",
-      "score": 250,
-      "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
-      "time": 1776126308.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47759709"
-    },
-    {
-      "title": "The secrets of the Shinkansen",
-      "score": 79,
-      "url": "https://www.worksinprogress.news/p/the-secret-behind-japans-railways",
-      "time": 1776148861.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47762060"
-    },
-    {
-      "title": "WiiFin – Jellyfin Client for Nintendo Wii",
-      "score": 160,
-      "url": "https://github.com/fabienmillet/WiiFin",
-      "time": 1776123198.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47759341"
-    },
-    {
-      "title": "A soft robot has no problem moving with no motor and no gears",
-      "score": 32,
-      "url": "https://engineering.princeton.edu/news/2026/04/08/soft-robot-has-no-problem-moving-no-motor-and-no-gears",
-      "time": 1775774021.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47711148"
-    },
-    {
-      "title": "Multi-Agentic Software Development Is a Distributed Systems Problem",
-      "score": 37,
-      "url": "https://kirancodes.me/posts/log-distributed-llms.html",
-      "time": 1776144768.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47761625"
-    },
-    {
-      "title": "Design and implementation of DuckDB internals",
-      "score": 122,
-      "url": "https://duckdb.org/library/design-and-implementation-of-duckdb-internals/",
-      "time": 1775829566.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47718284"
-    },
-    {
-      "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
-      "score": 420,
-      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-      "time": 1776094266.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47753472"
-    },
-    {
-      "title": "MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres",
-      "score": 20,
-      "url": "https://github.com/lasect/pg_6502",
-      "time": 1776145609.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47761723"
-    },
-    {
-      "title": "Rust Threads on the GPU",
-      "score": 75,
-      "url": "https://www.vectorware.com/blog/threads-on-gpu/",
-      "time": 1775762410.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47708457"
-    },
-    {
-      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
-      "score": 386,
-      "url": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
-      "time": 1776087453.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47751781"
-    },
-    {
       "title": "Ransomware Is Growing Three Times Faster Than the Spending Meant to Stop It",
-      "score": 4,
+      "score": 37,
       "url": "https://ciphercue.com/blog/ransomware-claims-grew-faster-than-security-spend-2025",
       "time": 1776156732.0,
       "comments_url": "https://news.ycombinator.com/item?id=47762994"
     },
     {
-      "title": "N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?",
-      "score": 71,
-      "url": "https://ndaybench.winfunc.com",
-      "time": 1776117243.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47758347"
+      "title": "The M×N problem of tool calling and open-source models",
+      "score": 27,
+      "url": "https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract",
+      "time": 1775747233.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47704729"
+    },
+    {
+      "title": "Lean proved this program correct; then I found a bug",
+      "score": 295,
+      "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
+      "time": 1776126308.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47759709"
+    },
+    {
+      "title": "The Great Majority: Body Snatching and Burial Reform in 19th-Century Britain",
+      "score": 8,
+      "url": "https://publicdomainreview.org/essay/the-great-majority/",
+      "time": 1775859783.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47724408"
+    },
+    {
+      "title": "WiiFin – Jellyfin Client for Nintendo Wii",
+      "score": 185,
+      "url": "https://github.com/fabienmillet/WiiFin",
+      "time": 1776123198.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47759341"
+    },
+    {
+      "title": "MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres",
+      "score": 42,
+      "url": "https://github.com/lasect/pg_6502",
+      "time": 1776145609.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47761723"
+    },
+    {
+      "title": "Multi-Agentic Software Development Is a Distributed Systems Problem",
+      "score": 57,
+      "url": "https://kirancodes.me/posts/log-distributed-llms.html",
+      "time": 1776144768.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47761625"
+    },
+    {
+      "title": "A soft robot has no problem moving with no motor and no gears",
+      "score": 45,
+      "url": "https://engineering.princeton.edu/news/2026/04/08/soft-robot-has-no-problem-moving-no-motor-and-no-gears",
+      "time": 1775774021.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47711148"
+    },
+    {
+      "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+      "score": 441,
+      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+      "time": 1776094266.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47753472"
+    },
+    {
+      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "score": 408,
+      "url": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
+      "time": 1776087453.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47751781"
     }
   ]
 }
