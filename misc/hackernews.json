@@ -1,47 +1,82 @@
 {
-  "last_updated": "2026-04-16T03:19:30.224867-04:00",
+  "last_updated": "2026-04-16T06:07:53.407682-04:00",
   "stories": [
     {
-      "title": "Darkbloom – Private inference on idle Macs",
-      "score": 153,
-      "url": "https://darkbloom.dev",
-      "time": 1776312399.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47788542"
-    },
-    {
-      "title": "Stop Using Ollama",
-      "score": 193,
-      "url": "https://sleepingrobots.com/dreams/stop-using-ollama/",
-      "time": 1776310511.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47788385"
-    },
-    {
-      "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
-      "score": 103,
-      "url": "https://daedal.io/@thomzane/116410863009847575",
-      "time": 1776311078.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47788424"
-    },
-    {
       "title": "IPv6 traffic crosses the 50% mark",
-      "score": 44,
+      "score": 248,
       "url": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
       "time": 1776254389.0,
       "comments_url": "https://news.ycombinator.com/item?id=47777894"
     },
     {
+      "title": "Darkbloom – Private inference on idle Macs",
+      "score": 246,
+      "url": "https://darkbloom.dev",
+      "time": 1776312399.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47788542"
+    },
+    {
+      "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
+      "score": 161,
+      "url": "https://daedal.io/@thomzane/116410863009847575",
+      "time": 1776311078.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47788424"
+    },
+    {
+      "title": "The paper computer",
+      "score": 148,
+      "url": "https://jsomers.net/blog/the-paper-computer",
+      "time": 1776056268.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47747770"
+    },
+    {
+      "title": "Cybersecurity looks like proof of work now",
+      "score": 419,
+      "url": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
+      "time": 1776190094.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47769089"
+    },
+    {
       "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
-      "score": 56,
+      "score": 81,
       "url": "https://github.com/Nightmare-Eclipse/RedSun",
       "time": 1776311661.0,
       "comments_url": "https://news.ycombinator.com/item?id=47788473"
     },
     {
-      "title": "The paper computer",
-      "score": 113,
-      "url": "https://jsomers.net/blog/the-paper-computer",
-      "time": 1776056268.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47747770"
+      "title": "A Look into NaviDial, Japan's Legacy Phone Service",
+      "score": 49,
+      "url": "https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service",
+      "time": 1776313376.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47788633"
+    },
+    {
+      "title": "Too much discussion of the XOR swap trick",
+      "score": 53,
+      "url": "https://heather.cafe/posts/too_much_xor_swap_trick/",
+      "time": 1776079342.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47750486"
+    },
+    {
+      "title": "Fast and Easy Levenshtein distance using a Trie (2011)",
+      "score": 60,
+      "url": "https://stevehanov.ca/blog/fast-and-easy-levenshtein-distance-using-a-trie",
+      "time": 1775995243.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47738673"
+    },
+    {
+      "title": "Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus",
+      "score": 32,
+      "url": "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45",
+      "time": 1776315665.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47788818"
+    },
+    {
+      "title": "ChatGPT for Excel",
+      "score": 209,
+      "url": "https://chatgpt.com/apps/spreadsheets/",
+      "time": 1776288065.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47785397"
     },
     {
       "title": "RamAIn (YC W26) Is Hiring",
@@ -51,95 +86,60 @@
       "comments_url": "https://news.ycombinator.com/item?id=47789607"
     },
     {
-      "title": "Moving a large-scale metrics pipeline from StatsD to OpenTelemetry / Prometheus",
-      "score": 25,
-      "url": "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45",
-      "time": 1776315665.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47788818"
-    },
-    {
-      "title": "A Look into NaviDial, Japan's Legacy Phone Service",
-      "score": 30,
-      "url": "https://www.tokyodev.com/articles/a-look-into-navidial-japan-s-legacy-phone-service",
-      "time": 1776313376.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47788633"
-    },
-    {
-      "title": "Cybersecurity looks like proof of work now",
-      "score": 365,
-      "url": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
-      "time": 1776190094.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47769089"
-    },
-    {
-      "title": "Fast and Easy Levenshtein distance using a Trie",
-      "score": 34,
-      "url": "https://stevehanov.ca/blog/fast-and-easy-levenshtein-distance-using-a-trie",
-      "time": 1775995243.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47738673"
-    },
-    {
-      "title": "Too much discussion of the XOR swap trick",
+      "title": "FIXAPL",
       "score": 24,
-      "url": "https://heather.cafe/posts/too_much_xor_swap_trick/",
-      "time": 1776079342.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47750486"
+      "url": "https://fixapl.netlify.app/",
+      "time": 1775975783.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47736738"
     },
     {
-      "title": "ChatGPT for Excel",
-      "score": 179,
-      "url": "https://chatgpt.com/apps/spreadsheets/",
-      "time": 1776288065.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47785397"
-    },
-    {
-      "title": "Introduction to spherical harmonics for graphics programmers",
-      "score": 80,
-      "url": "https://gpfault.net/posts/sph.html",
-      "time": 1776071145.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47749548"
-    },
-    {
-      "title": "I made a terminal pager",
-      "score": 117,
-      "url": "https://theleo.zone/posts/pager/",
-      "time": 1776292074.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47786164"
+      "title": "North American English Dialects",
+      "score": 30,
+      "url": "https://aschmann.net/AmEng/",
+      "time": 1776310725.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47788398"
     },
     {
       "title": "Cal.com is going closed source",
-      "score": 283,
+      "score": 311,
       "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
       "time": 1776266806.0,
       "comments_url": "https://news.ycombinator.com/item?id=47780456"
     },
     {
       "title": "Google broke its promise to me – now ICE has my data",
-      "score": 1366,
+      "score": 1483,
       "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
       "time": 1776275066.0,
       "comments_url": "https://news.ycombinator.com/item?id=47782570"
     },
     {
-      "title": "North American English Dialects",
-      "score": 13,
-      "url": "https://aschmann.net/AmEng/",
-      "time": 1776310725.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47788398"
+      "title": "I made a terminal pager",
+      "score": 132,
+      "url": "https://theleo.zone/posts/pager/",
+      "time": 1776292074.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47786164"
     },
     {
-      "title": "Rewriting a 20-year-old Python library",
-      "score": 6,
-      "url": "https://www.b-list.org/weblog/2026/mar/23/20-year-library/",
-      "time": 1775916765.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47730799"
+      "title": "Introduction to spherical harmonics for graphics programmers",
+      "score": 97,
+      "url": "https://gpfault.net/posts/sph.html",
+      "time": 1776071145.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47749548"
     },
     {
-      "title": "FIXAPL",
-      "score": 3,
-      "url": "https://fixapl.netlify.app/",
-      "time": 1775975783.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47736738"
+      "title": "The Accursèd Alphabetical Clock",
+      "score": 14,
+      "url": "https://boat.horse/clock/index.html",
+      "time": 1776220745.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47774039"
+    },
+    {
+      "title": "Show HN: Libretto – Making AI browser automations deterministic",
+      "score": 102,
+      "url": "https://github.com/saffron-health/libretto",
+      "time": 1776268674.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47780971"
     }
   ]
 }
