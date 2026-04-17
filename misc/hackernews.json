@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-04-17T06:06:19.917363-04:00",
+  "last_updated": "2026-04-17T08:57:55.767525-04:00",
   "stories": [
     {
+      "title": "Isaac Asimov: The Last Question",
+      "score": 35,
+      "url": "https://hex.ooo/library/last_question.html",
+      "time": 1776427279.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47804965"
+    },
+    {
       "title": "Ada, Its Design, and the Language That Built the Languages",
-      "score": 45,
+      "score": 133,
       "url": "https://www.iqiipi.com/the-quiet-colossus.html",
       "time": 1776415898.0,
       "comments_url": "https://news.ycombinator.com/item?id=47803844"
     },
     {
       "title": "Claude Opus 4.7",
-      "score": 1755,
+      "score": 1822,
       "url": "https://www.anthropic.com/news/claude-opus-4-7",
       "time": 1776349430.0,
       "comments_url": "https://news.ycombinator.com/item?id=47793411"
     },
     {
-      "title": "Codex for almost everything",
-      "score": 878,
-      "url": "https://openai.com/index/codex-for-almost-everything/",
-      "time": 1776359539.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47796469"
-    },
-    {
       "title": "FIM – Linux framebuffer image viewer",
-      "score": 42,
+      "score": 88,
       "url": "https://www.nongnu.org/fbi-improved/",
       "time": 1776410446.0,
       "comments_url": "https://news.ycombinator.com/item?id=47803323"
     },
     {
-      "title": "A Python Interpreter Written in Python",
-      "score": 65,
-      "url": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html",
-      "time": 1776101150.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47755261"
+      "title": "Average Is All You Need",
+      "score": 28,
+      "url": "https://rawquery.dev/blog/average-is-all-you-need",
+      "time": 1776098202.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47754603"
+    },
+    {
+      "title": "Codex for almost everything",
+      "score": 916,
+      "url": "https://openai.com/index/codex-for-almost-everything/",
+      "time": 1776359539.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47796469"
+    },
+    {
+      "title": "How Silicon Valley Is Turning Scientists into Exploited Gig Workers",
+      "score": 43,
+      "url": "https://www.thenation.com/article/society/ai-silicon-valley-andreesen-thiel-stem/",
+      "time": 1776424925.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47804708"
     },
     {
       "title": "CadQuery is an open-source Python library for building 3D CAD models",
-      "score": 139,
+      "score": 169,
       "url": "https://cadquery.github.io/",
       "time": 1776208839.0,
       "comments_url": "https://news.ycombinator.com/item?id=47772725"
     },
     {
+      "title": "A Python Interpreter Written in Python",
+      "score": 88,
+      "url": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html",
+      "time": 1776101150.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47755261"
+    },
+    {
       "title": "30 Years of HPC: many hardware advances, little adoption of new languages",
-      "score": 53,
+      "score": 72,
       "url": "https://chapel-lang.org/blog/posts/30years/",
       "time": 1776123958.0,
       "comments_url": "https://news.ycombinator.com/item?id=47759436"
     },
     {
-      "title": "Show HN: SPICE simulation → oscilloscope → verification with Claude Code",
-      "score": 78,
-      "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
-      "time": 1776386267.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47801255"
-    },
-    {
-      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-      "score": 179,
-      "url": "https://github.com/gainsec/autoprober",
-      "time": 1776376597.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47800033"
-    },
-    {
-      "title": "Android CLI: Build Android apps 3x faster using any agent",
-      "score": 241,
-      "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
-      "time": 1776364799.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47797665"
+      "title": "中文 Literacy Speedrun II: Character Cyclotron",
+      "score": 32,
+      "url": "https://blog.kevinzwu.com/character-cyclotron/",
+      "time": 1776083315.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47751011"
     },
     {
       "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
-      "score": 208,
+      "score": 256,
       "url": "https://clojure.org/about/documentary",
       "time": 1776367938.0,
       "comments_url": "https://news.ycombinator.com/item?id=47798345"
     },
     {
+      "title": "Show HN: SPICE simulation → oscilloscope → verification with Claude Code",
+      "score": 95,
+      "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
+      "time": 1776386267.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47801255"
+    },
+    {
+      "title": "Android CLI: Build Android apps 3x faster using any agent",
+      "score": 262,
+      "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
+      "time": 1776364799.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47797665"
+    },
+    {
+      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+      "score": 202,
+      "url": "https://github.com/gainsec/autoprober",
+      "time": 1776376597.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47800033"
+    },
+    {
       "title": "Human Accelerated Region 1",
-      "score": 46,
+      "score": 68,
       "url": "https://en.wikipedia.org/wiki/Human_accelerated_region_1",
       "time": 1776398154.0,
       "comments_url": "https://news.ycombinator.com/item?id=47802312"
     },
     {
+      "title": "How Big Tech wrote secrecy into EU law to hide data centres' environmental toll",
+      "score": 83,
+      "url": "https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint",
+      "time": 1776414774.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47803745"
+    },
+    {
+      "title": "Playdate’s handheld changed how Duke University teaches game design",
+      "score": 183,
+      "url": "https://news.play.date/news/duke-playdate-education/",
+      "time": 1776367111.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47798176"
+    },
+    {
       "title": "ReBot-DevArm: open-source Robotic Arm",
-      "score": 56,
+      "score": 73,
       "url": "https://github.com/Seeed-Projects/reBot-DevArm",
       "time": 1776080352.0,
       "comments_url": "https://news.ycombinator.com/item?id=47750600"
     },
     {
       "title": "A Better R Programming Experience Thanks to Tree-sitter",
-      "score": 128,
+      "score": 137,
       "url": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
       "time": 1776374042.0,
       "comments_url": "https://news.ycombinator.com/item?id=47799573"
-    },
-    {
-      "title": "Substrate AI Is Hiring Harness Engineers",
-      "score": 1,
-      "url": "https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer",
-      "time": 1776394396.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47802016"
-    },
-    {
-      "title": "Precision over perception: Why architecture matters in benchmarking",
-      "score": 6,
-      "url": "https://www.redhat.com/en/blog/precision-over-perception-why-architecture-matters-benchmarking",
-      "time": 1776091017.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47752639"
-    },
-    {
-      "title": "Playdate’s handheld changed how Duke University teaches game design",
-      "score": 145,
-      "url": "https://news.play.date/news/duke-playdate-education/",
-      "time": 1776367111.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47798176"
-    },
-    {
-      "title": "Building a Web Page That Edits Itself",
-      "score": 19,
-      "url": "https://www.patrickweaver.net/blog/one-pager-self-editing-html/",
-      "time": 1776105749.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47756239"
-    },
-    {
-      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
-      "score": 1103,
-      "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "time": 1776346587.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47792764"
-    },
-    {
-      "title": "Discourse Is Not Going Closed Source",
-      "score": 124,
-      "url": "https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/",
-      "time": 1776396986.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47802233"
     }
   ]
 }
