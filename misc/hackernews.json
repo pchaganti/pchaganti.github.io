@@ -1,47 +1,103 @@
 {
-  "last_updated": "2026-04-17T17:33:52.057211-04:00",
+  "last_updated": "2026-04-17T21:25:48.530574-04:00",
   "stories": [
     {
       "title": "Claude Design",
-      "score": 691,
+      "score": 831,
       "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
       "time": 1776438249.0,
       "comments_url": "https://news.ycombinator.com/item?id=47806725"
     },
     {
-      "title": "Claude Opus 4.7 costs 20–30% more per session",
-      "score": 467,
-      "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-      "time": 1776439776.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47807006"
+      "title": "A simplified model of Fil-C",
+      "score": 106,
+      "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
+      "time": 1776461900.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47810872"
     },
     {
       "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
-      "score": 150,
+      "score": 222,
       "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
       "time": 1776449821.0,
       "comments_url": "https://news.ycombinator.com/item?id=47808913"
     },
     {
-      "title": "I'm spending 3 months coding the old way",
-      "score": 25,
-      "url": "https://miguelconner.substack.com/p/im-coding-by-hand",
-      "time": 1776442793.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47807583"
+      "title": "Landmark ancient-genome study shows surprise acceleration of human evolution",
+      "score": 44,
+      "url": "https://www.nature.com/articles/d41586-026-01204-5",
+      "time": 1776465028.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47811283"
+    },
+    {
+      "title": "Measuring Claude 4.7's tokenizer costs",
+      "score": 536,
+      "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+      "time": 1776439776.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47807006"
+    },
+    {
+      "title": "Isaac Asimov: The Last Question (1956)",
+      "score": 616,
+      "url": "https://hex.ooo/library/last_question.html",
+      "time": 1776427279.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47804965"
     },
     {
       "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
-      "score": 152,
+      "score": 219,
       "url": "https://github.com/smol-machines/smolvm",
       "time": 1776446338.0,
       "comments_url": "https://news.ycombinator.com/item?id=47808268"
     },
     {
-      "title": "Isaac Asimov: The Last Question (1956)",
-      "score": 554,
-      "url": "https://hex.ooo/library/last_question.html",
-      "time": 1776427279.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47804965"
+      "title": "Are the costs of AI agents also rising exponentially? (2025)",
+      "score": 88,
+      "url": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
+      "time": 1776260878.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47778922"
+    },
+    {
+      "title": "Slop Cop",
+      "score": 75,
+      "url": "https://awnist.com/slop-cop",
+      "time": 1776438924.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47806845"
+    },
+    {
+      "title": "NASA Force",
+      "score": 226,
+      "url": "https://nasaforce.gov/",
+      "time": 1776440861.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47807209"
+    },
+    {
+      "title": "Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock",
+      "score": 123,
+      "url": "https://github.com/paniclock/paniclock/",
+      "time": 1776443924.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47807809"
+    },
+    {
+      "title": "Middle schooler finds coin from Troy in Berlin",
+      "score": 199,
+      "url": "https://www.thehistoryblog.com/archives/75848",
+      "time": 1776436909.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47806484"
+    },
+    {
+      "title": "Hyperscalers have already outspent most famous US megaprojects",
+      "score": 123,
+      "url": "https://twitter.com/finmoorhouse/status/2044933442236776794",
+      "time": 1776443002.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47807619"
+    },
+    {
+      "title": "NIST gives up enriching most CVEs",
+      "score": 168,
+      "url": "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/",
+      "time": 1776438554.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47806777"
     },
     {
       "title": "Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4",
@@ -51,95 +107,39 @@
       "comments_url": "https://news.ycombinator.com/item?id=47810507"
     },
     {
-      "title": "NASA Force",
-      "score": 167,
-      "url": "https://nasaforce.gov/",
-      "time": 1776440861.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47807209"
-    },
-    {
-      "title": "Middle schooler finds coin from Troy in Berlin",
-      "score": 173,
-      "url": "https://www.thehistoryblog.com/archives/75848",
-      "time": 1776436909.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47806484"
-    },
-    {
-      "title": "NIST gives up enriching most CVEs",
-      "score": 140,
-      "url": "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/",
-      "time": 1776438554.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47806777"
-    },
-    {
-      "title": "Why, After All These Years, MZI-Based Transistorlessness Might Finally Be Here",
-      "score": 18,
-      "url": "https://write.as/mnggfj7asl07k",
-      "time": 1776195471.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47770405"
-    },
-    {
-      "title": "I built a 3D printing business and ran it for 8 months",
-      "score": 37,
-      "url": "https://www.wespiser.com/posts/2026-04-12-3D-Printing-Biz.html",
-      "time": 1776261547.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47779049"
-    },
-    {
       "title": "Introducing: ShaderPad",
-      "score": 8,
+      "score": 38,
       "url": "https://rileyjshaw.com/blog/introducing-shaderpad/",
       "time": 1776272348.0,
       "comments_url": "https://news.ycombinator.com/item?id=47781889"
     },
     {
-      "title": "Ban the sale of precise geolocation",
-      "score": 499,
-      "url": "https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation",
-      "time": 1776435946.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47806304"
+      "title": "I built a 3D printing business and ran it for 8 months",
+      "score": 78,
+      "url": "https://www.wespiser.com/posts/2026-04-12-3D-Printing-Biz.html",
+      "time": 1776261547.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47779049"
     },
     {
-      "title": "Webloc: Analysis of Penlink's Ad-Based Geolocation Surveillance Tech",
-      "score": 35,
-      "url": "https://citizenlab.ca/research/analysis-of-penlinks-ad-based-geolocation-surveillance-tech/",
-      "time": 1776117090.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47758309"
+      "title": "Spending 3 months coding by hand",
+      "score": 132,
+      "url": "https://miguelconner.substack.com/p/im-coding-by-hand",
+      "time": 1776442793.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47807583"
     },
     {
-      "title": "Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock",
-      "score": 84,
-      "url": "https://github.com/paniclock/paniclock/",
-      "time": 1776443924.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47807809"
+      "title": "Even \"cat readme.txt\" is not safe",
+      "score": 80,
+      "url": "https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not",
+      "time": 1776451412.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47809190"
     },
     {
-      "title": "Healthchecks.io now uses self-hosted object storage",
-      "score": 126,
-      "url": "https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/",
-      "time": 1776436151.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47806348"
-    },
-    {
-      "title": "Iceye Open Data",
-      "score": 91,
-      "url": "https://www.iceye.com/open-data-initiative",
-      "time": 1776436636.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47806440"
-    },
-    {
-      "title": "The GNU libc atanh is correctly rounded",
-      "score": 5,
-      "url": "https://inria.hal.science/hal-05591661",
-      "time": 1776217666.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47773722"
-    },
-    {
-      "title": "Detecting DOSBox from Within the Box",
-      "score": 42,
-      "url": "https://datagirl.xyz/posts/dos_inside_the_box.html",
-      "time": 1776442406.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47807503"
+      "title": "How to Host a Blog on a Subdirectory Instead of a Subdomain",
+      "score": 13,
+      "url": "https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/",
+      "time": 1776466398.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47811442"
     }
   ]
 }
