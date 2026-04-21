@@ -1,68 +1,103 @@
 {
-  "last_updated": "2026-04-21T14:58:38.636673-04:00",
+  "last_updated": "2026-04-21T17:36:52.213510-04:00",
   "stories": [
     {
+      "title": "I don't want your PRs anymore",
+      "score": 51,
+      "url": "https://dpc.pw/posts/i-dont-want-your-prs-anymore/",
+      "time": 1776802900.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47854051"
+    },
+    {
       "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
-      "score": 86,
+      "score": 204,
       "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
       "time": 1776791675.0,
       "comments_url": "https://news.ycombinator.com/item?id=47851634"
     },
     {
       "title": "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
-      "score": 54,
+      "score": 151,
       "url": "https://britannica11.org/",
       "time": 1776792830.0,
       "comments_url": "https://news.ycombinator.com/item?id=47851885"
     },
     {
+      "title": "California has more money than projected after admin miscalculated state budget",
+      "score": 25,
+      "url": "https://www.kcra.com/article/california-more-money-than-projected-newsom-miscalculated-budget/71056376",
+      "time": 1776803337.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47854125"
+    },
+    {
+      "title": "10 years: Stephen's Sausage Roll still one of the most influential puzzle games",
+      "score": 60,
+      "url": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
+      "time": 1776509622.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47814874"
+    },
+    {
+      "title": "Cal.diy: open-source community edition of cal.com",
+      "score": 101,
+      "url": "https://github.com/calcom/cal.diy",
+      "time": 1776794301.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47852155"
+    },
+    {
       "title": "Framework Laptop 13 Pro",
-      "score": 167,
+      "score": 639,
       "url": "https://frame.work/laptop13pro",
       "time": 1776794434.0,
       "comments_url": "https://news.ycombinator.com/item?id=47852177"
     },
     {
       "title": "Laws of Software Engineering",
-      "score": 652,
+      "score": 750,
       "url": "https://lawsofsoftwareengineering.com",
       "time": 1776769496.0,
       "comments_url": "https://news.ycombinator.com/item?id=47847179"
     },
     {
-      "title": "Cal.diy: open-source community edition of cal.com",
-      "score": 15,
-      "url": "https://github.com/calcom/cal.diy",
-      "time": 1776794301.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47852155"
-    },
-    {
       "title": "A Periodic Map of Cheese",
-      "score": 67,
+      "score": 128,
       "url": "https://cheesemap.netlify.app/",
       "time": 1776789081.0,
       "comments_url": "https://news.ycombinator.com/item?id=47851077"
     },
     {
-      "title": "Show HN: GoModel – an open-source AI gateway in Go",
-      "score": 111,
-      "url": "https://github.com/ENTERPILOT/GOModel/",
-      "time": 1776780713.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47849097"
-    },
-    {
-      "title": "Fusion Power Plant Simulator",
-      "score": 97,
-      "url": "https://www.fusionenergybase.com/fusion-power-plant-simulator",
-      "time": 1776781612.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47849315"
-    },
-    {
       "title": "Edit store price tags using Flipper Zero",
-      "score": 158,
+      "score": 235,
       "url": "https://github.com/i12bp8/TagTinker",
       "time": 1776590764.0,
       "comments_url": "https://news.ycombinator.com/item?id=47822978"
+    },
+    {
+      "title": "My practitioner view of program analysis",
+      "score": 16,
+      "url": "https://sawyer.dev/posts/practitioner-program-analysis/",
+      "time": 1776698850.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47835728"
+    },
+    {
+      "title": "Theseus, a Static Windows Emulator",
+      "score": 49,
+      "url": "https://neugierig.org/software/blog/2026/04/theseus.html",
+      "time": 1776658488.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47830332"
+    },
+    {
+      "title": "Zindex – Diagram Infrastructure for Agents",
+      "score": 6,
+      "url": "https://zindex.ai/",
+      "time": 1776803257.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47854116"
+    },
+    {
+      "title": "Show HN: GoModel – an open-source AI gateway in Go",
+      "score": 145,
+      "url": "https://github.com/ENTERPILOT/GOModel/",
+      "time": 1776780713.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47849097"
     },
     {
       "title": "Trellis AI (YC W24) Is hiring engineers to build self-improving agents",
@@ -72,74 +107,39 @@
       "comments_url": "https://news.ycombinator.com/item?id=47851456"
     },
     {
-      "title": "Modern Front end Complexity: essential or accidental?",
-      "score": 26,
-      "url": "https://binaryigor.com/modern-frontend-complexity.html",
-      "time": 1776604251.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47824051"
+      "title": "Fusion Power Plant Simulator",
+      "score": 125,
+      "url": "https://www.fusionenergybase.com/fusion-power-plant-simulator",
+      "time": 1776781612.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47849315"
     },
     {
-      "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
-      "score": 198,
-      "url": "https://vidstudio.app/video-editor",
-      "time": 1776772696.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47847558"
+      "title": "In the UK, EVs are cheaper than petrol cars, thanks to Chinese competition",
+      "score": 40,
+      "url": "https://electrek.co/2026/04/18/in-the-uk-evs-are-cheaper-than-petrol-cars-thanks-to-chinese-competition/",
+      "time": 1776593741.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47823179"
     },
     {
       "title": "Running a Minecraft Server and More on a 1960s Univac Computer",
-      "score": 135,
+      "score": 166,
       "url": "https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer",
       "time": 1776516060.0,
       "comments_url": "https://news.ycombinator.com/item?id=47815462"
     },
     {
-      "title": "Kasane: New drop-in Kakoune front end with GPU rendering and WASM Plugins",
-      "score": 27,
-      "url": "https://github.com/Yus314/kasane",
-      "time": 1776786802.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47850542"
+      "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
+      "score": 218,
+      "url": "https://vidstudio.app/video-editor",
+      "time": 1776772696.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47847558"
     },
     {
-      "title": "Theseus, a Static Windows Emulator",
-      "score": 11,
-      "url": "https://neugierig.org/software/blog/2026/04/theseus.html",
-      "time": 1776658488.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47830332"
-    },
-    {
-      "title": "Tindie store under \"scheduled maintenance\" for days",
-      "score": 94,
-      "url": "https://www.tindie.com/",
-      "time": 1776776520.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47848195"
-    },
-    {
-      "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
-      "score": 120,
-      "url": "https://codemix.com/graph",
-      "time": 1776767604.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47846946"
-    },
-    {
-      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-      "score": 421,
-      "url": "https://docs.openclaw.ai/providers/anthropic",
-      "time": 1776742983.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47844269"
-    },
-    {
-      "title": "Clojure: Transducers",
-      "score": 99,
-      "url": "https://clojure.org/reference/transducers",
-      "time": 1776596180.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47823365"
-    },
-    {
-      "title": "MNT Reform is an open hardware laptop, designed and assembled in Germany",
-      "score": 223,
-      "url": "http://mnt.stanleylieber.com/reform/",
-      "time": 1776694492.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47834689"
+      "title": "Claude Code removed from Anthropic's Pro plan",
+      "score": 47,
+      "url": "https://claude.com/pricing",
+      "time": 1776805384.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47854477"
     }
   ]
 }
