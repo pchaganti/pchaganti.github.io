@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21T06:11:34.997164-04:00",
+  "last_updated": "2026-04-21T09:02:30.617103-04:00",
   "papers": [
     {
       "title": "Sessa: Selective State Space Attention",
@@ -33,7 +33,7 @@
     },
     {
       "title": "AtomTwin.jl: a physics-native digital twin framework for neutral-atom quantum processors",
-      "summary": "AtomTwin.jl is an open-source Julia package for developing and simulating quantum protocols, hardware configurations and building digital twins for neutral-atom quantum processors and related atomic quantum devices. AtomTwin operates between mathematical models and physical devices; modeling atoms, optical tweezers, laser fields, atomic motion, interactions, and noise processes natively from physical geometry and parameters, without requiring users to define Hamiltonians manually. The package provides hardware-level instruction sequences, high-performance solvers for coupled quantum and classical dynamics, and a ready-to-use model for ytterbium-171 atoms in an extensible framework designed to accommodate a greater variety of atomic species and hardware components in the future. This paper describes the software architecture, performance benchmarks against existing toolboxes, and a demonstrated end-to-end application: preparation of a logical Bell state in the $[[4,2,2]]$ error-detecting code with four $^{171}$Yb atoms in moveable tweezers.",
+      "summary": "AtomTwin$.$jl is an open-source Julia package for developing and simulating quantum protocols, hardware configurations and building digital twins for neutral-atom quantum processors and related atomic quantum devices. AtomTwin operates between mathematical models and physical devices; modeling atoms, optical tweezers, laser fields, atomic motion, interactions, and noise processes natively from physical geometry and parameters, without requiring users to define Hamiltonians manually. The package provides hardware-level instruction sequences, high-performance solvers for coupled quantum and classical dynamics, and a ready-to-use model for ytterbium-171 atoms in an extensible framework designed to accommodate a greater variety of atomic species and hardware components in the future. This paper describes the software architecture, performance benchmarks against existing toolboxes, and a demonstrated end-to-end application: preparation of a logical Bell state in the $[[4,2,2]]$ error-detecting code with four $^{171}$Yb atoms in moveable tweezers.",
       "url": "http://arxiv.org/abs/2604.18531v1",
       "published_time_eastern_timestamp": 1776706006.0
     },
