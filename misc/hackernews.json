@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-04-22T06:11:43.653041-04:00",
+  "last_updated": "2026-04-22T09:03:49.343470-04:00",
   "stories": [
     {
       "title": "Windows 9x Subsystem for Linux",
-      "score": 42,
+      "score": 282,
       "url": "https://social.hails.org/@hailey/116446826733136456",
       "time": 1776851572.0,
       "comments_url": "https://news.ycombinator.com/item?id=47861270"
     },
     {
+      "title": "3.4M Solar Panels",
+      "score": 58,
+      "url": "https://tech.marksblogg.com/american-solar-farms-v2.html",
+      "time": 1776859470.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47862386"
+    },
+    {
+      "title": "GitHub CLI now collects pseudoanonymous telemetry",
+      "score": 61,
+      "url": "https://cli.github.com/telemetry",
+      "time": 1776859138.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47862331"
+    },
+    {
+      "title": "Our eighth generation TPUs: two chips for the agentic era",
+      "score": 23,
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
+      "time": 1776860129.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47862497"
+    },
+    {
+      "title": "Nobody Got Fired for Uber's $8M Ledger Mistake?",
+      "score": 45,
+      "url": "https://news.alvaroduran.com/p/nobody-got-fired-for-ubers-8-million",
+      "time": 1776855289.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47861731"
+    },
+    {
+      "title": "How the Heck Does GPS Work?",
+      "score": 81,
+      "url": "https://perthirtysix.com/how-the-heck-does-gps-work",
+      "time": 1776849725.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47861087"
+    },
+    {
       "title": "Making RAM at Home [video]",
-      "score": 349,
+      "score": 442,
       "url": "https://www.youtube.com/watch?v=h6GWikWlAQA",
       "time": 1776728106.0,
       "comments_url": "https://news.ycombinator.com/item?id=47842569"
     },
     {
       "title": "ChatGPT Images 2.0",
-      "score": 823,
+      "score": 905,
       "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
       "time": 1776797400.0,
       "comments_url": "https://news.ycombinator.com/item?id=47852835"
     },
     {
-      "title": "All your agents are going async",
-      "score": 16,
-      "url": "https://zknill.io/posts/all-your-agents-are-going-async/",
-      "time": 1776683937.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47832720"
+      "title": "Kernel code removals driven by LLM-created security reports",
+      "score": 14,
+      "url": "https://lwn.net/Articles/1068928/",
+      "time": 1776858487.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47862230"
     },
     {
-      "title": "Garbage Collection Without Unsafe Code",
-      "score": 53,
-      "url": "https://fitzgen.com/2024/02/06/safe-gc.html",
-      "time": 1776573719.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47821853"
+      "title": "XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?",
+      "score": 78,
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247",
+      "time": 1776839885.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47859861"
+    },
+    {
+      "title": "Why Musicians Are Manufacturing Sold-Out Shows",
+      "score": 23,
+      "url": "https://www.bloomberg.com/news/articles/2026-04-17/how-bands-like-cameron-winter-s-geese-are-manufacturing-sold-out-shows",
+      "time": 1776590607.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47822968"
     },
     {
       "title": "Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma",
-      "score": 34,
+      "score": 65,
       "url": "https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics",
       "time": 1776599611.0,
       "comments_url": "https://news.ycombinator.com/item?id=47823654"
     },
     {
       "title": "Laws of Software Engineering",
-      "score": 1016,
+      "score": 1083,
       "url": "https://lawsofsoftwareengineering.com",
       "time": 1776769496.0,
       "comments_url": "https://news.ycombinator.com/item?id=47847179"
     },
     {
+      "title": "Prefill-as-a-Service:KVCache of Next-Generation Models Could Go Cross-Datacenter",
+      "score": 15,
+      "url": "https://arxiv.org/abs/2604.15039",
+      "time": 1776578296.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47822117"
+    },
+    {
+      "title": "All your agents are going async",
+      "score": 71,
+      "url": "https://zknill.io/posts/all-your-agents-are-going-async/",
+      "time": 1776683937.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47832720"
+    },
+    {
+      "title": "Garbage Collection Without Unsafe Code",
+      "score": 74,
+      "url": "https://fitzgen.com/2024/02/06/safe-gc.html",
+      "time": 1776573719.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47821853"
+    },
+    {
       "title": "MuJoCo – Advanced Physics Simulation",
-      "score": 14,
+      "score": 52,
       "url": "https://github.com/google-deepmind/mujoco",
       "time": 1776558851.0,
       "comments_url": "https://news.ycombinator.com/item?id=47820791"
     },
     {
-      "title": "Acetaminophen vs. ibuprofen",
-      "score": 379,
-      "url": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet",
-      "time": 1776698476.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47835635"
+      "title": "I don't chain everything in JavaScript anymore",
+      "score": 20,
+      "url": "https://allthingssmitty.com/2026/04/20/why-i-dont-chain-everything-in-javascript-anymore/",
+      "time": 1776689935.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47833651"
+    },
+    {
+      "title": "CATL's new LFP battery can charge from 10 to 98% in less than 7 minutes",
+      "score": 42,
+      "url": "https://arstechnica.com/cars/2026/04/catls-new-lfp-battery-can-charge-from-10-to-98-in-less-than-7-minutes/",
+      "time": 1776855069.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47861703"
     },
     {
       "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
-      "score": 312,
+      "score": 331,
       "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
       "time": 1776791675.0,
       "comments_url": "https://news.ycombinator.com/item?id=47851634"
-    },
-    {
-      "title": "Diverse organic molecules on Mars revealed by the first SAM TMAH experiment",
-      "score": 70,
-      "url": "https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/",
-      "time": 1776766789.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47846861"
-    },
-    {
-      "title": "SpaceX says it has agreement to acquire Cursor for $60B",
-      "score": 596,
-      "url": "https://twitter.com/spacex/status/2046713419978453374",
-      "time": 1776809598.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47855293"
-    },
-    {
-      "title": "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
-      "score": 290,
-      "url": "https://britannica11.org/",
-      "time": 1776792830.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47851885"
-    },
-    {
-      "title": "Changes to GitHub Copilot individual plans",
-      "score": 452,
-      "url": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
-      "time": 1776709445.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47838508"
-    },
-    {
-      "title": "Stephen's Sausage Roll remains one of the most influential puzzle games",
-      "score": 199,
-      "url": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
-      "time": 1776509622.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47814874"
-    },
-    {
-      "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-      "score": 561,
-      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-      "time": 1776793239.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47851948"
-    },
-    {
-      "title": "Fusion Power Plant Simulator",
-      "score": 159,
-      "url": "https://www.fusionenergybase.com/fusion-power-plant-simulator",
-      "time": 1776781612.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47849315"
-    },
-    {
-      "title": "Framework Laptop 13 Pro",
-      "score": 1272,
-      "url": "https://frame.work/laptop13pro",
-      "time": 1776794434.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47852177"
-    },
-    {
-      "title": "Cal.diy: open-source community edition of cal.com",
-      "score": 206,
-      "url": "https://github.com/calcom/cal.diy",
-      "time": 1776794301.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47852155"
-    },
-    {
-      "title": "Windows Server 2025 Runs Better on ARM",
-      "score": 129,
-      "url": "https://jasoneckert.github.io/myblog/server-2025-arm64/",
-      "time": 1776572911.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47821801"
     }
   ]
 }
