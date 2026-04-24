@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-04-24T11:58:43.050184-04:00",
+  "last_updated": "2026-04-24T14:38:00.765517-04:00",
   "stories": [
     {
       "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
-      "score": 101,
+      "score": 234,
       "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
       "time": 1777040932.0,
       "comments_url": "https://news.ycombinator.com/item?id=47890799"
     },
     {
+      "title": "SDL Now Supports DOS",
+      "score": 107,
+      "url": "https://github.com/libsdl-org/SDL/pull/15377",
+      "time": 1777047615.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47892291"
+    },
+    {
+      "title": "I Cancelled Claude: Token Issues, Declining Quality, and Poor Support",
+      "score": 415,
+      "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
+      "time": 1777046359.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47892019"
+    },
+    {
+      "title": "DeepSeek v4",
+      "score": 1633,
+      "url": "https://api-docs.deepseek.com/",
+      "time": 1776999681.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47884971"
+    },
+    {
+      "title": "I'm done making desktop applications (2009)",
+      "score": 93,
+      "url": "https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/",
+      "time": 1777045443.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47891801"
+    },
+    {
+      "title": "How to be anti-social – a guide to incoherent and isolating social experiences",
+      "score": 203,
+      "url": "https://nate.leaflet.pub/3mk4xkaxobc2p",
+      "time": 1777027694.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47888372"
+    },
+    {
       "title": "Different Language Models Learn Similar Number Representations",
-      "score": 33,
+      "score": 63,
       "url": "https://arxiv.org/abs/2604.20817",
       "time": 1777041263.0,
       "comments_url": "https://news.ycombinator.com/item?id=47890873"
     },
     {
-      "title": "Norway Set to Become Latest Country to Ban Social Media for Under 16s",
-      "score": 98,
-      "url": "https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s",
-      "time": 1777041910.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47891019"
+      "title": "CSS as a Query Language",
+      "score": 14,
+      "url": "https://evdc.me/blog/css-query",
+      "time": 1777052377.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47893427"
     },
     {
       "title": "Spinel: Ruby AOT Native Compiler",
-      "score": 216,
+      "score": 255,
       "url": "https://github.com/matz/spinel",
       "time": 1777019327.0,
       "comments_url": "https://news.ycombinator.com/item?id=47887334"
     },
     {
+      "title": "Physicists revive 1990s laser concept to propose a next-generation atomic clock",
+      "score": 30,
+      "url": "https://phys.org/news/2026-04-physicists-revive-1990s-laser-concept.html",
+      "time": 1776992225.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47884225"
+    },
+    {
+      "title": "Norway Set to Become Latest Country to Ban Social Media for Under 16s",
+      "score": 292,
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s",
+      "time": 1777041910.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47891019"
+    },
+    {
+      "title": "Diatec, known for its mechanical keyboard brand FILCO, has ceased operations",
+      "score": 12,
+      "url": "https://gigazine.net/gsc_news/en/20260424-filco-diatec/",
+      "time": 1777047409.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47892236"
+    },
+    {
+      "title": "Show HN: Browser Harness – Gives LLM freedom to complete any browser task",
+      "score": 34,
+      "url": "https://github.com/browser-use/browser-harness",
+      "time": 1777041098.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47890841"
+    },
+    {
+      "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
+      "score": 591,
+      "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
+      "time": 1776981375.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47882645"
+    },
+    {
+      "title": "The operating cost of adult and gambling startups",
+      "score": 74,
+      "url": "https://orchidfiles.com/stigma-is-a-tax-on-every-operational-decision/",
+      "time": 1777033638.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47889279"
+    },
+    {
       "title": "Mounting tar archives as a filesystem in WebAssembly",
-      "score": 67,
+      "score": 94,
       "url": "https://jeroen.github.io/notes/webassembly-tar/",
       "time": 1777025606.0,
       "comments_url": "https://news.ycombinator.com/item?id=47888124"
     },
     {
       "title": "Hear your agent suffer through your code",
-      "score": 105,
+      "score": 146,
       "url": "https://github.com/AndrewVos/endless-toil",
       "time": 1777028325.0,
       "comments_url": "https://news.ycombinator.com/item?id=47888465"
     },
     {
-      "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
-      "score": 486,
-      "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
-      "time": 1776981375.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47882645"
-    },
-    {
-      "title": "DeepSeek v4",
-      "score": 1488,
-      "url": "https://api-docs.deepseek.com/",
-      "time": 1776999681.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47884971"
-    },
-    {
-      "title": "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture",
-      "score": 213,
-      "url": "https://ynarwal.github.io/how-llms-work/",
-      "time": 1777013333.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47886517"
-    },
-    {
       "title": "An update on recent Claude Code quality reports",
-      "score": 838,
+      "score": 881,
       "url": "https://www.anthropic.com/engineering/april-23-postmortem",
       "time": 1776966518.0,
       "comments_url": "https://news.ycombinator.com/item?id=47878905"
     },
     {
-      "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-      "score": 825,
-      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "time": 1776953828.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47876043"
-    },
-    {
-      "title": "Why I Write (1946)",
-      "score": 235,
-      "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/",
-      "time": 1776997583.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47884768"
-    },
-    {
-      "title": "GPT-5.5",
-      "score": 1471,
-      "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "time": 1776967299.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47879092"
-    },
-    {
-      "title": "8087 Emulation on 8086 Systems",
-      "score": 35,
-      "url": "https://www.os2museum.com/wp/learn-something-old-every-day-part-xx-8087-emulation-on-8086-systems/",
-      "time": 1777030034.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47888694"
-    },
-    {
-      "title": "Show HN: Gova – The declarative GUI framework for Go",
-      "score": 90,
-      "url": "https://github.com/NV404/gova",
-      "time": 1777011407.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47886272"
-    },
-    {
-      "title": "Linux 7.1 Removes Drivers for Bus Mouse Support",
-      "score": 30,
-      "url": "https://www.phoronix.com/news/Linux-7.1-Input",
-      "time": 1777038893.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47890365"
-    },
-    {
-      "title": "South Korea police arrest man for posting AI photo of runaway wolf",
-      "score": 197,
-      "url": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
-      "time": 1777022277.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47887683"
-    },
-    {
-      "title": "How to be anti-social – a guide to incoherent and isolating social experiences",
-      "score": 152,
-      "url": "https://nate.leaflet.pub/3mk4xkaxobc2p",
-      "time": 1777027694.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47888372"
-    },
-    {
       "title": "Machine Learning Reveals Unknown Transient Phenomena in Historic Images",
-      "score": 4,
+      "score": 33,
       "url": "https://arxiv.org/abs/2604.18799",
       "time": 1777039303.0,
       "comments_url": "https://news.ycombinator.com/item?id=47890456"
     },
     {
-      "title": "Meta tells staff it will cut 10% of jobs",
-      "score": 728,
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency",
-      "time": 1776970532.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47879986"
+      "title": "Redesigning the Recurse Center application to inspire curious programmers",
+      "score": 16,
+      "url": "https://www.recurse.com/blog/192-redesigning-the-recurse-center-application",
+      "time": 1777049110.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47892660"
     }
   ]
 }
