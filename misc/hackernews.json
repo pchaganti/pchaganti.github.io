@@ -1,75 +1,110 @@
 {
-  "last_updated": "2026-04-28T15:20:30.120911-04:00",
+  "last_updated": "2026-04-28T17:50:20.963153-04:00",
   "stories": [
     {
-      "title": "Bankruptcies Increase 11.9 Percent",
-      "score": 79,
-      "url": "https://www.uscourts.gov/data-news/judiciary-news/2026/04/23/bankruptcies-increase-119-percent",
-      "time": 1777402029.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47938756"
+      "title": "Ghostty is leaving GitHub",
+      "score": 1020,
+      "url": "https://mitchellh.com/writing/ghostty-leaving-github",
+      "time": 1777405492.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47939579"
     },
     {
-      "title": "Waymo in Portland",
-      "score": 104,
-      "url": "https://waymo.com/blog/shorts/waymo-in-portland/",
-      "time": 1777399693.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47938184"
+      "title": "Before GitHub",
+      "score": 34,
+      "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+      "time": 1777411060.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47940921"
     },
     {
-      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-      "score": 627,
-      "url": "https://github.com/localsend/localsend",
-      "time": 1777377260.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47933208"
+      "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+      "score": 107,
+      "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+      "time": 1777404283.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47939320"
     },
     {
-      "title": "DOOM running in ChatGPT and Claude",
-      "score": 10,
+      "title": "I won a championship that doesn't exist",
+      "score": 32,
+      "url": "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/",
+      "time": 1777408701.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47940389"
+    },
+    {
+      "title": "Warp is now Open-Source",
+      "score": 151,
+      "url": "https://github.com/warpdotdev/warp",
+      "time": 1777396181.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47937349"
+    },
+    {
+      "title": "Intel Arc Pro B70 Review",
+      "score": 48,
+      "url": "https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/",
+      "time": 1777005889.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47885644"
+    },
+    {
+      "title": "A playable DOOM MCP app",
+      "score": 65,
       "url": "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
       "time": 1777403327.0,
       "comments_url": "https://news.ycombinator.com/item?id=47939079"
     },
     {
-      "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
-      "score": 266,
-      "url": "https://github.com/microsoft/VibeVoice",
-      "time": 1777377364.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47933236"
+      "title": "CJIT: C, Just in Time",
+      "score": 55,
+      "url": "https://dyne.org/cjit/",
+      "time": 1777403414.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47939105"
+    },
+    {
+      "title": "Your phone is about to stop being yours",
+      "score": 733,
+      "url": "https://keepandroidopen.org/en/",
+      "time": 1777389660.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47935853"
     },
     {
       "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
-      "score": 71,
+      "score": 171,
       "url": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
       "time": 1777392943.0,
       "comments_url": "https://news.ycombinator.com/item?id=47936479"
     },
     {
-      "title": "AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
-      "score": 140,
-      "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
-      "time": 1777392361.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47936347"
+      "title": "Patch applies fake diffs from commit messages",
+      "score": 55,
+      "url": "https://samizdat.dev/phantom-patch/",
+      "time": 1777258854.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47917250"
     },
     {
-      "title": "Laguna XS.2 and M.1",
-      "score": 69,
-      "url": "https://poolside.ai/blog/laguna-a-deeper-dive",
-      "time": 1777393075.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47936511"
+      "title": "Waymo in Portland",
+      "score": 209,
+      "url": "https://waymo.com/blog/shorts/waymo-in-portland/",
+      "time": 1777399693.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47938184"
+    },
+    {
+      "title": "Claude.ai unavailable and elevated errors on the API",
+      "score": 233,
+      "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
+      "time": 1777399281.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47938097"
     },
     {
       "title": "I have officially retired from Emacs",
-      "score": 107,
+      "score": 159,
       "url": "https://nullprogram.com/blog/2026/04/26/",
       "time": 1777169533.0,
       "comments_url": "https://news.ycombinator.com/item?id=47906651"
     },
     {
-      "title": "Show HN: Live Sun and Moon Dashboard with NASA Footage",
-      "score": 128,
-      "url": "https://www.lumara-space.app/",
-      "time": 1777382748.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47934261"
+      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "score": 707,
+      "url": "https://github.com/localsend/localsend",
+      "time": 1777377260.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47933208"
     },
     {
       "title": "Infisical (YC W23) Is Hiring Full Stack Software Engineers (Remote)",
@@ -79,67 +114,32 @@
       "comments_url": "https://news.ycombinator.com/item?id=47937203"
     },
     {
-      "title": "Who owns the code Claude Code wrote?",
-      "score": 155,
-      "url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
-      "time": 1777375492.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47932937"
+      "title": "Warp is now open-source",
+      "score": 106,
+      "url": "https://www.warp.dev/blog/warp-is-now-open-source",
+      "time": 1777391910.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47936264"
     },
     {
-      "title": "Things C++26 define_static_array can't do",
-      "score": 24,
-      "url": "https://quuxplusone.github.io/blog/2026/04/24/define-static-array/",
-      "time": 1777210348.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47910201"
+      "title": "UAE to leave OPEC",
+      "score": 287,
+      "url": "https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d",
+      "time": 1777381321.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47933983"
     },
     {
-      "title": "GitHub Actions is the weakest link",
-      "score": 144,
-      "url": "https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html",
-      "time": 1777377494.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47933257"
+      "title": "VibeVoice: Open-source frontier voice AI",
+      "score": 296,
+      "url": "https://github.com/microsoft/VibeVoice",
+      "time": 1777377364.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47933236"
     },
     {
-      "title": "FCC Funding Application Notes Paramount Will Be 49.5% Foreign-Owned Post-Merger",
-      "score": 152,
-      "url": "https://deadline.com/2026/04/paramount-fcc-request-wbd-merger-middle-east-1236873732/",
-      "time": 1777391661.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47936210"
-    },
-    {
-      "title": "Talkie: a 13B vintage language model from 1930",
-      "score": 589,
-      "url": "https://talkie-lm.com/introducing-talkie",
-      "time": 1777326948.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47927903"
-    },
-    {
-      "title": "Deep under Antarctic ice, a long-predicted cosmic whisper breaks through",
-      "score": 90,
-      "url": "https://phys.org/news/2026-04-deep-antarctic-ice-cosmic-strange.html",
-      "time": 1777240314.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47915023"
-    },
-    {
-      "title": "ASML became the chokepoint for cutting-edge chips",
-      "score": 279,
-      "url": "https://worksinprogress.co/issue/the-worlds-most-complex-machine/",
-      "time": 1777121252.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47901064"
-    },
-    {
-      "title": "Warp is now Open-Source",
-      "score": 16,
-      "url": "https://github.com/warpdotdev/warp",
-      "time": 1777396181.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47937349"
-    },
-    {
-      "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
-      "score": 208,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
-      "time": 1777391362.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47936156"
+      "title": "A New Type of Neuroplasticity Rewires the Brain After a Single Experience",
+      "score": 9,
+      "url": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
+      "time": 1777298087.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47921610"
     }
   ]
 }
