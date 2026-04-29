@@ -1,61 +1,103 @@
 {
-  "last_updated": "2026-04-29T09:24:19.914766-04:00",
+  "last_updated": "2026-04-29T12:23:40.333198-04:00",
   "stories": [
     {
+      "title": "Zed is 1.0",
+      "score": 503,
+      "url": "https://zed.dev/blog/zed-1-0",
+      "time": 1777473259.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47949027"
+    },
+    {
+      "title": "Tangled – We need a federation of forges",
+      "score": 255,
+      "url": "https://blog.tangled.org/federation/",
+      "time": 1777471259.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47948603"
+    },
+    {
+      "title": "Why AI companies want you to be afraid of them",
+      "score": 96,
+      "url": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them",
+      "time": 1777476361.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47949750"
+    },
+    {
       "title": "Soft launch of open-source code platform for government",
-      "score": 267,
+      "score": 398,
       "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
       "time": 1777454077.0,
       "comments_url": "https://news.ycombinator.com/item?id=47945918"
     },
     {
       "title": "Ghostty is leaving GitHub",
-      "score": 2875,
+      "score": 3131,
       "url": "https://mitchellh.com/writing/ghostty-leaving-github",
       "time": 1777405492.0,
       "comments_url": "https://news.ycombinator.com/item?id=47939579"
     },
     {
-      "title": "HashiCorp co-founder says GitHub 'no longer a place for serious work'",
-      "score": 173,
-      "url": "https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/",
-      "time": 1777462966.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47946958"
+      "title": "Mistral Medium 3.5",
+      "score": 110,
+      "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+      "time": 1777475866.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47949642"
     },
     {
-      "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
-      "score": 105,
-      "url": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/",
-      "time": 1777466330.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47947490"
+      "title": "Improving ICU handovers by learning from Scuderia Ferrari F1 team",
+      "score": 34,
+      "url": "https://healthmanagement.org/c/icu/IssueArticle/improving-handovers-by-learning-from-scuderia-ferrari",
+      "time": 1777467944.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47947834"
+    },
+    {
+      "title": "Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained",
+      "score": 14,
+      "url": "https://read.thecoder.cafe/p/linux-broke-postgresql",
+      "time": 1777475624.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47949585"
+    },
+    {
+      "title": "Online age verification is the hill to die on",
+      "score": 43,
+      "url": "https://xcancel.com/GlennMeder/status/2049088498163216560",
+      "time": 1777477797.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47950091"
+    },
+    {
+      "title": "GitHub – DOS 1.0: Transcription of Tim Paterson's DOS Printouts",
+      "score": 58,
+      "url": "https://github.com/DOS-History/Paterson-Listings",
+      "time": 1777461912.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47946813"
+    },
+    {
+      "title": "Letting AI play my game – building an agentic test harness to help play-testing",
+      "score": 68,
+      "url": "https://blog.jeffschomay.com/letting-ai-play-my-game",
+      "time": 1777466592.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47947525"
     },
     {
       "title": "Bugs Rust won't catch",
-      "score": 409,
+      "score": 501,
       "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
       "time": 1777429151.0,
       "comments_url": "https://news.ycombinator.com/item?id=47943499"
     },
     {
-      "title": "Before GitHub",
-      "score": 541,
-      "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-      "time": 1777411060.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47940921"
-    },
-    {
-      "title": "How ChatGPT serves ads",
-      "score": 396,
-      "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-      "time": 1777420454.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47942437"
-    },
-    {
       "title": "Show HN: Adblock-rust Manager – Firefox extension to enable the Brave ad blocker",
-      "score": 5,
+      "score": 41,
       "url": "https://github.com/electricant/adblock-rust-manager",
       "time": 1777465493.0,
       "comments_url": "https://news.ycombinator.com/item?id=47947369"
+    },
+    {
+      "title": "Before GitHub",
+      "score": 588,
+      "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+      "time": 1777411060.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47940921"
     },
     {
       "title": "Stardex Is Hiring a Founding Customer Success Lead",
@@ -65,81 +107,39 @@
       "comments_url": "https://news.ycombinator.com/item?id=47947125"
     },
     {
-      "title": "Show HN: Rip.so – a graveyard for dead internet things",
-      "score": 103,
-      "url": "https://rip.so",
-      "time": 1777454492.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47945955"
+      "title": "How ChatGPT serves ads",
+      "score": 444,
+      "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+      "time": 1777420454.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47942437"
     },
     {
-      "title": "Letting AI play my game – building an agentic test harness to help play-testing",
+      "title": "Making AI chatbots friendly leads to mistakes and support of conspiracy theories",
       "score": 3,
-      "url": "https://blog.jeffschomay.com/letting-ai-play-my-game",
-      "time": 1777466592.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47947525"
+      "url": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study",
+      "time": 1777475472.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47949538"
     },
     {
       "title": "Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",
-      "score": 81,
+      "score": 106,
       "url": "https://github.com/rocky-data/rocky",
       "time": 1777386959.0,
       "comments_url": "https://news.ycombinator.com/item?id=47935246"
     },
     {
-      "title": "HardenedBSD Is Now Officially on Radicle",
-      "score": 100,
-      "url": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
-      "time": 1777444724.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47944864"
-    },
-    {
       "title": "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
-      "score": 190,
+      "score": 210,
       "url": "https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md",
       "time": 1777396350.0,
       "comments_url": "https://news.ycombinator.com/item?id=47937380"
     },
     {
-      "title": "Coffee with a splash of physics: how to make the most out of your brew",
-      "score": 18,
-      "url": "https://physicsworld.com/a/coffee-with-a-splash-of-physics-how-to-make-the-most-out-of-your-brew/",
-      "time": 1777465139.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47947318"
-    },
-    {
-      "title": "Withnail's Coat and I",
-      "score": 104,
-      "url": "https://ontherow.substack.com/p/withnails-coat-and-i",
-      "time": 1777318067.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47926148"
-    },
-    {
-      "title": "Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation",
-      "score": 41,
-      "url": "https://dl.acm.org/doi/abs/10.1145/3767295.3803591",
-      "time": 1777445273.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47944931"
-    },
-    {
-      "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
-      "score": 290,
-      "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-      "time": 1777404283.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47939320"
-    },
-    {
-      "title": "Notepad++ Code Editor Comes to Mac After 20-Year Wait",
-      "score": 7,
-      "url": "https://www.macrumors.com/2026/04/29/notepad-plus-plus-editor-comes-to-mac/",
-      "time": 1777467570.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47947740"
-    },
-    {
-      "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
-      "score": 397,
-      "url": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
-      "time": 1777392943.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47936479"
+      "title": "Show HN: Rip.so – a graveyard for dead internet things",
+      "score": 143,
+      "url": "https://rip.so",
+      "time": 1777454492.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47945955"
     }
   ]
 }
