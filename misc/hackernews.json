@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-05-02T08:49:14.432041-04:00",
+  "last_updated": "2026-05-02T11:37:58.133043-04:00",
   "stories": [
     {
       "title": "How fast is a macOS VM, and how small could it be?",
-      "score": 65,
+      "score": 137,
       "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
       "time": 1777714249.0,
       "comments_url": "https://news.ycombinator.com/item?id=47984852"
     },
     {
       "title": "Why does it take so long to release black fan versions?",
-      "score": 341,
+      "score": 489,
       "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
       "time": 1777696684.0,
       "comments_url": "https://news.ycombinator.com/item?id=47983352"
     },
     {
+      "title": "Barman – Backup and Recovery Manager for PostgreSQL",
+      "score": 20,
+      "url": "https://github.com/EnterpriseDB/barman",
+      "time": 1777470888.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47948526"
+    },
+    {
       "title": "Why are there both TMP and TEMP environment variables? (2015)",
-      "score": 71,
+      "score": 116,
       "url": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213",
       "time": 1777710203.0,
       "comments_url": "https://news.ycombinator.com/item?id=47984522"
     },
     {
+      "title": "Open Design: Use Your Coding Agent as a Design Engine",
+      "score": 86,
+      "url": "https://github.com/nexu-io/open-design",
+      "time": 1777724176.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47985750"
+    },
+    {
+      "title": "Refusal in Language Models Is Mediated by a Single Direction",
+      "score": 17,
+      "url": "https://arxiv.org/abs/2406.11717",
+      "time": 1777727723.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47986136"
+    },
+    {
+      "title": "Craig Venter of Human Genome Project Dies at 79",
+      "score": 26,
+      "url": "https://www.economist.com/obituary/2026/05/01/craig-venter-raced-to-decode-the-human-genome",
+      "time": 1777723731.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47985704"
+    },
+    {
       "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
-      "score": 36,
+      "score": 66,
       "url": "https://github.com/bruin-data/dac",
       "time": 1777473440.0,
       "comments_url": "https://news.ycombinator.com/item?id=47949066"
     },
     {
       "title": "Dotcl: Common Lisp Implementation on .NET",
-      "score": 47,
+      "score": 96,
       "url": "https://github.com/dotcl/dotcl",
       "time": 1777566804.0,
       "comments_url": "https://news.ycombinator.com/item?id=47964957"
     },
     {
       "title": "Ti-84 Evo",
-      "score": 478,
+      "score": 520,
       "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
       "time": 1777666019.0,
       "comments_url": "https://news.ycombinator.com/item?id=47979583"
     },
     {
-      "title": "Show HN: Browser-based light pollution simulator using real photometric data",
-      "score": 22,
-      "url": "https://iesna.eu/?wasm=skyglow_demo",
-      "time": 1777712898.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47984734"
-    },
-    {
-      "title": "The Century-Long Pause in Fundamental Physics",
-      "score": 4,
-      "url": "https://danieltan.weblog.lol/2026/05/the-century-long-pause-in-fundamental-physics",
-      "time": 1777723991.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47985725"
-    },
-    {
-      "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
-      "score": 22,
-      "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
-      "time": 1777712067.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47984675"
-    },
-    {
-      "title": "Show HN: Piruetas – A self-hosted diary app I built for my girlfriend",
-      "score": 24,
-      "url": "https://piruet.app",
-      "time": 1777718575.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47985210"
+      "title": "Show HN: Pollen – distributed WASM runtime, no control plane, single binary",
+      "score": 44,
+      "url": "https://github.com/sambigeara/pollen",
+      "time": 1777554904.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47961935"
     },
     {
       "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
-      "score": 23,
+      "score": 37,
       "url": "https://mljar.com/",
       "time": 1777717291.0,
       "comments_url": "https://news.ycombinator.com/item?id=47985077"
     },
     {
       "title": "Artemis II Photo Timeline",
-      "score": 240,
+      "score": 279,
       "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
       "time": 1777495697.0,
       "comments_url": "https://news.ycombinator.com/item?id=47954394"
     },
     {
-      "title": "Bitmap and tilemap generation from a single example",
-      "score": 40,
-      "url": "https://github.com/mxgmn/WaveFunctionCollapse",
-      "time": 1777549862.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47961100"
-    },
-    {
       "title": "New research suggests people can communicate and practice skills while dreaming",
-      "score": 366,
+      "score": 395,
       "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
       "time": 1777657662.0,
       "comments_url": "https://news.ycombinator.com/item?id=47977748"
     },
     {
-      "title": "To Restore an Island Paradise, Add Fungi",
-      "score": 83,
-      "url": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi",
-      "time": 1777476535.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47949794"
-    },
-    {
-      "title": "Show HN: Large Scale Article Extract of Newspapers 1730s-1960s",
-      "score": 16,
-      "url": "https://snewpapers.com/",
-      "time": 1777711365.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47984614"
-    },
-    {
-      "title": "Ask.com has closed",
-      "score": 307,
-      "url": "https://www.ask.com/",
-      "time": 1777695155.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47983226"
-    },
-    {
       "title": "SFO Gate Explorer",
-      "score": 4,
+      "score": 21,
       "url": "https://www.flysfo.com/passengers/services/gate-explorer",
       "time": 1777572074.0,
       "comments_url": "https://news.ycombinator.com/item?id=47966084"
     },
     {
-      "title": "CollectWise (YC F24) Is Hiring",
-      "score": 1,
-      "url": "https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer",
-      "time": 1777697000.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47983385"
+      "title": "Show HN: Browser-based light pollution simulator using real photometric data",
+      "score": 30,
+      "url": "https://iesna.eu/?wasm=skyglow_demo",
+      "time": 1777712898.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47984734"
     },
     {
-      "title": "GameStop Preparing Offer for eBay",
-      "score": 21,
-      "url": "https://www.wsj.com/business/deals/gamestop-preparing-offer-for-ebay-1678e6de",
-      "time": 1777719325.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47985271"
+      "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
+      "score": 36,
+      "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
+      "time": 1777712067.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47984675"
+    },
+    {
+      "title": "Russia Poisons Wikipedia",
+      "score": 147,
+      "url": "https://www.bettedangerous.com/p/russia-poisons-wikipedia",
+      "time": 1777727270.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47986083"
+    },
+    {
+      "title": "To Restore an Island Paradise, Add Fungi",
+      "score": 105,
+      "url": "https://e360.yale.edu/digest/atoll-islands-sea-level-rise-fungi",
+      "time": 1777476535.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47949794"
+    },
+    {
+      "title": "Oil tanker hijacked off Yemen, steers toward Somalia",
+      "score": 25,
+      "url": "https://www.yahoo.com/news/articles/yemen-says-oil-tanker-hijacked-121710980.html",
+      "time": 1777729701.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47986390"
     }
   ]
 }
