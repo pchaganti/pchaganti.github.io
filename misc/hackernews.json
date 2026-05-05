@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-05-04T22:00:07.782971-04:00",
+  "last_updated": "2026-05-05T01:33:25.095771-04:00",
   "stories": [
     {
+      "title": "About 10% of AMC movie showings sell zero tickets. This site finds them",
+      "score": 51,
+      "url": "https://walzr.com/empty-screenings",
+      "time": 1777955602.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48018066"
+    },
+    {
+      "title": "What I'm Hearing About Cognitive Debt (So Far)",
+      "score": 141,
+      "url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
+      "time": 1777946901.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48017298"
+    },
+    {
       "title": "Bun is being ported from Zig to Rust",
-      "score": 81,
+      "score": 333,
       "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
       "time": 1777943297.0,
       "comments_url": "https://news.ycombinator.com/item?id=48016880"
     },
     {
+      "title": "Train Your Own LLM from Scratch",
+      "score": 37,
+      "url": "https://github.com/angelos-p/llm-from-scratch",
+      "time": 1777954157.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48017948"
+    },
+    {
+      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+      "score": 48,
+      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+      "time": 1777952588.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48017813"
+    },
+    {
+      "title": "Pulitzer Prize Winner in International Reporting",
+      "score": 57,
+      "url": "https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated",
+      "time": 1777947741.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48017399"
+    },
+    {
       "title": "How OpenAI delivers low-latency voice AI at scale",
-      "score": 285,
+      "score": 350,
       "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
       "time": 1777923767.0,
       "comments_url": "https://news.ycombinator.com/item?id=48013919"
     },
     {
-      "title": "Talking to strangers at the gym",
-      "score": 1157,
-      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "time": 1777894862.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48007438"
+      "title": "The Car That Watches You Back: The Advertising Infrastructure of Modern Cars",
+      "score": 42,
+      "url": "https://nobodyaskedforthis.lol/posts/connected-car/",
+      "time": 1777946475.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48017251"
     },
     {
       "title": "Agent Skills",
-      "score": 112,
+      "score": 190,
       "url": "https://addyosmani.com/blog/agent-skills/",
       "time": 1777930842.0,
       "comments_url": "https://news.ycombinator.com/item?id=48015397"
     },
     {
+      "title": "Gaps in national food production, worldwide",
+      "score": 29,
+      "url": "https://www.nature.com/articles/s43016-025-01173-4",
+      "time": 1777899316.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48008104"
+    },
+    {
+      "title": "When Networking Doesn't Work",
+      "score": 43,
+      "url": "https://www.os2museum.com/wp/when-networking-doesnt-work/",
+      "time": 1777928179.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48014868"
+    },
+    {
       "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
-      "score": 170,
+      "score": 187,
       "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
       "time": 1777916792.0,
       "comments_url": "https://news.ycombinator.com/item?id=48012162"
     },
     {
-      "title": "Testing macOS on the Apple Network Server 2.0 ROMs",
-      "score": 59,
-      "url": "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html",
-      "time": 1777823373.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47998158"
-    },
-    {
       "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
-      "score": 213,
+      "score": 257,
       "url": "https://www.nber.org/papers/w35117",
       "time": 1777908766.0,
       "comments_url": "https://news.ycombinator.com/item?id=48009983"
     },
     {
+      "title": "pgxbackup: Continuity Support for pgBackRest",
+      "score": 24,
+      "url": "https://thebuild.com/blog/2026/05/01/pgxbackup-continuity-support-for-pgbackrest/",
+      "time": 1777742743.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47988439"
+    },
+    {
+      "title": "Testing macOS on the Apple Network Server 2.0 ROMs",
+      "score": 76,
+      "url": "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html",
+      "time": 1777823373.0,
+      "comments_url": "https://news.ycombinator.com/item?id=47998158"
+    },
+    {
       "title": "Redis array: short story of a long development process",
-      "score": 231,
+      "score": 260,
       "url": "https://antirez.com/news/164",
       "time": 1777904587.0,
       "comments_url": "https://news.ycombinator.com/item?id=48009172"
     },
     {
-      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
-      "score": 414,
-      "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
-      "time": 1777918962.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48012735"
-    },
-    {
-      "title": "I am worried about Bun",
-      "score": 410,
-      "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
-      "time": 1777913100.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48011184"
+      "title": "Talking to strangers at the gym",
+      "score": 1266,
+      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+      "time": 1777894862.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48007438"
     },
     {
       "title": "1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'",
-      "score": 128,
+      "score": 155,
       "url": "https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/",
       "time": 1777908173.0,
       "comments_url": "https://news.ycombinator.com/item?id=48009840"
     },
     {
-      "title": "UK Fuel Price Intelligence – Market analytics from reporting stations",
-      "score": 159,
-      "url": "https://www.fuelinsight.co.uk",
-      "time": 1777907721.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48009747"
+      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+      "score": 484,
+      "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+      "time": 1777918962.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48012735"
     },
     {
-      "title": "How Monero’s proof of work works",
-      "score": 238,
-      "url": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
-      "time": 1777903850.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48009020"
-    },
-    {
-      "title": "Pomiferous: The most extensive apples (pommes) database",
-      "score": 102,
-      "url": "https://pomiferous.com/",
-      "time": 1777906061.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48009441"
-    },
-    {
-      "title": "Transformers Are Inherently Succinct (2025)",
-      "score": 30,
-      "url": "https://arxiv.org/abs/2510.19315",
-      "time": 1777924988.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48014197"
-    },
-    {
-      "title": "Jonathan Swift's Last Joke",
-      "score": 28,
-      "url": "https://www.newyorker.com/culture/the-weekend-essay/jonathan-swifts-last-joke",
-      "time": 1777750050.0,
-      "comments_url": "https://news.ycombinator.com/item?id=47989594"
-    },
-    {
-      "title": "PyInfra 3.8.0",
-      "score": 221,
-      "url": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
-      "time": 1777899226.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48008083"
-    },
-    {
-      "title": "Formatting a 25M-line codebase overnight",
-      "score": 122,
-      "url": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
-      "time": 1777925513.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48014325"
-    },
-    {
-      "title": "GameStop makes $55.5B takeover offer for eBay",
-      "score": 640,
-      "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-      "time": 1777887072.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48006402"
-    },
-    {
-      "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
-      "score": 417,
-      "url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
-      "time": 1777914996.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48011689"
+      "title": "Y Combinator's Stake in OpenAI (0.6%)",
+      "score": 226,
+      "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
+      "time": 1777939741.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48016534"
     }
   ]
 }
