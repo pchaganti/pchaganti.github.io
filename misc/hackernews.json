@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-05-08T01:22:56.648580-04:00",
+  "last_updated": "2026-05-08T03:16:31.420046-04:00",
   "stories": [
     {
       "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
-      "score": 460,
+      "score": 550,
       "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
       "time": 1778192541.0,
       "comments_url": "https://news.ycombinator.com/item?id=48055913"
     },
     {
       "title": "Maybe you shouldn't install new software for a bit",
-      "score": 320,
+      "score": 416,
       "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
       "time": 1778194931.0,
       "comments_url": "https://news.ycombinator.com/item?id=48056227"
     },
     {
-      "title": "Dirtyfrag: Universal Linux LPE",
-      "score": 523,
-      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-      "time": 1778181692.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48053623"
-    },
-    {
       "title": "Cloudflare to cut about 20% workforce",
-      "score": 453,
+      "score": 599,
       "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
       "time": 1778185417.0,
       "comments_url": "https://news.ycombinator.com/item?id=48054423"
     },
     {
-      "title": "Agentic Engineering",
-      "score": 15,
-      "url": "https://addyosmani.com/blog/agentic-engineering/",
-      "time": 1778214471.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48058566"
+      "title": "Dirtyfrag: Universal Linux LPE",
+      "score": 581,
+      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+      "time": 1778181692.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48053623"
+    },
+    {
+      "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
+      "score": 30,
+      "url": "https://github.com/graemeg/blaise",
+      "time": 1778215442.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48058644"
     },
     {
       "title": "Pinocchio is weirder than you remembered",
-      "score": 71,
+      "score": 114,
       "url": "https://storica.club/blog/pinocchio-in-italian/",
       "time": 1778070427.0,
       "comments_url": "https://news.ycombinator.com/item?id=48035420"
     },
     {
       "title": "The map that keeps Burning Man honest",
-      "score": 585,
+      "score": 618,
       "url": "https://www.not-ship.com/burning-man-moop/",
       "time": 1778162770.0,
       "comments_url": "https://news.ycombinator.com/item?id=48049653"
     },
     {
       "title": "Agents need control flow, not more prompts",
-      "score": 400,
+      "score": 435,
       "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
       "time": 1778172215.0,
       "comments_url": "https://news.ycombinator.com/item?id=48051562"
     },
     {
+      "title": "A polynomial autoencoder beats PCA on transformer embeddings",
+      "score": 17,
+      "url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
+      "time": 1777980672.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48021023"
+    },
+    {
+      "title": "Inventing Cyrillic",
+      "score": 18,
+      "url": "https://www.historytoday.com/archive/history-matters/inventing-cyrillic",
+      "time": 1778043762.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48032393"
+    },
+    {
       "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
-      "score": 51,
+      "score": 69,
       "url": "https://github.com/robertdfrench/ifuncd-up",
       "time": 1778198618.0,
       "comments_url": "https://news.ycombinator.com/item?id=48056749"
     },
     {
-      "title": "Plasticity and language in the anaesthetized human hippocampus",
-      "score": 80,
-      "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
-      "time": 1778195204.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48056268"
-    },
-    {
-      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-      "score": 236,
-      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
-      "time": 1778176442.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48052537"
-    },
-    {
-      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-      "score": 272,
-      "url": "https://deepmind.google/blog/alphaevolve-impact/",
-      "time": 1778166140.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48050278"
-    },
-    {
       "title": "Gambling ads on social media reach more than twice as many men as women: study",
-      "score": 36,
+      "score": 55,
       "url": "https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women",
       "time": 1778195823.0,
       "comments_url": "https://news.ycombinator.com/item?id=48056359"
     },
     {
-      "title": "DeepSeek 4 Flash local inference engine for Metal",
-      "score": 341,
-      "url": "https://github.com/antirez/ds4",
-      "time": 1778168424.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48050751"
-    },
-    {
-      "title": "AI slop is killing online communities",
-      "score": 540,
-      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-      "time": 1778179585.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48053203"
-    },
-    {
-      "title": "Nonprofit hospitals spend billions on consultants with no clear effect",
-      "score": 109,
-      "url": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants",
-      "time": 1778194474.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48056158"
-    },
-    {
-      "title": "Brazil's Pix payment system faces pressure from Visa and Mastercard",
-      "score": 136,
-      "url": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
-      "time": 1778175778.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48052371"
-    },
-    {
-      "title": "Los Alamos and the long path to detecting neutrinos",
-      "score": 14,
-      "url": "https://www.lanl.gov/media/publications/1663/from-ghost-particle-to-cosmic-messenger",
-      "time": 1778077267.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48036622"
+      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "score": 256,
+      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "time": 1778176442.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48052537"
     },
     {
       "title": "How to make SSE token streams resumable, cancellable, and multi-device",
-      "score": 7,
+      "score": 19,
       "url": "https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/",
       "time": 1778077902.0,
       "comments_url": "https://news.ycombinator.com/item?id=48036746"
     },
     {
-      "title": "Singapore introduces caning for boys who bully others at school",
-      "score": 117,
-      "url": "https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies",
-      "time": 1778048993.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48032968"
+      "title": "Los Alamos and the long path to detecting neutrinos",
+      "score": 28,
+      "url": "https://www.lanl.gov/media/publications/1663/from-ghost-particle-to-cosmic-messenger",
+      "time": 1778077267.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48036622"
+    },
+    {
+      "title": "Plasticity and language in the anaesthetized human hippocampus",
+      "score": 95,
+      "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
+      "time": 1778195204.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48056268"
+    },
+    {
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "score": 282,
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "time": 1778166140.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48050278"
+    },
+    {
+      "title": "DeepSeek 4 Flash local inference engine for Metal",
+      "score": 360,
+      "url": "https://github.com/antirez/ds4",
+      "time": 1778168424.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48050751"
+    },
+    {
+      "title": "Mojo 1.0 Beta",
+      "score": 71,
+      "url": "https://mojolang.org/",
+      "time": 1778208541.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48057901"
+    },
+    {
+      "title": "Brazil's Pix payment system faces pressure from Visa and Mastercard",
+      "score": 168,
+      "url": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
+      "time": 1778175778.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48052371"
     }
   ]
 }
