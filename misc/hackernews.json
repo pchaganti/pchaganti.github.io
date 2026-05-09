@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-05-09T14:45:13.147044-04:00",
+  "last_updated": "2026-05-09T17:34:42.781131-04:00",
   "stories": [
     {
+      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+      "score": 212,
+      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+      "time": 1778321575.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48073680"
+    },
+    {
       "title": "Internet Archive Switzerland",
-      "score": 369,
-      "url": "https://internetarchive.ch/",
+      "score": 466,
+      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
       "time": 1778328030.0,
       "comments_url": "https://news.ycombinator.com/item?id=48074265"
     },
     {
-      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+      "title": "FreeBSD: Local Privilege Escalation via Execve()",
       "score": 33,
-      "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
-      "time": 1778346406.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48076465"
+      "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+      "time": 1778358681.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48077971"
     },
     {
-      "title": "Show HN: I wrote a flight simulator in my own programming language",
-      "score": 35,
-      "url": "https://github.com/navid-m/flightsim",
-      "time": 1778104685.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48042427"
-    },
-    {
-      "title": "I Will Not Add Query Strings to Your URLs",
-      "score": 33,
-      "url": "https://susam.net/no-query-strings.html",
+      "title": "I’ve banned query strings",
+      "score": 162,
+      "url": "https://chrismorgan.info/no-query-strings",
       "time": 1778344116.0,
       "comments_url": "https://news.ycombinator.com/item?id=48076173"
     },
     {
-      "title": "LLMs Corrupt Your Documents When You Delegate",
-      "score": 244,
-      "url": "https://arxiv.org/abs/2604.15597",
-      "time": 1778316274.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48073246"
-    },
-    {
-      "title": "PipeDream on the Acorn Archimedes",
-      "score": 52,
-      "url": "https://stonetools.ghost.io/pipedream-archimedes/",
-      "time": 1778338876.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48075528"
-    },
-    {
-      "title": "Google broke reCAPTCHA for de-googled Android users",
-      "score": 1360,
-      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "time": 1778265958.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48067119"
-    },
-    {
       "title": "Zed Editor Theme-Builder",
-      "score": 19,
+      "score": 101,
       "url": "https://zed.dev/theme-builder",
       "time": 1778347839.0,
       "comments_url": "https://news.ycombinator.com/item?id=48076651"
     },
     {
-      "title": "How LEDs are made (2014)",
-      "score": 96,
-      "url": "https://learn.sparkfun.com/tutorials/how-leds-are-made/all",
-      "time": 1778157585.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48048679"
+      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+      "score": 81,
+      "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+      "time": 1778346406.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48076465"
     },
     {
-      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-      "score": 355,
-      "url": "https://twitter.com/trq212/status/2052809885763747935",
-      "time": 1778302432.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48071940"
+      "title": "Production engineering when trading billions of dollars a day [video]",
+      "score": 38,
+      "url": "https://www.youtube.com/watch?v=zR9PpXWsKFQ",
+      "time": 1778269521.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48067786"
     },
     {
-      "title": "The Intolerable Hypocrisy of Cyberlibertarianism",
-      "score": 148,
-      "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
-      "time": 1778334512.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48074952"
+      "title": "I caught the car",
+      "score": 12,
+      "url": "https://undecidability.net/senior/",
+      "time": 1778358667.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48077966"
     },
     {
-      "title": "Apple is increasing my cortisol levels",
-      "score": 24,
+      "title": "Distributing Mac software is increasing my cortisol levels",
+      "score": 128,
       "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
       "time": 1778337658.0,
       "comments_url": "https://news.ycombinator.com/item?id=48075366"
     },
     {
-      "title": "Mythical Man Month",
+      "title": "Google broke reCAPTCHA for de-googled Android users",
+      "score": 1408,
+      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "time": 1778265958.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48067119"
+    },
+    {
+      "title": "LLMs corrupt your documents when you delegate",
       "score": 297,
-      "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
-      "time": 1778138455.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48046436"
+      "url": "https://arxiv.org/abs/2604.15597",
+      "time": 1778316274.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48073246"
+    },
+    {
+      "title": "Meta's Embrace of A.I. Is Making Its Employees Miserable",
+      "score": 132,
+      "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+      "time": 1778351616.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48077126"
+    },
+    {
+      "title": "The hypocrisy of cyberlibertarianism",
+      "score": 208,
+      "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
+      "time": 1778334512.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48074952"
+    },
+    {
+      "title": "The ROKR wooden typewriter: a closer look",
+      "score": 19,
+      "url": "http://writingball.blogspot.com/2026/05/the-rokr-wooden-typewriter-closer-look.html",
+      "time": 1778163916.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48049890"
+    },
+    {
+      "title": "PipeDream on the Acorn Archimedes",
+      "score": 64,
+      "url": "https://stonetools.ghost.io/pipedream-archimedes/",
+      "time": 1778338876.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48075528"
+    },
+    {
+      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "score": 384,
+      "url": "https://twitter.com/trq212/status/2052809885763747935",
+      "time": 1778302432.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48071940"
     },
     {
       "title": "A recent experience with ChatGPT 5.5 Pro",
-      "score": 521,
+      "score": 565,
       "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
       "time": 1778294502.0,
       "comments_url": "https://news.ycombinator.com/item?id=48071262"
     },
     {
-      "title": "Introduction to Beaver Triples",
-      "score": 9,
-      "url": "https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples",
-      "time": 1778342558.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48076009"
-    },
-    {
-      "title": "America's carpet capital: an empire and its toxic legacy",
-      "score": 131,
-      "url": "https://apnews.com/projects/pfas-forever-stained/",
-      "time": 1778080664.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48037243"
-    },
-    {
       "title": "OpenAI’s WebRTC problem",
-      "score": 423,
+      "score": 456,
       "url": "https://moq.dev/blog/webrtc-is-the-problem/",
       "time": 1778173919.0,
       "comments_url": "https://news.ycombinator.com/item?id=48051951"
     },
     {
-      "title": "GrapheneOS fixes Android VPN leak Google refused to patch",
-      "score": 144,
-      "url": "https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/",
-      "time": 1778335870.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48075144"
+      "title": "Mythical Man Month",
+      "score": 318,
+      "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
+      "time": 1778138455.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48046436"
     },
     {
-      "title": "David Attenborough's 100th Birthday",
-      "score": 790,
-      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-      "time": 1778241806.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48061884"
-    },
-    {
-      "title": "Building the TD4 4-Bit CPU",
-      "score": 34,
-      "url": "https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html",
-      "time": 1778127943.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48045384"
+      "title": "How LEDs are made (2014)",
+      "score": 116,
+      "url": "https://learn.sparkfun.com/tutorials/how-leds-are-made/all",
+      "time": 1778157585.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48048679"
     }
   ]
 }
