@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-05-09T03:44:05.550033-04:00",
+  "last_updated": "2026-05-09T06:00:33.973386-04:00",
   "stories": [
     {
       "title": "A recent experience with ChatGPT 5.5 Pro",
-      "score": 201,
+      "score": 300,
       "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
       "time": 1778294502.0,
       "comments_url": "https://news.ycombinator.com/item?id=48071262"
     },
     {
       "title": "Google broke reCAPTCHA for de-googled Android users",
-      "score": 917,
+      "score": 1024,
       "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
       "time": 1778265958.0,
       "comments_url": "https://news.ycombinator.com/item?id=48067119"
     },
     {
       "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-      "score": 89,
+      "score": 138,
       "url": "https://twitter.com/trq212/status/2052809885763747935",
       "time": 1778302432.0,
       "comments_url": "https://news.ycombinator.com/item?id=48071940"
     },
     {
-      "title": "Mythos 'Discovered' a CVE in Its Training Data and That's Still Worrying",
-      "score": 5,
-      "url": "https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying",
-      "time": 1778311025.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48072671"
-    },
-    {
-      "title": "Mythical Man Month",
-      "score": 123,
-      "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
-      "time": 1778138455.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48046436"
-    },
-    {
       "title": "OpenAI’s WebRTC problem",
-      "score": 261,
+      "score": 314,
       "url": "https://moq.dev/blog/webrtc-is-the-problem/",
       "time": 1778173919.0,
       "comments_url": "https://news.ycombinator.com/item?id=48051951"
     },
     {
+      "title": "Mythical Man Month",
+      "score": 155,
+      "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
+      "time": 1778138455.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48046436"
+    },
+    {
       "title": "What causes lightning? The answer keeps getting more interesting",
-      "score": 25,
+      "score": 52,
       "url": "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/",
       "time": 1778082066.0,
       "comments_url": "https://news.ycombinator.com/item?id=48037517"
     },
     {
-      "title": "EU calls VPNs \"a loophole that needs closing\" in age verification push",
-      "score": 90,
-      "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
-      "time": 1778305932.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48072190"
-    },
-    {
-      "title": "AI is breaking two vulnerability cultures",
-      "score": 314,
-      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-      "time": 1778262908.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48066524"
-    },
-    {
       "title": "David Attenborough's 100th Birthday",
-      "score": 587,
+      "score": 635,
       "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
       "time": 1778241806.0,
       "comments_url": "https://news.ycombinator.com/item?id=48061884"
     },
     {
-      "title": "The React2Shell Story",
-      "score": 122,
-      "url": "https://lachlan.nz/blog/the-react2shell-story/",
-      "time": 1778258388.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48065511"
+      "title": "AI is breaking two vulnerability cultures",
+      "score": 332,
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "time": 1778262908.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48066524"
     },
     {
-      "title": "AWS North Virginia data center outage – recovery to take hours",
-      "score": 204,
+      "title": "AWS North Virginia data center outage – resolved",
+      "score": 225,
       "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
       "time": 1778211118.0,
       "comments_url": "https://news.ycombinator.com/item?id=48058197"
     },
     {
       "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
-      "score": 197,
+      "score": 237,
       "url": "https://www.wiisfi.com/",
       "time": 1778083310.0,
       "comments_url": "https://news.ycombinator.com/item?id=48037760"
     },
     {
+      "title": "The React2Shell Story",
+      "score": 141,
+      "url": "https://lachlan.nz/blog/the-react2shell-story/",
+      "time": 1778258388.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48065511"
+    },
+    {
       "title": "Cartoon Network Flash Games",
-      "score": 329,
+      "score": 342,
       "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
       "time": 1778257792.0,
       "comments_url": "https://news.ycombinator.com/item?id=48065360"
     },
     {
-      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
-      "score": 176,
-      "url": "https://ze3tar.github.io/post-zcrx.html",
-      "time": 1778269239.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48067734"
-    },
-    {
       "title": "An Introduction to Meshtastic",
-      "score": 427,
+      "score": 449,
       "url": "https://meshtastic.org/docs/introduction/",
       "time": 1778239331.0,
       "comments_url": "https://news.ycombinator.com/item?id=48061566"
     },
     {
+      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+      "score": 184,
+      "url": "https://ze3tar.github.io/post-zcrx.html",
+      "time": 1778269239.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48067734"
+    },
+    {
+      "title": "Teaching Claude Why",
+      "score": 164,
+      "url": "https://www.anthropic.com/research/teaching-claude-why",
+      "time": 1778263181.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48066592"
+    },
+    {
+      "title": "Roadside Attraction",
+      "score": 21,
+      "url": "https://theoffingmag.com/essay/roadside-attraction/",
+      "time": 1778269384.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48067764"
+    },
+    {
+      "title": "America's carpet capital: an empire and its toxic legacy",
+      "score": 12,
+      "url": "https://apnews.com/projects/pfas-forever-stained/",
+      "time": 1778080664.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48037243"
+    },
+    {
       "title": "Can LLMs model real-world systems in TLA+?",
-      "score": 74,
+      "score": 82,
       "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
       "time": 1778257316.0,
       "comments_url": "https://news.ycombinator.com/item?id=48065254"
     },
     {
-      "title": "Bitter Lessons from the ISSpresso",
-      "score": 84,
-      "url": "https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso",
-      "time": 1778094569.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48040306"
+      "title": "The soul of maintaining a new machine",
+      "score": 51,
+      "url": "https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3",
+      "time": 1778040102.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48032014"
     },
     {
-      "title": "Light without electricity? Glowing algae could make it possible",
-      "score": 66,
-      "url": "https://www.colorado.edu/today/2026/05/06/light-without-electricity-glowing-algae-could-make-it-possible",
-      "time": 1778095294.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48040470"
-    },
-    {
-      "title": "Teaching Claude Why",
-      "score": 149,
-      "url": "https://www.anthropic.com/research/teaching-claude-why",
-      "time": 1778263181.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48066592"
+      "title": "Serving a website on a Raspberry Pi Zero running in RAM",
+      "score": 224,
+      "url": "https://btxx.org/posts/memory/",
+      "time": 1778253035.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48064312"
     }
   ]
 }
