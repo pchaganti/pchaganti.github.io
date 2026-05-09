@@ -1,54 +1,110 @@
 {
-  "last_updated": "2026-05-08T17:51:15.284370-04:00",
+  "last_updated": "2026-05-08T22:02:34.834915-04:00",
   "stories": [
     {
       "title": "Google broke reCAPTCHA for de-googled Android users",
-      "score": 159,
+      "score": 639,
       "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
       "time": 1778265958.0,
       "comments_url": "https://news.ycombinator.com/item?id=48067119"
     },
     {
+      "title": "OpenAI's WebRTC problem",
+      "score": 106,
+      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+      "time": 1778173919.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48051951"
+    },
+    {
+      "title": "The React2Shell Story",
+      "score": 41,
+      "url": "https://lachlan.nz/blog/the-react2shell-story/",
+      "time": 1778258388.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48065511"
+    },
+    {
+      "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
+      "score": 86,
+      "url": "https://www.wiisfi.com/",
+      "time": 1778083310.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48037760"
+    },
+    {
       "title": "AI is breaking two vulnerability cultures",
-      "score": 140,
+      "score": 242,
       "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
       "time": 1778262908.0,
       "comments_url": "https://news.ycombinator.com/item?id=48066524"
     },
     {
       "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
-      "score": 58,
+      "score": 143,
       "url": "https://ze3tar.github.io/post-zcrx.html",
       "time": 1778269239.0,
       "comments_url": "https://news.ycombinator.com/item?id=48067734"
     },
     {
-      "title": "Non-determinism is an issue with patching CVEs",
-      "score": 12,
-      "url": "https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/",
-      "time": 1778275387.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48068947"
+      "title": "Can LLMs model real-world systems in TLA+?",
+      "score": 32,
+      "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+      "time": 1778257316.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48065254"
+    },
+    {
+      "title": "AWS North Virginia data center outage – recovery to take hours",
+      "score": 132,
+      "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
+      "time": 1778211118.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48058197"
     },
     {
       "title": "Cartoon Network Flash Games",
-      "score": 224,
+      "score": 283,
       "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
       "time": 1778257792.0,
       "comments_url": "https://news.ycombinator.com/item?id=48065360"
     },
     {
+      "title": "Light without electricity? Glowing algae could make it possible",
+      "score": 20,
+      "url": "https://www.colorado.edu/today/2026/05/06/light-without-electricity-glowing-algae-could-make-it-possible",
+      "time": 1778095294.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48040470"
+    },
+    {
+      "title": "David Attenborough's 100th Birthday",
+      "score": 450,
+      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+      "time": 1778241806.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48061884"
+    },
+    {
+      "title": "When is your birthday? The math behind hash collisions",
+      "score": 20,
+      "url": "https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html",
+      "time": 1778271519.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48068254"
+    },
+    {
+      "title": "I built GitHub Store to 12,500 stars in 6 months – I started at 16",
+      "score": 4,
+      "url": "https://github-store.org/blog/how-i-built-github-store/",
+      "time": 1778288806.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48070721"
+    },
+    {
       "title": "Serving a website on a Raspberry Pi Zero running in RAM",
-      "score": 171,
+      "score": 191,
       "url": "https://btxx.org/posts/memory/",
       "time": 1778253035.0,
       "comments_url": "https://news.ycombinator.com/item?id=48064312"
     },
     {
-      "title": "David Attenborough's 100th Birthday",
-      "score": 299,
-      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
-      "time": 1778241806.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48061884"
+      "title": "An Introduction to Meshtastic",
+      "score": 372,
+      "url": "https://meshtastic.org/docs/introduction/",
+      "time": 1778239331.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48061566"
     },
     {
       "title": "Mux (YC W16) Is Hiring",
@@ -58,88 +114,32 @@
       "comments_url": "https://news.ycombinator.com/item?id=48068732"
     },
     {
-      "title": "An Introduction to Meshtastic",
-      "score": 341,
-      "url": "https://meshtastic.org/docs/introduction/",
-      "time": 1778239331.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48061566"
-    },
-    {
-      "title": "My first in-prod corrupted hard drive problem",
-      "score": 28,
-      "url": "https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/",
-      "time": 1778268936.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48067686"
-    },
-    {
-      "title": "All means are fair except solving the problem",
-      "score": 8,
-      "url": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
-      "time": 1778082745.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48037655"
+      "title": "Teaching Claude Why",
+      "score": 93,
+      "url": "https://www.anthropic.com/research/teaching-claude-why",
+      "time": 1778263181.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48066592"
     },
     {
       "title": "Looking at the data behind prediction markets",
-      "score": 11,
+      "score": 54,
       "url": "https://asteriskmag.com/issues/14/are-prediction-markets-good-for-anything",
       "time": 1778159559.0,
       "comments_url": "https://news.ycombinator.com/item?id=48049014"
     },
     {
-      "title": "AWS says data center overheating in North Virginia disrupts services",
-      "score": 23,
-      "url": "https://www.reuters.com/business/retail-consumer/amazon-cloud-unit-says-data-center-overheating-north-virginia-disrupts-services-2026-05-08/",
-      "time": 1778211118.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48058197"
+      "title": "Bitter Lessons from the ISSpresso",
+      "score": 5,
+      "url": "https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso",
+      "time": 1778094569.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48040306"
     },
     {
-      "title": "Roadside Attraction",
-      "score": 11,
-      "url": "https://theoffingmag.com/essay/roadside-attraction/",
-      "time": 1778269384.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48067764"
-    },
-    {
-      "title": "PC Engine CPU",
-      "score": 108,
-      "url": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
-      "time": 1778249671.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48063521"
-    },
-    {
-      "title": "Rumors of my death are slightly exaggerated",
-      "score": 1361,
-      "url": "https://news.ycombinator.com/item?id=48037336",
-      "time": 1778081091.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48037336"
-    },
-    {
-      "title": "Cloudflare to cut about 20% of its workforce",
-      "score": 1264,
-      "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-      "time": 1778185417.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48054423"
-    },
-    {
-      "title": "Man finds $1M worth of Yu-Gi-Oh cards in a dumpster",
-      "score": 73,
-      "url": "https://www.404media.co/man-finds-1-million-worth-of-yu-gi-oh-cards-in-a-dumpster/",
-      "time": 1778075660.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48036289"
-    },
-    {
-      "title": "Mojo 1.0 Beta",
-      "score": 238,
-      "url": "https://mojolang.org/",
-      "time": 1778208541.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48057901"
-    },
-    {
-      "title": "Show HN: GETadb.com – every GET request creates a DB",
-      "score": 19,
-      "url": "https://www.getadb.com/",
-      "time": 1778257057.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48065203"
+      "title": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
+      "score": 152,
+      "url": "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging",
+      "time": 1778276867.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48069192"
     }
   ]
 }
