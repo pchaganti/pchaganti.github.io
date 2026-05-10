@@ -1,82 +1,138 @@
 {
-  "last_updated": "2026-05-10T11:42:43.373026-04:00",
+  "last_updated": "2026-05-10T14:47:50.742672-04:00",
   "stories": [
     {
-      "title": "Space Cadet Pinball on Linux",
-      "score": 190,
-      "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
-      "time": 1778412122.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48082968"
+      "title": "Hardware Attestation as Monopoly Enabler",
+      "score": 161,
+      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+      "time": 1778435642.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48086190"
     },
     {
-      "title": "Louis Rossmann tells 3D printer maker Bambu Lab to 'Go (Bleep) yourself'",
-      "score": 87,
-      "url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
-      "time": 1778424425.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48084432"
+      "title": "Incident Report: CVE-2024-YIKES",
+      "score": 67,
+      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+      "time": 1778434990.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48086082"
     },
     {
-      "title": "What's a Mathematician to Do?",
-      "score": 58,
-      "url": "https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do",
-      "time": 1778412410.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48083007"
+      "title": "Tracesofhumanity.org by Joanna Rutkowska",
+      "score": 46,
+      "url": "https://tracesofhumanity.org/hello-world/",
+      "time": 1778433310.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48085782"
     },
     {
-      "title": "I returned to AWS, and was reminded why I left",
-      "score": 283,
+      "title": "Walking slower? Your ears, not your knees, might be the problem",
+      "score": 42,
+      "url": "https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a",
+      "time": 1778338188.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48075429"
+    },
+    {
+      "title": "I returned to AWS and was reminded why I left",
+      "score": 471,
       "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
       "time": 1778315861.0,
       "comments_url": "https://news.ycombinator.com/item?id=48073201"
     },
     {
-      "title": "Idempotency Is Easy Until the Second Request Is Different",
-      "score": 196,
+      "title": "Idempotency is easy until the second request is different",
+      "score": 231,
       "url": "https://blog.dochia.dev/blog/idempotency/",
       "time": 1778151748.0,
       "comments_url": "https://news.ycombinator.com/item?id=48047930"
     },
     {
+      "title": "What's a mathematician to do? (2010)",
+      "score": 108,
+      "url": "https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do",
+      "time": 1778412410.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48083007"
+    },
+    {
+      "title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
+      "score": 252,
+      "url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
+      "time": 1778424425.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48084432"
+    },
+    {
+      "title": "5x perf increase on writes with FPW disabled in Postgres",
+      "score": 34,
+      "url": "https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes",
+      "time": 1778255172.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48064789"
+    },
+    {
+      "title": "Space Cadet Pinball on Linux",
+      "score": 256,
+      "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
+      "time": 1778412122.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48082968"
+    },
+    {
+      "title": "The Locals Don't Know",
+      "score": 12,
+      "url": "https://www.quarter--mile.com/The-Locals-Dont-Know",
+      "time": 1778429017.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48085055"
+    },
+    {
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-      "score": 646,
+      "score": 677,
       "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
       "time": 1778321575.0,
       "comments_url": "https://news.ycombinator.com/item?id=48073680"
     },
     {
+      "title": "Stop MitM on the first SSH connection, on any VPS or cloud provider",
+      "score": 9,
+      "url": "https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html",
+      "time": 1778239598.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48061602"
+    },
+    {
+      "title": "Spain just became one of Europe's cheapest power markets. Here is how",
+      "score": 47,
+      "url": "https://janrosenow.substack.com/p/spain-just-became-one-of-europes",
+      "time": 1778430711.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48085330"
+    },
+    {
       "title": "The One Dollar Counterfeiter",
-      "score": 246,
+      "score": 280,
       "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
       "time": 1778157635.0,
       "comments_url": "https://news.ycombinator.com/item?id=48048684"
     },
     {
+      "title": "Shunting-Yard Animation",
+      "score": 25,
+      "url": "https://somethingorotherwhatever.com/shunting-yard-animation/",
+      "time": 1778425240.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48084547"
+    },
+    {
       "title": "Think Linear Algebra (2023)",
-      "score": 68,
+      "score": 107,
       "url": "https://allendowney.github.io/ThinkLinearAlgebra/index.html",
       "time": 1778406033.0,
       "comments_url": "https://news.ycombinator.com/item?id=48082396"
     },
     {
       "title": "Academic Research Skills for Claude Code",
-      "score": 24,
+      "score": 58,
       "url": "https://github.com/Imbad0202/academic-research-skills",
       "time": 1778420520.0,
       "comments_url": "https://news.ycombinator.com/item?id=48083919"
     },
     {
-      "title": "The River Otter's Remarkable Comeback",
-      "score": 35,
-      "url": "https://www.rewildingmag.com/the-river-otters-remarkable-comeback/",
-      "time": 1778162429.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48049577"
-    },
-    {
-      "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
-      "score": 237,
-      "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
-      "time": 1778155787.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48048407"
+      "title": "Show HN: An index of indie web/blog indexes",
+      "score": 34,
+      "url": "https://theindex.fyi",
+      "time": 1778417431.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48083580"
     },
     {
       "title": "9 Mothers (YC P26) Is Hiring",
@@ -84,62 +140,6 @@
       "url": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q",
       "time": 1778414411.0,
       "comments_url": "https://news.ycombinator.com/item?id=48083251"
-    },
-    {
-      "title": "Taxpayers May Be Eligible for Significant Tax Refunds – If They Act by July 10",
-      "score": 30,
-      "url": "https://www.taxpayeradvocate.irs.gov/news/nta-blog/tens-of-millions-of-taxpayers-may-be-eligible-for-significant-tax-refunds/2026/04/",
-      "time": 1778423836.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48084350"
-    },
-    {
-      "title": "Internet Archive Switzerland",
-      "score": 651,
-      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-      "time": 1778328030.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48074265"
-    },
-    {
-      "title": "I’ve banned query strings",
-      "score": 486,
-      "url": "https://chrismorgan.info/no-query-strings",
-      "time": 1778344116.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48076173"
-    },
-    {
-      "title": "We see something that works, and then we understand it",
-      "score": 154,
-      "url": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
-      "time": 1778080523.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48037223"
-    },
-    {
-      "title": "Gemini API File Search is now multimodal",
-      "score": 135,
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
-      "time": 1778383322.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48080702"
-    },
-    {
-      "title": "LLMorphism: When humans come to see themselves as language models",
-      "score": 55,
-      "url": "https://arxiv.org/abs/2605.05419",
-      "time": 1778401332.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48082021"
-    },
-    {
-      "title": "Replacing a 3 GB SQLite db with a 10 MB FST (finite state transducer) binary",
-      "score": 109,
-      "url": "https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/",
-      "time": 1778409186.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48082676"
-    },
-    {
-      "title": "Task Paralysis and AI",
-      "score": 98,
-      "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
-      "time": 1778394050.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48081469"
     }
   ]
 }
