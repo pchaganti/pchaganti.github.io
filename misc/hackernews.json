@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-05-10T01:55:53.706407-04:00",
+  "last_updated": "2026-05-10T03:58:43.453010-04:00",
   "stories": [
     {
       "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-      "score": 138,
+      "score": 219,
       "url": "https://github.com/imtomt/ymawky",
       "time": 1778382104.0,
       "comments_url": "https://news.ycombinator.com/item?id=48080587"
     },
     {
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-      "score": 488,
+      "score": 530,
       "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
       "time": 1778321575.0,
       "comments_url": "https://news.ycombinator.com/item?id=48073680"
     },
     {
-      "title": "Gemini API File Search is now multimodal",
-      "score": 43,
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
-      "time": 1778383322.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48080702"
-    },
-    {
-      "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
-      "score": 69,
-      "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
-      "time": 1778155787.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48048407"
-    },
-    {
       "title": "The One Dollar Counterfeiter",
-      "score": 34,
+      "score": 87,
       "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
       "time": 1778157635.0,
       "comments_url": "https://news.ycombinator.com/item?id=48048684"
     },
     {
-      "title": "Internet Archive Switzerland",
-      "score": 582,
-      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-      "time": 1778328030.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48074265"
-    },
-    {
       "title": "We see something that works, and then we understand it",
-      "score": 18,
+      "score": 65,
       "url": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
       "time": 1778080523.0,
       "comments_url": "https://news.ycombinator.com/item?id=48037223"
     },
     {
+      "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
+      "score": 100,
+      "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
+      "time": 1778155787.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48048407"
+    },
+    {
+      "title": "Gemini API File Search is now multimodal",
+      "score": 69,
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+      "time": 1778383322.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48080702"
+    },
+    {
+      "title": "Internet Archive Switzerland",
+      "score": 596,
+      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+      "time": 1778328030.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48074265"
+    },
+    {
+      "title": "Debian must ship reproducible packages",
+      "score": 74,
+      "url": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
+      "time": 1778390763.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48081245"
+    },
+    {
       "title": "I’ve banned query strings",
-      "score": 334,
+      "score": 375,
       "url": "https://chrismorgan.info/no-query-strings",
       "time": 1778344116.0,
       "comments_url": "https://news.ycombinator.com/item?id=48076173"
     },
     {
-      "title": "I'm writing a history of Visual Basic, Chapter 1 is up",
-      "score": 78,
-      "url": "https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch",
-      "time": 1778089949.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48039249"
-    },
-    {
       "title": "Local privilege escalation via execve()",
-      "score": 121,
+      "score": 137,
       "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
       "time": 1778358681.0,
       "comments_url": "https://news.ycombinator.com/item?id=48077971"
     },
     {
+      "title": "I'm writing a history of Visual Basic, Chapter 1 is up",
+      "score": 92,
+      "url": "https://evilgeniuslabs.ca/blog/visual-basic-history-chapter-1-launch",
+      "time": 1778089949.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48039249"
+    },
+    {
       "title": "Zed Editor Theme-Builder",
-      "score": 189,
+      "score": 203,
       "url": "https://zed.dev/theme-builder",
       "time": 1778347839.0,
       "comments_url": "https://news.ycombinator.com/item?id=48076651"
     },
     {
-      "title": "The Serial TTL connector we deserve",
-      "score": 76,
-      "url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
-      "time": 1778163595.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48049828"
-    },
-    {
-      "title": "Show HN: Rust but Lisp",
-      "score": 113,
-      "url": "https://github.com/ThatXliner/rust-but-lisp",
-      "time": 1778363187.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48078575"
-    },
-    {
       "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
-      "score": 130,
+      "score": 150,
       "url": "https://github.com/nooga/let-go",
       "time": 1778349133.0,
       "comments_url": "https://news.ycombinator.com/item?id=48076815"
     },
     {
-      "title": "The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962",
-      "score": 48,
-      "url": "https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html",
-      "time": 1778086803.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48038573"
-    },
-    {
       "title": "Making your own programming language is easier than you think (but also harder)",
-      "score": 75,
+      "score": 91,
       "url": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
       "time": 1778158881.0,
       "comments_url": "https://news.ycombinator.com/item?id=48048902"
     },
     {
-      "title": "Distributing Mac software is increasing my cortisol levels",
-      "score": 252,
-      "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
-      "time": 1778337658.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48075366"
-    },
-    {
-      "title": "LLMs corrupt your documents when you delegate",
-      "score": 384,
-      "url": "https://arxiv.org/abs/2604.15597",
-      "time": 1778316274.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48073246"
+      "title": "Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.",
+      "score": 11,
+      "url": "https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/",
+      "time": 1778388465.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48081094"
     },
     {
       "title": "A recent experience with ChatGPT 5.5 Pro",
-      "score": 622,
+      "score": 627,
       "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
       "time": 1778294502.0,
       "comments_url": "https://news.ycombinator.com/item?id=48071262"
     },
     {
-      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
-      "score": 116,
-      "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
-      "time": 1778346406.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48076465"
+      "title": "Distributing Mac software is increasing my cortisol levels",
+      "score": 276,
+      "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
+      "time": 1778337658.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48075366"
+    },
+    {
+      "title": "Show HN: Rust but Lisp",
+      "score": 125,
+      "url": "https://github.com/ThatXliner/rust-but-lisp",
+      "time": 1778363187.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48078575"
+    },
+    {
+      "title": "LLMs corrupt your documents when you delegate",
+      "score": 397,
+      "url": "https://arxiv.org/abs/2604.15597",
+      "time": 1778316274.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48073246"
+    },
+    {
+      "title": "EU Parliamentary Research Service calls VPNs \"a loophole that needs closing\"",
+      "score": 512,
+      "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
+      "time": 1778305932.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48072190"
     }
   ]
 }
