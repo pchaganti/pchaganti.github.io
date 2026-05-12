@@ -1,68 +1,110 @@
 {
-  "last_updated": "2026-05-12T09:56:14.531651-04:00",
+  "last_updated": "2026-05-12T13:02:20.893819-04:00",
   "stories": [
     {
-      "title": "Learning Software Architecture",
-      "score": 252,
-      "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
-      "time": 1778578221.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48106024"
-    },
-    {
       "title": "Rendering the Sky, Sunsets, and Planets",
-      "score": 8,
+      "score": 220,
       "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
       "time": 1778592406.0,
       "comments_url": "https://news.ycombinator.com/item?id=48107997"
     },
     {
+      "title": "Bambu Lab is abusing the open source social contract",
+      "score": 485,
+      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+      "time": 1778597681.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48109224"
+    },
+    {
+      "title": "Learning Software Architecture",
+      "score": 398,
+      "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
+      "time": 1778578221.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48106024"
+    },
+    {
+      "title": "The Future of Obsidian Plugins",
+      "score": 43,
+      "url": "https://obsidian.md/blog/future-of-plugins/",
+      "time": 1778600754.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48109970"
+    },
+    {
+      "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
+      "score": 49,
+      "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
+      "time": 1778603361.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48110529"
+    },
+    {
+      "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
+      "score": 12,
+      "url": "https://voker.ai",
+      "time": 1778600720.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48109962"
+    },
+    {
       "title": "Screenshots of Old Desktop OSes",
-      "score": 390,
+      "score": 535,
       "url": "http://www.typewritten.org/Media/",
       "time": 1778562684.0,
       "comments_url": "https://news.ycombinator.com/item?id=48104428"
     },
     {
-      "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
-      "score": 207,
-      "url": "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html",
-      "time": 1778583607.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48106534"
+      "title": "eBay Rejects GameStop's $56B Takeover as Not Credible",
+      "score": 94,
+      "url": "https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible",
+      "time": 1778600987.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48110021"
     },
     {
       "title": "Postmortem: TanStack NPM supply-chain compromise",
-      "score": 926,
+      "score": 997,
       "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
       "time": 1778533705.0,
       "comments_url": "https://news.ycombinator.com/item?id=48100706"
     },
     {
-      "title": "A HN post with negative points – how?",
-      "score": 52,
-      "url": "https://news.ycombinator.com/item?id=48104663",
-      "time": 1778581764.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48106316"
-    },
-    {
       "title": "Profiling.sampling – Statistical Profiler",
-      "score": 11,
+      "score": 64,
       "url": "https://docs.python.org/3.15/library/profiling.sampling.html#module-profiling.sampling",
       "time": 1778411943.0,
       "comments_url": "https://news.ycombinator.com/item?id=48082948"
     },
     {
-      "title": "Chasing Chicago's movable bridges (2014)",
-      "score": 28,
-      "url": "https://aresluna.org/seesaws-for-giants/",
-      "time": 1778376683.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48080111"
-    },
-    {
       "title": "They Live (1988) inspired Adblocker",
-      "score": 381,
+      "score": 479,
       "url": "https://github.com/davmlaw/they_live_adblocker",
       "time": 1778546274.0,
       "comments_url": "https://news.ycombinator.com/item?id=48102700"
+    },
+    {
+      "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
+      "score": 380,
+      "url": "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html",
+      "time": 1778583607.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48106534"
+    },
+    {
+      "title": "If AI writes your code, why use Python?",
+      "score": 755,
+      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+      "time": 1778532355.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48100433"
+    },
+    {
+      "title": "The Real Story of Troy",
+      "score": 4,
+      "url": "https://storica.club/blog/troy-was-real/",
+      "time": 1778368254.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48079202"
+    },
+    {
+      "title": "The Surprisingly Long Life of the Vacuum Tube",
+      "score": 29,
+      "url": "https://www.construction-physics.com/p/the-surprisingly-long-life-of-the",
+      "time": 1778513417.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48096328"
     },
     {
       "title": "Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship",
@@ -72,74 +114,32 @@
       "comments_url": "https://news.ycombinator.com/item?id=48107024"
     },
     {
-      "title": "If AI writes your code, why use Python?",
-      "score": 649,
-      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-      "time": 1778532355.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48100433"
+      "title": "Chasing Chicago's movable bridges (2014)",
+      "score": 55,
+      "url": "https://aresluna.org/seesaws-for-giants/",
+      "time": 1778376683.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48080111"
     },
     {
-      "title": "Optimize for change not application performance",
-      "score": 30,
-      "url": "https://www.echooff.dev/blog/developer-experience-is-a-performance-feature",
-      "time": 1778352301.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48077205"
+      "title": "Analysis points to a unexpected cause of reading difficulties",
+      "score": 18,
+      "url": "https://phys.org/news/2026-05-years-struggles-obvious-massive-analysis.html",
+      "time": 1778377549.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48080179"
+    },
+    {
+      "title": "Through the looking glass of benchmark hacking",
+      "score": 17,
+      "url": "https://poolside.ai/blog/through-the-looking-glass",
+      "time": 1778534676.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48100868"
     },
     {
       "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-      "score": 383,
+      "score": 411,
       "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
       "time": 1778521988.0,
       "comments_url": "https://news.ycombinator.com/item?id=48098261"
-    },
-    {
-      "title": "Coursera and Udemy are now one company",
-      "score": 81,
-      "url": "https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/",
-      "time": 1778582264.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48106367"
-    },
-    {
-      "title": "Rtwatch: Watch videos with friends using WebRTC",
-      "score": 54,
-      "url": "https://github.com/pion/rtwatch",
-      "time": 1778335754.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48075131"
-    },
-    {
-      "title": "Extremely Low Frequencies",
-      "score": 128,
-      "url": "https://computer.rip/2026-05-09-extremely-low-frequencies.html",
-      "time": 1778558375.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48104041"
-    },
-    {
-      "title": "UnDUNE II",
-      "score": 28,
-      "url": "https://liquidream.itch.io/undune2",
-      "time": 1778589525.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48107404"
-    },
-    {
-      "title": "Claude Platform on AWS",
-      "score": 178,
-      "url": "https://claude.com/blog/claude-platform-on-aws",
-      "time": 1778549069.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48103042"
-    },
-    {
-      "title": "I let AI build a tool to help me figure out what was waking me up at night",
-      "score": 221,
-      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
-      "time": 1778533450.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48100662"
-    },
-    {
-      "title": "Google says criminal hackers used AI to find a major software flaw",
-      "score": 211,
-      "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
-      "time": 1778505614.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48094641"
     }
   ]
 }
