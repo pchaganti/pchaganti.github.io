@@ -1,142 +1,142 @@
 {
-  "last_updated": "2026-05-11T17:57:31.019175-04:00",
+  "last_updated": "2026-05-11T22:07:30.381701-04:00",
   "stories": [
     {
-      "title": "TanStack NPM Packages Compromised",
-      "score": 71,
-      "url": "https://github.com/TanStack/router/issues/7383",
+      "title": "Postmortem: TanStack npm supply-chain compromise",
+      "score": 539,
+      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
       "time": 1778533705.0,
       "comments_url": "https://news.ycombinator.com/item?id=48100706"
     },
     {
-      "title": "Library for fast mapping of Java records to native memory",
-      "score": 73,
-      "url": "https://github.com/mamba-studio/TypedMemory",
-      "time": 1778528011.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48099616"
-    },
-    {
-      "title": "GitLab Announces Workforce Reduction and End of Their CREDIT Values",
-      "score": 49,
-      "url": "https://about.gitlab.com/blog/gitlab-act-2/",
-      "time": 1778532717.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48100500"
+      "title": "If AI writes your code, why use Python?",
+      "score": 165,
+      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+      "time": 1778532355.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48100433"
     },
     {
       "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-      "score": 94,
+      "score": 240,
       "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
       "time": 1778521988.0,
       "comments_url": "https://news.ycombinator.com/item?id=48098261"
     },
     {
-      "title": "Google says criminal hackers used AI to find a major software flaw",
-      "score": 31,
-      "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
-      "time": 1778505614.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48094641"
+      "title": "Library for fast mapping of Java records to native memory",
+      "score": 108,
+      "url": "https://github.com/mamba-studio/TypedMemory",
+      "time": 1778528011.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48099616"
     },
     {
       "title": "I let AI build a tool to help me figure out what was waking me up at night",
-      "score": 26,
+      "score": 75,
       "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
       "time": 1778533450.0,
       "comments_url": "https://news.ycombinator.com/item?id=48100662"
     },
     {
-      "title": "Nullsoft, 1997-2004 (2004)",
-      "score": 192,
-      "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
-      "time": 1778227244.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48060077"
-    },
-    {
-      "title": "Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?",
-      "score": 172,
-      "url": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
-      "time": 1778523158.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48098537"
+      "title": "GitLab announces workforce reduction and end of their CREDIT values",
+      "score": 326,
+      "url": "https://about.gitlab.com/blog/gitlab-act-2/",
+      "time": 1778532717.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48100500"
     },
     {
       "title": "Ratty – A terminal emulator with inline 3D graphics",
-      "score": 577,
+      "score": 613,
       "url": "https://ratty-term.org/",
       "time": 1778494384.0,
       "comments_url": "https://news.ycombinator.com/item?id=48093100"
     },
     {
+      "title": "Nullsoft, 1997-2004 (2004)",
+      "score": 225,
+      "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
+      "time": 1778227244.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48060077"
+    },
+    {
+      "title": "Griffin PowerMate driver for modern macOS",
+      "score": 43,
+      "url": "https://github.com/jameslockman/Griffin-PowerMate-Driver",
+      "time": 1778535338.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48100970"
+    },
+    {
       "title": "Gmail registration now requires scanning a QR code and sending a text message",
-      "score": 501,
+      "score": 564,
       "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
       "time": 1778484414.0,
       "comments_url": "https://news.ycombinator.com/item?id=48092028"
     },
     {
-      "title": "Interfaze: A new model architecture built for high accuracy at scale",
-      "score": 85,
-      "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
-      "time": 1778516551.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48097078"
+      "title": "Show HN: A modern Music Player Daemon based on Rockbox firmware",
+      "score": 10,
+      "url": "https://github.com/tsirysndr/rockbox-zig",
+      "time": 1778331813.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48074668"
+    },
+    {
+      "title": "Can we code our way out of gentrification?",
+      "score": 12,
+      "url": "https://www.freerange.city/p/can-we-code-our-way-out-of-gentrification",
+      "time": 1778543668.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48102360"
+    },
+    {
+      "title": "Google says criminal hackers used AI to find a major software flaw",
+      "score": 119,
+      "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+      "time": 1778505614.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48094641"
+    },
+    {
+      "title": "Silverback Imfura took a chance, and ended up alone",
+      "score": 31,
+      "url": "https://gorillafund.org/mountain-gorillas/silverback-imfura-took-a-chance-and-ended-up-alone/",
+      "time": 1778378779.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48080316"
+    },
+    {
+      "title": "Interaction Models",
+      "score": 91,
+      "url": "https://thinkingmachines.ai/blog/interaction-models/",
+      "time": 1778532817.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48100524"
     },
     {
       "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-      "score": 194,
+      "score": 216,
       "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
       "time": 1778432705.0,
       "comments_url": "https://news.ycombinator.com/item?id=48085685"
     },
     {
       "title": "The rise and fall of snake oil",
-      "score": 7,
+      "score": 28,
       "url": "https://www.historytoday.com/archive/history-matters/rise-and-fall-snake-oil",
       "time": 1778172191.0,
       "comments_url": "https://news.ycombinator.com/item?id=48051555"
     },
     {
-      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
-      "score": 1,
-      "url": "https://bild.ai/jobs",
-      "time": 1778521392.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48098122"
+      "title": "Interfaze: A new model architecture built for high accuracy at scale",
+      "score": 109,
+      "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
+      "time": 1778516551.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48097078"
     },
     {
-      "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
-      "score": 322,
-      "url": "https://nvlabs.github.io/cuda-oxide/index.html",
-      "time": 1778514907.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48096692"
-    },
-    {
-      "title": "Counting Fast in Erlang with:counters and:atomics",
-      "score": 53,
-      "url": "https://andrealeopardi.com/posts/erlang-counters-and-atomics/",
-      "time": 1778315217.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48073121"
-    },
-    {
-      "title": "AMÁLIA and the future of European Portuguese LLMs",
-      "score": 102,
-      "url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
-      "time": 1778258085.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48065429"
-    },
-    {
-      "title": "Linux Terminal Memory Usage",
-      "score": 22,
-      "url": "https://gilesorr.com/blog/linux-terminal-memory-usage.html",
-      "time": 1778528979.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48099790"
-    },
-    {
-      "title": "I hate soldering existentially",
-      "score": 16,
-      "url": "https://user8.bearblog.dev/rant/",
-      "time": 1778225197.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48059831"
+      "title": "Abstract Machines for Logic Programs",
+      "score": 13,
+      "url": "https://chrisistyping.bearblog.dev/abstract-machines-for-logic-programs/",
+      "time": 1778377749.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48080201"
     },
     {
       "title": "Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
-      "score": 10,
+      "score": 51,
       "url": "https://github.com/ab-613/opengravity",
       "time": 1778531005.0,
       "comments_url": "https://news.ycombinator.com/item?id=48100192"
