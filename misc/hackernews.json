@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-05-12T15:28:33.428111-04:00",
+  "last_updated": "2026-05-12T18:03:47.367701-04:00",
   "stories": [
     {
       "title": "Googlebook",
-      "score": 233,
+      "score": 452,
       "url": "https://googlebook.google/",
       "time": 1778607456.0,
       "comments_url": "https://news.ycombinator.com/item?id=48111545"
     },
     {
+      "title": "How to make your text look futuristic (2016)",
+      "score": 100,
+      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
+      "time": 1778616986.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48113895"
+    },
+    {
       "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
-      "score": 71,
+      "score": 165,
       "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
       "time": 1778609548.0,
       "comments_url": "https://news.ycombinator.com/item?id=48112042"
     },
     {
-      "title": "The Future of Obsidian Plugins",
-      "score": 158,
-      "url": "https://obsidian.md/blog/future-of-plugins/",
-      "time": 1778600754.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48109970"
-    },
-    {
-      "title": "Why senior developers fail to communicate their expertise",
-      "score": 150,
-      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-      "time": 1778598520.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48109460"
-    },
-    {
-      "title": "Rendering the Sky, Sunsets, and Planets",
-      "score": 321,
-      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-      "time": 1778592406.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48107997"
-    },
-    {
-      "title": "Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
-      "score": 27,
-      "url": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
-      "time": 1778608354.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48111748"
-    },
-    {
-      "title": "Instructure pays ransom to Canvas hackers",
-      "score": 150,
-      "url": "https://www.insidehighered.com/news/tech-innovation/administrative-tech/2026/05/11/instructure-pays-ransom-canvas-hackers",
-      "time": 1778554591.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48103668"
-    },
-    {
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "score": 24,
+      "score": 176,
       "url": "https://github.com/cactus-compute/needle",
       "time": 1778608991.0,
       "comments_url": "https://news.ycombinator.com/item?id=48111896"
     },
     {
-      "title": "Bambu Lab is abusing the open source social contract",
-      "score": 796,
-      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-      "time": 1778597681.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48109224"
+      "title": "Why senior developers fail to communicate their expertise",
+      "score": 267,
+      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+      "time": 1778598520.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48109460"
+    },
+    {
+      "title": "Quack: The DuckDB Client-Server Protocol",
+      "score": 114,
+      "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
+      "time": 1778608452.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48111765"
+    },
+    {
+      "title": "The Future of Obsidian Plugins",
+      "score": 245,
+      "url": "https://obsidian.md/blog/future-of-plugins/",
+      "time": 1778600754.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48109970"
+    },
+    {
+      "title": "Rendering the Sky, Sunsets, and Planets",
+      "score": 367,
+      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+      "time": 1778592406.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48107997"
     },
     {
       "title": "Reimagining the mouse pointer for the AI era",
-      "score": 45,
+      "score": 85,
       "url": "https://deepmind.google/blog/ai-pointer/",
       "time": 1778607613.0,
       "comments_url": "https://news.ycombinator.com/item?id=48111581"
     },
     {
       "title": "Learning Software Architecture",
-      "score": 446,
+      "score": 492,
       "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
       "time": 1778578221.0,
       "comments_url": "https://news.ycombinator.com/item?id=48106024"
     },
     {
-      "title": "When life gives you lemons, write better error messages",
-      "score": 54,
-      "url": "https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f",
-      "time": 1778275904.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48069032"
+      "title": "Beyond Semantic Similarity",
+      "score": 20,
+      "url": "https://arxiv.org/abs/2605.05242",
+      "time": 1778615501.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48113518"
     },
     {
-      "title": "Show HN: Agentic interface for mainframes and COBOL",
-      "score": 27,
-      "url": "https://www.hypercubic.ai/hopper",
-      "time": 1778605822.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48111143"
+      "title": "Is this why science advances one funeral at a time?",
+      "score": 13,
+      "url": "https://nautil.us/is-this-why-science-advances-one-funeral-at-a-time-1280650",
+      "time": 1778606219.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48111243"
     },
     {
-      "title": "Quack: The DuckDB Client-Server Protocol",
-      "score": 19,
-      "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
-      "time": 1778608452.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48111765"
+      "title": "Bambu Lab is abusing the open source social contract",
+      "score": 959,
+      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+      "time": 1778597681.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48109224"
+    },
+    {
+      "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
+      "score": 33,
+      "url": "https://voker.ai",
+      "time": 1778600720.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48109962"
+    },
+    {
+      "title": "Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
+      "score": 47,
+      "url": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
+      "time": 1778608354.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48111748"
     },
     {
       "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
-      "score": 20,
+      "score": 45,
       "url": "https://github.com/statewright/statewright",
       "time": 1778595895.0,
       "comments_url": "https://news.ycombinator.com/item?id=48108778"
     },
     {
       "title": "Screenshots of Old Desktop OSes",
-      "score": 579,
+      "score": 626,
       "url": "http://www.typewritten.org/Media/",
       "time": 1778562684.0,
       "comments_url": "https://news.ycombinator.com/item?id=48104428"
     },
     {
-      "title": "The Moth Story Map",
-      "score": 11,
-      "url": "https://themoth.org/dispatches/story-map",
-      "time": 1778279423.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48069562"
+      "title": "Riding the D in Los Angeles: city hopes new subway stations will be game changer",
+      "score": 27,
+      "url": "https://www.theguardian.com/us-news/2026/may/09/los-angeles-subway-public-transportation",
+      "time": 1778454593.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48089098"
     },
     {
-      "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
-      "score": 29,
-      "url": "https://voker.ai",
-      "time": 1778600720.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48109962"
+      "title": "Show HN: Agentic interface for mainframes and COBOL",
+      "score": 40,
+      "url": "https://www.hypercubic.ai/hopper",
+      "time": 1778605822.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48111143"
     },
     {
-      "title": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
-      "score": 76,
-      "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
-      "time": 1778607358.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48111531"
-    },
-    {
-      "title": "Postmortem: TanStack NPM supply-chain compromise",
-      "score": 1033,
-      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "time": 1778533705.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48100706"
+      "title": "When life gives you lemons, write better error messages",
+      "score": 85,
+      "url": "https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f",
+      "time": 1778275904.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48069032"
     }
   ]
 }
