@@ -1,68 +1,110 @@
 {
-  "last_updated": "2026-05-13T10:07:58.440048-04:00",
+  "last_updated": "2026-05-13T13:08:56.507751-04:00",
   "stories": [
     {
-      "title": "I Moved My Digital Stack to Europe",
-      "score": 357,
-      "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
-      "time": 1778672540.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48120629"
+      "title": "Setting up a free *.city.state.us locality domain",
+      "score": 221,
+      "url": "https://fredchan.org/blog/locality-domains-guide/",
+      "time": 1778683518.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48122635"
     },
     {
-      "title": "Why I'm leaving GitHub for Forgejo",
-      "score": 120,
+      "title": "Haiku",
+      "score": 52,
+      "url": "https://www.haiku-os.org",
+      "time": 1778689330.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48124002"
+    },
+    {
+      "title": "Open Source Resistance: keep OSS alive on company time",
+      "score": 76,
+      "url": "https://ossresistance.com/",
+      "time": 1778685217.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48123015"
+    },
+    {
+      "title": "S-100 Virtual Workbench",
+      "score": 32,
+      "url": "https://grantmestrength.github.io/S100/",
+      "time": 1778687520.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48123546"
+    },
+    {
+      "title": "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
+      "score": 8,
+      "url": "https://www.tryardent.com/",
+      "time": 1778691243.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48124436"
+    },
+    {
+      "title": "Xs of Y – roguelike that names itself every run. Written in 4kLoC",
+      "score": 38,
+      "url": "https://github.com/nooga/xsofy",
+      "time": 1778383979.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48080755"
+    },
+    {
+      "title": "Reverting the incremental GC in Python 3.14 and 3.15",
+      "score": 115,
+      "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
+      "time": 1778358355.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48077924"
+    },
+    {
+      "title": "Leaving GitHub for Forgejo",
+      "score": 368,
       "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
       "time": 1778676840.0,
       "comments_url": "https://news.ycombinator.com/item?id=48121266"
     },
     {
-      "title": "Preserving Fisher-Price Pixter",
-      "score": 101,
-      "url": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
-      "time": 1778482368.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48091812"
-    },
-    {
-      "title": "New stainless steel can survive conditions for hydrogen production in seawater",
-      "score": 157,
-      "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
-      "time": 1778461559.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48089921"
-    },
-    {
       "title": "An idiot's guide to lead optimisation for proteins",
-      "score": 19,
+      "score": 86,
       "url": "https://magnusross.github.io/posts/protein-lead-optimisation-1/",
       "time": 1778498493.0,
       "comments_url": "https://news.ycombinator.com/item?id=48093578"
     },
     {
-      "title": "Dutch suicide prevention website shares data with tech companies without consent",
-      "score": 66,
-      "url": "https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies",
-      "time": 1778677062.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48121299"
+      "title": "The US is winning the AI race where it matters most: commercialization",
+      "score": 44,
+      "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+      "time": 1778680433.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48121929"
     },
     {
-      "title": "Restore full BambuNetwork support for Bambu Lab printers",
-      "score": 541,
-      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-      "time": 1778622921.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48115127"
+      "title": "A History of IDEs at Google",
+      "score": 9,
+      "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
+      "time": 1778325258.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48073979"
     },
     {
-      "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
-      "score": 243,
-      "url": "https://arxiv.org/abs/2605.08419",
-      "time": 1778646303.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48117810"
+      "title": "New stainless steel can survive conditions for hydrogen production in seawater",
+      "score": 224,
+      "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
+      "time": 1778461559.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48089921"
     },
     {
-      "title": "Web Server on a Nintendo Wii",
-      "score": 48,
-      "url": "http://wii.sjmulder.nl/",
-      "time": 1778362336.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48078452"
+      "title": "Heritability of human life span is ~50% when heritability is redefined",
+      "score": 31,
+      "url": "https://dynomight.net/lifespan/",
+      "time": 1778599805.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48109772"
+    },
+    {
+      "title": "Preserving Fisher-Price Pixter",
+      "score": 156,
+      "url": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
+      "time": 1778482368.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48091812"
+    },
+    {
+      "title": "I moved my digital stack to Europe",
+      "score": 652,
+      "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
+      "time": 1778672540.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48120629"
     },
     {
       "title": "Substrate (YC S24) Is Hiring a Technical Success Manager",
@@ -72,74 +114,32 @@
       "comments_url": "https://news.ycombinator.com/item?id=48120776"
     },
     {
+      "title": "50K Tahoe residents need power as utility eyes redirecting lines to data centers",
+      "score": 55,
+      "url": "https://fortune.com/2026/05/12/lake-tahoe-data-center-49000-residents-power-source/",
+      "time": 1778685521.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48123090"
+    },
+    {
+      "title": "Kickstarter is forced to ban adult content by payment processors",
+      "score": 175,
+      "url": "https://kotaku.com/kickstarter-is-the-latest-platform-seemingly-forced-to-ban-adult-content-by-payment-processors-2000695648",
+      "time": 1778685987.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48123198"
+    },
+    {
+      "title": "Restore full BambuNetwork support for Bambu Lab printers",
+      "score": 608,
+      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+      "time": 1778622921.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48115127"
+    },
+    {
       "title": "Googlebook",
-      "score": 846,
+      "score": 882,
       "url": "https://googlebook.google/",
       "time": 1778607456.0,
       "comments_url": "https://news.ycombinator.com/item?id=48111545"
-    },
-    {
-      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "score": 543,
-      "url": "https://github.com/cactus-compute/needle",
-      "time": 1778608991.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48111896"
-    },
-    {
-      "title": "Using OR-Tools CP-SAT for Scheduling Problems",
-      "score": 27,
-      "url": "https://atalaykutlay.com/or-tools-cp-sat-for-scheduling-problems.html",
-      "time": 1778670177.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48120351"
-    },
-    {
-      "title": "Cost of enum-to-string: C++26 reflection vs. the old ways",
-      "score": 33,
-      "url": "https://vittorioromeo.com/index/blog/refl_enum_to_string.html",
-      "time": 1778661690.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48119326"
-    },
-    {
-      "title": "Reverting the incremental GC in Python 3.14 and 3.15",
-      "score": 9,
-      "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
-      "time": 1778358355.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48077924"
-    },
-    {
-      "title": "The Boring Part of Bell Labs (2025)",
-      "score": 62,
-      "url": "https://acesounderglass.com/2025/11/15/the-boring-part-of-bell-labs/",
-      "time": 1778245219.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48062447"
-    },
-    {
-      "title": "How to make your text look futuristic (2016)",
-      "score": 413,
-      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-      "time": 1778616986.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48113895"
-    },
-    {
-      "title": "Why senior developers fail to communicate their expertise",
-      "score": 668,
-      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-      "time": 1778598520.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48109460"
-    },
-    {
-      "title": "Software Developers Say AI Is Rotting Their Brains",
-      "score": 21,
-      "url": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/",
-      "time": 1778679291.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48121717"
-    },
-    {
-      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
-      "score": 346,
-      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-      "time": 1778609548.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48112042"
     }
   ]
 }
