@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-05-13T07:25:23.306768-04:00",
+  "last_updated": "2026-05-13T10:07:58.440048-04:00",
   "stories": [
     {
-      "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
-      "score": 209,
-      "url": "https://arxiv.org/abs/2605.08419",
-      "time": 1778646303.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48117810"
+      "title": "I Moved My Digital Stack to Europe",
+      "score": 357,
+      "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
+      "time": 1778672540.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48120629"
     },
     {
-      "title": "Restore full BambuNetwork support for Bambu Lab printers",
-      "score": 465,
-      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-      "time": 1778622921.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48115127"
+      "title": "Why I'm leaving GitHub for Forgejo",
+      "score": 120,
+      "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
+      "time": 1778676840.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48121266"
+    },
+    {
+      "title": "Preserving Fisher-Price Pixter",
+      "score": 101,
+      "url": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
+      "time": 1778482368.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48091812"
     },
     {
       "title": "New stainless steel can survive conditions for hydrogen production in seawater",
-      "score": 75,
+      "score": 157,
       "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
       "time": 1778461559.0,
       "comments_url": "https://news.ycombinator.com/item?id=48089921"
     },
     {
+      "title": "An idiot's guide to lead optimisation for proteins",
+      "score": 19,
+      "url": "https://magnusross.github.io/posts/protein-lead-optimisation-1/",
+      "time": 1778498493.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48093578"
+    },
+    {
+      "title": "Dutch suicide prevention website shares data with tech companies without consent",
+      "score": 66,
+      "url": "https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies",
+      "time": 1778677062.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48121299"
+    },
+    {
+      "title": "Restore full BambuNetwork support for Bambu Lab printers",
+      "score": 541,
+      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+      "time": 1778622921.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48115127"
+    },
+    {
+      "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
+      "score": 243,
+      "url": "https://arxiv.org/abs/2605.08419",
+      "time": 1778646303.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48117810"
+    },
+    {
+      "title": "Web Server on a Nintendo Wii",
+      "score": 48,
+      "url": "http://wii.sjmulder.nl/",
+      "time": 1778362336.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48078452"
+    },
+    {
+      "title": "Substrate (YC S24) Is Hiring a Technical Success Manager",
+      "score": 1,
+      "url": "https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager",
+      "time": 1778673630.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48120776"
+    },
+    {
       "title": "Googlebook",
-      "score": 807,
+      "score": 846,
       "url": "https://googlebook.google/",
       "time": 1778607456.0,
       "comments_url": "https://news.ycombinator.com/item?id=48111545"
     },
     {
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "score": 492,
+      "score": 543,
       "url": "https://github.com/cactus-compute/needle",
       "time": 1778608991.0,
       "comments_url": "https://news.ycombinator.com/item?id=48111896"
     },
     {
+      "title": "Using OR-Tools CP-SAT for Scheduling Problems",
+      "score": 27,
+      "url": "https://atalaykutlay.com/or-tools-cp-sat-for-scheduling-problems.html",
+      "time": 1778670177.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48120351"
+    },
+    {
+      "title": "Cost of enum-to-string: C++26 reflection vs. the old ways",
+      "score": 33,
+      "url": "https://vittorioromeo.com/index/blog/refl_enum_to_string.html",
+      "time": 1778661690.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48119326"
+    },
+    {
+      "title": "Reverting the incremental GC in Python 3.14 and 3.15",
+      "score": 9,
+      "url": "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014",
+      "time": 1778358355.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48077924"
+    },
+    {
       "title": "The Boring Part of Bell Labs (2025)",
-      "score": 23,
+      "score": 62,
       "url": "https://acesounderglass.com/2025/11/15/the-boring-part-of-bell-labs/",
       "time": 1778245219.0,
       "comments_url": "https://news.ycombinator.com/item?id=48062447"
     },
     {
       "title": "How to make your text look futuristic (2016)",
-      "score": 370,
+      "score": 413,
       "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
       "time": 1778616986.0,
       "comments_url": "https://news.ycombinator.com/item?id=48113895"
     },
     {
-      "title": "SecurityBaseline.eu",
-      "score": 169,
-      "url": "https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/",
-      "time": 1778656277.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48118763"
-    },
-    {
       "title": "Why senior developers fail to communicate their expertise",
-      "score": 610,
+      "score": 668,
       "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
       "time": 1778598520.0,
       "comments_url": "https://news.ycombinator.com/item?id=48109460"
     },
     {
-      "title": "The vi family",
-      "score": 188,
-      "url": "https://lpar.ATH0.com/posts/2026/05/the-vi-family/",
-      "time": 1778053876.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48033483"
+      "title": "Software Developers Say AI Is Rotting Their Brains",
+      "score": 21,
+      "url": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/",
+      "time": 1778679291.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48121717"
     },
     {
       "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
-      "score": 325,
+      "score": 346,
       "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
       "time": 1778609548.0,
       "comments_url": "https://news.ycombinator.com/item?id=48112042"
-    },
-    {
-      "title": "Preserving Fisher-Price Pixter",
-      "score": 9,
-      "url": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
-      "time": 1778482368.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48091812"
-    },
-    {
-      "title": "Kraftwerk's radical 1976 track",
-      "score": 169,
-      "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
-      "time": 1778627581.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48115823"
-    },
-    {
-      "title": "Traceway: MIT-licensed observability stack you can self-host in ~90s",
-      "score": 121,
-      "url": "https://github.com/tracewayapp/traceway",
-      "time": 1778483101.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48091898"
-    },
-    {
-      "title": "Scrcpy v4.0",
-      "score": 218,
-      "url": "https://github.com/Genymobile/scrcpy/releases/tag/v4.0",
-      "time": 1778619002.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48114356"
-    },
-    {
-      "title": "When “idle” isn't idle: how a Linux kernel optimization became a QUIC bug",
-      "score": 102,
-      "url": "https://blog.cloudflare.com/quic-death-spiral-fix/",
-      "time": 1778629588.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48116064"
-    },
-    {
-      "title": "Rendering the Sky, Sunsets, and Planets",
-      "score": 483,
-      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-      "time": 1778592406.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48107997"
-    },
-    {
-      "title": "Quack: The DuckDB Client-Server Protocol",
-      "score": 299,
-      "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
-      "time": 1778608452.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48111765"
-    },
-    {
-      "title": "My graduation cap runs Rust",
-      "score": 160,
-      "url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
-      "time": 1778630661.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48116207"
-    },
-    {
-      "title": "The Future of Obsidian Plugins",
-      "score": 386,
-      "url": "https://obsidian.md/blog/future-of-plugins/",
-      "time": 1778600754.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48109970"
     }
   ]
 }
