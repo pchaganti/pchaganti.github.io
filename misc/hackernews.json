@@ -1,61 +1,110 @@
 {
-  "last_updated": "2026-05-15T09:44:13.464243-04:00",
+  "last_updated": "2026-05-15T12:46:38.232148-04:00",
   "stories": [
     {
+      "title": "Project Gutenberg – keeps getting better",
+      "score": 59,
+      "url": "https://www.gutenberg.org/",
+      "time": 1778861736.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48150431"
+    },
+    {
+      "title": "A 0-click exploit chain for the Pixel 10",
+      "score": 157,
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "time": 1778852394.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48148460"
+    },
+    {
+      "title": "I love Linux, but I can't quit Windows",
+      "score": 24,
+      "url": "https://jpain.io/i-love-linux-but-i-cant-quit-windows/",
+      "time": 1778861633.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48150414"
+    },
+    {
+      "title": "I built Zenith: a live local-first fixed viewport planetarium",
+      "score": 21,
+      "url": "https://smorgasb.org/zenith-tech/",
+      "time": 1778859911.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48150097"
+    },
+    {
+      "title": "The sigmoids won't save you",
+      "score": 20,
+      "url": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
+      "time": 1778842273.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48147021"
+    },
+    {
       "title": "O(x)Caml in Space",
-      "score": 121,
+      "score": 181,
       "url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
       "time": 1778842551.0,
       "comments_url": "https://news.ycombinator.com/item?id=48147058"
     },
     {
-      "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
-      "score": 221,
-      "url": "https://github.com/Andyyyy64/whichllm",
-      "time": 1778836764.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48146369"
+      "title": "ASCII by Jason Scott",
+      "score": 61,
+      "url": "https://ascii.textfiles.com/",
+      "time": 1778853756.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48148726"
     },
     {
       "title": "Explore Wikipedia Like a Windows XP Desktop",
-      "score": 258,
+      "score": 353,
       "url": "https://explorer.samismith.com/",
       "time": 1778834736.0,
       "comments_url": "https://news.ycombinator.com/item?id=48146129"
     },
     {
-      "title": "Welcome to the Strip Mining Era of OSS Security",
-      "score": 46,
-      "url": "https://www.metabase.com/blog/strip-mining-era-of-open-source-security",
-      "time": 1778845037.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48147339"
+      "title": "High dimensional geometry is transforming the MRI industry(2017) [pdf]",
+      "score": 45,
+      "url": "https://www.ams.org/government/DonohoPresentation06-28-17Final.pdf",
+      "time": 1778851553.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48148309"
     },
     {
       "title": "Radicle: Sovereign {code forge} built on Git",
-      "score": 46,
+      "score": 129,
       "url": "https://radicle.dev/",
       "time": 1778846875.0,
       "comments_url": "https://news.ycombinator.com/item?id=48147603"
     },
     {
+      "title": "Show HN: Watch a neural net learn to play Snake",
+      "score": 20,
+      "url": "https://ppo.gradexp.xyz/",
+      "time": 1778772914.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48136981"
+    },
+    {
+      "title": "A new book on Steve Jobs at NeXT",
+      "score": 103,
+      "url": "https://spectrum.ieee.org/steve-jobs-next-computer",
+      "time": 1778841298.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48146908"
+    },
+    {
       "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-      "score": 940,
+      "score": 995,
       "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
       "time": 1778778480.0,
       "comments_url": "https://news.ycombinator.com/item?id=48138136"
     },
     {
+      "title": "Amazon workers under pressure to up their AI usage are making up tasks",
+      "score": 153,
+      "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+      "time": 1778851735.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48148337"
+    },
+    {
       "title": "UK government replaces Palantir software with internally-built refugee system",
-      "score": 363,
+      "score": 456,
       "url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o",
       "time": 1778798656.0,
       "comments_url": "https://news.ycombinator.com/item?id=48142251"
-    },
-    {
-      "title": "Cursing the government does not fix potholes. Spray-painting them does",
-      "score": 35,
-      "url": "https://imagenotfound.writeas.com/the-holes-we-painted-and-why-we-did-it-anyway",
-      "time": 1778849677.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48147988"
     },
     {
       "title": "SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles",
@@ -65,81 +114,32 @@
       "comments_url": "https://news.ycombinator.com/item?id=48147533"
     },
     {
+      "title": "We are retiring our bug bounty program",
+      "score": 292,
+      "url": "https://turso.tech/blog/the-wonders-of-ai",
+      "time": 1778851995.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48148391"
+    },
+    {
       "title": "A few words on DS4",
-      "score": 362,
+      "score": 388,
       "url": "https://antirez.com/news/165",
       "time": 1778797752.0,
       "comments_url": "https://news.ycombinator.com/item?id=48142108"
     },
     {
-      "title": "Bitwarden scrubs 'Always free' and 'Inclusion' values from its site",
-      "score": 59,
-      "url": "https://www.fastcompany.com/91542655/bitwarden-scrubs-always-free-and-inclusion-values-from-its-website-as-longtime-execs-step-down",
-      "time": 1778847098.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48147637"
+      "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
+      "score": 4,
+      "url": "https://github.com/neilsonnn/image-blaster",
+      "time": 1778859757.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48150069"
     },
     {
-      "title": "NanoTDB – Golang Append-Only Time Series DB",
-      "score": 12,
-      "url": "https://github.com/aymanhs/nanotdb",
-      "time": 1778841111.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48146877"
-    },
-    {
-      "title": "Building ML framework with Rust and Category Theory",
-      "score": 58,
-      "url": "https://hghalebi.github.io/category_theory_transformer_rs/",
-      "time": 1778775868.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48137629"
-    },
-    {
-      "title": "Details of the Daring Airdrop at Tristan Da Cunha",
-      "score": 188,
-      "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
-      "time": 1778817374.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48144380"
-    },
-    {
-      "title": "The old world of tech is dying and the new cannot be born",
-      "score": 34,
-      "url": "https://www.baldurbjarnason.com/2026/the-old-world-of-tech-is-dying/",
-      "time": 1778848187.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48147793"
-    },
-    {
-      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-      "score": 638,
-      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-      "time": 1778773651.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48137145"
-    },
-    {
-      "title": "First public macOS kernel memory corruption exploit on Apple M5",
-      "score": 393,
-      "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
-      "time": 1778783109.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48139219"
-    },
-    {
-      "title": "Gyroflow: Video stabilization using gyroscope data",
-      "score": 121,
-      "url": "https://github.com/gyroflow/gyroflow",
-      "time": 1778591476.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48107766"
-    },
-    {
-      "title": "Codex is now in the ChatGPT mobile app",
-      "score": 383,
-      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
-      "time": 1778789174.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48140529"
-    },
-    {
-      "title": "New Nginx Exploit",
-      "score": 402,
-      "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
-      "time": 1778779068.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48138268"
+      "title": "Trade Dollars with other startups. Book it as revenue",
+      "score": 129,
+      "url": "https://www.revswap.ai/",
+      "time": 1778850329.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48148084"
     }
   ]
 }
