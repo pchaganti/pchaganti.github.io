@@ -1,75 +1,110 @@
 {
-  "last_updated": "2026-05-15T15:17:37.668831-04:00",
+  "last_updated": "2026-05-15T17:50:19.561497-04:00",
   "stories": [
     {
       "title": "Project Gutenberg – keeps getting better",
-      "score": 371,
+      "score": 560,
       "url": "https://www.gutenberg.org/",
       "time": 1778861736.0,
       "comments_url": "https://news.ycombinator.com/item?id=48150431"
     },
     {
+      "title": "WinCE64 – Windows CE 2.11 for N64",
+      "score": 95,
+      "url": "https://github.com/ThroatyMumbo/WinCE64",
+      "time": 1778873009.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48152729"
+    },
+    {
+      "title": "Mitchellh – I strongly believe there are entire companies now under AI psychosis",
+      "score": 252,
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "time": 1778876807.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48153379"
+    },
+    {
+      "title": "The Zulip Foundation",
+      "score": 104,
+      "url": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
+      "time": 1778870221.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48152168"
+    },
+    {
       "title": "A 0-click exploit chain for the Pixel 10",
-      "score": 241,
+      "score": 293,
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
       "time": 1778852394.0,
       "comments_url": "https://news.ycombinator.com/item?id=48148460"
     },
     {
-      "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
-      "score": 39,
-      "url": "https://github.com/gdevic/FPGA-Calculator",
-      "time": 1778865358.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48151237"
+      "title": "Palantir has hired more than 30 senior UK Government officials",
+      "score": 102,
+      "url": "https://www.thenational.scot/news/26055524.palantir-hired-30-senior-uk-government-officials/",
+      "time": 1778875611.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48153183"
     },
     {
-      "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
-      "score": 179,
-      "url": "https://github.com/oven-sh/bun/issues/30719",
-      "time": 1778863885.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48150900"
+      "title": "California bill would require patches or refunds when online games shut down",
+      "score": 117,
+      "url": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
+      "time": 1778874528.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48152994"
+    },
+    {
+      "title": "Microscale Thermite Reaction",
+      "score": 31,
+      "url": "https://sciencedemonstrations.fas.harvard.edu/presentations/microscale-thermite-reaction",
+      "time": 1778875397.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48153142"
     },
     {
       "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
-      "score": 143,
+      "score": 283,
       "url": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
       "time": 1778866104.0,
       "comments_url": "https://news.ycombinator.com/item?id=48151383"
     },
     {
+      "title": "Waymo updates 3,800 robotaxis after they 'drive into standing water'",
+      "score": 116,
+      "url": "https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html",
+      "time": 1778868043.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48151767"
+    },
+    {
+      "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
+      "score": 59,
+      "url": "https://github.com/gdevic/FPGA-Calculator",
+      "time": 1778865358.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48151237"
+    },
+    {
+      "title": "The sigmoids won't save you",
+      "score": 87,
+      "url": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
+      "time": 1778842273.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48147021"
+    },
+    {
+      "title": "ABC News has taken all FiveThirtyEight articles offline",
+      "score": 138,
+      "url": "https://twitter.com/baseballot/status/2055309076209492208",
+      "time": 1778872028.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48152553"
+    },
+    {
       "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
-      "score": 55,
+      "score": 94,
       "url": "https://github.com/neilsonnn/image-blaster",
       "time": 1778859757.0,
       "comments_url": "https://news.ycombinator.com/item?id=48150069"
     },
     {
-      "title": "Show HN: Watch a neural net learn to play Snake",
-      "score": 65,
-      "url": "https://ppo.gradexp.xyz/",
-      "time": 1778772914.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48136981"
-    },
-    {
-      "title": "O(x)Caml in Space",
-      "score": 200,
-      "url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
-      "time": 1778842551.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48147058"
-    },
-    {
-      "title": "I built Zenith: a live local-first fixed viewport planetarium",
-      "score": 46,
-      "url": "https://smorgasb.org/zenith-tech/",
-      "time": 1778859911.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48150097"
-    },
-    {
-      "title": "Explore Wikipedia Like a Windows XP Desktop",
-      "score": 412,
-      "url": "https://explorer.samismith.com/",
-      "time": 1778834736.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48146129"
+      "title": "Meta to receive $3.3B in tax breaks for its $10B Louisiana data center",
+      "score": 107,
+      "url": "https://fortune.com/2026/05/14/meta-data-center-tax-break-hyperion-louisiana/",
+      "time": 1778873554.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48152825"
     },
     {
       "title": "Hightouch (YC S19) Is Hiring",
@@ -79,67 +114,32 @@
       "comments_url": "https://news.ycombinator.com/item?id=48151034"
     },
     {
-      "title": "ASCII by Jason Scott",
-      "score": 101,
-      "url": "https://ascii.textfiles.com/",
-      "time": 1778853756.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48148726"
-    },
-    {
-      "title": "Radicle: Sovereign {code forge} built on Git",
-      "score": 172,
-      "url": "https://radicle.dev/",
-      "time": 1778846875.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48147603"
-    },
-    {
-      "title": "High dimensional geometry is transforming the MRI industry (2017) [pdf]",
-      "score": 65,
-      "url": "https://www.ams.org/government/DonohoPresentation06-28-17Final.pdf",
-      "time": 1778851553.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48148309"
-    },
-    {
-      "title": "Waymo recalls 3,800 robotaxis after they drive into flood waters",
-      "score": 38,
-      "url": "https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html",
-      "time": 1778868043.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48151767"
-    },
-    {
-      "title": "Feedr v0.8.0 – a TUI RSS reader, now read the full article from your terminal",
-      "score": 12,
-      "url": "https://github.com/bahdotsh/feedr",
-      "time": 1778865773.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48151317"
-    },
-    {
-      "title": "A new book on Steve Jobs at NeXT",
-      "score": 132,
-      "url": "https://spectrum.ieee.org/steve-jobs-next-computer",
-      "time": 1778841298.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48146908"
-    },
-    {
-      "title": "Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands",
-      "score": 16,
-      "url": "https://github.com/sleuth-io/sx",
-      "time": 1778864602.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48151058"
-    },
-    {
-      "title": "Amazon workers under pressure to up their AI usage are making up tasks",
-      "score": 242,
-      "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
-      "time": 1778851735.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48148337"
+      "title": "London Police Deploy Facial Recognition at Protest for First Time",
+      "score": 42,
+      "url": "https://reclaimthenet.org/london-police-deploy-facial-recognition-at-protest-for-first-time",
+      "time": 1778876924.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48153400"
     },
     {
       "title": "The nuclear-physics infrastructure behind PET scans",
-      "score": 3,
+      "score": 25,
       "url": "https://www.lanl.gov/media/publications/1663/proton-power-for-public-health",
       "time": 1778681592.0,
       "comments_url": "https://news.ycombinator.com/item?id=48122172"
+    },
+    {
+      "title": "Explore Wikipedia Like a Windows XP Desktop",
+      "score": 448,
+      "url": "https://explorer.samismith.com/",
+      "time": 1778834736.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48146129"
+    },
+    {
+      "title": "O(x)Caml in Space",
+      "score": 217,
+      "url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
+      "time": 1778842551.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48147058"
     }
   ]
 }
