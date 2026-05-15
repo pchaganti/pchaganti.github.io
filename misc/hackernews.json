@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-05-15T12:46:38.232148-04:00",
+  "last_updated": "2026-05-15T15:17:37.668831-04:00",
   "stories": [
     {
       "title": "Project Gutenberg – keeps getting better",
-      "score": 59,
+      "score": 371,
       "url": "https://www.gutenberg.org/",
       "time": 1778861736.0,
       "comments_url": "https://news.ycombinator.com/item?id=48150431"
     },
     {
       "title": "A 0-click exploit chain for the Pixel 10",
-      "score": 157,
+      "score": 241,
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
       "time": 1778852394.0,
       "comments_url": "https://news.ycombinator.com/item?id=48148460"
     },
     {
-      "title": "I love Linux, but I can't quit Windows",
-      "score": 24,
-      "url": "https://jpain.io/i-love-linux-but-i-cant-quit-windows/",
-      "time": 1778861633.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48150414"
+      "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
+      "score": 39,
+      "url": "https://github.com/gdevic/FPGA-Calculator",
+      "time": 1778865358.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48151237"
     },
     {
-      "title": "I built Zenith: a live local-first fixed viewport planetarium",
-      "score": 21,
-      "url": "https://smorgasb.org/zenith-tech/",
-      "time": 1778859911.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48150097"
+      "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+      "score": 179,
+      "url": "https://github.com/oven-sh/bun/issues/30719",
+      "time": 1778863885.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48150900"
     },
     {
-      "title": "The sigmoids won't save you",
-      "score": 20,
-      "url": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
-      "time": 1778842273.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48147021"
-    },
-    {
-      "title": "O(x)Caml in Space",
-      "score": 181,
-      "url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
-      "time": 1778842551.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48147058"
-    },
-    {
-      "title": "ASCII by Jason Scott",
-      "score": 61,
-      "url": "https://ascii.textfiles.com/",
-      "time": 1778853756.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48148726"
-    },
-    {
-      "title": "Explore Wikipedia Like a Windows XP Desktop",
-      "score": 353,
-      "url": "https://explorer.samismith.com/",
-      "time": 1778834736.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48146129"
-    },
-    {
-      "title": "High dimensional geometry is transforming the MRI industry(2017) [pdf]",
-      "score": 45,
-      "url": "https://www.ams.org/government/DonohoPresentation06-28-17Final.pdf",
-      "time": 1778851553.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48148309"
-    },
-    {
-      "title": "Radicle: Sovereign {code forge} built on Git",
-      "score": 129,
-      "url": "https://radicle.dev/",
-      "time": 1778846875.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48147603"
-    },
-    {
-      "title": "Show HN: Watch a neural net learn to play Snake",
-      "score": 20,
-      "url": "https://ppo.gradexp.xyz/",
-      "time": 1778772914.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48136981"
-    },
-    {
-      "title": "A new book on Steve Jobs at NeXT",
-      "score": 103,
-      "url": "https://spectrum.ieee.org/steve-jobs-next-computer",
-      "time": 1778841298.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48146908"
-    },
-    {
-      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-      "score": 995,
-      "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "time": 1778778480.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48138136"
-    },
-    {
-      "title": "Amazon workers under pressure to up their AI usage are making up tasks",
-      "score": 153,
-      "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
-      "time": 1778851735.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48148337"
-    },
-    {
-      "title": "UK government replaces Palantir software with internally-built refugee system",
-      "score": 456,
-      "url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o",
-      "time": 1778798656.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48142251"
-    },
-    {
-      "title": "SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles",
-      "score": 1,
-      "url": "https://signoz.io/careers",
-      "time": 1778846431.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48147533"
-    },
-    {
-      "title": "We are retiring our bug bounty program",
-      "score": 292,
-      "url": "https://turso.tech/blog/the-wonders-of-ai",
-      "time": 1778851995.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48148391"
-    },
-    {
-      "title": "A few words on DS4",
-      "score": 388,
-      "url": "https://antirez.com/news/165",
-      "time": 1778797752.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48142108"
+      "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
+      "score": 143,
+      "url": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
+      "time": 1778866104.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48151383"
     },
     {
       "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
-      "score": 4,
+      "score": 55,
       "url": "https://github.com/neilsonnn/image-blaster",
       "time": 1778859757.0,
       "comments_url": "https://news.ycombinator.com/item?id=48150069"
     },
     {
-      "title": "Trade Dollars with other startups. Book it as revenue",
-      "score": 129,
-      "url": "https://www.revswap.ai/",
-      "time": 1778850329.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48148084"
+      "title": "Show HN: Watch a neural net learn to play Snake",
+      "score": 65,
+      "url": "https://ppo.gradexp.xyz/",
+      "time": 1778772914.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48136981"
+    },
+    {
+      "title": "O(x)Caml in Space",
+      "score": 200,
+      "url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
+      "time": 1778842551.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48147058"
+    },
+    {
+      "title": "I built Zenith: a live local-first fixed viewport planetarium",
+      "score": 46,
+      "url": "https://smorgasb.org/zenith-tech/",
+      "time": 1778859911.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48150097"
+    },
+    {
+      "title": "Explore Wikipedia Like a Windows XP Desktop",
+      "score": 412,
+      "url": "https://explorer.samismith.com/",
+      "time": 1778834736.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48146129"
+    },
+    {
+      "title": "Hightouch (YC S19) Is Hiring",
+      "score": 1,
+      "url": "https://hightouch.com/careers",
+      "time": 1778864475.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48151034"
+    },
+    {
+      "title": "ASCII by Jason Scott",
+      "score": 101,
+      "url": "https://ascii.textfiles.com/",
+      "time": 1778853756.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48148726"
+    },
+    {
+      "title": "Radicle: Sovereign {code forge} built on Git",
+      "score": 172,
+      "url": "https://radicle.dev/",
+      "time": 1778846875.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48147603"
+    },
+    {
+      "title": "High dimensional geometry is transforming the MRI industry (2017) [pdf]",
+      "score": 65,
+      "url": "https://www.ams.org/government/DonohoPresentation06-28-17Final.pdf",
+      "time": 1778851553.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48148309"
+    },
+    {
+      "title": "Waymo recalls 3,800 robotaxis after they drive into flood waters",
+      "score": 38,
+      "url": "https://www.cnbc.com/2026/05/12/waymo-recalls-3800-robotaxis-after-able-drive-into-standing-water.html",
+      "time": 1778868043.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48151767"
+    },
+    {
+      "title": "Feedr v0.8.0 – a TUI RSS reader, now read the full article from your terminal",
+      "score": 12,
+      "url": "https://github.com/bahdotsh/feedr",
+      "time": 1778865773.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48151317"
+    },
+    {
+      "title": "A new book on Steve Jobs at NeXT",
+      "score": 132,
+      "url": "https://spectrum.ieee.org/steve-jobs-next-computer",
+      "time": 1778841298.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48146908"
+    },
+    {
+      "title": "Show HN: Sx – an open-source package manager for AI skills, MCPs, and commands",
+      "score": 16,
+      "url": "https://github.com/sleuth-io/sx",
+      "time": 1778864602.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48151058"
+    },
+    {
+      "title": "Amazon workers under pressure to up their AI usage are making up tasks",
+      "score": 242,
+      "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+      "time": 1778851735.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48148337"
+    },
+    {
+      "title": "The nuclear-physics infrastructure behind PET scans",
+      "score": 3,
+      "url": "https://www.lanl.gov/media/publications/1663/proton-power-for-public-health",
+      "time": 1778681592.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48122172"
     }
   ]
 }
