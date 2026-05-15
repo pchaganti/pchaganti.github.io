@@ -1,54 +1,110 @@
 {
-  "last_updated": "2026-05-14T18:01:35.010584-04:00",
+  "last_updated": "2026-05-14T22:13:34.689266-04:00",
   "stories": [
     {
       "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-      "score": 437,
+      "score": 627,
       "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
       "time": 1778778480.0,
       "comments_url": "https://news.ycombinator.com/item?id=48138136"
     },
     {
-      "title": "Amazonbot is finally respecting robots.txt",
-      "score": 55,
-      "url": "https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/",
-      "time": 1778790155.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48140730"
+      "title": "A few words on DS4",
+      "score": 159,
+      "url": "https://antirez.com/news/165",
+      "time": 1778797752.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48142108"
     },
     {
       "title": "First public macOS kernel memory corruption exploit on Apple M5",
-      "score": 137,
+      "score": 263,
       "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
       "time": 1778783109.0,
       "comments_url": "https://news.ycombinator.com/item?id=48139219"
     },
     {
       "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-      "score": 419,
+      "score": 492,
       "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
       "time": 1778773651.0,
       "comments_url": "https://news.ycombinator.com/item?id=48137145"
     },
     {
+      "title": "Have a Coherent AI Policy",
+      "score": 44,
+      "url": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
+      "time": 1778801085.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48142553"
+    },
+    {
+      "title": "Codex is now in the ChatGPT mobile app",
+      "score": 183,
+      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+      "time": 1778789174.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48140529"
+    },
+    {
       "title": "New Nginx Exploit",
-      "score": 221,
+      "score": 293,
       "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
       "time": 1778779068.0,
       "comments_url": "https://news.ycombinator.com/item?id=48138268"
     },
     {
+      "title": "RISC-V Router",
+      "score": 74,
+      "url": "https://router.start9.com/",
+      "time": 1778789213.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48140541"
+    },
+    {
       "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
-      "score": 18,
+      "score": 61,
       "url": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
       "time": 1778791308.0,
       "comments_url": "https://news.ycombinator.com/item?id=48140953"
     },
     {
-      "title": "Work with Codex from Anywhere",
-      "score": 47,
-      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
-      "time": 1778789174.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48140529"
+      "title": "Porting 3D Movie Maker to Linux",
+      "score": 82,
+      "url": "https://benstoneonline.com/posts/porting-3d-movie-maker-to-linux/",
+      "time": 1778519840.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48097786"
+    },
+    {
+      "title": "OVMS: Open source electric vehicle remote monitoring, diagnosis and control",
+      "score": 41,
+      "url": "https://www.openvehicles.com/home",
+      "time": 1778795417.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48141732"
+    },
+    {
+      "title": "More than sixty percent of the United States is experiencing drought conditions",
+      "score": 95,
+      "url": "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html",
+      "time": 1778798298.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48142193"
+    },
+    {
+      "title": "New arXiv policy: 1-year ban for hallucinated references",
+      "score": 292,
+      "url": "https://twitter.com/tdietterich/status/2055000956144935055",
+      "time": 1778791152.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48140922"
+    },
+    {
+      "title": "HDD Firmware Hacking",
+      "score": 135,
+      "url": "https://icode4.coffee/?p=1465",
+      "time": 1778775569.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48137553"
+    },
+    {
+      "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+      "score": 109,
+      "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+      "time": 1778798260.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48142188"
     },
     {
       "title": "Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware",
@@ -58,88 +114,32 @@
       "comments_url": "https://news.ycombinator.com/item?id=48141191"
     },
     {
-      "title": "RISC-V Router",
-      "score": 28,
-      "url": "https://router.start9.com/",
-      "time": 1778789213.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48140541"
-    },
-    {
-      "title": "Show HN: I built a Web-Scraper API that is 6-7x more efficient than current ones",
-      "score": 9,
-      "url": "https://scrapewithruno.com/",
-      "time": 1778792521.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48141206"
-    },
-    {
-      "title": "Porting 3D Movie Maker to Linux",
-      "score": 38,
-      "url": "https://benstoneonline.com/posts/porting-3d-movie-maker-to-linux/",
-      "time": 1778519840.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48097786"
-    },
-    {
-      "title": "The Biochemical Beauty of Retatrutide: How GLP-1s Work",
-      "score": 19,
-      "url": "https://acesounderglass.com/2025/10/13/the-biochemical-beauty-of-retatrutide-how-glp-1s-actually-work/",
-      "time": 1778509802.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48095490"
-    },
-    {
-      "title": "The Power of a Free Popsicle (2018)",
-      "score": 50,
-      "url": "https://www.gsb.stanford.edu/insights/power-free-popsicle",
-      "time": 1778783627.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48139316"
-    },
-    {
-      "title": "HDD Firmware Hacking",
-      "score": 94,
-      "url": "https://icode4.coffee/?p=1465",
-      "time": 1778775569.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48137553"
-    },
-    {
-      "title": "WinUI 3 Performance: A Leap Forward",
-      "score": 65,
-      "url": "https://github.com/microsoft/microsoft-ui-xaml/discussions/11096",
-      "time": 1778785318.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48139704"
+      "title": "Show HN: GridTravel- A community based travel app for users to share routes",
+      "score": 22,
+      "url": "https://www.gridtravel.app",
+      "time": 1778796330.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48141902"
     },
     {
       "title": "Computer Hobby Movement in Canada",
-      "score": 166,
+      "score": 188,
       "url": "https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada",
       "time": 1778763447.0,
       "comments_url": "https://news.ycombinator.com/item?id=48134743"
     },
     {
-      "title": "Claude for Legal",
-      "score": 18,
-      "url": "https://github.com/anthropics/claude-for-legal",
-      "time": 1778792705.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48141234"
+      "title": "The Power of a Free Popsicle (2018)",
+      "score": 73,
+      "url": "https://www.gsb.stanford.edu/insights/power-free-popsicle",
+      "time": 1778783627.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48139316"
     },
     {
-      "title": "A message from President Kornbluth about funding and the talent pipeline",
-      "score": 544,
-      "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
-      "time": 1778770274.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48136262"
-    },
-    {
-      "title": "Int a = 5; a = a++ + ++a; a =? (2011)",
-      "score": 64,
-      "url": "https://gynvael.coldwind.pl/?id=372",
-      "time": 1778595244.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48108621"
-    },
-    {
-      "title": "New arXiv policy: 1-year ban for hallucinated references",
-      "score": 84,
-      "url": "https://twitter.com/tdietterich/status/2055000956144935055",
-      "time": 1778791152.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48140922"
+      "title": "What's in a GGUF, besides the weights – and what's still missing?",
+      "score": 94,
+      "url": "https://nobodywho.ooo/posts/whats-in-a-gguf/",
+      "time": 1778779309.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48138332"
     }
   ]
 }
