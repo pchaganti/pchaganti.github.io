@@ -1,68 +1,103 @@
 {
-  "last_updated": "2026-05-24T15:02:57.290666-04:00",
+  "last_updated": "2026-05-24T17:46:44.082769-04:00",
   "stories": [
     {
-      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "score": 129,
-      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-      "time": 1779640289.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48258684"
+      "title": "CBP Directive 3340-049B: Border Search of Electronic Devices",
+      "score": 77,
+      "url": "https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices",
+      "time": 1779649966.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48260140"
     },
     {
       "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-      "score": 227,
+      "score": 339,
       "url": "https://esengine.github.io/DeepSeek-Reasonix/",
       "time": 1779627726.0,
       "comments_url": "https://news.ycombinator.com/item?id=48256953"
     },
     {
-      "title": "Ruby for Good",
-      "score": 62,
-      "url": "https://ti.to/codeforgood/rubyforgood",
-      "time": 1779637759.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48258254"
+      "title": "Migrating from Go to Rust",
+      "score": 76,
+      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+      "time": 1779647502.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48259808"
+    },
+    {
+      "title": "Australia Four-Day Work Week Study Data Shows Boosted Productivity",
+      "score": 101,
+      "url": "https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/",
+      "time": 1779648969.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48259990"
+    },
+    {
+      "title": "Defeating Git Rigour Fatigue with Jujutsu",
+      "score": 28,
+      "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+      "time": 1779647950.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48259861"
+    },
+    {
+      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "score": 227,
+      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+      "time": 1779640289.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48258684"
+    },
+    {
+      "title": "Using HTTP/2 Cleartext for a server in Go 1.24",
+      "score": 24,
+      "url": "https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run",
+      "time": 1779208803.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48195698"
+    },
+    {
+      "title": "LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years",
+      "score": 12,
+      "url": "https://alphapixeldev.com/lan-lok-the-antarctic-dos-sabotage-game-lost-for-34-years-part-1/",
+      "time": 1779322532.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48216146"
     },
     {
       "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-      "score": 98,
+      "score": 143,
       "url": "https://arxiv.org/abs/2605.06445",
       "time": 1779627353.0,
       "comments_url": "https://news.ycombinator.com/item?id=48256912"
     },
     {
       "title": "I spent 50 hours drawing a line graph",
-      "score": 323,
+      "score": 378,
       "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
       "time": 1779375928.0,
       "comments_url": "https://news.ycombinator.com/item?id=48223997"
     },
     {
+      "title": "Claude is not your architect. Stop letting it pretend",
+      "score": 197,
+      "url": "https://www.hollandtech.net/claude-is-not-your-architect/",
+      "time": 1779647291.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48259784"
+    },
+    {
       "title": "Mastering Dyalog APL",
-      "score": 91,
+      "score": 115,
       "url": "https://mastering.dyalog.com/README.html",
       "time": 1779622935.0,
       "comments_url": "https://news.ycombinator.com/item?id=48256475"
     },
     {
+      "title": "Build Adafruit projects right from Firefox",
+      "score": 74,
+      "url": "https://www.firefox.com/en-US/landing/adafruit/",
+      "time": 1779419587.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48231547"
+    },
+    {
       "title": "Noroboto: Lying Fonts and Mitigation in Rust",
-      "score": 19,
+      "score": 37,
       "url": "https://tritium.legal/blog/noroboto",
       "time": 1779461737.0,
       "comments_url": "https://news.ycombinator.com/item?id=48236791"
-    },
-    {
-      "title": "I keep bouncing off the Scheme language",
-      "score": 99,
-      "url": "https://www.sicpers.info/2026/05/i-keep-bouncing-off-the-scheme-language/",
-      "time": 1779438759.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48233398"
-    },
-    {
-      "title": "Usborne 1980s Computer Books",
-      "score": 106,
-      "url": "https://usborne.com/us/books/computer-and-coding-books",
-      "time": 1779637380.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48258194"
     },
     {
       "title": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
@@ -72,74 +107,39 @@
       "comments_url": "https://news.ycombinator.com/item?id=48258995"
     },
     {
-      "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
-      "score": 115,
-      "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
-      "time": 1779636088.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48257980"
-    },
-    {
       "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-      "score": 380,
+      "score": 400,
       "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
       "time": 1779585673.0,
       "comments_url": "https://news.ycombinator.com/item?id=48253386"
     },
     {
       "title": "Childhood Computing",
-      "score": 116,
+      "score": 136,
       "url": "https://susam.net/childhood-computing.html",
       "time": 1779624454.0,
       "comments_url": "https://news.ycombinator.com/item?id=48256597"
     },
     {
-      "title": "Perceptual Image Codec: What Matters in Practical Learned Image Compression",
-      "score": 61,
-      "url": "https://apple.github.io/ml-pico/",
-      "time": 1779624084.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48256565"
+      "title": "Book Review: On the Calculation of Volume",
+      "score": 21,
+      "url": "https://www.stephendiehl.com/posts/calculation_of_volume/",
+      "time": 1779373451.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48223154"
     },
     {
-      "title": "Build Adafruit projects right from Firefox",
-      "score": 37,
-      "url": "https://www.firefox.com/en-US/landing/adafruit/",
-      "time": 1779419587.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48231547"
+      "title": "Greg Brockman interview [video]",
+      "score": 153,
+      "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+      "time": 1779611378.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48255593"
     },
     {
-      "title": "Don't know where your data is from? Bayesian modeling for unknown coordinates",
-      "score": 4,
-      "url": "https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/",
-      "time": 1779643132.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48259158"
-    },
-    {
-      "title": "Curly braces: An evolution of Unix and C",
-      "score": 32,
-      "url": "https://thalia.dev/blog/unix-braces/",
-      "time": 1779299388.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48211418"
-    },
-    {
-      "title": "Wake up! 16b",
-      "score": 371,
-      "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
-      "time": 1779582650.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48253060"
-    },
-    {
-      "title": "Scammers are abusing an internal Microsoft account to send spam links",
-      "score": 235,
-      "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-      "time": 1779583892.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48253186"
-    },
-    {
-      "title": "Swap tables, flash-friendly swap, swap_ops, and more",
-      "score": 62,
-      "url": "https://lwn.net/SubscriberLink/1072657/394b87abd7cc215e/",
-      "time": 1779286594.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48208233"
+      "title": "Ruby for Good",
+      "score": 98,
+      "url": "https://ti.to/codeforgood/rubyforgood",
+      "time": 1779637759.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48258254"
     }
   ]
 }
