@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-05-24T22:35:58.737844-04:00",
+  "last_updated": "2026-05-25T03:03:38.597918-04:00",
   "stories": [
     {
+      "title": "Jira Is Turing-Complete",
+      "score": 81,
+      "url": "https://seriot.ch/computation/jira.html",
+      "time": 1779681254.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48263253"
+    },
+    {
       "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
-      "score": 177,
+      "score": 304,
       "url": "https://audiomass.co/?multitrack=1",
       "time": 1779636343.0,
       "comments_url": "https://news.ycombinator.com/item?id=48258015"
     },
     {
+      "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnea(2006)",
+      "score": 60,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
+      "time": 1779500222.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48243666"
+    },
+    {
+      "title": "I love my Bluetooth keyboard",
+      "score": 28,
+      "url": "https://liquidbrain.net/blog/i-love-my-bluetooth-keyboard/",
+      "time": 1779476665.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48240025"
+    },
+    {
       "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-      "score": 452,
+      "score": 523,
       "url": "https://esengine.github.io/DeepSeek-Reasonix/",
       "time": 1779627726.0,
       "comments_url": "https://news.ycombinator.com/item?id=48256953"
     },
     {
+      "title": "Migrating from Go to Rust",
+      "score": 221,
+      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+      "time": 1779647502.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48259808"
+    },
+    {
+      "title": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
+      "score": 67,
+      "url": "https://ohwr.org/projects/white-rabbit/",
+      "time": 1779525524.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48245916"
+    },
+    {
+      "title": "C constructs that still don't work in C++",
+      "score": 35,
+      "url": "https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/",
+      "time": 1779396047.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48228608"
+    },
+    {
       "title": "A fundamental principle of aeronautical engineering has been overturned",
-      "score": 71,
+      "score": 139,
       "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
       "time": 1779649826.0,
       "comments_url": "https://news.ycombinator.com/item?id=48260117"
     },
     {
-      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "score": 305,
-      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-      "time": 1779640289.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48258684"
+      "title": "Bug 1950764: Work Around Crash on Intel Raptor Lake CPU",
+      "score": 57,
+      "url": "https://phabricator.services.mozilla.com/D301917",
+      "time": 1779489784.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48242546"
     },
     {
       "title": "I spent 50 hours drawing a line graph",
-      "score": 449,
+      "score": 502,
       "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
       "time": 1779375928.0,
       "comments_url": "https://news.ycombinator.com/item?id=48223997"
     },
     {
       "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-      "score": 183,
+      "score": 217,
       "url": "https://arxiv.org/abs/2605.06445",
       "time": 1779627353.0,
       "comments_url": "https://news.ycombinator.com/item?id=48256912"
     },
     {
-      "title": "Using HTTP/2 Cleartext for a server in Go 1.24",
-      "score": 60,
-      "url": "https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run",
-      "time": 1779208803.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48195698"
-    },
-    {
-      "title": "Defeating Git Rigour Fatigue with Jujutsu",
-      "score": 100,
-      "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
-      "time": 1779647950.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48259861"
+      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "score": 366,
+      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+      "time": 1779640289.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48258684"
     },
     {
       "title": "Microsoft open-sources “the earliest DOS source code discovered to date”",
-      "score": 429,
+      "score": 460,
       "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
       "time": 1779585673.0,
       "comments_url": "https://news.ycombinator.com/item?id=48253386"
     },
     {
-      "title": "Mastering Dyalog APL",
-      "score": 127,
-      "url": "https://mastering.dyalog.com/README.html",
-      "time": 1779622935.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48256475"
-    },
-    {
-      "title": "Noroboto: Lying Fonts and Mitigation in Rust",
-      "score": 61,
-      "url": "https://tritium.legal/blog/noroboto",
-      "time": 1779461737.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48236791"
-    },
-    {
-      "title": "Build Adafruit projects right from Firefox",
-      "score": 119,
-      "url": "https://www.firefox.com/en-US/landing/adafruit/",
-      "time": 1779419587.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48231547"
-    },
-    {
       "title": "Scientists solve 200-year-old puzzle of how tobacco plants make nicotine",
-      "score": 44,
+      "score": 80,
       "url": "https://www.york.ac.uk/news-and-events/news/2026/research/200-year-old-puzzle-tobacco-plants-nicotine/",
       "time": 1779452216.0,
       "comments_url": "https://news.ycombinator.com/item?id=48234831"
     },
     {
-      "title": "1k-year-old dingo bones show that it was injured, cared for, and ritually buried",
-      "score": 28,
-      "url": "https://www.popsci.com/environment/dingo-bones-ritual-burial-australia/",
-      "time": 1779226861.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48200071"
+      "title": "The Eternal Sloptember",
+      "score": 253,
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+      "time": 1779680844.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48263238"
     },
     {
-      "title": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
-      "score": 6,
-      "url": "https://ohwr.org/projects/white-rabbit/",
-      "time": 1779525524.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48245916"
+      "title": "Build Adafruit projects right from Firefox",
+      "score": 154,
+      "url": "https://www.firefox.com/en-US/landing/adafruit/",
+      "time": 1779419587.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48231547"
     },
     {
-      "title": "Getting an old Computer online with Android Ethernet tethering",
-      "score": 39,
-      "url": "https://82mhz.net/posts/2026/05/getting-an-old-computer-online-with-android-ethernet-tethering/",
-      "time": 1779386630.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48226697"
+      "title": "Using HTTP/2 Cleartext for a server in Go 1.24",
+      "score": 78,
+      "url": "https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run",
+      "time": 1779208803.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48195698"
+    },
+    {
+      "title": "Mastering Dyalog APL",
+      "score": 139,
+      "url": "https://mastering.dyalog.com/README.html",
+      "time": 1779622935.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48256475"
     },
     {
       "title": "Greg Brockman interview [video]",
-      "score": 180,
+      "score": 194,
       "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
       "time": 1779611378.0,
       "comments_url": "https://news.ycombinator.com/item?id=48255593"
-    },
-    {
-      "title": "Scammers are abusing an internal Microsoft account to send spam links",
-      "score": 270,
-      "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-      "time": 1779583892.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48253186"
-    },
-    {
-      "title": "Childhood Computing",
-      "score": 164,
-      "url": "https://susam.net/childhood-computing.html",
-      "time": 1779624454.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48256597"
-    },
-    {
-      "title": "Perceptual Image Codec: What Matters in Practical Learned Image Compression",
-      "score": 92,
-      "url": "https://apple.github.io/ml-pico/",
-      "time": 1779624084.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48256565"
     }
   ]
 }
