@@ -1,54 +1,82 @@
 {
-  "last_updated": "2026-05-27T13:51:40.678275-04:00",
+  "last_updated": "2026-05-27T16:00:43.173531-04:00",
   "stories": [
     {
-      "title": "I'm Tired of Talking to AI",
-      "score": 1683,
-      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-      "time": 1779878605.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48292224"
-    },
-    {
-      "title": "Tech CEOs are apparently suffering from AI psychosis",
-      "score": 200,
-      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-      "time": 1779895247.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48295679"
-    },
-    {
-      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "score": 151,
-      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-      "time": 1779899321.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48296649"
-    },
-    {
-      "title": "PostHog will train AI models with your data (opted-in by default)",
-      "score": 123,
-      "url": "https://posthog.com/blog/training-ai-models",
-      "time": 1779898122.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48296359"
-    },
-    {
-      "title": "Last.fm is now independent",
-      "score": 281,
-      "url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
-      "time": 1779896169.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48295892"
-    },
-    {
       "title": "I think Anthropic and OpenAI have found product-market fit",
-      "score": 59,
+      "score": 323,
       "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
       "time": 1779899953.0,
       "comments_url": "https://news.ycombinator.com/item?id=48296794"
     },
     {
+      "title": "SimCity 3k in 4k (2025)",
+      "score": 146,
+      "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+      "time": 1779903389.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48297645"
+    },
+    {
+      "title": "What Apple and Google are doing to your push notifications",
+      "score": 28,
+      "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+      "time": 1779909850.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48299220"
+    },
+    {
+      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "score": 396,
+      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "time": 1779899321.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48296649"
+    },
+    {
+      "title": "Last.fm is now independent",
+      "score": 421,
+      "url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
+      "time": 1779896169.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48295892"
+    },
+    {
+      "title": "Valve raises Steam Deck prices by more than $200",
+      "score": 133,
+      "url": "https://www.theverge.com/games/938340/valve-steam-deck-price-increase",
+      "time": 1779904727.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48297976"
+    },
+    {
+      "title": "In-Browser Container Builds",
+      "score": 28,
+      "url": "https://ochagavia.nl/blog/fully-in-browser-container-builds/",
+      "time": 1779714027.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48266323"
+    },
+    {
+      "title": "Canada to order military plane fleet from Sweden in shift from US suppliers",
+      "score": 140,
+      "url": "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft",
+      "time": 1779900805.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48296994"
+    },
+    {
       "title": "Mini Micro Fantasy Computer",
-      "score": 193,
+      "score": 211,
       "url": "https://miniscript.org/MiniMicro/index.html#about",
       "time": 1779875762.0,
       "comments_url": "https://news.ycombinator.com/item?id=48291947"
+    },
+    {
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "score": 373,
+      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "time": 1779895247.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48295679"
+    },
+    {
+      "title": "Stress disrupts hippocampal integration of overlapping events, memory inference",
+      "score": 22,
+      "url": "https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08",
+      "time": 1779899191.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48296622"
     },
     {
       "title": "Reflex (YC W23) Is Hiring SWEs, Growth, and GTM Roles",
@@ -58,88 +86,60 @@
       "comments_url": "https://news.ycombinator.com/item?id=48297116"
     },
     {
-      "title": "Theseus: Translating Win32 to WASM",
-      "score": 36,
-      "url": "https://neugierig.org/software/blog/2026/05/theseus-wasm.html",
-      "time": 1779693980.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48264328"
+      "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
+      "score": 17,
+      "url": "https://arxiv.org/abs/2605.21779",
+      "time": 1779903744.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48297723"
+    },
+    {
+      "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
+      "score": 41,
+      "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
+      "time": 1779902665.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48297467"
     },
     {
       "title": "Matrix Multiplications on GPUs Run Faster When Given \"Predictable\" Data (2024)",
-      "score": 108,
+      "score": 124,
       "url": "https://www.thonking.ai/p/strangely-matrix-multiplications",
       "time": 1779538307.0,
       "comments_url": "https://news.ycombinator.com/item?id=48247005"
     },
     {
-      "title": "A Comma and a Question Mark, Redux: Quick Terminal Helpers Using Pi",
-      "score": 12,
-      "url": "https://z3ugma.github.io/2026/05/25/a-comma-and-a-question-mark/",
-      "time": 1779736485.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48270514"
+      "title": "Training our own AI models",
+      "score": 164,
+      "url": "https://posthog.com/blog/training-ai-models",
+      "time": 1779898122.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48296359"
     },
     {
       "title": "All of human cooking compressed into 2 megabytes",
-      "score": 267,
+      "score": 308,
       "url": "https://arxiv.org/abs/2605.22391",
       "time": 1779869680.0,
       "comments_url": "https://news.ycombinator.com/item?id=48291225"
     },
     {
-      "title": "My new obsession: A horse-racing board game of pure luck",
-      "score": 32,
-      "url": "https://alexanderbjoy.com/horse-race-board-game/",
-      "time": 1779723904.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48268185"
+      "title": "Freediving, Embodiment and Humanity – Joanna Rutkowska",
+      "score": 4,
+      "url": "https://tracesofhumanity.org/freediving-embodiment-and-humanity/",
+      "time": 1779673264.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48262703"
     },
     {
-      "title": "XLIDE: VBA without excel",
-      "score": 50,
-      "url": "https://github.com/WilliamSmithEdward/xlide_vscode",
-      "time": 1779883698.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48293014"
+      "title": "A Comma and a Question Mark, Redux: Quick Terminal Helpers Using Pi",
+      "score": 22,
+      "url": "https://z3ugma.github.io/2026/05/25/a-comma-and-a-question-mark/",
+      "time": 1779736485.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48270514"
     },
     {
-      "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
-      "score": 198,
-      "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
-      "time": 1779884114.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48293080"
-    },
-    {
-      "title": "Phloto for My Photo Flow",
-      "score": 27,
-      "url": "https://cceckman.com/writing/phloto/",
-      "time": 1779829900.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48286028"
-    },
-    {
-      "title": "The Melancholy of Slaying Monsters",
-      "score": 238,
-      "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
-      "time": 1779823513.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48284711"
-    },
-    {
-      "title": "Private Equity Bought America's Essential Services",
-      "score": 325,
-      "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
-      "time": 1779883253.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48292941"
-    },
-    {
-      "title": "Cloudflare Flagship",
-      "score": 322,
-      "url": "https://developers.cloudflare.com/flagship/",
-      "time": 1779838566.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48287468"
-    },
-    {
-      "title": "Raft Consensus with a Minority of Nodes",
-      "score": 102,
-      "url": "https://padhye.org/raft-minority/",
-      "time": 1779791425.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48277723"
+      "title": "Show HN: I made an emergency page for my family",
+      "score": 56,
+      "url": "https://help.delduca.org",
+      "time": 1779891483.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48294791"
     }
   ]
 }
