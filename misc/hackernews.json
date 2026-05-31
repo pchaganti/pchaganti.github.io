@@ -1,131 +1,138 @@
 {
-  "last_updated": "2026-05-31T09:16:24.352541-04:00",
+  "last_updated": "2026-05-31T11:59:26.538601-04:00",
   "stories": [
     {
+      "title": "The solution might be cancelling my AI subscription",
+      "score": 90,
+      "url": "https://thoughts.hmmz.org/2026-05-31.html",
+      "time": 1780237410.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48345896"
+    },
+    {
       "title": "Dav2d",
-      "score": 122,
+      "score": 267,
       "url": "https://jbkempf.com/blog/2026/dav2d/",
       "time": 1780227885.0,
       "comments_url": "https://news.ycombinator.com/item?id=48344961"
     },
     {
-      "title": "Backpressure is all you need",
-      "score": 20,
-      "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
-      "time": 1780229487.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48345090"
+      "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+      "score": 139,
+      "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+      "time": 1780236800.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48345840"
+    },
+    {
+      "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+      "score": 33,
+      "url": "https://prismml.com/news/bonsai-image-4b",
+      "time": 1780239892.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48346257"
+    },
+    {
+      "title": "Restartable Sequences",
+      "score": 26,
+      "url": "https://justine.lol/rseq/",
+      "time": 1780238328.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48346019"
     },
     {
       "title": "The Website Specification",
-      "score": 255,
+      "score": 336,
       "url": "https://specification.website/",
       "time": 1780211390.0,
       "comments_url": "https://news.ycombinator.com/item?id=48343683"
     },
     {
       "title": "London's Free Roof Terraces",
-      "score": 135,
+      "score": 191,
       "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
       "time": 1780211778.0,
       "comments_url": "https://news.ycombinator.com/item?id=48343714"
     },
     {
       "title": "Domain expertise has always been the real moat",
-      "score": 693,
+      "score": 750,
       "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
       "time": 1780173657.0,
       "comments_url": "https://news.ycombinator.com/item?id=48340411"
     },
     {
+      "title": "I Put a Datacenter GPU in My Gaming PC for £200",
+      "score": 111,
+      "url": "https://blog.tymscar.com/posts/v100localllm/",
+      "time": 1780235596.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48345694"
+    },
+    {
       "title": "Security Envelope Pattern collection – S.E.C.R.E.T",
-      "score": 33,
+      "score": 57,
       "url": "https://secret-archive.org/",
       "time": 1780048153.0,
       "comments_url": "https://news.ycombinator.com/item?id=48321089"
     },
     {
       "title": "Shantell Sans (2023)",
-      "score": 296,
+      "score": 346,
       "url": "https://shantellsans.com/process",
       "time": 1780178798.0,
       "comments_url": "https://news.ycombinator.com/item?id=48341062"
     },
     {
       "title": "One year of Roto, a compiled scripting language for Rust",
-      "score": 59,
+      "score": 90,
       "url": "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/",
       "time": 1780063679.0,
       "comments_url": "https://news.ycombinator.com/item?id=48323303"
     },
     {
-      "title": "A pictorial introduction to differential geometry (2017)",
-      "score": 73,
-      "url": "https://arxiv.org/abs/1709.08492",
-      "time": 1780205418.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48343287"
+      "title": "Daily pill can double survival time for deadliest cancer, trial shows",
+      "score": 7,
+      "url": "https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial",
+      "time": 1780242209.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48346629"
     },
     {
       "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
-      "score": 259,
+      "score": 289,
       "url": "https://av2.aomedia.org",
       "time": 1780177578.0,
       "comments_url": "https://news.ycombinator.com/item?id=48340910"
     },
     {
-      "title": "Avian Visitors",
-      "score": 68,
-      "url": "https://theodore.net/projects/AvianVisitors/",
-      "time": 1780208039.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48343424"
-    },
-    {
-      "title": "I found a seashell in the middle of the desert",
-      "score": 355,
-      "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert",
-      "time": 1780022983.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48318402"
+      "title": "Show HN: Atomic Editor – Obsidian-style live preview for CodeMirror 6",
+      "score": 16,
+      "url": "https://kenforthewin.github.io/atomic-editor/",
+      "time": 1780230774.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48345201"
     },
     {
       "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
-      "score": 107,
+      "score": 133,
       "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
       "time": 1780024939.0,
       "comments_url": "https://news.ycombinator.com/item?id=48318624"
     },
     {
-      "title": "Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal",
-      "score": 65,
-      "url": "https://github.com/marekkowalczyk/breathe-cli",
-      "time": 1780173053.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48340315"
+      "title": "I found a seashell in the middle of the desert",
+      "score": 382,
+      "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert",
+      "time": 1780022983.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48318402"
     },
     {
-      "title": "What it's like to have your insulin pump die while you're on vacation",
-      "score": 5,
-      "url": "https://blog.lauramichet.com/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation/",
-      "time": 1779993234.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48313427"
+      "title": "Avian Visitors",
+      "score": 91,
+      "url": "https://theodore.net/projects/AvianVisitors/",
+      "time": 1780208039.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48343424"
     },
     {
-      "title": "Accenture to acquire Ookla",
-      "score": 299,
-      "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
-      "time": 1780158538.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48337987"
-    },
-    {
-      "title": "Associative learning turns DEET from aversive to appetitive in Aedes aegypti",
-      "score": 47,
-      "url": "https://journals.biologists.com/jeb/article/229/10/jeb251935/371741/Associative-learning-switches-DEET-valence-from",
-      "time": 1779995519.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48313952"
-    },
-    {
-      "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
-      "score": 915,
-      "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
-      "time": 1780183573.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48341578"
+      "title": "Inkstravaganza",
+      "score": 17,
+      "url": "https://www.inkandswitch.com/newsletter/dispatch-015/",
+      "time": 1779976832.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48309080"
     },
     {
       "title": "Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]",
@@ -133,13 +140,6 @@
       "url": "https://hi.telli.com/join-us",
       "time": 1780210850.0,
       "comments_url": "https://news.ycombinator.com/item?id=48343635"
-    },
-    {
-      "title": "Racket v9.2",
-      "score": 161,
-      "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
-      "time": 1779961360.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48306713"
     }
   ]
 }
