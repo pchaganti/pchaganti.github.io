@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-06-02T18:54:37.531572-04:00",
+  "last_updated": "2026-06-02T22:51:57.963126-04:00",
   "stories": [
     {
+      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+      "score": 151,
+      "url": "https://github.com/c0dejedi/nbd-vram",
+      "time": 1780440933.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48377404"
+    },
+    {
       "title": "MAI-Code-1-Flash",
-      "score": 313,
+      "score": 399,
       "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
       "time": 1780426027.0,
       "comments_url": "https://news.ycombinator.com/item?id=48374466"
     },
     {
       "title": "CT scans of BYD car parts",
-      "score": 127,
+      "score": 247,
       "url": "https://www.lumafield.com/scan-of-the-month/byd",
       "time": 1780432208.0,
       "comments_url": "https://news.ycombinator.com/item?id=48375824"
     },
     {
-      "title": "Gmail thinks I'm stupid, so I left",
-      "score": 478,
-      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-      "time": 1780428460.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48375016"
-    },
-    {
-      "title": "Open Repair Data Standard – Open Repair Alliance",
-      "score": 70,
-      "url": "https://openrepair.org/open-data/open-standard/",
-      "time": 1780429030.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48375150"
+      "title": "Are blue zones real? Answering that question is harder then ever",
+      "score": 29,
+      "url": "https://www.statnews.com/2026/05/04/are-blue-zones-real-new-scrutiny-longevity-hot-spots/",
+      "time": 1780321235.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48356754"
     },
     {
       "title": "My thoughts after using Clojure for about a month",
-      "score": 61,
+      "score": 119,
       "url": "https://www.acdw.net/clojure/",
       "time": 1780430206.0,
       "comments_url": "https://news.ycombinator.com/item?id=48375393"
     },
     {
+      "title": "Gmail thinks I'm stupid, so I left",
+      "score": 656,
+      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+      "time": 1780428460.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48375016"
+    },
+    {
+      "title": "4K years ago, Mohenjo-daro grew more equal over time",
+      "score": 52,
+      "url": "https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/",
+      "time": 1780438954.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48377140"
+    },
+    {
+      "title": "AI outperforms law professors in Stanford Law study",
+      "score": 106,
+      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+      "time": 1780443792.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48377761"
+    },
+    {
       "title": "A walking tour of surveillance infrastructure in Seattle (2020)",
-      "score": 357,
+      "score": 379,
       "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
       "time": 1780406672.0,
       "comments_url": "https://news.ycombinator.com/item?id=48369980"
     },
     {
       "title": "HP re-releases classic computer science calculator: The HP-16C",
-      "score": 89,
+      "score": 129,
       "url": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
       "time": 1780426960.0,
       "comments_url": "https://news.ycombinator.com/item?id=48374685"
     },
     {
-      "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
-      "score": 583,
-      "url": "https://blog.adafruit.com/",
-      "time": 1780394456.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48368121"
+      "title": "Open Repair Data Standard – Open Repair Alliance",
+      "score": 100,
+      "url": "https://openrepair.org/open-data/open-standard/",
+      "time": 1780429030.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48375150"
+    },
+    {
+      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+      "score": 14,
+      "url": "https://blog.ammaraskar.com/github-token-stealing/",
+      "time": 1780414145.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48371562"
     },
     {
       "title": "How we index images for RAG",
-      "score": 64,
+      "score": 92,
       "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
       "time": 1780416821.0,
       "comments_url": "https://news.ycombinator.com/item?id=48372239"
     },
     {
-      "title": "RSS is back. AI agents are reading it",
-      "score": 24,
-      "url": "https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/",
-      "time": 1780431551.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48375673"
-    },
-    {
-      "title": "The advertising cartel coming to your web browser",
-      "score": 100,
-      "url": "https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/",
-      "time": 1780429165.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48375175"
-    },
-    {
-      "title": "Gleam v1.17.0 Released",
-      "score": 36,
-      "url": "https://gleam.run/news/single-file-gleam-beam-programs-with-escript/",
-      "time": 1780438580.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48377080"
-    },
-    {
-      "title": "Show HN: Live breath detection and biofeedback from a phone microphone",
-      "score": 17,
-      "url": "https://github.com/shiihaa-app/shiihaa-breath-detection",
-      "time": 1780416167.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48372036"
-    },
-    {
       "title": "Trump signs downsized AI order after weeks of reversals",
-      "score": 147,
+      "score": 179,
       "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
       "time": 1780418416.0,
       "comments_url": "https://news.ycombinator.com/item?id=48372628"
     },
     {
-      "title": "MP3s from Google Drive in Music Assistant on Home Assistant",
-      "score": 6,
-      "url": "https://blog.tomayac.com/2026/05/30/your-mp3s-from-google-drive-in-music-assistant-on-home-assistant/",
-      "time": 1780153305.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48337000"
+      "title": "Pluto.jl 1.0 release – reactive notebook for Julia",
+      "score": 18,
+      "url": "https://discourse.julialang.org/t/pluto-1-0-release/137296",
+      "time": 1780441749.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48377496"
     },
     {
-      "title": "Bringing Up DeepSeek-V4-Flash on AMD MI300X",
-      "score": 68,
-      "url": "https://fergusfinn.com/blog/deepseek-v4-flash-mi300x/",
-      "time": 1780422768.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48373675"
+      "title": "OpenFOV – Webcam head tracking for iRacing",
+      "score": 90,
+      "url": "https://www.openfov.com/",
+      "time": 1780152175.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48336783"
     },
     {
       "title": "Multicore suppport for DOS is real – partly",
-      "score": 40,
+      "score": 64,
       "url": "https://www.vogons.org/viewtopic.php?t=111336",
       "time": 1780214793.0,
       "comments_url": "https://news.ycombinator.com/item?id=48343901"
     },
     {
-      "title": "Launch HN: Rudus (YC P26) – AI for concrete contractors",
-      "score": 29,
-      "url": "https://news.ycombinator.com/item?id=48374528",
-      "time": 1780426269.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48374528"
+      "title": "Ad Infini­Tum",
+      "score": 4,
+      "url": "https://matthiasott.com/notes/ad-infinitum",
+      "time": 1780274186.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48351362"
     },
     {
-      "title": "Why Janet? (2023)",
-      "score": 416,
-      "url": "https://ianthehenry.com/posts/why-janet/",
-      "time": 1780392871.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48367907"
+      "title": "Loading Sega Games Off a Vinyl Record [video]",
+      "score": 9,
+      "url": "https://www.youtube.com/watch?v=c744iD0_fWU",
+      "time": 1780243130.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48346766"
     },
     {
-      "title": "QBE – Compiler Backend – 1.3",
-      "score": 63,
-      "url": "https://c9x.me/compile/release/qbe-1.3.html",
-      "time": 1780421852.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48373442"
+      "title": "More than 6 out of 10 people turn to AI for psychological support",
+      "score": 60,
+      "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
+      "time": 1780444504.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48377854"
     }
   ]
 }
