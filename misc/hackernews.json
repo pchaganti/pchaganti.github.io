@@ -1,47 +1,82 @@
 {
-  "last_updated": "2026-06-04T13:38:19.785379-04:00",
+  "last_updated": "2026-06-04T15:54:26.727093-04:00",
   "stories": [
     {
       "title": "VoidZero Is Joining Cloudflare",
-      "score": 376,
+      "score": 464,
       "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
       "time": 1780578051.0,
       "comments_url": "https://news.ycombinator.com/item?id=48398055"
     },
     {
-      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
-      "score": 51,
-      "url": "https://github.com/huawei-csl/KVarN",
-      "time": 1780586280.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48399974"
-    },
-    {
-      "title": "Ian's Secure Shoelace Knot",
-      "score": 294,
-      "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-      "time": 1780571854.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48397028"
-    },
-    {
       "title": "Retro-Tech Parenting",
-      "score": 28,
+      "score": 147,
       "url": "https://havenweb.org/2026/05/28/retro-tech.html",
       "time": 1780588955.0,
       "comments_url": "https://news.ycombinator.com/item?id=48400588"
     },
     {
+      "title": "Ian's Secure Shoelace Knot",
+      "score": 377,
+      "url": "https://www.fieggen.com/shoelace/secureknot.htm",
+      "time": 1780571854.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48397028"
+    },
+    {
+      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "score": 86,
+      "url": "https://github.com/huawei-csl/KVarN",
+      "time": 1780586280.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48399974"
+    },
+    {
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "score": 87,
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "time": 1780590017.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48400842"
+    },
+    {
       "title": "They’re made out of weights",
-      "score": 1185,
+      "score": 1297,
       "url": "https://maxleiter.com/blog/weights",
       "time": 1780529838.0,
       "comments_url": "https://news.ycombinator.com/item?id=48391611"
     },
     {
       "title": "Sum-product, unit distances, and number fields",
-      "score": 8,
+      "score": 36,
       "url": "https://www.erdosproblems.com/forum/thread/blog:6",
       "time": 1780293267.0,
       "comments_url": "https://news.ycombinator.com/item?id=48353098"
+    },
+    {
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "score": 657,
+      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "time": 1780532282.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48392004"
+    },
+    {
+      "title": "Samurai City",
+      "score": 21,
+      "url": "https://worksinprogress.co/issue/samurai-city/",
+      "time": 1780374739.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48366090"
+    },
+    {
+      "title": "Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call",
+      "score": 10,
+      "url": "https://cost.dev/",
+      "time": 1780572613.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48397148"
+    },
+    {
+      "title": "The desperation of NYTimes",
+      "score": 215,
+      "url": "https://rozumem.xyz/posts/16",
+      "time": 1780594753.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48401965"
     },
     {
       "title": "Zettascale (YC S24) Is Hiring Founding FPGA Engineers",
@@ -51,95 +86,60 @@
       "comments_url": "https://news.ycombinator.com/item?id=48401433"
     },
     {
-      "title": "Gaussian Point Splatting",
-      "score": 140,
-      "url": "https://momentsingraphics.de/Siggraph2026.html",
-      "time": 1780570093.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48396792"
+      "title": "JLink JTAG Access on the Pinecil",
+      "score": 5,
+      "url": "https://danielmangum.com/posts/jlink-jtag-pinecil/",
+      "time": 1780428644.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48375064"
+    },
+    {
+      "title": "Making Debian or Fedora persistent live images",
+      "score": 21,
+      "url": "https://sigwait.org/~alex/blog/2026/05/28/smdBC8.html",
+      "time": 1780336930.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48360414"
     },
     {
       "title": "U.S. Army Corps of Engineers Bay Model",
-      "score": 145,
+      "score": 177,
       "url": "https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model",
       "time": 1780422600.0,
       "comments_url": "https://news.ycombinator.com/item?id=48373642"
     },
     {
-      "title": "Now Is the Best Time to Be a Duct Tape Engineer",
-      "score": 62,
-      "url": "https://derwiki.medium.com/now-is-the-best-time-to-be-a-duct-tape-engineer-eefc1d141c23",
-      "time": 1780314542.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48355607"
+      "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
+      "score": 179,
+      "url": "https://uruky.com/?il=en",
+      "time": 1780563370.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48396004"
+    },
+    {
+      "title": "Gaussian Point Splatting",
+      "score": 154,
+      "url": "https://momentsingraphics.de/Siggraph2026.html",
+      "time": 1780570093.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48396792"
     },
     {
       "title": "3D-printed book turns its own G-code into raised lettering",
-      "score": 32,
+      "score": 54,
       "url": "https://www.designboom.com/design/3d-printed-book-manual-darius-ou-benson-chong/",
       "time": 1780409715.0,
       "comments_url": "https://news.ycombinator.com/item?id=48370558"
     },
     {
+      "title": "AI, Ashby Engineering, and the future",
+      "score": 11,
+      "url": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
+      "time": 1780584524.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48399528"
+    },
+    {
       "title": "Elixir v1.20: Now a gradually typed language",
-      "score": 916,
+      "score": 933,
       "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
       "time": 1780513346.0,
       "comments_url": "https://news.ycombinator.com/item?id=48388324"
-    },
-    {
-      "title": "French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56",
-      "score": 311,
-      "url": "https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56",
-      "time": 1780573168.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48397233"
-    },
-    {
-      "title": "Show HN: Prela – Purely Algebraic Relation Combinators",
-      "score": 40,
-      "url": "https://github.com/remysucre/prela",
-      "time": 1780320361.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48356563"
-    },
-    {
-      "title": "In a first, wind and solar generated more power than gas globally in April 2026",
-      "score": 224,
-      "url": "https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/",
-      "time": 1780583799.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48399332"
-    },
-    {
-      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
-      "score": 968,
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "time": 1780502682.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48385906"
-    },
-    {
-      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
-      "score": 337,
-      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
-      "time": 1780534592.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48392343"
-    },
-    {
-      "title": "Artificial intelligence is not conscious",
-      "score": 642,
-      "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-      "time": 1780509097.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48387270"
-    },
-    {
-      "title": "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud",
-      "score": 48,
-      "url": "https://boxes.dev",
-      "time": 1780583915.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48399358"
-    },
-    {
-      "title": "Under Notre Dame, a 'dig of the century' unearths 1,700 years of history",
-      "score": 135,
-      "url": "https://apnews.com/article/notre-dame-dig-treasures-paris-archaeology-roman-dae41f792c1402faf32a87c154cc9a77",
-      "time": 1780399210.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48368725"
     }
   ]
 }
