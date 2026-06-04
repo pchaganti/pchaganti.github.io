@@ -1,82 +1,110 @@
 {
-  "last_updated": "2026-06-04T15:54:26.727093-04:00",
+  "last_updated": "2026-06-04T18:15:50.743284-04:00",
   "stories": [
     {
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "score": 138,
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "time": 1780603880.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48403980"
+    },
+    {
       "title": "VoidZero Is Joining Cloudflare",
-      "score": 464,
+      "score": 530,
       "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
       "time": 1780578051.0,
       "comments_url": "https://news.ycombinator.com/item?id=48398055"
     },
     {
-      "title": "Retro-Tech Parenting",
-      "score": 147,
-      "url": "https://havenweb.org/2026/05/28/retro-tech.html",
-      "time": 1780588955.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48400588"
-    },
-    {
-      "title": "Ian's Secure Shoelace Knot",
-      "score": 377,
-      "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-      "time": 1780571854.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48397028"
-    },
-    {
-      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
-      "score": 86,
-      "url": "https://github.com/huawei-csl/KVarN",
-      "time": 1780586280.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48399974"
-    },
-    {
       "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "score": 87,
+      "score": 214,
       "url": "https://www.anthropic.com/institute/recursive-self-improvement",
       "time": 1780590017.0,
       "comments_url": "https://news.ycombinator.com/item?id=48400842"
     },
     {
-      "title": "They’re made out of weights",
-      "score": 1297,
-      "url": "https://maxleiter.com/blog/weights",
-      "time": 1780529838.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48391611"
+      "title": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
+      "score": 7,
+      "url": "https://github.com/schildep/verified-polygon-intersection",
+      "time": 1780610778.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48405264"
     },
     {
-      "title": "Sum-product, unit distances, and number fields",
-      "score": 36,
-      "url": "https://www.erdosproblems.com/forum/thread/blog:6",
-      "time": 1780293267.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48353098"
+      "title": "Show HN: FFmpeg WebCLI – Full FFmpeg in Browser, Offline PWA, No Uploads(WASM)",
+      "score": 43,
+      "url": "https://github.com/tejaswigowda/ffmpeg-webCLI",
+      "time": 1780605138.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48404224"
     },
     {
-      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "score": 657,
-      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-      "time": 1780532282.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48392004"
+      "title": "Ian's Secure Shoelace Knot",
+      "score": 446,
+      "url": "https://www.fieggen.com/shoelace/secureknot.htm",
+      "time": 1780571854.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48397028"
+    },
+    {
+      "title": "Castor: CERN Advanced STORage Manager",
+      "score": 34,
+      "url": "https://castor.web.cern.ch/content/home.html",
+      "time": 1780602722.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48403753"
+    },
+    {
+      "title": "Retro-Tech Parenting",
+      "score": 209,
+      "url": "https://havenweb.org/2026/05/28/retro-tech.html",
+      "time": 1780588955.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48400588"
+    },
+    {
+      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "score": 101,
+      "url": "https://github.com/huawei-csl/KVarN",
+      "time": 1780586280.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48399974"
+    },
+    {
+      "title": "JLink JTAG Access on the Pinecil",
+      "score": 25,
+      "url": "https://danielmangum.com/posts/jlink-jtag-pinecil/",
+      "time": 1780428644.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48375064"
+    },
+    {
+      "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
+      "score": 15,
+      "url": "https://tiki.li/blog/blqsort",
+      "time": 1780430454.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48375445"
     },
     {
       "title": "Samurai City",
-      "score": 21,
+      "score": 64,
       "url": "https://worksinprogress.co/issue/samurai-city/",
       "time": 1780374739.0,
       "comments_url": "https://news.ycombinator.com/item?id=48366090"
     },
     {
-      "title": "Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call",
-      "score": 10,
-      "url": "https://cost.dev/",
-      "time": 1780572613.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48397148"
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "score": 712,
+      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "time": 1780532282.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48392004"
     },
     {
-      "title": "The desperation of NYTimes",
-      "score": 215,
-      "url": "https://rozumem.xyz/posts/16",
-      "time": 1780594753.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48401965"
+      "title": "Making Debian or Fedora persistent live images",
+      "score": 45,
+      "url": "https://sigwait.org/~alex/blog/2026/05/28/smdBC8.html",
+      "time": 1780336930.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48360414"
+    },
+    {
+      "title": "Meta's ships facial recognition on smart glasses",
+      "score": 155,
+      "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
+      "time": 1780601808.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48403588"
     },
     {
       "title": "Zettascale (YC S24) Is Hiring Founding FPGA Engineers",
@@ -86,57 +114,29 @@
       "comments_url": "https://news.ycombinator.com/item?id=48401433"
     },
     {
-      "title": "JLink JTAG Access on the Pinecil",
-      "score": 5,
-      "url": "https://danielmangum.com/posts/jlink-jtag-pinecil/",
-      "time": 1780428644.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48375064"
-    },
-    {
-      "title": "Making Debian or Fedora persistent live images",
-      "score": 21,
-      "url": "https://sigwait.org/~alex/blog/2026/05/28/smdBC8.html",
-      "time": 1780336930.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48360414"
-    },
-    {
-      "title": "U.S. Army Corps of Engineers Bay Model",
-      "score": 177,
-      "url": "https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model",
-      "time": 1780422600.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48373642"
-    },
-    {
-      "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
-      "score": 179,
-      "url": "https://uruky.com/?il=en",
-      "time": 1780563370.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48396004"
-    },
-    {
-      "title": "Gaussian Point Splatting",
-      "score": 154,
-      "url": "https://momentsingraphics.de/Siggraph2026.html",
-      "time": 1780570093.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48396792"
-    },
-    {
-      "title": "3D-printed book turns its own G-code into raised lettering",
+      "title": "Iran Shock Jolts Asia and Europe to Speed Up Energy Transition",
       "score": 54,
-      "url": "https://www.designboom.com/design/3d-printed-book-manual-darius-ou-benson-chong/",
-      "time": 1780409715.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48370558"
+      "url": "https://www.bloomberg.com/graphics/2026-energy-transition-iran-war/",
+      "time": 1780604347.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48404063"
     },
     {
-      "title": "AI, Ashby Engineering, and the future",
-      "score": 11,
-      "url": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
-      "time": 1780584524.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48399528"
+      "title": "Sum-product, unit distances, and number fields",
+      "score": 47,
+      "url": "https://www.erdosproblems.com/forum/thread/blog:6",
+      "time": 1780293267.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48353098"
+    },
+    {
+      "title": "Ask HN: High school student – is learning programming still worthwhile?",
+      "score": 10,
+      "url": "https://news.ycombinator.com/item?id=48403614",
+      "time": 1780601959.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48403614"
     },
     {
       "title": "Elixir v1.20: Now a gradually typed language",
-      "score": 933,
+      "score": 959,
       "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
       "time": 1780513346.0,
       "comments_url": "https://news.ycombinator.com/item?id=48388324"
