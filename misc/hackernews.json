@@ -1,75 +1,110 @@
 {
-  "last_updated": "2026-06-05T10:31:15.379051-04:00",
+  "last_updated": "2026-06-05T13:07:26.165752-04:00",
   "stories": [
     {
+      "title": "Astronauts on ISS told to shelter as repairs under way to fix air leaks",
+      "score": 175,
+      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+      "time": 1780671631.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48413464"
+    },
+    {
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "score": 86,
+      "url": "https://github.com/microsoft/pg_durable",
+      "time": 1780675197.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48414367"
+    },
+    {
       "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
-      "score": 109,
+      "score": 276,
       "url": "https://mouseless.click",
       "time": 1780492926.0,
       "comments_url": "https://news.ycombinator.com/item?id=48383667"
     },
     {
+      "title": "I tested every IP KVM in my Homelab",
+      "score": 82,
+      "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+      "time": 1780669850.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48413072"
+    },
+    {
+      "title": "Cooldown Support for Ruby Bundler",
+      "score": 88,
+      "url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
+      "time": 1780463709.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48380174"
+    },
+    {
       "title": "Tracing a powerful GNSS interference source over Europe",
-      "score": 218,
+      "score": 286,
       "url": "https://arxiv.org/abs/2606.03673",
       "time": 1780648336.0,
       "comments_url": "https://news.ycombinator.com/item?id=48409664"
     },
     {
       "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
-      "score": 93,
+      "score": 150,
       "url": "https://redis.io/blog/announcing-redis-8-8/",
       "time": 1780481111.0,
       "comments_url": "https://news.ycombinator.com/item?id=48382047"
     },
     {
-      "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
-      "score": 94,
-      "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
-      "time": 1780648417.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48409675"
+      "title": "Dutch gov't will only allow European company to operate DigiD platform",
+      "score": 98,
+      "url": "https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform",
+      "time": 1780670924.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48413295"
     },
     {
-      "title": "Changing how we develop Ladybird",
-      "score": 554,
-      "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-      "time": 1780644393.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48409191"
-    },
-    {
-      "title": "Cooldown Support for Ruby Bundler",
-      "score": 12,
-      "url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
-      "time": 1780463709.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48380174"
+      "title": "Mantine-datatable (and others) compromised – owner account suspended",
+      "score": 6,
+      "url": "https://github.com/icflorescu/mantine-datatable/discussions/813",
+      "time": 1780677597.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48414978"
     },
     {
       "title": "C++: The Documentary",
-      "score": 245,
+      "score": 299,
       "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
       "time": 1780634221.0,
       "comments_url": "https://news.ycombinator.com/item?id=48408016"
     },
     {
-      "title": "databow: a Rust CLI to query any database with an ADBC driver",
-      "score": 85,
-      "url": "https://columnar.tech/blog/introducing-databow//",
-      "time": 1780441873.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48377510"
+      "title": "Changing how we develop Ladybird",
+      "score": 699,
+      "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+      "time": 1780644393.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48409191"
     },
     {
-      "title": "Fine-tuning an LLM to write docs like it's 1995",
-      "score": 127,
-      "url": "https://passo.uno/fine-tuning-docs-llm/",
-      "time": 1780638366.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48408442"
+      "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
+      "score": 123,
+      "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
+      "time": 1780648417.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48409675"
     },
     {
-      "title": "ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol",
-      "score": 82,
-      "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
-      "time": 1780645204.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48409306"
+      "title": "Launch HN: General Instinct (YC P26) – Frontier models on edge devices",
+      "score": 5,
+      "url": "https://news.ycombinator.com/item?id=48414869",
+      "time": 1780677180.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48414869"
+    },
+    {
+      "title": "U.S. Military Turned GPS into a Global \"Numbers Station\"",
+      "score": 34,
+      "url": "https://www.404media.co/the-u-s-military-quietly-turned-gps-into-a-global-numbers-station-evidence-suggests/",
+      "time": 1780675596.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48414479"
+    },
+    {
+      "title": "Stop Using Conventional Commits",
+      "score": 104,
+      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+      "time": 1780673978.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48414027"
     },
     {
       "title": "Nango (YC W23, dev infra) is hiring staff back end engineers",
@@ -79,67 +114,32 @@
       "comments_url": "https://news.ycombinator.com/item?id=48411227"
     },
     {
-      "title": "Meta enables ADB on deprecated Portal devices [video]",
-      "score": 261,
-      "url": "https://fb.watch/HxPu0fSyeH/",
-      "time": 1780620278.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48406640"
+      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "score": 3,
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+      "time": 1780676328.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48414653"
     },
     {
-      "title": "Leap in DNA synthesis slashes time to build new genetic sequences",
-      "score": 75,
-      "url": "https://spectrum.ieee.org/faster-dna-synthesis-sidewinder",
-      "time": 1780595470.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48402116"
+      "title": "Fine-tuning an LLM to write docs like it's 1995",
+      "score": 159,
+      "url": "https://passo.uno/fine-tuning-docs-llm/",
+      "time": 1780638366.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48408442"
+    },
+    {
+      "title": "ESP32 Bit Pirate, a Hardware Hacking Tool with WebCLI That Speaks Every Protocol",
+      "score": 131,
+      "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+      "time": 1780645204.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48409306"
     },
     {
       "title": "Lee Kuan Yew's Singapore Story (2023)",
-      "score": 61,
+      "score": 120,
       "url": "https://www.historytoday.com/archive/feature/lee-kuan-yews-singapore-story",
       "time": 1780644224.0,
       "comments_url": "https://news.ycombinator.com/item?id=48409173"
-    },
-    {
-      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "score": 474,
-      "url": "https://github.com/anthropics/defending-code-reference-harness",
-      "time": 1780603880.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48403980"
-    },
-    {
-      "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
-      "score": 123,
-      "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
-      "time": 1780629268.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48407499"
-    },
-    {
-      "title": "Programmers will document for Claude, but not for each other",
-      "score": 66,
-      "url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
-      "time": 1780662617.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48411510"
-    },
-    {
-      "title": "At the Autograph Show",
-      "score": 17,
-      "url": "https://oldster.substack.com/p/at-the-autograph-show",
-      "time": 1780454142.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48379232"
-    },
-    {
-      "title": "The IsUpMap lets you check the status of over 100 major sites at once",
-      "score": 95,
-      "url": "https://isupmap.com/",
-      "time": 1780634688.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48408067"
-    },
-    {
-      "title": "I'm skeptical about efforts to revolutionize schooling",
-      "score": 244,
-      "url": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/",
-      "time": 1780433019.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48376008"
     }
   ]
 }
