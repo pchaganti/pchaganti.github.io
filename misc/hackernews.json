@@ -1,47 +1,96 @@
 {
-  "last_updated": "2026-06-06T09:09:21.401506-04:00",
+  "last_updated": "2026-06-06T12:01:09.830673-04:00",
   "stories": [
     {
+      "title": "Moving beyond fork() + exec()",
+      "score": 63,
+      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+      "time": 1780756460.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48425528"
+    },
+    {
+      "title": "Benchmarks in Leipzig",
+      "score": 58,
+      "url": "https://arxiv.org/abs/2606.05818",
+      "time": 1780754452.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48425247"
+    },
+    {
+      "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+      "score": 52,
+      "url": "https://twitter.com/lemire/status/2062880075117113739",
+      "time": 1780750338.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48424605"
+    },
+    {
+      "title": "Google will pay SpaceX $920M per month for compute",
+      "score": 159,
+      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "time": 1780746375.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48423990"
+    },
+    {
       "title": "How LLMs work",
-      "score": 462,
+      "score": 634,
       "url": "https://www.0xkato.xyz/how-llms-actually-work/",
       "time": 1780517713.0,
       "comments_url": "https://news.ycombinator.com/item?id=48389360"
     },
     {
+      "title": "Building Rust Procedural Macros from the Grounds Up",
+      "score": 34,
+      "url": "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html",
+      "time": 1780255729.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48348876"
+    },
+    {
+      "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+      "score": 97,
+      "url": "https://pokeemerald.com/",
+      "time": 1780744378.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48423762"
+    },
+    {
+      "title": "Tribute to Jiro Yamada, Automotive Artist (1960-2025) [video]",
+      "score": 17,
+      "url": "https://www.youtube.com/watch?v=rJ2gQ5Md60U",
+      "time": 1780692776.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48418125"
+    },
+    {
+      "title": "The new bibliomaniacs",
+      "score": 36,
+      "url": "https://engelsbergideas.com/notebook/the-new-bibliomaniacs/",
+      "time": 1780747401.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48424125"
+    },
+    {
       "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "score": 714,
+      "score": 993,
       "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
       "time": 1780720716.0,
       "comments_url": "https://news.ycombinator.com/item?id=48421442"
     },
     {
       "title": "The intracies of modern camera lens repair (2024)",
-      "score": 192,
+      "score": 212,
       "url": "https://salvagedcircuitry.com/sigma-45mm.html",
       "time": 1780706006.0,
       "comments_url": "https://news.ycombinator.com/item?id=48420148"
     },
     {
-      "title": "Google will pay SpaceX $920M per month for compute",
-      "score": 73,
-      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-      "time": 1780746375.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48423990"
+      "title": "US House lawmakers release draft bill to prohibit state AI rules",
+      "score": 49,
+      "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
+      "time": 1780753222.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48425031"
     },
     {
-      "title": "New method turns ocean water into drinking water, without waste",
-      "score": 413,
-      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-      "time": 1780671843.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48413500"
-    },
-    {
-      "title": "The new bibliomaniacs",
+      "title": "Splash Is a Colour Format",
       "score": 4,
-      "url": "https://engelsbergideas.com/notebook/the-new-bibliomaniacs/",
-      "time": 1780747401.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48424125"
+      "url": "https://www.todepond.com/lab/splash/",
+      "time": 1780521743.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48390269"
     },
     {
       "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
@@ -51,95 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=48424103"
     },
     {
-      "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
-      "score": 105,
-      "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
-      "time": 1780717292.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48421171"
-    },
-    {
-      "title": "Social Cache Busting",
-      "score": 65,
-      "url": "https://www.autodidacts.io/social-cache-busting/",
-      "time": 1780406118.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48369864"
+      "title": "New method turns ocean water into drinking water, without waste",
+      "score": 451,
+      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+      "time": 1780671843.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48413500"
     },
     {
       "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
-      "score": 385,
+      "score": 445,
       "url": "https://news.ycombinator.com/item?id=48406174",
       "time": 1780616540.0,
       "comments_url": "https://news.ycombinator.com/item?id=48406174"
     },
     {
-      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-      "score": 407,
-      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-      "time": 1780671631.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48413464"
+      "title": "Social Cache Busting",
+      "score": 91,
+      "url": "https://www.autodidacts.io/social-cache-busting/",
+      "time": 1780406118.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48369864"
+    },
+    {
+      "title": "Azure Linux Desktop",
+      "score": 58,
+      "url": "https://www.boxofcables.dev/azure-linux-desktop-a-build-2026-mashup-of-wslc-winui-reactor-and-azure-linux-4-0/",
+      "time": 1780731745.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48422451"
     },
     {
       "title": "pg_durable: Microsoft open sources in-database durable execution",
-      "score": 418,
+      "score": 439,
       "url": "https://github.com/microsoft/pg_durable",
       "time": 1780675197.0,
       "comments_url": "https://news.ycombinator.com/item?id=48414367"
     },
     {
-      "title": "HISE – Toolkit for building VST plugins",
-      "score": 9,
-      "url": "https://hise.dev",
-      "time": 1780529385.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48391541"
-    },
-    {
-      "title": "Did Claude increase bugs in rsync?",
-      "score": 449,
-      "url": "https://alexispurslane.github.io/rsync-analysis/",
-      "time": 1780663413.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48411635"
-    },
-    {
-      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-      "score": 363,
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-      "time": 1780676328.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48414653"
-    },
-    {
-      "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
-      "score": 87,
-      "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
-      "time": 1780737469.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48422993"
-    },
-    {
-      "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
-      "score": 544,
-      "url": "https://mouseless.click",
-      "time": 1780492926.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48383667"
-    },
-    {
-      "title": "Introduction – Rust for Python Programmers",
-      "score": 23,
-      "url": "https://microsoft.github.io/RustTraining/python-book/",
-      "time": 1780743145.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48423615"
-    },
-    {
-      "title": "Zig Zen Update",
-      "score": 100,
-      "url": "https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2",
-      "time": 1780735124.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48422769"
-    },
-    {
-      "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
-      "score": 3,
-      "url": "https://pokeemerald.com/",
-      "time": 1780744378.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48423762"
+      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+      "score": 413,
+      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+      "time": 1780671631.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48413464"
     }
   ]
 }
