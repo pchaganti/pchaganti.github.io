@@ -1,93 +1,135 @@
 {
-  "last_updated": "2026-06-06T12:01:09.830673-04:00",
+  "last_updated": "2026-06-06T15:05:32.990171-04:00",
   "stories": [
     {
-      "title": "Moving beyond fork() + exec()",
-      "score": 63,
-      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
-      "time": 1780756460.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48425528"
-    },
-    {
-      "title": "Benchmarks in Leipzig",
-      "score": 58,
-      "url": "https://arxiv.org/abs/2606.05818",
-      "time": 1780754452.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48425247"
+      "title": "Zeroserve: A zero-config web server you can script with eBPF",
+      "score": 84,
+      "url": "https://su3.io/posts/introducing-zeroserve",
+      "time": 1780757983.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48425723"
     },
     {
       "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
-      "score": 52,
+      "score": 121,
       "url": "https://twitter.com/lemire/status/2062880075117113739",
       "time": 1780750338.0,
       "comments_url": "https://news.ycombinator.com/item?id=48424605"
     },
     {
+      "title": "Benchmarks in Leipzig",
+      "score": 90,
+      "url": "https://arxiv.org/abs/2606.05818",
+      "time": 1780754452.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48425247"
+    },
+    {
+      "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
+      "score": 49,
+      "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
+      "time": 1780770066.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48427523"
+    },
+    {
+      "title": "You Can Run",
+      "score": 30,
+      "url": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
+      "time": 1780761346.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48426202"
+    },
+    {
+      "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+      "score": 174,
+      "url": "https://pokeemerald.com/",
+      "time": 1780744378.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48423762"
+    },
+    {
       "title": "Google will pay SpaceX $920M per month for compute",
-      "score": 159,
+      "score": 279,
       "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
       "time": 1780746375.0,
       "comments_url": "https://news.ycombinator.com/item?id=48423990"
     },
     {
       "title": "How LLMs work",
-      "score": 634,
+      "score": 720,
       "url": "https://www.0xkato.xyz/how-llms-actually-work/",
       "time": 1780517713.0,
       "comments_url": "https://news.ycombinator.com/item?id=48389360"
     },
     {
+      "title": "Moving beyond fork() + exec()",
+      "score": 185,
+      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+      "time": 1780756460.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48425528"
+    },
+    {
+      "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk",
+      "score": 32,
+      "url": "https://uonr.github.io/poincake/",
+      "time": 1780416506.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48372138"
+    },
+    {
+      "title": "Running Python code in a sandbox with MicroPython and WASM",
+      "score": 42,
+      "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/",
+      "time": 1780755332.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48425347"
+    },
+    {
+      "title": "Police in England and Wales told to halt AI use in court statements",
+      "score": 94,
+      "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
+      "time": 1780760149.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48426022"
+    },
+    {
       "title": "Building Rust Procedural Macros from the Grounds Up",
-      "score": 34,
+      "score": 57,
       "url": "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html",
       "time": 1780255729.0,
       "comments_url": "https://news.ycombinator.com/item?id=48348876"
     },
     {
-      "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
-      "score": 97,
-      "url": "https://pokeemerald.com/",
-      "time": 1780744378.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48423762"
+      "title": "WoofWare.PawPrint, a Deterministic .NET Runtime",
+      "score": 7,
+      "url": "https://www.patrickstevens.co.uk/posts/2026-06-04-announcing-woofware-pawprint/",
+      "time": 1780558340.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48395370"
     },
     {
-      "title": "Tribute to Jiro Yamada, Automotive Artist (1960-2025) [video]",
-      "score": 17,
-      "url": "https://www.youtube.com/watch?v=rJ2gQ5Md60U",
-      "time": 1780692776.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48418125"
+      "title": "Summer of '85: DOSBOS is rejected by ANALOG Computing",
+      "score": 21,
+      "url": "https://www.goto10retro.com/p/summer-of-85-dosbos-is-rejected-by",
+      "time": 1780570027.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48396783"
     },
     {
       "title": "The new bibliomaniacs",
-      "score": 36,
+      "score": 54,
       "url": "https://engelsbergideas.com/notebook/the-new-bibliomaniacs/",
       "time": 1780747401.0,
       "comments_url": "https://news.ycombinator.com/item?id=48424125"
     },
     {
       "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "score": 993,
+      "score": 1164,
       "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
       "time": 1780720716.0,
       "comments_url": "https://news.ycombinator.com/item?id=48421442"
     },
     {
-      "title": "The intracies of modern camera lens repair (2024)",
-      "score": 212,
-      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-      "time": 1780706006.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48420148"
-    },
-    {
-      "title": "US House lawmakers release draft bill to prohibit state AI rules",
-      "score": 49,
-      "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
-      "time": 1780753222.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48425031"
+      "title": "Tribute to Jiro Yamada, Automotive Artist (1960-2025) [video]",
+      "score": 30,
+      "url": "https://www.youtube.com/watch?v=rJ2gQ5Md60U",
+      "time": 1780692776.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48418125"
     },
     {
       "title": "Splash Is a Colour Format",
-      "score": 4,
+      "score": 22,
       "url": "https://www.todepond.com/lab/splash/",
       "time": 1780521743.0,
       "comments_url": "https://news.ycombinator.com/item?id=48390269"
@@ -98,48 +140,6 @@
       "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
       "time": 1780747256.0,
       "comments_url": "https://news.ycombinator.com/item?id=48424103"
-    },
-    {
-      "title": "New method turns ocean water into drinking water, without waste",
-      "score": 451,
-      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-      "time": 1780671843.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48413500"
-    },
-    {
-      "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
-      "score": 445,
-      "url": "https://news.ycombinator.com/item?id=48406174",
-      "time": 1780616540.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48406174"
-    },
-    {
-      "title": "Social Cache Busting",
-      "score": 91,
-      "url": "https://www.autodidacts.io/social-cache-busting/",
-      "time": 1780406118.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48369864"
-    },
-    {
-      "title": "Azure Linux Desktop",
-      "score": 58,
-      "url": "https://www.boxofcables.dev/azure-linux-desktop-a-build-2026-mashup-of-wslc-winui-reactor-and-azure-linux-4-0/",
-      "time": 1780731745.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48422451"
-    },
-    {
-      "title": "pg_durable: Microsoft open sources in-database durable execution",
-      "score": 439,
-      "url": "https://github.com/microsoft/pg_durable",
-      "time": 1780675197.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48414367"
-    },
-    {
-      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-      "score": 413,
-      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-      "time": 1780671631.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48413464"
     }
   ]
 }
