@@ -1,61 +1,96 @@
 {
-  "last_updated": "2026-06-07T09:22:49.278815-04:00",
+  "last_updated": "2026-06-07T12:06:37.798279-04:00",
   "stories": [
     {
       "title": "LLMs are eroding my software engineering career and I don't know what to do",
-      "score": 98,
+      "score": 439,
       "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
       "time": 1780836569.0,
       "comments_url": "https://news.ycombinator.com/item?id=48434312"
     },
     {
+      "title": "Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years",
+      "score": 22,
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122",
+      "time": 1780844890.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48435584"
+    },
+    {
       "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
-      "score": 244,
+      "score": 291,
       "url": "https://www.ioccc.org/2025/",
       "time": 1780811274.0,
       "comments_url": "https://news.ycombinator.com/item?id=48432199"
     },
     {
-      "title": "Win16 Memory Management",
-      "score": 67,
-      "url": "http://www.os2museum.com/wp/win16-memory-management/",
-      "time": 1780658207.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48410844"
+      "title": "Anthropic, please ship an official Claude Desktop for Linux",
+      "score": 190,
+      "url": "https://github.com/anthropics/claude-code/issues/65697",
+      "time": 1780837612.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48434436"
+    },
+    {
+      "title": "The OnlyFans Economy of American AI",
+      "score": 92,
+      "url": "https://leoveanu.com/2026-06-06-qwen3.7max/",
+      "time": 1780843637.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48435371"
+    },
+    {
+      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+      "score": 65,
+      "url": "https://github.com/devenjarvis/lathe",
+      "time": 1780831006.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48433756"
+    },
+    {
+      "title": "Podman 6: machine usability improvements",
+      "score": 16,
+      "url": "https://blog.podman.io/2025/10/podman-6-machine-usability-improvements/",
+      "time": 1780840887.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48434963"
+    },
+    {
+      "title": "Agents, Agile, Communism, Coercion",
+      "score": 4,
+      "url": "https://elliotmorris.net/agents-agile-communism-coercion",
+      "time": 1780846998.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48435924"
     },
     {
       "title": "Yon – a topos-oriented language with a content-addressed lattice heap",
-      "score": 11,
+      "score": 38,
       "url": "https://yon-lang.org/",
       "time": 1780619297.0,
       "comments_url": "https://news.ycombinator.com/item?id=48406530"
     },
     {
+      "title": "Cloning a Sennheiser BA2015 battery pack",
+      "score": 8,
+      "url": "https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/",
+      "time": 1780769800.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48427480"
+    },
+    {
+      "title": "Win16 Memory Management",
+      "score": 97,
+      "url": "http://www.os2museum.com/wp/win16-memory-management/",
+      "time": 1780658207.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48410844"
+    },
+    {
+      "title": "Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers",
+      "score": 35,
+      "url": "https://kyushu.dev/",
+      "time": 1780817702.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48432722"
+    },
+    {
       "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×",
-      "score": 83,
+      "score": 113,
       "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
       "time": 1780586993.0,
       "comments_url": "https://news.ycombinator.com/item?id=48400151"
-    },
-    {
-      "title": "The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)",
-      "score": 22,
-      "url": "https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/",
-      "time": 1780581339.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48398703"
-    },
-    {
-      "title": "Valve P2P networking broken for more than 2 months",
-      "score": 209,
-      "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
-      "time": 1780802512.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48431461"
-    },
-    {
-      "title": "My Software North Star",
-      "score": 125,
-      "url": "https://kristoff.it/blog/north-star/",
-      "time": 1780517767.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48389368"
     },
     {
       "title": "9 Mothers (YC P26) Is Hiring",
@@ -65,81 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=48433987"
     },
     {
-      "title": "Field of clones: How horse replicas came to dominate polo",
-      "score": 111,
-      "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
-      "time": 1780800397.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48431286"
+      "title": "How Long Does It Take for a QQuickItem to Become Visible?",
+      "score": 20,
+      "url": "https://www.kdab.com/how-long-does-it-take-for-an-item-to-become-visible/",
+      "time": 1780601369.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48403488"
     },
     {
-      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
-      "score": 125,
-      "url": "https://arxiv.org/abs/2601.14470",
-      "time": 1780796231.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48430923"
-    },
-    {
-      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
-      "score": 365,
-      "url": "https://ntsc.rs/",
-      "time": 1780773466.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48428025"
-    },
-    {
-      "title": "Scientists ejected from diabetes conference for distributing journal reprints",
-      "score": 180,
-      "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
-      "time": 1780827033.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48433410"
+      "title": "My Software North Star",
+      "score": 161,
+      "url": "https://kristoff.it/blog/north-star/",
+      "time": 1780517767.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48389368"
     },
     {
       "title": "Public Domain Image Archive",
-      "score": 158,
+      "score": 192,
       "url": "https://pdimagearchive.org/",
       "time": 1780791771.0,
       "comments_url": "https://news.ycombinator.com/item?id=48430539"
     },
     {
-      "title": "Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers",
-      "score": 7,
-      "url": "https://kyushu.dev/",
-      "time": 1780817702.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48432722"
+      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "score": 380,
+      "url": "https://ntsc.rs/",
+      "time": 1780773466.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48428025"
     },
     {
-      "title": "Symbolica 2.0: Programmable Symbols for Python and Rust",
-      "score": 102,
-      "url": "https://symbolica.io/posts/symbolica_2_0_release/",
-      "time": 1780679639.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48415457"
+      "title": "Valve P2P networking broken for more than 2 months",
+      "score": 225,
+      "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+      "time": 1780802512.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48431461"
     },
     {
-      "title": "Harness engineering: Leveraging Codex in an agent-first world",
-      "score": 236,
-      "url": "https://openai.com/index/harness-engineering/",
-      "time": 1780683606.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48416264"
-    },
-    {
-      "title": "How Liminalism Became the Defining Aesthetic of Our Time",
-      "score": 98,
-      "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
-      "time": 1780798339.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48431085"
-    },
-    {
-      "title": "Biohub releases a world model of protein biology",
-      "score": 101,
-      "url": "https://biohub.org/news/world-model-of-protein-biology/",
-      "time": 1780542725.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48393252"
-    },
-    {
-      "title": "How Long Does It Take for a QQuickItem to Become Visible?",
-      "score": 4,
-      "url": "https://www.kdab.com/how-long-does-it-take-for-an-item-to-become-visible/",
-      "time": 1780601369.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48403488"
+      "title": "The Secret Life of Circuits with lcamtuf / Michał Zalewski (Audio Interview)",
+      "score": 31,
+      "url": "https://theamphour.com/725-the-secret-life-of-circuits-with-lcamtuf-michal-zalewski/",
+      "time": 1780581339.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48398703"
     }
   ]
 }
