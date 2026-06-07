@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-06-07T02:58:43.649931-04:00",
+  "last_updated": "2026-06-07T07:01:32.669870-04:00",
   "stories": [
     {
       "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
-      "score": 42,
+      "score": 179,
       "url": "https://www.ioccc.org/2025/",
       "time": 1780811274.0,
       "comments_url": "https://news.ycombinator.com/item?id=48432199"
     },
     {
-      "title": "I design with Claude more than Figma now",
-      "score": 62,
-      "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
-      "time": 1780808664.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48431981"
+      "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×",
+      "score": 51,
+      "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
+      "time": 1780586993.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48400151"
+    },
+    {
+      "title": "Win16 Memory Management",
+      "score": 31,
+      "url": "http://www.os2museum.com/wp/win16-memory-management/",
+      "time": 1780658207.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48410844"
     },
     {
       "title": "Valve P2P networking broken for more than 2 months",
-      "score": 108,
+      "score": 179,
       "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
       "time": 1780802512.0,
       "comments_url": "https://news.ycombinator.com/item?id=48431461"
     },
     {
-      "title": "Field of clones: How horse replicas came to dominate polo",
-      "score": 67,
-      "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
-      "time": 1780800397.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48431286"
-    },
-    {
-      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
-      "score": 79,
-      "url": "https://arxiv.org/abs/2601.14470",
-      "time": 1780796231.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48430923"
-    },
-    {
-      "title": "Harness engineering: Leveraging Codex in an agent-first world",
-      "score": 167,
-      "url": "https://openai.com/index/harness-engineering/",
-      "time": 1780683606.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48416264"
-    },
-    {
       "title": "My Software North Star",
-      "score": 25,
+      "score": 88,
       "url": "https://kristoff.it/blog/north-star/",
       "time": 1780517767.0,
       "comments_url": "https://news.ycombinator.com/item?id=48389368"
     },
     {
+      "title": "Field of clones: How horse replicas came to dominate polo",
+      "score": 94,
+      "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
+      "time": 1780800397.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48431286"
+    },
+    {
+      "title": "Scientists ejected from diabetes conference for distributing journal reprints",
+      "score": 26,
+      "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
+      "time": 1780827033.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48433410"
+    },
+    {
+      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+      "score": 110,
+      "url": "https://arxiv.org/abs/2601.14470",
+      "time": 1780796231.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48430923"
+    },
+    {
       "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
-      "score": 320,
+      "score": 351,
       "url": "https://ntsc.rs/",
       "time": 1780773466.0,
       "comments_url": "https://news.ycombinator.com/item?id=48428025"
     },
     {
-      "title": "Public Domain Image Archive",
-      "score": 90,
-      "url": "https://pdimagearchive.org/",
-      "time": 1780791771.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48430539"
-    },
-    {
       "title": "Symbolica 2.0: Programmable Symbols for Python and Rust",
-      "score": 55,
+      "score": 91,
       "url": "https://symbolica.io/posts/symbolica_2_0_release/",
       "time": 1780679639.0,
       "comments_url": "https://news.ycombinator.com/item?id=48415457"
     },
     {
-      "title": "Human-Like Neural Nets by Catapulting",
-      "score": 20,
-      "url": "https://gwern.net/llm-catapult",
-      "time": 1780789536.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48430282"
+      "title": "Public Domain Image Archive",
+      "score": 133,
+      "url": "https://pdimagearchive.org/",
+      "time": 1780791771.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48430539"
     },
     {
-      "title": "How Liminalism Became the Defining Aesthetic of Our Time",
-      "score": 40,
-      "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
-      "time": 1780798339.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48431085"
+      "title": "Harness engineering: Leveraging Codex in an agent-first world",
+      "score": 206,
+      "url": "https://openai.com/index/harness-engineering/",
+      "time": 1780683606.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48416264"
+    },
+    {
+      "title": "I design with Claude more than Figma now",
+      "score": 174,
+      "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+      "time": 1780808664.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48431981"
     },
     {
       "title": "Biohub releases a world model of protein biology",
-      "score": 42,
+      "score": 86,
       "url": "https://biohub.org/news/world-model-of-protein-biology/",
       "time": 1780542725.0,
       "comments_url": "https://news.ycombinator.com/item?id=48393252"
     },
     {
-      "title": "Show HN: Oproxy – inspect and modify network traffic from the browser",
-      "score": 34,
-      "url": "https://github.com/sauravrao637/oproxy",
-      "time": 1780798289.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48431079"
+      "title": "How Liminalism Became the Defining Aesthetic of Our Time",
+      "score": 75,
+      "url": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
+      "time": 1780798339.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48431085"
     },
     {
-      "title": "Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved",
-      "score": 74,
-      "url": "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06",
-      "time": 1780613928.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48405815"
-    },
-    {
-      "title": "Moving beyond fork() + exec()",
-      "score": 285,
-      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
-      "time": 1780756460.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48425528"
+      "title": "Games Between Programs: The Ruliology of Competition",
+      "score": 9,
+      "url": "https://writings.stephenwolfram.com/2026/06/games-between-programs-the-ruliology-of-competition/",
+      "time": 1780595668.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48402157"
     },
     {
       "title": "Arithmetic Without Numbers – How LLMs Do Math",
-      "score": 4,
+      "score": 31,
       "url": "https://alvaro-videla.com/llm-arithmetic-internals/article_interactive/article.html",
       "time": 1780654779.0,
       "comments_url": "https://news.ycombinator.com/item?id=48410427"
     },
     {
-      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-      "score": 546,
-      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-      "time": 1780770927.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48427643"
+      "title": "Moving beyond fork() + exec()",
+      "score": 306,
+      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+      "time": 1780756460.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48425528"
     },
     {
-      "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
-      "score": 267,
-      "url": "https://twitter.com/lemire/status/2062880075117113739",
-      "time": 1780750338.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48424605"
+      "title": "Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved",
+      "score": 85,
+      "url": "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06",
+      "time": 1780613928.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48405815"
     },
     {
-      "title": "Zeroserve: A zero-config web server you can script with eBPF",
-      "score": 220,
-      "url": "https://su3.io/posts/introducing-zeroserve",
-      "time": 1780757983.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48425723"
+      "title": "Enforcing the First as in BGP AS_PATHs",
+      "score": 5,
+      "url": "https://blog.cloudflare.com/enforce-first-as-bgp/",
+      "time": 1780578277.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48398092"
     }
   ]
 }
