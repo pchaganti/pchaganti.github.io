@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-06-14T15:10:00.182606-04:00",
+  "last_updated": "2026-06-14T18:01:57.577747-04:00",
   "stories": [
     {
       "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
-      "score": 85,
+      "score": 277,
       "url": "https://github.com/tamnd/kage",
       "time": 1781457938.0,
       "comments_url": "https://news.ycombinator.com/item?id=48529990"
     },
     {
+      "title": "Zinnia: A modular 64-bit Unix-like kernel written in Rust",
+      "score": 30,
+      "url": "https://zinnia-os.org/",
+      "time": 1781471086.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48532705"
+    },
+    {
+      "title": "Yserver: A modern X11 server written in Rust",
+      "score": 68,
+      "url": "https://github.com/joske/yserver",
+      "time": 1781464235.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48531394"
+    },
+    {
       "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "score": 161,
+      "score": 231,
       "url": "https://github.com/nex-agi/Nex-N2/issues/4",
       "time": 1781451451.0,
       "comments_url": "https://news.ycombinator.com/item?id=48528371"
     },
     {
+      "title": "Chaosnet (1981)",
+      "score": 42,
+      "url": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
+      "time": 1781464461.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48531449"
+    },
+    {
       "title": "Firewood Splitting Simulator",
-      "score": 411,
+      "score": 535,
       "url": "https://screen.toys/firewood/",
       "time": 1781067691.0,
       "comments_url": "https://news.ycombinator.com/item?id=48471638"
     },
     {
+      "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call",
+      "score": 56,
+      "url": "https://traceapp.info",
+      "time": 1781383318.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48521236"
+    },
+    {
+      "title": "Segmented type appreciation corner (2018)",
+      "score": 49,
+      "url": "https://aresluna.org/segmented-type/",
+      "time": 1781182229.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48489636"
+    },
+    {
       "title": "Ask HN: What are you working on? (June 2026)",
-      "score": 61,
+      "score": 123,
       "url": "https://news.ycombinator.com/item?id=48528779",
       "time": 1781453128.0,
       "comments_url": "https://news.ycombinator.com/item?id=48528779"
     },
     {
-      "title": "The Birth and Death of JavaScript (2014)",
-      "score": 177,
-      "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
-      "time": 1781440711.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48526661"
-    },
-    {
       "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
-      "score": 98,
+      "score": 135,
       "url": "https://su3.io/posts/zeroserve-caddy-compat",
       "time": 1781444588.0,
       "comments_url": "https://news.ycombinator.com/item?id=48527145"
     },
     {
-      "title": "Perlisisms",
-      "score": 59,
+      "title": "Perlisisms (1982)",
+      "score": 81,
       "url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
       "time": 1781449016.0,
       "comments_url": "https://news.ycombinator.com/item?id=48527820"
     },
     {
-      "title": "Formal Methods and the Future of Programming",
-      "score": 95,
+      "title": "Formal methods and the future of programming",
+      "score": 147,
       "url": "https://blog.janestreet.com/formal-methods-at-jane-street-index/?from_theconsensus=1",
       "time": 1781440527.0,
       "comments_url": "https://news.ycombinator.com/item?id=48526633"
     },
     {
-      "title": "USB Power Delivery: Plugging into the Benefits",
-      "score": 14,
-      "url": "https://www.aptiv.com/en/insights/article/usb-power-delivery-plugging-into-the-benefits",
-      "time": 1781180122.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48489309"
-    },
-    {
-      "title": "No, everyone is not using AI for everything",
-      "score": 302,
-      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
-      "time": 1781448269.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48527700"
-    },
-    {
-      "title": "FarOutCompany",
-      "score": 69,
-      "url": "https://faroutcompany.com/",
-      "time": 1781446169.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48527360"
+      "title": "Inverse Rubric Optimization: A testbed for agent science",
+      "score": 15,
+      "url": "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html",
+      "time": 1781142199.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48485277"
     },
     {
       "title": "The only scalable delete in Postgres is DROP TABLE",
-      "score": 77,
+      "score": 103,
       "url": "https://planetscale.com/blog/the-only-scalable-delete",
       "time": 1781196529.0,
       "comments_url": "https://news.ycombinator.com/item?id=48492822"
     },
     {
       "title": "Lisp's Influence on Ruby",
-      "score": 173,
+      "score": 201,
       "url": "https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e",
       "time": 1781188991.0,
       "comments_url": "https://news.ycombinator.com/item?id=48491048"
     },
     {
+      "title": "FarOutCompany",
+      "score": 88,
+      "url": "https://faroutcompany.com/",
+      "time": 1781446169.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48527360"
+    },
+    {
       "title": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
-      "score": 128,
+      "score": 216,
       "url": "https://news.ycombinator.com/item?id=48528029",
       "time": 1781450037.0,
       "comments_url": "https://news.ycombinator.com/item?id=48528029"
     },
     {
-      "title": "Show HN: Dual YOLOv8n UAV Detection on RK3588S at 42 FPS Using NPU",
-      "score": 41,
-      "url": "https://github.com/alebal123bal/khadas_yolov8n_multithread",
-      "time": 1781447871.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48527623"
+      "title": "The Birth and Death of JavaScript (2014)",
+      "score": 196,
+      "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
+      "time": 1781440711.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48526661"
     },
     {
-      "title": "Global density and biomass of arbuscular mycorrhizal fungal networks",
-      "score": 32,
-      "url": "https://www.science.org/doi/10.1126/science.adu4373",
-      "time": 1781369932.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48519102"
+      "title": "The first game engine for robotics",
+      "score": 21,
+      "url": "https://luckyrobots.com/",
+      "time": 1781258541.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48502053"
     },
     {
-      "title": "Not mine, but it's a website where you can use a segment display",
-      "score": 10,
-      "url": "https://aresluna.org/segmented-type/",
-      "time": 1781182229.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48489636"
-    },
-    {
-      "title": "Linux 7.1",
-      "score": 113,
-      "url": "https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u",
-      "time": 1781452890.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48528729"
-    },
-    {
-      "title": "Show HN: 3D print Z reinforcement via injected loops",
-      "score": 29,
-      "url": "https://mgunlogson.github.io/magma/",
-      "time": 1781011073.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48460762"
-    },
-    {
-      "title": "Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks",
-      "score": 120,
-      "url": "https://twitter.com/zenmagnets/status/2065796012820848699",
-      "time": 1781447917.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48527634"
+      "title": "TorchCodec 0.14: HDR Video Decoding for CPU and CUDA, and Fast Wav Decoder",
+      "score": 3,
+      "url": "https://github.com/meta-pytorch/torchcodec/releases/tag/v0.14.0",
+      "time": 1781100516.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48476539"
     }
   ]
 }
