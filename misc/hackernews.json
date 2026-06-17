@@ -1,82 +1,117 @@
 {
-  "last_updated": "2026-06-17T16:00:16.954023-04:00",
+  "last_updated": "2026-06-17T18:28:58.894437-04:00",
   "stories": [
     {
-      "title": "Epic Games announces Lore version control system",
-      "score": 705,
+      "title": "Lore – Open source version control system designed for scalability",
+      "score": 850,
       "url": "https://lore.org/",
       "time": 1781706627.0,
       "comments_url": "https://news.ycombinator.com/item?id=48571081"
     },
     {
-      "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
-      "score": 35,
-      "url": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3",
-      "time": 1781724122.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48575451"
+      "title": "Why Can't Walnut Creek Build 3 Bedroom Apartments with a Playground?",
+      "score": 29,
+      "url": "https://kevin.burke.dev/kevin/walnut-creek-single-stair/",
+      "time": 1781732127.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48577246"
     },
     {
-      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
-      "score": 91,
-      "url": "https://github.com/Adam-CAD/CADAM",
-      "time": 1781712844.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48572553"
-    },
-    {
-      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-      "score": 663,
-      "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-      "time": 1781687520.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48567759"
-    },
-    {
-      "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
-      "score": 99,
-      "url": "https://browser-use.com/posts/firecracker-browser-infra",
-      "time": 1781622901.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48556561"
+      "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
+      "score": 92,
+      "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
+      "time": 1781730007.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48576824"
     },
     {
       "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
-      "score": 171,
+      "score": 254,
       "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
       "time": 1781668516.0,
       "comments_url": "https://news.ycombinator.com/item?id=48565498"
     },
     {
-      "title": "RFC 10008: The new HTTP Query Method",
-      "score": 262,
-      "url": "https://www.rfc-editor.org/info/rfc10008/",
-      "time": 1781693477.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48568502"
+      "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
+      "score": 159,
+      "url": "https://browser-use.com/posts/firecracker-browser-infra",
+      "time": 1781622901.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48556561"
     },
     {
-      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-      "score": 939,
-      "url": "https://wpvip.com/future-of-the-web-2026/",
-      "time": 1781698287.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48569278"
+      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+      "score": 74,
+      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+      "time": 1781731895.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48577208"
+    },
+    {
+      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+      "score": 727,
+      "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+      "time": 1781687520.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48567759"
+    },
+    {
+      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "score": 127,
+      "url": "https://github.com/Adam-CAD/CADAM",
+      "time": 1781712844.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48572553"
+    },
+    {
+      "title": "Storied Colors – a catalogue of named colors",
+      "score": 17,
+      "url": "https://storiedcolors.com/",
+      "time": 1781732943.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48577374"
+    },
+    {
+      "title": "Show HN: An 8-bit live gamecast for baseball",
+      "score": 171,
+      "url": "https://ribbie.tv/watch",
+      "time": 1781714655.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48573012"
     },
     {
       "title": "U.S. science is in chaos",
-      "score": 399,
+      "score": 549,
       "url": "https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/",
       "time": 1781690061.0,
       "comments_url": "https://news.ycombinator.com/item?id=48568058"
     },
     {
-      "title": "The Competitive Moat That AI Can't Replicate",
-      "score": 46,
-      "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
-      "time": 1781716461.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48573435"
+      "title": "Tesco moving 40k server workloads off VMware amid Broadcom's abusive conduct",
+      "score": 52,
+      "url": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
+      "time": 1781730053.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48576838"
     },
     {
-      "title": "Want your images back? That'll be $5",
-      "score": 536,
-      "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
-      "time": 1781701503.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48569954"
+      "title": "RFC 10008: The new HTTP Query Method",
+      "score": 296,
+      "url": "https://www.rfc-editor.org/info/rfc10008/",
+      "time": 1781693477.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48568502"
+    },
+    {
+      "title": "The Return of Rigorous Full-System Timing Simulation",
+      "score": 19,
+      "url": "https://www.sigarch.org/the-return-of-rigorous-full-system-timing-simulation/",
+      "time": 1781588991.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48551069"
+    },
+    {
+      "title": "Volkswagen started blocking GrapheneOS users",
+      "score": 418,
+      "url": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
+      "time": 1781708687.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48571526"
+    },
+    {
+      "title": "Loreline – Tools for writing interactive fiction",
+      "score": 15,
+      "url": "https://loreline.app/en/",
+      "time": 1781728155.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48576395"
     },
     {
       "title": "Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access",
@@ -86,60 +121,25 @@
       "comments_url": "https://news.ycombinator.com/item?id=48573221"
     },
     {
+      "title": "The Competitive Moat That AI Can't Replicate",
+      "score": 87,
+      "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
+      "time": 1781716461.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48573435"
+    },
+    {
       "title": "Why thinking out loud with someone beats thinking alone",
-      "score": 98,
+      "score": 132,
       "url": "https://www.thesignalist.io/s/the-dialogue-dividend/",
       "time": 1781701238.0,
       "comments_url": "https://news.ycombinator.com/item?id=48569894"
     },
     {
-      "title": "MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C",
-      "score": 140,
-      "url": "https://github.com/rxi/microui",
-      "time": 1781697868.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48569205"
-    },
-    {
-      "title": "Show HN: Inkwash, a watercolor sketching app and explanation",
-      "score": 114,
-      "url": "https://johnowhitaker.github.io/inkwash/about",
-      "time": 1781403283.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48523534"
-    },
-    {
-      "title": "TREX: An AI code reviewer that runs your code",
-      "score": 33,
-      "url": "https://www.greptile.com/blog/trex-code-execution",
-      "time": 1781710141.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48571851"
-    },
-    {
-      "title": "The Capitoline Wolf",
-      "score": 9,
-      "url": "https://thehappytraveler.ca/travel-guide-italy/capitoline-wolf-siena-rome-myths/",
-      "time": 1781457700.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48529923"
-    },
-    {
-      "title": "Hacker News but for independent blogs",
-      "score": 453,
-      "url": "https://bubbles.town/",
-      "time": 1781682584.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48567155"
-    },
-    {
-      "title": "AI chemist improves a challenging reaction in medicinal chemistry",
-      "score": 26,
-      "url": "https://openai.com/index/ai-chemist-improves-reaction/",
-      "time": 1781717660.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48573757"
-    },
-    {
-      "title": "Kirkland Roundabouts",
-      "score": 114,
-      "url": "https://kirklandroundabouts.com",
-      "time": 1781473316.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48533098"
+      "title": "Made a free macOS menu bar app that fixes typing in the wrong keyboard layout",
+      "score": 22,
+      "url": "https://flickey.site",
+      "time": 1781725811.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48575878"
     }
   ]
 }
