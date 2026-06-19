@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-06-18T23:27:08.418122-04:00",
+  "last_updated": "2026-06-19T06:12:44.064628-04:00",
   "stories": [
     {
+      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "score": 127,
+      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+      "time": 1781850957.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48595511"
+    },
+    {
+      "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
+      "score": 180,
+      "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+      "time": 1781608028.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48553388"
+    },
+    {
+      "title": "So You Want to Define a Well-Known URI",
+      "score": 68,
+      "url": "https://mnot.net/blog/2026/well_known_uris",
+      "time": 1781849101.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48595331"
+    },
+    {
       "title": "To study how chips work, MIT researchers built their own operating system",
-      "score": 40,
+      "score": 186,
       "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
       "time": 1781539582.0,
       "comments_url": "https://news.ycombinator.com/item?id=48543311"
     },
     {
-      "title": "Zero-Touch OAuth for MCP",
-      "score": 122,
-      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
-      "time": 1781819650.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48592163"
+      "title": "Ten years of ClickHouse in open source",
+      "score": 28,
+      "url": "https://clickhouse.com/blog/open-source-10",
+      "time": 1781556714.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48546890"
     },
     {
-      "title": "How Japan's railways stayed one while splitting apart",
-      "score": 50,
-      "url": "https://arun.is/blog/jr-logo/",
-      "time": 1781705038.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48570730"
+      "title": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
+      "score": 91,
+      "url": "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/",
+      "time": 1781530523.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48541062"
     },
     {
-      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-      "score": 37,
-      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
-      "time": 1781831187.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48593731"
+      "title": "Zen and the Art of Machine Learning Research",
+      "score": 54,
+      "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+      "time": 1781570750.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48549118"
     },
     {
       "title": "I found 10k GitHub repositories distributing Trojan malware",
-      "score": 690,
+      "score": 797,
       "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
       "time": 1781783143.0,
       "comments_url": "https://news.ycombinator.com/item?id=48583928"
     },
     {
-      "title": "Cell-based architecture for resilient payment systems",
-      "score": 96,
-      "url": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
-      "time": 1781562993.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48547969"
+      "title": "Fable Converted Pylint to Rust",
+      "score": 43,
+      "url": "https://pypi.org/project/prylint/",
+      "time": 1781842867.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48594733"
+    },
+    {
+      "title": "Zero-Touch OAuth for MCP",
+      "score": 198,
+      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+      "time": 1781819650.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48592163"
+    },
+    {
+      "title": "The Raku Foundation is born",
+      "score": 27,
+      "url": "https://raku.foundation",
+      "time": 1781534189.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48541940"
+    },
+    {
+      "title": "How Japan's railways stayed one while splitting apart",
+      "score": 101,
+      "url": "https://arun.is/blog/jr-logo/",
+      "time": 1781705038.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48570730"
     },
     {
       "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
-      "score": 273,
+      "score": 342,
       "url": "https://blog.ui.com/article/introducing-enterprise-nas",
       "time": 1781792670.0,
       "comments_url": "https://news.ycombinator.com/item?id=48585866"
     },
     {
+      "title": "The AirPods Effect",
+      "score": 100,
+      "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+      "time": 1781824115.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48592832"
+    },
+    {
+      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+      "score": 80,
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+      "time": 1781831187.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48593731"
+    },
+    {
       "title": "Building a robotics research setup that lives next to my desk",
-      "score": 13,
+      "score": 82,
       "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
       "time": 1781794313.0,
       "comments_url": "https://news.ycombinator.com/item?id=48586329"
     },
     {
-      "title": "Zork name origin got an update on Wikipedia",
-      "score": 65,
-      "url": "https://www.dpolakovic.space/blogs/zork-part2#update",
-      "time": 1781814448.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48591066"
-    },
-    {
       "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
-      "score": 322,
+      "score": 374,
       "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
       "time": 1781780671.0,
       "comments_url": "https://news.ycombinator.com/item?id=48583606"
     },
     {
-      "title": "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
-      "score": 1,
-      "url": "https://www.flexport.com/company/careers/",
-      "time": 1781830873.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48593694"
-    },
-    {
-      "title": "Hospitals and universities repurposing drugs at lower cost",
-      "score": 290,
-      "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
-      "time": 1781778802.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48583386"
-    },
-    {
-      "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
-      "score": 260,
-      "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
-      "time": 1781807483.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48589501"
-    },
-    {
-      "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
-      "score": 108,
-      "url": "https://tester.army",
-      "time": 1781794184.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48586299"
-    },
-    {
-      "title": "Show HN: Are You in the Weights?",
-      "score": 215,
-      "url": "https://www.intheweights.com/",
-      "time": 1781815743.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48591348"
+      "title": "Show HN: Talos – Open-source WASM interpreter for Lean",
+      "score": 53,
+      "url": "https://github.com/cajal-technologies/talos",
+      "time": 1781788244.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48584761"
     },
     {
       "title": ".gitignore Isn't the only way to ignore files in Git",
-      "score": 302,
+      "score": 422,
       "url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
       "time": 1781778560.0,
       "comments_url": "https://news.ycombinator.com/item?id=48583356"
     },
     {
-      "title": "Swiss parliament lifts ban on new nuclear power plants",
-      "score": 713,
-      "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
-      "time": 1781792227.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48585746"
-    },
-    {
-      "title": "The Token Compression Illusion: Why I'm Skeptical of RTK",
-      "score": 82,
-      "url": "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/",
-      "time": 1781804220.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48588755"
-    },
-    {
-      "title": "W Social, public institutions and the theater of European digital sovereignty",
-      "score": 179,
-      "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
-      "time": 1781786764.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48584497"
-    },
-    {
-      "title": "Noam Shazeer Joins OpenAI",
-      "score": 298,
-      "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
-      "time": 1781742366.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48578913"
+      "title": "Ice water drowning survival of young patient (2025)",
+      "score": 148,
+      "url": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885",
+      "time": 1781841025.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48594592"
     }
   ]
 }
