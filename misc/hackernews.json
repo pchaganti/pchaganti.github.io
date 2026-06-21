@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-06-20T22:48:16.200171-04:00",
+  "last_updated": "2026-06-21T03:26:09.968911-04:00",
   "stories": [
     {
+      "title": "Zigzag Decoding with AVX-512",
+      "score": 47,
+      "url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
+      "time": 1781718202.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48573902"
+    },
+    {
+      "title": "Developers don't understand CORS (2019)",
+      "score": 132,
+      "url": "https://fosterelli.co/developers-dont-understand-cors",
+      "time": 1782005740.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48614844"
+    },
+    {
       "title": "Renting a sewing machine from the library",
-      "score": 112,
+      "score": 196,
       "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
       "time": 1781996051.0,
       "comments_url": "https://news.ycombinator.com/item?id=48613755"
     },
     {
+      "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+      "score": 216,
+      "url": "https://github.com/mysk-research/loupe",
+      "time": 1781957303.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48608645"
+    },
+    {
+      "title": "The 100k Whys of AI",
+      "score": 52,
+      "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+      "time": 1782020721.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48616017"
+    },
+    {
+      "title": "Building reliable agentic AI systems",
+      "score": 63,
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "time": 1782016119.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48615680"
+    },
+    {
       "title": "Epoll vs. io_uring in Linux",
-      "score": 62,
+      "score": 129,
       "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
       "time": 1781996829.0,
       "comments_url": "https://news.ycombinator.com/item?id=48613872"
     },
     {
+      "title": "Slow breathing modulates brain function and risk behavior",
+      "score": 160,
+      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "time": 1781994172.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48613555"
+    },
+    {
       "title": "Show HN: TownSquare, a tiny presence layer for websites",
-      "score": 81,
+      "score": 147,
       "url": "https://townsquare.cauenapier.com/",
       "time": 1781956503.0,
       "comments_url": "https://news.ycombinator.com/item?id=48608570"
     },
     {
       "title": "15-minute at-home Lyme disease tick test",
-      "score": 45,
+      "score": 92,
       "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
       "time": 1781785356.0,
       "comments_url": "https://news.ycombinator.com/item?id=48584261"
     },
     {
-      "title": "Slow breathing modulates brain function and risk behavior",
-      "score": 69,
-      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
-      "time": 1781994172.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48613555"
+      "title": "Your brain was never designed for this much bad news",
+      "score": 118,
+      "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
+      "time": 1782014528.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48615569"
     },
     {
-      "title": "Loupe – A iOS app that raises awareness about what native apps can see",
-      "score": 79,
-      "url": "https://github.com/mysk-research/loupe",
-      "time": 1781957303.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48608645"
+      "title": "Guide to the TD4 4-bit DIY CPU",
+      "score": 27,
+      "url": "https://www.philipzucker.com/td4-4bit-cpu/",
+      "time": 1781815440.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48591276"
     },
     {
-      "title": "'We had to get out of the way': The backlash over delivery robots",
-      "score": 35,
-      "url": "https://www.bbc.com/news/articles/c0rygp005wjo",
-      "time": 1782000769.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48614390"
+      "title": "The Lost Story of Alan Turing's \"Delilah\" Project",
+      "score": 10,
+      "url": "https://spectrum.ieee.org/alan-turings-delilah",
+      "time": 1782018933.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48615890"
     },
     {
       "title": "SMPTE Makes Its Standards Freely Accessible",
-      "score": 235,
+      "score": 247,
       "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
       "time": 1781974896.0,
       "comments_url": "https://news.ycombinator.com/item?id=48610827"
     },
     {
-      "title": "Alice is impatient",
-      "score": 62,
-      "url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
-      "time": 1781987574.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48612740"
-    },
-    {
-      "title": "Unauthorized alert sent to cell phones across Brazil",
-      "score": 94,
-      "url": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
-      "time": 1781985903.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48612502"
+      "title": "Excessive nil pointer checks in Go",
+      "score": 12,
+      "url": "https://konradreiche.com/blog/excessive-nil-pointer-checks-in-go/",
+      "time": 1781778992.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48583407"
     },
     {
       "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
-      "score": 173,
+      "score": 192,
       "url": "https://www.lispm.net/apps/uhf-x11/",
       "time": 1781975064.0,
       "comments_url": "https://news.ycombinator.com/item?id=48610853"
     },
     {
       "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
-      "score": 212,
+      "score": 234,
       "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
       "time": 1781968203.0,
       "comments_url": "https://news.ycombinator.com/item?id=48609766"
     },
     {
       "title": "When I reject AI code even if it works",
-      "score": 34,
+      "score": 149,
       "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
       "time": 1782003493.0,
       "comments_url": "https://news.ycombinator.com/item?id=48614631"
     },
     {
-      "title": "CSSQuake",
-      "score": 466,
-      "url": "https://cssquake.com/",
-      "time": 1781952593.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48608223"
+      "title": "Unauthorized alert sent to cell phones across Brazil",
+      "score": 120,
+      "url": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
+      "time": 1781985903.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48612502"
     },
     {
-      "title": "Project Fetch: Phase Two",
-      "score": 31,
-      "url": "https://www.anthropic.com/research/project-fetch-phase-two",
-      "time": 1782000025.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48614311"
-    },
-    {
-      "title": "Developers don't understand CORS (2019)",
-      "score": 8,
-      "url": "https://fosterelli.co/developers-dont-understand-cors",
-      "time": 1782005740.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48614844"
-    },
-    {
-      "title": "Semiconductor Lifeline Keeps Fighter Jets in the Air",
-      "score": 41,
-      "url": "https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems",
-      "time": 1781613062.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48554206"
-    },
-    {
-      "title": "Whole cross-sectional human ultrasound tomography",
-      "score": 31,
-      "url": "https://www.nature.com/articles/s41551-026-01660-4",
-      "time": 1781774596.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48582894"
-    },
-    {
-      "title": "Moving Beyond Fork() + Exec()",
-      "score": 7,
-      "url": "https://lwn.net/Articles/1076018/",
-      "time": 1781836993.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48594286"
-    },
-    {
-      "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
-      "score": 83,
-      "url": "https://clickhouse.com/blog/postgresbench",
-      "time": 1781982070.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48611942"
+      "title": "NOLA 'Nacular: One man's crusade to preserve New Orleans's vernacular signage",
+      "score": 35,
+      "url": "https://countryroadsmagazine.com/art-and-culture/people-places/nola-nacular/",
+      "time": 1781661067.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48564763"
     }
   ]
 }
