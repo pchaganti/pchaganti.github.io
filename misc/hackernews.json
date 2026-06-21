@@ -1,68 +1,117 @@
 {
-  "last_updated": "2026-06-21T15:15:50.169001-04:00",
+  "last_updated": "2026-06-21T18:07:46.525012-04:00",
   "stories": [
     {
-      "title": "Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash",
-      "score": 71,
-      "url": "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers",
-      "time": 1782060978.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48620462"
+      "title": "Apertus – Open Foundation Model for Sovereign AI",
+      "score": 28,
+      "url": "https://apertvs.ai/",
+      "time": 1782077383.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48622778"
+    },
+    {
+      "title": "Everything Is Logarithms",
+      "score": 25,
+      "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+      "time": 1782076232.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48622626"
+    },
+    {
+      "title": "JSON-LD Explained for Personal Websites",
+      "score": 119,
+      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+      "time": 1782067907.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48621517"
+    },
+    {
+      "title": "Stop wasting tokens and re explaining your project between sessions",
+      "score": 15,
+      "url": "https://github.com/raiyanyahya/recall",
+      "time": 1782075937.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48622590"
     },
     {
       "title": "Prefer duplication over the wrong abstraction (2016)",
-      "score": 261,
+      "score": 381,
       "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
       "time": 1782058103.0,
       "comments_url": "https://news.ycombinator.com/item?id=48620090"
     },
     {
-      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-      "score": 329,
-      "url": "https://www.beyondallreason.info",
-      "time": 1782041881.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48617990"
+      "title": "PowerFox Browser",
+      "score": 12,
+      "url": "https://powerfox.jazzzny.me/",
+      "time": 1782076993.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48622731"
     },
     {
-      "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
-      "score": 93,
-      "url": "https://norvig.com/lispy.html",
-      "time": 1782056193.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48619831"
-    },
-    {
-      "title": "The Minimum Viable Unit of Saleable Software",
-      "score": 48,
-      "url": "https://brandur.org/minimum-viable-unit",
-      "time": 1782060081.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48620342"
+      "title": "The Anatomy of an AI-Native Org",
+      "score": 28,
+      "url": "https://ajeygore.in/content/the-anatomy-of-an-ai-native-org",
+      "time": 1782077659.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48622815"
     },
     {
       "title": "Identity verification on Claude",
-      "score": 232,
+      "score": 454,
       "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
       "time": 1782045853.0,
       "comments_url": "https://news.ycombinator.com/item?id=48618455"
     },
     {
-      "title": "Occupancy Math on the AMD MI355X: A From-First-Principles Guide",
-      "score": 25,
-      "url": "https://indianspeedster.github.io/blog/occupancy-math-mi355x/",
-      "time": 1781706923.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48571136"
+      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+      "score": 396,
+      "url": "https://www.beyondallreason.info",
+      "time": 1782041881.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48617990"
     },
     {
-      "title": "The Commodore Callback 8020 smart flip phone",
-      "score": 90,
-      "url": "https://www.wired.me/story/commodore-made-a-digital-detox-phone-that-isnt-dumb",
-      "time": 1781799141.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48587619"
+      "title": "The minimum viable unit of saleable software",
+      "score": 94,
+      "url": "https://brandur.org/minimum-viable-unit",
+      "time": 1782060081.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48620342"
+    },
+    {
+      "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
+      "score": 151,
+      "url": "https://norvig.com/lispy.html",
+      "time": 1782056193.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48619831"
+    },
+    {
+      "title": "Ask for no, don't ask for yes (2022)",
+      "score": 60,
+      "url": "https://www.mooreds.com/wordpress/archives/3518",
+      "time": 1782073068.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48622234"
     },
     {
       "title": "An Embedded Linux on a Single Floppy",
-      "score": 13,
+      "score": 47,
       "url": "https://github.com/w84death/floppinux",
       "time": 1781835016.0,
       "comments_url": "https://news.ycombinator.com/item?id=48594090"
+    },
+    {
+      "title": "Show HN: CleverCrow: give tokens to your favorite projects",
+      "score": 21,
+      "url": "https://clevercrow.io",
+      "time": 1782068767.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48621645"
+    },
+    {
+      "title": "HPV jabs cut risk of dying from cervical cancer before 30 to almost zero",
+      "score": 22,
+      "url": "https://www.theguardian.com/society/2026/jun/17/hpv-jabs-reduce-risk-dying-cervical-cancer-before-30-zero-study-finds",
+      "time": 1781743012.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48579013"
+    },
+    {
+      "title": "Show HN: Teach your kids perfect pitch",
+      "score": 19,
+      "url": "https://github.com/paytonjjones/bsharp",
+      "time": 1782046188.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48618488"
     },
     {
       "title": "Wildcard (YC W25) is hiring an applied ML engineer",
@@ -72,74 +121,25 @@
       "comments_url": "https://news.ycombinator.com/item?id=48620504"
     },
     {
-      "title": "15-minute at-home Lyme disease tick test",
-      "score": 195,
-      "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
-      "time": 1781785356.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48584261"
+      "title": "Occupancy Math on the AMD MI355X: A From-First-Principles Guide",
+      "score": 40,
+      "url": "https://indianspeedster.github.io/blog/occupancy-math-mi355x/",
+      "time": 1781706923.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48571136"
     },
     {
-      "title": "Loupe – A iOS app that raises awareness about what native apps can see",
-      "score": 470,
-      "url": "https://github.com/mysk-research/loupe",
-      "time": 1781957303.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48608645"
+      "title": "Cocktail Optimization, an Integer Programming Problem",
+      "score": 20,
+      "url": "https://bunkum.us/2026/06/18/cocktail-ingredients-milp",
+      "time": 1781870396.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48597592"
     },
     {
-      "title": "Developers don't understand CORS (2019)",
-      "score": 309,
-      "url": "https://fosterelli.co/developers-dont-understand-cors",
-      "time": 1782005740.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48614844"
-    },
-    {
-      "title": "System call instrumentation on Linux/x86‑64 using memory‑indirect calls, part I",
-      "score": 23,
-      "url": "https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result",
-      "time": 1781679839.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48566824"
-    },
-    {
-      "title": "A 3D voxel game engine written in APL",
-      "score": 124,
-      "url": "https://github.com/namgyaaal/avoxelgame",
-      "time": 1782029094.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48616713"
-    },
-    {
-      "title": "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",
-      "score": 88,
-      "url": "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/",
-      "time": 1782052988.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48619394"
-    },
-    {
-      "title": "Show HN: TownSquare, a tiny presence layer for websites",
-      "score": 224,
-      "url": "https://townsquare.cauenapier.com/",
-      "time": 1781956503.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48608570"
-    },
-    {
-      "title": "Show HN: Pulse – Dashboard for Claude Code, approve tool calls from your phone",
-      "score": 16,
-      "url": "https://github.com/nikitadoudikov/claude-pulse",
-      "time": 1781988410.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48612844"
-    },
-    {
-      "title": "Running MicroVMs in Proxmox VE, the Easy Way",
-      "score": 180,
-      "url": "https://taoofmac.com/space/blog/2026/06/18/1845",
-      "time": 1781881991.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48599555"
-    },
-    {
-      "title": "Two Qwen3 models on one DGX Spark: the residency math",
-      "score": 72,
-      "url": "https://www.devashish.me/p/two-qwen3-models-on-one-dgx-spark",
-      "time": 1781800192.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48587865"
+      "title": "Tell HN: Happy Fathers Day",
+      "score": 181,
+      "url": "https://news.ycombinator.com/item?id=48620502",
+      "time": 1782061226.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48620502"
     }
   ]
 }
