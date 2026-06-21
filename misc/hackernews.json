@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-06-21T09:49:16.877922-04:00",
+  "last_updated": "2026-06-21T12:25:22.352560-04:00",
   "stories": [
     {
+      "title": "(How to Write a (Lisp) Interpreter (In Python))",
+      "score": 25,
+      "url": "https://norvig.com/lispy.html",
+      "time": 1782056193.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48619831"
+    },
+    {
       "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-      "score": 87,
+      "score": 248,
       "url": "https://www.beyondallreason.info",
       "time": 1782041881.0,
       "comments_url": "https://news.ycombinator.com/item?id=48617990"
     },
     {
-      "title": "The case against geometric algebra (2024)",
-      "score": 62,
-      "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
-      "time": 1782040015.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48617782"
+      "title": "Who Owns Your ATProto Identity? Hint: It's Probably Not You",
+      "score": 80,
+      "url": "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you",
+      "time": 1782050947.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48619140"
     },
     {
-      "title": "David Ahl's Basic Computer Games Ported to C",
-      "score": 16,
-      "url": "https://github.com/proteanthread/bcg",
-      "time": 1782043889.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48618226"
-    },
-    {
-      "title": "A 3D voxel game engine written in APL",
-      "score": 86,
-      "url": "https://github.com/namgyaaal/avoxelgame",
-      "time": 1782029094.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48616713"
+      "title": "Commodore Made a Digital Detox Phone That Isn't Dumb",
+      "score": 53,
+      "url": "https://www.wired.me/story/commodore-made-a-digital-detox-phone-that-isnt-dumb",
+      "time": 1781799141.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48587619"
     },
     {
       "title": "Google Hits 50% IPv6",
-      "score": 223,
+      "score": 315,
       "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
       "time": 1782030082.0,
       "comments_url": "https://news.ycombinator.com/item?id=48616800"
     },
     {
+      "title": "The case against geometric algebra (2024)",
+      "score": 96,
+      "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
+      "time": 1782040015.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48617782"
+    },
+    {
+      "title": "A 3D voxel game engine written in APL",
+      "score": 108,
+      "url": "https://github.com/namgyaaal/avoxelgame",
+      "time": 1782029094.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48616713"
+    },
+    {
+      "title": "System call instrumentation on Linux/x86‑64 using memory‑indirect calls, part I",
+      "score": 8,
+      "url": "https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result",
+      "time": 1781679839.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48566824"
+    },
+    {
+      "title": "David Ahl's Basic Computer Games Ported to C",
+      "score": 39,
+      "url": "https://github.com/proteanthread/bcg",
+      "time": 1782043889.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48618226"
+    },
+    {
       "title": "Loupe – A iOS app that raises awareness about what native apps can see",
-      "score": 368,
+      "score": 429,
       "url": "https://github.com/mysk-research/loupe",
       "time": 1781957303.0,
       "comments_url": "https://news.ycombinator.com/item?id=48608645"
     },
     {
-      "title": "Windows UI evolution: Clicking an unassociated file",
-      "score": 78,
-      "url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
-      "time": 1782023092.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48616173"
+      "title": "Fossil Fuels Are 40% of Freight Shipping Tonnage, but Half Its Fuel Use",
+      "score": 31,
+      "url": "https://cleantechnica.com/2026/06/16/shipping-freight-energy-fossil-cargo/",
+      "time": 1782052988.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48619394"
     },
     {
       "title": "Running MicroVMs in Proxmox VE, the Easy Way",
-      "score": 119,
+      "score": 150,
       "url": "https://taoofmac.com/space/blog/2026/06/18/1845",
       "time": 1781881991.0,
       "comments_url": "https://news.ycombinator.com/item?id=48599555"
     },
     {
       "title": "Renting a sewing machine from the library",
-      "score": 268,
+      "score": 293,
       "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
       "time": 1781996051.0,
       "comments_url": "https://news.ycombinator.com/item?id=48613755"
     },
     {
-      "title": "Zigzag Decoding with AVX-512",
-      "score": 94,
-      "url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
-      "time": 1781718202.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48573902"
-    },
-    {
       "title": "Slow breathing modulates brain function and risk behavior",
-      "score": 259,
+      "score": 312,
       "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
       "time": 1781994172.0,
       "comments_url": "https://news.ycombinator.com/item?id=48613555"
     },
     {
-      "title": "Epoll vs. io_uring in Linux",
-      "score": 196,
-      "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
-      "time": 1781996829.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48613872"
+      "title": "Zigzag Decoding with AVX-512",
+      "score": 110,
+      "url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
+      "time": 1781718202.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48573902"
     },
     {
       "title": "Two Qwen3 models on one DGX Spark: the residency math",
-      "score": 12,
+      "score": 41,
       "url": "https://www.devashish.me/p/two-qwen3-models-on-one-dgx-spark",
       "time": 1781800192.0,
       "comments_url": "https://news.ycombinator.com/item?id=48587865"
     },
     {
-      "title": "Developers don't understand CORS (2019)",
-      "score": 254,
-      "url": "https://fosterelli.co/developers-dont-understand-cors",
-      "time": 1782005740.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48614844"
+      "title": "Epoll vs. io_uring in Linux",
+      "score": 219,
+      "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+      "time": 1781996829.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48613872"
     },
     {
       "title": "A tale of two path separators",
-      "score": 34,
+      "score": 52,
       "url": "https://alexwlchan.net/2021/slashes/",
       "time": 1781691293.0,
       "comments_url": "https://news.ycombinator.com/item?id=48568181"
     },
     {
-      "title": "Cosmodial Sky Atlas",
-      "score": 10,
-      "url": "https://frankforce.com/cosmodial-sky-atlas/",
-      "time": 1781698504.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48569309"
-    },
-    {
-      "title": "Anthropic to Require ID Verification for Certain Capabilities Starting July 8",
-      "score": 85,
-      "url": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/",
-      "time": 1782045853.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48618455"
-    },
-    {
-      "title": "15-minute at-home Lyme disease tick test",
-      "score": 148,
-      "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
-      "time": 1781785356.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48584261"
+      "title": "Developers don't understand CORS (2019)",
+      "score": 283,
+      "url": "https://fosterelli.co/developers-dont-understand-cors",
+      "time": 1782005740.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48614844"
     },
     {
       "title": "Rare medieval bookmark exceeds expectations at auction",
-      "score": 18,
+      "score": 30,
       "url": "https://www.thehistoryblog.com/archives/76314",
       "time": 1781635570.0,
       "comments_url": "https://news.ycombinator.com/item?id=48560050"
-    },
-    {
-      "title": "SMPTE Makes Its Standards Freely Accessible",
-      "score": 269,
-      "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-      "time": 1781974896.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48610827"
     }
   ]
 }
