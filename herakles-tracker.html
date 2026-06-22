@@ -170,6 +170,30 @@
     color: var(--text);
     padding: 10px 14px;
     border-radius: 8px;
+    font-size: 1rem;
+    font-family: inherit;
+    outline: none;
+    transition: var(--transition);
+  }
+  input:focus, select:focus, textarea:focus { border-color: var(--text-dim); box-shadow: 0 0 0 1px var(--text-dim); }
+  input[type="number"] {
+    width: 80px;
+    text-align: center;
+    -moz-appearance: textfield;
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  input[type="number"]::-webkit-outer-spin-button,
+  input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  input[type="date"] { width: 150px; }
+    background: var(--bg);
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 10px 14px;
+    border-radius: 8px;
     font-size: 0.875rem;
     font-family: inherit;
     outline: none;
@@ -1823,12 +1847,12 @@ function renderExerciseRow(ex, index, dayKey, isCustom) {
         <label for="w-${dayKey}-${index}-${s}-weight">S${s + 1}</label>
         <input type="number" id="w-${dayKey}-${index}-${s}-weight" placeholder="lbs" min="0" step="2.5" value="${saved.weight || ''}"
           data-day="${dayKey}" data-ex="${index}" data-set="${s}" data-field="weight" data-custom="${isCustom}"
-          onchange="indicateSetInput(this)" onkeydown="handleSetKeydown(event, this)" style="width:65px;">
+          onchange="indicateSetInput(this)" onkeydown="handleSetKeydown(event, this)" style="width:80px;">
         <span class="text-dim">×</span>
         <label for="w-${dayKey}-${index}-${s}-reps" class="sr-only">Set ${s + 1} reps</label>
         <input type="number" id="w-${dayKey}-${index}-${s}-reps" placeholder="reps" min="0" value="${saved.reps || ''}"
           data-day="${dayKey}" data-ex="${index}" data-set="${s}" data-field="reps" data-custom="${isCustom}"
-          onchange="indicateSetInput(this)" onkeydown="handleSetKeydown(event, this)" style="width:55px;">
+          onchange="indicateSetInput(this)" onkeydown="handleSetKeydown(event, this)" style="width:70px;">
       </div>
     `;
   }
@@ -2365,6 +2389,7 @@ function updateDashboard() {
           </div>
           <div style="display:flex;align-items:center;gap:8px;">
             <span class="text-sm fw-700 text-green">${w.totalVolume?.toLocaleString()} lbs</span>
+            <button class="btn btn-sm btn-outline" onclick="editWorkoutSession(${w._originalIdx})" title="Edit session">✏️</button>
             <button class="delete-btn" onclick="deleteWorkoutSession(${w._originalIdx})" title="Delete session">✕</button>
           </div>
         </div>`;
@@ -3561,6 +3586,47 @@ function renderPullupPRs() {
   });
   html += '</div>';
   container.innerHTML = html;
+}
+
+function editWorkoutSession(index) {
+  const workout = state.workouts[index];
+  if (!workout) return;
+
+  // Switch to the workout's day
+  state.currentDay = workout.dayKey;
+  document.querySelectorAll('.day-btn').forEach(b => b.classList.remove('active'));
+  document.querySelectorAll('.day-btn').forEach(b => {
+    if (b.dataset.day === workout.dayKey) b.classList.add('active');
+  });
+
+  // Set date
+  document.getElementById('workout-date').value = workout.date;
+  onWorkoutDateChange();
+
+  // Render exercises for that day
+  renderExercises();
+
+  // Populate saved values into the inputs
+  Object.entries(workout.sets || {}).forEach(([key, sets]) => {
+    sets.forEach((s, setIdx) => {
+      const isCustom = key.startsWith('custom_');
+      const exIdx = parseInt(key.replace('custom_', '').replace('ex_', ''), 10);
+      const weightInput = document.getElementById(`w-${workout.dayKey}-${exIdx}-${setIdx}-weight`);
+      const repsInput = document.getElementById(`w-${workout.dayKey}-${exIdx}-${setIdx}-reps`);
+      if (weightInput && s.weight) weightInput.value = s.weight;
+      if (repsInput && s.reps) repsInput.value = s.reps;
+    });
+  });
+
+  // Set session RPE and notes
+  if (workout.sessionRpe) document.getElementById('session-rpe').value = workout.sessionRpe;
+  if (workout.notes) document.getElementById('workout-notes').value = workout.notes;
+
+  refreshPlateHints();
+
+  // Switch to workout tab
+  showPanel('workout', document.getElementById('tab-workout'));
+  showToast('✏️ Editing workout from ' + formatDate(workout.date) + ' \u2014 make changes and save', 'var(--accent)');
 }
 
 function deleteWorkoutSession(index) {
