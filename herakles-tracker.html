@@ -2152,8 +2152,8 @@ function saveWorkout() {
     state.workouts.push(workout);
   }
 
-  // Update PRs and lifts summary
-  updatePRs(sets, dayKey);
+  // Recalculate PRs from all workouts (handles edits that lower weights)
+  recalculateAllPRs();
   updateLiftsSummary();
 
   window.hasUnsavedChanges = false;
@@ -2161,26 +2161,30 @@ function saveWorkout() {
   showToast(`✅ ${prog.name} saved! ${totalSets} sets · ${totalVolume.toLocaleString()} lbs volume`);
 }
 
-function updatePRs(sets, dayKey) {
-  Object.entries(sets).forEach(([key, exSets]) => {
-    const exercise = resolveExerciseForKey(dayKey, key, state.customExercises[dayKey]);
-    if (!exercise) return;
-
-    exSets.forEach(s => {
-      if (!s.weight || !s.reps) return;
+function recalculateAllPRs() {
+  const prs = {};
+  state.workouts.forEach(w => {
+    if (!w.sets) return;
+    Object.entries(w.sets).forEach(([key, exSets]) => {
+      const exercise = resolveExerciseForKey(w.dayKey, key, w.customExercises);
+      if (!exercise) return;
       const prKey = exercise.name;
-      if (!state.prs[prKey]) state.prs[prKey] = { maxWeight: 0, maxReps: 0, bestVolume: 0 };
+      if (!prs[prKey]) prs[prKey] = { maxWeight: 0, maxReps: 0, bestVolume: 0 };
 
-      if (s.weight > state.prs[prKey].maxWeight) {
-        state.prs[prKey].maxWeight = s.weight;
-        state.prs[prKey].maxWeightDate = document.getElementById('workout-date').value;
-      }
-      const vol = s.weight * s.reps;
-      if (vol > state.prs[prKey].bestVolume) {
-        state.prs[prKey].bestVolume = vol;
-      }
+      exSets.forEach(s => {
+        if (!s.weight || !s.reps) return;
+        if (s.weight > prs[prKey].maxWeight) {
+          prs[prKey].maxWeight = s.weight;
+          prs[prKey].maxWeightDate = w.date;
+        }
+        const vol = s.weight * s.reps;
+        if (vol > prs[prKey].bestVolume) {
+          prs[prKey].bestVolume = vol;
+        }
+      });
     });
   });
+  state.prs = prs;
   saveState();
 }
 
