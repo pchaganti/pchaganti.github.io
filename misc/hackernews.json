@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-06-23T22:27:34.487363-04:00",
+  "last_updated": "2026-06-24T02:36:50.442197-04:00",
   "stories": [
     {
       "title": "Vulnerability reports are not special anymore",
-      "score": 84,
+      "score": 199,
       "url": "https://words.filippo.io/vuln-reports/",
       "time": 1782258166.0,
       "comments_url": "https://news.ycombinator.com/item?id=48653216"
     },
     {
       "title": "Jerry's Map",
-      "score": 337,
+      "score": 412,
       "url": "http://www.jerrysmap.com/the-map",
       "time": 1782240022.0,
       "comments_url": "https://news.ycombinator.com/item?id=48649435"
     },
     {
-      "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
-      "score": 79,
-      "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
-      "time": 1782151383.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48633643"
+      "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
+      "score": 56,
+      "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
+      "time": 1782271067.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48654676"
     },
     {
       "title": "FUTO Swipe – A new swipe typing model",
-      "score": 296,
+      "score": 439,
       "url": "https://swipe.futo.tech/",
       "time": 1782237022.0,
       "comments_url": "https://news.ycombinator.com/item?id=48648619"
     },
     {
       "title": "In memory of the man who put red and green squiggles under words",
-      "score": 173,
+      "score": 300,
       "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
       "time": 1782238247.0,
       "comments_url": "https://news.ycombinator.com/item?id=48648959"
     },
     {
+      "title": "Show HN: An ASCII 3D Rendering Engine",
+      "score": 54,
+      "url": "https://glyphcss.com",
+      "time": 1781982641.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48612025"
+    },
+    {
+      "title": "Qwen-AgentWorld: Language World Models for General Agents",
+      "score": 49,
+      "url": "https://arxiv.org/abs/2606.24597",
+      "time": 1782267707.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48654351"
+    },
+    {
+      "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
+      "score": 43,
+      "url": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
+      "time": 1782268727.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48654465"
+    },
+    {
       "title": "Printing Gaussian Splats",
-      "score": 182,
+      "score": 253,
       "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
       "time": 1782046142.0,
       "comments_url": "https://news.ycombinator.com/item?id=48618481"
     },
     {
-      "title": "Swift Package Index joins Apple",
-      "score": 174,
-      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
-      "time": 1782237658.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48648779"
-    },
-    {
-      "title": "Usbliter8: an A12/A13 SecureROM Exploit",
-      "score": 72,
-      "url": "https://ps.tc/pages/blog-usbliter8.html",
-      "time": 1781792618.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48585852"
-    },
-    {
-      "title": "Extreme Heat conference cancelled due to extreme heat warning",
-      "score": 157,
-      "url": "https://www.lse.ac.uk/granthaminstitute/events/extreme-heat-improving-governance-and-strengthening-action-around-the-world/",
-      "time": 1782257203.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48653060"
-    },
-    {
-      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
-      "score": 336,
-      "url": "https://tikz.dev/editor/",
-      "time": 1782224661.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48645437"
-    },
-    {
       "title": "Rhombus Language 1.0",
-      "score": 76,
+      "score": 131,
       "url": "https://blog.racket-lang.org/2026/06/rhombus-v1.0.html",
       "time": 1782150640.0,
       "comments_url": "https://news.ycombinator.com/item?id=48633473"
     },
     {
+      "title": "Usbliter8: an A12/A13 SecureROM Exploit",
+      "score": 125,
+      "url": "https://ps.tc/pages/blog-usbliter8.html",
+      "time": 1781792618.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48585852"
+    },
+    {
+      "title": "Remaking BBC test cards to teach you video processing",
+      "score": 10,
+      "url": "https://www.youtube.com/watch?v=U_6HxPkrgcg",
+      "time": 1782091226.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48624462"
+    },
+    {
+      "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+      "score": 27,
+      "url": "https://github.com/End2End-Diffusion/diffusion-bench",
+      "time": 1782267151.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48654274"
+    },
+    {
+      "title": "Swift Package Index joins Apple",
+      "score": 194,
+      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+      "time": 1782237658.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48648779"
+    },
+    {
+      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+      "score": 368,
+      "url": "https://tikz.dev/editor/",
+      "time": 1782224661.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48645437"
+    },
+    {
       "title": "The worthlessness of Vitamin D is mildly exaggerated",
-      "score": 214,
+      "score": 260,
       "url": "https://dynomight.net/vitamin-d/",
       "time": 1782232218.0,
       "comments_url": "https://news.ycombinator.com/item?id=48647486"
     },
     {
-      "title": "The Coming Loop",
-      "score": 328,
-      "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
-      "time": 1782212801.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48643180"
-    },
-    {
-      "title": "Show HN: Y – A malleable coding-agent desktop app built with Electron",
-      "score": 18,
-      "url": "https://github.com/y-times-y/y",
-      "time": 1782260131.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48653476"
-    },
-    {
-      "title": "Inventing the Future, One Lisp Machine at a Time",
-      "score": 75,
-      "url": "https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/",
-      "time": 1782141880.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48631511"
+      "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
+      "score": 138,
+      "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
+      "time": 1782151383.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48633643"
     },
     {
       "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
-      "score": 48,
+      "score": 189,
       "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
       "time": 1782260921.0,
       "comments_url": "https://news.ycombinator.com/item?id=48653575"
     },
     {
-      "title": "Unlimited OCR: One-shot long-horizon parsing",
-      "score": 444,
-      "url": "https://github.com/baidu/Unlimited-OCR",
-      "time": 1782214505.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48643426"
+      "title": "Lithp.py (~2008)",
+      "score": 4,
+      "url": "https://fogus.me/fun/lithp/",
+      "time": 1782084187.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48623650"
     },
     {
-      "title": "I can haz smoller NixOS ISOs?",
-      "score": 25,
-      "url": "https://natkr.com/2026-06-19-nixos-but-smol/",
-      "time": 1781906124.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48603726"
-    },
-    {
-      "title": "Prairieland Defendants Sentenced Today to Prison Terms Ranging from 30-100 Years",
-      "score": 41,
-      "url": "https://prairielanddefendants.com/press-release/eight-federal-prairieland-defendants-sentenced-today-to-prison-terms-ranging-from-30-100-years-for-common-protest-activity/",
-      "time": 1782258840.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48653311"
-    },
-    {
-      "title": "How to move a beluga across the world",
-      "score": 6,
-      "url": "https://www.cbc.ca/news/canada/hamilton/moving-marineland-beluga-whales-9.7233160",
-      "time": 1781965997.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48609515"
+      "title": "The Teensy Executable Revisited",
+      "score": 23,
+      "url": "https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html",
+      "time": 1782268213.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48654411"
     }
   ]
 }
