@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-06-24T22:29:30.674114-04:00",
+  "last_updated": "2026-06-25T02:40:31.834400-04:00",
   "stories": [
     {
-      "title": "LuaJIT 3.0 proposed syntax extensions",
-      "score": 60,
-      "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
-      "time": 1782348103.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48667336"
-    },
-    {
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "score": 549,
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "time": 1782323220.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48663324"
+      "title": "Half-Life 2 in a Browser",
+      "score": 42,
+      "url": "https://hl2.slqnt.dev/",
+      "time": 1782367204.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48669534"
     },
     {
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "score": 76,
+      "score": 293,
       "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
       "time": 1782330481.0,
       "comments_url": "https://news.ycombinator.com/item?id=48664814"
     },
     {
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "score": 647,
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "time": 1782323220.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48663324"
+    },
+    {
+      "title": "Cloudflare launched self-managed OAuth for all",
+      "score": 102,
+      "url": "https://blog.cloudflare.com/oauth-for-all/",
+      "time": 1782353890.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48668033"
+    },
+    {
+      "title": "Markdy: Like Mermaid Diagrams, but for Motion",
+      "score": 18,
+      "url": "https://markdy.com",
+      "time": 1782226802.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48646077"
+    },
+    {
+      "title": "LuaJIT 3.0 proposed syntax extensions",
+      "score": 126,
+      "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+      "time": 1782348103.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48667336"
+    },
+    {
       "title": "Blogging can just be stating the obvious",
-      "score": 80,
+      "score": 168,
       "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
       "time": 1782344797.0,
       "comments_url": "https://news.ycombinator.com/item?id=48666927"
     },
     {
-      "title": "Bible as RAG Database",
-      "score": 23,
-      "url": "https://www.crosscanon.com/",
-      "time": 1782351775.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48667807"
+      "title": "Zombie unicorns are haunting Silicon Valley",
+      "score": 70,
+      "url": "https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley",
+      "time": 1782353775.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48668020"
     },
     {
       "title": "Dostoyevsky isn't difficult",
-      "score": 44,
+      "score": 117,
       "url": "https://www.autodidacts.io/dostoyevsky-isnt-difficult/",
       "time": 1782141338.0,
       "comments_url": "https://news.ycombinator.com/item?id=48631366"
     },
     {
-      "title": "Ending All Respiratory Infections",
-      "score": 27,
-      "url": "https://blog.interceptfund.com/p/ending-respiratory-infections",
-      "time": 1782350063.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48667588"
-    },
-    {
-      "title": "Exploring the internal representations of Pangram 3.3.2",
-      "score": 8,
-      "url": "https://www.pangram.com/pangram-space",
-      "time": 1782351405.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48667761"
-    },
-    {
       "title": "Qualcomm to Acquire Modular",
-      "score": 151,
+      "score": 185,
       "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
       "time": 1782308956.0,
       "comments_url": "https://news.ycombinator.com/item?id=48659798"
     },
     {
       "title": "Mixing Visual and Textual Code",
-      "score": 6,
+      "score": 40,
       "url": "https://arxiv.org/abs/2603.15855",
       "time": 1782349870.0,
       "comments_url": "https://news.ycombinator.com/item?id=48667560"
     },
     {
+      "title": "45°C cooling design cuts data center water use to near zero",
+      "score": 281,
+      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+      "time": 1782310211.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48660178"
+    },
+    {
+      "title": "Medical students are using popular research tool to pump out misleading studies",
+      "score": 22,
+      "url": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
+      "time": 1782354618.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48668119"
+    },
+    {
       "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "score": 348,
+      "score": 374,
       "url": "https://rubyllm.com/",
       "time": 1782312101.0,
       "comments_url": "https://news.ycombinator.com/item?id=48660711"
     },
     {
+      "title": "GLM-5.2 is a step change for open agents",
+      "score": 193,
+      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+      "time": 1782185008.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48639840"
+    },
+    {
+      "title": "Show HN: Write SaaS apps where users control where their data is stored",
+      "score": 37,
+      "url": "https://github.com/wolfoo2931/linkedrecords/",
+      "time": 1781854634.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48595882"
+    },
+    {
       "title": "PR spam today looks like email spam in the early 2000s",
-      "score": 183,
+      "score": 207,
       "url": "https://www.greptile.com/blog/prs-on-openclaw",
       "time": 1782311532.0,
       "comments_url": "https://news.ycombinator.com/item?id=48660579"
     },
     {
       "title": "Computer use in Gemini 3.5 Flash",
-      "score": 177,
+      "score": 203,
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
       "time": 1782321694.0,
       "comments_url": "https://news.ycombinator.com/item?id=48662999"
     },
     {
-      "title": "45°C cooling design cuts data center water use to near zero",
-      "score": 202,
-      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
-      "time": 1782310211.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48660178"
-    },
-    {
-      "title": "GLM-5.2 is a step change for open agents",
-      "score": 131,
-      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-      "time": 1782185008.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48639840"
-    },
-    {
-      "title": "Writers and Drugs",
-      "score": 3,
-      "url": "https://lithub.com/are-writers-intrinsically-vulnerable-to-alcohol-and-drugs/",
-      "time": 1782352201.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48667853"
+      "title": "Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript?",
+      "score": 24,
+      "url": "https://brainfrog.lol",
+      "time": 1781873873.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48598051"
     },
     {
       "title": "The Xteink X4 E-Ink Reader",
-      "score": 177,
+      "score": 214,
       "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
       "time": 1782318956.0,
       "comments_url": "https://news.ycombinator.com/item?id=48662381"
-    },
-    {
-      "title": "Crawling BitTorrent DHTs for Fun and Profit [pdf]",
-      "score": 69,
-      "url": "https://www.usenix.org/legacy/event/woot10/tech/full_papers/Wolchok.pdf",
-      "time": 1782051168.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48619159"
-    },
-    {
-      "title": "Elastic lays off 7% of employees",
-      "score": 137,
-      "url": "https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees",
-      "time": 1782338250.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48666100"
-    },
-    {
-      "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
-      "score": 203,
-      "url": "https://github.com/nubjs/nub",
-      "time": 1782310458.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48660267"
     }
   ]
 }
