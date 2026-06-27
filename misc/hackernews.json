@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-06-27T02:22:07.166449-04:00",
+  "last_updated": "2026-06-27T06:52:40.867885-04:00",
   "stories": [
     {
+      "title": "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+      "score": 206,
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "time": 1782551932.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48696585"
+    },
+    {
+      "title": "Fintech Engineering Handbook",
+      "score": 14,
+      "url": "https://w.pitula.me/fintech-engineering-handbook/",
+      "time": 1782556133.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48696982"
+    },
+    {
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "score": 933,
+      "score": 1019,
       "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
       "time": 1782493615.0,
       "comments_url": "https://news.ycombinator.com/item?id=48689028"
     },
     {
-      "title": "OpenTTD 16.0-Beta1",
-      "score": 25,
-      "url": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
-      "time": 1782534666.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48695149"
+      "title": "Linux on Older Hardware: The Complete Revival Guide",
+      "score": 65,
+      "url": "https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm",
+      "time": 1782360389.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48668747"
+    },
+    {
+      "title": "Long Wave radio era set to end with switch-off",
+      "score": 37,
+      "url": "https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service",
+      "time": 1782412937.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48677564"
     },
     {
       "title": "WordStar: A Writer's Word Processor (1996)",
-      "score": 42,
+      "score": 95,
       "url": "https://www.sfwriter.com/wordstar.htm",
       "time": 1782531001.0,
       "comments_url": "https://news.ycombinator.com/item?id=48694853"
     },
     {
-      "title": "IBM MCGA Gate Array Reverse Engineering",
-      "score": 9,
-      "url": "https://github.com/schlae/IBM_MCGA",
-      "time": 1782537428.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48695363"
+      "title": "Beer CSS – Build material design in record time",
+      "score": 11,
+      "url": "https://www.beercss.com",
+      "time": 1782551171.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48696510"
     },
     {
       "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-      "score": 190,
+      "score": 247,
       "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
       "time": 1782513809.0,
       "comments_url": "https://news.ycombinator.com/item?id=48692946"
     },
     {
+      "title": "Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512",
+      "score": 12,
+      "url": "https://medium.com/@s_nikolaev/faster-knn-search-in-manticore-2-pass-hnsw-batched-distances-and-avx-512-b85604647aab",
+      "time": 1782447208.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48682243"
+    },
+    {
       "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-      "score": 348,
+      "score": 454,
       "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
       "time": 1782514108.0,
       "comments_url": "https://news.ycombinator.com/item?id=48692995"
     },
     {
-      "title": "Fusion Programming Language",
-      "score": 38,
-      "url": "https://fusion-lang.org/",
-      "time": 1782300427.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48658148"
-    },
-    {
-      "title": "SCC Technical Assistance Program",
+      "title": "Jest/Vitest interactive course (runs in the browser)",
       "score": 8,
-      "url": "https://nerocam.com/scc_tap.asp",
-      "time": 1782290764.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48656982"
+      "url": "https://howtotestfrontend.com/courses/jest-vitest-fundamentals",
+      "time": 1782335347.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48665671"
     },
     {
-      "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
-      "score": 309,
-      "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
-      "time": 1782207575.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48642510"
-    },
-    {
-      "title": "Show HN: Hacker News on a train station-style flip board",
-      "score": 46,
-      "url": "https://popflame.quickish.space/hn-flipboard/",
-      "time": 1782521019.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48693912"
-    },
-    {
-      "title": "Hellishly Slow Level 13 Deflate Compression",
-      "score": 34,
-      "url": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
-      "time": 1782152240.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48633839"
-    },
-    {
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "score": 944,
-      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-      "time": 1782498194.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48690101"
+      "title": "OpenTTD 16.0-Beta1",
+      "score": 167,
+      "url": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
+      "time": 1782534666.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48695149"
     },
     {
       "title": "AI in mathematics is forcing big questions",
-      "score": 96,
+      "score": 133,
       "url": "https://spectrum.ieee.org/ai-in-mathematics",
       "time": 1782513411.0,
       "comments_url": "https://news.ycombinator.com/item?id=48692883"
     },
     {
-      "title": "Show HN: DBOSify – Drop-in Temporal replacement built on Postgres",
-      "score": 46,
-      "url": "https://github.com/dbos-inc/dbosify-py",
-      "time": 1782321648.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48662988"
+      "title": "Fusion Programming Language",
+      "score": 79,
+      "url": "https://fusion-lang.org/",
+      "time": 1782300427.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48658148"
     },
     {
-      "title": "Om",
-      "score": 277,
-      "url": "https://daringfireball.net/2026/06/om",
-      "time": 1782516826.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48693391"
+      "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+      "score": 335,
+      "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+      "time": 1782207575.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48642510"
     },
     {
-      "title": "Foreign funds help make housing unaffordable: research",
-      "score": 42,
-      "url": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
-      "time": 1782516990.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48693420"
+      "title": "Hellishly Slow Level 13 Deflate Compression",
+      "score": 62,
+      "url": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
+      "time": 1782152240.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48633839"
+    },
+    {
+      "title": "The US Army Issued Ocarinas to Soldiers in World War II",
+      "score": 8,
+      "url": "https://www.flutetunes.com/articles/my-flute-goes-to-war/",
+      "time": 1782372366.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48670103"
+    },
+    {
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "score": 1045,
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "time": 1782498194.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48690101"
+    },
+    {
+      "title": "IBM MCGA Gate Array Reverse Engineering",
+      "score": 35,
+      "url": "https://github.com/schlae/IBM_MCGA",
+      "time": 1782537428.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48695363"
     },
     {
       "title": "Anatomy of a Failed (Nation-State?) Attack",
-      "score": 17,
+      "score": 63,
       "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
       "time": 1782528113.0,
       "comments_url": "https://news.ycombinator.com/item?id=48694631"
-    },
-    {
-      "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
-      "score": 82,
-      "url": "https://github.com/Tessil/hopscotch-map",
-      "time": 1782508708.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48692090"
-    },
-    {
-      "title": "We can still stop California's 3D printer surveillance scheme",
-      "score": 334,
-      "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
-      "time": 1782508430.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48692051"
-    },
-    {
-      "title": "The gap between open weights LLMs and closed source LLMs",
-      "score": 175,
-      "url": "https://blog.doubleword.ai/frontier-os-llm",
-      "time": 1782508487.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48692058"
     }
   ]
 }
