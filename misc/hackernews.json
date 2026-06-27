@@ -1,54 +1,96 @@
 {
-  "last_updated": "2026-06-27T09:11:42.896784-04:00",
+  "last_updated": "2026-06-27T11:58:51.044298-04:00",
   "stories": [
     {
       "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "score": 477,
+      "score": 598,
       "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
       "time": 1782551932.0,
       "comments_url": "https://news.ycombinator.com/item?id=48696585"
     },
     {
-      "title": "Fintech Engineering Handbook",
-      "score": 134,
-      "url": "https://w.pitula.me/fintech-engineering-handbook/",
-      "time": 1782556133.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48696982"
-    },
-    {
       "title": "OpenRA",
-      "score": 28,
+      "score": 219,
       "url": "https://www.openra.net/",
       "time": 1782562227.0,
       "comments_url": "https://news.ycombinator.com/item?id=48697560"
     },
     {
-      "title": "If you can't hold it, you don't own it",
-      "score": 36,
-      "url": "https://dervis.de/physical/",
-      "time": 1782559930.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48697335"
+      "title": "Fintech Engineering Handbook",
+      "score": 270,
+      "url": "https://w.pitula.me/fintech-engineering-handbook/",
+      "time": 1782556133.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48696982"
     },
     {
-      "title": "Beer CSS – Build material design in record time",
-      "score": 61,
-      "url": "https://www.beercss.com",
-      "time": 1782551171.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48696510"
+      "title": "Underarm Bowling Incident of 1981",
+      "score": 67,
+      "url": "https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981",
+      "time": 1782246079.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48650794"
+    },
+    {
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "score": 46,
+      "url": "https://github.com/bikini/exploitarium",
+      "time": 1782570660.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48698617"
+    },
+    {
+      "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
+      "score": 30,
+      "url": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
+      "time": 1782570220.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48698559"
+    },
+    {
+      "title": "Suspicious Discontinuities",
+      "score": 54,
+      "url": "https://danluu.com/discontinuities/",
+      "time": 1782567140.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48698151"
+    },
+    {
+      "title": "Zuckerberg's Increasingly Bizarre War on Whistleblowers",
+      "score": 108,
+      "url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
+      "time": 1782571085.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48698684"
     },
     {
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "score": 1035,
+      "score": 1065,
       "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
       "time": 1782493615.0,
       "comments_url": "https://news.ycombinator.com/item?id=48689028"
     },
     {
+      "title": "How Many Elementary Particles Are There, Really?",
+      "score": 50,
+      "url": "https://www.quantamagazine.org/how-many-elementary-particles-are-there-really-20260615/",
+      "time": 1782564059.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48697746"
+    },
+    {
       "title": "Long Wave radio era set to end with switch-off",
-      "score": 72,
+      "score": 108,
       "url": "https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service",
       "time": 1782412937.0,
       "comments_url": "https://news.ycombinator.com/item?id=48677564"
+    },
+    {
+      "title": "Beer CSS – Build material design in record time",
+      "score": 93,
+      "url": "https://www.beercss.com",
+      "time": 1782551171.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48696510"
+    },
+    {
+      "title": "Researchers have developed pixels that can emit and analyse light together",
+      "score": 4,
+      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/06/a-new-type-of-pixel.html",
+      "time": 1782546686.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48696127"
     },
     {
       "title": "Nox Metals (YC S25) Is Hiring SWE",
@@ -58,88 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=48697504"
     },
     {
-      "title": "WordStar: A Writer's Word Processor (1996)",
-      "score": 114,
-      "url": "https://www.sfwriter.com/wordstar.htm",
-      "time": 1782531001.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48694853"
-    },
-    {
-      "title": "Linux on Older Hardware: The Complete Revival Guide",
-      "score": 92,
-      "url": "https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm",
-      "time": 1782360389.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48668747"
-    },
-    {
-      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-      "score": 276,
-      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
-      "time": 1782513809.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48692946"
-    },
-    {
       "title": "The US Army Issued Ocarinas to Soldiers in World War II",
-      "score": 32,
+      "score": 75,
       "url": "https://www.flutetunes.com/articles/my-flute-goes-to-war/",
       "time": 1782372366.0,
       "comments_url": "https://news.ycombinator.com/item?id=48670103"
     },
     {
-      "title": "Faster KNN search in Manticore: 2-pass HNSW, batched distances, and AVX-512",
-      "score": 28,
-      "url": "https://medium.com/@s_nikolaev/faster-knn-search-in-manticore-2-pass-hnsw-batched-distances-and-avx-512-b85604647aab",
-      "time": 1782447208.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48682243"
+      "title": "Linux on Older Hardware: The Complete Revival Guide",
+      "score": 139,
+      "url": "https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm",
+      "time": 1782360389.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48668747"
     },
     {
-      "title": "Cultures of Making and Relating",
-      "score": 9,
-      "url": "https://blog.khinsen.net/posts/2026/06/25/cultures.html",
-      "time": 1782402857.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48675290"
+      "title": "If you can't hold it, you don't own it",
+      "score": 145,
+      "url": "https://dervis.de/physical/",
+      "time": 1782559930.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48697335"
     },
     {
-      "title": "Task Failed Successfully: Saturating NIC and Disk Bandwidth",
-      "score": 3,
-      "url": "https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/",
-      "time": 1782224900.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48645510"
+      "title": "Reducing tick density along recreational trails in Ottawa, Canada",
+      "score": 21,
+      "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
+      "time": 1782326532.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48664063"
     },
     {
-      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-      "score": 481,
-      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-      "time": 1782514108.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48692995"
+      "title": "Streaming services' obnoxiously loud ads become illegal on July 1 in California",
+      "score": 93,
+      "url": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
+      "time": 1782564196.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48697768"
     },
     {
-      "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
-      "score": 344,
-      "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
-      "time": 1782207575.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48642510"
-    },
-    {
-      "title": "AI in mathematics is forcing big questions",
-      "score": 154,
-      "url": "https://spectrum.ieee.org/ai-in-mathematics",
-      "time": 1782513411.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48692883"
-    },
-    {
-      "title": "OpenTTD 16.0-Beta1",
-      "score": 194,
-      "url": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
-      "time": 1782534666.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48695149"
-    },
-    {
-      "title": "Jest/Vitest interactive course (runs in the browser)",
-      "score": 18,
-      "url": "https://howtotestfrontend.com/courses/jest-vitest-fundamentals",
-      "time": 1782335347.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48665671"
+      "title": "One man, two kernels, and a lot of RISC-V",
+      "score": 8,
+      "url": "https://www.theregister.com/software/2026/06/26/one-man-two-kernels-and-a-lot-of-risc-v/5262858",
+      "time": 1782490806.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48688438"
     }
   ]
 }
