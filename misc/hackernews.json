@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-06-26T22:25:04.447885-04:00",
+  "last_updated": "2026-06-27T02:22:07.166449-04:00",
   "stories": [
     {
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "score": 857,
+      "score": 933,
       "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
       "time": 1782493615.0,
       "comments_url": "https://news.ycombinator.com/item?id=48689028"
     },
     {
+      "title": "OpenTTD 16.0-Beta1",
+      "score": 25,
+      "url": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
+      "time": 1782534666.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48695149"
+    },
+    {
+      "title": "WordStar: A Writer's Word Processor (1996)",
+      "score": 42,
+      "url": "https://www.sfwriter.com/wordstar.htm",
+      "time": 1782531001.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48694853"
+    },
+    {
+      "title": "IBM MCGA Gate Array Reverse Engineering",
+      "score": 9,
+      "url": "https://github.com/schlae/IBM_MCGA",
+      "time": 1782537428.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48695363"
+    },
+    {
       "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-      "score": 94,
+      "score": 190,
       "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
       "time": 1782513809.0,
       "comments_url": "https://news.ycombinator.com/item?id=48692946"
     },
     {
-      "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
-      "score": 67,
-      "url": "https://github.com/Tessil/hopscotch-map",
-      "time": 1782508708.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48692090"
+      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+      "score": 348,
+      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "time": 1782514108.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48692995"
+    },
+    {
+      "title": "Fusion Programming Language",
+      "score": 38,
+      "url": "https://fusion-lang.org/",
+      "time": 1782300427.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48658148"
+    },
+    {
+      "title": "SCC Technical Assistance Program",
+      "score": 8,
+      "url": "https://nerocam.com/scc_tap.asp",
+      "time": 1782290764.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48656982"
     },
     {
       "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
-      "score": 268,
+      "score": 309,
       "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
       "time": 1782207575.0,
       "comments_url": "https://news.ycombinator.com/item?id=48642510"
     },
     {
-      "title": "Show HN: Hacker News on a Train Station Style Flip Board",
-      "score": 9,
+      "title": "Show HN: Hacker News on a train station-style flip board",
+      "score": 46,
       "url": "https://popflame.quickish.space/hn-flipboard/",
       "time": 1782521019.0,
       "comments_url": "https://news.ycombinator.com/item?id=48693912"
     },
     {
+      "title": "Hellishly Slow Level 13 Deflate Compression",
+      "score": 34,
+      "url": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
+      "time": 1782152240.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48633839"
+    },
+    {
       "title": "U.S. government will decide who gets to use GPT-5.6",
-      "score": 837,
+      "score": 944,
       "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
       "time": 1782498194.0,
       "comments_url": "https://news.ycombinator.com/item?id=48690101"
     },
     {
       "title": "AI in mathematics is forcing big questions",
-      "score": 45,
+      "score": 96,
       "url": "https://spectrum.ieee.org/ai-in-mathematics",
       "time": 1782513411.0,
       "comments_url": "https://news.ycombinator.com/item?id=48692883"
     },
     {
-      "title": "The gap between open weights LLMs and closed source LLMs",
-      "score": 126,
-      "url": "https://blog.doubleword.ai/frontier-os-llm",
-      "time": 1782508487.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48692058"
-    },
-    {
-      "title": "We can still stop California's 3D printer surveillance scheme",
-      "score": 237,
-      "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
-      "time": 1782508430.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48692051"
-    },
-    {
-      "title": "Om",
-      "score": 107,
-      "url": "https://daringfireball.net/2026/06/om",
-      "time": 1782516826.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48693391"
-    },
-    {
-      "title": "A Tiny Compiler for Data-Parallel Kernels",
-      "score": 27,
-      "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
-      "time": 1782394332.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48673115"
-    },
-    {
-      "title": "US allows Anthropic to release Mythos to 'trusted partners'",
-      "score": 219,
-      "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
-      "time": 1782514108.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48692995"
-    },
-    {
-      "title": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum",
-      "score": 69,
-      "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
-      "time": 1782218709.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48644111"
-    },
-    {
-      "title": "Ultrasound imaging of the brain",
-      "score": 242,
-      "url": "https://alephneuro.com/blog/ultrasound-brain",
-      "time": 1782474671.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48685558"
-    },
-    {
-      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-      "score": 149,
-      "url": "https://github.com/workweave/router",
-      "time": 1782492011.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48688700"
-    },
-    {
       "title": "Show HN: DBOSify – Drop-in Temporal replacement built on Postgres",
-      "score": 22,
+      "score": 46,
       "url": "https://github.com/dbos-inc/dbosify-py",
       "time": 1782321648.0,
       "comments_url": "https://news.ycombinator.com/item?id=48662988"
     },
     {
-      "title": "Hightouch (YC S19) Is Hiring",
-      "score": 1,
-      "url": "https://hightouch.com/careers#open-positions",
-      "time": 1782507650.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48691893"
+      "title": "Om",
+      "score": 277,
+      "url": "https://daringfireball.net/2026/06/om",
+      "time": 1782516826.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48693391"
     },
     {
-      "title": "Making Sense of Proof by Contradiction [pdf]",
-      "score": 5,
-      "url": "https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf",
-      "time": 1782216013.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48643661"
+      "title": "Foreign funds help make housing unaffordable: research",
+      "score": 42,
+      "url": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
+      "time": 1782516990.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48693420"
     },
     {
-      "title": "What Is a Nomogram and Why Would It Interest Me?",
-      "score": 89,
-      "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
-      "time": 1782494665.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48689277"
+      "title": "Anatomy of a Failed (Nation-State?) Attack",
+      "score": 17,
+      "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+      "time": 1782528113.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48694631"
     },
     {
-      "title": "Hellishly Slow Level 13 Deflate Compression",
-      "score": 3,
-      "url": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
-      "time": 1782152240.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48633839"
+      "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
+      "score": 82,
+      "url": "https://github.com/Tessil/hopscotch-map",
+      "time": 1782508708.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48692090"
+    },
+    {
+      "title": "We can still stop California's 3D printer surveillance scheme",
+      "score": 334,
+      "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
+      "time": 1782508430.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48692051"
+    },
+    {
+      "title": "The gap between open weights LLMs and closed source LLMs",
+      "score": 175,
+      "url": "https://blog.doubleword.ai/frontier-os-llm",
+      "time": 1782508487.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48692058"
     }
   ]
 }
