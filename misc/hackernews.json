@@ -1,54 +1,117 @@
 {
-  "last_updated": "2026-06-26T18:03:08.688643-04:00",
+  "last_updated": "2026-06-26T22:25:04.447885-04:00",
   "stories": [
     {
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "score": 670,
+      "score": 857,
       "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
       "time": 1782493615.0,
       "comments_url": "https://news.ycombinator.com/item?id=48689028"
     },
     {
-      "title": "The gap between open weights LLMs and closed source LLMs",
-      "score": 26,
-      "url": "https://blog.doubleword.ai/frontier-os-llm",
-      "time": 1782508487.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48692058"
+      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+      "score": 94,
+      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+      "time": 1782513809.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48692946"
     },
     {
       "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
-      "score": 18,
+      "score": 67,
       "url": "https://github.com/Tessil/hopscotch-map",
       "time": 1782508708.0,
       "comments_url": "https://news.ycombinator.com/item?id=48692090"
     },
     {
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "score": 582,
-      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-      "time": 1782498194.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48690101"
-    },
-    {
       "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
-      "score": 213,
+      "score": 268,
       "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
       "time": 1782207575.0,
       "comments_url": "https://news.ycombinator.com/item?id=48642510"
     },
     {
+      "title": "Show HN: Hacker News on a Train Station Style Flip Board",
+      "score": 9,
+      "url": "https://popflame.quickish.space/hn-flipboard/",
+      "time": 1782521019.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48693912"
+    },
+    {
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "score": 837,
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "time": 1782498194.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48690101"
+    },
+    {
+      "title": "AI in mathematics is forcing big questions",
+      "score": 45,
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "time": 1782513411.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48692883"
+    },
+    {
+      "title": "The gap between open weights LLMs and closed source LLMs",
+      "score": 126,
+      "url": "https://blog.doubleword.ai/frontier-os-llm",
+      "time": 1782508487.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48692058"
+    },
+    {
+      "title": "We can still stop California's 3D printer surveillance scheme",
+      "score": 237,
+      "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
+      "time": 1782508430.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48692051"
+    },
+    {
+      "title": "Om",
+      "score": 107,
+      "url": "https://daringfireball.net/2026/06/om",
+      "time": 1782516826.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48693391"
+    },
+    {
+      "title": "A Tiny Compiler for Data-Parallel Kernels",
+      "score": 27,
+      "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
+      "time": 1782394332.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48673115"
+    },
+    {
+      "title": "US allows Anthropic to release Mythos to 'trusted partners'",
+      "score": 219,
+      "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
+      "time": 1782514108.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48692995"
+    },
+    {
       "title": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum",
-      "score": 57,
+      "score": 69,
       "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
       "time": 1782218709.0,
       "comments_url": "https://news.ycombinator.com/item?id=48644111"
     },
     {
+      "title": "Ultrasound imaging of the brain",
+      "score": 242,
+      "url": "https://alephneuro.com/blog/ultrasound-brain",
+      "time": 1782474671.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48685558"
+    },
+    {
       "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-      "score": 112,
+      "score": 149,
       "url": "https://github.com/workweave/router",
       "time": 1782492011.0,
       "comments_url": "https://news.ycombinator.com/item?id=48688700"
+    },
+    {
+      "title": "Show HN: DBOSify – Drop-in Temporal replacement built on Postgres",
+      "score": 22,
+      "url": "https://github.com/dbos-inc/dbosify-py",
+      "time": 1782321648.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48662988"
     },
     {
       "title": "Hightouch (YC S19) Is Hiring",
@@ -58,88 +121,25 @@
       "comments_url": "https://news.ycombinator.com/item?id=48691893"
     },
     {
-      "title": "Ultrasound imaging of the brain",
-      "score": 206,
-      "url": "https://alephneuro.com/blog/ultrasound-brain",
-      "time": 1782474671.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48685558"
+      "title": "Making Sense of Proof by Contradiction [pdf]",
+      "score": 5,
+      "url": "https://www.foster77.co.uk/Foster,%20Scottish%20Mathematical%20Council%20Journal,%20Making%20sense%20of%20proof%20by%20contradiction.pdf",
+      "time": 1782216013.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48643661"
     },
     {
       "title": "What Is a Nomogram and Why Would It Interest Me?",
-      "score": 52,
+      "score": 89,
       "url": "https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html#what-is-a-nomogram-and-why-would-it-interest-me",
       "time": 1782494665.0,
       "comments_url": "https://news.ycombinator.com/item?id=48689277"
     },
     {
-      "title": "Modern GPU Programming for MLSys",
-      "score": 48,
-      "url": "https://mlc.ai/modern-gpu-programming-for-mlsys/",
-      "time": 1782214705.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48643459"
-    },
-    {
-      "title": "Long Wave radio era set to end with Droitwich switch-off",
-      "score": 18,
-      "url": "https://www.bbc.com/news/articles/c74yn7v7k4qo",
-      "time": 1782501140.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48690709"
-    },
-    {
-      "title": "Show HN: Autofit2 – End-to-end pipeline for multilingual text classification",
-      "score": 5,
-      "url": "https://github.com/neospe/autofit2",
-      "time": 1782395901.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48673527"
-    },
-    {
-      "title": "Pre-Modern Armies for Worldbuilders, Part III: Paying for It",
-      "score": 22,
-      "url": "https://acoup.blog/2026/06/26/collections-pre-modern-armies-for-worldbuilders-part-iii-paying-for-it/",
-      "time": 1782497045.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48689859"
-    },
-    {
-      "title": "A human postmortem of the 1996 AOL outage",
-      "score": 15,
-      "url": "https://ngrok.com/blog/aol-was-down-1996",
-      "time": 1782311357.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48660522"
-    },
-    {
-      "title": "PlayStation Is Deleting 551 Movies from Customers' Accounts",
-      "score": 38,
-      "url": "https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013",
-      "time": 1782504438.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48691346"
-    },
-    {
-      "title": "The National Parks Were Reportedly Told to Stay Silent on Deaths",
-      "score": 16,
-      "url": "https://www.outsideonline.com/outdoor-adventure/environment/nps-internal-memo-deaths/?link_source=ta_first_comment&taid=6a3dae4f4d2dce00016deef8&utm_content=trueanthem&utm_medium=social&utm_source=facebook",
-      "time": 1782508760.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48692098"
-    },
-    {
-      "title": "The Art of Kite Flying (1430–1929)",
-      "score": 13,
-      "url": "https://publicdomainreview.org/collection/art-of-kite-flying/",
-      "time": 1782092397.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48624591"
-    },
-    {
-      "title": "Data centers trigger voter backlash",
-      "score": 124,
-      "url": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
-      "time": 1782494661.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48689275"
-    },
-    {
-      "title": "What is a Lithium-ion capacitor?",
-      "score": 42,
-      "url": "https://www.jtekt.co.jp/e/products/capacitor/capacitor_about.html",
-      "time": 1782489079.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48688081"
+      "title": "Hellishly Slow Level 13 Deflate Compression",
+      "score": 3,
+      "url": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
+      "time": 1782152240.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48633839"
     }
   ]
 }
