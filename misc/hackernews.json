@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-07-02T07:26:36.032012-04:00",
+  "last_updated": "2026-07-02T09:39:16.382058-04:00",
   "stories": [
     {
-      "title": "A new Android malware from Google",
-      "score": 712,
+      "title": "Vite+ Beta",
+      "score": 91,
+      "url": "https://voidzero.dev/posts/announcing-vite-plus-beta",
+      "time": 1782991801.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48759761"
+    },
+    {
+      "title": "This blog is written in en-GB",
+      "score": 193,
+      "url": "https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/",
+      "time": 1782994653.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48760289"
+    },
+    {
+      "title": "AI fake news complaining about how AI fake news is the death of real news",
+      "score": 43,
+      "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
+      "time": 1782996036.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48760598"
+    },
+    {
+      "title": "Android Developer Verification: Threat masquerading as Protection",
+      "score": 969,
       "url": "https://f-droid.org/2026/07/01/adv-malware.html",
       "time": 1782961215.0,
       "comments_url": "https://news.ycombinator.com/item?id=48755965"
     },
     {
+      "title": "In the age of algorithms and AI, is traditional media democracy's defence?",
+      "score": 5,
+      "url": "https://www.martenscentre.eu/media-mentions/in-the-age-of-algorithms-and-ai-is-traditional-media-democracys-last-line-of-defence/",
+      "time": 1782998214.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48761088"
+    },
+    {
+      "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
+      "score": 18,
+      "url": "https://arxiv.org/abs/2607.01232",
+      "time": 1782994224.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48760201"
+    },
+    {
+      "title": "Hazel (YC W24) Is Hiring for Our Largest Government Contract",
+      "score": 1,
+      "url": "https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci",
+      "time": 1782998097.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48761068"
+    },
+    {
       "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-      "score": 187,
+      "score": 249,
       "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
       "time": 1782966761.0,
       "comments_url": "https://news.ycombinator.com/item?id=48756602"
     },
     {
-      "title": "The Fall of the Theorem Economy",
-      "score": 74,
+      "title": "The fall of the theorem economy",
+      "score": 131,
       "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
       "time": 1782979275.0,
       "comments_url": "https://news.ycombinator.com/item?id=48758048"
     },
     {
-      "title": "Oomwoo, an open-source robot vacuum you build yourself",
-      "score": 335,
-      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-      "time": 1782953281.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48755005"
+      "title": "An AI board that pre-registers its bets – bet #1 just graded wrong",
+      "score": 3,
+      "url": "https://github.com/danilushin/asktheboard",
+      "time": 1782998975.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48761297"
+    },
+    {
+      "title": "WinPE as a stateless harness for Windows driver testing and fuzzing",
+      "score": 23,
+      "url": "https://bednars.me/blog/winpe-harness",
+      "time": 1782674262.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48710537"
     },
     {
       "title": "ZCode – Harness for GLM-5.2",
-      "score": 414,
+      "score": 449,
       "url": "https://zcode.z.ai/en",
       "time": 1782943416.0,
       "comments_url": "https://news.ycombinator.com/item?id=48753715"
     },
     {
-      "title": "My Favorite Keyboards",
-      "score": 49,
-      "url": "https://fabiensanglard.net/keyboards/index.html",
-      "time": 1782708078.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48714884"
+      "title": "Oomwoo, an open-source robot vacuum you build yourself",
+      "score": 377,
+      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+      "time": 1782953281.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48755005"
     },
     {
       "title": "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction",
-      "score": 43,
+      "score": 64,
       "url": "https://www.mixedbread.com/blog/asymmetric-quant",
       "time": 1782762135.0,
       "comments_url": "https://news.ycombinator.com/item?id=48724127"
     },
     {
+      "title": "Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",
+      "score": 5,
+      "url": "https://github.com/emson/claudoro",
+      "time": 1782908729.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48745590"
+    },
+    {
+      "title": "Many people misunderstand the purpose of code review",
+      "score": 12,
+      "url": "https://mathstodon.xyz/@mjd/115096720350507897",
+      "time": 1782992487.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48759870"
+    },
+    {
+      "title": "Why I'm Forced to Say Farewell: Google Management Has Lost Its Moral Compass",
+      "score": 145,
+      "url": "https://docs.google.com/document/d/1SH9QRTAlL02THgAN2AGmWe9El0_2ZJF6hhgDBx8k97c/edit?tab=t.0",
+      "time": 1782986427.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48758970"
+    },
+    {
       "title": "Bring back crappy forums",
-      "score": 315,
+      "score": 381,
       "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
       "time": 1782959416.0,
       "comments_url": "https://news.ycombinator.com/item?id=48755731"
     },
     {
-      "title": "Meta building cloud business to sell excess AI capacity",
-      "score": 16,
-      "url": "https://www.reuters.com/business/meta-sell-excess-ai-computing-capacity-via-cloud-business-bloomberg-news-reports-2026-07-01/",
-      "time": 1782989021.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48759329"
+      "title": "Google loses fight over record $4.7B EU antitrust fine",
+      "score": 187,
+      "url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
+      "time": 1782981253.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48758309"
     },
     {
       "title": "What to learn to be a graphics programmer",
-      "score": 366,
+      "score": 382,
       "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
       "time": 1782928424.0,
       "comments_url": "https://news.ycombinator.com/item?id=48750710"
-    },
-    {
-      "title": "FFmpeg 9.1's new AAC encoder",
-      "score": 389,
-      "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
-      "time": 1782915028.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48747116"
-    },
-    {
-      "title": "Creating a Personalised Bin Calendar",
-      "score": 6,
-      "url": "https://alexwlchan.net/2026/bin-calendar/",
-      "time": 1782740713.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48719224"
-    },
-    {
-      "title": "CursorBench 3.1",
-      "score": 77,
-      "url": "https://cursor.com/evals",
-      "time": 1782969574.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48756840"
-    },
-    {
-      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-      "score": 101,
-      "url": "https://senior-swe-bench.snorkel.ai/",
-      "time": 1782960916.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48755928"
-    },
-    {
-      "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
-      "score": 170,
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
-      "time": 1782944867.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48753979"
-    },
-    {
-      "title": "How do wombats poop cubes?",
-      "score": 133,
-      "url": "https://www.science.org/content/article/how-do-wombats-poop-cubes-scientists-get-bottom-mystery",
-      "time": 1782827972.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48732860"
-    },
-    {
-      "title": "Ask HN: Who is hiring? (July 2026)",
-      "score": 206,
-      "url": "https://news.ycombinator.com/item?id=48747976",
-      "time": 1782918081.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48747976"
-    },
-    {
-      "title": "Why jet engines aren't made in China",
-      "score": 179,
-      "url": "https://aakash.substack.com/p/why-jet-engines-arent-made-in-china",
-      "time": 1782865361.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48740971"
-    },
-    {
-      "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
-      "score": 190,
-      "url": "https://www.weaverobotics.com/isaac-1",
-      "time": 1782929538.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48750989"
-    },
-    {
-      "title": "Qualcomm Linux 2.0",
-      "score": 115,
-      "url": "https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available",
-      "time": 1782939702.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48753069"
     }
   ]
 }
