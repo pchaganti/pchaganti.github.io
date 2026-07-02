@@ -1,89 +1,124 @@
 {
-  "last_updated": "2026-07-02T12:44:26.395590-04:00",
+  "last_updated": "2026-07-02T15:09:58.513830-04:00",
   "stories": [
     {
       "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-      "score": 119,
+      "score": 269,
       "url": "https://mathstodon.xyz/@iblech/116769502749142438",
       "time": 1783005916.0,
       "comments_url": "https://news.ycombinator.com/item?id=48763035"
     },
     {
-      "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
-      "score": 49,
-      "url": "https://manufact.com",
-      "time": 1783005080.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48762862"
-    },
-    {
-      "title": "Android Developer Verification: Threat masquerading as protection",
-      "score": 1299,
-      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
-      "time": 1782961215.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48755965"
-    },
-    {
-      "title": "24-bit/192kHz music downloads and why they make no sense",
-      "score": 12,
-      "url": "https://people.xiph.org/~xiphmont/demo/neil-young.html#toc_wd2bm",
-      "time": 1783009489.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48763790"
-    },
-    {
-      "title": "How to ask for help from people who don't know you",
-      "score": 95,
-      "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
-      "time": 1782998362.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48761118"
-    },
-    {
-      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-      "score": 179,
-      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
-      "time": 1782999821.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48761536"
+      "title": "Exapunks",
+      "score": 26,
+      "url": "https://www.zachtronics.com/exapunks/",
+      "time": 1783017679.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48765663"
     },
     {
       "title": "PeerTube is a free, decentralized and federated video platform",
-      "score": 106,
+      "score": 294,
       "url": "https://github.com/Chocobozzz/PeerTube",
       "time": 1782991065.0,
       "comments_url": "https://news.ycombinator.com/item?id=48759634"
     },
     {
-      "title": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail",
-      "score": 69,
-      "url": "https://mailmemories.com",
-      "time": 1783001817.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48762000"
+      "title": "Android Developer Verification: Threat masquerading as protection",
+      "score": 1438,
+      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "time": 1782961215.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48755965"
     },
     {
-      "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
-      "score": 75,
-      "url": "https://arxiv.org/abs/2607.01232",
-      "time": 1782994224.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48760201"
+      "title": "How to ask for help from people who don't know you",
+      "score": 216,
+      "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
+      "time": 1782998362.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48761118"
+    },
+    {
+      "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
+      "score": 76,
+      "url": "https://manufact.com",
+      "time": 1783005080.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48762862"
+    },
+    {
+      "title": "Podman v6.0.0",
+      "score": 97,
+      "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+      "time": 1783002189.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48762098"
+    },
+    {
+      "title": "Klara and the Sun Essay Contest – $1k Prize – AI Use Allowed",
+      "score": 5,
+      "url": "https://willpenman.com/klara/",
+      "time": 1783018138.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48765743"
+    },
+    {
+      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+      "score": 274,
+      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+      "time": 1782999821.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48761536"
+    },
+    {
+      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
+      "score": 244,
+      "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
+      "time": 1783004546.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48762725"
     },
     {
       "title": "German button maker searched rivers of American Midwest for valuable shells",
-      "score": 63,
+      "score": 101,
       "url": "https://www.smithsonianmag.com/smithsonian-institution/how-one-german-button-maker-searched-the-rivers-of-the-american-midwest-for-the-shells-that-could-make-him-a-fortune-180989012/",
       "time": 1782596285.0,
       "comments_url": "https://news.ycombinator.com/item?id=48702006"
     },
     {
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "score": 367,
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "time": 1782966761.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48756602"
+    },
+    {
       "title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
-      "score": 29,
+      "score": 52,
       "url": "https://github.com/rafal-qa/slopo",
       "time": 1783001964.0,
       "comments_url": "https://news.ycombinator.com/item?id=48762038"
     },
     {
-      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-      "score": 318,
-      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
-      "time": 1782966761.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48756602"
+      "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
+      "score": 308,
+      "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
+      "time": 1782998725.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48761229"
+    },
+    {
+      "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
+      "score": 109,
+      "url": "https://arxiv.org/abs/2607.01232",
+      "time": 1782994224.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48760201"
+    },
+    {
+      "title": "No LLM Code in Dependencies",
+      "score": 37,
+      "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/",
+      "time": 1783001843.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48762008"
+    },
+    {
+      "title": "The primary purpose of code review is to find code that will be hard to maintain",
+      "score": 260,
+      "url": "https://mathstodon.xyz/@mjd/115096720350507897",
+      "time": 1782992487.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48759870"
     },
     {
       "title": "Hazel (YC W24) Is Hiring for Our Largest Government Contract",
@@ -93,53 +128,18 @@
       "comments_url": "https://news.ycombinator.com/item?id=48761068"
     },
     {
-      "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
-      "score": 145,
-      "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
-      "time": 1782998725.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48761229"
-    },
-    {
-      "title": "The primary purpose of code review is to find code that will be hard to maintain",
-      "score": 199,
-      "url": "https://mathstodon.xyz/@mjd/115096720350507897",
-      "time": 1782992487.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48759870"
-    },
-    {
-      "title": "Show HN: A graph paper generator that renders vector PDFs in the browser",
-      "score": 36,
-      "url": "https://freegraphpaper.net/",
-      "time": 1782998949.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48761294"
-    },
-    {
       "title": "The fall of the theorem economy",
-      "score": 180,
+      "score": 210,
       "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
       "time": 1782979275.0,
       "comments_url": "https://news.ycombinator.com/item?id=48758048"
     },
     {
-      "title": "Oomwoo, an open-source robot vacuum you build yourself",
-      "score": 429,
-      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-      "time": 1782953281.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48755005"
-    },
-    {
-      "title": "ZCode – Harness for GLM-5.2",
-      "score": 484,
-      "url": "https://zcode.z.ai/en",
-      "time": 1782943416.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48753715"
-    },
-    {
-      "title": "CursorBench 3.1",
-      "score": 123,
-      "url": "https://cursor.com/evals",
-      "time": 1782969574.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48756840"
+      "title": "Show HN: A graph paper generator that renders vector PDFs in the browser",
+      "score": 65,
+      "url": "https://freegraphpaper.net/",
+      "time": 1782998949.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48761294"
     }
   ]
 }
