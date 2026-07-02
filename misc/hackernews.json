@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-07-02T15:09:58.513830-04:00",
+  "last_updated": "2026-07-02T17:59:23.344437-04:00",
   "stories": [
     {
-      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-      "score": 269,
-      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-      "time": 1783005916.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48763035"
+      "title": "Virginia bans sale of geolocation data",
+      "score": 97,
+      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+      "time": 1783026225.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48767347"
     },
     {
-      "title": "Exapunks",
-      "score": 26,
+      "title": "Exapunks (2018)",
+      "score": 174,
       "url": "https://www.zachtronics.com/exapunks/",
       "time": 1783017679.0,
       "comments_url": "https://news.ycombinator.com/item?id=48765663"
     },
     {
-      "title": "PeerTube is a free, decentralized and federated video platform",
-      "score": 294,
-      "url": "https://github.com/Chocobozzz/PeerTube",
-      "time": 1782991065.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48759634"
+      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+      "score": 348,
+      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+      "time": 1783005916.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48763035"
     },
     {
-      "title": "Android Developer Verification: Threat masquerading as protection",
-      "score": 1438,
-      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
-      "time": 1782961215.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48755965"
+      "title": "EFF letter to FTC on X consent order (2 July 2026) [pdf]",
+      "score": 68,
+      "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf",
+      "time": 1783020458.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48766209"
     },
     {
-      "title": "How to ask for help from people who don't know you",
-      "score": 216,
-      "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
-      "time": 1782998362.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48761118"
-    },
-    {
-      "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
-      "score": 76,
-      "url": "https://manufact.com",
-      "time": 1783005080.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48762862"
+      "title": "Lightning Memory-Mapped Database Manager (LMDB) 1.0",
+      "score": 36,
+      "url": "http://www.lmdb.tech/doc/",
+      "time": 1783022480.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48766598"
     },
     {
       "title": "Podman v6.0.0",
-      "score": 97,
+      "score": 283,
       "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
       "time": 1783002189.0,
       "comments_url": "https://news.ycombinator.com/item?id=48762098"
     },
     {
-      "title": "Klara and the Sun Essay Contest – $1k Prize – AI Use Allowed",
-      "score": 5,
-      "url": "https://willpenman.com/klara/",
-      "time": 1783018138.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48765743"
+      "title": "PeerTube is a free, decentralized and federated video platform",
+      "score": 429,
+      "url": "https://github.com/Chocobozzz/PeerTube",
+      "time": 1782991065.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48759634"
     },
     {
-      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-      "score": 274,
-      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
-      "time": 1782999821.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48761536"
+      "title": "Vulkan is now available on NetBSD",
+      "score": 53,
+      "url": "https://github.com/segaboy/vulkan-netbsd",
+      "time": 1783017369.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48765607"
+    },
+    {
+      "title": "Postgres transactions are a distributed systems superpower",
+      "score": 58,
+      "url": "https://www.dbos.dev/blog/co-locating-workflow-state-with-your-data",
+      "time": 1783017512.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48765639"
+    },
+    {
+      "title": "How to ask for help from people who don't know you",
+      "score": 309,
+      "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
+      "time": 1782998362.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48761118"
+    },
+    {
+      "title": "JEP 539: Strict Field Initialization in the JVM moved to preview",
+      "score": 40,
+      "url": "https://openjdk.org/jeps/539",
+      "time": 1783018593.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48765830"
+    },
+    {
+      "title": "The Short Leash AI Coding Method for Beating Fable",
+      "score": 30,
+      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+      "time": 1783019517.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48766026"
+    },
+    {
+      "title": "Show HN: zkGolf – Competitive optimization of formally verified circuits",
+      "score": 29,
+      "url": "https://zk.golf/",
+      "time": 1783006805.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48763246"
+    },
+    {
+      "title": "Superpowers 6",
+      "score": 27,
+      "url": "https://blog.fsck.com/2026/06/15/Superpowers-6/",
+      "time": 1782854912.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48739459"
+    },
+    {
+      "title": "Great Salt Lake Tracker – Grow the Flow",
+      "score": 18,
+      "url": "https://growtheflowutah.org/laketracker/",
+      "time": 1783020835.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48766286"
+    },
+    {
+      "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
+      "score": 94,
+      "url": "https://manufact.com",
+      "time": 1783005080.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48762862"
+    },
+    {
+      "title": "Claude-real-video － any LLM can watch a video",
+      "score": 31,
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "time": 1783019412.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48766005"
     },
     {
       "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
-      "score": 244,
+      "score": 478,
       "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
       "time": 1783004546.0,
       "comments_url": "https://news.ycombinator.com/item?id=48762725"
     },
     {
-      "title": "German button maker searched rivers of American Midwest for valuable shells",
-      "score": 101,
-      "url": "https://www.smithsonianmag.com/smithsonian-institution/how-one-german-button-maker-searched-the-rivers-of-the-american-midwest-for-the-shells-that-could-make-him-a-fortune-180989012/",
-      "time": 1782596285.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48702006"
+      "title": "24-bit/192kHz music downloads and why they make no sense (2012)",
+      "score": 69,
+      "url": "https://people.xiph.org/~xiphmont/demo/neil-young.html#toc_wd2bm",
+      "time": 1783009489.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48763790"
     },
     {
-      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-      "score": 367,
-      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
-      "time": 1782966761.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48756602"
-    },
-    {
-      "title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
-      "score": 52,
-      "url": "https://github.com/rafal-qa/slopo",
-      "time": 1783001964.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48762038"
-    },
-    {
-      "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
-      "score": 308,
-      "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
-      "time": 1782998725.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48761229"
-    },
-    {
-      "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
-      "score": 109,
-      "url": "https://arxiv.org/abs/2607.01232",
-      "time": 1782994224.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48760201"
-    },
-    {
-      "title": "No LLM Code in Dependencies",
-      "score": 37,
-      "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/",
-      "time": 1783001843.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48762008"
-    },
-    {
-      "title": "The primary purpose of code review is to find code that will be hard to maintain",
-      "score": 260,
-      "url": "https://mathstodon.xyz/@mjd/115096720350507897",
-      "time": 1782992487.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48759870"
-    },
-    {
-      "title": "Hazel (YC W24) Is Hiring for Our Largest Government Contract",
-      "score": 1,
-      "url": "https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci",
-      "time": 1782998097.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48761068"
-    },
-    {
-      "title": "The fall of the theorem economy",
-      "score": 210,
-      "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
-      "time": 1782979275.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48758048"
-    },
-    {
-      "title": "Show HN: A graph paper generator that renders vector PDFs in the browser",
-      "score": 65,
-      "url": "https://freegraphpaper.net/",
-      "time": 1782998949.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48761294"
+      "title": "Client-side load balancing at a million requests per second",
+      "score": 30,
+      "url": "https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html?v=2](https://engineering.zalando.com/posts/2026/06/client-side-load-balancing.html",
+      "time": 1782905741.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48745118"
     }
   ]
 }
