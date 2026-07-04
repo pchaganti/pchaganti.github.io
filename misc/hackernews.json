@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-07-04T11:55:05.452611-04:00",
+  "last_updated": "2026-07-04T14:57:12.922047-04:00",
   "stories": [
     {
+      "title": "Leaking YouTube creators' private videos",
+      "score": 212,
+      "url": "https://javoriuski.com/post/youtube",
+      "time": 1783183510.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48786781"
+    },
+    {
+      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+      "score": 116,
+      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+      "time": 1783183886.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48786838"
+    },
+    {
+      "title": "No more than 100 000 faint satellites should orbit Earth",
+      "score": 58,
+      "url": "https://www.eso.org/public/news/eso2607/",
+      "time": 1783185448.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48787042"
+    },
+    {
       "title": "Potential session/cache leakage between workspace instances or consumer accounts",
-      "score": 114,
+      "score": 223,
       "url": "https://github.com/anthropics/claude-code/issues/74066",
       "time": 1783173820.0,
       "comments_url": "https://news.ycombinator.com/item?id=48785485"
     },
     {
-      "title": "Explanation of everything you can see in htop/top on Linux",
-      "score": 152,
+      "title": "Verizon is About to Break our Watches",
+      "score": 28,
+      "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
+      "time": 1783187556.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48787329"
+    },
+    {
+      "title": "Explanation of everything you can see in htop/top on Linux (2019)",
+      "score": 281,
       "url": "https://peteris.rocks/blog/htop/",
       "time": 1783166457.0,
       "comments_url": "https://news.ycombinator.com/item?id=48784777"
     },
     {
-      "title": "What ORMs have taught me: just learn SQL (2014)",
-      "score": 32,
-      "url": "https://wozniak.ca/blog/2014/08/03/1/index.html",
-      "time": 1782879241.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48742175"
+      "title": "BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
+      "score": 17,
+      "url": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
+      "time": 1783186641.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48787201"
+    },
+    {
+      "title": "Windows CE Dreamcast Community Edition (wince-dc)",
+      "score": 49,
+      "url": "https://github.com/maximqaxd/wince-dc",
+      "time": 1783176745.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48785840"
+    },
+    {
+      "title": "Curveball",
+      "score": 27,
+      "url": "https://mightyburger.net/projects/curveball/",
+      "time": 1783181748.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48786495"
+    },
+    {
+      "title": "Meta data center water discharges suspended for contaminating water supply",
+      "score": 73,
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/cheyenne-suspends-data-center-fill-and-flush-and-closed-loop-discharges-after-meta-contractor-contaminated-its-reuse-water-system",
+      "time": 1783183523.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48786782"
     },
     {
       "title": "Astrophysicists Puzzle over Webb’s New Universe",
-      "score": 119,
+      "score": 159,
       "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
       "time": 1783156089.0,
       "comments_url": "https://news.ycombinator.com/item?id=48783948"
     },
     {
+      "title": "Plein Air",
+      "score": 19,
+      "url": "https://art.joonas.wtf/",
+      "time": 1783184129.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48786880"
+    },
+    {
+      "title": "Finland's last analogue landline phones go silent after 150 years",
+      "score": 45,
+      "url": "https://www.euronews.com/next/2026/06/30/finlands-last-analogue-landline-phones-go-silent-after-150-years",
+      "time": 1783184042.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48786868"
+    },
+    {
       "title": "Maybe you should learn something",
-      "score": 286,
+      "score": 364,
       "url": "https://www.marginalia.nu/log/a_135_learn/",
       "time": 1783136163.0,
       "comments_url": "https://news.ycombinator.com/item?id=48782435"
     },
     {
-      "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
-      "score": 107,
-      "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
-      "time": 1782910136.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48745855"
+      "title": "Designing DB partitions you don't have to babysit",
+      "score": 29,
+      "url": "https://explainanalyze.com/p/designing-partitioning-you-dont-have-to-babysit/",
+      "time": 1782911116.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48746090"
     },
     {
-      "title": "The bottleneck might be the air in the room",
-      "score": 582,
-      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-      "time": 1783146748.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48783117"
+      "title": "Neural Render Proxies for Interactive and Differentiable Lighting",
+      "score": 16,
+      "url": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/",
+      "time": 1782940216.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48753160"
     },
     {
-      "title": "Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language",
-      "score": 25,
-      "url": "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language",
-      "time": 1782854835.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48739446"
+      "title": "The .join() that should be a bug",
+      "score": 5,
+      "url": "https://kronotop.com/blog/the-join-that-should-be-a-bug/",
+      "time": 1782816997.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48730868"
     },
     {
-      "title": "The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels",
-      "score": 81,
+      "title": "The Vespa at 80",
+      "score": 118,
       "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
       "time": 1782912139.0,
       "comments_url": "https://news.ycombinator.com/item?id=48746327"
     },
     {
-      "title": "Performance per dollar is getting faster and cheaper",
-      "score": 308,
-      "url": "https://www.wafer.ai/blog/glm52-amd",
-      "time": 1783115346.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48780417"
+      "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+      "score": 134,
+      "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
+      "time": 1782910136.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48745855"
     },
     {
-      "title": "Leanstral 1.5: Proof abundance for all",
-      "score": 309,
-      "url": "https://mistral.ai/news/leanstral-1-5/",
-      "time": 1783117990.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48780801"
-    },
-    {
-      "title": "Costco is the anti-Amazon",
-      "score": 487,
-      "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
-      "time": 1783091695.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48776044"
-    },
-    {
-      "title": "Night Witches – all-female Soviet aviator regiment WW2",
-      "score": 46,
-      "url": "https://en.wikipedia.org/wiki/Night_Witches",
-      "time": 1782843892.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48737068"
-    },
-    {
-      "title": "Mir Books – Books from the Soviet Era",
-      "score": 132,
-      "url": "https://mirtitles.org",
-      "time": 1782852658.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48739018"
-    },
-    {
-      "title": "Giant trees have no trouble pumping water to top branches: new research",
-      "score": 243,
-      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
-      "time": 1783118429.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48780870"
-    },
-    {
-      "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
-      "score": 172,
-      "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
-      "time": 1783118390.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48780865"
-    },
-    {
-      "title": "FreeBSD ate my RAM",
-      "score": 176,
-      "url": "https://crocidb.com/post/freebsd-ate-my-ram/",
-      "time": 1783105711.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48778757"
-    },
-    {
-      "title": "Jamesob's guide to running SOTA LLMs locally",
-      "score": 380,
-      "url": "https://github.com/jamesob/local-llm",
-      "time": 1783091023.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48775921"
-    },
-    {
-      "title": "How working memory could give rise to consciousness",
-      "score": 19,
-      "url": "https://www.scientificamerican.com/article/how-working-memory-could-give-rise-to-consciousness/",
-      "time": 1783173779.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48785478"
-    },
-    {
-      "title": "MSI Center – How to gain SYSTEM privileges in seconds",
-      "score": 124,
-      "url": "https://mrbruh.com/msicenter/",
-      "time": 1783126664.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48781688"
+      "title": "Breaking the Bird Barrier: Scientist Decodes Zebra Finch Language",
+      "score": 55,
+      "url": "https://www.freepressjournal.in/education/breaking-the-bird-barrier-scientist-decodes-zebra-finch-language",
+      "time": 1782854835.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48739446"
     }
   ]
 }
