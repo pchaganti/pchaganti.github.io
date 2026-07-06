@@ -1,47 +1,61 @@
 {
-  "last_updated": "2026-07-06T13:35:05.642967-04:00",
+  "last_updated": "2026-07-06T15:42:51.723905-04:00",
   "stories": [
     {
-      "title": "Aluminum foil (2021)",
-      "score": 152,
-      "url": "https://dernocua.github.io/notes/aluminum-foil.html",
-      "time": 1783344537.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48804297"
+      "title": "OpenWrt One – Open Hardware Router",
+      "score": 125,
+      "url": "https://openwrt.org/toh/openwrt/one",
+      "time": 1783362192.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48808482"
+    },
+    {
+      "title": "A global workspace in language models",
+      "score": 61,
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "time": 1783359848.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48808002"
     },
     {
       "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-      "score": 108,
+      "score": 203,
       "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
       "time": 1783350078.0,
       "comments_url": "https://news.ycombinator.com/item?id=48805624"
     },
     {
-      "title": "Road to Elm 1.0",
-      "score": 226,
-      "url": "https://elm-lang.org/news/faster-builds",
-      "time": 1783338457.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48803364"
-    },
-    {
       "title": "Kani: A Model Checker for Rust",
-      "score": 16,
+      "score": 85,
       "url": "https://arxiv.org/abs/2607.01504",
       "time": 1783353204.0,
       "comments_url": "https://news.ycombinator.com/item?id=48806410"
     },
     {
-      "title": "Egypt Is Building a New Nile",
-      "score": 28,
-      "url": "https://www.theb1m.com/video/egypt-is-building-a-new-nile",
-      "time": 1783108834.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48779274"
+      "title": "Resetting Xbox",
+      "score": 284,
+      "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
+      "time": 1783347503.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48804993"
     },
     {
-      "title": "Real-time map of Great Britain's rail network",
-      "score": 320,
-      "url": "https://www.map.signalbox.io",
-      "time": 1783330716.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48802535"
+      "title": "Aluminum foil (2021)",
+      "score": 193,
+      "url": "https://dernocua.github.io/notes/aluminum-foil.html",
+      "time": 1783344537.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48804297"
+    },
+    {
+      "title": "Linux on the Atari Jaguar. No, really.",
+      "score": 10,
+      "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
+      "time": 1783362954.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48808663"
+    },
+    {
+      "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
+      "score": 27,
+      "url": "https://github.com/V4bel/Januscape",
+      "time": 1783359303.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48807908"
     },
     {
       "title": "Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)",
@@ -51,95 +65,81 @@
       "comments_url": "https://news.ycombinator.com/item?id=48806976"
     },
     {
-      "title": "Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability",
-      "score": 112,
-      "url": "https://andonlabs.com/blog/fable5-vending-bench",
-      "time": 1783341493.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48803762"
+      "title": "Road to Elm 1.0",
+      "score": 265,
+      "url": "https://elm-lang.org/news/faster-builds",
+      "time": 1783338457.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48803364"
+    },
+    {
+      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "score": 50,
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "time": 1783356464.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48807225"
+    },
+    {
+      "title": "Egypt Is Building a New Nile",
+      "score": 78,
+      "url": "https://www.theb1m.com/video/egypt-is-building-a-new-nile",
+      "time": 1783108834.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48779274"
+    },
+    {
+      "title": "Real-time map of Great Britain's rail network",
+      "score": 341,
+      "url": "https://www.map.signalbox.io",
+      "time": 1783330716.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48802535"
+    },
+    {
+      "title": "Show HN: Pulpie – Models for Cleaning the Web",
+      "score": 54,
+      "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
+      "time": 1783353867.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48806575"
+    },
+    {
+      "title": "Pros and Cons of Solo Development",
+      "score": 56,
+      "url": "https://johnjeffers.com/pros-and-cons-of-solo-development/",
+      "time": 1783362274.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48808508"
+    },
+    {
+      "title": "CS2 Fog Of War: Server-sided anti-wallhack occlusion culling for CS2 servers",
+      "score": 57,
+      "url": "https://github.com/karola3vax/CS2FOW",
+      "time": 1783351414.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48805965"
     },
     {
       "title": "Clojure 1.13 adds support for checked keys",
-      "score": 121,
+      "score": 150,
       "url": "https://clojure.org/news/2026/07/02/clojure-1-13-alpha1",
       "time": 1783025512.0,
       "comments_url": "https://news.ycombinator.com/item?id=48767211"
     },
     {
       "title": "1k Words: A Writing Contest",
-      "score": 44,
+      "score": 62,
       "url": "https://writingclub.world/1picture1000words",
       "time": 1783351808.0,
       "comments_url": "https://news.ycombinator.com/item?id=48806073"
     },
     {
-      "title": "Show HN: Pulpie – Models for Cleaning the Web",
-      "score": 19,
-      "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
-      "time": 1783353867.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48806575"
+      "title": "Using precision editing to study human embryo development shows master gene",
+      "score": 6,
+      "url": "https://www.cam.ac.uk/research/news/first-use-of-precision-editing-to-study-human-embryo-development-reveals-role-of-master-gene",
+      "time": 1783044225.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48769854"
     },
     {
-      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-      "score": 9,
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "time": 1783356464.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48807225"
-    },
-    {
-      "title": "Resetting Xbox",
-      "score": 129,
-      "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
-      "time": 1783347503.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48804993"
-    },
-    {
-      "title": "Should DayQuil Be Legal?",
-      "score": 64,
-      "url": "https://www.theargumentmag.com/p/should-dayquil-be-legal",
-      "time": 1783352684.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48806289"
-    },
-    {
-      "title": "Introduction to Genomics for Engineers",
-      "score": 170,
-      "url": "https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/",
-      "time": 1782995300.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48760424"
-    },
-    {
-      "title": "When 2+2=5",
-      "score": 52,
-      "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
-      "time": 1783024163.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48766949"
-    },
-    {
-      "title": "Multilingual experience linked to delayed aging",
-      "score": 44,
-      "url": "https://fens2026.abstractserver.com/program/#/details/presentations/5474",
-      "time": 1783350241.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48805652"
-    },
-    {
-      "title": "What Emily Bender meant by \"stochastic parrots\"",
-      "score": 112,
-      "url": "https://spectrum.ieee.org/stochastic-parrot",
-      "time": 1783349131.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48805401"
-    },
-    {
-      "title": "Show HN: I Built LangGraph for Swift",
-      "score": 12,
-      "url": "https://github.com/christopherkarani/Swarm",
-      "time": 1783349265.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48805437"
-    },
-    {
-      "title": "CS2 Fog Of War: Server-sided anti-wallhack occlusion culling for CS2 servers",
-      "score": 7,
-      "url": "https://github.com/karola3vax/CS2FOW",
-      "time": 1783351414.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48805965"
+      "title": "Hobbes – A Language and Embedded JIT Compiler",
+      "score": 10,
+      "url": "https://github.com/morganstanley/hobbes",
+      "time": 1783036331.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48768935"
     }
   ]
 }
