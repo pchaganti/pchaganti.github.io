@@ -1,54 +1,75 @@
 {
-  "last_updated": "2026-07-07T10:08:22.186304-04:00",
+  "last_updated": "2026-07-07T13:05:48.709561-04:00",
   "stories": [
     {
       "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
-      "score": 98,
+      "score": 368,
       "url": "https://streetcomplete.app/",
       "time": 1783427915.0,
       "comments_url": "https://news.ycombinator.com/item?id=48816883"
     },
     {
       "title": "A better way to tie your gym shorts. (Or any drawstring) [video]",
-      "score": 90,
+      "score": 279,
       "url": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
       "time": 1783428306.0,
       "comments_url": "https://news.ycombinator.com/item?id=48816956"
     },
     {
-      "title": "Europe's company websites are mostly served by US vendors",
-      "score": 102,
-      "url": "https://ciphercue.com/blog/european-web-hosting-vendor-share-2026",
-      "time": 1783426105.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48816612"
-    },
-    {
       "title": "98% Isn't Much",
-      "score": 146,
+      "score": 323,
       "url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
       "time": 1783428314.0,
       "comments_url": "https://news.ycombinator.com/item?id=48816959"
     },
     {
+      "title": "Mapping homes you can buy from the US government for <$100k",
+      "score": 15,
+      "url": "https://govauctions.app/research/cheapest-homes-in-america",
+      "time": 1783442561.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48820274"
+    },
+    {
+      "title": "Europe's company websites are mostly served by US vendors",
+      "score": 192,
+      "url": "https://ciphercue.com/blog/european-web-hosting-vendor-share-2026",
+      "time": 1783426105.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48816612"
+    },
+    {
+      "title": "Chat Control passed first round in EU Parliament",
+      "score": 204,
+      "url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
+      "time": 1783437375.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48819008"
+    },
+    {
+      "title": "Better Auth is joining Vercel",
+      "score": 70,
+      "url": "https://better-auth.com/blog/better-auth-joins-vercel",
+      "time": 1783439542.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48819512"
+    },
+    {
+      "title": "Microsoft Fire IdTech Team at Id Software",
+      "score": 204,
+      "url": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
+      "time": 1783438400.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48819244"
+    },
+    {
       "title": "Top researchers leave USA for the Netherlands (in Dutch)",
-      "score": 157,
+      "score": 285,
       "url": "https://www.nwo.nl/nieuws/eerste-internationale-wetenschappers-via-het-tulp-fonds-naar-nederland",
       "time": 1783421253.0,
       "comments_url": "https://news.ycombinator.com/item?id=48816003"
     },
     {
-      "title": "Dua Lipa opens library for banned and censored books in Portugal",
-      "score": 78,
-      "url": "https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal",
-      "time": 1783428640.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48817017"
-    },
-    {
-      "title": "OpenWrt One – Open Hardware Router",
-      "score": 724,
-      "url": "https://openwrt.org/toh/openwrt/one",
-      "time": 1783362192.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48808482"
+      "title": "Weighing smoke: why AI visibility dashboards are mostly useless",
+      "score": 6,
+      "url": "https://betterthangood.xyz/blog/weighing-smoke/",
+      "time": 1783441212.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48819958"
     },
     {
       "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
@@ -58,88 +79,67 @@
       "comments_url": "https://news.ycombinator.com/item?id=48816533"
     },
     {
-      "title": "CoMaps – FOSS Offline Maps",
-      "score": 669,
-      "url": "https://www.comaps.app/",
-      "time": 1783364107.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48808928"
+      "title": "But Nothing Has Changed on Our Side",
+      "score": 22,
+      "url": "https://cacm.acm.org/blogcacm/but-nothing-has-changed-on-our-side/",
+      "time": 1783154975.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48783832"
+    },
+    {
+      "title": "Reducing Doom Loops with Final Token Preference Optimization",
+      "score": 5,
+      "url": "https://www.liquid.ai/blog/antidoom",
+      "time": 1783441879.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48820127"
+    },
+    {
+      "title": "Show HN: PostgreSQL performance and cost across 23 EC2 instance types",
+      "score": 51,
+      "url": "https://postgres.saneengineer.com",
+      "time": 1783428028.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48816900"
+    },
+    {
+      "title": "MacSurf 1.68 – NetSurf on OS 9 Released",
+      "score": 5,
+      "url": "https://github.com/mplsllc/macsurf/releases/tag/v1.86",
+      "time": 1783441480.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48820022"
+    },
+    {
+      "title": "Amazon Without the Knockoffs",
+      "score": 17,
+      "url": "https://knockoff.shopping/",
+      "time": 1783437181.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48818963"
+    },
+    {
+      "title": "China sentences official to death for taking $325M in bribes",
+      "score": 20,
+      "url": "https://www.bbc.com/news/articles/c33y0n1v1xjo",
+      "time": 1783442288.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48820220"
     },
     {
       "title": "C++ Details of Asymmetric Fences",
-      "score": 5,
+      "score": 43,
       "url": "https://nekrozqliphort.github.io/posts/membarrier/",
       "time": 1783099515.0,
       "comments_url": "https://news.ycombinator.com/item?id=48777488"
     },
     {
-      "title": "GLM 5.2 and the coming AI margin collapse",
-      "score": 568,
-      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-      "time": 1783368895.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48809877"
+      "title": "OpenWrt One – Open Hardware Router",
+      "score": 781,
+      "url": "https://openwrt.org/toh/openwrt/one",
+      "time": 1783362192.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48808482"
     },
     {
-      "title": "How to sequence your own DNA at home",
-      "score": 303,
-      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-      "time": 1783383261.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48812156"
-    },
-    {
-      "title": "The Family Keeping Watch over a 52-Year-Old Pot of Soup",
-      "score": 17,
-      "url": "https://www.wsj.com/arts-culture/food-cooking/the-family-keeping-watch-over-a-52-year-old-pot-of-soup-1e72f115",
-      "time": 1782870089.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48741447"
-    },
-    {
-      "title": "Small AI Models Gain Traction In places with unreliable networks",
-      "score": 199,
-      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-      "time": 1783382394.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48812055"
-    },
-    {
-      "title": "Historic Photos of NASA's Cavernous Wind Tunnels",
-      "score": 52,
-      "url": "https://www.theatlantic.com/photo/2018/05/historic-photos-of-nasas-cavernous-wind-tunnels/560660/",
-      "time": 1783186137.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48787124"
-    },
-    {
-      "title": "Dolosse – a South African invention used over the world",
-      "score": 99,
-      "url": "https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/",
-      "time": 1783179178.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48786124"
-    },
-    {
-      "title": "Microsoft Can Track Users via a Windows Device ID",
-      "score": 192,
-      "url": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
-      "time": 1783414443.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48815196"
-    },
-    {
-      "title": "Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)",
-      "score": 49,
-      "url": "https://whimfiles.com",
-      "time": 1783411932.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48814952"
-    },
-    {
-      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
-      "score": 554,
-      "url": "https://github.com/MaximeRivest/Riddle",
-      "time": 1783378824.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48811591"
-    },
-    {
-      "title": "The Art of Computer Programming by Donald E. Knuth",
-      "score": 87,
-      "url": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
-      "time": 1783401543.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48813929"
+      "title": "Jim's TrueType QR Code Font",
+      "score": 7,
+      "url": "https://github.com/jimparis/qr-font",
+      "time": 1783441842.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48820119"
     }
   ]
 }
