@@ -1,75 +1,96 @@
 {
-  "last_updated": "2026-07-07T13:05:48.709561-04:00",
+  "last_updated": "2026-07-07T15:41:59.745837-04:00",
   "stories": [
     {
+      "title": "Amazon without the knockoffs",
+      "score": 259,
+      "url": "https://knockoff.shopping/",
+      "time": 1783437181.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48818963"
+    },
+    {
       "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
-      "score": 368,
+      "score": 522,
       "url": "https://streetcomplete.app/",
       "time": 1783427915.0,
       "comments_url": "https://news.ycombinator.com/item?id=48816883"
     },
     {
-      "title": "A better way to tie your gym shorts. (Or any drawstring) [video]",
-      "score": 279,
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "score": 185,
+      "url": "https://fightchatcontrol.eu/chat-control-overview",
+      "time": 1783434195.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48818311"
+    },
+    {
+      "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+      "score": 170,
+      "url": "https://30papers.com/",
+      "time": 1783439893.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48819608"
+    },
+    {
+      "title": "A better way to tie gym shorts (or any drawstring) [video]",
+      "score": 362,
       "url": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
       "time": 1783428306.0,
       "comments_url": "https://news.ycombinator.com/item?id=48816956"
     },
     {
-      "title": "98% Isn't Much",
-      "score": 323,
-      "url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
-      "time": 1783428314.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48816959"
+      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "score": 16,
+      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+      "time": 1783449395.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48821749"
     },
     {
-      "title": "Mapping homes you can buy from the US government for <$100k",
-      "score": 15,
-      "url": "https://govauctions.app/research/cheapest-homes-in-america",
-      "time": 1783442561.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48820274"
+      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+      "score": 26,
+      "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+      "time": 1783448650.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48821576"
     },
     {
-      "title": "Europe's company websites are mostly served by US vendors",
-      "score": 192,
-      "url": "https://ciphercue.com/blog/european-web-hosting-vendor-share-2026",
-      "time": 1783426105.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48816612"
+      "title": "Jim's TrueType QR Code Font",
+      "score": 60,
+      "url": "https://github.com/jimparis/qr-font",
+      "time": 1783441842.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48820119"
     },
     {
-      "title": "Chat Control passed first round in EU Parliament",
-      "score": 204,
-      "url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
-      "time": 1783437375.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48819008"
+      "title": "Notes on Software Quality",
+      "score": 13,
+      "url": "https://anthonyhobday.com/blog/20260410",
+      "time": 1783448090.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48821441"
     },
     {
-      "title": "Better Auth is joining Vercel",
-      "score": 70,
-      "url": "https://better-auth.com/blog/better-auth-joins-vercel",
-      "time": 1783439542.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48819512"
+      "title": "Fixing analog audio on the $2.58 HDMI-to-VGA adapter",
+      "score": 28,
+      "url": "https://nyanpasu64.gitlab.io/blog/hdmi-vga-dac-audio/",
+      "time": 1783229811.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48791505"
     },
     {
-      "title": "Microsoft Fire IdTech Team at Id Software",
-      "score": 204,
-      "url": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
-      "time": 1783438400.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48819244"
+      "title": "Why we built yet another Postgres connection pooler",
+      "score": 63,
+      "url": "https://pgdog.dev/blog/why-yet-another-connection-pooler",
+      "time": 1783438609.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48819308"
     },
     {
-      "title": "Top researchers leave USA for the Netherlands (in Dutch)",
-      "score": 285,
-      "url": "https://www.nwo.nl/nieuws/eerste-internationale-wetenschappers-via-het-tulp-fonds-naar-nederland",
-      "time": 1783421253.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48816003"
+      "title": "Astro 7.0",
+      "score": 86,
+      "url": "https://astro.build/blog/astro-7/",
+      "time": 1783449002.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48821653"
     },
     {
-      "title": "Weighing smoke: why AI visibility dashboards are mostly useless",
-      "score": 6,
-      "url": "https://betterthangood.xyz/blog/weighing-smoke/",
-      "time": 1783441212.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48819958"
+      "title": "A new runtime for k and q: l",
+      "score": 31,
+      "url": "https://lv1.sh/",
+      "time": 1783447709.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48821378"
     },
     {
       "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
@@ -79,67 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=48816533"
     },
     {
-      "title": "But Nothing Has Changed on Our Side",
-      "score": 22,
-      "url": "https://cacm.acm.org/blogcacm/but-nothing-has-changed-on-our-side/",
-      "time": 1783154975.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48783832"
-    },
-    {
-      "title": "Reducing Doom Loops with Final Token Preference Optimization",
-      "score": 5,
-      "url": "https://www.liquid.ai/blog/antidoom",
-      "time": 1783441879.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48820127"
-    },
-    {
-      "title": "Show HN: PostgreSQL performance and cost across 23 EC2 instance types",
-      "score": 51,
-      "url": "https://postgres.saneengineer.com",
-      "time": 1783428028.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48816900"
-    },
-    {
       "title": "MacSurf 1.68 – NetSurf on OS 9 Released",
-      "score": 5,
+      "score": 46,
       "url": "https://github.com/mplsllc/macsurf/releases/tag/v1.86",
       "time": 1783441480.0,
       "comments_url": "https://news.ycombinator.com/item?id=48820022"
     },
     {
-      "title": "Amazon Without the Knockoffs",
-      "score": 17,
-      "url": "https://knockoff.shopping/",
-      "time": 1783437181.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48818963"
+      "title": "Chat Control passed first round in EU Parliament",
+      "score": 399,
+      "url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
+      "time": 1783437375.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48819008"
     },
     {
-      "title": "China sentences official to death for taking $325M in bribes",
-      "score": 20,
-      "url": "https://www.bbc.com/news/articles/c33y0n1v1xjo",
-      "time": 1783442288.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48820220"
+      "title": "Automating AI Away",
+      "score": 52,
+      "url": "https://replicated.live/blog/away",
+      "time": 1783437068.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48818937"
     },
     {
-      "title": "C++ Details of Asymmetric Fences",
-      "score": 43,
-      "url": "https://nekrozqliphort.github.io/posts/membarrier/",
-      "time": 1783099515.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48777488"
+      "title": "The revenge of the philosophy majors",
+      "score": 92,
+      "url": "https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html",
+      "time": 1783435316.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48818544"
     },
     {
-      "title": "OpenWrt One – Open Hardware Router",
-      "score": 781,
-      "url": "https://openwrt.org/toh/openwrt/one",
-      "time": 1783362192.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48808482"
-    },
-    {
-      "title": "Jim's TrueType QR Code Font",
+      "title": "Show HN: Davit, a Apple Containers UI",
       "score": 7,
-      "url": "https://github.com/jimparis/qr-font",
-      "time": 1783441842.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48820119"
+      "url": "https://davit.app",
+      "time": 1783449869.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48821848"
+    },
+    {
+      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "score": 8,
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "time": 1783440644.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48819808"
     }
   ]
 }
