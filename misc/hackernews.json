@@ -1,40 +1,75 @@
 {
-  "last_updated": "2026-07-09T13:11:55.331130-04:00",
+  "last_updated": "2026-07-09T15:22:40.636683-04:00",
   "stories": [
     {
       "title": "GPT-5.6",
-      "score": 64,
+      "score": 609,
       "url": "https://openai.com/index/gpt-5-6/",
       "time": 1783616654.0,
       "comments_url": "https://news.ycombinator.com/item?id=48849066"
     },
     {
+      "title": "ChatGPT Work",
+      "score": 210,
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+      "time": 1783616633.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48849059"
+    },
+    {
       "title": "Show HN: 18 Words",
-      "score": 520,
+      "score": 645,
       "url": "https://18words.com/",
       "time": 1783601332.0,
       "comments_url": "https://news.ycombinator.com/item?id=48845049"
     },
     {
+      "title": "GLM 5.2 is nearly as accurate as a human book keeper",
+      "score": 27,
+      "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
+      "time": 1783621781.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48850414"
+    },
+    {
       "title": "EU Parliament greenlights Chat Control 1.0",
-      "score": 504,
+      "score": 672,
       "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
       "time": 1783595034.0,
       "comments_url": "https://news.ycombinator.com/item?id=48843923"
     },
     {
       "title": "Hy3",
-      "score": 100,
+      "score": 210,
       "url": "https://hy.tencent.com/research/hy3",
       "time": 1783610868.0,
       "comments_url": "https://news.ycombinator.com/item?id=48847552"
     },
     {
-      "title": "No leap second will be introduced at the end of December 2026",
-      "score": 138,
-      "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
-      "time": 1783606594.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48846281"
+      "title": "Buried Apple Feature Turns an iPhone into the Perfect Kids' Dumb Phone",
+      "score": 77,
+      "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
+      "time": 1783335231.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48803004"
+    },
+    {
+      "title": "A possible future for Damn Interesting",
+      "score": 133,
+      "url": "https://www.damninteresting.com/a-possible-future/",
+      "time": 1783610725.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48847511"
+    },
+    {
+      "title": "Girls Just Wanna Have Fast MPMC Queues with Bounded Waiting",
+      "score": 69,
+      "url": "https://nahla.dev/blog/waitfree_queue/",
+      "time": 1783367190.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48809574"
+    },
+    {
+      "title": "Muse Spark 1.1",
+      "score": 239,
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "time": 1783606222.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48846184"
     },
     {
       "title": "Wildcard (YC W25) Is Hiring a Founding Engineer",
@@ -44,102 +79,67 @@
       "comments_url": "https://news.ycombinator.com/item?id=48849011"
     },
     {
-      "title": "A possible future for Damn Interesting",
-      "score": 54,
-      "url": "https://www.damninteresting.com/a-possible-future/",
-      "time": 1783610725.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48847511"
-    },
-    {
-      "title": "Muse Spark 1.1",
-      "score": 176,
-      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
-      "time": 1783606222.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48846184"
-    },
-    {
       "title": "TLS certificates for internal services done right",
-      "score": 51,
+      "score": 88,
       "url": "https://tuxnet.dev/posts/tls-for-internal-services/",
       "time": 1783609022.0,
       "comments_url": "https://news.ycombinator.com/item?id=48846995"
     },
     {
-      "title": "Opinionated and Easy Pi.dev Configuration",
-      "score": 41,
-      "url": "https://lazypi.org/",
-      "time": 1783610373.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48847407"
-    },
-    {
-      "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
-      "score": 31,
-      "url": "https://www.context.dev",
-      "time": 1783610919.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48847562"
-    },
-    {
       "title": "The glass backbone: Why the Army's logistics will break in the next war",
-      "score": 117,
+      "score": 185,
       "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
       "time": 1783603483.0,
       "comments_url": "https://news.ycombinator.com/item?id=48845442"
     },
     {
-      "title": "Girls Just Wanna Have Fast MPMC Queues with Bounded Waiting",
-      "score": 19,
-      "url": "https://nahla.dev/blog/waitfree_queue/",
-      "time": 1783367190.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48809574"
+      "title": "No leap second will be introduced at the end of December 2026",
+      "score": 170,
+      "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
+      "time": 1783606594.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48846281"
     },
     {
-      "title": "How to Write an Email",
+      "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
+      "score": 47,
+      "url": "https://www.context.dev",
+      "time": 1783610919.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48847562"
+    },
+    {
+      "title": "Opinionated and Easy Pi.dev Configuration",
+      "score": 68,
+      "url": "https://lazypi.org/",
+      "time": 1783610373.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48847407"
+    },
+    {
+      "title": "How to Start a Ruby Meetup",
+      "score": 11,
+      "url": "https://guides.rubyevents.org/meetups/",
+      "time": 1783621626.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48850372"
+    },
+    {
+      "title": "Show HN: I mapped 8.5M research papers into an interactive atlas",
       "score": 33,
-      "url": "https://blog.dannycastonguay.com/how-to-write-an-email/",
-      "time": 1783610812.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48847536"
+      "url": "https://tomesphere.com/atlas",
+      "time": 1783563804.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48840207"
+    },
+    {
+      "title": "How should group chats work in decentralized systems?",
+      "score": 27,
+      "url": "https://marindedic.com/groups/",
+      "time": 1783617347.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48849258"
     },
     {
       "title": "Show HN: Analog Watch",
-      "score": 50,
+      "score": 67,
       "url": "https://analog.watch",
       "time": 1783607454.0,
       "comments_url": "https://news.ycombinator.com/item?id=48846510"
-    },
-    {
-      "title": "PostHog Open Sourced",
-      "score": 83,
-      "url": "https://github.com/PostHog/posthog-foss",
-      "time": 1783606660.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48846293"
-    },
-    {
-      "title": "AI content is everywhere on social media, especially LinkedIn",
-      "score": 89,
-      "url": "https://www.pangram.com/blog/ai-in-your-feed",
-      "time": 1783612209.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48847940"
-    },
-    {
-      "title": "Meta reuses old RAM in new servers with custom bridge chip",
-      "score": 228,
-      "url": "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html",
-      "time": 1783106825.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48778956"
-    },
-    {
-      "title": "New open access book on history of computers and politics",
-      "score": 26,
-      "url": "https://mitpress.mit.edu/9780262053198/simpolitics/",
-      "time": 1783606814.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48846332"
-    },
-    {
-      "title": "Coordination Without Consolidation: On Systems of States [pdf]",
-      "score": 11,
-      "url": "https://isonomiaquarterly.com/wp-content/uploads/2026/06/iq-4.2-summer-2026-macdonald-coordination-without-consolidation.pdf",
-      "time": 1783610363.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48847405"
     }
   ]
 }
