@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-07-09T02:34:50.080490-04:00",
+  "last_updated": "2026-07-09T07:45:53.510698-04:00",
   "stories": [
     {
       "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-      "score": 629,
+      "score": 934,
       "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
       "time": 1783553863.0,
       "comments_url": "https://news.ycombinator.com/item?id=48838876"
     },
     {
       "title": "Spider venom kills varroa mites without harming honeybees",
-      "score": 45,
+      "score": 164,
       "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
       "time": 1783574085.0,
       "comments_url": "https://news.ycombinator.com/item?id=48841259"
     },
     {
-      "title": "Chatto is now open source",
-      "score": 903,
-      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-      "time": 1783523990.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48833116"
+      "title": "Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75",
+      "score": 22,
+      "url": "https://www.bbc.com/news/articles/cg5pd9z2487o",
+      "time": 1783591353.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48843438"
+    },
+    {
+      "title": "Meta reuses old RAM in new servers with custom bridge chip",
+      "score": 81,
+      "url": "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html",
+      "time": 1783106825.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48778956"
+    },
+    {
+      "title": "My Thoughts on the Bun Rust Rewrite",
+      "score": 161,
+      "url": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
+      "time": 1783590448.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48843352"
+    },
+    {
+      "title": "EU Parliament greenlights Chat Control 1.0 – Breyer: \"Our children lose out\"",
+      "score": 60,
+      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "time": 1783595034.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48843923"
+    },
+    {
+      "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+      "score": 170,
+      "url": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+      "time": 1783585372.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48842611"
+    },
+    {
+      "title": "In-browser programmable robot simulator",
+      "score": 32,
+      "url": "https://bittlex-sim.petoi.com/",
+      "time": 1783158090.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48784126"
+    },
+    {
+      "title": "I Built the Only 2026 WWII Jeep",
+      "score": 63,
+      "url": "https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/",
+      "time": 1783402706.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48814023"
     },
     {
       "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
-      "score": 50,
+      "score": 124,
       "url": "https://nexte.st/",
       "time": 1783311570.0,
       "comments_url": "https://news.ycombinator.com/item?id=48800596"
     },
     {
-      "title": "AI changes the economics of software rewrites",
+      "title": "How Donkey Kong Toppled Atari",
+      "score": 39,
+      "url": "https://dfarq.homeip.net/how-donkey-kong-toppled-atari/",
+      "time": 1783575284.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48841385"
+    },
+    {
+      "title": "The Field Equation, living shader geometry folded into a breathing object",
       "score": 11,
-      "url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
-      "time": 1783576010.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48841446"
+      "url": "https://sand-morph.up.railway.app/the-field-equation",
+      "time": 1782979370.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48758059"
     },
     {
       "title": "Separating signal from noise in coding evaluations",
-      "score": 198,
+      "score": 224,
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
       "time": 1783544631.0,
       "comments_url": "https://news.ycombinator.com/item?id=48837396"
     },
     {
-      "title": "Remote Attestation",
-      "score": 68,
-      "url": "https://www.liamcvw.com/p/remote-attestation",
-      "time": 1783557153.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48839397"
-    },
-    {
-      "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
-      "score": 48,
-      "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
-      "time": 1783546209.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48837696"
-    },
-    {
-      "title": "Unicode's transliteration rules are Turing-complete",
-      "score": 78,
-      "url": "https://seriot.ch/computation/uts35/",
-      "time": 1783503860.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48829797"
-    },
-    {
-      "title": "Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
-      "score": 124,
-      "url": "https://www.yamanote.fun/",
-      "time": 1783428466.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48816987"
-    },
-    {
-      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-      "score": 251,
-      "url": "https://microsoft.github.io/flint-chart/#/",
-      "time": 1783532772.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48834924"
-    },
-    {
       "title": "Cloudflare Drop",
-      "score": 368,
+      "score": 456,
       "url": "https://www.cloudflare.com/drop/",
       "time": 1783538306.0,
       "comments_url": "https://news.ycombinator.com/item?id=48836233"
     },
     {
-      "title": "What's slowing down the AI buildout",
-      "score": 25,
-      "url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
-      "time": 1783567562.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48840620"
+      "title": "CollectWise (YC F24) Is Hiring",
+      "score": 1,
+      "url": "https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive",
+      "time": 1783580443.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48841963"
     },
     {
-      "title": "Patching MechCommander's \"left arm bug\" for fun and profit",
-      "score": 50,
-      "url": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
-      "time": 1783269580.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48795591"
+      "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
+      "score": 108,
+      "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+      "time": 1783546209.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48837696"
     },
     {
-      "title": "Rewriting Bun in Rust",
-      "score": 464,
-      "url": "https://bun.com/blog/bun-in-rust",
-      "time": 1783547399.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48837877"
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "score": 304,
+      "url": "https://microsoft.github.io/flint-chart/#/",
+      "time": 1783532772.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48834924"
     },
     {
       "title": "Grok 4.5",
-      "score": 558,
+      "score": 671,
       "url": "https://x.ai/news/grok-4-5",
       "time": 1783533632.0,
       "comments_url": "https://news.ycombinator.com/item?id=48835111"
     },
     {
-      "title": "3D Airplane tracker on Mercator map",
-      "score": 4,
-      "url": "https://github.com/jamalrfordii-arch/Vanguard-Map",
-      "time": 1783201989.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48789445"
+      "title": "Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
+      "score": 192,
+      "url": "https://www.yamanote.fun/",
+      "time": 1783428466.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48816987"
     },
     {
-      "title": "Turning a pile of documents into a searchable useable knowledge base",
-      "score": 116,
-      "url": "https://github.com/linuxrebel/DocuBrowser",
-      "time": 1783543049.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48837110"
-    },
-    {
-      "title": "Apache Shiro security framework releases 3.0.0",
-      "score": 21,
-      "url": "https://shiro.apache.org/blog/2026/06/apache-shiro-300-released.html",
-      "time": 1783388426.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48812736"
-    },
-    {
-      "title": "GPT‑Live",
-      "score": 669,
-      "url": "https://openai.com/index/introducing-gpt-live/",
-      "time": 1783530199.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48834405"
+      "title": "Why is there smoke from the boiler room? – Botanical Garden using Home Assistant",
+      "score": 3,
+      "url": "https://vooijs.eu/posts/why-is-there-smoke-from-the-boiler-room/",
+      "time": 1783339813.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48803545"
     }
   ]
 }
