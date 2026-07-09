@@ -1,75 +1,110 @@
 {
-  "last_updated": "2026-07-09T15:22:40.636683-04:00",
+  "last_updated": "2026-07-09T18:14:03.162249-04:00",
   "stories": [
     {
       "title": "GPT-5.6",
-      "score": 609,
+      "score": 873,
       "url": "https://openai.com/index/gpt-5-6/",
       "time": 1783616654.0,
       "comments_url": "https://news.ycombinator.com/item?id=48849066"
     },
     {
-      "title": "ChatGPT Work",
-      "score": 210,
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
-      "time": 1783616633.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48849059"
-    },
-    {
-      "title": "Show HN: 18 Words",
-      "score": 645,
-      "url": "https://18words.com/",
-      "time": 1783601332.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48845049"
-    },
-    {
-      "title": "GLM 5.2 is nearly as accurate as a human book keeper",
-      "score": 27,
-      "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
-      "time": 1783621781.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48850414"
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "score": 139,
+      "url": "https://github.com/JustVugg/colibri",
+      "time": 1783584304.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48842459"
     },
     {
       "title": "EU Parliament greenlights Chat Control 1.0",
-      "score": 672,
+      "score": 855,
       "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
       "time": 1783595034.0,
       "comments_url": "https://news.ycombinator.com/item?id=48843923"
     },
     {
+      "title": "Show HN: 18 Words",
+      "score": 741,
+      "url": "https://18words.com/",
+      "time": 1783601332.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48845049"
+    },
+    {
       "title": "Hy3",
-      "score": 210,
+      "score": 318,
       "url": "https://hy.tencent.com/research/hy3",
       "time": 1783610868.0,
       "comments_url": "https://news.ycombinator.com/item?id=48847552"
     },
     {
-      "title": "Buried Apple Feature Turns an iPhone into the Perfect Kids' Dumb Phone",
+      "title": "Train sim created by just one person is being called the best ever made",
+      "score": 130,
+      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
+      "time": 1783240827.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48792383"
+    },
+    {
+      "title": "No leap second will be introduced at the end of December 2026",
+      "score": 202,
+      "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
+      "time": 1783606594.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48846281"
+    },
+    {
+      "title": "A road to Lisp: Why Lisp",
       "score": 77,
-      "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
-      "time": 1783335231.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48803004"
+      "url": "https://scotto.me/blog/2026-07-09-why-lisp/",
+      "time": 1783602364.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48845209"
     },
     {
-      "title": "A possible future for Damn Interesting",
-      "score": 133,
-      "url": "https://www.damninteresting.com/a-possible-future/",
-      "time": 1783610725.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48847511"
+      "title": "I Changed My Name",
+      "score": 21,
+      "url": "https://robida.net/entries/2026/07/01/i-changed-my-name",
+      "time": 1783347319.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48804935"
     },
     {
-      "title": "Girls Just Wanna Have Fast MPMC Queues with Bounded Waiting",
-      "score": 69,
+      "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "score": 219,
+      "url": "https://github.com/malisper/pgrust",
+      "time": 1783577899.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48841676"
+    },
+    {
+      "title": "Girls just wanna have fast MPMC queues with bounded waiting",
+      "score": 100,
       "url": "https://nahla.dev/blog/waitfree_queue/",
       "time": 1783367190.0,
       "comments_url": "https://news.ycombinator.com/item?id=48809574"
     },
     {
-      "title": "Muse Spark 1.1",
+      "title": "The glass backbone: Why the Army's logistics will break in the next war",
       "score": 239,
-      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
-      "time": 1783606222.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48846184"
+      "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
+      "time": 1783603483.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48845442"
+    },
+    {
+      "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
+      "score": 61,
+      "url": "https://www.context.dev",
+      "time": 1783610919.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48847562"
+    },
+    {
+      "title": "A possible future for Damn Interesting",
+      "score": 192,
+      "url": "https://www.damninteresting.com/a-possible-future/",
+      "time": 1783610725.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48847511"
+    },
+    {
+      "title": "GLM 5.2 is nearly as accurate as a human book keeper",
+      "score": 152,
+      "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
+      "time": 1783621781.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48850414"
     },
     {
       "title": "Wildcard (YC W25) Is Hiring a Founding Engineer",
@@ -79,67 +114,32 @@
       "comments_url": "https://news.ycombinator.com/item?id=48849011"
     },
     {
-      "title": "TLS certificates for internal services done right",
-      "score": 88,
-      "url": "https://tuxnet.dev/posts/tls-for-internal-services/",
-      "time": 1783609022.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48846995"
+      "title": "Muse Spark 1.1",
+      "score": 289,
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "time": 1783606222.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48846184"
     },
     {
-      "title": "The glass backbone: Why the Army's logistics will break in the next war",
-      "score": 185,
-      "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
-      "time": 1783603483.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48845442"
-    },
-    {
-      "title": "No leap second will be introduced at the end of December 2026",
-      "score": 170,
-      "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
-      "time": 1783606594.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48846281"
-    },
-    {
-      "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
-      "score": 47,
-      "url": "https://www.context.dev",
-      "time": 1783610919.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48847562"
-    },
-    {
-      "title": "Opinionated and Easy Pi.dev Configuration",
-      "score": 68,
-      "url": "https://lazypi.org/",
-      "time": 1783610373.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48847407"
+      "title": "Meta reuses old RAM in new servers with custom bridge chip",
+      "score": 276,
+      "url": "https://www.theregister.com/systems/2026/06/29/zuck-saves-meta-bucks-by-reusing-memory-from-old-servers-with-a-custom-cxl-asic/5263483",
+      "time": 1783106825.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48778956"
     },
     {
       "title": "How to Start a Ruby Meetup",
-      "score": 11,
+      "score": 42,
       "url": "https://guides.rubyevents.org/meetups/",
       "time": 1783621626.0,
       "comments_url": "https://news.ycombinator.com/item?id=48850372"
     },
     {
-      "title": "Show HN: I mapped 8.5M research papers into an interactive atlas",
-      "score": 33,
-      "url": "https://tomesphere.com/atlas",
-      "time": 1783563804.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48840207"
-    },
-    {
-      "title": "How should group chats work in decentralized systems?",
-      "score": 27,
-      "url": "https://marindedic.com/groups/",
-      "time": 1783617347.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48849258"
-    },
-    {
-      "title": "Show HN: Analog Watch",
-      "score": 67,
-      "url": "https://analog.watch",
-      "time": 1783607454.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48846510"
+      "title": "TLS certificates for internal services done right",
+      "score": 110,
+      "url": "https://tuxnet.dev/posts/tls-for-internal-services/",
+      "time": 1783609022.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48846995"
     }
   ]
 }
