@@ -1,61 +1,103 @@
 {
-  "last_updated": "2026-07-11T14:45:37.070083-04:00",
+  "last_updated": "2026-07-11T17:39:59.698853-04:00",
   "stories": [
     {
-      "title": "AI 2040 and the Cult of Intelligence",
-      "score": 45,
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-      "time": 1783793041.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48874200"
-    },
-    {
-      "title": "Modern Decor May Be Straining People's Brains",
-      "score": 96,
-      "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
-      "time": 1783787328.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48873424"
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "score": 90,
+      "url": "https://antjs.org",
+      "time": 1783800438.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48875377"
     },
     {
       "title": "We scaled PgBouncer to 4x throughput",
-      "score": 118,
+      "score": 147,
       "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
       "time": 1783783682.0,
       "comments_url": "https://news.ycombinator.com/item?id=48872874"
     },
     {
-      "title": "Prefer Strict Tables in SQLite",
-      "score": 21,
-      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-      "time": 1783791235.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48873940"
-    },
-    {
-      "title": "Who manages the agents?",
-      "score": 15,
-      "url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
-      "time": 1783792953.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48874182"
-    },
-    {
-      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
-      "score": 52,
-      "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
-      "time": 1783783572.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48872858"
-    },
-    {
       "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-      "score": 12,
+      "score": 84,
       "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
       "time": 1783790509.0,
       "comments_url": "https://news.ycombinator.com/item?id=48873836"
     },
     {
-      "title": "How to Hide from Killer Drones",
-      "score": 5,
+      "title": "Prefer strict tables in SQLite",
+      "score": 155,
+      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+      "time": 1783791235.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48873940"
+    },
+    {
+      "title": "UPI: Anatomy of a Payment Transaction",
+      "score": 52,
+      "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+      "time": 1783787622.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48873457"
+    },
+    {
+      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+      "score": 73,
+      "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+      "time": 1783783572.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48872858"
+    },
+    {
+      "title": "Biff.graph: structure your Clojure codebase as a queryable graph",
+      "score": 60,
+      "url": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
+      "time": 1783442928.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48820361"
+    },
+    {
+      "title": "ZeroFS vs. Amazon S3 Files",
+      "score": 20,
+      "url": "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/",
+      "time": 1783793735.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48874297"
+    },
+    {
+      "title": "Female US rower completes historic solo journey from California to Hawaii",
+      "score": 172,
+      "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+      "time": 1783789403.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48873692"
+    },
+    {
+      "title": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
+      "score": 33,
+      "url": "https://nagylukas.github.io/orbit.html",
+      "time": 1783787942.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48873501"
+    },
+    {
+      "title": "Amber the programming language compiled to Bash/Ksh/Zsh",
+      "score": 56,
+      "url": "https://amber-lang.com/",
+      "time": 1783452176.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48822441"
+    },
+    {
+      "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
+      "score": 80,
+      "url": "https://shipthatcode.com",
+      "time": 1783777227.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48871973"
+    },
+    {
+      "title": "How to hide from killer drones",
+      "score": 69,
       "url": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
       "time": 1783794122.0,
       "comments_url": "https://news.ycombinator.com/item?id=48874357"
+    },
+    {
+      "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
+      "score": 43,
+      "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
+      "time": 1783721085.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48865903"
     },
     {
       "title": "Sixtyfour (YC P25) Is Hiring",
@@ -65,81 +107,39 @@
       "comments_url": "https://news.ycombinator.com/item?id=48873665"
     },
     {
-      "title": "Leaded Gas Was a Known Poison the Day It Was Invented (2016)",
-      "score": 64,
-      "url": "https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/",
-      "time": 1783790875.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48873893"
-    },
-    {
-      "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
-      "score": 18,
-      "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
-      "time": 1783721085.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48865903"
-    },
-    {
-      "title": "Female US rower completes historic solo journey from California to Hawaii",
-      "score": 79,
-      "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
-      "time": 1783789403.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48873692"
-    },
-    {
-      "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
-      "score": 40,
-      "url": "https://shipthatcode.com",
-      "time": 1783777227.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48871973"
-    },
-    {
-      "title": "BLISS",
-      "score": 17,
-      "url": "https://en.wikipedia.org/wiki/BLISS",
-      "time": 1783791001.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48873910"
+      "title": "Lost and Found",
+      "score": 43,
+      "url": "https://walzr.com/lost-and-found",
+      "time": 1783299981.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48799624"
     },
     {
       "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-      "score": 358,
+      "score": 374,
       "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
       "time": 1783722644.0,
       "comments_url": "https://news.ycombinator.com/item?id=48866134"
     },
     {
-      "title": "QuadRF can spot drones and see WiFi through my wall",
-      "score": 708,
-      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-      "time": 1783699193.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48861717"
+      "title": "The Chinese Voice Actor Forced to Prove He's Human",
+      "score": 34,
+      "url": "https://www.sixthtone.com/news/1018753",
+      "time": 1783799160.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48875153"
     },
     {
-      "title": "Amber the programming language compiled to Bash/Ksh/Zsh",
-      "score": 25,
-      "url": "https://amber-lang.com/",
-      "time": 1783452176.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48822441"
+      "title": "Show HN: Earth Game – An offline CLI for turning life goals into quests",
+      "score": 18,
+      "url": "https://github.com/skorotkiewicz/earth-game",
+      "time": 1783787822.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48873486"
     },
     {
-      "title": "Google Search lets creators know more about their reach",
-      "score": 77,
-      "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
-      "time": 1783468309.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48825612"
-    },
-    {
-      "title": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
-      "score": 6,
-      "url": "https://nagylukas.github.io/orbit.html",
-      "time": 1783787942.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48873501"
-    },
-    {
-      "title": "UPI: Anatomy of a Payment Transaction",
-      "score": 7,
-      "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
-      "time": 1783787622.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48873457"
+      "title": "Who manages the agents?",
+      "score": 64,
+      "url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
+      "time": 1783792953.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48874182"
     }
   ]
 }
