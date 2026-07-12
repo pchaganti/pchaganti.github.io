@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-07-11T17:39:59.698853-04:00",
+  "last_updated": "2026-07-11T21:51:05.448363-04:00",
   "stories": [
     {
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "score": 88,
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "time": 1783809537.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48876505"
+    },
+    {
       "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
-      "score": 90,
+      "score": 178,
       "url": "https://antjs.org",
       "time": 1783800438.0,
       "comments_url": "https://news.ycombinator.com/item?id=48875377"
     },
     {
-      "title": "We scaled PgBouncer to 4x throughput",
-      "score": 147,
-      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-      "time": 1783783682.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48872874"
+      "title": "A dock that wakes up reliably",
+      "score": 14,
+      "url": "https://fabiensanglard.net/tb4/index.html",
+      "time": 1783817290.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48877269"
+    },
+    {
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "score": 59,
+      "url": "https://github.com/Wren6991/RISCBoy",
+      "time": 1783807080.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48876245"
+    },
+    {
+      "title": "Long Covid May Physically Damage the Nerves That Control the Stomach",
+      "score": 26,
+      "url": "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
+      "time": 1783816508.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48877192"
     },
     {
       "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-      "score": 84,
+      "score": 156,
       "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
       "time": 1783790509.0,
       "comments_url": "https://news.ycombinator.com/item?id=48873836"
     },
     {
-      "title": "Prefer strict tables in SQLite",
-      "score": 155,
-      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-      "time": 1783791235.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48873940"
+      "title": "A public ledger of cloud outages and the SLA credits they trigger",
+      "score": 10,
+      "url": "https://slacreditwatch.com",
+      "time": 1783814547.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48877009"
+    },
+    {
+      "title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
+      "score": 50,
+      "url": "https://arxiv.org/abs/2607.07267",
+      "time": 1783619060.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48849744"
+    },
+    {
+      "title": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
+      "score": 5,
+      "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
+      "time": 1783606204.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48846177"
+    },
+    {
+      "title": "We scaled PgBouncer to 4x throughput",
+      "score": 181,
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "time": 1783783682.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48872874"
+    },
+    {
+      "title": "A pure scheme web programming tool",
+      "score": 3,
+      "url": "https://goeteia.dev",
+      "time": 1783817838.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48877314"
     },
     {
       "title": "UPI: Anatomy of a Payment Transaction",
-      "score": 52,
+      "score": 98,
       "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
       "time": 1783787622.0,
       "comments_url": "https://news.ycombinator.com/item?id=48873457"
     },
     {
+      "title": "Prefer strict tables in SQLite",
+      "score": 219,
+      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+      "time": 1783791235.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48873940"
+    },
+    {
       "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
-      "score": 73,
+      "score": 89,
       "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
       "time": 1783783572.0,
       "comments_url": "https://news.ycombinator.com/item?id=48872858"
     },
     {
-      "title": "Biff.graph: structure your Clojure codebase as a queryable graph",
+      "title": "Doctors die. It's not like the rest of us, but it should be (2016)",
       "score": 60,
+      "url": "https://archive.cancerworld.net/featured/how-doctors-die/",
+      "time": 1783811706.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48876741"
+    },
+    {
+      "title": "Biff.graph: structure your Clojure codebase as a queryable graph",
+      "score": 83,
       "url": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
       "time": 1783442928.0,
       "comments_url": "https://news.ycombinator.com/item?id=48820361"
     },
     {
-      "title": "ZeroFS vs. Amazon S3 Files",
-      "score": 20,
-      "url": "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/",
-      "time": 1783793735.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48874297"
-    },
-    {
-      "title": "Female US rower completes historic solo journey from California to Hawaii",
-      "score": 172,
-      "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
-      "time": 1783789403.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48873692"
-    },
-    {
-      "title": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
-      "score": 33,
-      "url": "https://nagylukas.github.io/orbit.html",
-      "time": 1783787942.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48873501"
-    },
-    {
-      "title": "Amber the programming language compiled to Bash/Ksh/Zsh",
-      "score": 56,
-      "url": "https://amber-lang.com/",
-      "time": 1783452176.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48822441"
+      "title": "Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma",
+      "score": 13,
+      "url": "https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491",
+      "time": 1783816335.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48877178"
     },
     {
       "title": "Show HN: Learn by rebuilding Redis, Git, a database from scratch",
-      "score": 80,
+      "score": 127,
       "url": "https://shipthatcode.com",
       "time": 1783777227.0,
       "comments_url": "https://news.ycombinator.com/item?id=48871973"
     },
     {
-      "title": "How to hide from killer drones",
-      "score": 69,
-      "url": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
-      "time": 1783794122.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48874357"
+      "title": "ZeroFS vs. Amazon S3 Files",
+      "score": 53,
+      "url": "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/",
+      "time": 1783793735.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48874297"
     },
     {
-      "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
-      "score": 43,
-      "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
-      "time": 1783721085.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48865903"
-    },
-    {
-      "title": "Sixtyfour (YC P25) Is Hiring",
-      "score": 1,
-      "url": "https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success",
-      "time": 1783789235.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48873665"
-    },
-    {
-      "title": "Lost and Found",
-      "score": 43,
-      "url": "https://walzr.com/lost-and-found",
-      "time": 1783299981.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48799624"
-    },
-    {
-      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-      "score": 374,
-      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-      "time": 1783722644.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48866134"
-    },
-    {
-      "title": "The Chinese Voice Actor Forced to Prove He's Human",
-      "score": 34,
-      "url": "https://www.sixthtone.com/news/1018753",
-      "time": 1783799160.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48875153"
-    },
-    {
-      "title": "Show HN: Earth Game – An offline CLI for turning life goals into quests",
-      "score": 18,
-      "url": "https://github.com/skorotkiewicz/earth-game",
-      "time": 1783787822.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48873486"
-    },
-    {
-      "title": "Who manages the agents?",
-      "score": 64,
-      "url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
-      "time": 1783792953.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48874182"
+      "title": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
+      "score": 58,
+      "url": "https://nagylukas.github.io/orbit.html",
+      "time": 1783787942.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48873501"
     }
   ]
 }
