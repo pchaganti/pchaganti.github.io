@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-07-12T04:00:30.448276-04:00",
+  "last_updated": "2026-07-12T06:18:09.859658-04:00",
   "stories": [
     {
-      "title": "Mesh LLM: distributed AI computing on iroh",
-      "score": 216,
-      "url": "https://www.iroh.computer/blog/mesh-llm",
-      "time": 1783809537.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48876505"
-    },
-    {
-      "title": "The 'Father of the Internet' is finally retiring",
-      "score": 24,
-      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-      "time": 1783642019.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48854168"
-    },
-    {
-      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
-      "score": 248,
-      "url": "https://antjs.org",
-      "time": 1783800438.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48875377"
-    },
-    {
       "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
-      "score": 7,
+      "score": 58,
       "url": "https://github.com/cosmtrek/mindwalk",
       "time": 1783835492.0,
       "comments_url": "https://news.ycombinator.com/item?id=48878682"
     },
     {
-      "title": "RISCBoy is an open-source portable games console, designed from scratch",
-      "score": 126,
-      "url": "https://github.com/Wren6991/RISCBoy",
-      "time": 1783807080.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48876245"
+      "title": "Vint Cerf, a “father of the Internet”, is retiring",
+      "score": 71,
+      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "time": 1783642019.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48854168"
     },
     {
-      "title": "Text art tools",
-      "score": 22,
-      "url": "https://hlnet.notion.site/text-art-tools",
-      "time": 1783515643.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48831384"
-    },
-    {
-      "title": "An agent in 100 lines of Lisp",
-      "score": 123,
-      "url": "https://thebeach.dev/posts/lisp-agent/",
-      "time": 1783459269.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48823981"
-    },
-    {
-      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-      "score": 241,
-      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-      "time": 1783790509.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48873836"
-    },
-    {
-      "title": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
-      "score": 60,
-      "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
-      "time": 1783606204.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48846177"
-    },
-    {
-      "title": "EF Core 11 makes your split queries faster",
-      "score": 30,
-      "url": "https://steven-giesel.com/blogPost/d4401fd0-805a-4703-9d9e-5fe3b57c25ea",
-      "time": 1783169858.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48785102"
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "score": 259,
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "time": 1783809537.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48876505"
     },
     {
       "title": "Protobuf-py: Protobuf for Python, without compromises",
-      "score": 9,
+      "score": 47,
       "url": "https://buf.build/blog/protobuf-py",
       "time": 1783480598.0,
       "comments_url": "https://news.ycombinator.com/item?id=48827058"
     },
     {
-      "title": "Jellyfish Undersea Roundabout",
-      "score": 32,
-      "url": "https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout",
-      "time": 1783563479.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48840152"
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "score": 270,
+      "url": "https://antjs.org",
+      "time": 1783800438.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48875377"
+    },
+    {
+      "title": "An agent in 100 lines of Lisp",
+      "score": 152,
+      "url": "https://thebeach.dev/posts/lisp-agent/",
+      "time": 1783459269.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48823981"
+    },
+    {
+      "title": "Text art tools",
+      "score": 38,
+      "url": "https://hlnet.notion.site/text-art-tools",
+      "time": 1783515643.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48831384"
+    },
+    {
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "score": 264,
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "time": 1783790509.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48873836"
+    },
+    {
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "score": 139,
+      "url": "https://github.com/Wren6991/RISCBoy",
+      "time": 1783807080.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48876245"
+    },
+    {
+      "title": "I Did Not Kill Stanley Lieber: How to Draw (With 9front)",
+      "score": 72,
+      "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
+      "time": 1783606204.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48846177"
+    },
+    {
+      "title": "Handsum: An LQIP Image File Format",
+      "score": 8,
+      "url": "https://nigeltao.github.io/blog/2026/handsum.html",
+      "time": 1783512479.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48830860"
+    },
+    {
+      "title": "EF Core 11 makes your split queries faster",
+      "score": 43,
+      "url": "https://steven-giesel.com/blogPost/d4401fd0-805a-4703-9d9e-5fe3b57c25ea",
+      "time": 1783169858.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48785102"
     },
     {
       "title": "UPI: Anatomy of a Payment Transaction",
-      "score": 170,
+      "score": 188,
       "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
       "time": 1783787622.0,
       "comments_url": "https://news.ycombinator.com/item?id=48873457"
     },
     {
-      "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
-      "score": 61,
-      "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
-      "time": 1783828814.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48878126"
+      "title": "Jellyfish Undersea Roundabout",
+      "score": 47,
+      "url": "https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout",
+      "time": 1783563479.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48840152"
+    },
+    {
+      "title": "Modern decor may be straining people's brains",
+      "score": 191,
+      "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+      "time": 1783787328.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48873424"
     },
     {
       "title": "We scaled PgBouncer to 4x throughput",
-      "score": 201,
+      "score": 210,
       "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
       "time": 1783783682.0,
       "comments_url": "https://news.ycombinator.com/item?id=48872874"
     },
     {
-      "title": "A pure scheme web programming tool",
-      "score": 86,
-      "url": "https://goeteia.dev",
-      "time": 1783817838.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48877314"
-    },
-    {
-      "title": "The Energetic Costs of Cellular Computation (2012)",
-      "score": 19,
-      "url": "https://arxiv.org/abs/1203.5426",
-      "time": 1783821575.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48877613"
-    },
-    {
       "title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
-      "score": 88,
+      "score": 99,
       "url": "https://arxiv.org/abs/2607.07267",
       "time": 1783619060.0,
       "comments_url": "https://news.ycombinator.com/item?id=48849744"
     },
     {
-      "title": "Unexpected Solidlike Fracture in Simple Liquids",
-      "score": 85,
-      "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
-      "time": 1783822426.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48877668"
+      "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
+      "score": 93,
+      "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
+      "time": 1783828814.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48878126"
     },
     {
-      "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
-      "score": 50,
-      "url": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
-      "time": 1783810446.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48876619"
+      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+      "score": 121,
+      "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+      "time": 1783783572.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48872858"
+    },
+    {
+      "title": "The Energetic Costs of Cellular Computation (2012)",
+      "score": 24,
+      "url": "https://arxiv.org/abs/1203.5426",
+      "time": 1783821575.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48877613"
     }
   ]
 }
