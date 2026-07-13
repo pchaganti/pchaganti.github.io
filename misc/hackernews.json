@@ -1,40 +1,68 @@
 {
-  "last_updated": "2026-07-13T13:06:44.234641-04:00",
+  "last_updated": "2026-07-13T15:12:41.458094-04:00",
   "stories": [
     {
-      "title": "The art and engineering of Sega CD Silpheed",
-      "score": 105,
-      "url": "https://fabiensanglard.net/silpheed/index.html",
-      "time": 1783954353.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48893639"
-    },
-    {
       "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-      "score": 72,
+      "score": 241,
       "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
       "time": 1783958768.0,
       "comments_url": "https://news.ycombinator.com/item?id=48894752"
     },
     {
-      "title": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
-      "score": 234,
-      "url": "https://jivx.com/densha",
-      "time": 1783941510.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48890959"
+      "title": "Show HN: Super Dario",
+      "score": 138,
+      "url": "https://superdario.pawb.de",
+      "time": 1783965232.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48896286"
     },
     {
-      "title": "Grok uploaded my user directory to xAI's servers",
-      "score": 446,
-      "url": "https://twitter.com/a_green_being/status/2076598897779020159",
-      "time": 1783949999.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48892512"
+      "title": "Logseq 2.0 Beta (DB version) is here",
+      "score": 41,
+      "url": "https://github.com/logseq/logseq/releases",
+      "time": 1783964989.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48896229"
+    },
+    {
+      "title": "The art and engineering of Sega CD Silpheed",
+      "score": 154,
+      "url": "https://fabiensanglard.net/silpheed/index.html",
+      "time": 1783954353.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48893639"
+    },
+    {
+      "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
+      "score": 24,
+      "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+      "time": 1783966936.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48896665"
+    },
+    {
+      "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
+      "score": 12,
+      "url": "https://cakehonolulu.github.io/linux-on-32x/",
+      "time": 1783966705.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48896600"
+    },
+    {
+      "title": "The real prices of frontier models. Tokens * Price, right?",
+      "score": 15,
+      "url": "https://playcode.io/blog/real-price-of-frontier-models",
+      "time": 1783967547.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48896800"
     },
     {
       "title": "LAPD lets contract with surveillance giant Flock expire",
-      "score": 133,
+      "score": 294,
       "url": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
       "time": 1783955510.0,
       "comments_url": "https://news.ycombinator.com/item?id=48893947"
+    },
+    {
+      "title": "Ancient Roman Board Game",
+      "score": 24,
+      "url": "https://ludus-coriovalli.web.app/",
+      "time": 1783630065.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48852159"
     },
     {
       "title": "PgDog (YC P25) Is Hiring a Founding Software Engineer",
@@ -44,102 +72,74 @@
       "comments_url": "https://news.ycombinator.com/item?id=48895565"
     },
     {
-      "title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
-      "score": 88,
-      "url": "https://github.com/floodtide/dom-docx",
-      "time": 1783943516.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48891267"
+      "title": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
+      "score": 283,
+      "url": "https://jivx.com/densha",
+      "time": 1783941510.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48890959"
     },
     {
-      "title": "DOGE is done. What happened to its records?",
-      "score": 160,
-      "url": "https://www.ms.now/opinion/doge-government-efficiency-records-job-cuts-elon-musk-foia",
-      "time": 1783958199.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48894641"
-    },
-    {
-      "title": "Grok CLI uploaded the whole home directory to GCS",
-      "score": 262,
-      "url": "https://twitter.com/i/status/2076598897779020159",
-      "time": 1783949732.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48892468"
+      "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+      "score": 11,
+      "url": "https://github.com/morganwilliscloud/billai-bass",
+      "time": 1783966703.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48896599"
     },
     {
       "title": "Benchmarking 15 \"E-Waste\" GPUs with Modern Workloads",
-      "score": 25,
+      "score": 72,
       "url": "https://esologic.com/benchmarking-tesla-gpus/",
       "time": 1783950522.0,
       "comments_url": "https://news.ycombinator.com/item?id=48892638"
     },
     {
-      "title": "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
-      "score": 114,
-      "url": "https://github.com/clawkwork/clawk",
-      "time": 1783951323.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48892859"
+      "title": "Tune Code Before Your Garbage Collector",
+      "score": 23,
+      "url": "http://blog.vanillajava.blog/2026/06/why-you-should-tun-code-before-your.html",
+      "time": 1783497910.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48828983"
+    },
+    {
+      "title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
+      "score": 109,
+      "url": "https://github.com/floodtide/dom-docx",
+      "time": 1783943516.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48891267"
+    },
+    {
+      "title": "Show HN: OpenClawMachines – Extending OpenClaw to the Enterprise",
+      "score": 9,
+      "url": "https://github.com/mathaix/OpenClawMachines",
+      "time": 1783964729.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48896179"
     },
     {
       "title": "The 'absolute magic' of Morse code that still connects people globally",
-      "score": 74,
+      "score": 98,
       "url": "https://www.bbc.com/news/articles/cwye0dlzgejo",
       "time": 1783520409.0,
       "comments_url": "https://news.ycombinator.com/item?id=48832329"
     },
     {
-      "title": "Precursor",
-      "score": 114,
-      "url": "https://blog.cloudflare.com/introducing-precursor/",
-      "time": 1783953578.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48893446"
-    },
-    {
-      "title": "The Graph That Should Be Front-Page News",
-      "score": 467,
-      "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
-      "time": 1783920927.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48888331"
-    },
-    {
-      "title": "Backtrack-Free Cursive",
-      "score": 205,
-      "url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
-      "time": 1783922892.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48888518"
-    },
-    {
-      "title": "Counting ArXiv Delays",
-      "score": 9,
-      "url": "https://fi-le.net/arxiv/",
-      "time": 1783659154.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48855881"
+      "title": "How sea stars build materials that can see",
+      "score": 8,
+      "url": "https://www.engineering.upenn.edu/stories/how-sea-stars-build-materials-that-can-see/",
+      "time": 1783810447.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48876621"
     },
     {
       "title": "Cursed circuits #6: reverse avalanche oscillator",
-      "score": 38,
+      "score": 62,
       "url": "https://lcamtuf.substack.com/p/cursed-circuits-6-reverse-avalanche",
       "time": 1783580417.0,
       "comments_url": "https://news.ycombinator.com/item?id=48841962"
     },
     {
-      "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
-      "score": 359,
-      "url": "https://nebusec.ai/research/ionstack-part-2/",
-      "time": 1783529638.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48834309"
-    },
-    {
-      "title": "The social physics of conversation: Communication patterns matter",
-      "score": 134,
-      "url": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership",
-      "time": 1783494349.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48828576"
-    },
-    {
-      "title": "Tune Code Before Your Garbage Collector",
-      "score": 3,
-      "url": "http://blog.vanillajava.blog/2026/06/why-you-should-tun-code-before-your.html",
-      "time": 1783497910.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48828983"
+      "title": "Backtrack-Free Cursive",
+      "score": 228,
+      "url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
+      "time": 1783922892.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48888518"
     }
   ]
 }
