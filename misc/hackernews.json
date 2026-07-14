@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-07-14T06:29:14.188432-04:00",
+  "last_updated": "2026-07-14T09:09:53.042515-04:00",
   "stories": [
     {
+      "title": "Codex starts encrypting sub-agent prompts",
+      "score": 161,
+      "url": "https://github.com/openai/codex/issues/28058",
+      "time": 1784028092.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48905028"
+    },
+    {
+      "title": "Codex scraped the ICM website and discovered 2026 Fields Medal winner list",
+      "score": 59,
+      "url": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
+      "time": 1784028636.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48905091"
+    },
+    {
+      "title": "The Future Worth Building Is Human – Thinking Machines Lab",
+      "score": 53,
+      "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/",
+      "time": 1784027127.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48904905"
+    },
+    {
+      "title": "The great digital fatigue: How digital burnout is changing social media use",
+      "score": 54,
+      "url": "https://blog.incogni.com/digital-fatigue-and-burnout/",
+      "time": 1784026718.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48904855"
+    },
+    {
+      "title": "Beautiful Type Erasure with C++26 Reflection",
+      "score": 11,
+      "url": "https://ryanjk5.github.io/posts/rjk-duck/",
+      "time": 1784032850.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48905914"
+    },
+    {
+      "title": "Actegories",
+      "score": 21,
+      "url": "https://bartoszmilewski.com/2026/06/30/actegories/",
+      "time": 1784027115.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48904902"
+    },
+    {
       "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
-      "score": 499,
+      "score": 608,
       "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
       "time": 1783996040.0,
       "comments_url": "https://news.ycombinator.com/item?id=48901569"
     },
     {
+      "title": "Coding agents think ahead of time",
+      "score": 11,
+      "url": "https://arxiv.org/abs/2607.05188",
+      "time": 1784032089.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48905764"
+    },
+    {
+      "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
+      "score": 11,
+      "url": "https://github.com/Danau5tin/ai-trains-ai",
+      "time": 1784032885.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48905919"
+    },
+    {
+      "title": "No Spanish Reading Crisis?",
+      "score": 22,
+      "url": "https://www.commonreader.co.uk/p/no-spanish-reading-crisis",
+      "time": 1784028719.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48905105"
+    },
+    {
       "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
-      "score": 40,
+      "score": 83,
       "url": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
       "time": 1784017489.0,
       "comments_url": "https://news.ycombinator.com/item?id=48903715"
     },
     {
+      "title": "Your 'App' Could Have Been a Webpage (so I fixed it for you)",
+      "score": 142,
+      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+      "time": 1783758087.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48869989"
+    },
+    {
       "title": "Australian energy retailers must provide three hours of free daytime electricity",
-      "score": 108,
+      "score": 156,
       "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
       "time": 1784003508.0,
       "comments_url": "https://news.ycombinator.com/item?id=48902320"
     },
     {
       "title": "The git history command",
-      "score": 313,
+      "score": 349,
       "url": "https://lalitm.com/post/git-history/",
       "time": 1783990631.0,
       "comments_url": "https://news.ycombinator.com/item?id=48901010"
     },
     {
-      "title": "YouTrackDB is a general-use object-oriented graph database",
-      "score": 126,
-      "url": "https://github.com/JetBrains/youtrackdb",
-      "time": 1784000395.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48902026"
-    },
-    {
-      "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
-      "score": 53,
-      "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
-      "time": 1784011408.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48903082"
-    },
-    {
-      "title": "Fundamentals of Wireless Communication (2005)",
-      "score": 137,
-      "url": "https://web.stanford.edu/~dntse/wireless_book.html",
-      "time": 1783995019.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48901454"
-    },
-    {
-      "title": "Building and shipping Mac and iOS apps without opening Xcode",
-      "score": 480,
-      "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-      "time": 1783966936.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48896665"
-    },
-    {
-      "title": "How to build a circular LCD clock",
-      "score": 85,
-      "url": "https://blinry.org/lcd-clock/",
-      "time": 1783783434.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48872833"
-    },
-    {
-      "title": "Zero Knowledge Tolstoyan Art",
-      "score": 22,
-      "url": "https://max-amb.github.io/blog/zero_knowledge_tolstoyan_art/",
-      "time": 1783784293.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48872965"
-    },
-    {
-      "title": "The Economics of Recursive Self-Improvement [pdf]",
-      "score": 98,
-      "url": "https://elasticity.institute/rsi-paper.pdf",
-      "time": 1783992923.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48901224"
-    },
-    {
-      "title": "An Englishwoman who sketched India before photography took hold",
-      "score": 157,
-      "url": "https://www.bbc.com/news/articles/cm2drrv6q54o",
-      "time": 1783984342.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48900191"
-    },
-    {
       "title": "Notable Knot Index (2016)",
-      "score": 4,
+      "score": 36,
       "url": "https://knots.neocities.org/knotindex",
       "time": 1783603834.0,
       "comments_url": "https://news.ycombinator.com/item?id=48845527"
     },
     {
+      "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
+      "score": 103,
+      "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
+      "time": 1784011408.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48903082"
+    },
+    {
+      "title": "Germany set to restrict its Freedom of Information Act",
+      "score": 62,
+      "url": "https://www.dw.com/en/germany-freedom-of-information-act/a-77939695",
+      "time": 1784029788.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48905290"
+    },
+    {
+      "title": "Punch Yourself in the Face with Reality",
+      "score": 37,
+      "url": "https://adi.bio/reality",
+      "time": 1784028799.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48905118"
+    },
+    {
       "title": "Just Let Me Write Digits",
-      "score": 33,
+      "score": 87,
       "url": "https://gendx.dev/blog/2026/07/13/input-digits.html",
       "time": 1784008670.0,
       "comments_url": "https://news.ycombinator.com/item?id=48902791"
     },
     {
-      "title": "Satellite Tracker – Live Map of Starlink and 30k Satellites",
-      "score": 94,
-      "url": "https://satellitemap.space/",
-      "time": 1783994124.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48901356"
-    },
-    {
-      "title": "Is x86 ready to ACE it?",
-      "score": 80,
-      "url": "https://chipsandcheese.com/p/is-x86-ready-to-ace-it",
-      "time": 1783992973.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48901235"
-    },
-    {
-      "title": "MorphoHDL: A minimalistic language for growing circuits",
-      "score": 74,
-      "url": "https://paradigms-of-intelligence.github.io/morpho/",
-      "time": 1783991850.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48901126"
-    },
-    {
-      "title": "Understanding the Go Runtime: Profiling",
-      "score": 7,
-      "url": "https://internals-for-interns.com/posts/go-runtime-profiling/",
-      "time": 1783481748.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48827176"
-    },
-    {
-      "title": "World-First 'Super Alloy' Could Transform the Way Metals Are Made",
-      "score": 70,
-      "url": "https://www.sciencealert.com/world-first-super-alloy-could-transform-the-way-metals-are-made",
-      "time": 1783635635.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48853146"
-    },
-    {
-      "title": "Two Case Studies of NaN",
-      "score": 8,
-      "url": "https://sebsite.pw/w/20260709-nan.html",
-      "time": 1784017372.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48903701"
+      "title": "Differentiable Fortran with LFortran and Enzyme",
+      "score": 3,
+      "url": "https://docs.pasteurlabs.ai/projects/tesseract-core/latest/blog/2026-07-09-enzyme-lfortran-autodiff.html",
+      "time": 1784031706.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48905667"
     }
   ]
 }
