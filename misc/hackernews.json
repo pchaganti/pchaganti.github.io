@@ -1,68 +1,110 @@
 {
-  "last_updated": "2026-07-14T15:03:16.480375-04:00",
+  "last_updated": "2026-07-14T17:48:08.370436-04:00",
   "stories": [
     {
-      "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
-      "score": 212,
-      "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
-      "time": 1784046966.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48909424"
-    },
-    {
-      "title": "The Tower Keeps Rising",
-      "score": 122,
-      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-      "time": 1784048274.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48909785"
-    },
-    {
-      "title": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-      "score": 46,
+      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+      "score": 247,
       "url": "https://prismml.com/news/bonsai-27b",
       "time": 1784051448.0,
       "comments_url": "https://news.ycombinator.com/item?id=48910545"
     },
     {
+      "title": "The Tower Keeps Rising",
+      "score": 257,
+      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+      "time": 1784048274.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48909785"
+    },
+    {
+      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "score": 127,
+      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "time": 1784051915.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48910676"
+    },
+    {
       "title": "Your 'app' could have been a webpage (so I fixed it for you)",
-      "score": 506,
+      "score": 628,
       "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
       "time": 1783758087.0,
       "comments_url": "https://news.ycombinator.com/item?id=48869989"
     },
     {
-      "title": "How to stop Claude from saying load-bearing",
-      "score": 258,
-      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-      "time": 1784029562.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48905248"
-    },
-    {
       "title": "The largest available Minecraft world, totalling 15 TB",
-      "score": 28,
+      "score": 101,
       "url": "https://2b2t.place/1million",
       "time": 1783780339.0,
       "comments_url": "https://news.ycombinator.com/item?id=48872401"
     },
     {
-      "title": "A tiny cell that broke a big rule of biology",
-      "score": 98,
-      "url": "https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/",
-      "time": 1783612240.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48847943"
+      "title": "How to stop Claude from saying load-bearing",
+      "score": 364,
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "time": 1784029562.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48905248"
+    },
+    {
+      "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+      "score": 28,
+      "url": "https://gwern.net/guardian-angel",
+      "time": 1784033429.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48906041"
     },
     {
       "title": "The zero-cost fallacy: open-source software in the agentic era",
-      "score": 29,
+      "score": 82,
       "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
       "time": 1783716343.0,
       "comments_url": "https://news.ycombinator.com/item?id=48865001"
     },
     {
+      "title": "Are we offloading too much of our thinking to AI?",
+      "score": 322,
+      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+      "time": 1784042293.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48908178"
+    },
+    {
       "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
-      "score": 20,
+      "score": 33,
       "url": "https://agnost.ai",
       "time": 1784045178.0,
       "comments_url": "https://news.ycombinator.com/item?id=48908950"
+    },
+    {
+      "title": "The Second Life of Sanskrit",
+      "score": 24,
+      "url": "https://openthemagazine.com/india/the-second-life-of-sanskrit",
+      "time": 1783792991.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48874190"
+    },
+    {
+      "title": "Show HN: Opening lines of famous literary works",
+      "score": 128,
+      "url": "https://www.verbaprima.com/",
+      "time": 1784042689.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48908271"
+    },
+    {
+      "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
+      "score": 321,
+      "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
+      "time": 1784046966.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48909424"
+    },
+    {
+      "title": "I'm a USB-C Maximalist",
+      "score": 87,
+      "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
+      "time": 1784042436.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48908214"
+    },
+    {
+      "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+      "score": 138,
+      "url": "https://github.com/juggler-ai/juggler",
+      "time": 1783880895.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48883305"
     },
     {
       "title": "Kontigo (YC S24) Is Hiring (Head of Security)",
@@ -72,74 +114,32 @@
       "comments_url": "https://news.ycombinator.com/item?id=48909820"
     },
     {
-      "title": "Show HN: Opening lines of famous literary works",
-      "score": 103,
-      "url": "https://www.verbaprima.com/",
-      "time": 1784042689.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48908271"
+      "title": "Show HN: Self-hosted voice AI agent for Asterisk/FreePBX",
+      "score": 8,
+      "url": "https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk",
+      "time": 1783911094.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48887276"
     },
     {
-      "title": "Are we offloading too much of our thinking to AI?",
-      "score": 239,
-      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-      "time": 1784042293.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48908178"
+      "title": "Demis Hassabis has a plan to harness AI safely",
+      "score": 123,
+      "url": "https://twitter.com/demishassabis/status/2076957440109625718",
+      "time": 1784020807.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48904095"
     },
     {
-      "title": "Beautiful Type Erasure with C++26 Reflection",
-      "score": 86,
-      "url": "https://ryanjk5.github.io/posts/rjk-duck/",
-      "time": 1784032850.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48905914"
-    },
-    {
-      "title": "S&P downgrades Oracle to BBB – only one notch above junk level",
-      "score": 223,
-      "url": "https://www.heise.de/en/news/S-P-downgrades-Oracle-to-BBB-only-one-notch-above-junk-level-11363472.html",
-      "time": 1784048208.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48909768"
+      "title": "StubHub's 'marketplace for fans' is run by a mass scalper, SEC filings reveal",
+      "score": 50,
+      "url": "https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987",
+      "time": 1784058516.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48912100"
     },
     {
       "title": "Punch yourself in the face with reality",
-      "score": 152,
+      "score": 190,
       "url": "https://adi.bio/reality",
       "time": 1784028799.0,
       "comments_url": "https://news.ycombinator.com/item?id=48905118"
-    },
-    {
-      "title": "Paxos Made Simple (2001)[pdf]",
-      "score": 54,
-      "url": "https://lamport.azurewebsites.net/pubs/paxos-simple.pdf",
-      "time": 1783623082.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48850688"
-    },
-    {
-      "title": "Superoptimizer – A Look at the Smallest Program",
-      "score": 32,
-      "url": "https://dl.acm.org/doi/epdf/10.1145/36177.36194",
-      "time": 1783707327.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48863336"
-    },
-    {
-      "title": "How the FSF sysadmins block botnets with reaction",
-      "score": 129,
-      "url": "https://www.fsf.org/blogs/community/blocking-botnets-with-reaction",
-      "time": 1783812372.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48876809"
-    },
-    {
-      "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
-      "score": 79,
-      "url": "https://github.com/Danau5tin/ai-trains-ai",
-      "time": 1784032885.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48905919"
-    },
-    {
-      "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
-      "score": 344,
-      "url": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
-      "time": 1784018097.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48903777"
     }
   ]
 }
