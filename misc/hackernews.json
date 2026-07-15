@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-07-15T03:50:56.248321-04:00",
+  "last_updated": "2026-07-15T06:41:59.140209-04:00",
   "stories": [
     {
-      "title": "I tricked Claude into leaking your deepest, darkest secrets",
-      "score": 108,
-      "url": "https://www.ayush.digital/blog/the-memory-heist",
-      "time": 1784096880.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48916975"
-    },
-    {
       "title": "Jurassic Park computers in excruciating detail",
-      "score": 329,
+      "score": 484,
       "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
       "time": 1784084267.0,
       "comments_url": "https://news.ycombinator.com/item?id=48915709"
     },
     {
+      "title": "New era for Gibraltar with removal of border controls with Spain",
+      "score": 17,
+      "url": "https://www.bbc.com/news/articles/cwydz60j3eno",
+      "time": 1784109965.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48918530"
+    },
+    {
       "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
-      "score": 241,
+      "score": 276,
       "url": "https://vpd.ca/",
       "time": 1784074553.0,
       "comments_url": "https://news.ycombinator.com/item?id=48914644"
     },
     {
-      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-      "score": 129,
-      "url": "https://tailscale.com/security-bulletins",
-      "time": 1784077706.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48915004"
-    },
-    {
-      "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
-      "score": 24,
-      "url": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
-      "time": 1784095337.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48916805"
-    },
-    {
       "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-      "score": 558,
+      "score": 606,
       "url": "https://prismml.com/news/bonsai-27b",
       "time": 1784051448.0,
       "comments_url": "https://news.ycombinator.com/item?id=48910545"
     },
     {
-      "title": "Andon (manufacturing)",
+      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "score": 155,
+      "url": "https://tailscale.com/security-bulletins",
+      "time": 1784077706.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48915004"
+    },
+    {
+      "title": "Who's running all those tiny RPKI servers?",
       "score": 38,
-      "url": "https://en.wikipedia.org/wiki/Andon_(manufacturing)",
-      "time": 1783799347.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48875188"
+      "url": "https://blog.apnic.net/2026/07/15/whos-running-all-those-tiny-rpki-servers/",
+      "time": 1784097536.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48917055"
+    },
+    {
+      "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
+      "score": 69,
+      "url": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
+      "time": 1784095337.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48916805"
+    },
+    {
+      "title": "I tricked Claude into leaking your deepest, darkest secrets",
+      "score": 332,
+      "url": "https://www.ayush.digital/blog/the-memory-heist",
+      "time": 1784096880.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48916975"
     },
     {
       "title": "The Tower Keeps Rising",
-      "score": 447,
+      "score": 475,
       "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
       "time": 1784048274.0,
       "comments_url": "https://news.ycombinator.com/item?id=48909785"
     },
     {
+      "title": "Combinatorial Games in Lean",
+      "score": 13,
+      "url": "https://github.com/vihdzp/combinatorial-games",
+      "time": 1783807884.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48876329"
+    },
+    {
       "title": "Dependabot version updates introduce default package cooldown",
-      "score": 167,
+      "score": 180,
       "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
       "time": 1784063751.0,
       "comments_url": "https://news.ycombinator.com/item?id=48913050"
     },
     {
       "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-      "score": 336,
+      "score": 374,
       "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
       "time": 1784051915.0,
       "comments_url": "https://news.ycombinator.com/item?id=48910676"
     },
     {
       "title": "How I use HTMX with Go",
-      "score": 211,
+      "score": 255,
       "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
       "time": 1784058931.0,
       "comments_url": "https://news.ycombinator.com/item?id=48912175"
     },
     {
+      "title": "Andon (manufacturing)",
+      "score": 54,
+      "url": "https://en.wikipedia.org/wiki/Andon_(manufacturing)",
+      "time": 1783799347.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48875188"
+    },
+    {
+      "title": "How to stop Claude from saying load-bearing",
+      "score": 531,
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "time": 1784029562.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48905248"
+    },
+    {
       "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
-      "score": 118,
+      "score": 138,
       "url": "https://www.starfleetmath.com/",
       "time": 1784074556.0,
       "comments_url": "https://news.ycombinator.com/item?id=48914646"
     },
     {
       "title": "Microsoft has released software updates to plug at least 570 security holes",
-      "score": 106,
+      "score": 136,
       "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
       "time": 1784064742.0,
       "comments_url": "https://news.ycombinator.com/item?id=48913190"
     },
     {
-      "title": "How to stop Claude from saying load-bearing",
-      "score": 513,
-      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-      "time": 1784029562.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48905248"
-    },
-    {
-      "title": "I'm a USB-C Maximalist",
-      "score": 259,
-      "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
-      "time": 1784042436.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48908214"
-    },
-    {
-      "title": "The bread paradox: why convenience always wins, and why SaaS isn't doomed",
-      "score": 53,
-      "url": "https://www.joanwestenberg.com/p/the-bread-paradox-why-convenience",
-      "time": 1783966992.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48896672"
-    },
-    {
-      "title": "Mathematical texts from a Maya site in Guatemala identify an ancient astronomer",
-      "score": 75,
-      "url": "https://www.nature.com/articles/d41586-026-02170-8",
-      "time": 1784029234.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48905183"
-    },
-    {
-      "title": "The kids with phones are alright",
-      "score": 194,
-      "url": "https://heatherburns.tech/2026/07/08/the-kids-with-phones-are-alright/",
-      "time": 1783760888.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48870217"
-    },
-    {
-      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
-      "score": 87,
-      "url": "https://www.benjamin-bai.com/projects/lemario",
-      "time": 1784068247.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48913763"
-    },
-    {
       "title": "Surprising lessons from my research scientist job search",
-      "score": 3,
+      "score": 18,
       "url": "https://yongzx.github.io/blog/2026/06/24/job-search/",
       "time": 1783695493.0,
       "comments_url": "https://news.ycombinator.com/item?id=48860897"
+    },
+    {
+      "title": "Neverclick: Desktop application for performing mouse actions with your keyboard",
+      "score": 10,
+      "url": "https://github.com/LazoVelko/neverclick",
+      "time": 1783819973.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48877485"
+    },
+    {
+      "title": "I'm a USB-C Maximalist",
+      "score": 292,
+      "url": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
+      "time": 1784042436.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48908214"
     }
   ]
 }
