@@ -1,47 +1,96 @@
 {
-  "last_updated": "2026-07-17T21:40:40.029743-04:00",
+  "last_updated": "2026-07-18T01:16:02.784252-04:00",
   "stories": [
     {
       "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-      "score": 264,
+      "score": 407,
       "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
       "time": 1784327190.0,
       "comments_url": "https://news.ycombinator.com/item?id=48952880"
     },
     {
       "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
-      "score": 1047,
+      "score": 1108,
       "url": "https://news.ycombinator.com/item?id=48945241",
       "time": 1784281325.0,
       "comments_url": "https://news.ycombinator.com/item?id=48945241"
     },
     {
       "title": "Thanks HN for 15 years of support and helping me find my life's work",
-      "score": 317,
+      "score": 464,
       "url": "https://news.ycombinator.com/item?id=48949551",
       "time": 1784307447.0,
       "comments_url": "https://news.ycombinator.com/item?id=48949551"
     },
     {
+      "title": "Reviving a 15-year-old netbook with Arch Linux",
+      "score": 24,
+      "url": "https://parksb.github.io/en/article/41.html",
+      "time": 1784037756.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48907063"
+    },
+    {
       "title": "The Zilog Z80 has turned 50",
-      "score": 164,
+      "score": 189,
       "url": "https://goliath32.com/blog/z80.html",
       "time": 1784317262.0,
       "comments_url": "https://news.ycombinator.com/item?id=48951461"
     },
     {
+      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "score": 406,
+      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+      "time": 1784297173.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48947560"
+    },
+    {
+      "title": "Shipping OpenStrike: A Counter-Strike-Shaped FPS on a 2004 Handheld",
+      "score": 18,
+      "url": "https://pocketjs.dev/blog/shipping-openstrike/",
+      "time": 1783794049.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48874347"
+    },
+    {
+      "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
+      "score": 26,
+      "url": "https://moonstone.sh/",
+      "time": 1784337495.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48954175"
+    },
+    {
+      "title": "I Started a \"Dirt Notebook\"",
+      "score": 36,
+      "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+      "time": 1784337133.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48954149"
+    },
+    {
+      "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+      "score": 69,
+      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+      "time": 1784324563.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48952565"
+    },
+    {
+      "title": "Learning a few things about running SQLite",
+      "score": 200,
+      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+      "time": 1784310341.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48950122"
+    },
+    {
       "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
-      "score": 32,
+      "score": 55,
       "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
       "time": 1784330795.0,
       "comments_url": "https://news.ycombinator.com/item?id=48953406"
     },
     {
-      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-      "score": 366,
-      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "time": 1784297173.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48947560"
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "score": 299,
+      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+      "time": 1784298111.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48947717"
     },
     {
       "title": "DrDroid (YC W23) Is Hiring",
@@ -51,95 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=48954074"
     },
     {
+      "title": "An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead)",
+      "score": 27,
+      "url": "https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/",
+      "time": 1784033998.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48906171"
+    },
+    {
       "title": "Vāgdhenu: A Sanskrit Chanting TTS System",
-      "score": 40,
+      "score": 110,
       "url": "https://prathosh.in/vagdhenu/",
       "time": 1783964606.0,
       "comments_url": "https://news.ycombinator.com/item?id=48896149"
     },
     {
-      "title": "Learning a few things about running SQLite",
-      "score": 163,
-      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-      "time": 1784310341.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48950122"
-    },
-    {
-      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-      "score": 276,
-      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-      "time": 1784298111.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48947717"
+      "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
+      "score": 22,
+      "url": "https://www.stenchill.com/en/",
+      "time": 1784335717.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48953981"
     },
     {
       "title": "Static search trees: 40x faster than binary search (2024)",
-      "score": 47,
+      "score": 74,
       "url": "https://curiouscoding.nl/posts/static-search-tree/",
       "time": 1784319895.0,
       "comments_url": "https://news.ycombinator.com/item?id=48951898"
     },
     {
-      "title": "Texas wins court order to suspend domain name for violating age-verification law",
-      "score": 116,
-      "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
-      "time": 1784327755.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48952939"
-    },
-    {
       "title": "Open Book Touch: open-source e-reader",
-      "score": 52,
+      "score": 82,
       "url": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
       "time": 1784321277.0,
       "comments_url": "https://news.ycombinator.com/item?id=48952135"
     },
     {
-      "title": "Topcoat: The full full-stack framework for Rust",
-      "score": 39,
-      "url": "https://github.com/tokio-rs/topcoat",
-      "time": 1784320903.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48952067"
-    },
-    {
       "title": "Painting the sides of railroad rails white to reduce derailment",
-      "score": 42,
+      "score": 71,
       "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
       "time": 1784319179.0,
       "comments_url": "https://news.ycombinator.com/item?id=48951780"
-    },
-    {
-      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
-      "score": 113,
-      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
-      "time": 1784323373.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48952439"
-    },
-    {
-      "title": "Show HN: A zoomable timeline of 4M Wikipedia events",
-      "score": 58,
-      "url": "https://app.everything.diena.co/",
-      "time": 1784313453.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48950774"
-    },
-    {
-      "title": "The state of open source AI",
-      "score": 370,
-      "url": "https://stateofopensource.ai/",
-      "time": 1784298670.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48947825"
-    },
-    {
-      "title": "Lego building instructions through time",
-      "score": 58,
-      "url": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
-      "time": 1784312474.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48950518"
-    },
-    {
-      "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
-      "score": 18,
-      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
-      "time": 1784324563.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48952565"
     }
   ]
 }
