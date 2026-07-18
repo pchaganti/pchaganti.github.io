@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-07-18T03:27:33.905990-04:00",
+  "last_updated": "2026-07-18T06:09:49.742989-04:00",
   "stories": [
     {
       "title": "Regressive JPEGs",
-      "score": 122,
+      "score": 350,
       "url": "https://maurycyz.com/projects/bad_jpeg/",
       "time": 1784344460.0,
       "comments_url": "https://news.ycombinator.com/item?id=48954851"
     },
     {
-      "title": "Reviving a 15-year-old netbook with Arch Linux",
-      "score": 73,
-      "url": "https://parksb.github.io/en/article/41.html",
-      "time": 1784037756.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48907063"
-    },
-    {
       "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
-      "score": 1142,
+      "score": 1189,
       "url": "https://news.ycombinator.com/item?id=48945241",
       "time": 1784281325.0,
       "comments_url": "https://news.ycombinator.com/item?id=48945241"
     },
     {
       "title": "Thanks HN for 15 years of support and helping me find my life's work",
-      "score": 529,
+      "score": 598,
       "url": "https://news.ycombinator.com/item?id=48949551",
       "time": 1784307447.0,
       "comments_url": "https://news.ycombinator.com/item?id=48949551"
     },
     {
+      "title": "Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",
+      "score": 32,
+      "url": "https://github.com/tucan9389/nanochat-jax/discussions/1",
+      "time": 1784103505.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48917755"
+    },
+    {
+      "title": "Reviving a 15-year-old netbook with Arch Linux",
+      "score": 110,
+      "url": "https://parksb.github.io/en/article/41.html",
+      "time": 1784037756.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48907063"
+    },
+    {
+      "title": "In-toto: A framework to secure the integrity of software supply chains",
+      "score": 33,
+      "url": "https://in-toto.io/",
+      "time": 1784253638.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48942603"
+    },
+    {
       "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-      "score": 435,
+      "score": 461,
       "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
       "time": 1784297173.0,
       "comments_url": "https://news.ycombinator.com/item?id=48947560"
     },
     {
-      "title": "The Zilog Z80 has turned 50",
-      "score": 208,
-      "url": "https://goliath32.com/blog/z80.html",
-      "time": 1784317262.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48951461"
-    },
-    {
-      "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
-      "score": 46,
-      "url": "https://moonstone.sh/",
-      "time": 1784337495.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48954175"
-    },
-    {
       "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
-      "score": 101,
+      "score": 132,
       "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
       "time": 1784324563.0,
       "comments_url": "https://news.ycombinator.com/item?id=48952565"
     },
     {
+      "title": "The Zilog Z80 has turned 50",
+      "score": 224,
+      "url": "https://goliath32.com/blog/z80.html",
+      "time": 1784317262.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48951461"
+    },
+    {
       "title": "Learning a few things about running SQLite",
-      "score": 231,
+      "score": 253,
       "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
       "time": 1784310341.0,
       "comments_url": "https://news.ycombinator.com/item?id=48950122"
     },
     {
-      "title": "I started a \"dirt notebook\"",
-      "score": 49,
+      "title": "Waldi: A quiet place to write, and to be read",
+      "score": 6,
+      "url": "https://github.com/waaldev/waldi",
+      "time": 1783855606.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48880258"
+    },
+    {
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "score": 340,
+      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+      "time": 1784298111.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48947717"
+    },
+    {
+      "title": "I started a “dirt notebook”",
+      "score": 66,
       "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
       "time": 1784337133.0,
       "comments_url": "https://news.ycombinator.com/item?id=48954149"
     },
     {
       "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
-      "score": 38,
+      "score": 57,
       "url": "https://www.stenchill.com/en/",
       "time": 1784335717.0,
       "comments_url": "https://news.ycombinator.com/item?id=48953981"
     },
     {
-      "title": "Shipping OpenStrike: A Counter-Strike-Shaped FPS on a 2004 Handheld",
-      "score": 35,
-      "url": "https://pocketjs.dev/blog/shipping-openstrike/",
-      "time": 1783794049.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48874347"
+      "title": "Show HN: IKEA Complexity Index",
+      "score": 40,
+      "url": "https://ikea.greg.technology/",
+      "time": 1784346702.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48955042"
     },
     {
-      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-      "score": 323,
-      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-      "time": 1784298111.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48947717"
+      "title": "Static search trees: 40x faster than binary search (2024)",
+      "score": 125,
+      "url": "https://curiouscoding.nl/posts/static-search-tree/",
+      "time": 1784319895.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48951898"
+    },
+    {
+      "title": "Battery packs: Let's talk about crates, baby",
+      "score": 24,
+      "url": "https://smallcultfollowing.com/babysteps/blog/2026/07/15/battery-packs/",
+      "time": 1784242124.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48941315"
     },
     {
       "title": "Vāgdhenu: A Sanskrit Chanting TTS System",
-      "score": 139,
+      "score": 173,
       "url": "https://prathosh.in/vagdhenu/",
       "time": 1783964606.0,
       "comments_url": "https://news.ycombinator.com/item?id=48896149"
     },
     {
       "title": "An Update on Igalia's Layer Based SVG Engine in WebKit (Reducing Layer Overhead)",
-      "score": 37,
+      "score": 46,
       "url": "https://blogs.igalia.com/nzimmermann/posts/2026-07-14-lbse-conditional-layers/",
       "time": 1784033998.0,
       "comments_url": "https://news.ycombinator.com/item?id=48906171"
     },
     {
-      "title": "In-toto: A framework to secure the integrity of software supply chains",
-      "score": 7,
-      "url": "https://in-toto.io/",
-      "time": 1784253638.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48942603"
-    },
-    {
-      "title": "Battery packs: Let's talk about crates, baby",
-      "score": 11,
-      "url": "https://smallcultfollowing.com/babysteps/blog/2026/07/15/battery-packs/",
-      "time": 1784242124.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48941315"
-    },
-    {
-      "title": "Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",
-      "score": 6,
-      "url": "https://github.com/tucan9389/nanochat-jax/discussions/1",
-      "time": 1784103505.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48917755"
-    },
-    {
-      "title": "DrDroid (YC W23) Is Hiring",
-      "score": 1,
-      "url": "https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory",
-      "time": 1784336468.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48954074"
-    },
-    {
-      "title": "Static search trees: 40x faster than binary search (2024)",
-      "score": 100,
-      "url": "https://curiouscoding.nl/posts/static-search-tree/",
-      "time": 1784319895.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48951898"
+      "title": "Lego building instructions through time",
+      "score": 125,
+      "url": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
+      "time": 1784312474.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48950518"
     }
   ]
 }
