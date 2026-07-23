@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-07-23T01:44:28.664510-04:00",
+  "last_updated": "2026-07-23T04:12:08.602982-04:00",
   "stories": [
     {
       "title": "git's –end-of-options Flag",
-      "score": 63,
+      "score": 121,
       "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
       "time": 1784639627.0,
       "comments_url": "https://news.ycombinator.com/item?id=48991882"
     },
     {
+      "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
+      "score": 24,
+      "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
+      "time": 1784628260.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48990219"
+    },
+    {
       "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
-      "score": 734,
+      "score": 827,
       "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
       "time": 1784741440.0,
       "comments_url": "https://news.ycombinator.com/item?id=49010345"
     },
     {
       "title": "Quality non-fiction books are the antithesis of AI slop",
-      "score": 259,
+      "score": 328,
       "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
       "time": 1784729885.0,
       "comments_url": "https://news.ycombinator.com/item?id=49007247"
     },
     {
+      "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
+      "score": 20,
+      "url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
+      "time": 1784785220.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49017344"
+    },
+    {
       "title": "GigaToken: ~1000x faster Language model tokenization",
-      "score": 427,
+      "score": 476,
       "url": "https://github.com/marcelroed/gigatoken/",
       "time": 1784740838.0,
       "comments_url": "https://news.ycombinator.com/item?id=49010167"
     },
     {
       "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "score": 737,
+      "score": 796,
       "url": "https://bento.page/slides/",
       "time": 1784733563.0,
       "comments_url": "https://news.ycombinator.com/item?id=49008211"
     },
     {
+      "title": "Amiga 1000: Ten years ahead of its time",
+      "score": 51,
+      "url": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
+      "time": 1784784257.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49017265"
+    },
+    {
       "title": "Everyone should know SIMD",
-      "score": 335,
+      "score": 395,
       "url": "https://mitchellh.com/writing/everyone-should-know-simd",
       "time": 1784742498.0,
       "comments_url": "https://news.ycombinator.com/item?id=49010648"
     },
     {
-      "title": "Restructuring GitHub's bug bounty program",
-      "score": 29,
-      "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
-      "time": 1784773703.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49016099"
-    },
-    {
       "title": "Are AI labs pelicanmaxxing?",
-      "score": 449,
+      "score": 502,
       "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
       "time": 1784740674.0,
       "comments_url": "https://news.ycombinator.com/item?id=49010129"
     },
     {
-      "title": "ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)",
-      "score": 22,
-      "url": "https://github.com/exlee/ascdraw",
-      "time": 1784579692.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48984534"
-    },
-    {
-      "title": "Medici family mystery may be solved after more than 400 years",
-      "score": 102,
-      "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
-      "time": 1784757334.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49014007"
-    },
-    {
-      "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
-      "score": 102,
-      "url": "https://github.com/cactus-compute/cactus-hybrid",
-      "time": 1784742989.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49010782"
-    },
-    {
-      "title": "So Reddit has decided that plain HTML is unsafe",
-      "score": 364,
-      "url": "https://www.cole-k.com/2026/07/21/reddit/",
-      "time": 1784723568.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49005747"
-    },
-    {
-      "title": "John C. Dvorak has died",
-      "score": 674,
-      "url": "https://twitter.com/na_announce/status/2079952538040672302",
-      "time": 1784748139.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49012070"
-    },
-    {
-      "title": "Malleable Computing, Emacs, and You",
-      "score": 87,
-      "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
-      "time": 1784754926.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49013538"
-    },
-    {
-      "title": "The startup's Postgres survival guide",
-      "score": 362,
-      "url": "https://hatchet.run/blog/postgres-survival-guide",
-      "time": 1784723768.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49005787"
-    },
-    {
-      "title": "Making",
-      "score": 314,
-      "url": "https://beej.us/blog/data/ai-making/",
-      "time": 1784734428.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49008440"
+      "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
+      "score": 4,
+      "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
+      "time": 1784617284.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48989006"
     },
     {
       "title": "Making ASCII Art in Vim",
-      "score": 29,
+      "score": 57,
       "url": "https://alexyang.dev/vim-ascii-art/",
       "time": 1784572927.0,
       "comments_url": "https://news.ycombinator.com/item?id=48983076"
     },
     {
-      "title": "Fairphone 6 wide camera experimental Linux support",
-      "score": 93,
-      "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
-      "time": 1784751361.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49012777"
+      "title": "So Reddit has decided that plain HTML is unsafe",
+      "score": 434,
+      "url": "https://www.cole-k.com/2026/07/21/reddit/",
+      "time": 1784723568.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49005747"
     },
     {
-      "title": "Nobody knows what a used GPU cluster is worth",
-      "score": 202,
-      "url": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster",
-      "time": 1784098249.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48917135"
+      "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
+      "score": 124,
+      "url": "https://github.com/cactus-compute/cactus-hybrid",
+      "time": 1784742989.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49010782"
     },
     {
-      "title": "Petals: Run LLMs at home, BitTorrent-style",
-      "score": 89,
-      "url": "https://petals.dev/",
-      "time": 1784770392.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49015735"
+      "title": "Making",
+      "score": 342,
+      "url": "https://beej.us/blog/data/ai-making/",
+      "time": 1784734428.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49008440"
+    },
+    {
+      "title": "Medici family mystery may be solved after more than 400 years",
+      "score": 111,
+      "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
+      "time": 1784757334.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49014007"
+    },
+    {
+      "title": "The startup's Postgres survival guide",
+      "score": 393,
+      "url": "https://hatchet.run/blog/postgres-survival-guide",
+      "time": 1784723768.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49005787"
+    },
+    {
+      "title": "John C. Dvorak has died",
+      "score": 723,
+      "url": "https://twitter.com/na_announce/status/2079952538040672302",
+      "time": 1784748139.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49012070"
+    },
+    {
+      "title": "ascdraw: Editor for ASCII/UTF-8 diagrams (in 144FPS)",
+      "score": 41,
+      "url": "https://github.com/exlee/ascdraw",
+      "time": 1784579692.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48984534"
+    },
+    {
+      "title": "Malleable Computing, Emacs, and You",
+      "score": 99,
+      "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+      "time": 1784754926.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49013538"
     }
   ]
 }
