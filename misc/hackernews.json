@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-07-24T15:12:48.181486-04:00",
+  "last_updated": "2026-07-24T17:56:06.737789-04:00",
   "stories": [
     {
       "title": "Claude Opus 5",
-      "score": 713,
+      "score": 1082,
       "url": "https://www.anthropic.com/news/claude-opus-5",
       "time": 1784912261.0,
       "comments_url": "https://news.ycombinator.com/item?id=49038433"
     },
     {
       "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-      "score": 151,
+      "score": 397,
       "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
       "time": 1784899950.0,
       "comments_url": "https://news.ycombinator.com/item?id=49035303"
     },
     {
+      "title": "Postgres LISTEN/NOTIFY actually scales",
+      "score": 119,
+      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+      "time": 1784919953.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49040296"
+    },
+    {
       "title": "My security camera shipped a GitHub admin token in its login page",
-      "score": 396,
+      "score": 456,
       "url": "https://hhh.hn/hanwha-github-token/",
       "time": 1784894081.0,
       "comments_url": "https://news.ycombinator.com/item?id=49034292"
     },
     {
       "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
-      "score": 353,
+      "score": 411,
       "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
       "time": 1784515434.0,
       "comments_url": "https://news.ycombinator.com/item?id=48973835"
     },
     {
       "title": "Fil-C: Garbage In, Memory Safety Out [video]",
-      "score": 22,
+      "score": 76,
       "url": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
       "time": 1784835457.0,
       "comments_url": "https://news.ycombinator.com/item?id=49026933"
     },
     {
-      "title": "I got into YC by hacking it",
-      "score": 45,
-      "url": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
-      "time": 1784916202.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49039448"
-    },
-    {
-      "title": "Half-Life 2 running natively on HaikuOS",
-      "score": 193,
-      "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-      "time": 1784897639.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49034868"
-    },
-    {
-      "title": "Self-host your mail server",
-      "score": 27,
-      "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
-      "time": 1784810950.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49020751"
-    },
-    {
-      "title": "Postgres LISTEN/NOTIFY actually scales",
-      "score": 4,
-      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-      "time": 1784919953.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49040296"
-    },
-    {
-      "title": "Be skeptical of OpenAI's rogue hacker agent story",
-      "score": 222,
-      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "time": 1784910811.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49038060"
-    },
-    {
-      "title": "The hardest way to make a GIF",
-      "score": 18,
-      "url": "https://blog.willgrant.org/2026/07/23/the-hardest-way-to-make-gif.html",
-      "time": 1784876758.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49032126"
-    },
-    {
-      "title": "The front end framework for correctness: built on Effect, architected like Elm",
-      "score": 53,
-      "url": "https://foldkit.dev/",
-      "time": 1784906640.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49037031"
-    },
-    {
-      "title": "The rise and fall of language diversity through the Holocene",
-      "score": 39,
-      "url": "https://www.science.org/doi/10.1126/science.adx4343",
-      "time": 1784911249.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49038181"
-    },
-    {
-      "title": "DuckPGQ – A DuckDB community extension for graph workloads",
-      "score": 22,
-      "url": "https://duckpgq.org/",
-      "time": 1784912423.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49038481"
+      "title": "Marimo Now Runs in PyCharm",
+      "score": 40,
+      "url": "https://marimo.io/blog/pycharm",
+      "time": 1784715880.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49004464"
     },
     {
       "title": "Gsxui – Shadcn-style components for Go",
-      "score": 10,
+      "score": 44,
       "url": "https://ui.gsxhq.dev/",
       "time": 1784915948.0,
       "comments_url": "https://news.ycombinator.com/item?id=49039395"
     },
     {
+      "title": "Designing an Ethernet Switch ASIC",
+      "score": 29,
+      "url": "https://essenceia.github.io/projects/ethernet_switch_asic/",
+      "time": 1784583333.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48985182"
+    },
+    {
+      "title": "Half-Life 2 running natively on HaikuOS",
+      "score": 236,
+      "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
+      "time": 1784897639.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49034868"
+    },
+    {
+      "title": "What If We Made Advertising Illegal?",
+      "score": 25,
+      "url": "https://simone.org/advertising/",
+      "time": 1784923640.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49040989"
+    },
+    {
+      "title": "The Secret Origins of Amazon's Alexa",
+      "score": 16,
+      "url": "https://www.wired.com/story/how-amazon-made-alexa-smarter/",
+      "time": 1784666543.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48997998"
+    },
+    {
+      "title": "An old patent inspired the new \"Y-zipper\", a three-sided fastener",
+      "score": 68,
+      "url": "https://news.mit.edu/2026/three-sided-y-zipper-design-0504",
+      "time": 1784734645.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49008512"
+    },
+    {
+      "title": "If coding has been solved, why does software keep getting worse?",
+      "score": 346,
+      "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+      "time": 1784884097.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49033004"
+    },
+    {
+      "title": "Kimi K3 exploited the latest Redis server",
+      "score": 84,
+      "url": "https://twitter.com/fried_rice/status/2080059356322918777",
+      "time": 1784826602.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49024938"
+    },
+    {
+      "title": "Unitree As2-W",
+      "score": 73,
+      "url": "https://www.unitree.com/As2-W/",
+      "time": 1784910772.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49038045"
+    },
+    {
+      "title": "Programming language file extensions that match ISO 3166-1 alpha-2 country codes",
+      "score": 27,
+      "url": "https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/",
+      "time": 1784896468.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49034673"
+    },
+    {
+      "title": "Firefox Containers Preview",
+      "score": 163,
+      "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+      "time": 1784654879.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48995409"
+    },
+    {
       "title": "Don't Take the Black Pill [video]",
-      "score": 21,
+      "score": 81,
       "url": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
       "time": 1784911737.0,
       "comments_url": "https://news.ycombinator.com/item?id=49038298"
     },
     {
-      "title": "Extending Polars with Rust Expression Plugins",
-      "score": 18,
-      "url": "https://fenic.ai/blog/extending-polars-with-rust-expression-plugins",
-      "time": 1784669192.0,
-      "comments_url": "https://news.ycombinator.com/item?id=48998589"
-    },
-    {
-      "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
-      "score": 284,
-      "url": "https://bfl.ai/blog/flux-3-mimic",
-      "time": 1784885508.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49033127"
-    },
-    {
-      "title": "It's getting harder to focus every day",
-      "score": 610,
-      "url": "https://glyphack.com/attention/",
-      "time": 1784881110.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49032660"
-    },
-    {
-      "title": "JEP 541: Deprecate the macOS/x64 Port for Removal",
-      "score": 84,
-      "url": "https://openjdk.org/jeps/541",
-      "time": 1784911953.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49038352"
+      "title": "The footprints of every building in NYC",
+      "score": 30,
+      "url": "https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/",
+      "time": 1784550349.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48977849"
     }
   ]
 }
