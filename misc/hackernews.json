@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-07-25T17:43:47.499943-04:00",
+  "last_updated": "2026-07-25T21:53:55.683059-04:00",
   "stories": [
     {
+      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "score": 70,
+      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "time": 1785022370.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49052912"
+    },
+    {
       "title": "Stolen Buttons",
-      "score": 471,
+      "score": 571,
       "url": "https://anatolyzenkov.com/stolen-buttons",
       "time": 1784539422.0,
       "comments_url": "https://news.ycombinator.com/item?id=48976262"
     },
     {
+      "title": "Systems and Delays",
+      "score": 12,
+      "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+      "time": 1785026250.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49053382"
+    },
+    {
       "title": "The new rules of context engineering for Claude 5 generation models",
-      "score": 18,
+      "score": 163,
       "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
       "time": 1785012155.0,
       "comments_url": "https://news.ycombinator.com/item?id=49051361"
     },
     {
-      "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
-      "score": 54,
-      "url": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
-      "time": 1785007824.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49050735"
+      "title": "Clinical Failure Rates over the Decades: Yikes",
+      "score": 41,
+      "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+      "time": 1785020237.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49052628"
     },
     {
-      "title": "Android May Soon Restrict On-Device ADB",
-      "score": 829,
-      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-      "time": 1784962634.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49045159"
+      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+      "score": 125,
+      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+      "time": 1785016102.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49051947"
     },
     {
-      "title": "Did They Ghost You?",
-      "score": 15,
-      "url": "https://didtheyghostyou.com/",
-      "time": 1785010683.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49051120"
+      "title": "Cloudflare's new AI traffic options for customers",
+      "score": 28,
+      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "time": 1785019849.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49052564"
     },
     {
-      "title": "Open-weight AI is having its Kubernetes moment",
-      "score": 261,
-      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-      "time": 1784990989.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49048034"
+      "title": "SIMD for Collision",
+      "score": 53,
+      "url": "https://box2d.org/posts/2026/07/simd-for-collision/",
+      "time": 1784754599.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49013464"
     },
     {
-      "title": "Show HN: I made some transistor animations",
-      "score": 79,
-      "url": "https://brandonli.net/semisim/animations",
-      "time": 1784918226.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49039868"
-    },
-    {
-      "title": "Fly.io CEO Kurt Mackey is stepping down",
-      "score": 26,
+      "title": "Turn And Face The Strange",
+      "score": 141,
       "url": "https://fly.io/blog/kurt-scott-money-sprites/",
       "time": 1785012191.0,
       "comments_url": "https://news.ycombinator.com/item?id=49051369"
     },
     {
-      "title": "Show HN: Brolly, a plain-text weather forecast site",
-      "score": 70,
-      "url": "https://brolly.sh/forecast/RWFP2qW8",
-      "time": 1785000874.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49049693"
+      "title": "LLM Usage in Debian: Three Proposals",
+      "score": 69,
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "time": 1785008679.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49050859"
     },
     {
-      "title": "Bitchat is now on Radicle",
-      "score": 182,
-      "url": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
-      "time": 1784985529.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49047365"
+      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+      "score": 74,
+      "url": "https://github.com/slvDev/esp32-ai",
+      "time": 1785005990.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49050512"
     },
     {
-      "title": "Multicast TV Distribution on My Home Network",
-      "score": 6,
-      "url": "https://www.apalrd.net/posts/2026/isp_mcast/",
-      "time": 1785012912.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49051463"
+      "title": "Show HN: I made some transistor animations",
+      "score": 132,
+      "url": "https://brandonli.net/semisim/animations",
+      "time": 1784918226.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49039868"
+    },
+    {
+      "title": "Open-weight AI is having its Kubernetes moment",
+      "score": 310,
+      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+      "time": 1784990989.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49048034"
+    },
+    {
+      "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
+      "score": 89,
+      "url": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
+      "time": 1785007824.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49050735"
     },
     {
       "title": "Memory Safety Absolutists",
-      "score": 34,
+      "score": 58,
       "url": "https://itsallaboutthebit.com/memory-safety-absolutists/",
       "time": 1785002932.0,
       "comments_url": "https://news.ycombinator.com/item?id=49050058"
     },
     {
+      "title": "GDID Windows – Cut the tracker that follows you even under VPN",
+      "score": 104,
+      "url": "https://korben.info/en/gdid-windows-cut-tracker-vpn.html",
+      "time": 1784640131.0,
+      "comments_url": "https://news.ycombinator.com/item?id=48991984"
+    },
+    {
+      "title": "Did They Ghost You?",
+      "score": 296,
+      "url": "https://didtheyghostyou.com/",
+      "time": 1785010683.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49051120"
+    },
+    {
+      "title": "Show HN: Brolly, a plain-text weather forecast site",
+      "score": 131,
+      "url": "https://brolly.sh/forecast/RWFP2qW8",
+      "time": 1785000874.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49049693"
+    },
+    {
       "title": "Zero roadkill as Amazon canopy bridges secure 15,000 crossings",
-      "score": 219,
+      "score": 295,
       "url": "https://news.mongabay.com/2026/07/zero-roadkill-as-amazon-canopy-bridges-secure-15000-crossings/",
       "time": 1784734184.0,
       "comments_url": "https://news.ycombinator.com/item?id=49008396"
     },
     {
-      "title": "Show HN: Yorishiro – a macOS terminal where AI agents live",
-      "score": 11,
-      "url": "https://github.com/sktkkoo/Yorishiro",
-      "time": 1784734396.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49008434"
-    },
-    {
-      "title": "How My Images Are Dithered",
-      "score": 195,
-      "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
-      "time": 1784725229.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49006096"
-    },
-    {
-      "title": "Bringing PyTorch Monarch to AMD GPUs",
-      "score": 49,
-      "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
-      "time": 1784994927.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49048689"
-    },
-    {
-      "title": "The growing vigilante movement to knock out Flock surveillance cameras",
-      "score": 104,
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras",
-      "time": 1785006137.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49050538"
-    },
-    {
-      "title": "'AI Mania Is Eviscerating Global Decision-Making'",
-      "score": 11,
-      "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
-      "time": 1785014286.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49051692"
-    },
-    {
-      "title": "The Dark Night of Mathematics",
-      "score": 124,
-      "url": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
-      "time": 1784994899.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49048681"
-    },
-    {
-      "title": "Building a Tiny 3D Renderer for a Tiny Handheld",
-      "score": 215,
-      "url": "https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld",
-      "time": 1784743766.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49010993"
+      "title": "Multicast TV Distribution on My Home Network",
+      "score": 38,
+      "url": "https://www.apalrd.net/posts/2026/isp_mcast/",
+      "time": 1785012912.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49051463"
     }
   ]
 }
