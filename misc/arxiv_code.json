@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T07:08:44.951764-04:00",
+  "last_updated": "2026-07-28T09:40:22.735377-04:00",
   "papers": [
     {
       "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
@@ -93,7 +93,7 @@
     },
     {
       "title": "Adaptive Multiphysics Coupling for Hyperbolic Systems",
-      "summary": "For the discontinuous Galerkin code Trixi.jl we implement capabilities for adaptively coupling arbitrarily many domains with different physics. The coupling of the systems is realized through the exchange of boundary information and user-definable coupling functions. This gives us the ability to couple systems that do not share a single variable or have a very different number of variables. This is particularly useful when we have a hierarchy of systems. Our implementation is such that we can adaptively select the model of the coupled systems in the course of the simulation. This allows for highly dynamical scenarios as can be found e.g. in astrophysics. The criteria for adaptivity can be user defined and tailored to the physical problem. Compared to computing the most complex model in the entire simulation domain, our method of coupled systems of high and low complexity leads to a significant reduction in computational time with very little overhead.",
+      "summary": "For the discontinuous Galerkin code Trixi$.$jl we implement capabilities for adaptively coupling arbitrarily many domains with different physics. The coupling of the systems is realized through the exchange of boundary information and user-definable coupling functions. This gives us the ability to couple systems that do not share a single variable or have a very different number of variables. This is particularly useful when we have a hierarchy of systems. Our implementation is such that we can adaptively select the model of the coupled systems in the course of the simulation. This allows for highly dynamical scenarios as can be found e.g. in astrophysics. The criteria for adaptivity can be user defined and tailored to the physical problem. Compared to computing the most complex model in the entire simulation domain, our method of coupled systems of high and low complexity leads to a significant reduction in computational time with very little overhead.",
       "url": "http://arxiv.org/abs/2607.24600v1",
       "published_time_eastern_timestamp": 1785168226.0
     },
