@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-07-27T21:44:05.225791-04:00",
+  "last_updated": "2026-07-28T01:38:01.610229-04:00",
   "stories": [
     {
       "title": "Our position on open-weights models",
-      "score": 445,
+      "score": 674,
       "url": "https://www.anthropic.com/news/position-open-weights-models",
       "time": 1785189829.0,
       "comments_url": "https://news.ycombinator.com/item?id=49076057"
     },
     {
+      "title": "Using an open model feels surprisingly good",
+      "score": 156,
+      "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+      "time": 1785206234.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49078583"
+    },
+    {
+      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+      "score": 90,
+      "url": "https://fermisense.com/when-machines-take-the-wheel/",
+      "time": 1785205133.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49078454"
+    },
+    {
       "title": "Benchmarking Opus 5 on SlopCodeBench",
-      "score": 113,
+      "score": 210,
       "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
       "time": 1785191872.0,
       "comments_url": "https://news.ycombinator.com/item?id=49076391"
     },
     {
-      "title": "DConf 2026 in London",
-      "score": 44,
-      "url": "https://dconf.org/2026/index.html",
-      "time": 1785194059.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49076840"
-    },
-    {
-      "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
-      "score": 39,
-      "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
-      "time": 1785194359.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49076900"
-    },
-    {
-      "title": "Watching Go's new garbage collector move through the heap",
-      "score": 171,
-      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
-      "time": 1784966119.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49045474"
-    },
-    {
-      "title": "C/C++ projects packaged for Zig",
-      "score": 25,
-      "url": "https://github.com/allyourcodebase",
-      "time": 1785193790.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49076791"
-    },
-    {
-      "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
-      "score": 60,
-      "url": "https://www.rise-reforming.com",
-      "time": 1785182302.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49074817"
-    },
-    {
-      "title": "The Burau representation of the braid group is faithful for n = 4",
-      "score": 13,
-      "url": "https://arxiv.org/abs/2607.05283",
-      "time": 1785195975.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49077209"
-    },
-    {
-      "title": "Three Theses on the Literacy Crisis",
-      "score": 10,
-      "url": "https://trevoraleo.substack.com/p/three-theses-on-the-literacy-crisis",
-      "time": 1785002759.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49050021"
-    },
-    {
-      "title": "Self-contained highly-portable Python distributions",
-      "score": 112,
-      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-      "time": 1785177811.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49073942"
-    },
-    {
-      "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
-      "score": 151,
-      "url": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
-      "time": 1784812132.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49020993"
-    },
-    {
-      "title": "Securing Services with Rootless Containers",
-      "score": 60,
-      "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
-      "time": 1784812290.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49021024"
-    },
-    {
-      "title": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
-      "score": 68,
-      "url": "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
-      "time": 1784812206.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49021007"
-    },
-    {
-      "title": "A missing underscore sent innocent man to prison for 18 months",
-      "score": 134,
-      "url": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
-      "time": 1785190215.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49076116"
-    },
-    {
-      "title": "Hard Road – A beautiful procedural post-apocalyptic game",
-      "score": 29,
-      "url": "https://hardroad.xyz/",
-      "time": 1785191815.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49076382"
-    },
-    {
-      "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
-      "score": 226,
-      "url": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
-      "time": 1785146330.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49067301"
-    },
-    {
-      "title": "The computer that helped win World War II",
-      "score": 174,
-      "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
-      "time": 1784749244.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49012309"
+      "title": "Why do we think we understand the world more than we actually do?",
+      "score": 18,
+      "url": "https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth",
+      "time": 1785211241.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49079175"
     },
     {
       "title": "RTX 2080 Ti Memory Upgrade to 22 GB",
-      "score": 5,
+      "score": 71,
       "url": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
       "time": 1784925321.0,
       "comments_url": "https://news.ycombinator.com/item?id=49041256"
     },
     {
-      "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
-      "score": 135,
-      "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
-      "time": 1785164896.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49070756"
+      "title": "Neutrino-1 8B",
+      "score": 4,
+      "url": "https://www.fermionresearch.com/models/neutrino-8b/",
+      "time": 1785214194.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49079490"
     },
     {
-      "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
-      "score": 260,
-      "url": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
-      "time": 1785176135.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49073513"
+      "title": "Residential Proxies Are a National Security Threat",
+      "score": 53,
+      "url": "https://jacob.gold/posts/residential-proxies-are-a-national-security-threat/",
+      "time": 1785203478.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49078266"
+    },
+    {
+      "title": "Watching Go's new garbage collector move through the heap",
+      "score": 192,
+      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+      "time": 1784966119.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49045474"
+    },
+    {
+      "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
+      "score": 148,
+      "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
+      "time": 1785194359.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49076900"
+    },
+    {
+      "title": "EYG: A Programming Language for Humans",
+      "score": 45,
+      "url": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
+      "time": 1785205297.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49078463"
+    },
+    {
+      "title": "DConf 2026 in London",
+      "score": 69,
+      "url": "https://dconf.org/2026/index.html",
+      "time": 1785194059.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49076840"
+    },
+    {
+      "title": "C/C++ projects packaged for Zig",
+      "score": 44,
+      "url": "https://github.com/allyourcodebase",
+      "time": 1785193790.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49076791"
+    },
+    {
+      "title": "PyTorch: A Reference Language",
+      "score": 3,
+      "url": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
+      "time": 1785213960.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49079454"
+    },
+    {
+      "title": "Vehicle Motion Cues",
+      "score": 41,
+      "url": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
+      "time": 1785201206.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49077999"
+    },
+    {
+      "title": "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download",
+      "score": 37,
+      "url": "https://github.com/FrigadeHQ/yap",
+      "time": 1785177362.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49073834"
+    },
+    {
+      "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+      "score": 65,
+      "url": "https://www.rise-reforming.com",
+      "time": 1785182302.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49074817"
+    },
+    {
+      "title": "The age of token efficiency, the age of libraries",
+      "score": 10,
+      "url": "https://golemui.com/blog/the-age-of-token-efficiency/",
+      "time": 1785210968.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49079146"
+    },
+    {
+      "title": "An Uncomplicated Man",
+      "score": 26,
+      "url": "https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man",
+      "time": 1785206128.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49078575"
+    },
+    {
+      "title": "Three Theses on the Literacy Crisis",
+      "score": 38,
+      "url": "https://trevoraleo.substack.com/p/three-theses-on-the-literacy-crisis",
+      "time": 1785002759.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49050021"
     }
   ]
 }
