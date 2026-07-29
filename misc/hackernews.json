@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-07-29T09:46:16.561789-04:00",
+  "last_updated": "2026-07-29T12:15:06.258135-04:00",
   "stories": [
     {
+      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "score": 121,
+      "url": "https://github.com/drumih/turbo-fieldfare",
+      "time": 1785337543.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49098510"
+    },
+    {
       "title": "KOReader",
-      "score": 219,
+      "score": 455,
       "url": "https://koreader.rocks/",
       "time": 1785323108.0,
       "comments_url": "https://news.ycombinator.com/item?id=49095865"
     },
     {
       "title": "Handbook.md shows that long policy documents do not reliably govern agents",
-      "score": 28,
+      "score": 165,
       "url": "https://arxiv.org/abs/2607.25398",
       "time": 1785330117.0,
       "comments_url": "https://news.ycombinator.com/item?id=49096969"
     },
     {
+      "title": "Hugging Face: Anatomy of a frontier-lab agent intrusion",
+      "score": 36,
+      "url": "https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html",
+      "time": 1785337312.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49098466"
+    },
+    {
+      "title": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem",
+      "score": 55,
+      "url": "https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/",
+      "time": 1785329298.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49096811"
+    },
+    {
+      "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+      "score": 6,
+      "url": "https://usetokenless.com/",
+      "time": 1785340527.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49099143"
+    },
+    {
+      "title": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
+      "score": 72,
+      "url": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/",
+      "time": 1785113925.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49063983"
+    },
+    {
+      "title": "Hamburg's Stadtpark: A Park Built to Be Used",
+      "score": 10,
+      "url": "https://alsterrunde.com/hamburgs-stadtpark-a-park-built-to-be-used/",
+      "time": 1785133426.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49065785"
+    },
+    {
+      "title": "Cesium DevCon 2026 talks are up, including a keynote from SQLite's creator",
+      "score": 11,
+      "url": "https://cesium.com/events/cesium-developer-conference/2026/",
+      "time": 1785338005.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49098599"
+    },
+    {
       "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-      "score": 126,
+      "score": 197,
       "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
       "time": 1785325473.0,
       "comments_url": "https://news.ycombinator.com/item?id=49096188"
     },
     {
-      "title": "After the AI Crash",
-      "score": 24,
-      "url": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/",
-      "time": 1785330039.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49096953"
-    },
-    {
-      "title": "Show HN: Bullshit Detector – agent skills that fact-check videos and articles",
-      "score": 20,
-      "url": "https://github.com/SerhiiKorniienko/bullshit-detector",
-      "time": 1785329907.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49096917"
-    },
-    {
       "title": "More Tailscale tricks for your jailbroken Kindle",
-      "score": 285,
+      "score": 341,
       "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
       "time": 1785301126.0,
       "comments_url": "https://news.ycombinator.com/item?id=49093569"
     },
     {
+      "title": "Self-hosting Kimi K3: 20% more hardware cost, 20% better task resolution",
+      "score": 14,
+      "url": "https://aistack.imec-int.com/blog/gpu-self-hosting",
+      "time": 1785335915.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49098130"
+    },
+    {
+      "title": "Darktable",
+      "score": 123,
+      "url": "https://www.darktable.org/",
+      "time": 1785328382.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49096654"
+    },
+    {
       "title": "Amiga Graphics Archive",
-      "score": 65,
+      "score": 110,
       "url": "https://amiga.lychesis.net/index.html",
       "time": 1785320384.0,
       "comments_url": "https://news.ycombinator.com/item?id=49095511"
     },
     {
-      "title": "SpecForge – A Platform for Authoring Formal Specifications",
-      "score": 42,
-      "url": "https://docs.imiron.io/v/0.5.10/en/tour.html",
-      "time": 1785321319.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49095628"
+      "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
+      "score": 20,
+      "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
+      "time": 1785336988.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49098388"
     },
     {
       "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
-      "score": 15,
+      "score": 55,
       "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
       "time": 1785327078.0,
       "comments_url": "https://news.ycombinator.com/item?id=49096427"
     },
     {
-      "title": "A Texture Lookup Approach to Bézier Curve Evaluation on the GPU (JCGT)",
-      "score": 11,
-      "url": "https://jcgt.org/published/0015/02/01/",
-      "time": 1785328813.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49096742"
-    },
-    {
       "title": "User Interfaces of the Demo Scene",
-      "score": 289,
+      "score": 342,
       "url": "https://www.datagubbe.se/scenegui/",
       "time": 1785299436.0,
       "comments_url": "https://news.ycombinator.com/item?id=49093434"
     },
     {
+      "title": "Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon",
+      "score": 13,
+      "url": "https://github.com/VladUZH/qwen-scribe",
+      "time": 1785336442.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49098260"
+    },
+    {
       "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
-      "score": 133,
+      "score": 192,
       "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
       "time": 1785309504.0,
       "comments_url": "https://news.ycombinator.com/item?id=49094346"
     },
     {
-      "title": "Codex Security",
-      "score": 545,
-      "url": "https://github.com/openai/codex-security",
-      "time": 1785271975.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49089755"
-    },
-    {
-      "title": "Lisp moving Forth moving Lisp",
-      "score": 63,
-      "url": "https://letoverlambda.com/textmode.cl/guest/chap8.html",
-      "time": 1785087453.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49060363"
-    },
-    {
-      "title": "French musician Kavinsky found dead",
-      "score": 112,
-      "url": "https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home",
-      "time": 1785326077.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49096290"
-    },
-    {
-      "title": "Show HN: Echologue – the private AI voice journal I built for myself",
-      "score": 7,
-      "url": "https://echologue.com/",
-      "time": 1785329016.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49096767"
-    },
-    {
-      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-      "score": 365,
-      "url": "https://github.com/twalichiewicz/HNewhere",
-      "time": 1785276546.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49090607"
-    },
-    {
-      "title": "Ancient Rome's version of Google Maps: how long to reach the beach",
-      "score": 40,
-      "url": "https://www.euronews.com/culture/2026/07/02/ancient-romes-version-of-google-maps-how-long-to-reach-the-beach",
-      "time": 1784751278.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49012754"
-    },
-    {
-      "title": "Substack writers, you need a website",
-      "score": 593,
-      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-      "time": 1785257911.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49086788"
-    },
-    {
-      "title": "Pulse Path – a browser puzzle where placement is the only decision",
-      "score": 6,
-      "url": "https://pulsepathgame.netlify.app/",
-      "time": 1785327570.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49096493"
+      "title": "AI in Linux",
+      "score": 14,
+      "url": "https://drewdevault.com/blog/AI-in-Linux/",
+      "time": 1785333603.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49097649"
     }
   ]
 }
