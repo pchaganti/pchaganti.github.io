@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-07-28T17:55:36.661436-04:00",
+  "last_updated": "2026-07-28T21:45:56.170459-04:00",
   "stories": [
     {
-      "title": "OpenAI just open-sourced Codex Security",
-      "score": 131,
+      "title": "Codex Security",
+      "score": 340,
       "url": "https://github.com/openai/codex-security",
       "time": 1785271975.0,
       "comments_url": "https://news.ycombinator.com/item?id=49089755"
     },
     {
-      "title": "Substack writers, you need a website",
-      "score": 325,
-      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-      "time": 1785257911.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49086788"
-    },
-    {
       "title": "Half-Life ported to Mac OS 9",
-      "score": 27,
+      "score": 143,
       "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
       "time": 1785272319.0,
       "comments_url": "https://news.ycombinator.com/item?id=49089814"
     },
     {
-      "title": "Running Kimi K3 on a M1 Mac",
-      "score": 8,
-      "url": "https://github.com/gavamedia/deltafin",
-      "time": 1785274519.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49090233"
+      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "score": 119,
+      "url": "https://github.com/twalichiewicz/HNewhere",
+      "time": 1785276546.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49090607"
+    },
+    {
+      "title": "Substack writers, you need a website",
+      "score": 415,
+      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+      "time": 1785257911.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49086788"
+    },
+    {
+      "title": "The Difference Between a Button and a Link",
+      "score": 28,
+      "url": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
+      "time": 1785283934.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49091738"
+    },
+    {
+      "title": "Teach yourself programming in ten years (1998)",
+      "score": 36,
+      "url": "https://www.norvig.com/21-days.html",
+      "time": 1785053205.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49055816"
+    },
+    {
+      "title": "Hubble: Open-source notetaking app for you and your agents",
+      "score": 26,
+      "url": "https://www.hubble.md/",
+      "time": 1785283883.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49091730"
     },
     {
       "title": "Steel Bank Common Lisp version 2.6.7",
-      "score": 155,
+      "score": 196,
       "url": "https://sbcl.org/all-news.html?2.6.7",
       "time": 1785258714.0,
       "comments_url": "https://news.ycombinator.com/item?id=49086971"
     },
     {
-      "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
-      "score": 101,
-      "url": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
-      "time": 1785260232.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49087306"
+      "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
+      "score": 10,
+      "url": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
+      "time": 1785285128.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49091895"
+    },
+    {
+      "title": "ReFrame – The EPaper Camera",
+      "score": 25,
+      "url": "https://reframe.camera/",
+      "time": 1785281229.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49091379"
     },
     {
       "title": "Kimi K3 Architecture Overview and Notes",
-      "score": 229,
+      "score": 310,
       "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
       "time": 1785253714.0,
       "comments_url": "https://news.ycombinator.com/item?id=49085698"
     },
     {
-      "title": "MCP 2026-07-28 Specification: transport going stateless",
-      "score": 81,
-      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
-      "time": 1785263711.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49088058"
-    },
-    {
       "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
-      "score": 195,
+      "score": 237,
       "url": "https://www.slow-journalism.com/",
       "time": 1785253838.0,
       "comments_url": "https://news.ycombinator.com/item?id=49085731"
     },
     {
+      "title": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
+      "score": 5,
+      "url": "https://andreadimatteo.com/md-to-html-compiler.html",
+      "time": 1785287070.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49092151"
+    },
+    {
+      "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
+      "score": 139,
+      "url": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
+      "time": 1785260232.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49087306"
+    },
+    {
       "title": "Zig's Incremental Compilation Internals",
-      "score": 154,
+      "score": 194,
       "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
       "time": 1785253605.0,
       "comments_url": "https://news.ycombinator.com/item?id=49085666"
     },
     {
-      "title": "The Fabled Flatbreads of Uzbekistan (2015)",
-      "score": 49,
-      "url": "https://www.aramcoworld.com/articles/2015/the-fabled-flatbreads-of-uzbekistan",
-      "time": 1784904237.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49036460"
+      "title": "Pacing the frontier",
+      "score": 82,
+      "url": "https://www.pacingthefrontier.com/",
+      "time": 1785269349.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49089240"
+    },
+    {
+      "title": "Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]",
+      "score": 5,
+      "url": "https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf",
+      "time": 1785285866.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49091994"
     },
     {
       "title": "Discovering Cryptographic Weaknesses with Claude",
-      "score": 126,
+      "score": 180,
       "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
       "time": 1785259336.0,
       "comments_url": "https://news.ycombinator.com/item?id=49087091"
     },
     {
-      "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
-      "score": 8,
-      "url": "https://github.com/anthropics/cryptography-research-demo",
-      "time": 1785273768.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49090083"
-    },
-    {
-      "title": "Interview with Boris Cherny [video]",
-      "score": 21,
-      "url": "https://www.youtube.com/watch?v=qyPCVqFUyDo",
-      "time": 1785195184.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49077040"
-    },
-    {
-      "title": "How Do I Profile eBPF Code?",
-      "score": 99,
-      "url": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
-      "time": 1785254144.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49085811"
-    },
-    {
-      "title": "Recursion is lying to you",
-      "score": 18,
-      "url": "https://blog.gaborkoos.com/posts/2026-05-09-Your-Recursion-Is-Lying-to-You/",
-      "time": 1785270051.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49089406"
-    },
-    {
-      "title": "New HIV vaccine shows unprecedented success in preclinical study",
-      "score": 494,
-      "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-      "time": 1785244321.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49083314"
-    },
-    {
-      "title": "Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library",
-      "score": 96,
-      "url": "https://github.com/reflex-dev/xy",
-      "time": 1785254095.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49085798"
+      "title": "The Fabled Flatbreads of Uzbekistan (2015)",
+      "score": 79,
+      "url": "https://www.aramcoworld.com/articles/2015/the-fabled-flatbreads-of-uzbekistan",
+      "time": 1784904237.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49036460"
     },
     {
       "title": "Show HN: How far do I have to go to run into 100k people?",
-      "score": 14,
+      "score": 47,
       "url": "https://imjasonh.github.io/playground/population-rays/",
       "time": 1784842408.0,
       "comments_url": "https://news.ycombinator.com/item?id=49028358"
-    },
-    {
-      "title": "Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",
-      "score": 257,
-      "url": "https://arxiv.org/abs/2510.26692",
-      "time": 1785235950.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49082022"
     }
   ]
 }
