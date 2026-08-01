@@ -1,82 +1,138 @@
 {
-  "last_updated": "2026-08-01T11:52:57.679638-04:00",
+  "last_updated": "2026-08-01T14:55:09.806553-04:00",
   "stories": [
     {
-      "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
-      "score": 105,
-      "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
-      "time": 1785593991.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49134694"
+      "title": "NetBSD 11.0 Released",
+      "score": 44,
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+      "time": 1785607001.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49136736"
     },
     {
       "title": "The Art of 64-bit Assembly",
-      "score": 40,
+      "score": 109,
       "url": "https://nostarch.com/art-64-bit-assembly-v2",
       "time": 1785593340.0,
       "comments_url": "https://news.ycombinator.com/item?id=49134599"
     },
     {
+      "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
+      "score": 27,
+      "url": "https://kaisel.dev/",
+      "time": 1785602740.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49135985"
+    },
+    {
+      "title": "Explorative modeling: Train on the best of K guesses",
+      "score": 44,
+      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
+      "time": 1785597795.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49135245"
+    },
+    {
+      "title": "Pgtestdb's template cloning approach to testing is fast",
+      "score": 37,
+      "url": "https://brandur.org/fragments/pgtestdb",
+      "time": 1785600082.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49135546"
+    },
+    {
       "title": "RipGrep musl binaries occasionally segfault during very-large searches",
-      "score": 132,
+      "score": 200,
       "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
       "time": 1785587665.0,
       "comments_url": "https://news.ycombinator.com/item?id=49133889"
     },
     {
-      "title": "Linux on ESP32",
-      "score": 26,
-      "url": "https://github.com/GrieferPig/esp32-s31-linux",
-      "time": 1785261120.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49087499"
+      "title": "Postmortem for Kernel Soundness Bug #14576",
+      "score": 5,
+      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+      "time": 1785609140.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49137060"
     },
     {
-      "title": "Charlie Stross – On the non-use of AI in my writing process",
-      "score": 17,
-      "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-      "time": 1785589014.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49134038"
+      "title": "Cursor removed cost information from the usage page and CSV export",
+      "score": 202,
+      "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+      "time": 1785597921.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49135257"
     },
     {
-      "title": "Elevators",
-      "score": 1485,
-      "url": "https://john.fun/elevators",
-      "time": 1785511048.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49124218"
+      "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
+      "score": 189,
+      "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
+      "time": 1785593991.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49134694"
     },
     {
-      "title": "Manual: •.,:;?·",
-      "score": 78,
-      "url": "https://type.today/en/journal/dots",
-      "time": 1785373542.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49105013"
+      "title": "Rear center fuel tank adds roughly 20k liters and extends range by 1k NM",
+      "score": 35,
+      "url": "https://www.airbus.com/en/newsroom/press-releases/2026-06-worlds-longest-range-aircraft-the-airbus-a350-1000ulr-takes-to-the-skies",
+      "time": 1785252428.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49085369"
+    },
+    {
+      "title": "A directory of people who love RSS",
+      "score": 110,
+      "url": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
+      "time": 1785603161.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49136063"
+    },
+    {
+      "title": "Register deprivation: spills and runtime under forced register scarcity",
+      "score": 14,
+      "url": "https://rjp.io/blog/2026-07-19-register-deprivation",
+      "time": 1785414030.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49109019"
+    },
+    {
+      "title": "Tell HN: I hate your fuzzy search",
+      "score": 21,
+      "url": "https://news.ycombinator.com/item?id=49136990",
+      "time": 1785608700.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49136990"
     },
     {
       "title": "Flint: A Visualization Language for the AI Era",
-      "score": 213,
+      "score": 230,
       "url": "https://microsoft.github.io/flint-chart/",
       "time": 1785552309.0,
       "comments_url": "https://news.ycombinator.com/item?id=49130604"
     },
     {
-      "title": "Study uncovers lost 'golden age' of languages",
-      "score": 13,
-      "url": "https://news.yale.edu/2026/07/23/study-uncovers-lost-golden-age-languages",
-      "time": 1785376723.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49105331"
+      "title": "Manual: •.,:;…!?·",
+      "score": 93,
+      "url": "https://type.today/en/journal/dots",
+      "time": 1785373542.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49105013"
+    },
+    {
+      "title": "BMW Is Showing Commercials on Their Car's Dash Screens as a Treat",
+      "score": 57,
+      "url": "https://www.theautopian.com/bmw-is-showing-commercials-on-their-cars-dash-screens-and-they-want-you-to-think-its-a-treat/",
+      "time": 1785599890.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49135511"
+    },
+    {
+      "title": "Franken.domains: Stitched-Together Domains, Because Every .com Is Taken",
+      "score": 10,
+      "url": "https://franken.domains/",
+      "time": 1785602689.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49135975"
+    },
+    {
+      "title": "qm – Multiplayer agent harness for work",
+      "score": 635,
+      "url": "https://github.com/yc-software/qm",
+      "time": 1785521098.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49126604"
     },
     {
       "title": "Solid Queue 1.6.0 now supports fiber workers",
-      "score": 63,
+      "score": 76,
       "url": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
       "time": 1785570128.0,
       "comments_url": "https://news.ycombinator.com/item?id=49132083"
-    },
-    {
-      "title": "RamenHaus",
-      "score": 159,
-      "url": "https://ramen.haus/",
-      "time": 1785574138.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49132460"
     },
     {
       "title": "Kontigo (YC S24) Is Hiring",
@@ -84,62 +140,6 @@
       "url": "https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer",
       "time": 1785585625.0,
       "comments_url": "https://news.ycombinator.com/item?id=49133655"
-    },
-    {
-      "title": "qm – Multiplayer agent harness for work",
-      "score": 622,
-      "url": "https://github.com/yc-software/qm",
-      "time": 1785521098.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49126604"
-    },
-    {
-      "title": "A tiny holdout building in the middle of Macy’s is back in view",
-      "score": 131,
-      "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
-      "time": 1785283005.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49091614"
-    },
-    {
-      "title": "Astro Loop",
-      "score": 19,
-      "url": "https://pubdeer.com/",
-      "time": 1785586668.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49133777"
-    },
-    {
-      "title": "How to Do Great Work (2023)",
-      "score": 77,
-      "url": "https://paulgraham.com/greatwork.html",
-      "time": 1785572384.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49132289"
-    },
-    {
-      "title": "How to Exist",
-      "score": 302,
-      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-      "time": 1785543900.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49129990"
-    },
-    {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "score": 276,
-      "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "time": 1785569864.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49132058"
-    },
-    {
-      "title": "Software for One",
-      "score": 181,
-      "url": "https://www.ajwaxman.com/writing/software-for-one",
-      "time": 1785328160.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49096605"
-    },
-    {
-      "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
-      "score": 296,
-      "url": "https://github.com/sqliteai/waste",
-      "time": 1785507158.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49123386"
     }
   ]
 }
