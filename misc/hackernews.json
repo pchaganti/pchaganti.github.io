@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-08-01T06:26:42.205625-04:00",
+  "last_updated": "2026-08-01T08:57:47.237386-04:00",
   "stories": [
     {
-      "title": "AI doesn't generate working products, that's still your job",
-      "score": 68,
-      "url": "https://weeraman.com/the-prototype-isnt-the-product/",
-      "time": 1785570730.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49132130"
-    },
-    {
-      "title": "RamenHaus",
-      "score": 78,
-      "url": "https://ramen.haus/",
-      "time": 1785574138.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49132460"
+      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+      "score": 26,
+      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+      "time": 1785587665.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49133889"
     },
     {
       "title": "Elevators",
-      "score": 1309,
+      "score": 1387,
       "url": "https://john.fun/elevators",
       "time": 1785511048.0,
       "comments_url": "https://news.ycombinator.com/item?id=49124218"
     },
     {
       "title": "Flint: A Visualization Language for the AI Era",
-      "score": 125,
+      "score": 153,
       "url": "https://microsoft.github.io/flint-chart/",
       "time": 1785552309.0,
       "comments_url": "https://news.ycombinator.com/item?id=49130604"
     },
     {
-      "title": "Solid Queue 1.6.0 now supports fiber workers",
-      "score": 15,
-      "url": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
-      "time": 1785570128.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49132083"
-    },
-    {
-      "title": "qm – Multiplayer agent harness for work",
-      "score": 577,
-      "url": "https://github.com/yc-software/qm",
-      "time": 1785521098.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49126604"
-    },
-    {
-      "title": "How to Exist",
-      "score": 211,
-      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-      "time": 1785543900.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49129990"
-    },
-    {
-      "title": "How to Do Great Work",
-      "score": 15,
+      "title": "How to Do Great Work (2023)",
+      "score": 48,
       "url": "https://paulgraham.com/greatwork.html",
       "time": 1785572384.0,
       "comments_url": "https://news.ycombinator.com/item?id=49132289"
     },
     {
+      "title": "qm – Multiplayer agent harness for work",
+      "score": 594,
+      "url": "https://github.com/yc-software/qm",
+      "time": 1785521098.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49126604"
+    },
+    {
+      "title": "Manual: •.,:;?·",
+      "score": 23,
+      "url": "https://type.today/en/journal/dots",
+      "time": 1785373542.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49105013"
+    },
+    {
+      "title": "Kontigo (YC S24) Is Hiring",
+      "score": 1,
+      "url": "https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer",
+      "time": 1785585625.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49133655"
+    },
+    {
+      "title": "How to Exist",
+      "score": 250,
+      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+      "time": 1785543900.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49129990"
+    },
+    {
       "title": "The development pipeline is a production system",
-      "score": 84,
+      "score": 102,
       "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
       "time": 1785554169.0,
       "comments_url": "https://news.ycombinator.com/item?id=49130726"
     },
     {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "score": 110,
-      "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "time": 1785569864.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49132058"
-    },
-    {
-      "title": "Software for One",
-      "score": 117,
-      "url": "https://www.ajwaxman.com/writing/software-for-one",
-      "time": 1785328160.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49096605"
-    },
-    {
-      "title": "G'mic 4.0: Squaring the Pixel, Easier",
-      "score": 22,
-      "url": "https://gmic.eu/gmic40/",
-      "time": 1785329500.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49096847"
-    },
-    {
-      "title": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide",
-      "score": 40,
-      "url": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
-      "time": 1785198405.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49077646"
-    },
-    {
       "title": "A tiny holdout building in the middle of Macy’s is back in view",
-      "score": 29,
+      "score": 62,
       "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
       "time": 1785283005.0,
       "comments_url": "https://news.ycombinator.com/item?id=49091614"
     },
     {
-      "title": "Ten Ways NAS Is Getting Enshitified",
-      "score": 95,
-      "url": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
-      "time": 1785562696.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49131367"
+      "title": "Solid Queue 1.6.0 now supports fiber workers",
+      "score": 27,
+      "url": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
+      "time": 1785570128.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49132083"
     },
     {
-      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "score": 521,
-      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
-      "time": 1785482962.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49120097"
+      "title": "G'mic 4.0: Squaring the Pixel, Easier",
+      "score": 42,
+      "url": "https://gmic.eu/gmic40/",
+      "time": 1785329500.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49096847"
+    },
+    {
+      "title": "RamenHaus",
+      "score": 121,
+      "url": "https://ramen.haus/",
+      "time": 1785574138.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49132460"
+    },
+    {
+      "title": "Software for One",
+      "score": 142,
+      "url": "https://www.ajwaxman.com/writing/software-for-one",
+      "time": 1785328160.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49096605"
     },
     {
       "title": "The Absurdity of Albert Camus",
-      "score": 126,
+      "score": 146,
       "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
       "time": 1785453677.0,
       "comments_url": "https://news.ycombinator.com/item?id=49117089"
     },
     {
-      "title": "EU will mandate labels on authentic-looking AI content starting August 2",
-      "score": 26,
-      "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
-      "time": 1785572815.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49132341"
-    },
-    {
       "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
-      "score": 253,
+      "score": 270,
       "url": "https://github.com/sqliteai/waste",
       "time": 1785507158.0,
       "comments_url": "https://news.ycombinator.com/item?id=49123386"
     },
     {
+      "title": "AI doesn't generate working products, that's still your job",
+      "score": 200,
+      "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+      "time": 1785570730.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49132130"
+    },
+    {
       "title": "AWS Secrets Manager Terraform: Least-Privilege Access",
-      "score": 8,
+      "score": 22,
       "url": "https://blog.victorsilva.com.uy/aws-secrets-manager-terraform-least-privilege/",
       "time": 1785243645.0,
       "comments_url": "https://news.ycombinator.com/item?id=49083141"
+    },
+    {
+      "title": "The First Idempotency Key",
+      "score": 7,
+      "url": "https://hatchet.run/blog/first-idempotency-key",
+      "time": 1785243891.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49083207"
+    },
+    {
+      "title": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide",
+      "score": 48,
+      "url": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
+      "time": 1785198405.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49077646"
     }
   ]
 }
