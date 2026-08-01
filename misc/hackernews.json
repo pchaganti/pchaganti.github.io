@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-08-01T14:55:09.806553-04:00",
+  "last_updated": "2026-08-01T17:44:13.166054-04:00",
   "stories": [
     {
-      "title": "NetBSD 11.0 Released",
-      "score": 44,
-      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-      "time": 1785607001.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49136736"
+      "title": "How Google helped destroy adoption of RSS feeds (2023)",
+      "score": 177,
+      "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+      "time": 1785607627.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49136821"
+    },
+    {
+      "title": "The Silicon Valley Founder Meat Grinder",
+      "score": 85,
+      "url": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
+      "time": 1785615658.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49138045"
+    },
+    {
+      "title": "Diátaxis",
+      "score": 47,
+      "url": "https://diataxis.fr/",
+      "time": 1785616407.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49138188"
+    },
+    {
+      "title": "Postmortem for Kernel Soundness Bug #14576",
+      "score": 83,
+      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+      "time": 1785609140.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49137060"
     },
     {
       "title": "The Art of 64-bit Assembly",
-      "score": 109,
+      "score": 152,
       "url": "https://nostarch.com/art-64-bit-assembly-v2",
       "time": 1785593340.0,
       "comments_url": "https://news.ycombinator.com/item?id=49134599"
     },
     {
+      "title": "But can your calculator run Linux?",
+      "score": 29,
+      "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+      "time": 1785613488.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49137713"
+    },
+    {
+      "title": "The 14 Steps it takes to open my office door with a new phone",
+      "score": 4,
+      "url": "https://shub.club/writings/2026/august/14-steps-to-open-a-door/",
+      "time": 1785620247.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49138731"
+    },
+    {
+      "title": "CISA Alert: Water Sector PLC Targeting",
+      "score": 24,
+      "url": "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/",
+      "time": 1785610217.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49137228"
+    },
+    {
+      "title": "Just because a game is on disc doesn't mean it will work in the future",
+      "score": 42,
+      "url": "https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/",
+      "time": 1785484248.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49120230"
+    },
+    {
+      "title": "NetBSD 11.0",
+      "score": 156,
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+      "time": 1785607001.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49136736"
+    },
+    {
       "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
-      "score": 27,
+      "score": 45,
       "url": "https://kaisel.dev/",
       "time": 1785602740.0,
       "comments_url": "https://news.ycombinator.com/item?id=49135985"
     },
     {
+      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+      "score": 229,
+      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+      "time": 1785587665.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49133889"
+    },
+    {
       "title": "Explorative modeling: Train on the best of K guesses",
-      "score": 44,
+      "score": 61,
       "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
       "time": 1785597795.0,
       "comments_url": "https://news.ycombinator.com/item?id=49135245"
     },
     {
       "title": "Pgtestdb's template cloning approach to testing is fast",
-      "score": 37,
+      "score": 53,
       "url": "https://brandur.org/fragments/pgtestdb",
       "time": 1785600082.0,
       "comments_url": "https://news.ycombinator.com/item?id=49135546"
     },
     {
-      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
-      "score": 200,
-      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
-      "time": 1785587665.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49133889"
-    },
-    {
-      "title": "Postmortem for Kernel Soundness Bug #14576",
-      "score": 5,
-      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-      "time": 1785609140.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49137060"
-    },
-    {
-      "title": "Cursor removed cost information from the usage page and CSV export",
-      "score": 202,
-      "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-      "time": 1785597921.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49135257"
+      "title": "Nyctography: A substituton cypher by Lewis Carroll",
+      "score": 23,
+      "url": "https://en.wikipedia.org/wiki/Nyctography",
+      "time": 1785234602.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49081851"
     },
     {
       "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
-      "score": 189,
+      "score": 229,
       "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
       "time": 1785593991.0,
       "comments_url": "https://news.ycombinator.com/item?id=49134694"
     },
     {
-      "title": "Rear center fuel tank adds roughly 20k liters and extends range by 1k NM",
-      "score": 35,
-      "url": "https://www.airbus.com/en/newsroom/press-releases/2026-06-worlds-longest-range-aircraft-the-airbus-a350-1000ulr-takes-to-the-skies",
-      "time": 1785252428.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49085369"
+      "title": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+      "score": 15,
+      "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
+      "time": 1785608501.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49136955"
     },
     {
-      "title": "A directory of people who love RSS",
-      "score": 110,
-      "url": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
-      "time": 1785603161.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49136063"
+      "title": "Cursor removed cost information from the usage page and CSV export",
+      "score": 262,
+      "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+      "time": 1785597921.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49135257"
     },
     {
-      "title": "Register deprivation: spills and runtime under forced register scarcity",
-      "score": 14,
-      "url": "https://rjp.io/blog/2026-07-19-register-deprivation",
-      "time": 1785414030.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49109019"
+      "title": "The Burau representation of the braid group is faithful for n = 4",
+      "score": 33,
+      "url": "https://arxiv.org/abs/2607.05283",
+      "time": 1785195975.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49077209"
     },
     {
-      "title": "Tell HN: I hate your fuzzy search",
-      "score": 21,
-      "url": "https://news.ycombinator.com/item?id=49136990",
-      "time": 1785608700.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49136990"
-    },
-    {
-      "title": "Flint: A Visualization Language for the AI Era",
-      "score": 230,
-      "url": "https://microsoft.github.io/flint-chart/",
-      "time": 1785552309.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49130604"
-    },
-    {
-      "title": "Manual: •.,:;…!?·",
-      "score": 93,
-      "url": "https://type.today/en/journal/dots",
-      "time": 1785373542.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49105013"
-    },
-    {
-      "title": "BMW Is Showing Commercials on Their Car's Dash Screens as a Treat",
-      "score": 57,
-      "url": "https://www.theautopian.com/bmw-is-showing-commercials-on-their-cars-dash-screens-and-they-want-you-to-think-its-a-treat/",
-      "time": 1785599890.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49135511"
-    },
-    {
-      "title": "Franken.domains: Stitched-Together Domains, Because Every .com Is Taken",
-      "score": 10,
-      "url": "https://franken.domains/",
-      "time": 1785602689.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49135975"
-    },
-    {
-      "title": "qm – Multiplayer agent harness for work",
-      "score": 635,
-      "url": "https://github.com/yc-software/qm",
-      "time": 1785521098.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49126604"
-    },
-    {
-      "title": "Solid Queue 1.6.0 now supports fiber workers",
-      "score": 76,
-      "url": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
-      "time": 1785570128.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49132083"
-    },
-    {
-      "title": "Kontigo (YC S24) Is Hiring",
-      "score": 1,
-      "url": "https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer",
-      "time": 1785585625.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49133655"
+      "title": "Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga",
+      "score": 47,
+      "url": "https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe",
+      "time": 1785599214.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49135426"
     }
   ]
 }
