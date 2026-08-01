@@ -1,47 +1,82 @@
 {
-  "last_updated": "2026-08-01T08:57:47.237386-04:00",
+  "last_updated": "2026-08-01T11:52:57.679638-04:00",
   "stories": [
     {
+      "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
+      "score": 105,
+      "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
+      "time": 1785593991.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49134694"
+    },
+    {
+      "title": "The Art of 64-bit Assembly",
+      "score": 40,
+      "url": "https://nostarch.com/art-64-bit-assembly-v2",
+      "time": 1785593340.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49134599"
+    },
+    {
       "title": "RipGrep musl binaries occasionally segfault during very-large searches",
-      "score": 26,
+      "score": 132,
       "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
       "time": 1785587665.0,
       "comments_url": "https://news.ycombinator.com/item?id=49133889"
     },
     {
+      "title": "Linux on ESP32",
+      "score": 26,
+      "url": "https://github.com/GrieferPig/esp32-s31-linux",
+      "time": 1785261120.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49087499"
+    },
+    {
+      "title": "Charlie Stross – On the non-use of AI in my writing process",
+      "score": 17,
+      "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+      "time": 1785589014.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49134038"
+    },
+    {
       "title": "Elevators",
-      "score": 1387,
+      "score": 1485,
       "url": "https://john.fun/elevators",
       "time": 1785511048.0,
       "comments_url": "https://news.ycombinator.com/item?id=49124218"
     },
     {
+      "title": "Manual: •.,:;?·",
+      "score": 78,
+      "url": "https://type.today/en/journal/dots",
+      "time": 1785373542.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49105013"
+    },
+    {
       "title": "Flint: A Visualization Language for the AI Era",
-      "score": 153,
+      "score": 213,
       "url": "https://microsoft.github.io/flint-chart/",
       "time": 1785552309.0,
       "comments_url": "https://news.ycombinator.com/item?id=49130604"
     },
     {
-      "title": "How to Do Great Work (2023)",
-      "score": 48,
-      "url": "https://paulgraham.com/greatwork.html",
-      "time": 1785572384.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49132289"
+      "title": "Study uncovers lost 'golden age' of languages",
+      "score": 13,
+      "url": "https://news.yale.edu/2026/07/23/study-uncovers-lost-golden-age-languages",
+      "time": 1785376723.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49105331"
     },
     {
-      "title": "qm – Multiplayer agent harness for work",
-      "score": 594,
-      "url": "https://github.com/yc-software/qm",
-      "time": 1785521098.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49126604"
+      "title": "Solid Queue 1.6.0 now supports fiber workers",
+      "score": 63,
+      "url": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
+      "time": 1785570128.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49132083"
     },
     {
-      "title": "Manual: •.,:;?·",
-      "score": 23,
-      "url": "https://type.today/en/journal/dots",
-      "time": 1785373542.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49105013"
+      "title": "RamenHaus",
+      "score": 159,
+      "url": "https://ramen.haus/",
+      "time": 1785574138.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49132460"
     },
     {
       "title": "Kontigo (YC S24) Is Hiring",
@@ -51,95 +86,60 @@
       "comments_url": "https://news.ycombinator.com/item?id=49133655"
     },
     {
-      "title": "How to Exist",
-      "score": 250,
-      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-      "time": 1785543900.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49129990"
-    },
-    {
-      "title": "The development pipeline is a production system",
-      "score": 102,
-      "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
-      "time": 1785554169.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49130726"
+      "title": "qm – Multiplayer agent harness for work",
+      "score": 622,
+      "url": "https://github.com/yc-software/qm",
+      "time": 1785521098.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49126604"
     },
     {
       "title": "A tiny holdout building in the middle of Macy’s is back in view",
-      "score": 62,
+      "score": 131,
       "url": "https://ephemeralnewyork.wordpress.com/2026/07/27/hidden-by-billboards-for-over-100-years-the-tiny-holdout-building-in-the-middle-of-macys-is-back-in-view/",
       "time": 1785283005.0,
       "comments_url": "https://news.ycombinator.com/item?id=49091614"
     },
     {
-      "title": "Solid Queue 1.6.0 now supports fiber workers",
-      "score": 27,
-      "url": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
-      "time": 1785570128.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49132083"
+      "title": "Astro Loop",
+      "score": 19,
+      "url": "https://pubdeer.com/",
+      "time": 1785586668.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49133777"
     },
     {
-      "title": "G'mic 4.0: Squaring the Pixel, Easier",
-      "score": 42,
-      "url": "https://gmic.eu/gmic40/",
-      "time": 1785329500.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49096847"
+      "title": "How to Do Great Work (2023)",
+      "score": 77,
+      "url": "https://paulgraham.com/greatwork.html",
+      "time": 1785572384.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49132289"
     },
     {
-      "title": "RamenHaus",
-      "score": 121,
-      "url": "https://ramen.haus/",
-      "time": 1785574138.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49132460"
+      "title": "How to Exist",
+      "score": 302,
+      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+      "time": 1785543900.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49129990"
+    },
+    {
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "score": 276,
+      "url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "time": 1785569864.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49132058"
     },
     {
       "title": "Software for One",
-      "score": 142,
+      "score": 181,
       "url": "https://www.ajwaxman.com/writing/software-for-one",
       "time": 1785328160.0,
       "comments_url": "https://news.ycombinator.com/item?id=49096605"
     },
     {
-      "title": "The Absurdity of Albert Camus",
-      "score": 146,
-      "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
-      "time": 1785453677.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49117089"
-    },
-    {
       "title": "Run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
-      "score": 270,
+      "score": 296,
       "url": "https://github.com/sqliteai/waste",
       "time": 1785507158.0,
       "comments_url": "https://news.ycombinator.com/item?id=49123386"
-    },
-    {
-      "title": "AI doesn't generate working products, that's still your job",
-      "score": 200,
-      "url": "https://weeraman.com/the-prototype-isnt-the-product/",
-      "time": 1785570730.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49132130"
-    },
-    {
-      "title": "AWS Secrets Manager Terraform: Least-Privilege Access",
-      "score": 22,
-      "url": "https://blog.victorsilva.com.uy/aws-secrets-manager-terraform-least-privilege/",
-      "time": 1785243645.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49083141"
-    },
-    {
-      "title": "The First Idempotency Key",
-      "score": 7,
-      "url": "https://hatchet.run/blog/first-idempotency-key",
-      "time": 1785243891.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49083207"
-    },
-    {
-      "title": "Attention Decode on AMD MI450 GPUs: A Gluon Kernel Optimization Guide",
-      "score": 48,
-      "url": "https://rocm.blogs.amd.com/software-tools-optimization/gluon-attention-decode-mi450/README.html",
-      "time": 1785198405.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49077646"
     }
   ]
 }
