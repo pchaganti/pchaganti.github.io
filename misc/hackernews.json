@@ -1,82 +1,138 @@
 {
-  "last_updated": "2026-08-01T21:53:15.953493-04:00",
+  "last_updated": "2026-08-02T01:47:04.242558-04:00",
   "stories": [
     {
+      "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+      "score": 45,
+      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+      "time": 1785644474.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49141073"
+    },
+    {
+      "title": "Go 1.27 Interactive Tour",
+      "score": 114,
+      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "time": 1785634551.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49140218"
+    },
+    {
+      "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+      "score": 34,
+      "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+      "time": 1785640372.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49140702"
+    },
+    {
       "title": "Seedance 2.5",
-      "score": 171,
+      "score": 249,
       "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
       "time": 1785617112.0,
       "comments_url": "https://news.ycombinator.com/item?id=49138302"
     },
     {
       "title": "Diátaxis",
-      "score": 193,
+      "score": 264,
       "url": "https://diataxis.fr/",
       "time": 1785616407.0,
       "comments_url": "https://news.ycombinator.com/item?id=49138188"
     },
     {
-      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "score": 157,
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "time": 1785623112.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49139102"
+      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+      "score": 75,
+      "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+      "time": 1785636429.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49140396"
     },
     {
-      "title": "Go 1.27 Interactive Tour",
-      "score": 5,
-      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
-      "time": 1785634551.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49140218"
+      "title": "ASRock BC-250: Building the Budget Steam Machine",
+      "score": 40,
+      "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
+      "time": 1785634511.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49140213"
+    },
+    {
+      "title": "When random.bytes() runs but doesn't work",
+      "score": 21,
+      "url": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt",
+      "time": 1785636506.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49140405"
+    },
+    {
+      "title": "Linux desktop market share has hit over 10% in North America",
+      "score": 58,
+      "url": "https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/",
+      "time": 1785640200.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49140696"
     },
     {
       "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
-      "score": 19,
+      "score": 49,
       "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
       "time": 1785627895.0,
       "comments_url": "https://news.ycombinator.com/item?id=49139711"
     },
     {
-      "title": "Postmortem for Kernel Soundness Bug #14576",
-      "score": 115,
-      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-      "time": 1785609140.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49137060"
-    },
-    {
       "title": "Unraveling the mysteries of habit formation",
-      "score": 33,
+      "score": 59,
       "url": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
       "time": 1785624952.0,
       "comments_url": "https://news.ycombinator.com/item?id=49139383"
     },
     {
+      "title": "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
+      "score": 26,
+      "url": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#",
+      "time": 1785639075.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49140599"
+    },
+    {
+      "title": "Postmortem for Kernel Soundness Bug #14576",
+      "score": 136,
+      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+      "time": 1785609140.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49137060"
+    },
+    {
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+      "score": 244,
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "time": 1785623112.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49139102"
+    },
+    {
       "title": "But can your calculator run Linux?",
-      "score": 62,
+      "score": 82,
       "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
       "time": 1785613488.0,
       "comments_url": "https://news.ycombinator.com/item?id=49137713"
     },
     {
-      "title": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
+      "title": "Four Time Scales for Technology Development and Deployment",
+      "score": 20,
+      "url": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
+      "time": 1785637612.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49140487"
+    },
+    {
+      "title": "Don't credit the LLM",
+      "score": 23,
+      "url": "https://isaacsu.com/2026/08/dont-credit-the-llm/",
+      "time": 1785643666.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49141008"
+    },
+    {
+      "title": "Canadians are leaving the country at record levels. Can anyone solve this?",
       "score": 3,
-      "url": "https://zenodo.org/records/21753002",
-      "time": 1785632505.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49140080"
+      "url": "https://thehub.ca/2026/04/03/can-anyone-solve-canadas-brain-drain-problem/",
+      "time": 1785643539.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49140996"
     },
     {
-      "title": "We accidentally built an LLVM compiler for Jax",
-      "score": 9,
-      "url": "https://iza.ac/posts/2026/07/accidental-llvm-compiler-for-jax/",
-      "time": 1785455165.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49117303"
-    },
-    {
-      "title": "The Art of 64-bit Assembly",
-      "score": 188,
-      "url": "https://nostarch.com/art-64-bit-assembly-v2",
-      "time": 1785593340.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49134599"
+      "title": "P[drive failure]: how reliable is your NAS?",
+      "score": 3,
+      "url": "https://khz.ac/low-voltage/drive-failure.html",
+      "time": 1785439134.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49114441"
     },
     {
       "title": "Morph (YC S23) Is Hiring Member of Technical Staff",
@@ -84,62 +140,6 @@
       "url": "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff",
       "time": 1785624764.0,
       "comments_url": "https://news.ycombinator.com/item?id=49139352"
-    },
-    {
-      "title": "CISA Alert: Water Sector PLC Targeting",
-      "score": 71,
-      "url": "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/",
-      "time": 1785610217.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49137228"
-    },
-    {
-      "title": "How Google helped destroy adoption of RSS feeds (2023)",
-      "score": 401,
-      "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
-      "time": 1785607627.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49136821"
-    },
-    {
-      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
-      "score": 251,
-      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
-      "time": 1785587665.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49133889"
-    },
-    {
-      "title": "Nyctography: A substituton cypher by Lewis Carroll",
-      "score": 50,
-      "url": "https://en.wikipedia.org/wiki/Nyctography",
-      "time": 1785234602.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49081851"
-    },
-    {
-      "title": "NetBSD 11.0",
-      "score": 218,
-      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-      "time": 1785607001.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49136736"
-    },
-    {
-      "title": "Anime User Interfaces",
-      "score": 88,
-      "url": "https://animeuserinterface.tumblr.com",
-      "time": 1785624444.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49139304"
-    },
-    {
-      "title": "Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga",
-      "score": 98,
-      "url": "https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe",
-      "time": 1785599214.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49135426"
-    },
-    {
-      "title": "Explorative modeling: Train on the best of K guesses",
-      "score": 77,
-      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-      "time": 1785597795.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49135245"
     }
   ]
 }
