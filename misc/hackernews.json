@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-08-03T13:04:13.856253-04:00",
+  "last_updated": "2026-08-03T15:19:17.631311-04:00",
   "stories": [
     {
-      "title": "Critical CVE issued for hallucinated SQLite vulnerability",
-      "score": 595,
-      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-      "time": 1785756534.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49154332"
-    },
-    {
-      "title": "Devtools must be open source",
-      "score": 170,
-      "url": "https://blog.exe.dev/devtools-must-be-open-source",
-      "time": 1785766547.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49156111"
-    },
-    {
-      "title": "Taylor Farms Has Rewritten Its Cyclospora Statement Four Times in Sixteen Days",
-      "score": 162,
-      "url": "https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/",
-      "time": 1785771092.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49157128"
-    },
-    {
-      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
-      "score": 142,
-      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
-      "time": 1785764083.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49155629"
-    },
-    {
-      "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
-      "score": 11,
-      "url": "https://hoplite.sh",
-      "time": 1785774726.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49157997"
-    },
-    {
-      "title": "Andy Pavlo Joins ClickHouse to Establish ClickHouse Labs",
-      "score": 109,
-      "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
-      "time": 1785766140.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49156011"
-    },
-    {
-      "title": "Wind and solar overtake fossil fuels in Germany for the first time",
-      "score": 66,
-      "url": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/",
-      "time": 1785762782.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49155359"
-    },
-    {
-      "title": "Don't be a meat proxy",
-      "score": 1409,
-      "url": "https://gruhn.me/blog/2026-08-03/",
-      "time": 1785738481.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49151933"
-    },
-    {
-      "title": "How Hollywood stopped making movies in Hollywood",
-      "score": 72,
-      "url": "https://www.statsignificant.com/p/how-hollywood-stopped-making-movies",
-      "time": 1785242460.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49082937"
-    },
-    {
-      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-      "score": 930,
-      "url": "https://qwen.ai/blog?id=qwen3.8",
-      "time": 1785723369.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49150470"
-    },
-    {
-      "title": "What's the largest software project AI can complete on its own?",
-      "score": 19,
-      "url": "https://epoch.ai/MirrorCode",
-      "time": 1785773800.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49157786"
-    },
-    {
-      "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
-      "score": 8,
-      "url": "https://armature.tech/",
-      "time": 1785773879.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49157807"
-    },
-    {
-      "title": "AirLLM 70B inference with single 4GB GPU",
-      "score": 117,
-      "url": "https://github.com/lyogavin/airllm",
-      "time": 1785755748.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49154228"
-    },
-    {
-      "title": "Bonsai: Janestreet's UI Library",
-      "score": 213,
-      "url": "https://github.com/janestreet/bonsai",
-      "time": 1785745797.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49152842"
-    },
-    {
-      "title": "Explanation of INT8 ConvRot (FP8 is no longer needed)",
-      "score": 7,
-      "url": "https://note.com/hirorohi03/n/n047a8c5f7f8b?hl=en",
-      "time": 1785773229.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49157645"
-    },
-    {
       "title": "Ten advances in mathematics and theoretical computer science",
-      "score": 8,
+      "score": 163,
       "url": "https://openai.com/index/ten-advances-in-mathematics/",
       "time": 1785774432.0,
       "comments_url": "https://news.ycombinator.com/item?id=49157930"
     },
     {
+      "title": "Devtools must be open source",
+      "score": 333,
+      "url": "https://blog.exe.dev/devtools-must-be-open-source",
+      "time": 1785766547.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49156111"
+    },
+    {
+      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+      "score": 65,
+      "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+      "time": 1785776530.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49158474"
+    },
+    {
+      "title": "Wind and solar overtake fossil fuels in Germany for the first time",
+      "score": 214,
+      "url": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/",
+      "time": 1785762782.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49155359"
+    },
+    {
+      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+      "score": 192,
+      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+      "time": 1785764083.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49155629"
+    },
+    {
+      "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+      "score": 180,
+      "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+      "time": 1785766140.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49156011"
+    },
+    {
+      "title": "How Hollywood stopped making movies in Hollywood",
+      "score": 117,
+      "url": "https://www.statsignificant.com/p/how-hollywood-stopped-making-movies",
+      "time": 1785242460.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49082937"
+    },
+    {
+      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+      "score": 23,
+      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+      "time": 1785776926.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49158581"
+    },
+    {
+      "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+      "score": 24,
+      "url": "https://hoplite.sh",
+      "time": 1785774726.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49157997"
+    },
+    {
+      "title": "Massively Parallel Postgres Backups",
+      "score": 33,
+      "url": "https://planetscale.com/blog/massively-parallel-postgres-backups",
+      "time": 1785511038.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49124213"
+    },
+    {
+      "title": "AirLLM 70B inference with single 4GB GPU",
+      "score": 147,
+      "url": "https://github.com/lyogavin/airllm",
+      "time": 1785755748.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49154228"
+    },
+    {
+      "title": "The Billable Usage API: programmatic cost visibility for Cloudflare",
+      "score": 17,
+      "url": "https://blog.cloudflare.com/billable-usage-api/",
+      "time": 1785777486.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49158714"
+    },
+    {
+      "title": "Bonsai: Janestreet's UI Library",
+      "score": 246,
+      "url": "https://github.com/janestreet/bonsai",
+      "time": 1785745797.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49152842"
+    },
+    {
+      "title": "Use Task Runners for Common Coding Tasks",
+      "score": 23,
+      "url": "https://hamvocke.com/blog/task-runners/",
+      "time": 1785775911.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49158287"
+    },
+    {
+      "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+      "score": 21,
+      "url": "https://armature.tech/",
+      "time": 1785773879.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49157807"
+    },
+    {
+      "title": "Kelly Criterion Simulator",
+      "score": 7,
+      "url": "https://kellysimulator.com/",
+      "time": 1785505678.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49123105"
+    },
+    {
+      "title": "Don't be a meat proxy",
+      "score": 1536,
+      "url": "https://gruhn.me/blog/2026-08-03/",
+      "time": 1785738481.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49151933"
+    },
+    {
+      "title": "SQLite Critical CVEs or LLM Slop?",
+      "score": 663,
+      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+      "time": 1785756534.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49154332"
+    },
+    {
       "title": "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",
-      "score": 27,
+      "score": 35,
       "url": "https://dmarcguard.io/blog/spf-record-syntax/",
       "time": 1785764065.0,
       "comments_url": "https://news.ycombinator.com/item?id=49155626"
     },
     {
-      "title": "C++ float-to-int conversion can be undefined behavior",
-      "score": 6,
-      "url": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
-      "time": 1785405551.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49107888"
-    },
-    {
-      "title": "Utah produced more power from solar than any other source in May, a new first",
-      "score": 79,
-      "url": "https://www.sltrib.com/news/environment/2026/08/03/utah-sets-solar-power-record/",
-      "time": 1785766404.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49156071"
-    },
-    {
-      "title": "The Abandoned Fish Sauce Terrorizing a Small Canadian Town",
-      "score": 150,
-      "url": "https://defector.com/abandoned-fish-sauce-canada-interview",
-      "time": 1785514990.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49125168"
+      "title": "SearXNG in Rust",
+      "score": 27,
+      "url": "https://github.com/MikeLuu99/searxng-rust",
+      "time": 1785775300.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49158141"
     }
   ]
 }
