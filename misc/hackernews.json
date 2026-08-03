@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-08-02T17:44:35.137248-04:00",
+  "last_updated": "2026-08-02T21:55:55.979967-04:00",
   "stories": [
     {
+      "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+      "score": 34,
+      "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+      "time": 1785715936.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49149746"
+    },
+    {
+      "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+      "score": 16,
+      "url": "https://github.com/johnsonjh/cpm386",
+      "time": 1785717490.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49149898"
+    },
+    {
       "title": "Karpathy’s Pelican",
-      "score": 305,
+      "score": 440,
       "url": "https://twitter.com/karpathy/status/2083749667410727319",
       "time": 1785643556.0,
       "comments_url": "https://news.ycombinator.com/item?id=49140998"
     },
     {
+      "title": "Autoregressive Language Model on the 6502 Processor",
+      "score": 57,
+      "url": "https://mattbeton.com/blog/bitnet-6502.html",
+      "time": 1785503310.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49122655"
+    },
+    {
+      "title": "Show HN: Isopolis – isometric pixel map of SF",
+      "score": 18,
+      "url": "https://sf.isopolis.city/",
+      "time": 1785717998.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49149966"
+    },
+    {
       "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-      "score": 128,
+      "score": 183,
       "url": "https://github.com/wie-project/kakehashi",
       "time": 1785688000.0,
       "comments_url": "https://news.ycombinator.com/item?id=49145937"
     },
     {
       "title": "Note-Taking and Personal Knowledge Management",
-      "score": 58,
+      "score": 131,
       "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
       "time": 1785248470.0,
       "comments_url": "https://news.ycombinator.com/item?id=49084324"
     },
     {
-      "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-      "score": 46,
-      "url": "https://frogs.vaguespac.es/",
-      "time": 1785699728.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49147622"
-    },
-    {
       "title": "Developers are attached to tools because tools encode trust",
-      "score": 93,
+      "score": 150,
       "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
       "time": 1785335154.0,
       "comments_url": "https://news.ycombinator.com/item?id=49097961"
     },
     {
-      "title": "Let the machines in",
-      "score": 15,
-      "url": "https://blog.semenzin.com/let-the-machines-in/",
-      "time": 1785701836.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49147890"
+      "title": "Read the Novels and Forget Everything Else",
+      "score": 54,
+      "url": "https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else",
+      "time": 1785540688.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49129676"
     },
     {
-      "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
-      "score": 69,
-      "url": "https://github.com/graham33/nixos-dgx-spark",
-      "time": 1785690354.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49146267"
+      "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
+      "score": 8,
+      "url": "https://www.rfc-editor.org/rfc/rfc9851.html",
+      "time": 1785720206.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49150181"
     },
     {
-      "title": "Sharing an X11 Server Across Hosts with FamilyWild",
-      "score": 11,
-      "url": "https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/",
-      "time": 1785702407.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49147978"
+      "title": "Show HN: ssh ssh.place",
+      "score": 10,
+      "url": "https://ssh.place",
+      "time": 1785716601.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49149805"
     },
     {
-      "title": "AI Mania: From Tulips to Tokens",
+      "title": "The Computational Theory of Mind (2015)",
       "score": 32,
-      "url": "https://seanhelvey.com/tools-and-their-tools/",
-      "time": 1785703708.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49148159"
+      "url": "https://plato.stanford.edu/entries/computational-mind/",
+      "time": 1785710135.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49149125"
+    },
+    {
+      "title": "Show HN: Mu – Tools for Agents",
+      "score": 31,
+      "url": "https://github.com/micro/mu",
+      "time": 1785708394.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49148899"
     },
     {
       "title": "Show HN: Make your Framework 12 sound like a creaky door",
-      "score": 9,
+      "score": 49,
       "url": "https://github.com/ArcaEge/creakwork12",
       "time": 1785702781.0,
       "comments_url": "https://news.ycombinator.com/item?id=49148048"
     },
     {
+      "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+      "score": 96,
+      "url": "https://github.com/graham33/nixos-dgx-spark",
+      "time": 1785690354.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49146267"
+    },
+    {
+      "title": "TinyNES Review – A Super Niche NES Console",
+      "score": 33,
+      "url": "https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/",
+      "time": 1785700897.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49147760"
+    },
+    {
       "title": "F*: A general-purpose proof-oriented programming language",
-      "score": 132,
+      "score": 155,
       "url": "https://fstar-lang.org/",
       "time": 1785673876.0,
       "comments_url": "https://news.ycombinator.com/item?id=49143925"
     },
     {
+      "title": "Playing with Georgia",
+      "score": 8,
+      "url": "https://mighil.com/playing-with-georgia",
+      "time": 1785328870.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49096748"
+    },
+    {
+      "title": "Californians' data deletion requests, DROP, become enforceable Aug. 1",
+      "score": 85,
+      "url": "https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/",
+      "time": 1785708994.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49148987"
+    },
+    {
       "title": "Twenty Years of RISC OS Open",
-      "score": 137,
+      "score": 152,
       "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
       "time": 1785674167.0,
       "comments_url": "https://news.ycombinator.com/item?id=49143967"
-    },
-    {
-      "title": "Schmitt Trigger: Robust Comparator Design with Hysteresis",
-      "score": 8,
-      "url": "https://www.wevolver.com/article/schmitt-trigger-robust-comparator-design-with-hysteresis",
-      "time": 1785424337.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49111194"
-    },
-    {
-      "title": "Europe EV Sales BEVs Jump 50% & Reach 26% Market Share",
-      "score": 63,
-      "url": "https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/",
-      "time": 1785698450.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49147450"
-    },
-    {
-      "title": "Adding Go's Defer to the TypeScript Compiler",
-      "score": 7,
-      "url": "https://healeycodes.com/adding-defer-to-the-typescript-compiler",
-      "time": 1785701559.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49147853"
-    },
-    {
-      "title": "Harvesting SSH Credentials: Insights from My Honeypot Network",
-      "score": 27,
-      "url": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
-      "time": 1785692751.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49146605"
-    },
-    {
-      "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
-      "score": 66,
-      "url": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
-      "time": 1785687557.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49145883"
-    },
-    {
-      "title": "When transit passes were designed by hand (2022)",
-      "score": 78,
-      "url": "https://letterformarchive.org/news/milwaukee-transit-passes/",
-      "time": 1785505084.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49123003"
-    },
-    {
-      "title": "How the words we teach English language learners changed",
-      "score": 174,
-      "url": "https://pudding.cool/2026/07/essential-words/",
-      "time": 1785685268.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49145590"
-    },
-    {
-      "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
-      "score": 79,
-      "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
-      "time": 1785698364.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49147435"
     }
   ]
 }
