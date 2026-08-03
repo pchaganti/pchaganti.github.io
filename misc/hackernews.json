@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-08-03T02:10:29.012932-04:00",
+  "last_updated": "2026-08-03T08:12:21.741058-04:00",
   "stories": [
     {
+      "title": "Critical CVE issued for hallucinated SQLite vulnerability",
+      "score": 83,
+      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+      "time": 1785756534.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49154332"
+    },
+    {
+      "title": "Don't be a meat proxy",
+      "score": 827,
+      "url": "https://gruhn.me/blog/2026-08-03/",
+      "time": 1785738481.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49151933"
+    },
+    {
       "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-      "score": 350,
+      "score": 683,
       "url": "https://qwen.ai/blog?id=qwen3.8",
       "time": 1785723369.0,
       "comments_url": "https://news.ycombinator.com/item?id=49150470"
     },
     {
-      "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-      "score": 140,
-      "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-      "time": 1785724230.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49150561"
+      "title": "Bonsai: Janestreet's UI Library",
+      "score": 85,
+      "url": "https://github.com/janestreet/bonsai",
+      "time": 1785745797.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49152842"
+    },
+    {
+      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "score": 118,
+      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+      "time": 1785749527.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49153374"
+    },
+    {
+      "title": "What DMARC Protects You From, and What It Does Not",
+      "score": 31,
+      "url": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from",
+      "time": 1785749386.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49153361"
+    },
+    {
+      "title": "Octane – React's programming model, compiled",
+      "score": 46,
+      "url": "https://octanejs.dev",
+      "time": 1785744244.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49152640"
+    },
+    {
+      "title": "ICE Collected Nearly 1M People's DNA Last Year–Including Young Children",
+      "score": 35,
+      "url": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
+      "time": 1785755793.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49154237"
+    },
+    {
+      "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+      "score": 8,
+      "url": "https://github.com/garagehq/nightcrawler/",
+      "time": 1785755175.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49154127"
+    },
+    {
+      "title": "Rust project goals: Immobile types and guaranteed destructors",
+      "score": 108,
+      "url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+      "time": 1785739320.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49152023"
+    },
+    {
+      "title": "The true power of regular expressions (2012)",
+      "score": 19,
+      "url": "https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html",
+      "time": 1785746843.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49152973"
     },
     {
       "title": "Show HN: Isopolis – Isometric pixel map of SF",
-      "score": 155,
+      "score": 245,
       "url": "https://sf.isopolis.city/",
       "time": 1785717998.0,
       "comments_url": "https://news.ycombinator.com/item?id=49149966"
     },
     {
-      "title": "Karpathy’s Pelican",
-      "score": 525,
-      "url": "https://twitter.com/karpathy/status/2083749667410727319",
-      "time": 1785643556.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49140998"
+      "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+      "score": 12,
+      "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
+      "time": 1785747240.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49153029"
     },
     {
-      "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
-      "score": 56,
-      "url": "https://github.com/johnsonjh/cpm386",
-      "time": 1785717490.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49149898"
+      "title": "Characterizing Warp Divergence from Pascal to Blackwell",
+      "score": 5,
+      "url": "https://arxiv.org/abs/2607.23402",
+      "time": 1785437760.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49114146"
     },
     {
-      "title": "AI migrated legacy COBOL programs to Java, bugs included",
+      "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
+      "score": 24,
+      "url": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
+      "time": 1785746064.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49152871"
+    },
+    {
+      "title": "Train Simulator Controller",
       "score": 21,
-      "url": "https://arxiv.org/abs/2607.28271",
-      "time": 1785726372.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49150773"
+      "url": "https://z80.me/blog/tsc-2026-july/",
+      "time": 1785446319.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49115935"
     },
     {
-      "title": "Autoregressive Language Model on the 6502 Processor",
-      "score": 88,
-      "url": "https://mattbeton.com/blog/bitnet-6502.html",
-      "time": 1785503310.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49122655"
-    },
-    {
-      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-      "score": 204,
-      "url": "https://github.com/wie-project/kakehashi",
-      "time": 1785688000.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49145937"
+      "title": "Situational Awareness and the Impending Stock Market Volatility",
+      "score": 23,
+      "url": "https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture/",
+      "time": 1785737873.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49151871"
     },
     {
       "title": "Why we write our own C and C++ inference engines",
-      "score": 22,
+      "score": 72,
       "url": "https://localai.io/blog/why-we-write-our-own-engines/",
       "time": 1785514624.0,
       "comments_url": "https://news.ycombinator.com/item?id=49125065"
     },
     {
-      "title": "Note-Taking and Personal Knowledge Management",
-      "score": 170,
-      "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
-      "time": 1785248470.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49084324"
-    },
-    {
       "title": "Show HN: ssh ssh.place",
-      "score": 88,
+      "score": 130,
       "url": "https://ssh.place",
       "time": 1785716601.0,
       "comments_url": "https://news.ycombinator.com/item?id=49149805"
     },
     {
-      "title": "Developers are attached to tools because tools encode trust",
-      "score": 188,
-      "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
-      "time": 1785335154.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49097961"
-    },
-    {
-      "title": "SwiftUI After 7 Years",
-      "score": 159,
-      "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
-      "time": 1785697145.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49147263"
-    },
-    {
-      "title": "The myth of Snow Leopard",
-      "score": 78,
-      "url": "https://www.rubenerd.au/the-myth-of-snow-leopard/",
-      "time": 1785694905.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49146960"
-    },
-    {
-      "title": "Show HN: A Handwritten Blogging Platform",
-      "score": 69,
-      "url": "https://handwritten.blog/",
-      "time": 1785479862.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49119751"
-    },
-    {
-      "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
-      "score": 25,
-      "url": "https://www.rfc-editor.org/rfc/rfc9851.html",
-      "time": 1785720206.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49150181"
-    },
-    {
-      "title": "The Computational Theory of Mind (2015)",
-      "score": 48,
-      "url": "https://plato.stanford.edu/entries/computational-mind/",
-      "time": 1785710135.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49149125"
-    },
-    {
-      "title": "How the words we teach English language learners changed",
-      "score": 202,
-      "url": "https://pudding.cool/2026/07/essential-words/",
-      "time": 1785685268.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49145590"
-    },
-    {
-      "title": "Show HN: Make your Framework 12 sound like a creaky door",
-      "score": 70,
-      "url": "https://github.com/ArcaEge/creakwork12",
-      "time": 1785702781.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49148048"
-    },
-    {
-      "title": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-      "score": 128,
-      "url": "https://frogs.vaguespac.es/",
-      "time": 1785699728.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49147622"
+      "title": "9front \"This Was Supposed to Be Fun\" Released",
+      "score": 12,
+      "url": "https://9front.org/releases/2026/08/02/0/",
+      "time": 1785755876.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49154249"
     }
   ]
 }
