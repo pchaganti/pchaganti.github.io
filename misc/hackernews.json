@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-08-03T08:12:21.741058-04:00",
+  "last_updated": "2026-08-03T13:04:13.856253-04:00",
   "stories": [
     {
       "title": "Critical CVE issued for hallucinated SQLite vulnerability",
-      "score": 83,
+      "score": 595,
       "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
       "time": 1785756534.0,
       "comments_url": "https://news.ycombinator.com/item?id=49154332"
     },
     {
+      "title": "Devtools must be open source",
+      "score": 170,
+      "url": "https://blog.exe.dev/devtools-must-be-open-source",
+      "time": 1785766547.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49156111"
+    },
+    {
+      "title": "Taylor Farms Has Rewritten Its Cyclospora Statement Four Times in Sixteen Days",
+      "score": 162,
+      "url": "https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/",
+      "time": 1785771092.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49157128"
+    },
+    {
+      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+      "score": 142,
+      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+      "time": 1785764083.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49155629"
+    },
+    {
+      "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+      "score": 11,
+      "url": "https://hoplite.sh",
+      "time": 1785774726.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49157997"
+    },
+    {
+      "title": "Andy Pavlo Joins ClickHouse to Establish ClickHouse Labs",
+      "score": 109,
+      "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+      "time": 1785766140.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49156011"
+    },
+    {
+      "title": "Wind and solar overtake fossil fuels in Germany for the first time",
+      "score": 66,
+      "url": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/",
+      "time": 1785762782.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49155359"
+    },
+    {
       "title": "Don't be a meat proxy",
-      "score": 827,
+      "score": 1409,
       "url": "https://gruhn.me/blog/2026-08-03/",
       "time": 1785738481.0,
       "comments_url": "https://news.ycombinator.com/item?id=49151933"
     },
     {
+      "title": "How Hollywood stopped making movies in Hollywood",
+      "score": 72,
+      "url": "https://www.statsignificant.com/p/how-hollywood-stopped-making-movies",
+      "time": 1785242460.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49082937"
+    },
+    {
       "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-      "score": 683,
+      "score": 930,
       "url": "https://qwen.ai/blog?id=qwen3.8",
       "time": 1785723369.0,
       "comments_url": "https://news.ycombinator.com/item?id=49150470"
     },
     {
+      "title": "What's the largest software project AI can complete on its own?",
+      "score": 19,
+      "url": "https://epoch.ai/MirrorCode",
+      "time": 1785773800.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49157786"
+    },
+    {
+      "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+      "score": 8,
+      "url": "https://armature.tech/",
+      "time": 1785773879.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49157807"
+    },
+    {
+      "title": "AirLLM 70B inference with single 4GB GPU",
+      "score": 117,
+      "url": "https://github.com/lyogavin/airllm",
+      "time": 1785755748.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49154228"
+    },
+    {
       "title": "Bonsai: Janestreet's UI Library",
-      "score": 85,
+      "score": 213,
       "url": "https://github.com/janestreet/bonsai",
       "time": 1785745797.0,
       "comments_url": "https://news.ycombinator.com/item?id=49152842"
     },
     {
-      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "score": 118,
-      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-      "time": 1785749527.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49153374"
+      "title": "Explanation of INT8 ConvRot (FP8 is no longer needed)",
+      "score": 7,
+      "url": "https://note.com/hirorohi03/n/n047a8c5f7f8b?hl=en",
+      "time": 1785773229.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49157645"
     },
     {
-      "title": "What DMARC Protects You From, and What It Does Not",
-      "score": 31,
-      "url": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from",
-      "time": 1785749386.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49153361"
-    },
-    {
-      "title": "Octane – React's programming model, compiled",
-      "score": 46,
-      "url": "https://octanejs.dev",
-      "time": 1785744244.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49152640"
-    },
-    {
-      "title": "ICE Collected Nearly 1M People's DNA Last Year–Including Young Children",
-      "score": 35,
-      "url": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
-      "time": 1785755793.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49154237"
-    },
-    {
-      "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+      "title": "Ten advances in mathematics and theoretical computer science",
       "score": 8,
-      "url": "https://github.com/garagehq/nightcrawler/",
-      "time": 1785755175.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49154127"
+      "url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "time": 1785774432.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49157930"
     },
     {
-      "title": "Rust project goals: Immobile types and guaranteed destructors",
-      "score": 108,
-      "url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
-      "time": 1785739320.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49152023"
+      "title": "SPF Record Syntax: Mechanisms, Qualifiers, Modifiers, and Macros",
+      "score": 27,
+      "url": "https://dmarcguard.io/blog/spf-record-syntax/",
+      "time": 1785764065.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49155626"
     },
     {
-      "title": "The true power of regular expressions (2012)",
-      "score": 19,
-      "url": "https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html",
-      "time": 1785746843.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49152973"
+      "title": "C++ float-to-int conversion can be undefined behavior",
+      "score": 6,
+      "url": "https://kttnr.net/blog/cpp-float-to-int-conversion-undefined-behavior/",
+      "time": 1785405551.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49107888"
     },
     {
-      "title": "Show HN: Isopolis – Isometric pixel map of SF",
-      "score": 245,
-      "url": "https://sf.isopolis.city/",
-      "time": 1785717998.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49149966"
+      "title": "Utah produced more power from solar than any other source in May, a new first",
+      "score": 79,
+      "url": "https://www.sltrib.com/news/environment/2026/08/03/utah-sets-solar-power-record/",
+      "time": 1785766404.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49156071"
     },
     {
-      "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
-      "score": 12,
-      "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
-      "time": 1785747240.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49153029"
-    },
-    {
-      "title": "Characterizing Warp Divergence from Pascal to Blackwell",
-      "score": 5,
-      "url": "https://arxiv.org/abs/2607.23402",
-      "time": 1785437760.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49114146"
-    },
-    {
-      "title": "Show HN: We Fixed UniFi's Slow PPPoE Performance with PPPoE Half-Bridge",
-      "score": 24,
-      "url": "https://arcbox.dev/blog/unifi-pppoe-half-bridge-acceleration",
-      "time": 1785746064.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49152871"
-    },
-    {
-      "title": "Train Simulator Controller",
-      "score": 21,
-      "url": "https://z80.me/blog/tsc-2026-july/",
-      "time": 1785446319.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49115935"
-    },
-    {
-      "title": "Situational Awareness and the Impending Stock Market Volatility",
-      "score": 23,
-      "url": "https://www.emergingtrajectories.com/lh/situational-awareness-bigger-picture/",
-      "time": 1785737873.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49151871"
-    },
-    {
-      "title": "Why we write our own C and C++ inference engines",
-      "score": 72,
-      "url": "https://localai.io/blog/why-we-write-our-own-engines/",
-      "time": 1785514624.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49125065"
-    },
-    {
-      "title": "Show HN: ssh ssh.place",
-      "score": 130,
-      "url": "https://ssh.place",
-      "time": 1785716601.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49149805"
-    },
-    {
-      "title": "9front \"This Was Supposed to Be Fun\" Released",
-      "score": 12,
-      "url": "https://9front.org/releases/2026/08/02/0/",
-      "time": 1785755876.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49154249"
+      "title": "The Abandoned Fish Sauce Terrorizing a Small Canadian Town",
+      "score": 150,
+      "url": "https://defector.com/abandoned-fish-sauce-canada-interview",
+      "time": 1785514990.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49125168"
     }
   ]
 }
