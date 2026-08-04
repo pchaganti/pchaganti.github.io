@@ -1,75 +1,110 @@
 {
-  "last_updated": "2026-08-04T15:18:17.563530-04:00",
+  "last_updated": "2026-08-04T18:04:04.925459-04:00",
   "stories": [
     {
-      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-      "score": 288,
-      "url": "https://toneyalexander.github.io/inclusive-color-space/",
-      "time": 1785856582.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49170165"
-    },
-    {
-      "title": "Why some people mow a lawn better than others",
-      "score": 45,
-      "url": "https://pudding.cool/2026/06/mow/",
-      "time": 1785866772.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49172550"
-    },
-    {
-      "title": "Hop.earth – OpenStreetMap based car racing game",
-      "score": 28,
-      "url": "https://hop.earth/?server=lkhr7&route=fQ5nuu9R",
-      "time": 1785866119.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49172405"
-    },
-    {
-      "title": "The Warp Agent CLI",
-      "score": 45,
-      "url": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
-      "time": 1785863321.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49171766"
-    },
-    {
       "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-      "score": 43,
+      "score": 220,
       "url": "https://mistral.ai/news/shieldstral/",
       "time": 1785861365.0,
       "comments_url": "https://news.ycombinator.com/item?id=49171268"
     },
     {
-      "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
-      "score": 9,
-      "url": "https://edotenv.com/",
-      "time": 1785868562.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49172936"
+      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+      "score": 413,
+      "url": "https://toneyalexander.github.io/inclusive-color-space/",
+      "time": 1785856582.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49170165"
     },
     {
-      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
-      "score": 317,
-      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "time": 1785837655.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49166386"
+      "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+      "score": 538,
+      "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+      "time": 1785869498.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49173165"
     },
     {
       "title": "Waymo – Dallas Open to All",
-      "score": 9,
+      "score": 172,
       "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
       "time": 1785868181.0,
       "comments_url": "https://news.ycombinator.com/item?id=49172836"
     },
     {
+      "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
+      "score": 106,
+      "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
+      "time": 1785877779.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49175192"
+    },
+    {
+      "title": "Don't stop early: Case-folding source code at memory speed",
+      "score": 30,
+      "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
+      "time": 1785528426.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49127983"
+    },
+    {
+      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+      "score": 345,
+      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+      "time": 1785837655.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49166386"
+    },
+    {
+      "title": "Oxide Computer raises $445M (SEC Form D)",
+      "score": 93,
+      "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
+      "time": 1785874420.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49174407"
+    },
+    {
+      "title": "Hop.earth – OpenStreetMap based car racing game",
+      "score": 67,
+      "url": "https://hop.earth/?server=lkhr7&route=fQ5nuu9R",
+      "time": 1785866119.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49172405"
+    },
+    {
+      "title": "Why some people mow a lawn better than others",
+      "score": 146,
+      "url": "https://pudding.cool/2026/06/mow/",
+      "time": 1785866772.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49172550"
+    },
+    {
+      "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+      "score": 24,
+      "url": "https://edotenv.com/",
+      "time": 1785868562.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49172936"
+    },
+    {
       "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-      "score": 37,
+      "score": 62,
       "url": "https://arxiv.org/abs/2602.16763",
       "time": 1785859839.0,
       "comments_url": "https://news.ycombinator.com/item?id=49170915"
     },
     {
-      "title": "Vlt 1.0 and Hosted Package Registries",
-      "score": 31,
-      "url": "https://www.vlt.io/blog/1-0",
-      "time": 1785865435.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49172251"
+      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+      "score": 219,
+      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+      "time": 1785841297.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49166874"
+    },
+    {
+      "title": "The Warp Agent CLI",
+      "score": 84,
+      "url": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
+      "time": 1785863321.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49171766"
+    },
+    {
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "score": 290,
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "time": 1785857862.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49170479"
     },
     {
       "title": "Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead",
@@ -79,67 +114,32 @@
       "comments_url": "https://news.ycombinator.com/item?id=49171650"
     },
     {
-      "title": "Web security is too hard",
-      "score": 81,
-      "url": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
-      "time": 1785868172.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49172834"
-    },
-    {
-      "title": "U.S. used 'virtually all' of its long-range precision missiles during Iran war",
-      "score": 161,
-      "url": "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html",
-      "time": 1785841148.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49166860"
-    },
-    {
-      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
-      "score": 191,
-      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
-      "time": 1785841297.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49166874"
-    },
-    {
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "score": 209,
-      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "time": 1785857862.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49170479"
-    },
-    {
-      "title": "Blackmail Fail (2013)",
-      "score": 7,
-      "url": "https://gwern.net/blackmail",
-      "time": 1785867069.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49172597"
-    },
-    {
       "title": "Xbox goes down. You can't play games you own on disc",
-      "score": 453,
+      "score": 533,
       "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
       "time": 1785844862.0,
       "comments_url": "https://news.ycombinator.com/item?id=49167448"
     },
     {
-      "title": "Most countries provide between 20 and 40 paid days off",
-      "score": 46,
-      "url": "https://www.not-ship.com/not-ship-summer-vacation/",
-      "time": 1785859619.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49170859"
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "score": 6,
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
+      "time": 1785878059.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49175248"
     },
     {
-      "title": "The Red Strings Club",
-      "score": 4,
-      "url": "https://www.vegard.net/the-red-strings-club-review/",
-      "time": 1785764049.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49155622"
+      "title": "Blackmail Fail (2013)",
+      "score": 25,
+      "url": "https://gwern.net/blackmail",
+      "time": 1785867069.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49172597"
     },
     {
-      "title": "Perspec 1.0",
-      "score": 23,
-      "url": "https://adriansieber.com/announcing-perspec-1-0/",
-      "time": 1785858006.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49170508"
+      "title": "Most tech revolutions made work worse for employees",
+      "score": 50,
+      "url": "https://www.thisandthat.chat/blog/most-tech-revolutions-made-work-worse-for-employees/",
+      "time": 1785856237.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49170076"
     }
   ]
 }
