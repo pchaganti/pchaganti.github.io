@@ -1,61 +1,89 @@
 {
-  "last_updated": "2026-08-04T04:21:55.674168-04:00",
+  "last_updated": "2026-08-04T07:15:18.194040-04:00",
   "stories": [
     {
+      "title": "FFmpeg 9.0",
+      "score": 185,
+      "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+      "time": 1785835833.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49166202"
+    },
+    {
+      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+      "score": 44,
+      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+      "time": 1785837655.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49166386"
+    },
+    {
       "title": "LLMs reward expertise",
-      "score": 859,
+      "score": 1002,
       "url": "https://www.seangoedecke.com/llms-reward-expertise/",
       "time": 1785791633.0,
       "comments_url": "https://news.ycombinator.com/item?id=49161518"
     },
     {
+      "title": "Harness Engineering for Self-Improvement",
+      "score": 76,
+      "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+      "time": 1785824274.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49164896"
+    },
+    {
       "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
-      "score": 152,
+      "score": 203,
       "url": "https://github.com/leonickson1/Swiftlet",
       "time": 1785776055.0,
       "comments_url": "https://news.ycombinator.com/item?id=49158333"
     },
     {
-      "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
-      "score": 135,
-      "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
-      "time": 1785341266.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49099336"
+      "title": "U.S. used 'virtually all' of its long-range precision missiles during Iran war",
+      "score": 17,
+      "url": "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html",
+      "time": 1785841148.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49166860"
     },
     {
       "title": "Ten advances in mathematics and theoretical computer science",
-      "score": 525,
+      "score": 552,
       "url": "https://openai.com/index/ten-advances-in-mathematics/",
       "time": 1785774432.0,
       "comments_url": "https://news.ycombinator.com/item?id=49157930"
     },
     {
       "title": "Devtools must be open source",
-      "score": 588,
+      "score": 627,
       "url": "https://blog.exe.dev/devtools-must-be-open-source",
       "time": 1785766547.0,
       "comments_url": "https://news.ycombinator.com/item?id=49156111"
     },
     {
-      "title": "There Will Come Soft Rains (1950) [pdf]",
-      "score": 137,
-      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-      "time": 1785799493.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49162653"
+      "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
+      "score": 164,
+      "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
+      "time": 1785341266.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49099336"
     },
     {
-      "title": "Ask HN: Who is hiring? (August 2026)",
-      "score": 166,
-      "url": "https://news.ycombinator.com/item?id=49156683",
-      "time": 1785769254.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49156683"
+      "title": "Archaeologists Find Ancient Glyphs in the Amazon",
+      "score": 11,
+      "url": "https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html",
+      "time": 1785596132.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49135005"
     },
     {
       "title": "That time when I failed the Microsoft interview",
-      "score": 42,
+      "score": 74,
       "url": "https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/",
       "time": 1785319370.0,
       "comments_url": "https://news.ycombinator.com/item?id=49095386"
+    },
+    {
+      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "score": 497,
+      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+      "time": 1785749527.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49153374"
     },
     {
       "title": "CollectWise (YC F24) Is Hiring",
@@ -65,81 +93,53 @@
       "comments_url": "https://news.ycombinator.com/item?id=49165170"
     },
     {
-      "title": "Beauty in my backyard",
-      "score": 12,
-      "url": "https://worksinprogress.co/issue/beauty-in-my-backyard/",
-      "time": 1785479148.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49119671"
+      "title": "Ask HN: Who is hiring? (August 2026)",
+      "score": 184,
+      "url": "https://news.ycombinator.com/item?id=49156683",
+      "time": 1785769254.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49156683"
+    },
+    {
+      "title": "You don't need React: creating a minimal UI library in Vanilla JavaScript",
+      "score": 58,
+      "url": "https://pedroth.github.io/?p=post/NoNeedReact",
+      "time": 1785831062.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49165665"
+    },
+    {
+      "title": "There Will Come Soft Rains (1950) [pdf]",
+      "score": 166,
+      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+      "time": 1785799493.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49162653"
     },
     {
       "title": "Smaller, faster, safer: running Kimi and GLM at scale",
-      "score": 209,
+      "score": 226,
       "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
       "time": 1785776926.0,
       "comments_url": "https://news.ycombinator.com/item?id=49158581"
     },
     {
-      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "score": 471,
-      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-      "time": 1785749527.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49153374"
-    },
-    {
-      "title": "Ask HN: Who wants to be hired? (August 2026)",
-      "score": 109,
-      "url": "https://news.ycombinator.com/item?id=49156682",
-      "time": 1785769254.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49156682"
-    },
-    {
-      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
-      "score": 293,
-      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
-      "time": 1785764083.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49155629"
-    },
-    {
-      "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
-      "score": 69,
-      "url": "https://hoplite.sh",
-      "time": 1785774726.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49157997"
+      "title": "Cyberpunk Video Games",
+      "score": 5,
+      "url": "https://shellzine.net/cyberpunk-video-games/",
+      "time": 1785348064.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49100853"
     },
     {
       "title": "Twenty Years of Pandoc",
-      "score": 227,
+      "score": 279,
       "url": "https://pandoc.org/twenty-years-of-pandoc.html",
       "time": 1785769493.0,
       "comments_url": "https://news.ycombinator.com/item?id=49156750"
     },
     {
-      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
-      "score": 157,
-      "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
-      "time": 1785776530.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49158474"
-    },
-    {
-      "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
-      "score": 307,
-      "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
-      "time": 1785766140.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49156011"
-    },
-    {
-      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
-      "score": 99,
-      "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
-      "time": 1785794689.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49162086"
-    },
-    {
-      "title": "RosaicLabs, Atom RTL, and 32-Tile AMX: Trying to Piece Together a x86 Puzzle",
-      "score": 8,
-      "url": "https://chipsandcheese.com/p/rosaiclabs-atom-rtl-and-32-tile-amx",
-      "time": 1785473820.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49119166"
+      "title": "Beauty in my backyard",
+      "score": 29,
+      "url": "https://worksinprogress.co/issue/beauty-in-my-backyard/",
+      "time": 1785479148.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49119671"
     }
   ]
 }
