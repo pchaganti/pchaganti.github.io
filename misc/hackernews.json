@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-08-10T00:22:23.039326-04:00",
+  "last_updated": "2026-08-10T03:11:53.516973-04:00",
   "stories": [
     {
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "score": 63,
+      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "time": 1786341758.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49239751"
+    },
+    {
       "title": "What Happened to HackerOne?",
-      "score": 92,
+      "score": 166,
       "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
       "time": 1786328597.0,
       "comments_url": "https://news.ycombinator.com/item?id=49238561"
     },
     {
-      "title": "How I use LLMs to learn complex topics",
-      "score": 498,
-      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "time": 1786303009.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49234675"
-    },
-    {
-      "title": "Turn satellite imagery into a paper globe you fold yourself",
-      "score": 19,
-      "url": "https://foldingglobes.com/",
-      "time": 1786330658.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49238735"
-    },
-    {
-      "title": "How We Pushed CDC into Postgres",
-      "score": 48,
-      "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
-      "time": 1786323694.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49238050"
-    },
-    {
-      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-      "score": 4,
-      "url": "https://www.whodunnitai.com/",
-      "time": 1786331920.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49238851"
-    },
-    {
-      "title": "Taxi drivers rarely die of Alzheimer's",
-      "score": 219,
-      "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-      "time": 1786288906.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49232253"
-    },
-    {
-      "title": "Ask HN: What are you working on? (August 2026)",
-      "score": 201,
-      "url": "https://news.ycombinator.com/item?id=49233423",
-      "time": 1786296202.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49233423"
-    },
-    {
-      "title": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
-      "score": 30,
-      "url": "https://gitlab.com/Kazade/picophysics",
-      "time": 1785934320.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49182148"
-    },
-    {
-      "title": "Tuxedo No. 2 – Cocktail recipes",
-      "score": 66,
-      "url": "https://tuxedono2.com",
-      "time": 1786308526.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49235697"
-    },
-    {
-      "title": "Cool URIs Don't Change (1998)",
-      "score": 207,
-      "url": "https://www.w3.org/Provider/Style/URI",
-      "time": 1786285973.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49231809"
-    },
-    {
-      "title": "\"The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes\" (1892)",
-      "score": 42,
-      "url": "https://publicdomainreview.org/collection/marnameh/",
-      "time": 1786075496.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49205793"
+      "title": "Auto mode is now the default in Claude Code",
+      "score": 151,
+      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "time": 1786333800.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49239021"
     },
     {
       "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
-      "score": 3,
+      "score": 41,
       "url": "https://github.com/shinyquagsire23/Klepton",
       "time": 1786331568.0,
       "comments_url": "https://news.ycombinator.com/item?id=49238818"
     },
     {
-      "title": "New Zealand lost its music media, and what we're building to replace it",
-      "score": 92,
-      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
-      "time": 1786308149.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49235641"
+      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "score": 53,
+      "url": "https://www.whodunnitai.com/",
+      "time": 1786331920.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49238851"
+    },
+    {
+      "title": "How I use LLMs to learn complex topics",
+      "score": 589,
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "time": 1786303009.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49234675"
+    },
+    {
+      "title": "The Philippines' big offshoring industry is growing despite AI",
+      "score": 18,
+      "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
+      "time": 1786336524.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49239226"
+    },
+    {
+      "title": "How We Pushed CDC into Postgres",
+      "score": 79,
+      "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+      "time": 1786323694.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49238050"
+    },
+    {
+      "title": "Slap ROM Patcher",
+      "score": 10,
+      "url": "https://nyuu.page/projects/slap/",
+      "time": 1786078492.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49206028"
+    },
+    {
+      "title": "Turn satellite imagery into a paper globe you fold yourself",
+      "score": 36,
+      "url": "https://foldingglobes.com/",
+      "time": 1786330658.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49238735"
+    },
+    {
+      "title": "Taxi drivers rarely die of Alzheimer's",
+      "score": 264,
+      "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+      "time": 1786288906.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49232253"
+    },
+    {
+      "title": "Nearest Pint",
+      "score": 21,
+      "url": "https://knowwhereconsulting.co.uk/maps/pubs/",
+      "time": 1785872830.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49174017"
+    },
+    {
+      "title": "An Interesting Fourier Transform – 1/F Noise",
+      "score": 8,
+      "url": "https://www.dsprelated.com/showarticle/40.php",
+      "time": 1786067770.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49205082"
+    },
+    {
+      "title": "Ask HN: What are you working on? (August 2026)",
+      "score": 229,
+      "url": "https://news.ycombinator.com/item?id=49233423",
+      "time": 1786296202.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49233423"
     },
     {
       "title": "ATProto for Distributed Systems Engineers",
-      "score": 22,
+      "score": 59,
       "url": "https://atproto.com/articles/atproto-for-distsys-engineers",
       "time": 1786052137.0,
       "comments_url": "https://news.ycombinator.com/item?id=49202912"
     },
     {
       "title": "The tragedy of the commons, AI edition",
-      "score": 88,
+      "score": 110,
       "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
       "time": 1786304632.0,
       "comments_url": "https://news.ycombinator.com/item?id=49235011"
     },
     {
-      "title": "Andrew Wiles on proving Fermat’s Last Theorem (1995) [video]",
-      "score": 41,
-      "url": "https://www.youtube.com/watch?v=GS7CxAtV5Ks",
-      "time": 1786056084.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49203626"
+      "title": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
+      "score": 48,
+      "url": "https://gitlab.com/Kazade/picophysics",
+      "time": 1785934320.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49182148"
     },
     {
-      "title": "OpenChamber: An Agentic Development Environment",
-      "score": 121,
-      "url": "https://openchamber.dev/",
-      "time": 1786296436.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49233448"
+      "title": "Cool URIs Don't Change (1998)",
+      "score": 224,
+      "url": "https://www.w3.org/Provider/Style/URI",
+      "time": 1786285973.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49231809"
     },
     {
-      "title": "Everything you do is being recorded",
-      "score": 237,
-      "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
-      "time": 1786275048.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49230477"
+      "title": "New Zealand lost its music media, and what we're building to replace it",
+      "score": 107,
+      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
+      "time": 1786308149.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49235641"
     },
     {
-      "title": "Japanese court overturns Red RAW video patent",
-      "score": 69,
-      "url": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/",
-      "time": 1786322184.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49237873"
-    },
-    {
-      "title": "The German Mittelstand",
-      "score": 20,
-      "url": "https://kieranvelasquez.substack.com/p/on-the-german-mittelstand",
-      "time": 1786001574.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49193666"
+      "title": "Tuxedo No. 2 – Cocktail recipes",
+      "score": 82,
+      "url": "https://tuxedono2.com",
+      "time": 1786308526.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49235697"
     }
   ]
 }
