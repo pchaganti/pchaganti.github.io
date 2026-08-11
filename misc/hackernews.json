@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-08-11T14:47:41.650388-04:00",
+  "last_updated": "2026-08-11T17:35:34.960601-04:00",
   "stories": [
     {
-      "title": "England set to be one of the first countries to eliminate hepatitis C",
-      "score": 402,
-      "url": "https://www.bbc.com/news/articles/c75gk620r22o",
-      "time": 1786452119.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49257377"
-    },
-    {
-      "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-      "score": 208,
-      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "time": 1786459833.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49259339"
-    },
-    {
-      "title": "OpenSSH 10.5 released, AI assistance now welcome",
-      "score": 24,
-      "url": "https://www.openssh.org/releasenotes.html#10.5",
-      "time": 1786470577.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49261895"
-    },
-    {
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "score": 280,
-      "url": "https://stolen-thoughts.com/",
-      "time": 1786454520.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49257876"
-    },
-    {
-      "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
-      "score": 62,
-      "url": "https://photosynthesis.camera",
-      "time": 1786229230.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49226623"
-    },
-    {
-      "title": "Manus will return to operating as an independent company",
-      "score": 87,
-      "url": "https://manus.im/blog/a-note-to-our-users",
-      "time": 1786457693.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49258764"
-    },
-    {
-      "title": "Jolt: Clojure compiler implemented with Chez Scheme",
-      "score": 73,
-      "url": "https://jolt-lang.github.io",
-      "time": 1786210700.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49223965"
-    },
-    {
-      "title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
+      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
       "score": 99,
-      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-      "time": 1786467429.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49261133"
+      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+      "time": 1786476952.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49263340"
     },
     {
-      "title": "Nvidia's Risky Business",
-      "score": 209,
-      "url": "https://stratechery.com/2026/nvidias-risky-business/",
-      "time": 1786442520.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49255710"
+      "title": "Compression is prediction",
+      "score": 97,
+      "url": "https://ngrok.com/blog/compression-is-prediction",
+      "time": 1786477784.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49263497"
     },
     {
-      "title": "As AI eats the web, the internet’s collective memory is disappearing",
-      "score": 775,
-      "url": "https://thewalrus.ca/google-search-is-dying/",
-      "time": 1786401390.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49250836"
-    },
-    {
-      "title": "France to ban unsolicited telemarketing calls",
-      "score": 939,
-      "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
-      "time": 1786436146.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49254880"
-    },
-    {
-      "title": "Archive of Animal Photography Reveals 18,000 Species and Counting",
-      "score": 15,
-      "url": "https://www.smithsonianmag.com/science-nature/this-amazing-archive-of-animal-photography-reveals-18000-species-and-counting-heres-how-joel-sartore-built-his-photo-ark-180989282/",
-      "time": 1786239700.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49227610"
-    },
-    {
-      "title": "Launch HN: Keet (YC S24) – An app to create video courses on anything",
-      "score": 23,
-      "url": "https://www.trykeet.com/",
-      "time": 1786459717.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49259309"
-    },
-    {
-      "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
-      "score": 75,
-      "url": "https://github.com/TheRealYT/git-knife",
-      "time": 1786460974.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49259611"
-    },
-    {
-      "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
-      "score": 400,
-      "url": "https://github.com/antirez/h3.c",
-      "time": 1786411329.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49252179"
-    },
-    {
-      "title": "What I learned by putting GitHub Copilot behind a MitM proxy",
-      "score": 105,
-      "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
-      "time": 1786444847.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49256057"
-    },
-    {
-      "title": "Federal vendor with $50M in contracts leaves portal broken for a month",
-      "score": 87,
-      "url": "https://www.propublica.org/article/foia-requests-responses",
-      "time": 1786458741.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49259043"
-    },
-    {
-      "title": "Mojo 1.0 Is Here",
-      "score": 31,
+      "title": "Mojo 1.0",
+      "score": 196,
       "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
       "time": 1786467406.0,
       "comments_url": "https://news.ycombinator.com/item?id=49261128"
     },
     {
-      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-      "score": 489,
-      "url": "https://cactuscompute.com/needle",
-      "time": 1786382527.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49246804"
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "score": 395,
+      "url": "https://stolen-thoughts.com/",
+      "time": 1786454520.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49257876"
     },
     {
-      "title": "Halcyon Video – a 3D video store for your media server",
-      "score": 54,
-      "url": "https://github.com/halcyon-video/halcyon-video",
-      "time": 1786113480.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49211158"
+      "title": "How we used to get jobs: A newspaper classifieds story",
+      "score": 68,
+      "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
+      "time": 1786471796.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49262211"
+    },
+    {
+      "title": "Making holograms with a pen plotter",
+      "score": 59,
+      "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+      "time": 1786474295.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49262811"
+    },
+    {
+      "title": "A new study of a bot running a store finds it is friendly but not very smart",
+      "score": 40,
+      "url": "https://www.nytimes.com/2026/08/04/us/ai-boss-san-francisco-andon-market.html",
+      "time": 1785873112.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49174088"
+    },
+    {
+      "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
+      "score": 131,
+      "url": "https://photosynthesis.camera",
+      "time": 1786229230.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49226623"
+    },
+    {
+      "title": "OpenAI’s head of ethics leaves less than a year after joining",
+      "score": 170,
+      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+      "time": 1786450987.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49257160"
+    },
+    {
+      "title": "Jolt: Clojure compiler implemented with Chez Scheme",
+      "score": 118,
+      "url": "https://jolt-lang.github.io",
+      "time": 1786210700.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49223965"
+    },
+    {
+      "title": "England set to be one of the first countries to eliminate hepatitis C",
+      "score": 450,
+      "url": "https://www.bbc.com/news/articles/c75gk620r22o",
+      "time": 1786452119.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49257377"
+    },
+    {
+      "title": "AI Is Solving CTF Challenges in Minutes",
+      "score": 14,
+      "url": "https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes",
+      "time": 1786482824.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49264578"
+    },
+    {
+      "title": "Let’s take apart your phone",
+      "score": 35,
+      "url": "https://everythingmachine.io/phone/",
+      "time": 1785966565.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49189500"
+    },
+    {
+      "title": "Manus will return to operating as an independent company",
+      "score": 112,
+      "url": "https://manus.im/blog/a-note-to-our-users",
+      "time": 1786457693.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49258764"
+    },
+    {
+      "title": "OpenSSH 10.5/10.5p1",
+      "score": 73,
+      "url": "https://www.openssh.org/releasenotes.html#10.5",
+      "time": 1786470577.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49261895"
+    },
+    {
+      "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
+      "score": 102,
+      "url": "https://github.com/TheRealYT/git-knife",
+      "time": 1786460974.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49259611"
+    },
+    {
+      "title": "Nvidia's Risky Business",
+      "score": 254,
+      "url": "https://stratechery.com/2026/nvidias-risky-business/",
+      "time": 1786442520.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49255710"
+    },
+    {
+      "title": "CSS properties you should know for better text designs",
+      "score": 36,
+      "url": "https://master.dev/blog/typographic-css-tricks/",
+      "time": 1786468566.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49261417"
+    },
+    {
+      "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+      "score": 269,
+      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "time": 1786459833.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49259339"
+    },
+    {
+      "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
+      "score": 413,
+      "url": "https://github.com/antirez/h3.c",
+      "time": 1786411329.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49252179"
     }
   ]
 }
