@@ -1,68 +1,103 @@
 {
-  "last_updated": "2026-08-12T14:48:47.200761-04:00",
+  "last_updated": "2026-08-12T17:35:00.439200-04:00",
   "stories": [
     {
       "title": "DeepSeek V4 Pro 0813",
-      "score": 368,
+      "score": 598,
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
       "time": 1786550690.0,
       "comments_url": "https://news.ycombinator.com/item?id=49274600"
     },
     {
-      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-      "score": 485,
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "time": 1786544550.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49272832"
-    },
-    {
-      "title": "Zed: Delta",
-      "score": 31,
+      "title": "Delta",
+      "score": 238,
       "url": "https://zed.dev/blog/introducing-delta",
       "time": 1786558799.0,
       "comments_url": "https://news.ycombinator.com/item?id=49276574"
     },
     {
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "score": 660,
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "time": 1786544550.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49272832"
+    },
+    {
+      "title": "Qwen3.8-2.4T",
+      "score": 380,
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "time": 1786546877.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49273478"
+    },
+    {
+      "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
+      "score": 264,
+      "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+      "time": 1786553665.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49275385"
+    },
+    {
       "title": "2026 Eclipse Webcams",
-      "score": 401,
+      "score": 440,
       "url": "https://jonty.github.io/2026_eclipse_webcams/",
       "time": 1786535581.0,
       "comments_url": "https://news.ycombinator.com/item?id=49270953"
     },
     {
-      "title": "Qwen3.8-2.4T",
-      "score": 65,
-      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8",
-      "time": 1786551976.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49274950"
-    },
-    {
-      "title": "Glaciers on the Climate Dashboard",
-      "score": 59,
-      "url": "https://climate.metoffice.cloud/glaciers.html",
-      "time": 1786552705.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49275132"
+      "title": "People who grew up with high economic connectedness earn more",
+      "score": 81,
+      "url": "https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/",
+      "time": 1786558623.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49276534"
     },
     {
       "title": "Tim King, AmigaDOS developer, has died",
-      "score": 139,
+      "score": 198,
       "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
       "time": 1786543751.0,
       "comments_url": "https://news.ycombinator.com/item?id=49272655"
     },
     {
       "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "score": 140,
+      "score": 195,
       "url": "https://knownagents.com/insights",
       "time": 1786543366.0,
       "comments_url": "https://news.ycombinator.com/item?id=49272569"
     },
     {
       "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
-      "score": 37,
+      "score": 87,
       "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
       "time": 1786553485.0,
       "comments_url": "https://news.ycombinator.com/item?id=49275335"
+    },
+    {
+      "title": "Grok 4.6",
+      "score": 299,
+      "url": "https://x.ai/news/grok-4-6",
+      "time": 1786548770.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49274027"
+    },
+    {
+      "title": "Why tiny JPEGs look different in Chrome",
+      "score": 216,
+      "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+      "time": 1786543254.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49272549"
+    },
+    {
+      "title": "A Tale of Dynamic Programming (2022)",
+      "score": 34,
+      "url": "https://iagoleal.com/posts/dynamic-programming/",
+      "time": 1786289167.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49232312"
+    },
+    {
+      "title": "Pixel Watch 5",
+      "score": 66,
+      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
+      "time": 1786551277.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49274757"
     },
     {
       "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
@@ -72,74 +107,39 @@
       "comments_url": "https://news.ycombinator.com/item?id=49275465"
     },
     {
-      "title": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
-      "score": 162,
-      "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-      "time": 1786553665.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49275385"
+      "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
+      "score": 200,
+      "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
+      "time": 1786534107.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49270726"
     },
     {
-      "title": "Why Tiny JPEGs Look Different in Chrome",
-      "score": 171,
-      "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-      "time": 1786543254.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49272549"
-    },
-    {
-      "title": "Wednesday, August 12: GitHub, Incident with Pull Requests and Issues",
-      "score": 46,
-      "url": "https://www.githubstatus.com/incidents/76t89hbfb09h",
-      "time": 1786551747.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49274894"
-    },
-    {
-      "title": "Pixel Watch 5",
-      "score": 35,
-      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
-      "time": 1786551277.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49274757"
-    },
-    {
-      "title": "License plate reader searches should require a warrant",
-      "score": 382,
-      "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
-      "time": 1786545819.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49273165"
-    },
-    {
-      "title": "AI is removing the middle class of software engineering",
-      "score": 465,
+      "title": "AI is removing the middle class of software engineering?",
+      "score": 626,
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "time": 1786540805.0,
       "comments_url": "https://news.ycombinator.com/item?id=49271994"
     },
     {
-      "title": "Bike Bureau: Report Bike Lane Obstructions",
-      "score": 29,
-      "url": "https://loudbicycle.com/bb",
-      "time": 1786551622.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49274854"
+      "title": "License plate reader searches should require a warrant",
+      "score": 475,
+      "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
+      "time": 1786545819.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49273165"
     },
     {
-      "title": "Qwen/Qwen3.8-2.4T-A95B",
-      "score": 227,
-      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "time": 1786546877.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49273478"
+      "title": "Lovable raises $400M Series C",
+      "score": 69,
+      "url": "https://lovable.dev/blog/series-c",
+      "time": 1786551634.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49274858"
     },
     {
-      "title": "What sort of maths are LLMs good at?",
-      "score": 204,
-      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
-      "time": 1786529065.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49270022"
-    },
-    {
-      "title": "Shade Map",
-      "score": 74,
-      "url": "https://shademap.app",
-      "time": 1786539681.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49271757"
+      "title": "The Essential Question: “What should I read next?”",
+      "score": 32,
+      "url": "https://thenewcuriosityshop.substack.com/p/the-essential-question",
+      "time": 1785977298.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49191000"
     }
   ]
 }
