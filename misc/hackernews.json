@@ -1,96 +1,138 @@
 {
-  "last_updated": "2026-08-13T11:50:16.483911-04:00",
+  "last_updated": "2026-08-13T14:49:14.800763-04:00",
   "stories": [
     {
-      "title": "DeepSeek Harness",
-      "score": 290,
-      "url": "https://github.com/deepseek-ai/deepseek-harness",
-      "time": 1786625882.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49285244"
+      "title": "Gemini 3.7 Flash",
+      "score": 244,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "time": 1786641802.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49289112"
     },
     {
-      "title": "Gloomberb",
-      "score": 139,
-      "url": "https://gloom.sh/",
-      "time": 1786629152.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49285982"
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "score": 59,
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "time": 1786644602.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49289844"
+    },
+    {
+      "title": "Choose Boring Technology (2015)",
+      "score": 64,
+      "url": "https://mcfunley.com/choose-boring-technology",
+      "time": 1786643293.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49289512"
+    },
+    {
+      "title": "Mistral OCR 4.1",
+      "score": 96,
+      "url": "https://docs.mistral.ai/models/ocr-4-1",
+      "time": 1786640712.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49288889"
+    },
+    {
+      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+      "score": 41,
+      "url": "https://donkeybas.com/",
+      "time": 1786643150.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49289465"
     },
     {
       "title": "Spaghettifying DRAM",
-      "score": 129,
+      "score": 318,
       "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
       "time": 1786630633.0,
       "comments_url": "https://news.ycombinator.com/item?id=49286341"
     },
     {
-      "title": "AI agents lie, cheat and steal. That is putting off users",
-      "score": 117,
-      "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
-      "time": 1786627725.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49285604"
+      "title": "Tocharian Online",
+      "score": 26,
+      "url": "https://lrc.la.utexas.edu/eieol/tokol/0",
+      "time": 1786641346.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49289026"
     },
     {
-      "title": "Heart Aerospace Completes First Flight of Largest Electric Aircraft",
-      "score": 61,
-      "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
-      "time": 1786630311.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49286270"
+      "title": "Where did the old web go? We followed 657,607 links to find out",
+      "score": 26,
+      "url": "https://0.mk/blog/link-rot",
+      "time": 1786643358.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49289532"
     },
     {
-      "title": "Kubernetes on Oxide: How Customer Needs Shaped Our Integrations",
-      "score": 36,
+      "title": "AI At Home Part 1: A Box Of Scraps",
+      "score": 30,
+      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+      "time": 1786638125.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49288293"
+    },
+    {
+      "title": "Come for ENIAC, Stay for UNIVAC and Skeduflo",
+      "score": 45,
+      "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
+      "time": 1786456526.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49258428"
+    },
+    {
+      "title": "DeepSeek Harness developer preview",
+      "score": 447,
+      "url": "https://deepseek.com/harness/en/",
+      "time": 1786625882.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49285244"
+    },
+    {
+      "title": "How art invented humanity",
+      "score": 51,
+      "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
+      "time": 1786574860.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49279638"
+    },
+    {
+      "title": "Gloomberb",
+      "score": 298,
+      "url": "https://gloom.sh/",
+      "time": 1786629152.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49285982"
+    },
+    {
+      "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
+      "score": 97,
       "url": "https://oxide.computer/blog/kubernetes-on-oxide",
       "time": 1786631201.0,
       "comments_url": "https://news.ycombinator.com/item?id=49286485"
     },
     {
-      "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
-      "score": 28,
-      "url": "https://github.com/fellowgeek/mcp-memory",
-      "time": 1786629467.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49286073"
+      "title": "Ordinary abundance",
+      "score": 105,
+      "url": "https://ordinaryabundance.com/",
+      "time": 1786628381.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49285770"
     },
     {
-      "title": "I Built a 500k-Domain Search Engine for Makers in a Weekend for $10",
-      "score": 37,
-      "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
-      "time": 1786628179.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49285718"
+      "title": "Choosing an AI model: one prompt, 11 models, different results",
+      "score": 129,
+      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+      "time": 1786626329.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49285327"
     },
     {
-      "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
-      "score": 18,
-      "url": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
-      "time": 1786630714.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49286357"
+      "title": "Codex in ChatGPT desktop app for Linux is now in preview",
+      "score": 405,
+      "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
+      "time": 1786596821.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49281916"
     },
     {
-      "title": "My Rules for Using Spreadsheets",
-      "score": 42,
-      "url": "https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/",
-      "time": 1786626024.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49285268"
+      "title": "GoAccess – Open-source real-time log analyzer and interactive viewer",
+      "score": 17,
+      "url": "https://goaccess.io/",
+      "time": 1786638136.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49288296"
     },
     {
-      "title": "Time to Move On: Querying Without Nulls and Bags",
-      "score": 26,
-      "url": "https://arxiv.org/abs/2608.10863",
-      "time": 1786629296.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49286030"
-    },
-    {
-      "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
-      "score": 252,
-      "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
-      "time": 1786622990.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49284774"
-    },
-    {
-      "title": "Anthropic: Introducing The Conceptual Reasoning Index",
-      "score": 48,
-      "url": "https://alignment.anthropic.com/2026/conceptual-reasoning-index/",
-      "time": 1786628894.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49285909"
+      "title": "JDK 27 G1/Parallel/Serial GC Changes",
+      "score": 12,
+      "url": "https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html",
+      "time": 1786641759.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49289101"
     },
     {
       "title": "ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)",
@@ -98,48 +140,6 @@
       "url": "https://atg.science/careers",
       "time": 1786622462.0,
       "comments_url": "https://news.ycombinator.com/item?id=49284697"
-    },
-    {
-      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-      "score": 342,
-      "url": "https://openai.com/codex/",
-      "time": 1786596821.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49281916"
-    },
-    {
-      "title": "McDonald's Built a 515-Page Dossier on Me. It Says I'll Never Stop Eating There",
-      "score": 45,
-      "url": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
-      "time": 1786631871.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49286662"
-    },
-    {
-      "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
-      "score": 8,
-      "url": "https://www.codewithbullet.com",
-      "time": 1786608870.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49283063"
-    },
-    {
-      "title": "Better Gaussian Splatting in Julia",
-      "score": 61,
-      "url": "https://pxl-th.github.io/blog/better-gs-julia/",
-      "time": 1786287664.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49232039"
-    },
-    {
-      "title": "Picking berries is my meditation",
-      "score": 76,
-      "url": "https://www.tsoon.com/posts/picking-berries-meditation/",
-      "time": 1786217042.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49224997"
-    },
-    {
-      "title": "The lattice of sets of natural numbers is rich (2021)",
-      "score": 84,
-      "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
-      "time": 1786369993.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49243687"
     }
   ]
 }
