@@ -1,54 +1,96 @@
 {
-  "last_updated": "2026-08-13T08:46:54.378830-04:00",
+  "last_updated": "2026-08-13T11:50:16.483911-04:00",
   "stories": [
     {
+      "title": "DeepSeek Harness",
+      "score": 290,
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "time": 1786625882.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49285244"
+    },
+    {
+      "title": "Gloomberb",
+      "score": 139,
+      "url": "https://gloom.sh/",
+      "time": 1786629152.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49285982"
+    },
+    {
+      "title": "Spaghettifying DRAM",
+      "score": 129,
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "time": 1786630633.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49286341"
+    },
+    {
+      "title": "AI agents lie, cheat and steal. That is putting off users",
+      "score": 117,
+      "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
+      "time": 1786627725.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49285604"
+    },
+    {
+      "title": "Heart Aerospace Completes First Flight of Largest Electric Aircraft",
+      "score": 61,
+      "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
+      "time": 1786630311.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49286270"
+    },
+    {
+      "title": "Kubernetes on Oxide: How Customer Needs Shaped Our Integrations",
+      "score": 36,
+      "url": "https://oxide.computer/blog/kubernetes-on-oxide",
+      "time": 1786631201.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49286485"
+    },
+    {
+      "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
+      "score": 28,
+      "url": "https://github.com/fellowgeek/mcp-memory",
+      "time": 1786629467.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49286073"
+    },
+    {
+      "title": "I Built a 500k-Domain Search Engine for Makers in a Weekend for $10",
+      "score": 37,
+      "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
+      "time": 1786628179.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49285718"
+    },
+    {
+      "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
+      "score": 18,
+      "url": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
+      "time": 1786630714.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49286357"
+    },
+    {
+      "title": "My Rules for Using Spreadsheets",
+      "score": 42,
+      "url": "https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/",
+      "time": 1786626024.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49285268"
+    },
+    {
+      "title": "Time to Move On: Querying Without Nulls and Bags",
+      "score": 26,
+      "url": "https://arxiv.org/abs/2608.10863",
+      "time": 1786629296.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49286030"
+    },
+    {
       "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
-      "score": 67,
+      "score": 252,
       "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
       "time": 1786622990.0,
       "comments_url": "https://news.ycombinator.com/item?id=49284774"
     },
     {
-      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-      "score": 247,
-      "url": "https://openai.com/codex/",
-      "time": 1786596821.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49281916"
-    },
-    {
-      "title": "The lattice of sets of natural numbers is rich",
-      "score": 53,
-      "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
-      "time": 1786369993.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49243687"
-    },
-    {
-      "title": "DeepSeek V4 Pro 0813",
-      "score": 968,
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "time": 1786550690.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49274600"
-    },
-    {
-      "title": "Picking berries is my meditation",
-      "score": 31,
-      "url": "https://www.tsoon.com/posts/picking-berries-meditation/",
-      "time": 1786217042.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49224997"
-    },
-    {
-      "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
-      "score": 1102,
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "time": 1786544550.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49272832"
-    },
-    {
-      "title": "Qwen3.8-2.4T",
-      "score": 661,
-      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "time": 1786546877.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49273478"
+      "title": "Anthropic: Introducing The Conceptual Reasoning Index",
+      "score": 48,
+      "url": "https://alignment.anthropic.com/2026/conceptual-reasoning-index/",
+      "time": 1786628894.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49285909"
     },
     {
       "title": "ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)",
@@ -58,88 +100,46 @@
       "comments_url": "https://news.ycombinator.com/item?id=49284697"
     },
     {
-      "title": "Delta",
-      "score": 595,
-      "url": "https://zed.dev/blog/introducing-delta",
-      "time": 1786558799.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49276574"
+      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+      "score": 342,
+      "url": "https://openai.com/codex/",
+      "time": 1786596821.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49281916"
     },
     {
-      "title": "Principia Mathematica is modern and insightful",
-      "score": 200,
-      "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
-      "time": 1786577181.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49279928"
+      "title": "McDonald's Built a 515-Page Dossier on Me. It Says I'll Never Stop Eating There",
+      "score": 45,
+      "url": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
+      "time": 1786631871.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49286662"
     },
     {
-      "title": "Antiqua–Fraktur dispute",
-      "score": 120,
-      "url": "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute",
-      "time": 1786364573.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49242698"
+      "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
+      "score": 8,
+      "url": "https://www.codewithbullet.com",
+      "time": 1786608870.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49283063"
     },
     {
-      "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
-      "score": 588,
-      "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
-      "time": 1786534107.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49270726"
+      "title": "Better Gaussian Splatting in Julia",
+      "score": 61,
+      "url": "https://pxl-th.github.io/blog/better-gs-julia/",
+      "time": 1786287664.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49232039"
     },
     {
-      "title": "Come for Eniac, Stay for Univac and Skeduflo",
-      "score": 9,
-      "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
-      "time": 1786456526.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49258428"
+      "title": "Picking berries is my meditation",
+      "score": 76,
+      "url": "https://www.tsoon.com/posts/picking-berries-meditation/",
+      "time": 1786217042.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49224997"
     },
     {
-      "title": "2026 Eclipse Webcams",
-      "score": 499,
-      "url": "https://jonty.github.io/2026_eclipse_webcams/",
-      "time": 1786535581.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49270953"
-    },
-    {
-      "title": "Flutter 3.47",
-      "score": 144,
-      "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
-      "time": 1786578360.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49280061"
-    },
-    {
-      "title": "The punched card tabulator",
-      "score": 25,
-      "url": "https://www.ibm.com/history/punched-card-tabulator",
-      "time": 1786114918.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49211530"
-    },
-    {
-      "title": "Why Target Common Lisp for Code Generation?",
-      "score": 124,
-      "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
-      "time": 1786524053.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49269429"
-    },
-    {
-      "title": "Grok 4.6",
-      "score": 584,
-      "url": "https://x.ai/news/grok-4-6",
-      "time": 1786548770.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49274027"
-    },
-    {
-      "title": "Mushroom behind 'tiny people' hallucinations identified",
-      "score": 193,
-      "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
-      "time": 1786152020.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49218040"
-    },
-    {
-      "title": "Tim King, AmigaDOS developer, has died",
-      "score": 284,
-      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-      "time": 1786543751.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49272655"
+      "title": "The lattice of sets of natural numbers is rich (2021)",
+      "score": 84,
+      "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
+      "time": 1786369993.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49243687"
     }
   ]
 }
