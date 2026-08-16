@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-08-15T23:39:24.959234-04:00",
+  "last_updated": "2026-08-16T02:22:54.906160-04:00",
   "stories": [
     {
       "title": "Asus Bike Booster",
-      "score": 154,
+      "score": 276,
       "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
       "time": 1786516392.0,
       "comments_url": "https://news.ycombinator.com/item?id=49268580"
     },
     {
+      "title": "The quirky personal homepages of programming language creators",
+      "score": 51,
+      "url": "https://breck.lol/plMakers.html",
+      "time": 1786854240.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49316888"
+    },
+    {
       "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
-      "score": 46,
+      "score": 108,
       "url": "https://duckdb.org/2026/07/31/asynchronous-io",
       "time": 1786366878.0,
       "comments_url": "https://news.ycombinator.com/item?id=49243061"
     },
     {
       "title": "Semaglutide linked to lower predicted dementia risk",
-      "score": 369,
+      "score": 398,
       "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
       "time": 1786809533.0,
       "comments_url": "https://news.ycombinator.com/item?id=49311651"
     },
     {
-      "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
-      "score": 26,
-      "url": "https://www.micdrop.gg/",
-      "time": 1786841189.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49315742"
+      "title": "Patterns and problems in emerging multi-agent systems",
+      "score": 37,
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "time": 1786846373.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49316271"
+    },
+    {
+      "title": "The Iran War Is a Whole New Level of Quagmire for the US",
+      "score": 18,
+      "url": "https://www.politico.com/news/magazine/2026/08/12/the-us-forgot-the-lessons-of-iraq-now-its-desperate-for-ideas-on-iran-01033217",
+      "time": 1786859132.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49317234"
     },
     {
       "title": "Cultivating a state of mind where new ideas are born (2023)",
-      "score": 100,
+      "score": 134,
       "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
       "time": 1786827251.0,
       "comments_url": "https://news.ycombinator.com/item?id=49314235"
     },
     {
-      "title": "AI in drug discovery – what it is, where we stand and the path forward",
-      "score": 108,
-      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "time": 1786821173.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49313367"
+      "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
+      "score": 43,
+      "url": "https://www.micdrop.gg/",
+      "time": 1786841189.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49315742"
     },
     {
       "title": "Guiding Ships with Moire Patterns",
-      "score": 8,
+      "score": 27,
       "url": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
       "time": 1786843604.0,
       "comments_url": "https://news.ycombinator.com/item?id=49315995"
     },
     {
-      "title": "Tea5767-Radio-Tuner",
-      "score": 27,
-      "url": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
-      "time": 1786838075.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49315456"
-    },
-    {
-      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
-      "score": 225,
-      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-      "time": 1786802689.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49310682"
-    },
-    {
-      "title": "Abdominal fat predicts heart disease risk better than BMI",
-      "score": 183,
-      "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
-      "time": 1786828474.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49314403"
-    },
-    {
-      "title": "RISC-V: They Should Have Known Better",
-      "score": 249,
-      "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-      "time": 1786711856.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49298035"
-    },
-    {
-      "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
-      "score": 16,
-      "url": "https://waku.sh",
-      "time": 1786840724.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49315709"
-    },
-    {
-      "title": "A fortuitous decade as an indie software developer",
-      "score": 42,
-      "url": "https://lapcatsoftware.com/articles/2026/8/3.html",
-      "time": 1786375225.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49244872"
-    },
-    {
-      "title": "Tracking down a Zsh history data loss bug",
-      "score": 48,
-      "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
-      "time": 1786829949.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49314579"
+      "title": "Targeted marine cloud brightening weakens subsequent El Niño",
+      "score": 12,
+      "url": "https://www.science.org/doi/10.1126/sciadv.adx3012",
+      "time": 1786851605.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49316685"
     },
     {
       "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
-      "score": 117,
+      "score": 162,
       "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
       "time": 1786821651.0,
       "comments_url": "https://news.ycombinator.com/item?id=49313428"
     },
     {
       "title": "Software Engineering fundamentals matter more",
-      "score": 26,
+      "score": 78,
       "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
       "time": 1786833069.0,
       "comments_url": "https://news.ycombinator.com/item?id=49314902"
     },
     {
+      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+      "score": 245,
+      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+      "time": 1786802689.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49310682"
+    },
+    {
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "score": 125,
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "time": 1786821173.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49313367"
+    },
+    {
+      "title": "Numba in the Browser: Unlocking a New Scientific Python Stack in JupyterLite",
+      "score": 24,
+      "url": "https://notebook.link/blog/numba-in-the-browser/",
+      "time": 1786524263.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49269451"
+    },
+    {
+      "title": "RISC-V: They Should Have Known Better",
+      "score": 274,
+      "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+      "time": 1786711856.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49298035"
+    },
+    {
+      "title": "Tea5767-Radio-Tuner",
+      "score": 35,
+      "url": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
+      "time": 1786838075.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49315456"
+    },
+    {
       "title": "Zapping Rocks Unlocks Stimulated Geologic Hydrogen",
-      "score": 3,
+      "score": 12,
       "url": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
       "time": 1786847770.0,
       "comments_url": "https://news.ycombinator.com/item?id=49316395"
     },
     {
-      "title": "AI has access to a vastly larger working memory than the human brain",
-      "score": 433,
-      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "time": 1786817582.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49312845"
+      "title": "Abdominal fat predicts heart disease risk better than BMI",
+      "score": 220,
+      "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+      "time": 1786828474.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49314403"
     },
     {
-      "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
-      "score": 28,
-      "url": "https://sugartrack-beta.vercel.app/",
-      "time": 1786832894.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49314884"
-    },
-    {
-      "title": "A spectre is haunting Unicode",
-      "score": 191,
-      "url": "https://www.dampfkraft.com/ghost-characters.html",
-      "time": 1786804444.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49310926"
+      "title": "A fortuitous decade as an indie software developer",
+      "score": 64,
+      "url": "https://lapcatsoftware.com/articles/2026/8/3.html",
+      "time": 1786375225.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49244872"
     }
   ]
 }
