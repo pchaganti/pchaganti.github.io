@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-08-16T20:41:21.781653-04:00",
+  "last_updated": "2026-08-16T23:40:42.048617-04:00",
   "stories": [
     {
+      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+      "score": 131,
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "time": 1786923909.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49324985"
+    },
+    {
+      "title": "The Life and Death of Direct File [pdf]",
+      "score": 108,
+      "url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
+      "time": 1786925877.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49325185"
+    },
+    {
       "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
-      "score": 349,
+      "score": 401,
       "url": "https://rvembedded.com/blog_post/12/",
       "time": 1786899667.0,
       "comments_url": "https://news.ycombinator.com/item?id=49321717"
     },
     {
+      "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
+      "score": 18,
+      "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
+      "time": 1786931136.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49325714"
+    },
+    {
+      "title": "Rhombus 1.1 is now available",
+      "score": 27,
+      "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+      "time": 1786927701.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49325384"
+    },
+    {
       "title": "Claude: System Prompts",
-      "score": 523,
+      "score": 572,
       "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
       "time": 1786884501.0,
       "comments_url": "https://news.ycombinator.com/item?id=49319556"
     },
     {
-      "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
-      "score": 64,
-      "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
-      "time": 1786625045.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49285096"
+      "title": "Reticulum – Decentralized Mesh Network",
+      "score": 33,
+      "url": "https://reticulum.network/",
+      "time": 1786924750.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49325061"
     },
     {
       "title": "Low-Tech Ceramic Water Filter",
-      "score": 85,
+      "score": 119,
       "url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
       "time": 1786462587.0,
       "comments_url": "https://news.ycombinator.com/item?id=49259980"
     },
     {
-      "title": "A quick look at zero-knowledge proofs",
-      "score": 35,
-      "url": "https://bernsteinbear.com/blog/zkp/",
-      "time": 1786737125.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49303776"
+      "title": "Interview with Amit Patel, Creator of \"Solar Realms Elite\"",
+      "score": 22,
+      "url": "https://breakintochat.com/blog/2013/02/18/amit-patel-creator-of-solar-realms-elite/",
+      "time": 1786283421.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49231418"
     },
     {
-      "title": "The AI Credit Resale Economy",
-      "score": 221,
-      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "time": 1786891495.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49320611"
-    },
-    {
-      "title": "Models Are Getting Dumber on Purpose",
-      "score": 250,
-      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-      "time": 1786907066.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49322695"
+      "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
+      "score": 79,
+      "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
+      "time": 1786625045.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49285096"
     },
     {
       "title": "Protobuf has LSP support. You're welcome",
-      "score": 100,
+      "score": 128,
       "url": "https://buf.build/blog/protobuf-lsp",
       "time": 1786906107.0,
       "comments_url": "https://news.ycombinator.com/item?id=49322573"
     },
     {
-      "title": "MathCode, Mathematical Coding Agent",
-      "score": 54,
-      "url": "https://math-ai-org.github.io/mathcode/",
-      "time": 1786904230.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49322330"
-    },
-    {
       "title": "Dancing with friends and enemies: boids' swarm intelligence",
-      "score": 4,
+      "score": 24,
       "url": "https://community.wolfram.com/groups/-/m/t/122095",
       "time": 1786452031.0,
       "comments_url": "https://news.ycombinator.com/item?id=49257362"
     },
     {
-      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-      "score": 86,
-      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
-      "time": 1786914430.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49323686"
+      "title": "The AI Credit Resale Economy",
+      "score": 243,
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "time": 1786891495.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49320611"
+    },
+    {
+      "title": "MathCode, Mathematical Coding Agent",
+      "score": 73,
+      "url": "https://math-ai-org.github.io/mathcode/",
+      "time": 1786904230.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49322330"
+    },
+    {
+      "title": "The federal keyword lists that canceled billions in research funding",
+      "score": 138,
+      "url": "https://www.highereddive.com/news/inside-the-federal-keyword-lists-that-canceled-billions-in-research-funding/826203/",
+      "time": 1786925650.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49325159"
+    },
+    {
+      "title": "Applying a photosynthetic process to treat \"dry eye\"",
+      "score": 5,
+      "url": "https://www.science.org/content/blog-post/taking-tip-plants-eyes",
+      "time": 1786926929.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49325304"
     },
     {
       "title": "Clamiga: Common Lisp for the Amiga",
-      "score": 81,
+      "score": 94,
       "url": "https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga",
       "time": 1786590336.0,
       "comments_url": "https://news.ycombinator.com/item?id=49281352"
     },
     {
-      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-      "score": 167,
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-      "time": 1786912276.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49323381"
-    },
-    {
-      "title": "Plastic mechanical computer from 1963: The Digi-Comp 1 [video]",
-      "score": 44,
-      "url": "https://www.youtube.com/watch?v=-y8bGBE71yw",
-      "time": 1786824951.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49313920"
+      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+      "score": 138,
+      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+      "time": 1786914430.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49323686"
     },
     {
       "title": "Anton Chekhov played at love most of his life",
-      "score": 58,
+      "score": 70,
       "url": "https://commonreader.wustl.edu/winning-and-losing-at-the-great-game-of-intimacy/",
       "time": 1786751623.0,
       "comments_url": "https://news.ycombinator.com/item?id=49306021"
     },
     {
-      "title": "The Case Against Formal Verification, 50 Years Later",
-      "score": 77,
-      "url": "https://ivan-gavran.github.io/0-social-processes-paper",
-      "time": 1786912738.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49323459"
-    },
-    {
-      "title": "Firefox for iOS now has a native adblocker",
-      "score": 520,
-      "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
-      "time": 1786885090.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49319633"
-    },
-    {
-      "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
-      "score": 258,
-      "url": "https://news.ycombinator.com/item?id=49322107",
-      "time": 1786902586.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49322107"
-    },
-    {
-      "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-      "score": 126,
-      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "time": 1786917223.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49324087"
-    },
-    {
-      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
-      "score": 150,
-      "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
-      "time": 1786893366.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49320856"
+      "title": "Plastic mechanical computer from 1963: The Digi-Comp 1 [video]",
+      "score": 53,
+      "url": "https://www.youtube.com/watch?v=-y8bGBE71yw",
+      "time": 1786824951.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49313920"
     }
   ]
 }
