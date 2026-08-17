@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-08-17T14:23:46.105165-04:00",
+  "last_updated": "2026-08-17T17:16:34.444106-04:00",
   "stories": [
     {
+      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "score": 89,
+      "url": "https://arxiv.org/abs/2608.13759",
+      "time": 1786989299.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49334991"
+    },
+    {
+      "title": "India has paved the way for charging merchants a fee on UPI transactions",
+      "score": 53,
+      "url": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
+      "time": 1786994711.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49336304"
+    },
+    {
       "title": "A Preview of DuckDB v2.0",
-      "score": 333,
+      "score": 462,
       "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
       "time": 1786974387.0,
       "comments_url": "https://news.ycombinator.com/item?id=49330781"
     },
     {
+      "title": "AI;DR (AI; Didn't Read)",
+      "score": 281,
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "time": 1786996035.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49336573"
+    },
+    {
       "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "score": 190,
+      "score": 269,
       "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
       "time": 1786976318.0,
       "comments_url": "https://news.ycombinator.com/item?id=49331423"
     },
     {
       "title": "Incident with Github.com",
-      "score": 256,
+      "score": 423,
       "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
       "time": 1786973706.0,
       "comments_url": "https://news.ycombinator.com/item?id=49330597"
     },
     {
-      "title": "How to disable or avoid intrusive AI",
-      "score": 141,
-      "url": "https://www.librarian.net/notoai/",
-      "time": 1786975676.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49331220"
-    },
-    {
-      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-      "score": 57,
-      "url": "https://speko.ai/",
-      "time": 1786980978.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49332751"
-    },
-    {
-      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "score": 221,
-      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-      "time": 1786968582.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49329575"
-    },
-    {
-      "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
-      "score": 37,
-      "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
-      "time": 1786987517.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49334544"
-    },
-    {
-      "title": "Olo (Color)",
-      "score": 135,
-      "url": "https://en.wikipedia.org/wiki/Olo_(color)",
-      "time": 1786530374.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49270194"
-    },
-    {
-      "title": "How to put 170 atoms in an atom",
-      "score": 65,
-      "url": "https://signoregalilei.com/2026/08/02/how-to-put-170-atoms-in-an-atom/",
-      "time": 1786976485.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49331474"
-    },
-    {
-      "title": "Ask HN: Alternatives to GitHub",
-      "score": 324,
-      "url": "https://news.ycombinator.com/item?id=49331033",
-      "time": 1786975157.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49331033"
-    },
-    {
       "title": "Sun Clock",
-      "score": 20,
+      "score": 118,
       "url": "https://sunclock.net/",
       "time": 1786984674.0,
       "comments_url": "https://news.ycombinator.com/item?id=49333824"
     },
     {
+      "title": "How to disable or avoid intrusive AI",
+      "score": 204,
+      "url": "https://www.librarian.net/notoai/",
+      "time": 1786975676.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49331220"
+    },
+    {
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "score": 273,
+      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+      "time": 1786968582.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49329575"
+    },
+    {
+      "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
+      "score": 26,
+      "url": "https://blog.roboflow.com/roboflow-playground/",
+      "time": 1786991287.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49335517"
+    },
+    {
+      "title": "Olo (Color)",
+      "score": 222,
+      "url": "https://en.wikipedia.org/wiki/Olo_(color)",
+      "time": 1786530374.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49270194"
+    },
+    {
       "title": "Judge sets framework for Nine PBS to retrieve archival data",
-      "score": 17,
+      "score": 84,
       "url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
       "time": 1786983097.0,
       "comments_url": "https://news.ycombinator.com/item?id=49333344"
     },
     {
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "score": 78,
+      "url": "https://speko.ai/",
+      "time": 1786980978.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49332751"
+    },
+    {
+      "title": "The Origin of Consciousness (2008)",
+      "score": 12,
+      "url": "https://blog.plover.com/brain/Jaynes.html",
+      "time": 1786997578.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49336909"
+    },
+    {
+      "title": "Marketers are Addicted to Bad Data (2020)",
+      "score": 25,
+      "url": "https://www.jacquescorbytuech.com/writing/marketers-addicted-bad-data",
+      "time": 1786639660.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49288644"
+    },
+    {
+      "title": "An update on leaving Gmail for Fastmail",
+      "score": 32,
+      "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
+      "time": 1786986920.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49334409"
+    },
+    {
+      "title": "Ask HN: Alternatives to GitHub",
+      "score": 422,
+      "url": "https://news.ycombinator.com/item?id=49331033",
+      "time": 1786975157.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49331033"
+    },
+    {
+      "title": "A simple fix for LLM tail latency",
+      "score": 7,
+      "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
+      "time": 1786687096.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49295179"
+    },
+    {
+      "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
+      "score": 229,
+      "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+      "time": 1786987517.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49334544"
+    },
+    {
       "title": "A particle made of force: physicists say they've found mysterious 'glueball'",
-      "score": 18,
+      "score": 62,
       "url": "https://www.nature.com/articles/d41586-026-02498-1",
       "time": 1786544801.0,
       "comments_url": "https://news.ycombinator.com/item?id=49272891"
-    },
-    {
-      "title": "Buy Your Friends Batteries",
-      "score": 79,
-      "url": "https://domenkozar.com/2026/08/17/buy-your-friends-batteries/",
-      "time": 1786985111.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49333932"
-    },
-    {
-      "title": "Show HN: Sokoban AI Solver",
-      "score": 52,
-      "url": "https://mkornreich.me/projects/sokoban/",
-      "time": 1786972020.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49330215"
-    },
-    {
-      "title": "Show HN: Saggar, a Mac terminal that keeps sessions and your attention organized",
-      "score": 27,
-      "url": "https://saggar.marginalutility.dev/",
-      "time": 1786976754.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49331551"
-    },
-    {
-      "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-      "score": 684,
-      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "time": 1786917223.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49324087"
-    },
-    {
-      "title": "How I developed an Am29000 C compiler and web browser",
-      "score": 53,
-      "url": "https://nanochess.org/am29000_c_compiler_web_browser.html",
-      "time": 1786912917.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49323474"
-    },
-    {
-      "title": "Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices",
-      "score": 32,
-      "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
-      "time": 1786989157.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49334960"
-    },
-    {
-      "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
-      "score": 200,
-      "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
-      "time": 1786975679.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49331222"
     }
   ]
 }
