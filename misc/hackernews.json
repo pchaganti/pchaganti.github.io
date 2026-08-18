@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-08-18T02:26:02.780003-04:00",
+  "last_updated": "2026-08-18T05:22:34.370384-04:00",
   "stories": [
     {
+      "title": "Linux 7.3 improves performance when running out of vRAM",
+      "score": 45,
+      "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+      "time": 1787039510.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49342719"
+    },
+    {
       "title": "How Bluesky draws its logo on screenshots",
-      "score": 392,
+      "score": 487,
       "url": "https://timmarinin.net/2026/bluesky-screenshots/",
       "time": 1787005240.0,
       "comments_url": "https://news.ycombinator.com/item?id=49338459"
     },
     {
       "title": "GPT-5.6 Sol Pricing Cut by 50%",
-      "score": 322,
+      "score": 421,
       "url": "https://openrouter.ai/openai/gpt-5.6-sol",
       "time": 1787000598.0,
       "comments_url": "https://news.ycombinator.com/item?id=49337602"
     },
     {
       "title": "Quake Shareware, a CD-ROM just a little too full",
-      "score": 270,
+      "score": 336,
       "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
       "time": 1787004374.0,
       "comments_url": "https://news.ycombinator.com/item?id=49338328"
     },
     {
-      "title": "The Benchmarkpocalypse",
-      "score": 53,
-      "url": "https://danluu.com/benchpocalypse/",
-      "time": 1787019062.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49340299"
-    },
-    {
-      "title": "Shattered skeleton is first confirmed death from trebuchet",
-      "score": 47,
-      "url": "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet",
-      "time": 1786625263.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49285139"
-    },
-    {
       "title": "Fairphone 6 and PostmarketOS working main camera",
-      "score": 136,
+      "score": 190,
       "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
       "time": 1787004077.0,
       "comments_url": "https://news.ycombinator.com/item?id=49338285"
     },
     {
       "title": "A Preview of DuckDB v2.0",
-      "score": 595,
+      "score": 632,
       "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
       "time": 1786974387.0,
       "comments_url": "https://news.ycombinator.com/item?id=49330781"
     },
     {
-      "title": "Wellington second-hand bookstore's mysterious orders",
-      "score": 55,
-      "url": "https://www.rnz.co.nz/life/books/wellington-second-hand-book-store-s-mysterious-orders",
-      "time": 1786916439.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49323983"
+      "title": "Ranking the Most Brilliantly Colored Birds with Data",
+      "score": 13,
+      "url": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/",
+      "time": 1786805757.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49311115"
+    },
+    {
+      "title": "The Benchmarkpocalypse",
+      "score": 92,
+      "url": "https://danluu.com/benchpocalypse/",
+      "time": 1787019062.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49340299"
     },
     {
       "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "score": 351,
+      "score": 369,
       "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
       "time": 1786976318.0,
       "comments_url": "https://news.ycombinator.com/item?id=49331423"
     },
     {
-      "title": "The 37signals Manager Playbook",
-      "score": 23,
-      "url": "https://basecamp.com/managers",
-      "time": 1786637521.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49288129"
-    },
-    {
-      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
-      "score": 189,
-      "url": "https://arxiv.org/abs/2608.13759",
-      "time": 1786989299.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49334991"
-    },
-    {
       "title": "Olo (Color)",
-      "score": 388,
+      "score": 433,
       "url": "https://en.wikipedia.org/wiki/Olo_(color)",
       "time": 1786530374.0,
       "comments_url": "https://news.ycombinator.com/item?id=49270194"
     },
     {
+      "title": "Shattered skeleton is first confirmed death from trebuchet",
+      "score": 66,
+      "url": "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet",
+      "time": 1786625263.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49285139"
+    },
+    {
+      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "score": 211,
+      "url": "https://arxiv.org/abs/2608.13759",
+      "time": 1786989299.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49334991"
+    },
+    {
+      "title": "Rethinking Database Programming",
+      "score": 18,
+      "url": "https://acadia.engineering/blog/rethinking-database-programming",
+      "time": 1787038107.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49342530"
+    },
+    {
+      "title": "Exercise intensity modulates interorgan communication and is associated with",
+      "score": 19,
+      "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue",
+      "time": 1787028693.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49341411"
+    },
+    {
+      "title": "IBM Simon (1994): the original smartphone, explained in its own ad [video]",
+      "score": 16,
+      "url": "https://www.youtube.com/watch?v=xoTFywZpPcc",
+      "time": 1786821107.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49313360"
+    },
+    {
       "title": "The Road to MS-DOS 2.0",
-      "score": 52,
+      "score": 70,
       "url": "https://nemanjatrifunovic.substack.com/p/the-road-to-ms-dos-2",
       "time": 1786528676.0,
       "comments_url": "https://news.ycombinator.com/item?id=49269966"
     },
     {
+      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "score": 476,
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+      "time": 1786999570.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49337392"
+    },
+    {
       "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "score": 326,
+      "score": 338,
       "url": "https://blog.roboflow.com/openai-gpt-5-6/",
       "time": 1786968582.0,
       "comments_url": "https://news.ycombinator.com/item?id=49329575"
     },
     {
       "title": "An update on leaving Gmail for Fastmail",
-      "score": 174,
+      "score": 225,
       "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
       "time": 1786986920.0,
       "comments_url": "https://news.ycombinator.com/item?id=49334409"
     },
     {
-      "title": "AI;DR (AI; Didn't Read)",
-      "score": 757,
-      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-      "time": 1786996035.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49336573"
-    },
-    {
-      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "score": 325,
-      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
-      "time": 1786999570.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49337392"
-    },
-    {
-      "title": "Judge sets framework for Nine PBS to retrieve archival data",
-      "score": 154,
-      "url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
-      "time": 1786983097.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49333344"
-    },
-    {
-      "title": "India has paved the way for charging merchants a fee on UPI transactions",
-      "score": 129,
-      "url": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
-      "time": 1786994711.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49336304"
-    },
-    {
-      "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia",
-      "score": 132,
-      "url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
-      "time": 1786991649.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49335600"
+      "title": "Climbing Guide as a Shared Infrastructure",
+      "score": 16,
+      "url": "https://irz.fr/en/articles/openclimbing-open-guide-en/",
+      "time": 1786875056.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49318607"
     }
   ]
 }
