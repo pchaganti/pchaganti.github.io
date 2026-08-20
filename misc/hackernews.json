@@ -1,61 +1,103 @@
 {
-  "last_updated": "2026-08-20T14:23:46.577049-04:00",
+  "last_updated": "2026-08-20T17:18:39.778360-04:00",
   "stories": [
     {
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "score": 106,
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "time": 1787252736.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49378768"
+    },
+    {
       "title": "I like 'em thick: an apology to my English teachers",
-      "score": 295,
+      "score": 445,
       "url": "https://www.experimental-history.com/p/i-like-em-thick",
       "time": 1787068252.0,
       "comments_url": "https://news.ycombinator.com/item?id=49347543"
     },
     {
+      "title": "I should have loved biology (2020)",
+      "score": 141,
+      "url": "https://jsomers.net/i-should-have-loved-biology/",
+      "time": 1787248202.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49377853"
+    },
+    {
+      "title": "Consumer Rights Wiki",
+      "score": 87,
+      "url": "https://consumerrights.wiki/w/Main_Page",
+      "time": 1787249991.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49378243"
+    },
+    {
+      "title": "The August 17 outage, and the work ahead",
+      "score": 80,
+      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "time": 1787253744.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49378957"
+    },
+    {
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-      "score": 685,
+      "score": 783,
       "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
       "time": 1787220532.0,
       "comments_url": "https://news.ycombinator.com/item?id=49372583"
     },
     {
       "title": "HTML Can Do That",
-      "score": 312,
+      "score": 464,
       "url": "https://chrisburnell.com/html-can-do-that/",
       "time": 1787152296.0,
       "comments_url": "https://news.ycombinator.com/item?id=49362689"
     },
     {
-      "title": "Linux 7.2 Released",
-      "score": 63,
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "score": 327,
+      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "time": 1787232192.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49374269"
+    },
+    {
+      "title": "Linux 7.2",
+      "score": 152,
       "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
       "time": 1787240778.0,
       "comments_url": "https://news.ycombinator.com/item?id=49376265"
     },
     {
       "title": "CIA funding helped keep NeXT afloat in the 80s",
-      "score": 196,
+      "score": 277,
       "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
       "time": 1787184901.0,
       "comments_url": "https://news.ycombinator.com/item?id=49368886"
     },
     {
+      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "score": 148,
+      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+      "time": 1787256446.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49379550"
+    },
+    {
+      "title": "SpacetimeDB: A Short Technical Review",
+      "score": 23,
+      "url": "https://strn.cat/posts/spacetime/",
+      "time": 1787253593.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49378933"
+    },
+    {
       "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-      "score": 368,
+      "score": 439,
       "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
       "time": 1787227478.0,
       "comments_url": "https://news.ycombinator.com/item?id=49373456"
     },
     {
-      "title": "I should have loved biology",
-      "score": 14,
-      "url": "https://jsomers.net/i-should-have-loved-biology/",
-      "time": 1787248202.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49377853"
-    },
-    {
-      "title": "Show HN: We chased a weather balloon across Montana and never found it",
-      "score": 19,
-      "url": "https://radi8.dev/blog/uplink/",
-      "time": 1787247212.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49377660"
+      "title": "Stop eating Lady Gaga's Oreos",
+      "score": 137,
+      "url": "https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos",
+      "time": 1787255166.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49379253"
     },
     {
       "title": "Sixtyfour (YC P25) Is Hiring",
@@ -65,81 +107,39 @@
       "comments_url": "https://news.ycombinator.com/item?id=49377248"
     },
     {
-      "title": "Malicious Rust crate Arrayref runs a build-time payload",
-      "score": 280,
-      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "time": 1787232192.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49374269"
+      "title": "Watching TikTok and Instagram deactivates the cognitive control network: Study",
+      "score": 244,
+      "url": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/",
+      "time": 1787252072.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49378630"
     },
     {
-      "title": "DiffusionGemma Technical Report",
-      "score": 104,
-      "url": "https://arxiv.org/abs/2608.00146",
-      "time": 1787232272.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49374287"
+      "title": "Tidal Cycles – Live coding music with Algorithmic patterns",
+      "score": 23,
+      "url": "https://tidalcycles.org/",
+      "time": 1787253705.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49378950"
+    },
+    {
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "score": 130,
+      "url": "https://github.com/zachahn/vomit",
+      "time": 1787239562.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49375996"
     },
     {
       "title": "How to compromise your system with a job interview",
-      "score": 53,
+      "score": 95,
       "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
       "time": 1787241057.0,
       "comments_url": "https://news.ycombinator.com/item?id=49376332"
     },
     {
-      "title": "The Defense-Tech Bubble Is Headed for Consolidation",
-      "score": 19,
-      "url": "https://foxandlion.pub/analysis/the-defense-tech-bubble-is-headed-for-consolidation",
-      "time": 1787245269.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49377249"
-    },
-    {
-      "title": "Xorg-server 26.1.0 rc1",
-      "score": 82,
-      "url": "https://lists.x.org/archives/xorg-announce/2026-August/003741.html",
-      "time": 1787230216.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49373932"
-    },
-    {
-      "title": "Generic Methods in Go 1.27",
-      "score": 40,
-      "url": "https://dominik.info/blog/go-generic-methods",
-      "time": 1787240508.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49376211"
-    },
-    {
-      "title": "URL shortener links stored in your ATProto PDS",
-      "score": 12,
-      "url": "https://atpr.to/",
-      "time": 1787246602.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49377535"
-    },
-    {
-      "title": "Optimizing things in the USSR (2016)",
-      "score": 6,
-      "url": "https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/",
-      "time": 1787248516.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49377923"
-    },
-    {
-      "title": "Mojo is now open source",
-      "score": 255,
-      "url": "https://www.modular.com/blog/mojo-open-source",
-      "time": 1787070204.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49348079"
-    },
-    {
-      "title": "Hacking with Claude on a $27 Smart Watch",
-      "score": 57,
-      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-      "time": 1787234889.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49374772"
-    },
-    {
-      "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
-      "score": 23,
-      "url": "https://github.com/runvendo/vendo",
-      "time": 1787239792.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49376038"
+      "title": "Show HN: We chased a weather balloon across Montana and never found it",
+      "score": 44,
+      "url": "https://radi8.dev/blog/uplink/",
+      "time": 1787247212.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49377660"
     }
   ]
 }
