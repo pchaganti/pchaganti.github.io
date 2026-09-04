@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-09-04T13:54:23.267111-04:00",
+  "last_updated": "2026-09-04T16:02:55.925467-04:00",
   "stories": [
     {
+      "title": "Formalizing Fermat's Last Theorem",
+      "score": 167,
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "time": 1788547376.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49568506"
+    },
+    {
       "title": "Discovery of a new OpenAI agent message board",
-      "score": 972,
+      "score": 1214,
       "url": "https://collusion.wiki/",
       "time": 1788522893.0,
       "comments_url": "https://news.ycombinator.com/item?id=49563355"
     },
     {
+      "title": "Shutting down our public encrypted DNS",
+      "score": 88,
+      "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+      "time": 1788547828.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49568579"
+    },
+    {
       "title": "Show HN: Open-Source eInk Bike Computer",
-      "score": 19,
+      "score": 132,
       "url": "https://opentrailpaper.com",
       "time": 1788542288.0,
       "comments_url": "https://news.ycombinator.com/item?id=49567437"
     },
     {
-      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-      "score": 21,
-      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-      "time": 1788539090.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49566788"
+      "title": "Government Rails Site Hit Hours After CVE Patch",
+      "score": 22,
+      "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+      "time": 1788548799.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49568828"
     },
     {
-      "title": "GPT-6 Astra",
-      "score": 2079,
-      "url": "https://openai.com/index/gpt-6-astra/",
-      "time": 1788460865.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49554643"
+      "title": "Can AI design circuit boards yet?",
+      "score": 13,
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "time": 1788551309.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49569366"
     },
     {
-      "title": "Solving the Jane Street reverse engineering challenge",
-      "score": 299,
-      "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
-      "time": 1788517021.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49562657"
+      "title": "The Rust React Compiler is now native in Vite",
+      "score": 44,
+      "url": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+      "time": 1788544149.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49567873"
     },
     {
       "title": "IBM Bob",
-      "score": 121,
+      "score": 173,
       "url": "https://bob.ibm.com/",
       "time": 1788526229.0,
       "comments_url": "https://news.ycombinator.com/item?id=49563851"
     },
     {
-      "title": ".name Termination",
-      "score": 2102,
-      "url": "https://neil.fraser.name/news/2026/09/03/",
-      "time": 1788447279.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49550772"
+      "title": "Solving the Jane Street reverse engineering challenge",
+      "score": 336,
+      "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
+      "time": 1788517021.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49562657"
     },
     {
-      "title": "Getting Started with AT Protocol",
-      "score": 28,
-      "url": "https://bnb.im/posts/atproto-essential-resources/",
-      "time": 1788292117.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49527123"
+      "title": "deSEC – Free Secure DNS",
+      "score": 62,
+      "url": "https://desec.io/",
+      "time": 1788536338.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49566193"
     },
     {
-      "title": "Corporate America is getting hooked on open-source AI",
-      "score": 137,
-      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-      "time": 1788536025.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49566137"
+      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "score": 42,
+      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+      "time": 1788539090.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49566788"
+    },
+    {
+      "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
+      "score": 167,
+      "url": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
+      "time": 1788540419.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49567053"
+    },
+    {
+      "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+      "score": 46,
+      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+      "time": 1788512580.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49562219"
+    },
+    {
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
+      "score": 168,
+      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+      "time": 1788542962.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49567594"
+    },
+    {
+      "title": "Resources to Get Good at Soldering?",
+      "score": 42,
+      "url": "https://news.ycombinator.com/item?id=49533840",
+      "time": 1788341051.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49533840"
     },
     {
       "title": "The Two Abstractions of System Design: Hide or Reduce",
-      "score": 74,
+      "score": 88,
       "url": "http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html",
       "time": 1788350054.0,
       "comments_url": "https://news.ycombinator.com/item?id=49534936"
     },
     {
       "title": "Elevator of the Year Winner Modernization of the Metropolis Trust Building",
-      "score": 108,
+      "score": 128,
       "url": "https://www.starelevator.com/projects/star-elevator-modernization-of-the-metropolis-trust-building",
       "time": 1788220873.0,
       "comments_url": "https://news.ycombinator.com/item?id=49516312"
     },
     {
-      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-      "score": 310,
-      "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-      "time": 1788523155.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49563386"
+      "title": "People that worked on the same idea for decades",
+      "score": 25,
+      "url": "https://nityasnotes.com/writing/decades/",
+      "time": 1788424282.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49547415"
     },
     {
-      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-      "score": 660,
-      "url": "https://inference-docs.cerebras.ai/models/overview",
-      "time": 1788460333.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49554520"
+      "title": "Getting Started with AT Protocol",
+      "score": 56,
+      "url": "https://bnb.im/posts/atproto-essential-resources/",
+      "time": 1788292117.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49527123"
     },
     {
-      "title": "deSEC – Free Secure DNS",
-      "score": 16,
-      "url": "https://desec.io/",
-      "time": 1788536338.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49566193"
-    },
-    {
-      "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
-      "score": 28,
-      "url": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
-      "time": 1788540419.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49567053"
-    },
-    {
-      "title": "Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region",
-      "score": 40,
-      "url": "https://github.com/hawshemi/lg-c5-webos25-region-change",
-      "time": 1788526184.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49563839"
-    },
-    {
-      "title": "Ok, but does it scale?",
-      "score": 88,
-      "url": "https://spacetimedb.com/blog/how-does-spacetime-scale",
-      "time": 1788525728.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49563772"
-    },
-    {
-      "title": "SubImage (YC W25) Is Hiring a Founding Engineer in SF",
-      "score": 1,
-      "url": "https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer",
-      "time": 1788523267.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49563415"
-    },
-    {
-      "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
-      "score": 3,
-      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
-      "time": 1788512580.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49562219"
-    },
-    {
-      "title": "How Fairphone built the Fairphone Gen 6+",
-      "score": 145,
-      "url": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
-      "time": 1788525829.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49563784"
+      "title": "Arrested for a Late Manuscript: Seicho Matsumoto's 'Tokyo Express'",
+      "score": 11,
+      "url": "https://www.millersbookreview.com/p/arrested-for-a-late-manuscript-seicho-matsumoto-tokyo-express",
+      "time": 1788462659.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49555131"
     }
   ]
 }
