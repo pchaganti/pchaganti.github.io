@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-09-05T03:13:31.503396-04:00",
+  "last_updated": "2026-09-05T08:13:32.562762-04:00",
   "stories": [
     {
       "title": "Actively exploited sandbox RCE in all Chromium versions",
-      "score": 429,
+      "score": 552,
       "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
       "time": 1788558721.0,
       "comments_url": "https://news.ycombinator.com/item?id=49570669"
     },
     {
       "title": "Discovery of a new OpenAI agent message board",
-      "score": 1636,
+      "score": 1782,
       "url": "https://collusion.wiki/",
       "time": 1788522893.0,
       "comments_url": "https://news.ycombinator.com/item?id=49563355"
     },
     {
-      "title": "Formalizing Fermat's Last Theorem",
-      "score": 582,
-      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "time": 1788547376.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49568506"
-    },
-    {
-      "title": "I Want a Wife (1971) [pdf]",
-      "score": 25,
-      "url": "https://www.sevanoland.com/uploads/1/1/8/0/118081022/_brady_i_want_a_wife.pdf",
-      "time": 1788302072.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49529179"
-    },
-    {
-      "title": "Statichost.eu – European static site hosting",
-      "score": 243,
-      "url": "https://www.statichost.eu/",
-      "time": 1788554089.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49569896"
-    },
-    {
       "title": "Nitter has more working instances than before the takedowns",
-      "score": 127,
+      "score": 298,
       "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
       "time": 1788566656.0,
       "comments_url": "https://news.ycombinator.com/item?id=49571634"
     },
     {
+      "title": "Formalizing Fermat's Last Theorem",
+      "score": 633,
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "time": 1788547376.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49568506"
+    },
+    {
+      "title": "AI handles incidents, engineers lose touch with their systems",
+      "score": 188,
+      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "time": 1788594770.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49574167"
+    },
+    {
+      "title": "Statichost.eu – European static site hosting",
+      "score": 321,
+      "url": "https://www.statichost.eu/",
+      "time": 1788554089.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49569896"
+    },
+    {
+      "title": "Sky Map 2000 – Star Atlas and Planetarium",
+      "score": 17,
+      "url": "https://skymap2000.com/",
+      "time": 1788434447.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49548596"
+    },
+    {
+      "title": "Kale: A Transformation-Safe Spreadsheet System",
+      "score": 24,
+      "url": "https://arxiv.org/abs/2608.26345",
+      "time": 1788226950.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49516962"
+    },
+    {
       "title": "GPT-6 Astra on OpenRouter",
-      "score": 194,
+      "score": 240,
       "url": "https://openrouter.ai/openai/gpt-6-astra",
       "time": 1788557959.0,
       "comments_url": "https://news.ycombinator.com/item?id=49570545"
     },
     {
       "title": "Can AI design circuit boards yet?",
-      "score": 233,
+      "score": 280,
       "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
       "time": 1788551309.0,
       "comments_url": "https://news.ycombinator.com/item?id=49569366"
     },
     {
-      "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-      "score": 18,
-      "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
-      "time": 1788579536.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49572875"
-    },
-    {
-      "title": "Git Submodules as a Package Manager",
-      "score": 45,
-      "url": "https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html",
-      "time": 1788255370.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49519850"
-    },
-    {
-      "title": "Artificial Analysis Intelligence Index v4.2",
-      "score": 105,
-      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
-      "time": 1788566654.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49571632"
-    },
-    {
       "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-      "score": 99,
+      "score": 158,
       "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
       "time": 1788565130.0,
       "comments_url": "https://news.ycombinator.com/item?id=49571465"
     },
     {
       "title": "Shutting down our public encrypted DNS",
-      "score": 317,
+      "score": 367,
       "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
       "time": 1788547828.0,
       "comments_url": "https://news.ycombinator.com/item?id=49568579"
     },
     {
-      "title": "Can guitar frets perform multiplication?",
+      "title": "Git Submodules as a Package Manager",
       "score": 64,
-      "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
-      "time": 1788561630.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49571047"
-    },
-    {
-      "title": "RSA-260 Factorized",
-      "score": 107,
-      "url": "https://twitter.com/penlume/status/2095372672356212876",
-      "time": 1788413731.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49546284"
-    },
-    {
-      "title": "Show HN: Open-Source eInk Bike Computer",
-      "score": 275,
-      "url": "https://opentrailpaper.com",
-      "time": 1788542288.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49567437"
-    },
-    {
-      "title": "Why are European countries moving their gold out of North America?",
-      "score": 89,
-      "url": "https://www.bbc.com/news/articles/cvgyn8q8gqxo",
-      "time": 1788587529.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49573455"
+      "url": "https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html",
+      "time": 1788255370.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49519850"
     },
     {
       "title": "Ask HN: Resources to get good at soldering?",
-      "score": 108,
+      "score": 151,
       "url": "https://news.ycombinator.com/item?id=49533840",
       "time": 1788341051.0,
       "comments_url": "https://news.ycombinator.com/item?id=49533840"
     },
     {
-      "title": "The Highest Point in the Netherlands",
-      "score": 23,
-      "url": "https://ipv6.hanazo.no/posts/anniversary-personal/",
-      "time": 1788361124.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49537340"
+      "title": "'Fakers' by Rory Cormac Review",
+      "score": 4,
+      "url": "https://www.historytoday.com/archive/review/fakers-rory-cormac-review",
+      "time": 1788462621.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49555121"
     },
     {
-      "title": "Fermat's Last Theorem in Lean 4",
-      "score": 96,
-      "url": "https://github.com/anthropics/fermats-last-theorem",
-      "time": 1788548252.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49568697"
+      "title": "Artificial Analysis Intelligence Index v4.2",
+      "score": 125,
+      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+      "time": 1788566654.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49571632"
+    },
+    {
+      "title": "Show HN: Open-Source eInk Bike Computer",
+      "score": 299,
+      "url": "https://opentrailpaper.com",
+      "time": 1788542288.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49567437"
+    },
+    {
+      "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
+      "score": 55,
+      "url": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
+      "time": 1788603268.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49575034"
+    },
+    {
+      "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+      "score": 60,
+      "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+      "time": 1788579536.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49572875"
+    },
+    {
+      "title": "Can guitar frets perform multiplication?",
+      "score": 97,
+      "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
+      "time": 1788561630.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49571047"
     }
   ]
 }
