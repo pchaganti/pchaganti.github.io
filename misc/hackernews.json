@@ -1,44 +1,79 @@
 {
-  "last_updated": "2026-09-06T13:25:27.787477-04:00",
+  "last_updated": "2026-09-06T15:46:58.515525-04:00",
   "stories": [
     {
-      "title": "QBittorrent breaks out of sandbox to commit crimes",
-      "score": 621,
-      "url": "https://beige.party/@intransitivelie/117057396732763183",
-      "time": 1788699761.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49586171"
-    },
-    {
-      "title": "An Alien Mind",
-      "score": 46,
-      "url": "https://openai.com/index/an-alien-mind/",
-      "time": 1788712025.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49588080"
+      "title": "Nitter is unarchived and will continue",
+      "score": 153,
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "time": 1788716987.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49588988"
     },
     {
       "title": "Your intellectual fly is open (2025)",
-      "score": 299,
+      "score": 364,
       "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
       "time": 1788695803.0,
       "comments_url": "https://news.ycombinator.com/item?id=49585644"
     },
     {
       "title": "NetBSD 9.5 released and EOL for NetBSD-9",
-      "score": 31,
+      "score": 79,
       "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
       "time": 1788709464.0,
       "comments_url": "https://news.ycombinator.com/item?id=49587636"
     },
     {
       "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-      "score": 434,
+      "score": 477,
       "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
       "time": 1788679266.0,
       "comments_url": "https://news.ycombinator.com/item?id=49584083"
     },
     {
+      "title": "An Alien Mind",
+      "score": 171,
+      "url": "https://openai.com/index/an-alien-mind/",
+      "time": 1788712025.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49588080"
+    },
+    {
+      "title": "Research carried out using NetBSD",
+      "score": 44,
+      "url": "https://www.netbsd.org/gallery/research.html",
+      "time": 1788711005.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49587903"
+    },
+    {
+      "title": "Finder is so frustrating and has been since day one",
+      "score": 50,
+      "url": "https://kepter.app/finder",
+      "time": 1788721569.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49589722"
+    },
+    {
+      "title": "A/I shuts down – Stay human",
+      "score": 378,
+      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+      "time": 1788705274.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49586898"
+    },
+    {
+      "title": "Recreating Minecraft Is Not a Benchmark",
+      "score": 46,
+      "url": "https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark",
+      "time": 1788706327.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49587040"
+    },
+    {
+      "title": "Following legal advice, the Nitter project will continue",
+      "score": 213,
+      "url": "https://github.com/zedeus/nitter",
+      "time": 1788717083.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49589003"
+    },
+    {
       "title": "Doomscrolling Ourselves to Death",
-      "score": 232,
+      "score": 279,
       "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
       "time": 1788695620.0,
       "comments_url": "https://news.ycombinator.com/item?id=49585627"
@@ -51,95 +86,60 @@
       "comments_url": "https://news.ycombinator.com/item?id=49588466"
     },
     {
-      "title": "A/I shuts down – Stay human",
-      "score": 285,
-      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-      "time": 1788705274.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49586898"
-    },
-    {
-      "title": "Research carried out using NetBSD",
-      "score": 22,
-      "url": "https://www.netbsd.org/gallery/research.html",
-      "time": 1788711005.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49587903"
-    },
-    {
-      "title": "OpenAI: We monitor internal coding agents for misalignment",
-      "score": 10,
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
-      "time": 1788712675.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49588214"
-    },
-    {
-      "title": "Any Nix package, live in the browser",
-      "score": 7,
-      "url": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser",
-      "time": 1788714056.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49588475"
-    },
-    {
-      "title": "Electronic skin for prosthetics to sense temperature and pressure",
-      "score": 13,
-      "url": "https://news.wsu.edu/press-release/2026/08/20/researchers-develop-electronic-skin-for-prosthetics-to-sense-temperature-and-pressure/",
-      "time": 1788372416.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49540090"
-    },
-    {
-      "title": "Is There I/O After Death? What Happens to Io_uring When a Process Dies",
-      "score": 25,
-      "url": "https://blog.ydb.tech/is-there-i-o-after-death-what-happens-to-io-uring-when-a-process-dies-92c65354873f?postPublishedType=repub",
-      "time": 1788382725.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49542471"
-    },
-    {
       "title": "Research acceleration: The view inside OpenAI",
-      "score": 21,
+      "score": 62,
       "url": "https://openai.com/index/research-acceleration-view-inside-openai",
       "time": 1788707324.0,
       "comments_url": "https://news.ycombinator.com/item?id=49587217"
     },
     {
-      "title": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
-      "score": 36,
-      "url": "https://github.com/scastiel/kado",
-      "time": 1788705286.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49586902"
+      "title": "Electronic skin for prosthetics to sense temperature and pressure",
+      "score": 19,
+      "url": "https://news.wsu.edu/press-release/2026/08/20/researchers-develop-electronic-skin-for-prosthetics-to-sense-temperature-and-pressure/",
+      "time": 1788372416.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49540090"
+    },
+    {
+      "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
+      "score": 25,
+      "url": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
+      "time": 1788460807.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49554622"
+    },
+    {
+      "title": "Vidact – a compiler that turns React into direct DOM operations",
+      "score": 19,
+      "url": "https://www.vidact.dev/",
+      "time": 1788381264.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49542123"
     },
     {
       "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
-      "score": 137,
+      "score": 156,
       "url": "https://en.wikipedia.org/wiki/M-DISC",
       "time": 1788322221.0,
       "comments_url": "https://news.ycombinator.com/item?id=49531619"
     },
     {
-      "title": "Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats",
-      "score": 147,
-      "url": "https://www.phoronix.com/news/Asahi-Linux-Official-M3",
-      "time": 1788703739.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49586698"
+      "title": "Is There I/O After Death? What Happens to Io_uring When a Process Dies",
+      "score": 42,
+      "url": "https://blog.ydb.tech/is-there-i-o-after-death-what-happens-to-io-uring-when-a-process-dies-92c65354873f?postPublishedType=repub",
+      "time": 1788382725.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49542471"
     },
     {
-      "title": "The many mysteries and lessons of the Bayeux tapestry",
-      "score": 38,
-      "url": "https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry",
-      "time": 1788701887.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49586435"
+      "title": "The revolt of the reader",
+      "score": 538,
+      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+      "time": 1788644269.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49580939"
     },
     {
-      "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering",
-      "score": 29,
-      "url": "https://shukla.io/quantum-oracle-engineering/",
-      "time": 1788699634.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49586151"
-    },
-    {
-      "title": "Recreating Minecraft Is Not a Benchmark",
-      "score": 13,
-      "url": "https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark",
-      "time": 1788706327.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49587040"
+      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "score": 579,
+      "url": "https://cloudinabottle.org/blog/launch-post",
+      "time": 1788653009.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49582000"
     }
   ]
 }
