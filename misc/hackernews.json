@@ -1,117 +1,131 @@
 {
-  "last_updated": "2026-09-06T18:34:02.965770-04:00",
+  "last_updated": "2026-09-06T21:58:36.201737-04:00",
   "stories": [
     {
+      "title": "Making a Python interpreter in 1024 bytes",
+      "score": 86,
+      "url": "https://austinhenley.com/blog/python1024.html",
+      "time": 1788736448.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49591876"
+    },
+    {
       "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-      "score": 85,
+      "score": 198,
       "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
       "time": 1788726240.0,
       "comments_url": "https://news.ycombinator.com/item?id=49590512"
     },
     {
-      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
-      "score": 43,
-      "url": "https://github.com/marsbos/mador",
-      "time": 1788727513.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49590738"
-    },
-    {
       "title": "It took a year to ship WebAssembly in Anubis",
-      "score": 86,
+      "score": 142,
       "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
       "time": 1788726758.0,
       "comments_url": "https://news.ycombinator.com/item?id=49590611"
     },
     {
-      "title": "Your intellectual fly is open (2025)",
-      "score": 452,
+      "title": "Ponytail: Lazy Senior Engineer Skill",
+      "score": 4,
+      "url": "https://ponytail.dev/",
+      "time": 1788743897.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49592706"
+    },
+    {
+      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+      "score": 528,
       "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
       "time": 1788695803.0,
       "comments_url": "https://news.ycombinator.com/item?id=49585644"
     },
     {
-      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-      "score": 527,
-      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
-      "time": 1788679266.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49584083"
+      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+      "score": 68,
+      "url": "https://github.com/marsbos/mador",
+      "time": 1788727513.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49590738"
     },
     {
-      "title": "Black Hole of Los Alamos Seller of surplus nuclear research materials (2011)",
-      "score": 24,
+      "title": "Nitter and XCancel resume service after legal advice",
+      "score": 475,
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "time": 1788716987.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49588988"
+    },
+    {
+      "title": "Is mathematics about to enter the conservatory?",
+      "score": 20,
+      "url": "https://mbmccoy.dev/posts/mathematical-conservatory/",
+      "time": 1788735731.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49591793"
+    },
+    {
+      "title": "Harnessing the Universal Geometry of Embeddings",
+      "score": 44,
+      "url": "https://arxiv.org/abs/2505.12540",
+      "time": 1788726680.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49590595"
+    },
+    {
+      "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
+      "score": 99,
+      "url": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
+      "time": 1788460807.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49554622"
+    },
+    {
+      "title": "Black Hole of Los Alamos: Seller of surplus nuclear research materials (2011)",
+      "score": 43,
       "url": "https://www.atlasobscura.com/places/black-hole-of-los-alamos",
       "time": 1788374875.0,
       "comments_url": "https://news.ycombinator.com/item?id=49540637"
     },
     {
       "title": "NetBSD 9.5 released and EOL for NetBSD-9",
-      "score": 96,
+      "score": 106,
       "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
       "time": 1788709464.0,
       "comments_url": "https://news.ycombinator.com/item?id=49587636"
     },
     {
-      "title": "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
-      "score": 25,
-      "url": "https://getvodforge.com/",
-      "time": 1788725250.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49590354"
+      "title": "An Alien Mind",
+      "score": 330,
+      "url": "https://openai.com/index/an-alien-mind/",
+      "time": 1788712025.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49588080"
     },
     {
-      "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
-      "score": 71,
-      "url": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
-      "time": 1788460807.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49554622"
-    },
-    {
-      "title": "Research carried out using NetBSD",
-      "score": 68,
-      "url": "https://www.netbsd.org/gallery/research.html",
-      "time": 1788711005.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49587903"
-    },
-    {
-      "title": "Harnessing the Universal Geometry of Embeddings",
-      "score": 12,
-      "url": "https://arxiv.org/abs/2505.12540",
-      "time": 1788726680.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49590595"
+      "title": "Reverse engineering the storage format for an undocumented database",
+      "score": 24,
+      "url": "https://blog.glazer.ee/posts/converting-cronos/",
+      "time": 1788506220.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49561514"
     },
     {
       "title": "Asahi Linux on M3",
-      "score": 285,
+      "score": 358,
       "url": "https://asahilinux.org/2026/09/m2-episode-1/",
       "time": 1788703739.0,
       "comments_url": "https://news.ycombinator.com/item?id=49586698"
     },
     {
-      "title": "A/I shuts down – Stay human",
-      "score": 468,
-      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-      "time": 1788705274.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49586898"
+      "title": "Research acceleration: The view inside OpenAI",
+      "score": 115,
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "time": 1788707324.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49587217"
     },
     {
-      "title": "Doomscrolling Ourselves to Death",
-      "score": 343,
-      "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
-      "time": 1788695620.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49585627"
+      "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
+      "score": 62,
+      "url": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
+      "time": 1788734605.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49591672"
     },
     {
-      "title": "Electronic skin for prosthetics to sense temperature and pressure",
-      "score": 36,
-      "url": "https://news.wsu.edu/press-release/2026/08/20/researchers-develop-electronic-skin-for-prosthetics-to-sense-temperature-and-pressure/",
-      "time": 1788372416.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49540090"
-    },
-    {
-      "title": "Vidact – a compiler that turns React into direct DOM operations",
-      "score": 39,
-      "url": "https://www.vidact.dev/",
-      "time": 1788381264.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49542123"
+      "title": "Please don't rearrange our shoes when we turn up, paramedics in Japan urge",
+      "score": 16,
+      "url": "https://www.theguardian.com/world/2026/aug/28/never-tidy-paramedics-shoes-japan-custom-etiquette",
+      "time": 1788430999.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49548196"
     },
     {
       "title": "Opalite Health (YC W26) Is Hiring – Founding GTM",
@@ -121,25 +135,11 @@
       "comments_url": "https://news.ycombinator.com/item?id=49588466"
     },
     {
-      "title": "An Alien Mind",
-      "score": 279,
-      "url": "https://openai.com/index/an-alien-mind/",
-      "time": 1788712025.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49588080"
-    },
-    {
-      "title": "Reverse engineering the storage format for an undocumented database",
-      "score": 4,
-      "url": "https://blog.glazer.ee/posts/converting-cronos/",
-      "time": 1788506220.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49561514"
-    },
-    {
-      "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
-      "score": 172,
-      "url": "https://en.wikipedia.org/wiki/M-DISC",
-      "time": 1788322221.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49531619"
+      "title": "A/I shuts down",
+      "score": 526,
+      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+      "time": 1788705274.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49586898"
     }
   ]
 }
