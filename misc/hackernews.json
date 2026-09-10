@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-09-10T13:57:41.226345-04:00",
+  "last_updated": "2026-09-10T16:24:02.813066-04:00",
   "stories": [
     {
+      "title": "I have a theory that software drives people insane",
+      "score": 311,
+      "url": "https://graybeard.ing/software-drives-people-insane/",
+      "time": 1789056822.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49646181"
+    },
+    {
       "title": "Rust is tier-1 language at Microsoft",
-      "score": 337,
+      "score": 503,
       "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
       "time": 1789047556.0,
       "comments_url": "https://news.ycombinator.com/item?id=49643546"
     },
     {
+      "title": "Genuine Creativity Is Your New Moat (2026)",
+      "score": 45,
+      "url": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
+      "time": 1789067014.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49648732"
+    },
+    {
       "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "score": 123,
+      "score": 224,
       "url": "https://cognition.com/blog/swe-2",
       "time": 1789054187.0,
       "comments_url": "https://news.ycombinator.com/item?id=49645443"
     },
     {
       "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-      "score": 204,
+      "score": 364,
       "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
       "time": 1789022983.0,
       "comments_url": "https://news.ycombinator.com/item?id=49639408"
     },
     {
-      "title": "I have a theory that software drives people insane",
-      "score": 75,
-      "url": "https://graybeard.ing/software-drives-people-insane/",
-      "time": 1789056822.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49646181"
-    },
-    {
-      "title": "Shopify moves back to Native from React Native",
-      "score": 482,
-      "url": "https://shopify.engineering/back-to-native",
-      "time": 1789049371.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49643982"
-    },
-    {
       "title": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
-      "score": 74,
+      "score": 170,
       "url": "https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844",
       "time": 1789054170.0,
       "comments_url": "https://news.ycombinator.com/item?id=49645437"
     },
     {
-      "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
-      "score": 34,
-      "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
-      "time": 1788706773.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49587121"
+      "title": "Shopify moves back to Native from React Native",
+      "score": 565,
+      "url": "https://shopify.engineering/back-to-native",
+      "time": 1789049371.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49643982"
     },
     {
-      "title": "Neki",
-      "score": 79,
-      "url": "https://planetscale.com/blog/introducing-neki",
-      "time": 1789055029.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49645686"
+      "title": "Music Theory for the 21st-Century Classroom",
+      "score": 64,
+      "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+      "time": 1789060452.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49647134"
     },
     {
       "title": "Forgejo <=16.0.3 Critical RCE",
-      "score": 34,
+      "score": 91,
       "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
       "time": 1789055860.0,
       "comments_url": "https://news.ycombinator.com/item?id=49645907"
     },
     {
-      "title": ">10x More Efficient Pretraining",
-      "score": 69,
-      "url": "https://magic.dev/blog/pretraining#",
-      "time": 1788886793.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49613072"
+      "title": "Neki",
+      "score": 153,
+      "url": "https://planetscale.com/blog/introducing-neki",
+      "time": 1789055029.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49645686"
+    },
+    {
+      "title": "Don't Let Anyone Take Away Your Big Box of Cables",
+      "score": 94,
+      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+      "time": 1789054042.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49645393"
+    },
+    {
+      "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
+      "score": 91,
+      "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
+      "time": 1788706773.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49587121"
+    },
+    {
+      "title": "JEP 544: Ahead-of-Time Code Compilation",
+      "score": 35,
+      "url": "https://openjdk.org/jeps/544",
+      "time": 1789061439.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49647404"
     },
     {
       "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
-      "score": 220,
+      "score": 250,
       "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
       "time": 1788965652.0,
       "comments_url": "https://news.ycombinator.com/item?id=49627634"
     },
     {
       "title": "DeepSeek v4.1 Flash",
-      "score": 801,
+      "score": 877,
       "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
       "time": 1789020665.0,
       "comments_url": "https://news.ycombinator.com/item?id=49639090"
     },
     {
-      "title": "Neki by PlanetScale",
+      "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
+      "score": 35,
+      "url": "https://tokenstead.ai/models/swe-2",
+      "time": 1789059131.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49646778"
+    },
+    {
+      "title": ">10x More Efficient Pretraining",
+      "score": 100,
+      "url": "https://magic.dev/blog/pretraining#",
+      "time": 1788886793.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49613072"
+    },
+    {
+      "title": "Silicon Valley Is Transforming the Military-Industrial Complex",
+      "score": 102,
+      "url": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
+      "time": 1789055270.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49645754"
+    },
+    {
+      "title": "What happens when a GPU writes memory",
+      "score": 5,
+      "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
+      "time": 1788896819.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49615922"
+    },
+    {
+      "title": "Schemy Lisp En DOS",
       "score": 64,
-      "url": "https://neki.dev/",
-      "time": 1789055294.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49645763"
-    },
-    {
-      "title": "Casablanca: How an unproduced play marched into movie history",
-      "score": 27,
-      "url": "https://www.thecollector.com/casablanca-unproduced-play-movie-history/",
-      "time": 1789055522.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49645826"
-    },
-    {
-      "title": "What algorithm did Windows XP use to choose your initial user picture?",
-      "score": 277,
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
-      "time": 1789031054.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49640646"
-    },
-    {
-      "title": "List of references on Sony websites to players \"owning\" their digital games",
-      "score": 252,
-      "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
-      "time": 1789042686.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49642531"
-    },
-    {
-      "title": "JEP 544: Ahead-of-Time Code Compilation",
-      "score": 6,
-      "url": "https://openjdk.org/jeps/544",
-      "time": 1789061439.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49647404"
-    },
-    {
-      "title": "Python sets and dictionaries can have quadratic-time performance",
-      "score": 42,
-      "url": "https://lemire.me/blog/2026/09/03/python-sets-and-dictionaries-can-have-quadratic-time-performance/",
-      "time": 1788884271.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49612470"
-    },
-    {
-      "title": "Stockfish 19",
-      "score": 214,
-      "url": "https://stockfishchess.org/blog/2026/stockfish-19/",
-      "time": 1788797847.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49599992"
-    },
-    {
-      "title": "iPhone Duo",
-      "score": 1350,
-      "url": "https://www.apple.com/iphone-duo/",
-      "time": 1788977743.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49630931"
+      "url": "https://sled.neocities.org/",
+      "time": 1788699534.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49586139"
     }
   ]
 }
