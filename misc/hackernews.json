@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-09-13T09:32:30.226325-04:00",
+  "last_updated": "2026-09-13T13:47:16.477870-04:00",
   "stories": [
     {
+      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+      "score": 195,
+      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+      "time": 1789309716.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49684393"
+    },
+    {
+      "title": "CUDA for AMD on Windows",
+      "score": 65,
+      "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+      "time": 1789309513.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49684356"
+    },
+    {
       "title": "JetKVM Mini",
-      "score": 252,
+      "score": 398,
       "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
       "time": 1789285786.0,
       "comments_url": "https://news.ycombinator.com/item?id=49681152"
     },
     {
+      "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+      "score": 88,
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
+      "time": 1789302615.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49683262"
+    },
+    {
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "score": 125,
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "time": 1789314278.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49685253"
+    },
+    {
+      "title": "Making Startups Powerful",
+      "score": 49,
+      "url": "https://paulgraham.com/powerful.html",
+      "time": 1789308593.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49684196"
+    },
+    {
+      "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
+      "score": 19,
+      "url": "https://cpak.it/",
+      "time": 1789311776.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49684778"
+    },
+    {
+      "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+      "score": 184,
+      "url": "https://bensimms.moe/reverse-engineering-scooter/",
+      "time": 1789011124.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49638071"
+    },
+    {
+      "title": "Libraries Run Rust Inside Python (With PyO3)",
+      "score": 27,
+      "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
+      "time": 1789313045.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49685037"
+    },
+    {
+      "title": "Romania soccer introduces black card to 'combat abusive behaviour' from parents",
+      "score": 21,
+      "url": "https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/",
+      "time": 1789319296.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49686134"
+    },
+    {
+      "title": "Ask HN: What are you working on? (September 2026)",
+      "score": 10,
+      "url": "https://news.ycombinator.com/item?id=49686380",
+      "time": 1789320698.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49686380"
+    },
+    {
+      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "score": 48,
+      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "time": 1789318353.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49685991"
+    },
+    {
       "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-      "score": 22,
+      "score": 83,
       "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
       "time": 1789300912.0,
       "comments_url": "https://news.ycombinator.com/item?id=49683033"
     },
     {
+      "title": "Alan's Random Insult Generator (1999)",
+      "score": 30,
+      "url": "https://alanbellows.com/experiments/insult/index.html",
+      "time": 1789140893.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49660196"
+    },
+    {
       "title": "Why are AI agents lying, cheating and coordinating?",
-      "score": 354,
+      "score": 488,
       "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
       "time": 1789262551.0,
       "comments_url": "https://news.ycombinator.com/item?id=49678969"
     },
     {
       "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-      "score": 8,
+      "score": 51,
       "url": "https://github.com/FeralFirmware/TailTalk/",
       "time": 1789256611.0,
       "comments_url": "https://news.ycombinator.com/item?id=49678423"
     },
     {
-      "title": "Matt Mullenweg reportedly returns as Automattic CEO 2 days after getting booted",
-      "score": 27,
-      "url": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
-      "time": 1789302628.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49683265"
+      "title": "Predictive intelligence to anticipate anything.",
+      "score": 17,
+      "url": "https://prior.chat/",
+      "time": 1789312282.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49684879"
+    },
+    {
+      "title": "Google illegally retains customer data,and I am taking legal action against them",
+      "score": 11,
+      "url": "https://medium.com/@istokovicsgyorgy79/google-illegally-retains-customer-data-and-i-am-taking-legal-action-against-them-7da0cf95941c",
+      "time": 1789320244.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49686293"
+    },
+    {
+      "title": "Ask HN: How can I browse HN in dark mode?",
+      "score": 15,
+      "url": "https://news.ycombinator.com/item?id=49686233",
+      "time": 1789319921.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49686233"
     },
     {
       "title": "Make your first edit to OpenStreetMap",
-      "score": 513,
+      "score": 557,
       "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
       "time": 1789230308.0,
       "comments_url": "https://news.ycombinator.com/item?id=49674050"
-    },
-    {
-      "title": "Homebrew 7.0.0",
-      "score": 187,
-      "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
-      "time": 1789288877.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49681545"
-    },
-    {
-      "title": "On Binary Translation and Its Consequences",
-      "score": 11,
-      "url": "https://chipsandcheese.com/p/on-binary-translation-and-its-consequences",
-      "time": 1789080117.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49651107"
-    },
-    {
-      "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
-      "score": 30,
-      "url": "https://bensimms.moe/reverse-engineering-scooter/",
-      "time": 1789011124.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49638071"
-    },
-    {
-      "title": "The Interim Computer Museum",
-      "score": 137,
-      "url": "https://icm.museum/",
-      "time": 1789267437.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49679459"
-    },
-    {
-      "title": "Aligned to whom?",
-      "score": 94,
-      "url": "https://hyperbo.la/w/aligned-to-whom/",
-      "time": 1789269438.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49679643"
-    },
-    {
-      "title": "Revolut confirms customer data breach through fake government requests",
-      "score": 76,
-      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
-      "time": 1789293598.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49682087"
-    },
-    {
-      "title": "Apple iPod Engraver (2019)",
-      "score": 248,
-      "url": "https://dunstanorchard.com/apple-ipod-engraver/",
-      "time": 1788919057.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49619848"
-    },
-    {
-      "title": "Nvidia is the central bank of AI",
-      "score": 513,
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "time": 1789225707.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49673098"
-    },
-    {
-      "title": "I Added a Non-Wi-Fi Mitsubishi AC to Home Assistant",
-      "score": 111,
-      "url": "https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77",
-      "time": 1789032737.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49640913"
-    },
-    {
-      "title": "Stabilizing Rust's Never Type",
-      "score": 219,
-      "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
-      "time": 1788955065.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49625056"
-    },
-    {
-      "title": "Don't be the out of touch Kung Fu master",
-      "score": 166,
-      "url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
-      "time": 1789249903.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49677577"
-    },
-    {
-      "title": "Everyone should slow down AI development except for me",
-      "score": 599,
-      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-      "time": 1789259444.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49678683"
-    },
-    {
-      "title": "Vintage Scientific Papers with LaTeX",
-      "score": 89,
-      "url": "https://github.com/Foadsf/vintage-latex",
-      "time": 1788973107.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49629624"
-    },
-    {
-      "title": "A wandering black hole caught feeding on the run",
-      "score": 37,
-      "url": "https://phys.org/news/2026-08-black-hole-caught.html",
-      "time": 1789270493.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49679734"
     }
   ]
 }
