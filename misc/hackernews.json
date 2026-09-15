@@ -1,54 +1,131 @@
 {
-  "last_updated": "2026-09-15T04:11:16.404541-04:00",
+  "last_updated": "2026-09-15T09:59:43.874274-04:00",
   "stories": [
     {
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "score": 142,
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "time": 1789475470.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49711544"
+    },
+    {
+      "title": "Java 27 Released",
+      "score": 63,
+      "url": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
+      "time": 1789478023.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49712041"
+    },
+    {
+      "title": "I can't stop thinking about Papua New Guinea",
+      "score": 532,
+      "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+      "time": 1789452984.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49708431"
+    },
+    {
+      "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+      "score": 12,
+      "url": "https://bkovac.github.io/modem-thing/",
+      "time": 1789478424.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49712102"
+    },
+    {
+      "title": "25 Years of Mass Surveillance Is Enough",
+      "score": 194,
+      "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+      "time": 1789471608.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49710883"
+    },
+    {
+      "title": "CSS-Tricks in Limbo",
+      "score": 134,
+      "url": "https://vale.rocks/micros/20260915-0135",
+      "time": 1789457266.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49708993"
+    },
+    {
+      "title": "Alternatives to MinIO for single-node local S3",
+      "score": 114,
+      "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
+      "time": 1789460487.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49709381"
+    },
+    {
+      "title": "Australia 'on the same page' as Canada as it seeks deeper EU alliance",
+      "score": 20,
+      "url": "https://www.reddit.com/r/worldnews/comments/1wgqken/australia_on_the_same_page_as_canada_as_it_seeks/",
+      "time": 1789478738.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49712186"
+    },
+    {
+      "title": "A rough guide for going back to the Moon",
+      "score": 33,
+      "url": "https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model",
+      "time": 1789396380.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49697549"
+    },
+    {
       "title": "iOS 27, iPadOS 27, and macOS 27",
-      "score": 570,
+      "score": 668,
       "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
       "time": 1789408229.0,
       "comments_url": "https://news.ycombinator.com/item?id=49701004"
     },
     {
-      "title": "Linux from Scratch",
-      "score": 136,
-      "url": "https://www.linuxfromscratch.org/",
-      "time": 1789445723.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49707627"
+      "title": "The k-server conjecture is true",
+      "score": 63,
+      "url": "https://arxiv.org/abs/2609.15979",
+      "time": 1789458331.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49709129"
+    },
+    {
+      "title": "Sony's First Computer – The SMC-70 from 1982 [video]",
+      "score": 5,
+      "url": "https://www.youtube.com/watch?v=cT2-7KkPkBc",
+      "time": 1789278433.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49680428"
+    },
+    {
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "score": 263,
+      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+      "time": 1789467766.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49710253"
     },
     {
       "title": "OpenArm: An open-source 7DOF humanoid arm",
-      "score": 62,
+      "score": 150,
       "url": "https://github.com/enactic/OpenArm",
       "time": 1789309069.0,
       "comments_url": "https://news.ycombinator.com/item?id=49684289"
     },
     {
-      "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
-      "score": 121,
-      "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
-      "time": 1789239100.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49675817"
+      "title": "US confirms for first time it has deployed space weapons",
+      "score": 162,
+      "url": "https://www.bbc.com/news/articles/ck790xg41ygro",
+      "time": 1789444076.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49707473"
     },
     {
-      "title": "Pion, an agent designed to run any company autonomously",
-      "score": 387,
-      "url": "https://andonlabs.com/blog/why-we-built-pion",
-      "time": 1789406166.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49700477"
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+      "score": 50,
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "time": 1789473691.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49711240"
     },
     {
-      "title": "When code is a maze, smart developers make maps (2025)",
-      "score": 25,
-      "url": "https://medium.com/@simonsmartiom/when-code-is-a-maze-smart-developers-make-maps-fbc452a48c1b",
-      "time": 1789374930.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49693690"
+      "title": "Inverse-Square Law",
+      "score": 14,
+      "url": "https://blog.coredump.cx/p/inverse-square-law",
+      "time": 1789361143.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49692098"
     },
     {
-      "title": "Charts built for Chat",
-      "score": 211,
-      "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
-      "time": 1789420974.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49704246"
+      "title": "25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]",
+      "score": 38,
+      "url": "https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough",
+      "time": 1789474106.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49711309"
     },
     {
       "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
@@ -58,88 +135,11 @@
       "comments_url": "https://news.ycombinator.com/item?id=49708774"
     },
     {
-      "title": "XCancel service is suspended until further notice",
-      "score": 595,
-      "url": "https://xcancel.com/#",
-      "time": 1789379510.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49694296"
-    },
-    {
-      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-      "score": 100,
-      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-      "time": 1789396163.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49697477"
-    },
-    {
-      "title": "Show HN: Redis City – Explore how Redis works in an interactive 3D model",
-      "score": 61,
-      "url": "https://poltora.dev/redis",
-      "time": 1789242214.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49676425"
-    },
-    {
-      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-      "score": 442,
-      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-      "time": 1789389657.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49695876"
-    },
-    {
-      "title": "Distributed Systems Classics (2017)",
-      "score": 289,
-      "url": "https://nvartolomei.com/dist-sys-classics/",
-      "time": 1789401721.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49699158"
-    },
-    {
-      "title": "A beginning for mathematics",
-      "score": 209,
-      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-      "time": 1789399987.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49698699"
-    },
-    {
-      "title": "Compressing a flag to 11 bits",
-      "score": 129,
-      "url": "https://read.vantezzen.io/miniflags",
-      "time": 1789228663.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49673689"
-    },
-    {
-      "title": "Synthesizing Loop-Free Programs with Rust and Z3 (2020)",
-      "score": 10,
-      "url": "https://fitzgen.com/2020/01/13/synthesizing-loop-free-programs.html",
-      "time": 1789144037.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49661104"
-    },
-    {
-      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-      "score": 59,
-      "url": "https://github.com/JamesRyanATX/fcbnerd",
-      "time": 1789426896.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49705442"
-    },
-    {
-      "title": "Forgotten Woodlands",
-      "score": 47,
-      "url": "https://storymaps.arcgis.com/stories/9b790daf22ba4e87836f467abb1c7e49",
-      "time": 1789161664.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49665549"
-    },
-    {
-      "title": "Principles for Fast Tokio Applications",
-      "score": 201,
-      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-      "time": 1789399676.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49698607"
-    },
-    {
-      "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
-      "score": 163,
-      "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
-      "time": 1789393138.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49696697"
+      "title": "There are only twelve 4x4 sudokus (and a cool trick for finding minimal subsets)",
+      "score": 21,
+      "url": "https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/",
+      "time": 1789387817.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49695519"
     }
   ]
 }
