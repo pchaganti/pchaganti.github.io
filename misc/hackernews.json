@@ -1,68 +1,131 @@
 {
-  "last_updated": "2026-09-16T09:53:49.019374-04:00",
+  "last_updated": "2026-09-16T14:33:22.003163-04:00",
   "stories": [
     {
-      "title": "The Google Play app review process now regularly takes longer than a week",
-      "score": 143,
-      "url": "https://gultsch.social/@daniel/117280438824908947",
-      "time": 1789557551.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49724927"
+      "title": "Small Programming Tricks",
+      "score": 160,
+      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+      "time": 1789574207.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49729000"
     },
     {
-      "title": "Salesforce Global Outage",
-      "score": 128,
-      "url": "https://status.salesforce.com/products/all",
-      "time": 1789555028.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49724488"
-    },
-    {
-      "title": "EU chief opens door for Canada to become 'associate member'",
-      "score": 577,
-      "url": "https://www.bbc.com/news/articles/cjwyzrr9d3dko",
-      "time": 1789552445.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49724141"
+      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+      "score": 123,
+      "url": "https://arxiv.org/abs/2609.14858",
+      "time": 1789566280.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49726955"
     },
     {
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-      "score": 215,
+      "score": 420,
       "url": "https://mistral.ai/news/mistral-x-mozilla/",
       "time": 1789546137.0,
       "comments_url": "https://news.ycombinator.com/item?id=49723408"
     },
     {
-      "title": "ImpactGate: A merge gate that scores the structural decay AI adds",
-      "score": 13,
-      "url": "https://github.com/officefloor/ImpactGate",
-      "time": 1789563669.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49726329"
-    },
-    {
       "title": "Introducing System One Models and Jev",
-      "score": 1574,
+      "score": 1747,
       "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
       "time": 1789500303.0,
       "comments_url": "https://news.ycombinator.com/item?id=49717558"
     },
     {
+      "title": "The DeepMind Institute",
+      "score": 51,
+      "url": "https://institute.deepmind.com/",
+      "time": 1789569131.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49727659"
+    },
+    {
+      "title": "Tell the speakers that you liked their talks",
+      "score": 156,
+      "url": "https://ohhelloana.blog/tell-the-speakers/",
+      "time": 1789471699.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49710903"
+    },
+    {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-      "score": 1774,
+      "score": 1909,
       "url": "https://github.com/arnegiacomo/fugleramme",
       "time": 1789475470.0,
       "comments_url": "https://news.ycombinator.com/item?id=49711544"
     },
     {
+      "title": "Claude Cowork and chat are now one Claude",
+      "score": 102,
+      "url": "https://claude.com/blog/cowork-is-now-claude",
+      "time": 1789575985.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49729412"
+    },
+    {
+      "title": "ER visits for gambling disorders doubled after expanded online gambling market",
+      "score": 39,
+      "url": "https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market",
+      "time": 1789579657.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49730239"
+    },
+    {
       "title": "Apple Reference Image: A New Approach for Verified Photography",
-      "score": 346,
+      "score": 462,
       "url": "https://security.apple.com/blog/apple-reference-image/",
       "time": 1789524451.0,
       "comments_url": "https://news.ycombinator.com/item?id=49721322"
     },
     {
-      "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
-      "score": 30,
+      "title": "How big are factorials?",
+      "score": 49,
+      "url": "https://eli.thegreenplace.net/2026/how-big-are-factorials/",
+      "time": 1789478738.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49712185"
+    },
+    {
+      "title": "Learning Programming in an Age of LLMs",
+      "score": 176,
+      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+      "time": 1789549954.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49723873"
+    },
+    {
+      "title": "The Siberian Ice Maiden and the Scythian World",
+      "score": 11,
+      "url": "https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian",
+      "time": 1789499349.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49717298"
+    },
+    {
+      "title": "Hackers Got Inside a Flock Camera",
+      "score": 324,
       "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
       "time": 1789564727.0,
       "comments_url": "https://news.ycombinator.com/item?id=49726586"
+    },
+    {
+      "title": "The Google Play app review process now regularly takes longer than a week",
+      "score": 286,
+      "url": "https://gultsch.social/@daniel/117280438824908947",
+      "time": 1789557551.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49724927"
+    },
+    {
+      "title": "Can we stop with the uptime percentages?",
+      "score": 82,
+      "url": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
+      "time": 1789573204.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49728733"
+    },
+    {
+      "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+      "score": 44,
+      "url": "https://stale.jock.pl/",
+      "time": 1789563712.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49726343"
+    },
+    {
+      "title": "Salesforce Global Outage",
+      "score": 239,
+      "url": "https://status.salesforce.com/products/all",
+      "time": 1789555028.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49724488"
     },
     {
       "title": "Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
@@ -72,74 +135,11 @@
       "comments_url": "https://news.ycombinator.com/item?id=49725541"
     },
     {
-      "title": "Douglas Adams and the exterminated Doctor Who adventure",
-      "score": 34,
-      "url": "https://www.bbc.co.uk/news/articles/c8jdp38z4jgo",
-      "time": 1789336159.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49689062"
-    },
-    {
-      "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
-      "score": 80,
-      "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
-      "time": 1789559380.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49725356"
-    },
-    {
       "title": "An update on Wayback Machine access",
-      "score": 603,
+      "score": 658,
       "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
       "time": 1789494738.0,
       "comments_url": "https://news.ycombinator.com/item?id=49716176"
-    },
-    {
-      "title": "Learning Programming in an Age of LLMs",
-      "score": 118,
-      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
-      "time": 1789549954.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49723873"
-    },
-    {
-      "title": "Scaling Golang CI by Replacing actions/setup-go",
-      "score": 13,
-      "url": "https://www.cloudx.ai/posts/setup-go",
-      "time": 1789563734.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49726350"
-    },
-    {
-      "title": "Doing Everyone Else's Job",
-      "score": 133,
-      "url": "https://yosefk.com/blog/doing-everyone-elses-job.html",
-      "time": 1789430491.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49705944"
-    },
-    {
-      "title": "Show HN: I made a flight simulator, except you're just a passenger",
-      "score": 273,
-      "url": "https://inflightsimulator.com",
-      "time": 1789376936.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49693971"
-    },
-    {
-      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "score": 447,
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-      "time": 1789493898.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49715947"
-    },
-    {
-      "title": "We do modern frequentist statistics: Using fake-data simulation",
-      "score": 42,
-      "url": "https://statmodeling.stat.columbia.edu/2026/09/14/this-is-modern-frequentist-statistics-using-fake-data-simulation-to-understand/",
-      "time": 1789394285.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49696995"
-    },
-    {
-      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
-      "score": 90,
-      "url": "https://arxiv.org/abs/2511.07885",
-      "time": 1789377399.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49694035"
     }
   ]
 }
