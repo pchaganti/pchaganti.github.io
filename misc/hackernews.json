@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-09-16T19:24:52.763840-04:00",
+  "last_updated": "2026-09-16T22:31:47.535774-04:00",
   "stories": [
     {
-      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-      "score": 331,
-      "url": "https://rohanbansal.com/qorl",
-      "time": 1789584600.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49731285"
-    },
-    {
-      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-      "score": 95,
-      "url": "https://arxiv.org/abs/2609.16338",
-      "time": 1789592364.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49732931"
-    },
-    {
       "title": "Nvidia announces native GPU programming in Rust",
-      "score": 87,
+      "score": 323,
       "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
       "time": 1789557353.0,
       "comments_url": "https://news.ycombinator.com/item?id=49724881"
     },
     {
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "score": 416,
+      "url": "https://rohanbansal.com/qorl",
+      "time": 1789584600.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49731285"
+    },
+    {
       "title": "Xiaomi Mimo 2.6 live post-training dashboard",
-      "score": 185,
+      "score": 278,
       "url": "https://mimo.xiaomi.com/rl/",
       "time": 1789589358.0,
       "comments_url": "https://news.ycombinator.com/item?id=49732270"
     },
     {
-      "title": "OpenSpec – A lightweight and configurable AI spec framework",
-      "score": 10,
-      "url": "https://openspec.dev/",
-      "time": 1789599999.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49734264"
-    },
-    {
-      "title": "Small programming tricks",
-      "score": 349,
-      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-      "time": 1789574207.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49729000"
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "score": 148,
+      "url": "https://arxiv.org/abs/2609.16338",
+      "time": 1789592364.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49732931"
     },
     {
       "title": "Backups Aren't Simple",
-      "score": 27,
+      "score": 100,
       "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
       "time": 1789590436.0,
       "comments_url": "https://news.ycombinator.com/item?id=49732513"
     },
     {
+      "title": "Small programming tricks",
+      "score": 410,
+      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+      "time": 1789574207.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49729000"
+    },
+    {
       "title": "The engineering behind the US Strategic Petroleum Reserve",
-      "score": 30,
+      "score": 118,
       "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
       "time": 1789510525.0,
       "comments_url": "https://news.ycombinator.com/item?id=49719596"
     },
     {
-      "title": "Reversing Factorio's RNG",
-      "score": 103,
-      "url": "https://gegell.github.io/posts/factorio-rng/",
-      "time": 1789232539.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49674451"
+      "title": "Developing provably correct Rust code with Verus",
+      "score": 27,
+      "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
+      "time": 1789405070.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49700153"
+    },
+    {
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "score": 76,
+      "url": "https://openspec.dev/",
+      "time": 1789599999.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49734264"
+    },
+    {
+      "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
+      "score": 23,
+      "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
+      "time": 1789604913.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49734929"
     },
     {
       "title": "Performance Improvements in .NET 11",
-      "score": 114,
+      "score": 190,
       "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
       "time": 1789474696.0,
       "comments_url": "https://news.ycombinator.com/item?id=49711424"
     },
     {
-      "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
-      "score": 157,
-      "url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
-      "time": 1789508502.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49719249"
+      "title": "Reversing Factorio's RNG",
+      "score": 149,
+      "url": "https://gegell.github.io/posts/factorio-rng/",
+      "time": 1789232539.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49674451"
     },
     {
-      "title": "Accurate Models of AMD Matrix Cores",
-      "score": 49,
-      "url": "https://arxiv.org/abs/2609.14845",
-      "time": 1789584965.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49731360"
+      "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+      "score": 44,
+      "url": "https://harnesstax.github.io/",
+      "time": 1789596613.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49733726"
     },
     {
       "title": "Japan's book scene is moving from bookstores to libraries",
-      "score": 68,
+      "score": 124,
       "url": "https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving",
       "time": 1789252525.0,
       "comments_url": "https://news.ycombinator.com/item?id=49677916"
     },
     {
-      "title": "How good are frontier models at physics?",
-      "score": 57,
-      "url": "https://arxiv.org/abs/2609.13009",
-      "time": 1789586348.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49731620"
-    },
-    {
       "title": "Australia says it could follow Canada in forging deeper ties with EU",
-      "score": 19,
+      "score": 161,
       "url": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
       "time": 1789599408.0,
       "comments_url": "https://news.ycombinator.com/item?id=49734171"
     },
     {
-      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
-      "score": 176,
-      "url": "https://arxiv.org/abs/2609.14858",
-      "time": 1789566280.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49726955"
-    },
-    {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-      "score": 2042,
+      "score": 2096,
       "url": "https://github.com/arnegiacomo/fugleramme",
       "time": 1789475470.0,
       "comments_url": "https://news.ycombinator.com/item?id=49711544"
     },
     {
-      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-      "score": 513,
-      "url": "https://mistral.ai/news/mistral-x-mozilla/",
-      "time": 1789546137.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49723408"
+      "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
+      "score": 251,
+      "url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
+      "time": 1789508502.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49719249"
     },
     {
       "title": "Reverse-engineered Jev-like model",
-      "score": 40,
+      "score": 83,
       "url": "https://github.com/vinnylarouge/jevlike",
       "time": 1789584597.0,
       "comments_url": "https://news.ycombinator.com/item?id=49731282"
     },
     {
-      "title": "Anatomy of a Texture",
-      "score": 66,
-      "url": "https://agentlien.github.io/texture/",
-      "time": 1789568908.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49727592"
+      "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
+      "score": 43,
+      "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+      "time": 1789606933.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49735180"
+    },
+    {
+      "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+      "score": 4,
+      "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
+      "time": 1789609187.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49735410"
     }
   ]
 }
