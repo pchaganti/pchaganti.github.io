@@ -1,61 +1,117 @@
 {
-  "last_updated": "2026-09-18T09:15:47.109289-04:00",
+  "last_updated": "2026-09-18T13:58:09.217250-04:00",
   "stories": [
     {
-      "title": "Bend 2 and the Vibe-Coding Trap",
-      "score": 125,
-      "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
-      "time": 1789733035.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49753179"
+      "title": "There's no point at which turning your brain off will work",
+      "score": 106,
+      "url": "https://danluu.com/brain-off/",
+      "time": 1789750972.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49757178"
+    },
+    {
+      "title": "Cloudflare Quick Tunnels",
+      "score": 257,
+      "url": "https://try.cloudflare.com/",
+      "time": 1789741121.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49754785"
+    },
+    {
+      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+      "score": 29,
+      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+      "time": 1789750458.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49757050"
+    },
+    {
+      "title": "North Korean nuclear test sets off years of earthquakes",
+      "score": 102,
+      "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
+      "time": 1789742732.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49755160"
+    },
+    {
+      "title": "An Empirical Study of Harness Design for Coding Agents",
+      "score": 179,
+      "url": "https://arxiv.org/abs/2609.20804",
+      "time": 1789736790.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49753878"
+    },
+    {
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "score": 58,
+      "url": "https://cactuscompute.com/needle",
+      "time": 1789690304.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49748553"
+    },
+    {
+      "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
+      "score": 70,
+      "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
+      "time": 1789678353.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49746406"
     },
     {
       "title": "OpenJev",
-      "score": 237,
+      "score": 403,
       "url": "https://openjev.com/",
       "time": 1789724542.0,
       "comments_url": "https://news.ycombinator.com/item?id=49752041"
     },
     {
+      "title": "Mathematicians Build Long-Awaited Graph Sandwich",
+      "score": 32,
+      "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
+      "time": 1789742462.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49755095"
+    },
+    {
+      "title": "I vibed a proof of Conway's conjecture",
+      "score": 119,
+      "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
+      "time": 1789742170.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49755024"
+    },
+    {
+      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+      "score": 429,
+      "url": "https://www.hacktron.ai/blog/hacking-openai",
+      "time": 1789699644.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49749656"
+    },
+    {
       "title": "I don't like passkeys",
-      "score": 108,
+      "score": 558,
       "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
       "time": 1789733210.0,
       "comments_url": "https://news.ycombinator.com/item?id=49753211"
     },
     {
-      "title": "ZCode, the GLM coding agent, silently uploads your Git history",
-      "score": 134,
-      "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-      "time": 1789727728.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49752422"
+      "title": "US Treasuries Have Become Unappetizing for Foreign Central Banks and Governments",
+      "score": 108,
+      "url": "https://wolfstreet.com/2026/09/17/treasuries-have-become-badly-unappetizing-for-foreign-central-banks-governments/",
+      "time": 1789746629.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49756171"
     },
     {
       "title": "Jemalloc 5.4.0",
-      "score": 213,
+      "score": 296,
       "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
       "time": 1789705224.0,
       "comments_url": "https://news.ycombinator.com/item?id=49750152"
     },
     {
-      "title": "Subnormal floating-point numbers are expensive on Intel processors",
-      "score": 27,
-      "url": "https://lemire.me/blog/2026/09/15/subnormal-floating-point-numbers-are-expensive-on-intel-processors/",
-      "time": 1789491502.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49715408"
+      "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+      "score": 23,
+      "url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
+      "time": 1789743894.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49755431"
     },
     {
-      "title": "The scourge of x86 emulation",
-      "score": 192,
-      "url": "https://fex-emu.com/Scourge-of-emulation/",
-      "time": 1789704588.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49750094"
-    },
-    {
-      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-      "score": 377,
-      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "time": 1789724707.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49752056"
+      "title": "NATS publishes preliminary report on technical incident of 8 September",
+      "score": 36,
+      "url": "https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/",
+      "time": 1789737875.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49754064"
     },
     {
       "title": "Cekura (YC F24) Is Hiring",
@@ -65,81 +121,25 @@
       "comments_url": "https://news.ycombinator.com/item?id=49753131"
     },
     {
-      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "score": 491,
-      "url": "https://prismml.com/news/bonsai-2-27b",
-      "time": 1789679611.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49746618"
-    },
-    {
-      "title": "Astra for Law",
-      "score": 522,
-      "url": "https://openai.com/index/astra-for-law/",
-      "time": 1789676268.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49745940"
-    },
-    {
-      "title": "Replacing Pull Requests with Delta",
-      "score": 68,
-      "url": "https://zed.dev/blog/delta-public-beta",
-      "time": 1789567544.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49727245"
-    },
-    {
-      "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
-      "score": 70,
-      "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
-      "time": 1789729304.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49752614"
+      "title": "The scourge of x86 emulation",
+      "score": 248,
+      "url": "https://fex-emu.com/Scourge-of-emulation/",
+      "time": 1789704588.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49750094"
     },
     {
       "title": "The Shadows Lurking in the Equations – Underwater Islands",
-      "score": 7,
+      "score": 52,
       "url": "https://gods.art/articles/equation_shadows",
       "time": 1789526242.0,
       "comments_url": "https://news.ycombinator.com/item?id=49721507"
     },
     {
-      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-      "score": 513,
-      "url": "https://bend-lang.com/",
-      "time": 1789677373.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49746163"
-    },
-    {
-      "title": "Qwen 3.8 Omni Flash",
-      "score": 266,
-      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-      "time": 1789686348.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49747925"
-    },
-    {
-      "title": "Hister: A private search engine for the pages you visit and the files you keep",
-      "score": 654,
-      "url": "https://github.com/asciimoo/hister",
-      "time": 1789662337.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49743097"
-    },
-    {
-      "title": "Wax motor",
-      "score": 451,
-      "url": "https://en.wikipedia.org/wiki/Wax_motor",
-      "time": 1789562114.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49726007"
-    },
-    {
-      "title": "When the fractional part of a float fixes your shader",
-      "score": 60,
-      "url": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
-      "time": 1789564815.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49726614"
-    },
-    {
-      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
-      "score": 612,
-      "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
-      "time": 1789493318.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49715813"
+      "title": "Show HN: Scry, programmable internet search w/ congestion pricing",
+      "score": 16,
+      "url": "https://scry.io/",
+      "time": 1789686957.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49748041"
     }
   ]
 }
