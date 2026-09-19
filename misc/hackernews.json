@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-09-18T18:55:06.265196-04:00",
+  "last_updated": "2026-09-18T22:19:47.331808-04:00",
   "stories": [
     {
-      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-      "score": 291,
-      "url": "https://code.claude.com/docs/en/changelog",
-      "time": 1789765232.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49760187"
-    },
-    {
       "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-      "score": 385,
+      "score": 557,
       "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
       "time": 1789758189.0,
       "comments_url": "https://news.ycombinator.com/item?id=49758736"
     },
     {
-      "title": "Saving another 100TB of RAM",
-      "score": 156,
-      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "time": 1789757506.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49758580"
-    },
-    {
       "title": "Cloudflare Quick Tunnels",
-      "score": 502,
+      "score": 591,
       "url": "https://try.cloudflare.com/",
       "time": 1789741121.0,
       "comments_url": "https://news.ycombinator.com/item?id=49754785"
     },
     {
+      "title": "Saving another 100TB of RAM",
+      "score": 236,
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "time": 1789757506.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49758580"
+    },
+    {
+      "title": "The Farnese letter",
+      "score": 30,
+      "url": "https://simonklee.dk/farnese-letter",
+      "time": 1789666741.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49744036"
+    },
+    {
+      "title": "How to Write with an LLM",
+      "score": 399,
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "time": 1789681718.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49747070"
+    },
+    {
       "title": "Xcode 27.1 Beta Release Notes",
-      "score": 101,
+      "score": 115,
       "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
       "time": 1789756771.0,
       "comments_url": "https://news.ycombinator.com/item?id=49758419"
     },
     {
-      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-      "score": 54,
-      "url": "https://arxiv.org/abs/2510.03215",
-      "time": 1789757735.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49758615"
+      "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
+      "score": 12,
+      "url": "https://liveworld.info/",
+      "time": 1789777834.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49762099"
     },
     {
       "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-      "score": 136,
+      "score": 160,
       "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
       "time": 1789750458.0,
       "comments_url": "https://news.ycombinator.com/item?id=49757050"
     },
     {
       "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-      "score": 144,
+      "score": 166,
       "url": "https://cactuscompute.com/needle",
       "time": 1789690304.0,
       "comments_url": "https://news.ycombinator.com/item?id=49748553"
     },
     {
-      "title": "How to Write with an LLM",
-      "score": 346,
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "time": 1789681718.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49747070"
-    },
-    {
-      "title": "US troop deaths during Iran war exceed Pentagon count by at least four",
-      "score": 21,
-      "url": "https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/",
-      "time": 1789770910.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49761178"
-    },
-    {
-      "title": "OpenJev",
-      "score": 520,
-      "url": "https://openjev.com/",
-      "time": 1789724542.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49752041"
+      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+      "score": 68,
+      "url": "https://arxiv.org/abs/2510.03215",
+      "time": 1789757735.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49758615"
     },
     {
       "title": "The first new cat species discovered in 100 years",
-      "score": 115,
+      "score": 174,
       "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
       "time": 1789669916.0,
       "comments_url": "https://news.ycombinator.com/item?id=49744704"
     },
     {
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "score": 60,
+      "url": "https://spectrum.ieee.org/llms-for-chip-design",
+      "time": 1789772657.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49761432"
+    },
+    {
+      "title": "OpenJev",
+      "score": 561,
+      "url": "https://openjev.com/",
+      "time": 1789724542.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49752041"
+    },
+    {
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "score": 521,
+      "url": "https://code.claude.com/docs/en/changelog",
+      "time": 1789765232.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49760187"
+    },
+    {
       "title": "Cyclomatic Complexity in C#",
-      "score": 15,
+      "score": 34,
       "url": "https://blog.ndepend.com/understanding-cyclomatic-complexity/",
       "time": 1789585269.0,
       "comments_url": "https://news.ycombinator.com/item?id=49731413"
     },
     {
-      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-      "score": 98,
-      "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
-      "time": 1789744327.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49755533"
-    },
-    {
-      "title": "The Implications of Linguistic Illegibility for LLM Security",
-      "score": 38,
-      "url": "https://arxiv.org/abs/2609.02852",
-      "time": 1789758006.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49758689"
-    },
-    {
-      "title": "From Geometry to Algebra and Back Again: 4000 Years of Papers (2023) [video]",
-      "score": 22,
-      "url": "https://www.youtube.com/watch?v=1cRFfYQYGxE",
-      "time": 1789651203.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49740371"
-    },
-    {
-      "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
-      "score": 128,
-      "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
-      "time": 1789678353.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49746406"
-    },
-    {
-      "title": "Size-Specialized Memory Allocation",
-      "score": 9,
-      "url": "https://go.dev/blog/size-specialized-allocations",
-      "time": 1789605949.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49735057"
-    },
-    {
       "title": "Minimal Phone 2",
-      "score": 153,
+      "score": 194,
       "url": "https://minimalcompany.com/",
       "time": 1789696825.0,
       "comments_url": "https://news.ycombinator.com/item?id=49749369"
     },
     {
-      "title": "How SpaceX streamlined the Raptor engine",
-      "score": 140,
-      "url": "https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor",
-      "time": 1789679659.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49746626"
+      "title": "LispBM is a concurrent Lisp for microcontrollers with message passing",
+      "score": 8,
+      "url": "https://www.lispbm.com/",
+      "time": 1789595384.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49733523"
+    },
+    {
+      "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
+      "score": 112,
+      "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
+      "time": 1789700208.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49749724"
+    },
+    {
+      "title": "The Implications of Linguistic Illegibility for LLM Security",
+      "score": 53,
+      "url": "https://arxiv.org/abs/2609.02852",
+      "time": 1789758006.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49758689"
+    },
+    {
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "score": 105,
+      "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
+      "time": 1789744327.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49755533"
     }
   ]
 }
