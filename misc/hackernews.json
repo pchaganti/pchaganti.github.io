@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-09-19T03:39:28.350906-04:00",
+  "last_updated": "2026-09-19T08:46:34.278655-04:00",
   "stories": [
     {
+      "title": "AI-generated posters don’t have to be horrible",
+      "score": 335,
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "time": 1789809658.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49764791"
+    },
+    {
       "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-      "score": 116,
+      "score": 333,
       "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
       "time": 1789796930.0,
       "comments_url": "https://news.ycombinator.com/item?id=49763697"
     },
     {
+      "title": "Laya the open source version of Jev",
+      "score": 67,
+      "url": "https://laya.convaiinnovations.com/",
+      "time": 1789814818.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49765348"
+    },
+    {
+      "title": "“The Secret Life of Circuits” is here",
+      "score": 98,
+      "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
+      "time": 1789514105.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49720143"
+    },
+    {
       "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "score": 38,
+      "score": 164,
       "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
       "time": 1789800104.0,
       "comments_url": "https://news.ycombinator.com/item?id=49763987"
     },
     {
       "title": "If math is more than proof, we need to better celebrate the rest of it",
-      "score": 33,
+      "score": 159,
       "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
       "time": 1789799282.0,
       "comments_url": "https://news.ycombinator.com/item?id=49763928"
     },
     {
-      "title": "San Francisco Onion Futures Company",
-      "score": 156,
-      "url": "https://onionfutures.com/",
-      "time": 1789791810.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49763296"
-    },
-    {
       "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-      "score": 780,
+      "score": 885,
       "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
       "time": 1789758189.0,
       "comments_url": "https://news.ycombinator.com/item?id=49758736"
     },
     {
-      "title": "Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step",
-      "score": 66,
-      "url": "https://github.com/awlevin/typesafe-computer-use",
-      "time": 1789596109.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49733647"
+      "title": "San Francisco Onion Futures Company",
+      "score": 227,
+      "url": "https://onionfutures.com/",
+      "time": 1789791810.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49763296"
     },
     {
-      "title": "Science Is Open Software",
-      "score": 72,
-      "url": "https://jepedersen.dk/blog/202505_research/",
-      "time": 1789784495.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49762687"
+      "title": "Communication by means of modulated Johnson noise",
+      "score": 20,
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2201337119",
+      "time": 1789623684.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49736823"
     },
     {
-      "title": "SDCC – Small Device C Compiler",
-      "score": 60,
-      "url": "https://sdcc.sourceforge.net/",
-      "time": 1789785156.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49762744"
+      "title": "Show HN: I wrote a custom assembler for CHIP-8 in C++",
+      "score": 8,
+      "url": "https://github.com/Tackx/c8-ass",
+      "time": 1789667260.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49744174"
     },
     {
       "title": "Cloudflare Quick Tunnels",
-      "score": 683,
+      "score": 738,
       "url": "https://try.cloudflare.com/",
       "time": 1789741121.0,
       "comments_url": "https://news.ycombinator.com/item?id=49754785"
     },
     {
-      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-      "score": 17,
-      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
-      "time": 1789793075.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49763379"
-    },
-    {
-      "title": "Why building a Rust LSP is hard",
-      "score": 54,
-      "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
-      "time": 1789599076.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49734131"
-    },
-    {
-      "title": "You can run Git on object storage if you re-make packfiles",
-      "score": 28,
-      "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
-      "time": 1789578971.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49730069"
-    },
-    {
-      "title": "Saving another 100TB of RAM",
-      "score": 336,
-      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "time": 1789757506.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49758580"
-    },
-    {
       "title": "How to Write with an LLM",
-      "score": 473,
+      "score": 515,
       "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
       "time": 1789681718.0,
       "comments_url": "https://news.ycombinator.com/item?id=49747070"
     },
     {
-      "title": "Ctenophores: Wonders of Biology",
-      "score": 12,
-      "url": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
-      "time": 1789610305.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49735541"
+      "title": "From Stonemasons to Carpenters",
+      "score": 14,
+      "url": "https://thelastsoftwareengineer.substack.com/p/from-stonemasons-to-carpenters",
+      "time": 1789664150.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49743490"
+    },
+    {
+      "title": "SDCC – Small Device C Compiler",
+      "score": 98,
+      "url": "https://sdcc.sourceforge.net/",
+      "time": 1789785156.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49762744"
+    },
+    {
+      "title": "You can run Git on object storage if you re-make packfiles",
+      "score": 65,
+      "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
+      "time": 1789578971.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49730069"
+    },
+    {
+      "title": "Science Is Open Software",
+      "score": 109,
+      "url": "https://jepedersen.dk/blog/202505_research/",
+      "time": 1789784495.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49762687"
+    },
+    {
+      "title": "Saving another 100TB of RAM",
+      "score": 384,
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "time": 1789757506.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49758580"
+    },
+    {
+      "title": "Why building a Rust LSP is hard",
+      "score": 101,
+      "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+      "time": 1789599076.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49734131"
     },
     {
       "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "score": 110,
+      "score": 144,
       "url": "https://spectrum.ieee.org/llms-for-chip-design",
       "time": 1789772657.0,
       "comments_url": "https://news.ycombinator.com/item?id=49761432"
     },
     {
-      "title": "The first new cat species discovered in 100 years",
-      "score": 258,
-      "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
-      "time": 1789669916.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49744704"
-    },
-    {
-      "title": "Goroutine Leak Profiles",
-      "score": 24,
-      "url": "https://go.dev/blog/goroutine-leak-profiles",
-      "time": 1789565430.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49726773"
-    },
-    {
-      "title": "OpenJev",
-      "score": 613,
-      "url": "https://openjev.com/",
-      "time": 1789724542.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49752041"
-    },
-    {
-      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-      "score": 195,
-      "url": "https://cactuscompute.com/needle",
-      "time": 1789690304.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49748553"
+      "title": "Ctenophores: Wonders of Biology",
+      "score": 35,
+      "url": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
+      "time": 1789610305.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49735541"
     }
   ]
 }
