@@ -1,68 +1,131 @@
 {
-  "last_updated": "2026-09-23T09:58:10.543992-04:00",
+  "last_updated": "2026-09-23T14:44:08.953926-04:00",
   "stories": [
     {
-      "title": "Claude Code reads AGENTS.md only when telemetry is on",
-      "score": 192,
-      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
-      "time": 1790165733.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49814947"
+      "title": "Fixing the Portobello Police Station Clock",
+      "score": 239,
+      "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+      "time": 1790176733.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49817469"
     },
     {
-      "title": "The GitHub wiki is an anti-pattern",
-      "score": 27,
-      "url": "https://michaelheap.com/github-wiki-is-an-antipattern/",
-      "time": 1790168749.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49815484"
+      "title": "UK military jamming other nations' satellites to defend itself, BBC told",
+      "score": 48,
+      "url": "https://www.bbc.com/news/articles/c32l8y8kygdvo",
+      "time": 1790185530.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49819814"
+    },
+    {
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "score": 17,
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "time": 1790186807.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49820134"
+    },
+    {
+      "title": "Italian parliament votes for return to nuclear energy",
+      "score": 134,
+      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+      "time": 1790183176.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49819221"
+    },
+    {
+      "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+      "score": 65,
+      "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
+      "time": 1790176985.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49817524"
+    },
+    {
+      "title": "Gemini 3.8 text-to-speech",
+      "score": 143,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "time": 1790177363.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49817615"
     },
     {
       "title": "Jev in 25 Lines of Python",
-      "score": 369,
+      "score": 536,
       "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
       "time": 1790148383.0,
       "comments_url": "https://news.ycombinator.com/item?id=49812769"
     },
     {
-      "title": "I Don't Want the Details",
-      "score": 47,
-      "url": "https://michaelheap.com/i-dont-want-the-details/",
-      "time": 1790168684.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49815466"
-    },
-    {
-      "title": "Z80 REPL",
-      "score": 66,
-      "url": "https://abagames.github.io/z80-repl/index.html",
-      "time": 1790161492.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49814236"
+      "title": "A brief history of Windows scroll bar shortcuts",
+      "score": 6,
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
+      "time": 1790186528.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49820065"
     },
     {
       "title": "GPT-6 Sol and Luna",
-      "score": 1635,
+      "score": 1691,
       "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
       "time": 1790100034.0,
       "comments_url": "https://news.ycombinator.com/item?id=49805509"
     },
     {
-      "title": "Samsung accidentally freezes its smart fridges with a software update",
-      "score": 58,
-      "url": "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/",
-      "time": 1790168279.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49815381"
-    },
-    {
-      "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
-      "score": 88,
-      "url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
-      "time": 1790166720.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49815127"
+      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+      "score": 386,
+      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+      "time": 1790165733.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49814947"
     },
     {
       "title": "Claude Opus 5.5",
-      "score": 1645,
+      "score": 1725,
       "url": "https://www.anthropic.com/claude-opus-5-5",
       "time": 1790094545.0,
       "comments_url": "https://news.ycombinator.com/item?id=49803892"
+    },
+    {
+      "title": "Z80 REPL (2018)",
+      "score": 120,
+      "url": "https://abagames.github.io/z80-repl/index.html",
+      "time": 1790161492.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49814236"
+    },
+    {
+      "title": "Stripe's Knowledge AI Platform",
+      "score": 127,
+      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+      "time": 1790170680.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49815982"
+    },
+    {
+      "title": "28% of job postings on company career sites have been open over 90 days",
+      "score": 105,
+      "url": "https://unlisted.careers/ghost-jobs/report/2026-09",
+      "time": 1790181334.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49818698"
+    },
+    {
+      "title": "I don't want the details",
+      "score": 238,
+      "url": "https://michaelheap.com/i-dont-want-the-details/",
+      "time": 1790168684.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49815466"
+    },
+    {
+      "title": "Strands Harness",
+      "score": 102,
+      "url": "https://strandsagents.com/blog/introducing-strands-harness/",
+      "time": 1790175946.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49817289"
+    },
+    {
+      "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
+      "score": 145,
+      "url": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
+      "time": 1790172274.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49816374"
+    },
+    {
+      "title": "Web-based IBM 1620 emulator and IPL-V from 1963",
+      "score": 22,
+      "url": "https://github.com/pkimpel/retro-1620",
+      "time": 1790121985.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49809935"
     },
     {
       "title": "QuestDB (YC S20) Is Hiring a Sales Engineer",
@@ -73,73 +136,10 @@
     },
     {
       "title": "Tokens Too Cheap to Meter",
-      "score": 34,
+      "score": 150,
       "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
       "time": 1790155277.0,
       "comments_url": "https://news.ycombinator.com/item?id=49813482"
-    },
-    {
-      "title": "Transit rewards",
-      "score": 193,
-      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
-      "time": 1790131949.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49811065"
-    },
-    {
-      "title": "Show HN: Ive Sent It – online courier for files, with signed proof of delivery",
-      "score": 11,
-      "url": "https://ivesentit.com",
-      "time": 1790166961.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49815168"
-    },
-    {
-      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-      "score": 696,
-      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-      "time": 1790085135.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49801324"
-    },
-    {
-      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
-      "score": 395,
-      "url": "https://foxscript.org/",
-      "time": 1790110830.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49808023"
-    },
-    {
-      "title": "Show HN: RxFilm Studio–Create and edit your product videos with AI agent",
-      "score": 15,
-      "url": "https://filmstudio.rxlab.app",
-      "time": 1790166520.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49815095"
-    },
-    {
-      "title": "What California is learning from solar panels built over irrigation canals",
-      "score": 266,
-      "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
-      "time": 1790046605.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49796379"
-    },
-    {
-      "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
-      "score": 195,
-      "url": "https://github.com/xCuri0/ReBarUEFI",
-      "time": 1789952866.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49781862"
-    },
-    {
-      "title": "How did AMD Ryzen get 50% faster in two years?",
-      "score": 399,
-      "url": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
-      "time": 1789758063.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49758709"
-    },
-    {
-      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
-      "score": 698,
-      "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
-      "time": 1790099162.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49805278"
     }
   ]
 }
