@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-09-25T15:02:20.627879-04:00",
+  "last_updated": "2026-09-25T19:41:57.090531-04:00",
   "stories": [
     {
-      "title": "Yes, Claude can do Nine Loops",
-      "score": 52,
-      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-      "time": 1790359908.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49848033"
-    },
-    {
-      "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
-      "score": 15,
-      "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
-      "time": 1790361425.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49848295"
-    },
-    {
       "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "score": 24,
+      "score": 288,
       "url": "https://ollaya.dev/",
       "time": 1790361230.0,
       "comments_url": "https://news.ycombinator.com/item?id=49848269"
     },
     {
-      "title": "Platform-Independent SIMD in Go",
-      "score": 284,
+      "title": "Excel now supports multiple values in a single cell",
+      "score": 51,
+      "url": "https://techcommunity.microsoft.com/blog/excelblog/excel-now-supports-multiple-values-in-a-single-cell/4549756",
+      "time": 1790369700.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49849832"
+    },
+    {
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "score": 97,
+      "url": "https://swarmtraces.org/",
+      "time": 1790370567.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49849985"
+    },
+    {
+      "title": "Show HN: Jev Plays Pokémon Red",
+      "score": 117,
+      "url": "https://jev-pokemon.vercel.app/",
+      "time": 1790346487.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49845172"
+    },
+    {
+      "title": "Platform-independent SIMD in Go",
+      "score": 342,
       "url": "https://go.dev/blog/simd-experiment",
       "time": 1790336826.0,
       "comments_url": "https://news.ycombinator.com/item?id=49843269"
     },
     {
+      "title": "Tell HN: Codex Is Down",
+      "score": 49,
+      "url": "https://news.ycombinator.com/item?id=49851032",
+      "time": 1790376704.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49851032"
+    },
+    {
+      "title": "What even is an OS now?",
+      "score": 42,
+      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+      "time": 1790372216.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49850305"
+    },
+    {
       "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
-      "score": 229,
+      "score": 290,
       "url": "https://github.com/git-bug/git-bug",
       "time": 1790336311.0,
       "comments_url": "https://news.ycombinator.com/item?id=49843174"
     },
     {
-      "title": "First Principles Thinking",
-      "score": 129,
-      "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
-      "time": 1790344537.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49844736"
+      "title": "Gravity seems holographic. What does that mean for reality?",
+      "score": 100,
+      "url": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
+      "time": 1790350262.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49845998"
     },
     {
-      "title": "Show HN: Doom or Bloom, map your AI worldview with Jev",
-      "score": 20,
-      "url": "https://www.doom-or-bloom.com",
-      "time": 1790355088.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49846953"
-    },
-    {
-      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
-      "score": 223,
-      "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
-      "time": 1790321265.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49841285"
-    },
-    {
-      "title": "F-Droid 2.0",
-      "score": 1412,
-      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "time": 1790263572.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49831968"
-    },
-    {
-      "title": "A Skill.md for Commenting on Hacker News",
-      "score": 18,
-      "url": "https://blog.coredump.cx/p/a-skillmd-for-commenting-on-hacker",
-      "time": 1790354710.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49846864"
-    },
-    {
-      "title": "Ink and Switch Interactive Homepage",
-      "score": 181,
-      "url": "https://www.inkandswitch.com/",
-      "time": 1790329825.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49842270"
-    },
-    {
-      "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-      "score": 140,
-      "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
-      "time": 1790350055.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49845952"
-    },
-    {
-      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
-      "score": 873,
-      "url": "https://www.dawo.community/en/",
-      "time": 1790323609.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49841563"
-    },
-    {
-      "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-      "score": 4,
-      "url": "https://mouse.dev/blog/muse-special/",
-      "time": 1790360286.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49848095"
-    },
-    {
-      "title": "Factorio that you can touch",
-      "score": 203,
-      "url": "https://factorio.com/blog/post/fff-447",
-      "time": 1790346282.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49845133"
+      "title": "An airport cooled by natural ventilation",
+      "score": 17,
+      "url": "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
+      "time": 1790331410.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49842462"
     },
     {
       "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-      "score": 234,
+      "score": 353,
       "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
       "time": 1790350165.0,
       "comments_url": "https://news.ycombinator.com/item?id=49845977"
     },
     {
-      "title": "The Post-AGI Era",
-      "score": 8,
-      "url": "https://www.avidfayaz.com/writings/post-agi/the-post-agi-era",
-      "time": 1790356790.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49847359"
+      "title": "First Principles Thinking",
+      "score": 200,
+      "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+      "time": 1790344537.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49844736"
     },
     {
-      "title": "Show HN: Make cursed fonts like Times New Bastard",
-      "score": 835,
-      "url": "https://bastardica.mitpit.com",
-      "time": 1790204008.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49823738"
+      "title": "Initial DIY Cleanroom Experimentation",
+      "score": 11,
+      "url": "https://www.jefftk.com/p/initial-diy-cleanroom-experimentation",
+      "time": 1790233366.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49827208"
     },
     {
-      "title": "Amiga Screens: A Primer",
-      "score": 104,
-      "url": "https://www.datagubbe.se/amscr/",
-      "time": 1790321472.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49841309"
+      "title": "Remembering Johannes Doerfert",
+      "score": 31,
+      "url": "https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/",
+      "time": 1790293010.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49838247"
     },
     {
-      "title": "What happens when you analyze your favorite college football team like the CIA?",
+      "title": "Show HN: Make math automatic with Mathy",
+      "score": 63,
+      "url": "https://gmays.com/making-math-automatic-with-mathy/",
+      "time": 1790002145.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49788014"
+    },
+    {
+      "title": "How we learned to stop worrying and love campus surveillance",
+      "score": 63,
+      "url": "https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/",
+      "time": 1790366217.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49849141"
+    },
+    {
+      "title": "How video games inspire great UX (2019)",
+      "score": 87,
+      "url": "https://jenson.org/games/",
+      "time": 1789920013.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49777121"
+    },
+    {
+      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+      "score": 263,
+      "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+      "time": 1790321265.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49841285"
+    },
+    {
+      "title": "Ink and Switch interactive homepage",
+      "score": 222,
+      "url": "https://www.inkandswitch.com/",
+      "time": 1790329825.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49842270"
+    },
+    {
+      "title": "Loopjacking in A2A Implementations: Hijacking Human-in-the-Loop Approvals",
       "score": 4,
-      "url": "https://www.cultivatelabs.com/posts/what-happens-when-you-analyze-college-football-like-the-cia",
-      "time": 1790344041.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49844642"
+      "url": "https://adithyanak.com/loopjacking-in-a2a-implementations/",
+      "time": 1790187827.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49820349"
     }
   ]
 }
