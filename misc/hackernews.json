@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-10-01T08:05:19.709716-04:00",
+  "last_updated": "2026-10-01T15:58:25.444257-04:00",
   "stories": [
     {
+      "title": "Pi 1.0",
+      "score": 65,
+      "url": "https://earendil.com/posts/pi-1-0/",
+      "time": 1790883185.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49926069"
+    },
+    {
+      "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+      "score": 296,
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "time": 1790871537.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49923692"
+    },
+    {
+      "title": "RIP, vector database",
+      "score": 201,
+      "url": "https://turbopuffer.com/blog/rip-vector-database",
+      "time": 1790870516.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49923466"
+    },
+    {
+      "title": "Oxygen-deprived underwater zones may not be \"dead zones\" but clue to early life",
+      "score": 19,
+      "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
+      "time": 1790881422.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49925742"
+    },
+    {
       "title": "StreetComplete on iOS is now in public beta",
-      "score": 72,
+      "score": 450,
       "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
       "time": 1790852397.0,
       "comments_url": "https://news.ycombinator.com/item?id=49920160"
     },
     {
-      "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
-      "score": 124,
-      "url": "https://github.com/maanHimself/OpenDLSS-NR",
-      "time": 1790757801.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49906100"
+      "title": "Bez: Generating a browser engine from specs and tests",
+      "score": 43,
+      "url": "https://tangled.org/burrito.space/bez",
+      "time": 1790878083.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49925036"
+    },
+    {
+      "title": "Ask HN: Who is hiring? (October 2026)",
+      "score": 96,
+      "url": "https://news.ycombinator.com/item?id=49922569",
+      "time": 1790866927.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49922569"
+    },
+    {
+      "title": "RacketCon Is Saturday",
+      "score": 104,
+      "url": "https://con.racket-lang.org/",
+      "time": 1790866693.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49922515"
+    },
+    {
+      "title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
+      "score": 42,
+      "url": "https://news.ycombinator.com/item?id=49911500",
+      "time": 1790787504.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49911500"
+    },
+    {
+      "title": "Cloudflare K2: serverless event streams",
+      "score": 133,
+      "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+      "time": 1790863750.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49921923"
+    },
+    {
+      "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
+      "score": 103,
+      "url": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
+      "time": 1790867262.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49922674"
+    },
+    {
+      "title": "Ask HN: Who wants to be hired? (October 2026)",
+      "score": 57,
+      "url": "https://news.ycombinator.com/item?id=49922568",
+      "time": 1790866927.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49922568"
+    },
+    {
+      "title": "Context Language Models",
+      "score": 62,
+      "url": "https://arxiv.org/abs/2609.37725",
+      "time": 1790866293.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49922437"
+    },
+    {
+      "title": "Lightweight PDF parser with layout, tables, formulas and bounding boxes",
+      "score": 44,
+      "url": "https://github.com/beatrizalmeidaf/papero-pdf-text-extractor",
+      "time": 1790871280.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49923638"
+    },
+    {
+      "title": "How to speed up the Rust compiler in September 2026",
+      "score": 196,
+      "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+      "time": 1790858678.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49920896"
     },
     {
       "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-      "score": 41,
+      "score": 147,
       "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
       "time": 1790850096.0,
       "comments_url": "https://news.ycombinator.com/item?id=49919910"
     },
     {
-      "title": "Gemini 4 Argon",
-      "score": 1448,
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "time": 1790798677.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49913571"
+      "title": "Polyedergarten: Garden of Paper Polyhedron Models",
+      "score": 38,
+      "url": "https://www.polyedergarten.de/e_index.htm",
+      "time": 1790866971.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49922594"
     },
     {
-      "title": "Returning from vacation? The government can search your phone without a warrant",
-      "score": 26,
-      "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
-      "time": 1790853239.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49920234"
+      "title": "ParadeDB Search Performance Improvements",
+      "score": 42,
+      "url": "https://www.paradedb.com/blog/opening-a-closed-tin",
+      "time": 1790874301.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49924275"
     },
     {
-      "title": "Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",
-      "score": 100,
-      "url": "https://bookofshapes.com/",
-      "time": 1790693782.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49894430"
+      "title": "How to set up SPF, DKIM, and DMARC for your sending domain",
+      "score": 40,
+      "url": "https://mailfully.com/blog/spf-dkim-dmarc-setup",
+      "time": 1790865201.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49922212"
     },
     {
-      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
-      "score": 241,
-      "url": "https://www.thespacereview.com/article/4951/1",
-      "time": 1790805784.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49915082"
-    },
-    {
-      "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
-      "score": 1,
-      "url": "https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate",
-      "time": 1790848098.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49919680"
-    },
-    {
-      "title": "Adding Floating-Point Decimals for Fun and Profit",
-      "score": 14,
-      "url": "https://blog.vero.site/post/float",
-      "time": 1790690713.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49893519"
-    },
-    {
-      "title": "Why the Bronze Age Collapsed",
-      "score": 279,
-      "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
-      "time": 1790676618.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49890732"
-    },
-    {
-      "title": "Before pixels: Modular industrial dashboards",
-      "score": 186,
-      "url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
-      "time": 1790794146.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49912792"
-    },
-    {
-      "title": "Surprisingly complex waves reveal the brain's inner workings",
-      "score": 201,
-      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-      "time": 1790795090.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49912955"
-    },
-    {
-      "title": "A brief history of the Bloomberg terminal",
-      "score": 309,
-      "url": "https://spectrum.ieee.org/bloomberg-terminal",
-      "time": 1790778847.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49909583"
-    },
-    {
-      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-      "score": 170,
-      "url": "https://github.com/magnitudedev/magnitude",
-      "time": 1790789860.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49911995"
-    },
-    {
-      "title": "Halfspace experimental IDE for solid modeling with distance fields",
-      "score": 145,
-      "url": "https://www.mattkeeter.com/projects/halfspace/",
-      "time": 1790797477.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49913350"
-    },
-    {
-      "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-      "score": 186,
-      "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
-      "time": 1790792265.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49912444"
-    },
-    {
-      "title": "Show HN: Ledge.sh – Runnable Markdown Notes",
-      "score": 155,
-      "url": "https://ledge.sh",
-      "time": 1790725294.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49902382"
-    },
-    {
-      "title": "The last time my family was replaced by technology",
-      "score": 260,
-      "url": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
-      "time": 1790773571.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49908394"
-    },
-    {
-      "title": "EDG C++ front-end goes public",
-      "score": 227,
-      "url": "https://edgcpp.org/#transition",
-      "time": 1790796397.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49913192"
-    },
-    {
-      "title": "What TLA+ can and can't check",
-      "score": 196,
-      "url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
-      "time": 1790776626.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49909056"
+      "title": "Identity Management for Agentic AI [pdf] (2025)",
+      "score": 55,
+      "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+      "time": 1790867470.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49922736"
     }
   ]
 }
