@@ -4,149 +4,660 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" sizes="192x192" href="images/favicon.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500;700&display=swap"
       rel="stylesheet"
     />
     <title>Prabhakar Chaganti</title>
     <style>
+      :root {
+        --bg: #000000;
+        --fg: #f0f0f0;
+        --dim: #84898e;
+        --hairline: rgba(255, 255, 255, 0.09);
+        --c1: #ff5733;
+        --c2: #3498db;
+        --c3: #2ecc71;
+        --c4: #f1c40f;
+        --c5: #9b59b6;
+        --c6: #e67e22;
+        --c7: #1ab09c;
+        --c8: #4591b3;
+        --c9: #4f2fbb;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
       body {
-        background-color: #0a0c0e;
-        color: #f0f0f0;
-        font-family: "Roboto Mono", monospace; /* Changed font here */
-        margin: 10px;
-        line-height: 1.6;
-        text-align: center;
+        height: 100%;
       }
 
-      main {
-        max-width: 90%;
-        margin: 0 auto;
-        padding: 10px;
-      }
-
-      main > div {
+      body {
+        background: var(--bg);
+        color: var(--fg);
+        font-family: "Roboto Mono", monospace;
+        margin: 0;
+        line-height: 1.4;
         overflow-x: hidden;
+        -webkit-font-smoothing: antialiased;
       }
 
-      img {
-        max-width: 100%;
-        height: auto;
+      /* ---------- constellation canvas ---------- */
+      #sky {
+        position: fixed;
+        inset: 0;
+        z-index: 0;
         display: block;
-        margin: 0 auto 20px;
+      }
+
+      /* subtle CRT scanlines + vignette */
+      body::after {
+        content: "";
+        position: fixed;
+        inset: 0;
+        z-index: 2;
+        pointer-events: none;
+        background:
+          repeating-linear-gradient(
+            to bottom,
+            transparent 0 2px,
+            rgba(0, 0, 0, 0.14) 2px 3px
+          ),
+          radial-gradient(ellipse at center, transparent 55%, rgba(0, 0, 0, 0.5));
+        mix-blend-mode: multiply;
+      }
+
+      /* ---------- top bar ---------- */
+      header {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 10;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 14px 20px;
+        font-size: 11px;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+        color: var(--dim);
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.85), transparent);
+      }
+
+      header .who {
+        color: var(--fg);
+      }
+
+      header .right {
+        display: flex;
+        align-items: center;
+        gap: 18px;
+      }
+
+      #clock {
+        font-variant-numeric: tabular-nums;
+        color: var(--dim);
+      }
+
+      #pause {
+        font: inherit;
+        letter-spacing: inherit;
+        text-transform: inherit;
+        background: none;
+        color: var(--dim);
+        border: 1px dashed currentColor;
+        border-radius: 2em;
+        padding: 3px 12px 4px;
+        cursor: pointer;
+        transition: color 0.2s, border-color 0.2s;
+      }
+
+      #pause:hover,
+      #pause:focus-visible {
+        color: var(--fg);
+        outline: none;
+      }
+
+      /* ---------- typed boot line ---------- */
+      #boot {
+        position: relative;
+        z-index: 5;
+        padding: 96px 20px 8px;
+        font-size: 12px;
+        letter-spacing: 0.08em;
+        color: var(--dim);
+        white-space: pre;
+        overflow: hidden;
+        max-width: 100%;
+      }
+
+      #boot .caret {
+        display: inline-block;
+        width: 8px;
+        height: 14px;
+        margin-left: 2px;
+        background: var(--c3);
+        vertical-align: -2px;
+        animation: blink 1.05s steps(1) infinite;
+      }
+
+      @keyframes blink {
+        50% {
+          opacity: 0;
+        }
+      }
+
+      /* ---------- the index ---------- */
+      main {
+        position: relative;
+        z-index: 5;
       }
 
       nav {
-        margin-bottom: 20px;
-        margin-top: 20px;
         display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
+        flex-direction: column;
+        border-top: 1px solid var(--hairline);
       }
 
-      nav a,
-      nav span {
-        margin-right: 10px;
+      .row {
+        --accent: var(--fg);
+        position: relative;
+        display: flex;
+        align-items: baseline;
+        gap: 2.2vw;
+        padding: 0.35em 20px;
+        border-bottom: 1px solid var(--hairline);
         text-decoration: none;
+        color: var(--accent);
+        border-left: 0.35vw solid transparent;
+        transition: border-left-color 0.25s, background 0.25s;
+        /* entrance */
+        opacity: 0;
+        transform: translateY(14px);
       }
 
-      nav a:hover,
-      nav a:focus {
-        text-decoration: underline;
+      .row.in {
+        opacity: 1;
+        transform: none;
+        transition:
+          border-left-color 0.25s,
+          background 0.25s,
+          opacity 0.5s ease,
+          transform 0.5s cubic-bezier(0.2, 0.7, 0.2, 1);
       }
 
-      nav a:focus {
-        /* Removed outline here */
+      .row:hover,
+      .row:focus-visible {
+        color: #ffffff;
+        border-left-color: var(--accent);
+        background: linear-gradient(
+          to right,
+          color-mix(in srgb, var(--accent) 9%, transparent),
+          transparent 55%
+        );
+        outline: none;
       }
 
-      nav a:nth-child(1) {
-        color: #ff5733; /* Reddish-orange */
+      .idx {
+        flex: 0 0 auto;
+        font-size: clamp(10px, 1.1vw, 14px);
+        letter-spacing: 0.2em;
+        color: var(--dim);
+        transform: translateY(-0.9em);
+        transition: color 0.25s;
       }
 
-      nav a:nth-child(3) {
-        color: #3498db; /* Blue */
+      .row:hover .idx,
+      .row:focus-visible .idx {
+        color: var(--accent);
       }
 
-      nav a:nth-child(5) {
-        color: #2ecc71; /* Green */
+      .name {
+        flex: 1 1 auto;
+        min-width: 0;
+        overflow: hidden;
+        font-weight: 700;
+        text-transform: uppercase;
+        font-size: clamp(30px, 5.4vw, 88px);
+        line-height: 1.04;
+        letter-spacing: -0.02em;
+        white-space: nowrap;
       }
 
-      nav a:nth-child(7) {
-        color: #f1c40f; /* Yellow */
+      .name-inner {
+        display: inline-block;
+        will-change: transform;
       }
 
-      nav a:nth-child(9) {
-        color: #9b59b6; /* Purple */
+      .row.overflowing:hover .name-inner,
+      .row.overflowing:focus-visible .name-inner {
+        animation: marquee var(--dur, 3s) steps(24) infinite alternate;
       }
 
-      nav a:nth-child(11) {
-        color: #e67e22; /* Orange */
-      }
-
-      nav a:nth-child(13) {
-        color: #1ab09c; /* Turquoise */
-      }
-
-      nav a:nth-child(15) {
-        color: #4591b3; /* Turquoise */
-      }
-
-      nav a:nth-child(17) {
-        color: #4f2fbb; /* Turquoise */
-      }
-
-      /* Responsive Adjustments for Smaller Screens */
-      @media (max-width: 600px) {
-        nav a,
-        nav span {
-          margin-bottom: 5px;
-          margin-right: 5px;
-          font-size: 0.9em; /* Reduce font size on smaller screens */
+      @keyframes marquee {
+        from {
+          transform: translateX(0);
         }
-        img {
-          max-width: 80%; /* Reduce image size on smaller screens */
+        to {
+          transform: translateX(calc(-1 * var(--shift, 0px)));
+        }
+      }
+
+      .arrow {
+        flex: 0 0 auto;
+        font-size: clamp(14px, 1.6vw, 24px);
+        color: var(--accent);
+        opacity: 0;
+        transform: translate(-8px, 8px);
+        transition: opacity 0.25s, transform 0.25s;
+      }
+
+      .row:hover .arrow,
+      .row:focus-visible .arrow {
+        opacity: 1;
+        transform: translate(0, 0);
+      }
+
+      /* per-row accent colors (data-driven, no nth-child) */
+      .row[data-k="biblio"]   { --accent: var(--c1); }
+      .row[data-k="cleo"]     { --accent: var(--c2); }
+      .row[data-k="hub"]      { --accent: var(--c3); }
+      .row[data-k="marcus"]   { --accent: var(--c4); }
+      .row[data-k="memosyne"] { --accent: var(--c5); }
+      .row[data-k="orfeo"]    { --accent: var(--c6); }
+      .row[data-k="seijaku"]  { --accent: var(--c7); }
+      .row[data-k="tabula"]   { --accent: var(--c8); }
+      .row[data-k="vellum"]   { --accent: var(--c9); }
+
+      /* ---------- footer ---------- */
+      footer {
+        position: relative;
+        z-index: 5;
+        display: flex;
+        justify-content: space-between;
+        padding: 18px 20px 26px;
+        font-size: 11px;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        color: var(--dim);
+      }
+
+      /* ---------- cursor tooltip ---------- */
+      #tip {
+        position: fixed;
+        z-index: 20;
+        pointer-events: none;
+        font-size: 11px;
+        letter-spacing: 0.1em;
+        color: var(--fg);
+        background: rgba(0, 0, 0, 0.85);
+        border: 1px dashed var(--dim);
+        border-radius: 2em;
+        padding: 3px 12px 4px;
+        opacity: 0;
+        transform: translate(14px, 18px);
+        transition: opacity 0.15s;
+        white-space: nowrap;
+      }
+
+      #tip.on {
+        opacity: 1;
+      }
+
+      @media (max-width: 600px) {
+        .name {
+          font-size: clamp(26px, 8.4vw, 48px);
+        }
+        .idx {
+          transform: translateY(-0.6em);
+        }
+        header {
+          font-size: 10px;
+        }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        .row {
+          opacity: 1;
+          transform: none;
+          transition: none;
+        }
+        #boot .caret {
+          animation: none;
+        }
+        .row.overflowing:hover .name-inner,
+        .row.overflowing:focus-visible .name-inner {
+          animation: none;
         }
       }
     </style>
   </head>
   <body>
+    <canvas id="sky" aria-hidden="true"></canvas>
+
+    <header>
+      <span class="who">p.chaganti — ~/index</span>
+      <span class="right">
+        <span id="clock">00:00:00</span>
+        <button id="pause" type="button" aria-pressed="false">pause bg</button>
+      </span>
+    </header>
+
     <main>
-      <div><img src="assets/css/images/bg-small.png" alt="" /></div>
-      <nav>
-        <a href="https://pchaganti.github.io/books.html" target="_blank"
-          >biblio</a
-        >
-        <span>|</span>
-        <a href="https://pchaganti.github.io/cleo.html" target="_blank">cleo</a>
-        <span>|</span>
-        <a href="https://github.com/pchaganti" target="_blank">hub</a>
-        <!-- <span>|</span>
-        <a href="https://pchaganti.github.io/keryx.html" target="_blank"
-          >keryx</a
-        > -->
-        <span>|</span>
-        <a href="https://instagram.com/marcus.the.stoic" target="_blank"
-          >marcus</a
-        >
-        <span>|</span>
-        <a href="https://pchaganti.github.io/memosyne.html" target="_blank"
-          >memosyne</a
-        >
-        <span>|</span>
-        <a href="https://pchaganti.github.io/orfeo.html" target="_blank"
-          >orfeo</a
-        >
-        <span>|</span>
-        <a href="https://pchaganti.github.io/seijaku.html" target="_blank"
-          >seijaku</a
-        >
-        <span>|</span>
-        <a href="http://pinterest.com/pchaganti/pins" target="_blank">tabula</a>
-        <span>|</span>
-        <a href="https://pchaganti.github.io/vellum.html" target="_blank"
-          >vellum</a
-        >
+      <p id="boot"><span id="boot-text"></span><span class="caret"></span></p>
+
+      <nav aria-label="projects">
+        <a class="row" data-k="biblio" href="https://pchaganti.github.io/books.html" target="_blank" rel="noopener">
+          <span class="idx">01</span>
+          <span class="name"><span class="name-inner">biblio</span></span>
+          <span class="arrow" aria-hidden="true">&#8599;</span>
+        </a>
+        <a class="row" data-k="cleo" href="https://pchaganti.github.io/cleo.html" target="_blank" rel="noopener">
+          <span class="idx">02</span>
+          <span class="name"><span class="name-inner">cleo</span></span>
+          <span class="arrow" aria-hidden="true">&#8599;</span>
+        </a>
+        <a class="row" data-k="hub" href="https://github.com/pchaganti" target="_blank" rel="noopener">
+          <span class="idx">03</span>
+          <span class="name"><span class="name-inner">hub</span></span>
+          <span class="arrow" aria-hidden="true">&#8599;</span>
+        </a>
+        <a class="row" data-k="marcus" href="https://instagram.com/marcus.the.stoic" target="_blank" rel="noopener">
+          <span class="idx">04</span>
+          <span class="name"><span class="name-inner">marcus</span></span>
+          <span class="arrow" aria-hidden="true">&#8599;</span>
+        </a>
+        <a class="row" data-k="memosyne" href="https://pchaganti.github.io/memosyne.html" target="_blank" rel="noopener">
+          <span class="idx">05</span>
+          <span class="name"><span class="name-inner">memosyne</span></span>
+          <span class="arrow" aria-hidden="true">&#8599;</span>
+        </a>
+        <a class="row" data-k="orfeo" href="https://pchaganti.github.io/orfeo.html" target="_blank" rel="noopener">
+          <span class="idx">06</span>
+          <span class="name"><span class="name-inner">orfeo</span></span>
+          <span class="arrow" aria-hidden="true">&#8599;</span>
+        </a>
+        <a class="row" data-k="seijaku" href="https://pchaganti.github.io/seijaku.html" target="_blank" rel="noopener">
+          <span class="idx">07</span>
+          <span class="name"><span class="name-inner">seijaku</span></span>
+          <span class="arrow" aria-hidden="true">&#8599;</span>
+        </a>
+        <a class="row" data-k="tabula" href="http://pinterest.com/pchaganti/pins" target="_blank" rel="noopener">
+          <span class="idx">08</span>
+          <span class="name"><span class="name-inner">tabula</span></span>
+          <span class="arrow" aria-hidden="true">&#8599;</span>
+        </a>
+        <a class="row" data-k="vellum" href="https://pchaganti.github.io/vellum.html" target="_blank" rel="noopener">
+          <span class="idx">09</span>
+          <span class="name"><span class="name-inner">vellum</span></span>
+          <span class="arrow" aria-hidden="true">&#8599;</span>
+        </a>
       </nav>
+
+      <footer>
+        <span>&copy; 2026 prabhakar chaganti</span>
+        <span>hand-rolled html &middot; no frameworks</span>
+      </footer>
     </main>
+
+    <div id="tip" role="status"></div>
+
+    <script>
+      (function () {
+        "use strict";
+
+        var reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+        /* ================= clock ================= */
+        var clockEl = document.getElementById("clock");
+        function tickClock() {
+          var d = new Date();
+          function p(n) { return (n < 10 ? "0" : "") + n; }
+          clockEl.textContent = p(d.getHours()) + ":" + p(d.getMinutes()) + ":" + p(d.getSeconds());
+        }
+        tickClock();
+        setInterval(tickClock, 1000);
+
+        /* ================= typed boot line ================= */
+        var bootText = document.getElementById("boot-text");
+        var bootLine = "$ ls -la ~/projects --color=auto   # 9 entries found";
+        if (reduceMotion) {
+          bootText.textContent = bootLine;
+        } else {
+          var bi = 0;
+          (function type() {
+            bootText.textContent = bootLine.slice(0, ++bi);
+            if (bi < bootLine.length) {
+              setTimeout(type, bootLine[bi - 1] === "#" ? 320 : 26 + Math.random() * 40);
+            }
+          })();
+        }
+
+        /* ================= staggered row entrance ================= */
+        var rows = Array.prototype.slice.call(document.querySelectorAll(".row"));
+        if (!reduceMotion) {
+          rows.forEach(function (row, i) {
+            setTimeout(function () {
+              row.classList.add("in");
+            }, 500 + i * 90);
+          });
+        }
+
+        /* ================= marquee for overflowing names ================= */
+        function measureRows() {
+          rows.forEach(function (row) {
+            var name = row.querySelector(".name");
+            var inner = row.querySelector(".name-inner");
+            var overflow = inner.scrollWidth - name.clientWidth;
+            if (overflow > 2) {
+              row.classList.add("overflowing");
+              row.style.setProperty("--shift", overflow + 32 + "px");
+              row.style.setProperty("--dur", Math.max(2, overflow / 60) + "s");
+            } else {
+              row.classList.remove("overflowing");
+            }
+          });
+        }
+        window.addEventListener("resize", measureRows);
+        if (document.fonts && document.fonts.ready) {
+          document.fonts.ready.then(measureRows);
+        } else {
+          window.addEventListener("load", measureRows);
+        }
+        measureRows();
+
+        /* ================= cursor tooltip: destination host ================= */
+        var tip = document.getElementById("tip");
+        rows.forEach(function (row) {
+          var host;
+          try {
+            host = new URL(row.href).hostname;
+          } catch (e) {
+            host = row.href;
+          }
+          row.addEventListener("mouseenter", function () {
+            tip.textContent = host + " \u2197";
+            tip.classList.add("on");
+          });
+          row.addEventListener("mouseleave", function () {
+            tip.classList.remove("on");
+          });
+          row.addEventListener("focus", function () {
+            tip.textContent = host + " \u2197";
+          });
+        });
+        window.addEventListener("mousemove", function (e) {
+          tip.style.left = e.clientX + "px";
+          tip.style.top = e.clientY + "px";
+        });
+
+        /* ================= constellation canvas ================= */
+        var canvas = document.getElementById("sky");
+        var ctx = canvas.getContext("2d");
+        var COLORS = [
+          "#ff5733", "#3498db", "#2ecc71", "#f1c40f", "#9b59b6",
+          "#e67e22", "#1ab09c", "#4591b3", "#4f2fbb"
+        ];
+        var LINK_DIST = 130;
+        var MOUSE_DIST = 190;
+        var particles = [];
+        var mouse = { x: -9999, y: -9999 };
+        var running = !reduceMotion;
+        var rafId = null;
+        var W = 0;
+        var H = 0;
+
+        function resize() {
+          var dpr = Math.min(window.devicePixelRatio || 1, 2);
+          W = window.innerWidth;
+          H = window.innerHeight;
+          canvas.width = W * dpr;
+          canvas.height = H * dpr;
+          canvas.style.width = W + "px";
+          canvas.style.height = H + "px";
+          ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+          seed();
+          if (!running) draw(); // static frame for reduced motion / paused
+        }
+
+        function seed() {
+          var count = Math.max(36, Math.min(110, Math.floor((W * H) / 16000)));
+          particles = [];
+          for (var i = 0; i < count; i++) {
+            particles.push({
+              x: Math.random() * W,
+              y: Math.random() * H,
+              vx: (Math.random() - 0.5) * 0.22,
+              vy: (Math.random() - 0.5) * 0.22,
+              r: 1 + Math.random() * 1.4,
+              c: COLORS[i % COLORS.length],
+              ph: Math.random() * Math.PI * 2
+            });
+          }
+        }
+
+        function hexToRgb(hex) {
+          var n = parseInt(hex.slice(1), 16);
+          return [(n >> 16) & 255, (n >> 8) & 255, n & 255];
+        }
+        var RGB = COLORS.map(hexToRgb);
+
+        function step(t) {
+          for (var i = 0; i < particles.length; i++) {
+            var p = particles[i];
+            p.x += p.vx;
+            p.y += p.vy;
+            if (p.x < -20) p.x = W + 20;
+            if (p.x > W + 20) p.x = -20;
+            if (p.y < -20) p.y = H + 20;
+            if (p.y > H + 20) p.y = -20;
+
+            // gentle pull toward cursor
+            var dx = mouse.x - p.x;
+            var dy = mouse.y - p.y;
+            var d2 = dx * dx + dy * dy;
+            if (d2 < MOUSE_DIST * MOUSE_DIST && d2 > 1) {
+              var d = Math.sqrt(d2);
+              p.x += (dx / d) * 0.12;
+              p.y += (dy / d) * 0.12;
+            }
+          }
+        }
+
+        function draw(t) {
+          ctx.clearRect(0, 0, W, H);
+          var i, j, p, q, dx, dy, d;
+
+          // links
+          for (i = 0; i < particles.length; i++) {
+            p = particles[i];
+            for (j = i + 1; j < particles.length; j++) {
+              q = particles[j];
+              dx = p.x - q.x;
+              dy = p.y - q.y;
+              if (Math.abs(dx) > LINK_DIST || Math.abs(dy) > LINK_DIST) continue;
+              d = Math.sqrt(dx * dx + dy * dy);
+              if (d < LINK_DIST) {
+                var a = (1 - d / LINK_DIST) * 0.16;
+                ctx.strokeStyle = "rgba(255,255,255," + a.toFixed(3) + ")";
+                ctx.lineWidth = 1;
+                ctx.beginPath();
+                ctx.moveTo(p.x, p.y);
+                ctx.lineTo(q.x, q.y);
+                ctx.stroke();
+              }
+            }
+          }
+
+          // nodes
+          var time = (t || 0) * 0.001;
+          for (i = 0; i < particles.length; i++) {
+            p = particles[i];
+            var rgb = RGB[COLORS.indexOf(p.c)];
+            var pulse = 0.5 + 0.5 * Math.sin(time * 1.4 + p.ph);
+
+            var md = Math.sqrt(
+              (mouse.x - p.x) * (mouse.x - p.x) + (mouse.y - p.y) * (mouse.y - p.y)
+            );
+            var boost = md < MOUSE_DIST ? (1 - md / MOUSE_DIST) : 0;
+
+            var alpha = 0.22 + pulse * 0.2 + boost * 0.5;
+            var radius = p.r * (1 + boost * 1.6);
+
+            ctx.beginPath();
+            ctx.arc(p.x, p.y, radius * 3.2, 0, Math.PI * 2);
+            ctx.fillStyle =
+              "rgba(" + rgb[0] + "," + rgb[1] + "," + rgb[2] + "," + (alpha * 0.12).toFixed(3) + ")";
+            ctx.fill();
+
+            ctx.beginPath();
+            ctx.arc(p.x, p.y, radius, 0, Math.PI * 2);
+            ctx.fillStyle =
+              "rgba(" + rgb[0] + "," + rgb[1] + "," + rgb[2] + "," + alpha.toFixed(3) + ")";
+            ctx.fill();
+          }
+        }
+
+        function loop(t) {
+          if (!running) return;
+          step(t);
+          draw(t);
+          rafId = requestAnimationFrame(loop);
+        }
+
+        window.addEventListener("resize", resize);
+        window.addEventListener("mousemove", function (e) {
+          mouse.x = e.clientX;
+          mouse.y = e.clientY;
+        });
+        window.addEventListener("mouseleave", function () {
+          mouse.x = -9999;
+          mouse.y = -9999;
+        });
+
+        resize();
+        if (running) rafId = requestAnimationFrame(loop);
+
+        /* ================= pause / play toggle ================= */
+        var pauseBtn = document.getElementById("pause");
+        pauseBtn.addEventListener("click", function () {
+          running = !running;
+          pauseBtn.textContent = running ? "pause bg" : "play bg";
+          pauseBtn.setAttribute("aria-pressed", String(!running));
+          if (running) {
+            rafId = requestAnimationFrame(loop);
+          } else if (rafId) {
+            cancelAnimationFrame(rafId);
+            rafId = null;
+          }
+        });
+      })();
+    </script>
   </body>
 </html>
