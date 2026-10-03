@@ -1,61 +1,131 @@
 {
-  "last_updated": "2026-10-03T14:26:12.511822-04:00",
+  "last_updated": "2026-10-03T19:26:14.167382-04:00",
   "stories": [
     {
-      "title": "FTL: A new operating system for clouds",
-      "score": 84,
-      "url": "https://ftl-os.org/",
-      "time": 1791039756.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49944912"
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "score": 196,
+      "url": "https://notoriousbfg.com/hole-punch/",
+      "time": 1791050805.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49946393"
+    },
+    {
+      "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
+      "score": 114,
+      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+      "time": 1791065233.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49948254"
+    },
+    {
+      "title": "Treachery in the Rodin Museum 3D scan verdict",
+      "score": 33,
+      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+      "time": 1791050487.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49946355"
+    },
+    {
+      "title": "Reasons I didn't become an EMT, ranked",
+      "score": 40,
+      "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
+      "time": 1791060555.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49947631"
+    },
+    {
+      "title": "Writing code by hand is over, forever",
+      "score": 13,
+      "url": "https://eliocapella.com/blog/writing-code-by-hand-is-over/",
+      "time": 1791066165.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49948364"
+    },
+    {
+      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
+      "score": 121,
+      "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
+      "time": 1790872360.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49923873"
+    },
+    {
+      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "score": 50,
+      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "time": 1791054888.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49946895"
+    },
+    {
+      "title": "New York City should carefully measure a new tree",
+      "score": 26,
+      "url": "https://blog.willmeye.rs/new-york-city-should-carefully-measure-a-new-tree/",
+      "time": 1790994483.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49940877"
+    },
+    {
+      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "score": 136,
+      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+      "time": 1791052170.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49946567"
     },
     {
       "title": "Kolibri: A Sovereign Open-Weight Model",
-      "score": 270,
+      "score": 475,
       "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
       "time": 1791020164.0,
       "comments_url": "https://news.ycombinator.com/item?id=49942706"
     },
     {
-      "title": "Woking Electrical Control Room (2016)",
-      "score": 93,
-      "url": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex",
-      "time": 1790973878.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49938399"
+      "title": "What Meta got right with Muse",
+      "score": 18,
+      "url": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
+      "time": 1791051828.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49946526"
     },
     {
-      "title": "Kolibri – Tech Report [pdf]",
-      "score": 4,
-      "url": "https://aleph-alpha.com/downloads/tech-report.pdf",
-      "time": 1791048168.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49946069"
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "score": 48,
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "time": 1791049469.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49946228"
     },
     {
-      "title": "Body Awareness in Goffin's Cockatoos",
-      "score": 22,
-      "url": "https://www.nature.com/articles/s41598-026-57500-7",
-      "time": 1790795865.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49913106"
+      "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+      "score": 68,
+      "url": "https://pipod.dev/",
+      "time": 1790968238.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49937304"
     },
     {
-      "title": "C++ Insights – See your source code with the eyes of a Compiler",
-      "score": 104,
-      "url": "https://github.com/andreasfertig/cppinsights",
-      "time": 1790898816.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49928361"
+      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "score": 36,
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "time": 1791065893.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49948332"
     },
     {
-      "title": "City building games have a Soul Problem pt.2",
-      "score": 88,
-      "url": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
-      "time": 1791042727.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49945323"
+      "title": "We want you to build the next Git platform on Cloudflare",
+      "score": 92,
+      "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+      "time": 1791055996.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49947051"
     },
     {
-      "title": "Newgrounds.com – A community of games, music, and art",
-      "score": 395,
-      "url": "https://www.newgrounds.com/",
-      "time": 1790988925.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49940394"
+      "title": "FTL: A new operating system for clouds",
+      "score": 140,
+      "url": "https://ftl-os.org/",
+      "time": 1791039756.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49944912"
+    },
+    {
+      "title": "Gboard Conveyor Belt Version",
+      "score": 12,
+      "url": "https://github.com/google/mozc-devices/tree/main/mozc-conveyorbelt",
+      "time": 1790891666.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49927514"
+    },
+    {
+      "title": "Surely you have ultra-wideband radios on your bins too?",
+      "score": 27,
+      "url": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
+      "time": 1791059264.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49947472"
     },
     {
       "title": "RetailReady (YC W24) Is Hiring",
@@ -65,81 +135,11 @@
       "comments_url": "https://news.ycombinator.com/item?id=49945904"
     },
     {
-      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-      "score": 752,
-      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-      "time": 1790893387.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49927754"
-    },
-    {
-      "title": "Mike Tomlin spent 12 years building a Minecraft city",
-      "score": 616,
-      "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
-      "time": 1790878818.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49925184"
-    },
-    {
-      "title": "MPEG-2 Transport Streams and MOQ: Yes, MPEG-TS Is Still Relevant Today",
-      "score": 10,
-      "url": "https://www.red5.net/blog/mpeg-2-transport-streams-and-moq-yes-mpeg-ts-is-still-relevant-today/",
-      "time": 1790871091.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49923602"
-    },
-    {
-      "title": "Apple Pass Designer",
-      "score": 527,
-      "url": "https://developer.apple.com/pass-designer/",
-      "time": 1790968016.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49937276"
-    },
-    {
-      "title": "Holes (1996-2025)",
-      "score": 19,
-      "url": "https://plato.stanford.edu/entries/holes/",
-      "time": 1790953203.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49934261"
-    },
-    {
-      "title": "Show HN: Offrun – manage every coding agent from one workspace",
-      "score": 65,
-      "url": "https://offrun.dev/",
-      "time": 1791016817.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49942434"
-    },
-    {
-      "title": "Cloudflare OHTTP gateway",
-      "score": 163,
-      "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
-      "time": 1790997305.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49941091"
-    },
-    {
-      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
-      "score": 368,
-      "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
-      "time": 1790939237.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49932147"
-    },
-    {
-      "title": "Loss of cell identity drives human aging: Two new papers",
-      "score": 336,
-      "url": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
-      "time": 1790884977.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49926411"
-    },
-    {
-      "title": "An Update on Orion for Linux and Windows",
-      "score": 152,
-      "url": "https://blog.kagi.com/update-orion-linux-windows",
-      "time": 1791003237.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49941447"
-    },
-    {
-      "title": "FLUX 3 Image",
-      "score": 411,
-      "url": "https://bfl.ai/models/flux-3-image",
-      "time": 1790882669.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49925974"
+      "title": "Haunted by the ghosts of materialism",
+      "score": 11,
+      "url": "https://blog.coredump.cx/p/haunted-by-the-ghosts-of-materialism",
+      "time": 1791005408.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49941572"
     }
   ]
 }
