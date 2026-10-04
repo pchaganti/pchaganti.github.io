@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-10-04T07:32:27.308844-04:00",
+  "last_updated": "2026-10-04T12:11:45.236169-04:00",
   "stories": [
     {
-      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
-      "score": 31,
-      "url": "https://gamehistory.org/5k-magazines/",
-      "time": 1791104831.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49952029"
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "score": 236,
+      "url": "https://github.com/Niko1221/Strata",
+      "time": 1791118313.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49953495"
+    },
+    {
+      "title": "Car is a smartphone on wheels. Here's who's listening",
+      "score": 34,
+      "url": "https://automatictransmission.khoury.northeastern.edu/",
+      "time": 1791128594.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49954882"
+    },
+    {
+      "title": "Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
+      "score": 78,
+      "url": "https://niklasroy.com/gtc/",
+      "time": 1790922786.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49930439"
     },
     {
       "title": "Tell HN: Bob Cringely has died",
-      "score": 503,
+      "score": 668,
       "url": "https://news.ycombinator.com/item?id=49949438",
       "time": 1791075052.0,
       "comments_url": "https://news.ycombinator.com/item?id=49949438"
     },
     {
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "score": 58,
+      "url": "https://github.com/allenv0/SCM",
+      "time": 1791105892.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49952111"
+    },
+    {
       "title": "Why don't more developers “use the platform”?",
-      "score": 159,
+      "score": 223,
       "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
       "time": 1791087047.0,
       "comments_url": "https://news.ycombinator.com/item?id=49950554"
     },
     {
-      "title": "So you think you could be an electrician?",
-      "score": 267,
-      "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
-      "time": 1790783007.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49910462"
+      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+      "score": 73,
+      "url": "https://gamehistory.org/5k-magazines/",
+      "time": 1791104831.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49952029"
+    },
+    {
+      "title": "The Heilbronn Problem",
+      "score": 30,
+      "url": "https://math.tejstead.com/heilbronn/",
+      "time": 1790982073.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49939637"
+    },
+    {
+      "title": "A Map of Every Lighthouse on the Planet",
+      "score": 3,
+      "url": "https://mapped.earth/lighthouses/world",
+      "time": 1790948749.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49933461"
     },
     {
       "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-      "score": 316,
+      "score": 381,
       "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
       "time": 1791054888.0,
       "comments_url": "https://news.ycombinator.com/item?id=49946895"
     },
     {
-      "title": "Treachery in the Rodin Museum 3D scan verdict",
-      "score": 215,
-      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
-      "time": 1791050487.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49946355"
+      "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
+      "score": 64,
+      "url": "https://github.com/PowderworksCode/headstart",
+      "time": 1791095217.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49951218"
     },
     {
       "title": "Agents don't need memory, they need documentation",
-      "score": 200,
+      "score": 280,
       "url": "https://liao.gg/blog/agents-dont-need-memory",
       "time": 1791047017.0,
       "comments_url": "https://news.ycombinator.com/item?id=49945933"
     },
     {
+      "title": "Treachery in the Rodin Museum 3D scan verdict",
+      "score": 261,
+      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+      "time": 1791050487.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49946355"
+    },
+    {
       "title": "gpuvis: GPU Trace Visualizer",
-      "score": 12,
+      "score": 56,
       "url": "https://github.com/mikesart/gpuvis",
       "time": 1790957088.0,
       "comments_url": "https://news.ycombinator.com/item?id=49935097"
     },
     {
-      "title": "Hole Punch: Sling your spaceship around gravitational fields",
-      "score": 302,
-      "url": "https://notoriousbfg.com/hole-punch/",
-      "time": 1791050805.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49946393"
-    },
-    {
-      "title": "We're going to need default hard budget caps on pretty much everything",
-      "score": 460,
-      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-      "time": 1791073216.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49949235"
-    },
-    {
-      "title": "We're working on a new RuneScape MMO",
-      "score": 82,
-      "url": "https://play.runescape.com/4",
-      "time": 1791076342.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49949588"
-    },
-    {
-      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
-      "score": 199,
-      "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
-      "time": 1790872360.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49923873"
-    },
-    {
-      "title": "Reasons I didn't become an EMT, ranked",
-      "score": 160,
-      "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
-      "time": 1791060555.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49947631"
+      "title": "Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs",
+      "score": 39,
+      "url": "https://joshua.hu/magic-switch-easily-switch-magic-keyboard-trackpad-mouse-between-mac-macbook-macos",
+      "time": 1790956890.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49935038"
     },
     {
       "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "score": 161,
+      "score": 264,
       "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
       "time": 1791049469.0,
       "comments_url": "https://news.ycombinator.com/item?id=49946228"
     },
     {
-      "title": "In Ukraine, distributed renewables foil Russia's assaults",
-      "score": 94,
-      "url": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
-      "time": 1791103198.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49951881"
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "score": 327,
+      "url": "https://notoriousbfg.com/hole-punch/",
+      "time": 1791050805.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49946393"
     },
     {
-      "title": "Religious scholars met with Anthropic",
-      "score": 87,
-      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "time": 1791081262.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49950052"
+      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
+      "score": 233,
+      "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
+      "time": 1790872360.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49923873"
     },
     {
-      "title": "We want you to build the next Git platform on Cloudflare",
-      "score": 139,
-      "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
-      "time": 1791055996.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49947051"
+      "title": "RuneScape's Position on Gen AI",
+      "score": 9,
+      "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai/",
+      "time": 1791127754.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49954745"
     },
     {
-      "title": "I quit OpenAI because its culture is broken",
-      "score": 259,
-      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-      "time": 1791035194.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49944227"
-    },
-    {
-      "title": "Math's pedagogical curse – Grant Sanderson [video]",
-      "score": 47,
-      "url": "https://www.youtube.com/watch?v=UOuxo6SA8Uc",
-      "time": 1790989875.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49940482"
-    },
-    {
-      "title": "How to hack time, with C2PA",
-      "score": 43,
-      "url": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
-      "time": 1791053526.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49946707"
+      "title": "Rejection Sensitivity in Gifted and Twice-Exceptional Children",
+      "score": 76,
+      "url": "https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and",
+      "time": 1791115127.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49953116"
     }
   ]
 }
