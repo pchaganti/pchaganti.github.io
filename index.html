@@ -3,6 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Prabhakar Chaganti — an index of projects: biblio, cleo, hub, marcus, memosyne, orfeo, seijaku, tabula, vellum." />
+    <meta property="og:title" content="Prabhakar Chaganti" />
+    <meta property="og:description" content="A hand-rolled index of nine projects, rendered as a living terminal." />
+    <meta property="og:type" content="website" />
     <link rel="icon" sizes="192x192" href="images/favicon.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -94,42 +98,12 @@
         color: var(--fg);
       }
 
-      header .right {
-        display: flex;
-        align-items: center;
-        gap: 18px;
-      }
-
-      #clock {
-        font-variant-numeric: tabular-nums;
-        color: var(--dim);
-      }
-
-      #pause {
-        font: inherit;
-        letter-spacing: inherit;
-        text-transform: inherit;
-        background: none;
-        color: var(--dim);
-        border: 1px dashed currentColor;
-        border-radius: 2em;
-        padding: 3px 12px 4px;
-        cursor: pointer;
-        transition: color 0.2s, border-color 0.2s;
-      }
-
-      #pause:hover,
-      #pause:focus-visible {
-        color: var(--fg);
-        outline: none;
-      }
-
       /* ---------- typed boot line ---------- */
       #boot {
         position: relative;
         z-index: 5;
         padding: 96px 20px 8px;
-        font-size: 12px;
+        font-size: clamp(9px, 2.9vw, 12px);
         letter-spacing: 0.08em;
         color: var(--dim);
         white-space: pre;
@@ -275,19 +249,6 @@
       .row[data-k="tabula"]   { --accent: var(--c8); }
       .row[data-k="vellum"]   { --accent: var(--c9); }
 
-      /* ---------- footer ---------- */
-      footer {
-        position: relative;
-        z-index: 5;
-        display: flex;
-        justify-content: space-between;
-        padding: 18px 20px 26px;
-        font-size: 11px;
-        letter-spacing: 0.12em;
-        text-transform: uppercase;
-        color: var(--dim);
-      }
-
       /* ---------- cursor tooltip ---------- */
       #tip {
         position: fixed;
@@ -343,10 +304,6 @@
 
     <header>
       <span class="who">prabhakar.chaganti</span>
-      <span class="right">
-        <span id="clock">00:00:00</span>
-        <button id="pause" type="button" aria-pressed="false">pause bg</button>
-      </span>
     </header>
 
     <main>
@@ -399,11 +356,6 @@
           <span class="arrow" aria-hidden="true">&#8599;</span>
         </a>
       </nav>
-
-      <footer>
-        <span>&copy; 2026 prabhakar chaganti</span>
-        <span>hand-rolled html &middot; no frameworks</span>
-      </footer>
     </main>
 
     <div id="tip" role="status"></div>
@@ -414,19 +366,9 @@
 
         var reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
-        /* ================= clock ================= */
-        var clockEl = document.getElementById("clock");
-        function tickClock() {
-          var d = new Date();
-          function p(n) { return (n < 10 ? "0" : "") + n; }
-          clockEl.textContent = p(d.getHours()) + ":" + p(d.getMinutes()) + ":" + p(d.getSeconds());
-        }
-        tickClock();
-        setInterval(tickClock, 1000);
-
         /* ================= typed boot line ================= */
         var bootText = document.getElementById("boot-text");
-        var bootLine = "$ ls -la ~/projects --color=auto   # 9 entries found";
+        var bootLine = "$ ls ~/projects --color=auto   # 9 entries";
         if (reduceMotion) {
           bootText.textContent = bootLine;
         } else {
@@ -641,22 +583,30 @@
           mouse.y = -9999;
         });
 
-        resize();
-        if (running) rafId = requestAnimationFrame(loop);
-
-        /* ================= pause / play toggle ================= */
-        var pauseBtn = document.getElementById("pause");
-        pauseBtn.addEventListener("click", function () {
-          running = !running;
-          pauseBtn.textContent = running ? "pause bg" : "play bg";
-          pauseBtn.setAttribute("aria-pressed", String(!running));
-          if (running) {
-            rafId = requestAnimationFrame(loop);
-          } else if (rafId) {
-            cancelAnimationFrame(rafId);
-            rafId = null;
+        // touch: constellation follows the finger, drifts free on release
+        window.addEventListener(
+          "touchmove",
+          function (e) {
+            if (e.touches.length > 0) {
+              mouse.x = e.touches[0].clientX;
+              mouse.y = e.touches[0].clientY;
+            }
+          },
+          { passive: true }
+        );
+        window.addEventListener("touchstart", function (e) {
+          if (e.touches.length > 0) {
+            mouse.x = e.touches[0].clientX;
+            mouse.y = e.touches[0].clientY;
           }
         });
+        window.addEventListener("touchend", function () {
+          mouse.x = -9999;
+          mouse.y = -9999;
+        });
+
+        resize();
+        if (running) rafId = requestAnimationFrame(loop);
       })();
     </script>
   </body>
