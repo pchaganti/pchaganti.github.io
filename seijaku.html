@@ -3,35 +3,197 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Seijaku</title>
+    <title>Seijaku · 静寂</title>
+    <meta name="description" content="A daily haiku. One image distilled from the world's noise." />
+    <meta name="author" content="pchaganti" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Gidole&family=Noto+Sans+JP:wght@100..900&display=swap"
-      rel="stylesheet"
-    />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap"
-      rel="stylesheet"
-    />
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=Raleway:wght@300;400&display=swap" rel="stylesheet" />
+    <style>
+      /* ── Reset & tokens ─────────────────────────────────────── */
+      *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-    <link rel="stylesheet" href="styles/seijaku.css" />
+      :root {
+        --ink:       #1a1a1a;
+        --ink-faint: #888;
+        --paper:     #faf9f7;
+        --rule:      #e5e2dc;
+        --accent:    #8b7355;
+        --font-poem: "EB Garamond", Georgia, serif;
+        --font-ui:   "Raleway", system-ui, sans-serif;
+      }
+
+      /* ── Base ───────────────────────────────────────────────── */
+      html {
+        font-size: 18px;
+        scroll-behavior: smooth;
+        -webkit-font-smoothing: antialiased;
+      }
+
+      body {
+        background: var(--paper);
+        color: var(--ink);
+        font-family: var(--font-ui);
+        min-height: 100vh;
+      }
+
+      /* ── Layout ─────────────────────────────────────────────── */
+      .site-header {
+        position: sticky;
+        top: 0;
+        z-index: 10;
+        background: var(--paper);
+        border-bottom: 1px solid var(--rule);
+        padding: 1rem 2rem;
+        display: flex;
+        align-items: baseline;
+        gap: 0.5rem;
+      }
+
+      .site-header a {
+        font-family: var(--font-ui);
+        font-weight: 400;
+        font-size: 0.9rem;
+        color: var(--ink-faint);
+        text-decoration: none;
+        letter-spacing: 0.04em;
+        transition: color 0.2s;
+      }
+      .site-header a:hover { color: var(--ink); }
+
+      .site-header .sep { color: var(--rule); font-weight: 300; }
+
+      .site-header .title {
+        font-family: var(--font-ui);
+        font-weight: 300;
+        font-size: 0.9rem;
+        letter-spacing: 0.12em;
+        color: var(--ink);
+      }
+
+      .site-header .count {
+        margin-left: auto;
+        font-size: 0.75rem;
+        color: var(--ink-faint);
+        letter-spacing: 0.05em;
+      }
+
+      /* ── Haiku stream ───────────────────────────────────────── */
+      main {
+        max-width: 36rem;
+        margin: 0 auto;
+        padding: 4rem 2rem 8rem;
+      }
+
+      .haiku-entry {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 2.5rem 0;
+        border-bottom: 1px solid var(--rule);
+        opacity: 0;
+        animation: rise 0.6s ease forwards;
+      }
+
+      .haiku-entry:last-child { border-bottom: none; }
+
+      .haiku-lines {
+        display: flex;
+        flex-direction: column;
+        gap: 0.15rem;
+        margin-bottom: 1.25rem;
+      }
+
+      .haiku-line {
+        font-family: var(--font-poem);
+        font-size: 1.35rem;
+        font-style: italic;
+        font-weight: 400;
+        line-height: 1.7;
+        color: var(--ink);
+        letter-spacing: 0.01em;
+      }
+
+      .haiku-date {
+        font-family: var(--font-ui);
+        font-size: 0.7rem;
+        font-weight: 300;
+        color: var(--ink-faint);
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+      }
+
+      /* ── Empty state ────────────────────────────────────────── */
+      .empty-state {
+        text-align: center;
+        padding: 6rem 0;
+        color: var(--ink-faint);
+        font-family: var(--font-poem);
+        font-style: italic;
+        font-size: 1.2rem;
+      }
+
+      /* ── Footer ─────────────────────────────────────────────── */
+      footer {
+        text-align: center;
+        padding: 2rem;
+        font-size: 0.72rem;
+        color: var(--ink-faint);
+        letter-spacing: 0.06em;
+        border-top: 1px solid var(--rule);
+      }
+
+      /* ── Animation ──────────────────────────────────────────── */
+      @keyframes rise {
+        from { opacity: 0; transform: translateY(12px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+
+      /* ── Responsive ─────────────────────────────────────────── */
+      @media (max-width: 480px) {
+        main { padding: 2.5rem 1.25rem 6rem; }
+        .haiku-line { font-size: 1.2rem; }
+        .site-header { padding: 0.85rem 1.25rem; }
+      }
+    </style>
   </head>
   <body>
-    <div class="container">
-      <h1>
-        <a
-          href="https://prabhakar.chaganti.net"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="h1-link"
-          >pchaganti</a
-        >
-        <span class="h1-separator">|</span>
-        <span class="h1-subtitle">seijaku</span>
-      </h1>
-      <div id="haiku-container"></div>
-    </div>
-    <script src="scripts/seijaku.js"></script>
+    <header class="site-header">
+      <a href="https://prabhakar.chaganti.net" rel="noopener">pchaganti</a>
+      <span class="sep">/</span>
+      <span class="title">seijaku</span>
+      <span class="count">3 haiku</span>
+    </header>
+
+    <main>
+      <article class="haiku-entry" style="animation-delay:0.00s">
+        <div class="haiku-lines">
+          <span class="haiku-line">Red leaf on the bough,</span>
+          <span class="haiku-line">thrashing in the autumn wind—</span>
+          <span class="haiku-line">first frost on the corn.</span>
+        </div>
+        <time class="haiku-date">October 5, 2026</time>
+      </article>
+
+      <article class="haiku-entry" style="animation-delay:0.06s">
+        <div class="haiku-lines">
+          <span class="haiku-line">Two old fighting cocks,</span>
+          <span class="haiku-line">circling in the parched red dust—</span>
+          <span class="haiku-line">thunder in the palms.</span>
+        </div>
+        <time class="haiku-date">October 5, 2026</time>
+      </article>
+
+      <article class="haiku-entry" style="animation-delay:0.12s">
+        <div class="haiku-lines">
+          <span class="haiku-line">Wild waves on the glass,</span>
+          <span class="haiku-line">Fame is smoke upon the gale,</span>
+          <span class="haiku-line">Truth remains unmoved.</span>
+        </div>
+        <time class="haiku-date">October 4, 2026</time>
+      </article>
+    </main>
+
+    <footer>built 2026-10-05 14:05 UTC</footer>
   </body>
 </html>
