@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-10-06T08:26:52.726534-04:00",
+  "last_updated": "2026-10-06T15:54:25.669874-04:00",
   "stories": [
     {
-      "title": "Nobel Prize in Physics goes to Francis Halzen",
-      "score": 168,
+      "title": "Mistral Large 4",
+      "score": 1244,
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "time": 1791292549.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49977979"
+    },
+    {
+      "title": "Nobel Prize in Physics 2026: Francis Halzen",
+      "score": 441,
       "url": "https://www.nobelprize.org/prizes/physics/2026/",
       "time": 1791280126.0,
       "comments_url": "https://news.ycombinator.com/item?id=49976265"
     },
     {
+      "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
+      "score": 107,
+      "url": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
+      "time": 1791294937.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49978563"
+    },
+    {
+      "title": "Benchmark in Milliseconds",
+      "score": 98,
+      "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
+      "time": 1791219610.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49967427"
+    },
+    {
       "title": "Gleam doesn't compile to Erlang source anymore",
-      "score": 72,
+      "score": 249,
       "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
       "time": 1791274100.0,
       "comments_url": "https://news.ycombinator.com/item?id=49975619"
     },
     {
+      "title": "Mathematics of Geothermal Energy",
+      "score": 55,
+      "url": "https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/",
+      "time": 1791291926.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49977819"
+    },
+    {
+      "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+      "score": 42,
+      "url": "https://peterszentkiralyi.eu/darkplug/",
+      "time": 1791295087.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49978595"
+    },
+    {
+      "title": "Polars 2.0",
+      "score": 349,
+      "url": "https://pola.rs/posts/release-polars-2/",
+      "time": 1791287941.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49977177"
+    },
+    {
+      "title": "Subquadratic 3SUM and Subcubic APSP",
+      "score": 55,
+      "url": "https://arxiv.org/abs/2610.06783",
+      "time": 1791289877.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49977437"
+    },
+    {
+      "title": "Nature's capacity to 'bounce back' when species are lost is overestimated: study",
+      "score": 260,
+      "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
+      "time": 1791285111.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49976823"
+    },
+    {
+      "title": "The Early History of Smalltalk (1993)",
+      "score": 71,
+      "url": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
+      "time": 1791299997.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49979845"
+    },
+    {
       "title": "Beam: Reflection's 501B open-weight model",
-      "score": 479,
+      "score": 526,
       "url": "https://reflection.ai/blog/introducing-beam",
       "time": 1791227795.0,
       "comments_url": "https://news.ycombinator.com/item?id=49969183"
     },
     {
+      "title": "Example.com just launched the biggest redesign in decades",
+      "score": 313,
+      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "time": 1791240911.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49971921"
+    },
+    {
+      "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
+      "score": 59,
+      "url": "https://www.parseable.com",
+      "time": 1791293450.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49978171"
+    },
+    {
+      "title": "AI is now capable of developing its own inference hardware",
+      "score": 154,
+      "url": "https://github.com/FeSens/openTPU",
+      "time": 1791303805.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49980715"
+    },
+    {
       "title": "Find the flattest route between any two points in SF",
-      "score": 230,
+      "score": 287,
       "url": "https://flattensf.com/",
       "time": 1791236450.0,
       "comments_url": "https://news.ycombinator.com/item?id=49971230"
     },
     {
       "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "score": 222,
+      "score": 257,
       "url": "https://qlabs.sh/research/dust",
       "time": 1791234907.0,
       "comments_url": "https://news.ycombinator.com/item?id=49970871"
     },
     {
       "title": "Friendship ended with Deno, now Node is my best friend",
-      "score": 210,
+      "score": 290,
       "url": "https://dbushell.com/2026/10/03/deno-to-node/",
       "time": 1791239402.0,
       "comments_url": "https://news.ycombinator.com/item?id=49971719"
     },
     {
-      "title": "Accountability mechanisms can be joyful (2024)",
-      "score": 50,
-      "url": "https://liquidbrain.net/blog/accountability-and-joy/",
-      "time": 1791094517.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49951155"
-    },
-    {
-      "title": "ASOS app users receive push notifications apparently sent by hackers",
-      "score": 36,
-      "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o",
-      "time": 1791281740.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49976468"
-    },
-    {
-      "title": "Web Search API",
-      "score": 564,
-      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-      "time": 1791197226.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49963171"
-    },
-    {
-      "title": "Example.com just launched the biggest redesign in decades",
-      "score": 255,
-      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
-      "time": 1791240911.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49971921"
-    },
-    {
-      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "score": 386,
-      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "time": 1791234021.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49970667"
-    },
-    {
-      "title": "Resurrecting iChat Audio and Video Conferencing",
-      "score": 70,
-      "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
-      "time": 1791257941.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49973878"
-    },
-    {
-      "title": "Nature's capacity to 'bounce back' when species are lost is vastly overestimated",
-      "score": 10,
-      "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
-      "time": 1791285111.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49976823"
-    },
-    {
-      "title": "Testing 12 different Zigbee temperature/humidity sensors",
-      "score": 142,
-      "url": "https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/",
-      "time": 1791088246.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49950653"
-    },
-    {
-      "title": "Competitive Programmer's Handbook (2018) [pdf]",
-      "score": 229,
-      "url": "https://cses.fi/book/book.pdf",
-      "time": 1791033841.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49944049"
-    },
-    {
       "title": "Direct retinal projection display for smart glasses using a meta-optic mirror",
-      "score": 46,
+      "score": 106,
       "url": "https://www.tdk.com/en/news_center/press/20261002_01.html",
       "time": 1791036267.0,
       "comments_url": "https://news.ycombinator.com/item?id=49944369"
     },
     {
-      "title": "Using A.I. and machine learning to decode communication of sperm whales",
-      "score": 40,
-      "url": "https://blue-continuum.com/the-man-who-listens-to-whales",
-      "time": 1791108913.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49952464"
-    },
-    {
-      "title": "An algorithmic failure beneath the secret ballot",
-      "score": 92,
-      "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
-      "time": 1791044587.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49945588"
-    },
-    {
-      "title": "The complement of true is true, except when it's false",
-      "score": 29,
-      "url": "https://dryperspective.github.io/posts/complement-of-true/",
-      "time": 1791116935.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49953344"
-    },
-    {
-      "title": "The lamps in my house",
-      "score": 239,
-      "url": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
-      "time": 1791209534.0,
-      "comments_url": "https://news.ycombinator.com/item?id=49965152"
+      "title": "World's First enhanced geothermal power plant completed in just 23 months",
+      "score": 133,
+      "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
+      "time": 1791286454.0,
+      "comments_url": "https://news.ycombinator.com/item?id=49976993"
     }
   ]
 }
