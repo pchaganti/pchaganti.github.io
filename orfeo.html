@@ -8,12 +8,18 @@
       content="Circles bloom and fade, Chimes whisper through soft light, Quiet settles deep."
     />
     <meta name="author" content="Prabhakar Chaganti" />
-    <meta name="keywords" content="Orfeo, Music, Audio, Visuals, Web" />
+    <meta
+      name="keywords"
+      content="Orfeo, Music, Audio, Visuals, Web, Ambient, Generative"
+    />
+    <meta name="theme-color" content="#0b0d13" media="(prefers-color-scheme: dark)" />
+    <meta name="theme-color" content="#f3efe7" media="(prefers-color-scheme: light)" />
     <meta property="og:title" content="Orfeo" />
     <meta
       property="og:description"
       content="Circles bloom and fade, Chimes whisper through soft light, Quiet settles deep."
     />
+    <meta property="og:type" content="website" />
     <title>Orfeo</title>
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -26,52 +32,75 @@
     <link rel="stylesheet" href="styles/orfeo.css" />
   </head>
   <body>
-    <div class="desktop-audio-banner">Click to activate audio</div>
-    <div class="container">
-      <button class="theme-toggle" aria-label="Toggle dark mode">
-        <svg
-          class="sun-and-moon"
-          aria-hidden="true"
-          width="24"
-          height="24"
-          viewBox="0 0 24 24"
-        >
-          <mask class="moon" id="moon-mask">
-            <rect x="0" y="0" width="100%" height="100%" fill="white" />
-            <circle cx="24" cy="10" r="6" fill="black" />
-          </mask>
-          <circle
-            class="sun"
-            cx="12"
-            cy="12"
-            r="6"
-            mask="url(#moon-mask)"
-            fill="currentColor"
-          />
-          <g class="sun-beams" stroke="currentColor">
-            <line x1="12" y1="1" x2="12" y2="3" />
-            <line x1="12" y1="21" x2="12" y2="23" />
-            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" />
-            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" />
-            <line x1="1" y1="12" x2="3" y2="12" />
-            <line x1="21" y1="12" x2="23" y2="12" />
-            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" />
-            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" />
-          </g>
-        </svg>
-      </button>
-      <h1 style="font-family: Raleway">
-        <a
-          href="https://prabhakar.chaganti.net"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="h1-link"
-          >pchaganti</a
-        >
-        <span class="h1-separator">|</span>
-        <span class="h1-subtitle">orfeo</span>
-      </h1>
+    <canvas id="orfeo-canvas" aria-hidden="true"></canvas>
+
+    <div class="desktop-audio-banner" role="button" tabindex="0">
+      Click anywhere to begin
     </div>
+
+    <div class="container">
+      <div class="title">
+        <h1>
+          <a
+            href="https://prabhakar.chaganti.net"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="h1-link"
+            >pchaganti</a
+          >
+          <span class="h1-separator">|</span>
+          <span class="h1-subtitle">orfeo</span>
+        </h1>
+        <p class="hint">tap or click to open a bloom</p>
+      </div>
+
+      <div class="controls">
+        <button class="sound-toggle" type="button" aria-pressed="false" aria-label="Unmute sound">
+          <svg viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round">
+            <path d="M4 9.5h3l4.2-3.4v11.8L7 14.5H4z" fill="currentColor" stroke-linejoin="round" />
+            <g class="waves">
+              <path d="M14.6 9.2a4 4 0 0 1 0 5.6" />
+              <path d="M17.1 6.7a7.5 7.5 0 0 1 0 10.6" />
+            </g>
+            <path class="slash" d="M15.5 9.5l5 5M20.5 9.5l-5 5" />
+          </svg>
+        </button>
+
+        <button class="theme-toggle" type="button" aria-label="Toggle dark mode">
+          <svg
+            class="sun-and-moon"
+            aria-hidden="true"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+          >
+            <mask class="moon" id="moon-mask">
+              <rect x="0" y="0" width="100%" height="100%" fill="white" />
+              <circle cx="24" cy="10" r="6" fill="black" />
+            </mask>
+            <circle
+              class="sun"
+              cx="12"
+              cy="12"
+              r="6"
+              mask="url(#moon-mask)"
+              fill="currentColor"
+            />
+            <g class="sun-beams" stroke="currentColor" stroke-width="1.6" stroke-linecap="round">
+              <line x1="12" y1="1" x2="12" y2="3" />
+              <line x1="12" y1="21" x2="12" y2="23" />
+              <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" />
+              <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" />
+              <line x1="1" y1="12" x2="3" y2="12" />
+              <line x1="21" y1="12" x2="23" y2="12" />
+              <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" />
+              <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" />
+            </g>
+          </svg>
+        </button>
+      </div>
+    </div>
+
     <script src="scripts/orfeo.js"></script>
   </body>
 </html>
