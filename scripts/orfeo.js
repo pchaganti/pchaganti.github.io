@@ -79,6 +79,20 @@
     theme.name = name;
     Object.assign(theme, THEMES[name] || THEMES.dark);
     document.documentElement.setAttribute("data-theme", name);
+    // Keep the browser chrome in sync when the toggle disagrees with the
+    // OS preference; collapse the pair of media-qualified tags into one.
+    const metas = document.querySelectorAll('meta[name="theme-color"]');
+    metas.forEach((m, i) => {
+      if (i === 0) {
+        m.removeAttribute("media");
+        m.setAttribute("content", theme.bg);
+      } else m.remove();
+    });
+    // Edge colours are theme-dependent, so refresh the cached strings on
+    // everything still alive. (world is always initialised by the time
+    // this can run: first call is initTheme() inside boot().)
+    for (const b of world.blooms) b.edge = bloomEdge(b.hue);
+    for (const s of world.sparkles) s.stroke = sparkleStroke(s.hue);
     buildBackdrop();
     start(); // the backdrop is cached, so the canvas needs a repaint
   }
@@ -104,11 +118,10 @@
   // A desaturated set for atmosphere: mist reads as light in fog, whereas a
   // fully saturated sprite scaled this large reads as a coloured disc.
   const mistSprites = [];
-  const spriteFor = (hue) =>
-    ((Math.round((((hue % 360) + 360) % 360) / (360 / HUE_BUCKETS)) %
-      HUE_BUCKETS) +
-      HUE_BUCKETS) %
-    HUE_BUCKETS;
+  const spriteFor = (hue) => {
+    const m = Math.round(hue / (360 / HUE_BUCKETS)) % HUE_BUCKETS;
+    return m < 0 ? m + HUE_BUCKETS : m;
+  };
 
   function makeCanvas() {
     const c = document.createElement("canvas");
@@ -209,6 +222,16 @@
   /** The same, in the desaturated family, for atmosphere. */
   const mist = (hue, x, y, radius, alpha) =>
     drawSprite(mistSprites[spriteFor(hue)], x, y, radius, alpha * theme.glow);
+
+  /**
+   * Edge colours are built once per hue and cached on the bloom/sparkle.
+   * Formatting `hsl()` strings and re-parsing them for hundreds of live
+   * particles every frame was pure garbage-collector churn.
+   */
+  const sparkleStroke = (hue) =>
+    `hsl(${hue}, 95%, ${theme.name === "dark" ? 76 : 58}%)`;
+  const bloomEdge = (hue) =>
+    `hsl(${hue}, 92%, ${theme.name === "dark" ? 80 : 42}%)`;
 
   function resize() {
     if (!canvas) return;
@@ -339,6 +362,9 @@
    * checks this instead of trusting ctx.state directly.
    */
   function playing() {
+    // Never coax the context awake for a hidden tab: background drones
+    // are the surprise nobody wants.
+    if (document.hidden) return false;
     if (!audio.ready || !audio.on || !audio.ctx) return false;
     if (audio.ctx.state === "running") return true;
     if (audio.ctx.state === "suspended") audio.ctx.resume();
@@ -356,13 +382,16 @@
     const rate = ctx.sampleRate;
     const length = Math.floor(rate * seconds);
     const buffer = ctx.createBuffer(2, length, rate);
+    // One decay envelope shared by both channels: identical output for
+    // half the Math.pow calls on the gesture-critical path.
+    const env = new Float32Array(length);
+    for (let i = 0; i < length; i++) env[i] = Math.pow(1 - i / length, decay);
     for (let ch = 0; ch < 2; ch++) {
       const data = buffer.getChannelData(ch);
       let last = 0;
       for (let i = 0; i < length; i++) {
-        const t = i / length;
         last += 0.3 * (Math.random() * 2 - 1 - last);
-        data[i] = last * Math.pow(1 - t, decay);
+        data[i] = last * env[i];
       }
     }
     return buffer;
@@ -489,6 +518,21 @@
       osc.stop(t0 + attack + decay + 0.05);
       longest = Math.max(longest, attack + decay);
     }
+
+    // The oscillators stop themselves, but the gain scaffolding they hang
+    // from stays wired to the master bus until released. Let go of the
+    // whole voice once its tail has died so a long session cannot pile up
+    // garbage nodes.
+    setTimeout(() => {
+      try {
+        sum.disconnect();
+        dry.disconnect();
+        wet.disconnect();
+        panner.disconnect();
+      } catch (err) {
+        /* already collected */
+      }
+    }, Math.max(0, (t0 - ctx.currentTime + longest + 0.3) * 1000 + 150));
 
     // The strike itself: a whisper of filtered noise at the onset.
     if (opts.profile === "bell" || opts.profile === "gong") {
@@ -679,8 +723,14 @@
     if (playing()) playDriftingChime();
   }
 
+  let levelTick = 0;
   function updateLevels() {
     if (!audio.analyser) return;
+    // The analyser read plus a 512-bin average every frame is the hottest
+    // non-drawing work in the loop. Levels move slowly, so ~20 Hz is
+    // plenty and the smoothing below hides the steps.
+    levelTick = (levelTick + 1) % 3;
+    if (levelTick !== 0) return;
     const data = audio.freqData;
     audio.analyser.getByteFrequencyData(data);
     const n = data.length;
@@ -769,23 +819,113 @@
     { hue: 178, weight: 0.8 }, // teal
     { hue: 150, weight: 0.7 }, // jade
   ];
-  const PALETTE_TOTAL = PALETTE.reduce((sum, p) => sum + p.weight, 0);
-
   function pickHue() {
-    let r = Math.random() * PALETTE_TOTAL;
-    for (const p of PALETTE) {
-      r -= p.weight;
-      if (r <= 0) return p.hue + rand(-7, 7);
+    let total = 0;
+    for (let i = 0; i < PALETTE.length; i++) {
+      total += PALETTE[i].weight * seasonWeight(i);
+    }
+    let r = Math.random() * total;
+    for (let i = 0; i < PALETTE.length; i++) {
+      r -= PALETTE[i].weight * seasonWeight(i);
+      if (r <= 0) return PALETTE[i].hue + rand(-7, 7);
     }
     return PALETTE[0].hue;
   }
 
   /**
-   * The backdrop is atmosphere, not subject: deep and cool so the warm
-   * blooms have something to glow against.
+   * Seasons: a slow drift of the colour of the air itself. Each season
+   * reweights the bloom palette, retints the aurora and shifts the whole
+   * field by a few degrees of hue. A full cycle takes many minutes; the
+   * shift eases over ~20 s so there is never a visible cut. Newborn
+   * blooms and sparkles follow through their birth weights within seconds,
+   * while the long-lived aurora and motes are shifted live at draw time.
+   * `?season=autumn` locks one in place — handy for sharing a mood.
    */
-  const AURORA_HUES = [212, 232, 252, 276, 296, 196];
-  const pickAuroraHue = () => pick(AURORA_HUES) + rand(-8, 8);
+  const SEASONS = [
+    {
+      name: "spring",
+      shift: -16,
+      weights: [2.2, 2.4, 1.6, 1.0, 0.7, 0.9, 0.8, 0.9, 1.2, 1.6, 2.2],
+      aurora: [196, 205, 150, 232],
+      anchor: 40,
+    },
+    {
+      name: "summer",
+      shift: 6,
+      weights: [3.6, 3.4, 2.6, 1.6, 1.0, 0.6, 0.5, 0.7, 1.0, 0.8, 0.7],
+      aurora: [212, 232, 196, 252],
+      anchor: 44,
+    },
+    {
+      name: "autumn",
+      shift: 14,
+      weights: [2.6, 3.0, 2.6, 2.6, 2.2, 1.2, 0.7, 0.6, 0.7, 0.6, 0.6],
+      aurora: [232, 276, 300, 212],
+      anchor: 32,
+    },
+    {
+      name: "winter",
+      shift: -28,
+      weights: [1.6, 1.8, 1.4, 1.0, 0.8, 1.0, 1.6, 2.0, 1.6, 1.0, 0.8],
+      aurora: [232, 252, 212, 276],
+      anchor: 36,
+    },
+  ];
+  const season = {
+    cur: 1, // open in high summer
+    next: 2,
+    blend: 0, // 0 = fully cur, 1 = fully next
+    timer: rand(90, 150),
+    shift: 6,
+    shiftTarget: 6,
+    locked: false,
+  };
+
+  const seasonWeight = (i) =>
+    lerp(
+      SEASONS[season.cur].weights[i],
+      SEASONS[season.next].weights[i],
+      season.blend
+    );
+
+  function initSeason() {
+    try {
+      const param = (window.location && window.location.search) || "";
+      const want = new URLSearchParams(param).get("season");
+      const idx = SEASONS.findIndex((s) => s.name === want);
+      if (idx >= 0) {
+        season.cur = season.next = idx;
+        season.blend = 0;
+        season.shift = season.shiftTarget = SEASONS[idx].shift;
+        season.locked = true;
+      }
+    } catch (err) {
+      /* a locked season is a nicety, not a requirement */
+    }
+  }
+
+  function advanceSeason(dt) {
+    // The global shift always eases toward its target, so even a season
+    // change lands as weather, not a cut.
+    season.shift +=
+      (season.shiftTarget - season.shift) * Math.min(1, dt * 0.05);
+    if (season.locked || ENV.reduced) return;
+    if (season.blend <= 0) {
+      season.timer -= dt;
+      if (season.timer <= 0) {
+        season.blend = 0.0001;
+        season.shiftTarget = SEASONS[season.next].shift;
+      }
+    } else {
+      season.blend = Math.min(1, season.blend + dt / 30);
+      if (season.blend >= 1) {
+        season.cur = season.next;
+        season.next = (season.next + 1) % SEASONS.length;
+        season.blend = 0;
+        season.timer = rand(90, 150);
+      }
+    }
+  }
 
   const world = {
     blooms: [],
@@ -801,7 +941,17 @@
     for (let i = 0; i < count; i++) {
       world.aurora.push({
         // The last blob is the warm one that anchors the palette.
-        hue: i === count - 1 ? 36 + rand(-8, 8) : pickAuroraHue(),
+        // Aurorae born mid-transition take after either season, weighted
+        // by the blend, so a changeover never arrives all at once.
+        hue: (() => {
+          const s =
+            Math.random() < season.blend
+              ? SEASONS[season.next]
+              : SEASONS[season.cur];
+          return (
+            (i === count - 1 ? s.anchor : pick(s.aurora)) + rand(-8, 8)
+          );
+        })(),
         // Most centres sit off-frame, so what lands on screen is the soft
         // shoulder of the gradient rather than a visible disc.
         x: rand(-0.25, 1.25),
@@ -847,9 +997,17 @@
     const maxR = size / 2;
     const rise = opts.rise == null ? lerp(0.7, 2.2, Math.random()) : opts.rise;
     const bloom = {
-      x: opts.x == null ? rand(maxR * 0.4, view.w - maxR * 0.4) : opts.x,
-      y: opts.y == null ? rand(maxR * 0.4, view.h - maxR * 0.4) : opts.y,
-      hue: opts.hue == null ? pickHue() : opts.hue,
+      x:
+        opts.x == null
+          ? rand(maxR * 0.4, Math.max(maxR * 0.4 + 1, view.w - maxR * 0.4))
+          : opts.x,
+      y:
+        opts.y == null
+          ? rand(maxR * 0.4, Math.max(maxR * 0.4 + 1, view.h - maxR * 0.4))
+          : opts.y,
+      // Short-lived light lands already tinted. (Motes and aurorae are
+      // long-lived, so they are shifted live at draw time instead.)
+      hue: opts.hue == null ? pickHue() + season.shift : opts.hue,
       maxR,
       r: 0,
       age: 0,
@@ -865,7 +1023,9 @@
       emitted: 0,
       alpha: opts.alpha == null ? rand(0.55, 1) : opts.alpha,
       interaction: !!opts.interaction,
+      edge: "",
     };
+    bloom.edge = bloomEdge(bloom.hue);
     world.blooms.push(bloom);
     if (world.blooms.length > 40) world.blooms.shift();
     if (!opts.silent) playBloom(size, bloom.x);
@@ -873,10 +1033,16 @@
     return bloom;
   }
 
+  function pushSparkle(s) {
+    s.stroke = sparkleStroke(s.hue);
+    world.sparkles.push(s);
+    if (world.sparkles.length > 900) world.sparkles.shift();
+  }
+
   function emitSparkle(bloom) {
     const angle = rand(0, TAU);
     const speed = rand(8, 46) * MOTION * (0.5 + (bloom.r / Math.max(1, bloom.maxR)) * 0.8);
-    world.sparkles.push({
+    pushSparkle({
       x: bloom.x + Math.cos(angle) * bloom.r * rand(0.85, 1.02),
       y: bloom.y + Math.sin(angle) * bloom.r * rand(0.85, 1.02),
       px: 0,
@@ -889,7 +1055,6 @@
       ttl: rand(1.2, 3.4),
       alpha: rand(0.4, 0.95),
     });
-    if (world.sparkles.length > 900) world.sparkles.shift();
   }
 
   function emitSoundRipple(x, y) {
@@ -922,6 +1087,7 @@
     const energy = Math.max(levels.all * 1.8, 0.08);
 
     for (const a of world.aurora) a.phase += dt * a.speed * MOTION;
+    advanceSeason(dt);
 
     for (const m of world.motes) {
       m.x += m.vx * dt * MOTION * (1 + energy);
@@ -961,21 +1127,25 @@
       }
     }
 
-    for (let i = world.sparkles.length - 1; i >= 0; i--) {
+    // In-place compaction instead of splice: with a few hundred live
+    // sparkles, splicing the dead out of the middle every frame is O(n^2)
+    // memmoves. Order is preserved, which keeps the ink layer stable.
+    let kept = 0;
+    for (let i = 0; i < world.sparkles.length; i++) {
       const s = world.sparkles[i];
       s.px = s.x;
       s.py = s.y;
       s.life += dt;
-      if (s.life >= s.ttl) {
-        world.sparkles.splice(i, 1);
-        continue;
+      if (s.life < s.ttl) {
+        s.vx *= 1 - 0.9 * dt;
+        s.vy *= 1 - 0.9 * dt;
+        s.vy -= 5 * dt * MOTION * (1 + energy);
+        s.x += s.vx * dt * MOTION;
+        s.y += s.vy * dt * MOTION;
+        world.sparkles[kept++] = s;
       }
-      s.vx *= 1 - 0.9 * dt;
-      s.vy *= 1 - 0.9 * dt;
-      s.vy -= 5 * dt * MOTION * (1 + energy);
-      s.x += s.vx * dt * MOTION;
-      s.y += s.vy * dt * MOTION;
     }
+    world.sparkles.length = kept;
 
     updateLevels();
     advancePad(dt);
@@ -1006,19 +1176,25 @@
       const x = view.w * a.x + Math.sin(a.phase) * a.drift;
       const y = view.h * a.y + Math.cos(a.phase * 0.7) * a.drift * 0.6;
       const alpha = a.alpha * (0.55 + breath * 0.25 + energy * 0.9);
-      mist(a.hue, x, y, a.r, alpha);
+      mist(a.hue + season.shift, x, y, a.r, alpha);
     }
 
     // Far motes first: large, faint, soft — the depth-of-field layer.
     for (const m of world.motes) {
       if (m.depth > 0.45) continue;
-      mist(m.hue, m.x, m.y, m.r, m.alpha * (0.6 + 0.4 * Math.sin(m.twinkle)));
+      mist(
+        m.hue + season.shift,
+        m.x,
+        m.y,
+        m.r,
+        m.alpha * (0.6 + 0.4 * Math.sin(m.twinkle))
+      );
     }
     // Near motes on top: small and bright, so the frame has depth.
     for (const m of world.motes) {
       if (m.depth <= 0.45) continue;
       glow(
-        m.hue,
+        m.hue + season.shift,
         m.x,
         m.y,
         m.r,
@@ -1049,7 +1225,7 @@
       // On paper the drawing is ink: a darker, slightly heavier line, since
       // an additive glow has nothing to add to a bright background.
       g.globalAlpha = alpha * (theme.name === "dark" ? 0.72 : 0.8);
-      g.strokeStyle = `hsl(${b.hue}, 92%, ${theme.name === "dark" ? 80 : 42}%)`;
+      g.strokeStyle = b.edge;
       g.lineWidth = Math.max(theme.name === "dark" ? 1 : 1.2, b.r * 0.009);
       g.beginPath();
       g.arc(b.x, b.y, b.r, 0, TAU);
@@ -1088,9 +1264,7 @@
       const fade = 1 - s.life / s.ttl;
       const a = s.alpha * fade * fade;
       g.globalAlpha = a * 0.6;
-      g.strokeStyle = `hsl(${s.hue}, 95%, ${
-        theme.name === "dark" ? 76 : 58
-      }%)`;
+      g.strokeStyle = s.stroke || sparkleStroke(s.hue);
       g.lineWidth = Math.max(1, s.r * 0.7);
       g.beginPath();
       g.moveTo(s.px, s.py);
@@ -1170,6 +1344,12 @@
   /** The first gesture anywhere unlocks audio. The bloom is onPointerDown's. */
   function onFirstGesture(event) {
     if (event && event.target && event.target.closest(".controls")) return;
+    // Tabbing past the page must not start the sound: only an activating
+    // key or a printable character counts as an invitation.
+    if (event && event.type === "keydown") {
+      const k = event.key;
+      if (k !== "Enter" && (!k || k.length !== 1)) return;
+    }
     window.removeEventListener("pointerdown", onFirstGesture);
     window.removeEventListener("keydown", onFirstGesture);
     hideBanner();
@@ -1188,20 +1368,42 @@
       rise: lerp(0.6, 1.6, Math.random()),
       interaction: true,
     });
+    // The bloom takes a beat to open, so answer the touch at once with a
+    // brief handful of sparks at the pointer.
+    if (!ENV.reduced && world.sparkles.length < 700) {
+      const n = randInt(4, 8);
+      for (let i = 0; i < n; i++) {
+        const angle = rand(0, TAU);
+        const speed = rand(30, 90);
+        pushSparkle({
+          x: event.clientX,
+          y: event.clientY,
+          px: event.clientX,
+          py: event.clientY,
+          vx: Math.cos(angle) * speed,
+          vy: Math.sin(angle) * speed - rand(6, 20),
+          hue: pickHue() + season.shift,
+          r: rand(1.4, 3.4),
+          life: 0,
+          ttl: rand(0.5, 1.2),
+          alpha: rand(0.4, 0.8),
+        });
+      }
+    }
     if (!ENV.reduced) emitSoundRipple(event.clientX, event.clientY);
   }
 
   function onPointerMove(event) {
     if (ENV.coarse || ENV.reduced) return;
     if (world.sparkles.length > 700 || Math.random() > 0.25) return;
-    world.sparkles.push({
+    pushSparkle({
       x: event.clientX,
       y: event.clientY,
       px: event.clientX,
       py: event.clientY,
       vx: rand(-16, 16),
       vy: rand(-22, -4),
-      hue: pickHue(),
+      hue: pickHue() + season.shift,
       r: rand(1, 3),
       life: 0,
       ttl: rand(0.6, 1.6),
@@ -1258,6 +1460,7 @@
 
   function boot() {
     buildSprites();
+    initSeason();
     resize();
     initTheme();
     world.spawnTimer = 0.6;
@@ -1273,6 +1476,22 @@
       soundToggle.addEventListener("click", (e) => {
         e.preventDefault();
         setSound(!audio.on);
+      });
+    }
+
+    // The banner is a real button for keyboard users, not just a label
+    // the window gesture handler happens to overlap.
+    if (banner) {
+      banner.addEventListener("click", () => {
+        hideBanner();
+        setSound(true);
+      });
+      banner.addEventListener("keydown", (e) => {
+        if (e.key === "Enter" || e.key === " ") {
+          e.preventDefault();
+          hideBanner();
+          setSound(true);
+        }
       });
     }
 
@@ -1301,12 +1520,28 @@
     window.addEventListener("keydown", onFirstGesture);
     window.addEventListener("pointerdown", onPointerDown, { passive: true });
     window.addEventListener("pointermove", onPointerMove, { passive: true });
-    window.addEventListener("resize", resize);
-    window.addEventListener("orientationchange", resize);
+    // Desktop drag-resize fires dozens of events a second; rebuilding
+    // the world on each one would stutter and reseed the field mid-piece.
+    let resizeTimer = 0;
+    const onResize = () => {
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(resize, 150);
+    };
+    window.addEventListener("resize", onResize);
+    window.addEventListener("orientationchange", onResize);
 
     document.addEventListener("visibilitychange", () => {
-      if (document.hidden) stop();
-      else start();
+      if (document.hidden) {
+        stop();
+        // Park the context while hidden so the drone never plays to an
+        // empty room (and the laptop battery says thanks).
+        if (audio.ctx && audio.ctx.state === "running") audio.ctx.suspend();
+      } else {
+        if (audio.on && audio.ctx && audio.ctx.state === "suspended") {
+          audio.ctx.resume();
+        }
+        start();
+      }
     });
 
     start();
