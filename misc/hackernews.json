@@ -1,61 +1,124 @@
 {
-  "last_updated": "2026-10-16T14:31:37.701786-04:00",
+  "last_updated": "2026-10-16T19:08:21.291268-04:00",
   "stories": [
     {
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "score": 135,
-      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "time": 1792170518.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50121179"
+      "title": "Tesla Roadster",
+      "score": 1057,
+      "url": "https://www.tesla.com/roadster",
+      "time": 1792114365.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50112657"
+    },
+    {
+      "title": "FLUX 3 Image Klein",
+      "score": 82,
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "time": 1792180033.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50123580"
+    },
+    {
+      "title": "Claude reveals ECDSA curve origins",
+      "score": 548,
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "time": 1792176959.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50122800"
+    },
+    {
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "score": 142,
+      "url": "https://github.com/cobanov/PS5LM",
+      "time": 1792175555.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50122431"
+    },
+    {
+      "title": "Waymo in Toronto",
+      "score": 233,
+      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "time": 1792161857.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50118981"
     },
     {
       "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
-      "score": 20,
+      "score": 134,
       "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
       "time": 1792173977.0,
       "comments_url": "https://news.ycombinator.com/item?id=50122034"
     },
     {
+      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
+      "score": 49,
+      "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
+      "time": 1791962472.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50083673"
+    },
+    {
+      "title": "You could have invented transformers from memory",
+      "score": 82,
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "time": 1792177277.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50122878"
+    },
+    {
+      "title": "C++26: The New Debugging Header",
+      "score": 48,
+      "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+      "time": 1792176759.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50122736"
+    },
+    {
+      "title": "Designing more efficient quantum circuits with Claude",
+      "score": 78,
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "time": 1792173618.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50121939"
+    },
+    {
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "score": 175,
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "time": 1792167122.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50120224"
+    },
+    {
       "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-      "score": 181,
+      "score": 247,
       "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
       "time": 1792158228.0,
       "comments_url": "https://news.ycombinator.com/item?id=50118320"
     },
     {
-      "title": "What on Earth Is Dekton?",
-      "score": 89,
-      "url": "https://www.worksinprogress.news/p/porcelain",
-      "time": 1792161103.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50118828"
+      "title": "How the Claude Code team does code review",
+      "score": 182,
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "time": 1792177487.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50122951"
     },
     {
-      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-      "score": 117,
-      "url": "https://calif.io/research/big-fish",
-      "time": 1792161842.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50118977"
+      "title": "I never authorized an integration that scans my secrets",
+      "score": 142,
+      "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+      "time": 1792182821.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50124251"
     },
     {
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "score": 118,
-      "url": "https://starskirmish.com/bench/v0-2/",
-      "time": 1792160324.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50118688"
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "score": 352,
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "time": 1792170518.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50121179"
     },
     {
-      "title": "I Love Software Rendering",
-      "score": 229,
-      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
-      "time": 1792155128.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50117746"
+      "title": "Monte-Carlo Simulations",
+      "score": 50,
+      "url": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
+      "time": 1791915106.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50076089"
     },
     {
-      "title": "Designing more efficient quantum circuits with Claude",
+      "title": "PGO or not PGO this is the dilemma. Step 2",
       "score": 12,
-      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "time": 1792173618.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50121939"
+      "url": "https://www.percona.com/blog/pgo-or-not-pgo-this-is-the-dilemma-step-2/",
+      "time": 1791995628.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50090453"
     },
     {
       "title": "Piramidal (YC W24) Is Hiring",
@@ -65,81 +128,18 @@
       "comments_url": "https://news.ycombinator.com/item?id=50121188"
     },
     {
-      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
-      "score": 64,
-      "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
-      "time": 1791908763.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50074322"
+      "title": "/dev/null: social network for developers",
+      "score": 109,
+      "url": "https://dev-null.sh",
+      "time": 1792169869.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50121004"
     },
     {
-      "title": "Tesla Roadster",
-      "score": 579,
-      "url": "https://www.tesla.com/roadster",
-      "time": 1792114365.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50112657"
-    },
-    {
-      "title": "JPEG XL vs. AVIF for web use-cases",
-      "score": 91,
-      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-      "time": 1792167122.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50120224"
-    },
-    {
-      "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
-      "score": 65,
-      "url": "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/",
-      "time": 1792157905.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50118267"
-    },
-    {
-      "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
-      "score": 751,
-      "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
-      "time": 1791858773.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50065859"
-    },
-    {
-      "title": "Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video]",
-      "score": 58,
-      "url": "https://www.youtube.com/watch?v=eF6bMSjPepM",
-      "time": 1792106631.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50111752"
-    },
-    {
-      "title": "Yet another way to invoke functions without parentheses",
-      "score": 222,
-      "url": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
-      "time": 1791919518.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50077225"
-    },
-    {
-      "title": "How to make System 1 LLMs show System 2 competencies?",
-      "score": 33,
-      "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
-      "time": 1792160194.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50118662"
-    },
-    {
-      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-      "score": 108,
-      "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-      "time": 1792166140.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50119991"
-    },
-    {
-      "title": "Making 1,750 programmable PCB badges for Canada's biggest hackathon",
-      "score": 22,
-      "url": "https://va3ndf.com/blog/hacker-badges/",
-      "time": 1791981847.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50086838"
-    },
-    {
-      "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
-      "score": 114,
-      "url": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
-      "time": 1792166582.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50120101"
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "score": 177,
+      "url": "https://starskirmish.com/bench/v0-2/",
+      "time": 1792160324.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50118688"
     }
   ]
 }
