@@ -1,54 +1,117 @@
 {
-  "last_updated": "2026-10-16T22:13:00.841750-04:00",
+  "last_updated": "2026-10-17T03:19:42.046886-04:00",
   "stories": [
     {
+      "title": "Ultramarine 1 Flash",
+      "score": 184,
+      "url": "https://www.paperinstruments.com/ultramarine",
+      "time": 1792083961.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50106747"
+    },
+    {
       "title": "Tesla Roadster",
-      "score": 1211,
+      "score": 1357,
       "url": "https://www.tesla.com/roadster",
       "time": 1792114365.0,
       "comments_url": "https://news.ycombinator.com/item?id=50112657"
     },
     {
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "score": 26,
+      "url": "https://llmspeed.dev/",
+      "time": 1792211813.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50127979"
+    },
+    {
       "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "score": 206,
+      "score": 269,
       "url": "https://github.com/cobanov/PS5LM",
       "time": 1792175555.0,
       "comments_url": "https://news.ycombinator.com/item?id=50122431"
     },
     {
       "title": "Claude reveals ECDSA curve origins",
-      "score": 696,
+      "score": 825,
       "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
       "time": 1792176959.0,
       "comments_url": "https://news.ycombinator.com/item?id=50122800"
     },
     {
-      "title": "FLUX 3 Image Klein",
-      "score": 117,
-      "url": "https://bfl.ai/blog/flux-3-image-klein",
-      "time": 1792180033.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50123580"
-    },
-    {
       "title": "You could have invented transformers from memory",
-      "score": 156,
+      "score": 247,
       "url": "https://alexwang.ai/posts/associative-memory/",
       "time": 1792177277.0,
       "comments_url": "https://news.ycombinator.com/item?id=50122878"
     },
     {
-      "title": "Waymo in Toronto",
-      "score": 275,
-      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
-      "time": 1792161857.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50118981"
+      "title": "California is building a $400M shield for Yosemite's most dangerous highway",
+      "score": 32,
+      "url": "https://www.sfchronicle.com/california/article/yosemite-national-park-highway-140-22463847.php",
+      "time": 1791990958.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50088937"
+    },
+    {
+      "title": "FLUX 3 Image Klein",
+      "score": 152,
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "time": 1792180033.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50123580"
+    },
+    {
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "score": 302,
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "time": 1792158228.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50118320"
+    },
+    {
+      "title": "0/1 Knapsack Problem in PyTorch",
+      "score": 8,
+      "url": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
+      "time": 1791990273.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50088767"
     },
     {
       "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
-      "score": 177,
+      "score": 210,
       "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
       "time": 1792173977.0,
       "comments_url": "https://news.ycombinator.com/item?id=50122034"
+    },
+    {
+      "title": "Butlerian Jihad",
+      "score": 185,
+      "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+      "time": 1792203668.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50127274"
+    },
+    {
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "score": 239,
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "time": 1792167122.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50120224"
+    },
+    {
+      "title": "Designing more efficient quantum circuits with Claude",
+      "score": 129,
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "time": 1792173618.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50121939"
+    },
+    {
+      "title": "I built the RealWorld app in Lean 4",
+      "score": 39,
+      "url": "https://leangineer.com/blog/realworld-in-lean/",
+      "time": 1791990194.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50088748"
+    },
+    {
+      "title": "Intuitive concurrent programming in any language",
+      "score": 10,
+      "url": "https://www.lf-lang.org/",
+      "time": 1792070324.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50103255"
     },
     {
       "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
@@ -58,88 +121,25 @@
       "comments_url": "https://news.ycombinator.com/item?id=50126774"
     },
     {
-      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
-      "score": 71,
-      "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
-      "time": 1791962472.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50083673"
-    },
-    {
-      "title": "Designing more efficient quantum circuits with Claude",
-      "score": 105,
-      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "time": 1792173618.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50121939"
-    },
-    {
-      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-      "score": 270,
-      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-      "time": 1792158228.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50118320"
-    },
-    {
-      "title": "C++26: The New Debugging Header",
-      "score": 69,
-      "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
-      "time": 1792176759.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50122736"
-    },
-    {
-      "title": "JPEG XL vs. AVIF for web use-cases",
-      "score": 207,
-      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-      "time": 1792167122.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50120224"
+      "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
+      "score": 36,
+      "url": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
+      "time": 1792165108.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50119751"
     },
     {
       "title": "Monte-Carlo Simulations",
-      "score": 72,
+      "score": 101,
       "url": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
       "time": 1791915106.0,
       "comments_url": "https://news.ycombinator.com/item?id=50076089"
     },
     {
-      "title": "Nine-Inch Snails",
-      "score": 27,
-      "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
-      "time": 1792189265.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50125545"
-    },
-    {
-      "title": "How the Claude Code team does code review",
-      "score": 245,
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "time": 1792177487.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50122951"
-    },
-    {
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "score": 409,
+      "score": 473,
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
       "time": 1792170518.0,
       "comments_url": "https://news.ycombinator.com/item?id=50121179"
-    },
-    {
-      "title": "I built the RealWorld app in Lean 4",
-      "score": 10,
-      "url": "https://leangineer.com/blog/realworld-in-lean/",
-      "time": 1791990194.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50088748"
-    },
-    {
-      "title": "/dev/null: social network for developers",
-      "score": 132,
-      "url": "https://dev-null.sh",
-      "time": 1792169869.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50121004"
-    },
-    {
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "score": 188,
-      "url": "https://starskirmish.com/bench/v0-2/",
-      "time": 1792160324.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50118688"
     }
   ]
 }
