@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-10-19T04:17:03.801233-04:00",
+  "last_updated": "2026-10-19T12:01:20.355623-04:00",
   "stories": [
     {
-      "title": "Linux 7.3 Released",
-      "score": 46,
+      "title": "Wine Ported to OpenBSD",
+      "score": 180,
+      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+      "time": 1792416934.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50152307"
+    },
+    {
+      "title": "Timestral: Mistral release time-series foundation models",
+      "score": 312,
+      "url": "https://mistral.ai/news/timestral/",
+      "time": 1792403972.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50150434"
+    },
+    {
+      "title": "Linux 7.3",
+      "score": 483,
       "url": "https://lwn.net/Articles/1101143/",
       "time": 1792394637.0,
       "comments_url": "https://news.ycombinator.com/item?id=50149392"
     },
     {
-      "title": "Rabbits were a medieval royal luxury in England until the Black Death",
-      "score": 68,
-      "url": "https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html",
-      "time": 1792246056.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50131315"
+      "title": "Alternatives to Animal Testing Are Finally Taking Off",
+      "score": 143,
+      "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+      "time": 1792408254.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50150927"
+    },
+    {
+      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+      "score": 143,
+      "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+      "time": 1792407219.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50150809"
+    },
+    {
+      "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
+      "score": 31,
+      "url": "https://github.com/kividbio/kividb",
+      "time": 1792418032.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50152541"
+    },
+    {
+      "title": "It's still OK to enjoy programming",
+      "score": 33,
+      "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
+      "time": 1792266800.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50134472"
+    },
+    {
+      "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
+      "score": 49,
+      "url": "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
+      "time": 1792408322.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50150935"
+    },
+    {
+      "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix",
+      "score": 8,
+      "url": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf",
+      "time": 1792422620.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50153431"
+    },
+    {
+      "title": "A death, a plagiarism scandal and a quest for revenge: the tale of Otto Z",
+      "score": 24,
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/08/a-death-a-plagiarism-scandal-and-a-quest-for-revenge-the-bizarre-tale-of-otto-z",
+      "time": 1792249328.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50131749"
+    },
+    {
+      "title": "Gdynia and the Dream of a Maritime Poland",
+      "score": 77,
+      "url": "https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/",
+      "time": 1792185188.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50124811"
+    },
+    {
+      "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+      "score": 98,
+      "url": "https://100toolkit.com/blog/deslop-model/",
+      "time": 1792414847.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50151928"
     },
     {
       "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "score": 372,
+      "score": 479,
       "url": "https://arxiv.org/abs/2610.18861",
       "time": 1792356494.0,
       "comments_url": "https://news.ycombinator.com/item?id=50145337"
     },
     {
-      "title": "William Gibson and the trademarking of cyberspace",
-      "score": 170,
-      "url": "https://colo.to/cyberspace.html",
-      "time": 1792366677.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50146625"
+      "title": "Beyond the Glass",
+      "score": 13,
+      "url": "https://longreads.com/2026/10/15/mother-museum-skulls-grief-agni/",
+      "time": 1792131421.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50114766"
     },
     {
       "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
-      "score": 343,
+      "score": 487,
       "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
       "time": 1792279595.0,
       "comments_url": "https://news.ycombinator.com/item?id=50136150"
     },
     {
       "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-      "score": 145,
+      "score": 264,
       "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
       "time": 1792357752.0,
       "comments_url": "https://news.ycombinator.com/item?id=50145507"
     },
     {
-      "title": "Someone behind the software",
-      "score": 429,
-      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-      "time": 1792341120.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50142573"
+      "title": "William Gibson and the trademarking of cyberspace",
+      "score": 243,
+      "url": "https://colo.to/cyberspace.html",
+      "time": 1792366677.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50146625"
     },
     {
       "title": "How to Train Your Robot",
-      "score": 8,
+      "score": 115,
       "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
       "time": 1792077201.0,
       "comments_url": "https://news.ycombinator.com/item?id=50104874"
     },
     {
-      "title": "Laptop Based on 6502 CPU",
-      "score": 110,
-      "url": "https://www.maddox.pro/?p=448",
-      "time": 1792104983.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50111537"
+      "title": "Rabbits were a medieval royal luxury in England until the Black Death",
+      "score": 122,
+      "url": "https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html",
+      "time": 1792246056.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50131315"
     },
     {
-      "title": "Superlite: A Faster Alternatie to Superpowers",
-      "score": 84,
-      "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
-      "time": 1792375276.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50147492"
-    },
-    {
-      "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
-      "score": 218,
-      "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
-      "time": 1792287488.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50136979"
-    },
-    {
-      "title": "Verisign .com Domain Name Registry Consumer Class Action",
-      "score": 85,
-      "url": "https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action",
-      "time": 1792384818.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50148441"
-    },
-    {
-      "title": "RepRapMicron",
-      "score": 384,
-      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-      "time": 1792331328.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50141076"
-    },
-    {
-      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-      "score": 9,
-      "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
-      "time": 1792389331.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50148855"
-    },
-    {
-      "title": "The DNS Museum",
-      "score": 59,
-      "url": "https://dns.museum",
-      "time": 1792189294.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50125551"
-    },
-    {
-      "title": "Free Pascal compiler now supports dynamic packages",
-      "score": 158,
-      "url": "https://www.getlazarus.org/dynamic/",
-      "time": 1792349284.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50144066"
-    },
-    {
-      "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
-      "score": 55,
-      "url": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
-      "time": 1792366674.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50146624"
-    },
-    {
-      "title": "Flatpak – An Insecurity Nightmare",
-      "score": 21,
-      "url": "https://oro.gay/posts/flatpak-an-insecurity-nightmare/",
-      "time": 1792386684.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50148601"
-    },
-    {
-      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
-      "score": 97,
-      "url": "https://github.com/finereli/whatsapp-mcp",
-      "time": 1792359370.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50145715"
-    },
-    {
-      "title": "DeepSeek V4.1 Flash 1017 (Max)",
-      "score": 120,
-      "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-      "time": 1792384906.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50148452"
+      "title": "Someone behind the software",
+      "score": 519,
+      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "time": 1792341120.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50142573"
     }
   ]
 }
