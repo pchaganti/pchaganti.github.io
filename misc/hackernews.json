@@ -1,68 +1,138 @@
 {
-  "last_updated": "2026-10-20T09:58:23.354135-04:00",
+  "last_updated": "2026-10-20T14:49:41.743278-04:00",
   "stories": [
     {
-      "title": "DeepSeek just open-sourced its inference engine",
-      "score": 1082,
+      "title": "Voxtral 3",
+      "score": 282,
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "time": 1792512127.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50168396"
+    },
+    {
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "score": 1914,
       "url": "https://github.com/deepseek-ai/DeepInfer",
       "time": 1792487334.0,
       "comments_url": "https://news.ycombinator.com/item?id=50163277"
     },
     {
+      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+      "score": 102,
+      "url": "https://github.com/google-pytorch/torch_tpu",
+      "time": 1792514424.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50169053"
+    },
+    {
+      "title": "EMudhra Intermediate CA Compromise",
+      "score": 328,
+      "url": "https://emudhra.we-have-a-problem.com/",
+      "time": 1792504713.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50166579"
+    },
+    {
+      "title": "Ofcom concedes defeat in 4chan case",
+      "score": 175,
+      "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+      "time": 1792506631.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50167028"
+    },
+    {
       "title": "Apple broke an essential presentation feature of iPads",
-      "score": 77,
+      "score": 344,
       "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
       "time": 1792498648.0,
       "comments_url": "https://news.ycombinator.com/item?id=50165208"
     },
     {
-      "title": "NixOS is making me less afraid",
-      "score": 32,
-      "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
-      "time": 1792500185.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50165484"
-    },
-    {
-      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
-      "score": 208,
-      "url": "https://github.com/microg/GmsCore/wiki",
-      "time": 1792478227.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50162177"
-    },
-    {
-      "title": "Nordwand Mono – A monospace font for coders and adventurers",
-      "score": 407,
-      "url": "https://github.com/tywr/Nordwand-Mono",
-      "time": 1792334881.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50141581"
+      "title": "Advanced coding in low-resource programming languages",
+      "score": 22,
+      "url": "https://openai.com/index/low-resource-programming-languages/",
+      "time": 1792518191.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50169955"
     },
     {
       "title": "Publish fake stats, get cited in LLMs",
-      "score": 16,
+      "score": 251,
       "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
       "time": 1792501582.0,
       "comments_url": "https://news.ycombinator.com/item?id=50165801"
     },
     {
-      "title": "OpenBSD 8.0",
-      "score": 389,
-      "url": "https://www.openbsd.org/80.html",
-      "time": 1792462000.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50160494"
+      "title": "Tsrs: A Port of TypeScript to Rust",
+      "score": 204,
+      "url": "https://blog.cloudflare.com/typescript-rust-port/",
+      "time": 1792502287.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50165953"
     },
     {
-      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "score": 606,
-      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "time": 1792452138.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50159341"
+      "title": "Facebook Pages require paid subscription to post more than two links per month",
+      "score": 338,
+      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+      "time": 1792508768.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50167536"
     },
     {
-      "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-      "score": 401,
-      "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-      "time": 1792426606.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50154244"
+      "title": "IKEA – 3D Guide",
+      "score": 60,
+      "url": "https://sael.net/flatpack/",
+      "time": 1792510965.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50168096"
+    },
+    {
+      "title": "How I got over 300 Tor exit nodes removed",
+      "score": 207,
+      "url": "https://kaba.cx/posts/20261020_Tor/",
+      "time": 1792503564.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50166257"
+    },
+    {
+      "title": "Triplet of 'ghostly' galaxies hints at what dark matter is and isn't",
+      "score": 70,
+      "url": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
+      "time": 1792251192.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50131997"
+    },
+    {
+      "title": "JAXA is about to perform a Phobos sample return mission",
+      "score": 43,
+      "url": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
+      "time": 1792305655.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50138490"
+    },
+    {
+      "title": "My Friend Bob Cringely",
+      "score": 112,
+      "url": "https://tyma.com/my-cringe-story/",
+      "time": 1792505629.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50166794"
+    },
+    {
+      "title": "2026 is an exciting year for the Rust compiler (and me)",
+      "score": 100,
+      "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+      "time": 1792504428.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50166502"
+    },
+    {
+      "title": "Archive of Our Own",
+      "score": 28,
+      "url": "https://archiveofourown.org/",
+      "time": 1792214594.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50128197"
+    },
+    {
+      "title": "Demographic \"doomsday\" misses the mark",
+      "score": 52,
+      "url": "https://www.science.org/doi/10.1126/science.ael8752",
+      "time": 1792498948.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50165276"
+    },
+    {
+      "title": "Google Cloud outage affects almost all banking and other operations in Europe",
+      "score": 229,
+      "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+      "time": 1792491962.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50163961"
     },
     {
       "title": "Hazel (YC W24) Is Hiring",
@@ -70,76 +140,6 @@
       "url": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
       "time": 1792497632.0,
       "comments_url": "https://news.ycombinator.com/item?id=50164991"
-    },
-    {
-      "title": "Making a 88x31 button book using ImageMagick",
-      "score": 92,
-      "url": "https://k.sosnierz.me/08-11-24/",
-      "time": 1792252543.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50132198"
-    },
-    {
-      "title": "'Der Viener Schlinger': The meat cannon that launched 20k hot dogs",
-      "score": 37,
-      "url": "https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/",
-      "time": 1792370581.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50147034"
-    },
-    {
-      "title": "Google cloud outage takes down banks",
-      "score": 147,
-      "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
-      "time": 1792491962.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50163961"
-    },
-    {
-      "title": "Restoration of Retinal Regenerative Potential (2025)",
-      "score": 89,
-      "url": "https://www.nature.com/articles/s41467-025-58290-8",
-      "time": 1792323158.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50140111"
-    },
-    {
-      "title": "MiniMax M3.1 Flash",
-      "score": 497,
-      "url": "https://www.minimax.io/blog/minimax-m31f",
-      "time": 1792427949.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50154540"
-    },
-    {
-      "title": "An ad-free Android TV",
-      "score": 307,
-      "url": "https://cretezy.com/2026/ad-free-android-tv",
-      "time": 1792449157.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50158942"
-    },
-    {
-      "title": "There Are over 1M New York City Street Signs. Here's How They Are Made.",
-      "score": 25,
-      "url": "https://www.nytimes.com/2026/08/15/nyregion/nyc-street-sign-shop.html",
-      "time": 1792168968.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50120748"
-    },
-    {
-      "title": "Weball: Play Katamari on Websites",
-      "score": 268,
-      "url": "https://www.funwithcomputervision.com/weball/",
-      "time": 1792327196.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50140584"
-    },
-    {
-      "title": "Wine ported to OpenBSD",
-      "score": 594,
-      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-      "time": 1792416934.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50152307"
-    },
-    {
-      "title": "It's still ok to enjoy programming",
-      "score": 655,
-      "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
-      "time": 1792266800.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50134472"
     }
   ]
 }
