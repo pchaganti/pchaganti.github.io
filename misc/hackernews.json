@@ -1,68 +1,138 @@
 {
-  "last_updated": "2026-10-21T10:14:11.068530-04:00",
+  "last_updated": "2026-10-21T15:02:10.907395-04:00",
   "stories": [
     {
-      "title": "Updated PHP version released to GitHub",
-      "score": 169,
+      "title": "PHP 8.2.35",
+      "score": 851,
       "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
       "time": 1792590333.0,
       "comments_url": "https://news.ycombinator.com/item?id=50180873"
     },
     {
-      "title": "PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out",
-      "score": 128,
-      "url": "https://www.php.net/index.php",
-      "time": 1792590605.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50180943"
+      "title": "Today's PHP security release, and how we're strengthening security",
+      "score": 318,
+      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "time": 1792597736.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50182987"
+    },
+    {
+      "title": "The compiler was supposed to end programming too",
+      "score": 33,
+      "url": "https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/",
+      "time": 1792605651.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50185045"
+    },
+    {
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "score": 256,
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "time": 1792591226.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50181114"
     },
     {
       "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-      "score": 445,
+      "score": 695,
       "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
       "time": 1792573688.0,
       "comments_url": "https://news.ycombinator.com/item?id=50177916"
     },
     {
-      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-      "score": 38,
-      "url": "https://www.wiz.io/blog/php2shell-php-rce",
-      "time": 1792590199.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50180836"
+      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+      "score": 270,
+      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+      "time": 1792591282.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50181136"
     },
     {
-      "title": "OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns",
-      "score": 16,
+      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+      "score": 176,
       "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
       "time": 1792591423.0,
       "comments_url": "https://news.ycombinator.com/item?id=50181175"
     },
     {
-      "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
-      "score": 129,
-      "url": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
-      "time": 1792585359.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50179706"
+      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+      "score": 82,
+      "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
+      "time": 1792477254.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50162044"
     },
     {
-      "title": "Most advice is right for the person giving it",
-      "score": 37,
-      "url": "https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/",
-      "time": 1792588653.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50180444"
+      "title": "EA is shutting down BioWare",
+      "score": 170,
+      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+      "time": 1792603773.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50184586"
     },
     {
-      "title": "LayerFS: The filesystem for AI coding agents",
-      "score": 30,
-      "url": "https://layerfs.ai/",
-      "time": 1792586086.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50179857"
+      "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+      "score": 111,
+      "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+      "time": 1792596004.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50182526"
     },
     {
-      "title": "Whatever Happened to Fire Escapes",
-      "score": 101,
-      "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
-      "time": 1792577683.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50178455"
+      "title": "OpenAI models are coming to Google Cloud",
+      "score": 132,
+      "url": "https://openai.com/index/openai-models-google-cloud/",
+      "time": 1792587191.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50180079"
+    },
+    {
+      "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
+      "score": 31,
+      "url": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
+      "time": 1792599637.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50183512"
+    },
+    {
+      "title": "Open Source Games",
+      "score": 10,
+      "url": "https://opensourcegames.dev/",
+      "time": 1792607475.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50185455"
+    },
+    {
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "score": 95,
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+      "time": 1792589820.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50180752"
+    },
+    {
+      "title": "Drupal is now light-years ahead of its reputation",
+      "score": 79,
+      "url": "https://dri.es/state-of-drupal-presentation-september-2026",
+      "time": 1792445882.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50158408"
+    },
+    {
+      "title": "The bridge to agent-scale Git infrastructure",
+      "score": 26,
+      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+      "time": 1792598968.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50183344"
+    },
+    {
+      "title": "Your MCU Likely Escaped the eMudhra Intermediate CA Compromise",
+      "score": 34,
+      "url": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
+      "time": 1792598705.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50183280"
+    },
+    {
+      "title": "Canary Tokens",
+      "score": 3,
+      "url": "https://canarytokens.org/",
+      "time": 1792608304.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50185630"
+    },
+    {
+      "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+      "score": 21,
+      "url": "https://alterauth.com/",
+      "time": 1792564932.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50176908"
     },
     {
       "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
@@ -70,76 +140,6 @@
       "url": "https://9mothers.com/careers",
       "time": 1792584024.0,
       "comments_url": "https://news.ycombinator.com/item?id=50179455"
-    },
-    {
-      "title": "The Future of CSS",
-      "score": 488,
-      "url": "https://www.joshwcomeau.com/css/interop-2027/",
-      "time": 1792547248.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50175070"
-    },
-    {
-      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-      "score": 1358,
-      "url": "https://news-web.php.net/php.announce/509",
-      "time": 1792527350.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50172041"
-    },
-    {
-      "title": "Way to Play Super Mario 64: On Apple Vision Pro",
-      "score": 90,
-      "url": "https://www.pagetable.com/303",
-      "time": 1792401694.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50150214"
-    },
-    {
-      "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
-      "score": 188,
-      "url": "https://www.ncsc.nl/actueel",
-      "time": 1792585888.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50179828"
-    },
-    {
-      "title": "Show HN: SimCity, but with Permits",
-      "score": 861,
-      "url": "https://permit.petercai.com/",
-      "time": 1792520949.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50170593"
-    },
-    {
-      "title": "Muse exposes users' personal and business secrets when they share conversations",
-      "score": 263,
-      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-      "time": 1792543559.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50174687"
-    },
-    {
-      "title": "eMudhra intermediate CA compromise",
-      "score": 1100,
-      "url": "https://emudhra.we-have-a-problem.com/",
-      "time": 1792504713.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50166579"
-    },
-    {
-      "title": "The Decoherence Trap",
-      "score": 96,
-      "url": "https://maevyn.codes/decoherence",
-      "time": 1792398944.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50149861"
-    },
-    {
-      "title": "Voxtral 3",
-      "score": 731,
-      "url": "https://mistral.ai/news/voxtral-3/",
-      "time": 1792512127.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50168396"
-    },
-    {
-      "title": "The Lucrative World of Literary Scams",
-      "score": 26,
-      "url": "https://www.thedial.world/articles/news/ai-book-scams",
-      "time": 1792410215.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50151175"
     }
   ]
 }
