@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-10-21T04:07:18.245191-04:00",
+  "last_updated": "2026-10-21T10:14:11.068530-04:00",
   "stories": [
     {
+      "title": "Updated PHP version released to GitHub",
+      "score": 169,
+      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "time": 1792590333.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50180873"
+    },
+    {
+      "title": "PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out",
+      "score": 128,
+      "url": "https://www.php.net/index.php",
+      "time": 1792590605.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50180943"
+    },
+    {
+      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "score": 445,
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "time": 1792573688.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50177916"
+    },
+    {
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "score": 38,
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "time": 1792590199.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50180836"
+    },
+    {
+      "title": "OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns",
+      "score": 16,
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "time": 1792591423.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50181175"
+    },
+    {
+      "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
+      "score": 129,
+      "url": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
+      "time": 1792585359.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50179706"
+    },
+    {
+      "title": "Most advice is right for the person giving it",
+      "score": 37,
+      "url": "https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/",
+      "time": 1792588653.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50180444"
+    },
+    {
+      "title": "LayerFS: The filesystem for AI coding agents",
+      "score": 30,
+      "url": "https://layerfs.ai/",
+      "time": 1792586086.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50179857"
+    },
+    {
+      "title": "Whatever Happened to Fire Escapes",
+      "score": 101,
+      "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+      "time": 1792577683.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50178455"
+    },
+    {
+      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+      "score": 1,
+      "url": "https://9mothers.com/careers",
+      "time": 1792584024.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50179455"
+    },
+    {
       "title": "The Future of CSS",
-      "score": 301,
+      "score": 488,
       "url": "https://www.joshwcomeau.com/css/interop-2027/",
       "time": 1792547248.0,
       "comments_url": "https://news.ycombinator.com/item?id=50175070"
     },
     {
+      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+      "score": 1358,
+      "url": "https://news-web.php.net/php.announce/509",
+      "time": 1792527350.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50172041"
+    },
+    {
+      "title": "Way to Play Super Mario 64: On Apple Vision Pro",
+      "score": 90,
+      "url": "https://www.pagetable.com/303",
+      "time": 1792401694.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50150214"
+    },
+    {
+      "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
+      "score": 188,
+      "url": "https://www.ncsc.nl/actueel",
+      "time": 1792585888.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50179828"
+    },
+    {
       "title": "Show HN: SimCity, but with Permits",
-      "score": 756,
+      "score": 861,
       "url": "https://permit.petercai.com/",
       "time": 1792520949.0,
       "comments_url": "https://news.ycombinator.com/item?id=50170593"
     },
     {
       "title": "Muse exposes users' personal and business secrets when they share conversations",
-      "score": 130,
+      "score": 263,
       "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
       "time": 1792543559.0,
       "comments_url": "https://news.ycombinator.com/item?id=50174687"
     },
     {
-      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-      "score": 600,
-      "url": "https://news-web.php.net/php.announce/509",
-      "time": 1792527350.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50172041"
-    },
-    {
-      "title": "Voxtral 3",
-      "score": 638,
-      "url": "https://mistral.ai/news/voxtral-3/",
-      "time": 1792512127.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50168396"
-    },
-    {
-      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-      "score": 186,
-      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-      "time": 1792534865.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50173487"
-    },
-    {
-      "title": "In Hilbert space, all things are quantumly possible",
-      "score": 80,
-      "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
-      "time": 1792548255.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50175185"
-    },
-    {
       "title": "eMudhra intermediate CA compromise",
-      "score": 891,
+      "score": 1100,
       "url": "https://emudhra.we-have-a-problem.com/",
       "time": 1792504713.0,
       "comments_url": "https://news.ycombinator.com/item?id=50166579"
     },
     {
-      "title": "Composite objects and C++26 the std:polymorphic type",
-      "score": 17,
-      "url": "https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/",
-      "time": 1792389283.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50148845"
+      "title": "The Decoherence Trap",
+      "score": 96,
+      "url": "https://maevyn.codes/decoherence",
+      "time": 1792398944.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50149861"
     },
     {
-      "title": "Good type against all odds",
-      "score": 103,
-      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
-      "time": 1792547107.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50175059"
+      "title": "Voxtral 3",
+      "score": 731,
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "time": 1792512127.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50168396"
     },
     {
-      "title": "Battlezone Online: BZFlag in the Browser",
-      "score": 25,
-      "url": "https://github.com/timriker/bzo",
-      "time": 1792559119.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50176298"
-    },
-    {
-      "title": "The Other Epidemic: Trying to get off benzodiazepines",
-      "score": 170,
-      "url": "https://www.thebeliever.net/the-other-epidemic/",
-      "time": 1792537449.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50173891"
-    },
-    {
-      "title": "ZX Spectrum Next Laptop",
-      "score": 55,
-      "url": "https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2",
-      "time": 1792378091.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50147799"
-    },
-    {
-      "title": "Setting Up SSH Keys on macOS with Touch ID",
-      "score": 34,
-      "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
-      "time": 1792554685.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50175882"
-    },
-    {
-      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-      "score": 329,
-      "url": "https://github.com/google-pytorch/torch_tpu",
-      "time": 1792514424.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50169053"
-    },
-    {
-      "title": "Four Years with Decker",
-      "score": 27,
-      "url": "https://beyondloom.com/blog/fouryearsdecker.html",
-      "time": 1792498682.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50165215"
-    },
-    {
-      "title": "Pillowfort Is Closing",
-      "score": 35,
-      "url": "https://www.pillowfort.social/posts/8413273",
-      "time": 1792559137.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50176301"
-    },
-    {
-      "title": "What shall I teach my son?",
-      "score": 373,
-      "url": "https://stevekrouse.com/ends",
-      "time": 1792517107.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50169707"
-    },
-    {
-      "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
-      "score": 247,
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
-      "time": 1792091374.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50108717"
-    },
-    {
-      "title": "Borrow Checking Zero-Cost Cyclic Mutability",
-      "score": 28,
-      "url": "https://antelang.org/blog/safe_cyclic_mutability/",
-      "time": 1792414062.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50151771"
+      "title": "The Lucrative World of Literary Scams",
+      "score": 26,
+      "url": "https://www.thedial.world/articles/news/ai-book-scams",
+      "time": 1792410215.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50151175"
     }
   ]
 }
