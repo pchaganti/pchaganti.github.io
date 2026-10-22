@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-10-21T22:33:04.856148-04:00",
+  "last_updated": "2026-10-22T04:07:34.820092-04:00",
   "stories": [
     {
-      "title": "mitmproxy adds --emudhra option",
-      "score": 231,
-      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-      "time": 1792626697.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50189232"
+      "title": "OpenAI CLI",
+      "score": 77,
+      "url": "https://github.com/openai/openai-cli",
+      "time": 1792646591.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50191507"
+    },
+    {
+      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+      "score": 176,
+      "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+      "time": 1792636252.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50190455"
+    },
+    {
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "score": 123,
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "time": 1792635521.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50190363"
     },
     {
       "title": "There isn't an easy exploit for this PHP vulnerability",
-      "score": 186,
+      "score": 483,
       "url": "https://eliastaylor.com/noexploit/",
       "time": 1792624407.0,
       "comments_url": "https://news.ycombinator.com/item?id=50188948"
     },
     {
-      "title": "Security Disclosure",
-      "score": 328,
-      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "time": 1792619883.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50188228"
-    },
-    {
-      "title": "GitLab Critical Patch Release",
-      "score": 257,
+      "title": "GitLab critical patch release",
+      "score": 331,
       "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
       "time": 1792609272.0,
       "comments_url": "https://news.ycombinator.com/item?id=50185869"
     },
     {
-      "title": "Rust Style Guide",
-      "score": 218,
-      "url": "https://google.github.io/styleguide/rustguide.html",
-      "time": 1792609917.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50186010"
-    },
-    {
-      "title": "LLM Agents Play Pokemon Showdown",
-      "score": 7,
-      "url": "https://olivergrabner.com/research/pokemon/",
-      "time": 1792635228.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50190334"
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "score": 71,
+      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "time": 1792556871.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50176082"
     },
     {
       "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "score": 445,
+      "score": 496,
       "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
       "time": 1792591226.0,
       "comments_url": "https://news.ycombinator.com/item?id=50181114"
     },
     {
-      "title": "Chain of Thought for Humans",
-      "score": 36,
-      "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
-      "time": 1792425982.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50154100"
+      "title": "Security Disclosure",
+      "score": 435,
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "time": 1792619883.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50188228"
+    },
+    {
+      "title": "Rust Style Guide",
+      "score": 286,
+      "url": "https://google.github.io/styleguide/rustguide.html",
+      "time": 1792609917.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50186010"
+    },
+    {
+      "title": "A Markdown File Should Just Open",
+      "score": 11,
+      "url": "https://joshuamorris.info/notes/2026/10/13/a-markdown-file-should-just-open/",
+      "time": 1792653712.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50192254"
     },
     {
       "title": "No more icons in every menu by default",
-      "score": 193,
+      "score": 285,
       "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
       "time": 1792470428.0,
       "comments_url": "https://news.ycombinator.com/item?id=50161346"
     },
     {
-      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-      "score": 394,
-      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-      "time": 1792604713.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50184820"
-    },
-    {
-      "title": "Today's PHP security release, and how we're strengthening security",
-      "score": 688,
-      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-      "time": 1792597736.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50182987"
-    },
-    {
-      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
-      "score": 161,
-      "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
-      "time": 1792477254.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50162044"
-    },
-    {
-      "title": "Code is clay now",
-      "score": 100,
-      "url": "https://www.albertodenia.com/writing/code-is-clay-now",
-      "time": 1792423185.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50153531"
-    },
-    {
       "title": "PingCap TiDB Leaks",
-      "score": 221,
+      "score": 315,
       "url": "https://fulcrumsec.vg/pingcap/",
       "time": 1792536339.0,
       "comments_url": "https://news.ycombinator.com/item?id=50173716"
     },
     {
+      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "score": 513,
+      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "time": 1792604713.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50184820"
+    },
+    {
       "title": "Beyond the &",
-      "score": 12,
+      "score": 54,
       "url": "https://lwn.net/Articles/1096028/",
       "time": 1792504751.0,
       "comments_url": "https://news.ycombinator.com/item?id=50166590"
     },
     {
+      "title": "mitmproxy adds --emudhra option",
+      "score": 426,
+      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "time": 1792626697.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50189232"
+    },
+    {
+      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+      "score": 198,
+      "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
+      "time": 1792477254.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50162044"
+    },
+    {
       "title": "OpenAI models are coming to Google Cloud",
-      "score": 245,
+      "score": 285,
       "url": "https://openai.com/index/openai-models-google-cloud/",
       "time": 1792587191.0,
       "comments_url": "https://news.ycombinator.com/item?id=50180079"
     },
     {
-      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-      "score": 237,
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-      "time": 1792591423.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50181175"
+      "title": "ThinkPad I9990303 Error Catch-22",
+      "score": 19,
+      "url": "http://www.os2museum.com/wp/thinkpad-i9990303-error-catch-22/",
+      "time": 1792469770.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50161283"
     },
     {
-      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
-      "score": 372,
-      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-      "time": 1792591282.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50181136"
+      "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+      "score": 70,
+      "url": "https://github.com/omnara-ai/omnara",
+      "time": 1792601093.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50183892"
     },
     {
-      "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
-      "score": 140,
-      "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
-      "time": 1792455243.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50159726"
-    },
-    {
-      "title": "EA is shutting down BioWare",
-      "score": 545,
-      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-      "time": 1792603773.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50184586"
+      "title": "What Is the Karakoram Anomaly?",
+      "score": 18,
+      "url": "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
+      "time": 1792459613.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50160241"
     }
   ]
 }
