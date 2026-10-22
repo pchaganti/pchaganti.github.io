@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-10-21T19:48:51.990108-04:00",
+  "last_updated": "2026-10-21T22:33:04.856148-04:00",
   "stories": [
     {
-      "title": "Railway Security Disclosure",
-      "score": 218,
+      "title": "mitmproxy adds --emudhra option",
+      "score": 231,
+      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "time": 1792626697.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50189232"
+    },
+    {
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "score": 186,
+      "url": "https://eliastaylor.com/noexploit/",
+      "time": 1792624407.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50188948"
+    },
+    {
+      "title": "Security Disclosure",
+      "score": 328,
       "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
       "time": 1792619883.0,
       "comments_url": "https://news.ycombinator.com/item?id=50188228"
     },
     {
-      "title": "Today's PHP security release, and how we're strengthening security",
-      "score": 637,
-      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-      "time": 1792597736.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50182987"
-    },
-    {
       "title": "GitLab Critical Patch Release",
-      "score": 214,
+      "score": 257,
       "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
       "time": 1792609272.0,
       "comments_url": "https://news.ycombinator.com/item?id=50185869"
     },
     {
-      "title": "Google's Rust Style Guide",
-      "score": 160,
+      "title": "Rust Style Guide",
+      "score": 218,
       "url": "https://google.github.io/styleguide/rustguide.html",
       "time": 1792609917.0,
       "comments_url": "https://news.ycombinator.com/item?id=50186010"
     },
     {
+      "title": "LLM Agents Play Pokemon Showdown",
+      "score": 7,
+      "url": "https://olivergrabner.com/research/pokemon/",
+      "time": 1792635228.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50190334"
+    },
+    {
       "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "score": 409,
+      "score": 445,
       "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
       "time": 1792591226.0,
       "comments_url": "https://news.ycombinator.com/item?id=50181114"
     },
     {
-      "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
-      "score": 817,
-      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-      "time": 1792573688.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50177916"
+      "title": "Chain of Thought for Humans",
+      "score": 36,
+      "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
+      "time": 1792425982.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50154100"
     },
     {
-      "title": "No More Icons in Every Menu by Default",
-      "score": 119,
+      "title": "No more icons in every menu by default",
+      "score": 193,
       "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
       "time": 1792470428.0,
       "comments_url": "https://news.ycombinator.com/item?id=50161346"
     },
     {
-      "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
-      "score": 117,
-      "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
-      "time": 1792455243.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50159726"
-    },
-    {
       "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-      "score": 311,
+      "score": 394,
       "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
       "time": 1792604713.0,
       "comments_url": "https://news.ycombinator.com/item?id=50184820"
     },
     {
-      "title": "Claude Duet",
-      "score": 286,
-      "url": "https://claude.com/product/claude-duet",
-      "time": 1792610041.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50186037"
-    },
-    {
-      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
-      "score": 351,
-      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-      "time": 1792591282.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50181136"
-    },
-    {
-      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-      "score": 223,
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-      "time": 1792591423.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50181175"
+      "title": "Today's PHP security release, and how we're strengthening security",
+      "score": 688,
+      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "time": 1792597736.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50182987"
     },
     {
       "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
-      "score": 138,
+      "score": 161,
       "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
       "time": 1792477254.0,
       "comments_url": "https://news.ycombinator.com/item?id=50162044"
     },
     {
       "title": "Code is clay now",
-      "score": 60,
+      "score": 100,
       "url": "https://www.albertodenia.com/writing/code-is-clay-now",
       "time": 1792423185.0,
       "comments_url": "https://news.ycombinator.com/item?id=50153531"
     },
     {
-      "title": "EA is shutting down BioWare",
-      "score": 479,
-      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-      "time": 1792603773.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50184586"
+      "title": "PingCap TiDB Leaks",
+      "score": 221,
+      "url": "https://fulcrumsec.vg/pingcap/",
+      "time": 1792536339.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50173716"
+    },
+    {
+      "title": "Beyond the &",
+      "score": 12,
+      "url": "https://lwn.net/Articles/1096028/",
+      "time": 1792504751.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50166590"
     },
     {
       "title": "OpenAI models are coming to Google Cloud",
-      "score": 215,
+      "score": 245,
       "url": "https://openai.com/index/openai-models-google-cloud/",
       "time": 1792587191.0,
       "comments_url": "https://news.ycombinator.com/item?id=50180079"
     },
     {
-      "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
-      "score": 164,
-      "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
-      "time": 1792596004.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50182526"
+      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+      "score": 237,
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "time": 1792591423.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50181175"
     },
     {
-      "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
-      "score": 92,
-      "url": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
-      "time": 1792617179.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50187708"
+      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+      "score": 372,
+      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+      "time": 1792591282.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50181136"
     },
     {
-      "title": "The Rise and Fall of the Plasma Screen",
-      "score": 15,
-      "url": "https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen",
-      "time": 1792419604.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50152847"
+      "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
+      "score": 140,
+      "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
+      "time": 1792455243.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50159726"
     },
     {
-      "title": "PHP 8.2.35",
-      "score": 955,
-      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-      "time": 1792590333.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50180873"
+      "title": "EA is shutting down BioWare",
+      "score": 545,
+      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+      "time": 1792603773.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50184586"
     }
   ]
 }
