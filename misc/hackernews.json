@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-10-27T11:01:30.305237-04:00",
+  "last_updated": "2026-10-27T17:36:40.473341-04:00",
   "stories": [
     {
-      "title": "PHP2Shell: Exploitation Attempts and Remediation Trends",
-      "score": 72,
-      "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
-      "time": 1793109132.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50259343"
+      "title": "Genie 4",
+      "score": 566,
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "time": 1793117161.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50261319"
     },
     {
-      "title": "Python's experimental JIT to be removed",
-      "score": 189,
-      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-      "time": 1793099877.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50257419"
+      "title": "Ghostty 1.4.0",
+      "score": 512,
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "time": 1793119882.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50261998"
     },
     {
-      "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "score": 174,
-      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "time": 1793099295.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50257326"
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "score": 98,
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "time": 1793130921.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50264857"
     },
     {
-      "title": "AI promised less work. I've never worked more",
-      "score": 355,
-      "url": "https://oioannou.com/blog/ai-promised-less-work/",
-      "time": 1793099294.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50257325"
+      "title": "Early progress on accelerating drug development with Claude",
+      "score": 28,
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "time": 1793134242.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50265609"
     },
     {
-      "title": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?",
-      "score": 41,
-      "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
-      "time": 1793107402.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50258868"
+      "title": "New 14‑inch MacBook Pro with M6",
+      "score": 203,
+      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "time": 1793117312.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50261352"
+    },
+    {
+      "title": "Classification of Finite Simple Groups Formalized in Lean",
+      "score": 135,
+      "url": "https://cfsg.axiommath.ai/",
+      "time": 1793118542.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50261647"
+    },
+    {
+      "title": "An examination of lost firefly species of the US and Canada",
+      "score": 37,
+      "url": "https://journaloflostspecies.org/index.php/jls/article/view/37/33",
+      "time": 1792868682.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50224079"
     },
     {
       "title": "New iMac with M6",
-      "score": 78,
+      "score": 267,
       "url": "https://www.apple.com/imac/",
       "time": 1793106122.0,
       "comments_url": "https://news.ycombinator.com/item?id=50258538"
     },
     {
-      "title": "Software may be getting worse, but it used to be horrible",
-      "score": 175,
-      "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
-      "time": 1793100635.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50257548"
+      "title": "Python's experimental JIT to be removed",
+      "score": 393,
+      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+      "time": 1793099877.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50257419"
     },
     {
-      "title": "Three new discoveries in mathematics, computer science, and physics",
-      "score": 1040,
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-      "time": 1793050528.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50251344"
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "score": 68,
+      "url": "https://www.brangus.io/survival-llm",
+      "time": 1793130906.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50264853"
     },
     {
-      "title": "The US Government Is Hiding Secret Court Ruling About How It Spies on Americans",
-      "score": 67,
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "score": 402,
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "time": 1793099295.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50257326"
+    },
+    {
+      "title": "Three TLS Bugs in GoAhead",
+      "score": 38,
+      "url": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
+      "time": 1793126028.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50263701"
+    },
+    {
+      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+      "score": 8,
+      "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+      "time": 1793134129.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50265594"
+    },
+    {
+      "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+      "score": 82,
+      "url": "https://www.liquid.ai/blog/lfm3",
+      "time": 1793120690.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50262229"
+    },
+    {
+      "title": "Four Months of Zig",
+      "score": 15,
+      "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
+      "time": 1793132007.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50265128"
+    },
+    {
+      "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+      "score": 658,
       "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
       "time": 1793110002.0,
       "comments_url": "https://news.ycombinator.com/item?id=50259604"
     },
     {
-      "title": "The Mythical Man-Month in the Age of AI",
-      "score": 310,
-      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-      "time": 1793082337.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50255298"
-    },
-    {
-      "title": "Gforth 1.0",
-      "score": 82,
-      "url": "https://gforth.org/manual/1.0/NEWS.html",
-      "time": 1793096601.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50256952"
-    },
-    {
       "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
-      "score": 12,
+      "score": 116,
       "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
       "time": 1793027104.0,
       "comments_url": "https://news.ycombinator.com/item?id=50245014"
     },
     {
-      "title": "Giving chat feedback gives Anthropic your data",
-      "score": 55,
-      "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
-      "time": 1793109375.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50259406"
+      "title": "One year of Dioxus fullstack in production: the good, the painful",
+      "score": 3,
+      "url": "https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful",
+      "time": 1793135955.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50265960"
     },
     {
-      "title": "The Exponential Time Hypothesis Is False [pdf]",
-      "score": 718,
-      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-      "time": 1793051955.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50251661"
+      "title": "Land Value Capture in Practice: Ethiopia's Urban Land Lease System",
+      "score": 8,
+      "url": "https://blog.landeconomics.org/p/land-value-capture-in-practice-reflections",
+      "time": 1793020804.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50243153"
     },
     {
-      "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
-      "score": 363,
-      "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
-      "time": 1793096870.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50256985"
-    },
-    {
-      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-      "score": 783,
-      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-      "time": 1793027519.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50245138"
-    },
-    {
-      "title": "A Stackless Floodfill Automaton",
-      "score": 4,
-      "url": "https://t3x.org/files/floodfill.pdf",
-      "time": 1792959537.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50235661"
-    },
-    {
-      "title": "Oldest GUI application that still runs on Windows 11",
-      "score": 493,
-      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-      "time": 1793037415.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50248055"
-    },
-    {
-      "title": "188-Year-Old Mystery of Photography's First Human Subjects Solved",
-      "score": 24,
-      "url": "https://news.artnet.com/art-world/daguerre-photograph-subjects-location-2826596",
-      "time": 1792846242.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50220782"
-    },
-    {
-      "title": "Kauldron: Modular, scalable library to train ML models",
-      "score": 16,
-      "url": "https://github.com/google-research/kauldron",
-      "time": 1792958013.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50235449"
+      "title": "Here be monsters: What do you still need to know when agents do the work?",
+      "score": 130,
+      "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+      "time": 1793107402.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50258868"
     }
   ]
 }
