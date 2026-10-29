@@ -1,54 +1,131 @@
 {
-  "last_updated": "2026-10-28T18:00:37.827701-04:00",
+  "last_updated": "2026-10-28T23:34:46.300359-04:00",
   "stories": [
     {
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "score": 168,
+      "url": "https://divagr.com/blog/qwenputer",
+      "time": 1793233545.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50282838"
+    },
+    {
       "title": "Why is this fingerprinting script creating bioweapons?",
-      "score": 510,
+      "score": 927,
       "url": "https://nullpt.rs/fingerprinting-bioweapons",
       "time": 1793207609.0,
       "comments_url": "https://news.ycombinator.com/item?id=50276998"
     },
     {
-      "title": "Gemini 4 Carbon",
-      "score": 677,
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-      "time": 1793206883.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50276792"
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "score": 108,
+      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "time": 1793231146.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50282544"
+    },
+    {
+      "title": "A Health Update",
+      "score": 137,
+      "url": "https://furbo.org/2026/10/28/a-health-update/",
+      "time": 1793222001.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50280974"
     },
     {
       "title": "CNC Stone Carving",
-      "score": 345,
+      "score": 423,
       "url": "https://carmelitegothic.com/cnc-stone-carving/",
       "time": 1793198302.0,
       "comments_url": "https://news.ycombinator.com/item?id=50274409"
     },
     {
+      "title": "Human-enhanced tsunami hazard in large lakes",
+      "score": 11,
+      "url": "https://www.nature.com/articles/s41467-026-78272-8",
+      "time": 1793019603.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50242873"
+    },
+    {
+      "title": "Gemini 4 Carbon",
+      "score": 836,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "time": 1793206883.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50276792"
+    },
+    {
       "title": "Formlabs Studio 1 $699 Resin Printer",
-      "score": 41,
+      "score": 141,
       "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
       "time": 1793222370.0,
       "comments_url": "https://news.ycombinator.com/item?id=50281044"
     },
     {
-      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-      "score": 164,
-      "url": "https://surgehq.ai/blog/dayjob-tax",
-      "time": 1793202390.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50275626"
+      "title": "Richest 0.1% (8M) produce more carbon pollution than 3.5B",
+      "score": 14,
+      "url": "https://www.oxfam.org/en/press-releases/ultra-rich-01-produce-more-carbon-pollution-nearly-half-humanity-while-cashing",
+      "time": 1793242917.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50284089"
     },
     {
-      "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
-      "score": 96,
-      "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
-      "time": 1793221404.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50280864"
+      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+      "score": 454,
+      "url": "https://www.circuithub.com/post/unveiling-the-grid",
+      "time": 1793020411.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50243060"
+    },
+    {
+      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "score": 156,
+      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+      "time": 1793230502.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50282454"
     },
     {
       "title": "MacBook Pro with PROLED XDR Display and Touch",
-      "score": 429,
+      "score": 520,
       "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
       "time": 1793207437.0,
       "comments_url": "https://news.ycombinator.com/item?id=50276940"
+    },
+    {
+      "title": "Nixpkgs for the Front End Impaired",
+      "score": 18,
+      "url": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
+      "time": 1793026805.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50244929"
+    },
+    {
+      "title": "Why birds can fly over Mount Everest (2020)",
+      "score": 97,
+      "url": "https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864",
+      "time": 1792847879.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50220975"
+    },
+    {
+      "title": "The case of the 9 bit AES key",
+      "score": 95,
+      "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+      "time": 1793220704.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50280722"
+    },
+    {
+      "title": "How we made our MMDB files a 33% smaller",
+      "score": 19,
+      "url": "https://ipinfo.io/blog/how-made-mmdb-files-smaller",
+      "time": 1792949582.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50233948"
+    },
+    {
+      "title": "AlpineBSD",
+      "score": 184,
+      "url": "https://wiki.alpinebsd.org",
+      "time": 1793197826.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50274251"
+    },
+    {
+      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "score": 213,
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "time": 1793202390.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50275626"
     },
     {
       "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
@@ -58,88 +135,11 @@
       "comments_url": "https://news.ycombinator.com/item?id=50280824"
     },
     {
-      "title": "The case of the 9 bit AES key",
-      "score": 17,
-      "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
-      "time": 1793220704.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50280722"
-    },
-    {
-      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
-      "score": 369,
-      "url": "https://www.circuithub.com/post/unveiling-the-grid",
-      "time": 1793020411.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50243060"
-    },
-    {
-      "title": "Start Doing Graph Theory",
-      "score": 523,
-      "url": "https://vertex.degree/",
-      "time": 1792763390.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50208960"
-    },
-    {
-      "title": "AlpineBSD",
-      "score": 145,
-      "url": "https://wiki.alpinebsd.org",
-      "time": 1793197826.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50274251"
-    },
-    {
-      "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
-      "score": 27,
-      "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
-      "time": 1793209524.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50277755"
-    },
-    {
       "title": "Apple's git still trusts the compromised eMudhra certificates",
-      "score": 974,
+      "score": 1066,
       "url": "https://emudhra.we-have-a-problem.com/apple.html",
       "time": 1793185420.0,
       "comments_url": "https://news.ycombinator.com/item?id=50271640"
-    },
-    {
-      "title": "The tragedy of losing your Wikipedia page",
-      "score": 13,
-      "url": "https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/",
-      "time": 1793034958.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50247342"
-    },
-    {
-      "title": "Gaussian Splats part 3: There's always a bigger scene",
-      "score": 87,
-      "url": "https://www.magnopus.com/blog/gaussiansplats-part-3-theres-always-a-bigger-scene",
-      "time": 1792764441.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50209269"
-    },
-    {
-      "title": "The Agent SDK",
-      "score": 78,
-      "url": "https://cursor.com/blog/agent-sdk",
-      "time": 1793196140.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50273731"
-    },
-    {
-      "title": "Rubber Duck I've Ever Had",
-      "score": 9,
-      "url": "https://blog.blockingqueue.com/the-best-rubber-duck-i-ve-ever-had",
-      "time": 1793016770.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50242358"
-    },
-    {
-      "title": "Show HN: SlideBySide – Present slides without sharing your screen",
-      "score": 42,
-      "url": "https://slidebyside.com/",
-      "time": 1793207229.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50276883"
-    },
-    {
-      "title": "Google AI gets cagey when asked who won the 2020 elections",
-      "score": 66,
-      "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-      "time": 1793218216.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50280178"
     }
   ]
 }
