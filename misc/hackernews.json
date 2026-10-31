@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-10-31T12:32:36.237003-04:00",
+  "last_updated": "2026-10-31T16:48:18.792116-04:00",
   "stories": [
     {
-      "title": "Malware uses LLMs to rank victims by how much they're worth",
-      "score": 60,
-      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-      "time": 1793456943.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50316531"
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "score": 70,
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "time": 1793476613.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50319510"
+    },
+    {
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "score": 99,
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "time": 1793474190.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50319143"
+    },
+    {
+      "title": "The Duty of a Scholar",
+      "score": 46,
+      "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+      "time": 1793473656.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50319061"
+    },
+    {
+      "title": "It's the Memory Latency, Stupid",
+      "score": 40,
+      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+      "time": 1793471896.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50318720"
+    },
+    {
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "score": 93,
+      "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+      "time": 1793472634.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50318871"
     },
     {
       "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
-      "score": 179,
+      "score": 270,
       "url": "https://piefed.world/post/1503394",
       "time": 1793442221.0,
       "comments_url": "https://news.ycombinator.com/item?id=50314666"
     },
     {
-      "title": "Casio Watches of the 1980s",
-      "score": 13,
-      "url": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
-      "time": 1793462448.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50317363"
+      "title": "Jepsen: ParticleDB 1.1.4",
+      "score": 121,
+      "url": "https://jepsen.io/analyses/particledb-1.1.4",
+      "time": 1793453992.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50316100"
     },
     {
-      "title": "We Took over ChatGPT Accounts",
-      "score": 194,
+      "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+      "score": 10,
+      "url": "https://epoyraz.github.io/nes-contra-us/",
+      "time": 1793474328.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50319169"
+    },
+    {
+      "title": "Do the math: How we took over ChatGPT accounts",
+      "score": 281,
       "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
       "time": 1793442611.0,
       "comments_url": "https://news.ycombinator.com/item?id=50314699"
     },
     {
-      "title": "Serbia just elected the world's brainiest parliament",
-      "score": 600,
-      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-      "time": 1793442090.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50314654"
+      "title": "Much Ado About None: Sentinel Values in Python",
+      "score": 15,
+      "url": "https://florianwilhelm.info/2026/10/sentinel_values/",
+      "time": 1793312696.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50297068"
     },
     {
-      "title": "Switch Lowering in GCC",
-      "score": 138,
-      "url": "https://xoranth.net/gcc-switch/",
-      "time": 1793433746.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50314085"
+      "title": "GPT-6.1 Terra",
+      "score": 3,
+      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+      "time": 1793478737.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50319873"
+    },
+    {
+      "title": "Show HN: A language model that lives in a boot sector",
+      "score": 17,
+      "url": "https://github.com/kerlenton/bootgpt",
+      "time": 1793451509.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50315782"
+    },
+    {
+      "title": "Redox: Ring Buffers Project Summary",
+      "score": 35,
+      "url": "https://www.redox-os.org/news/nlnet-rb-summary/",
+      "time": 1793197632.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50274186"
+    },
+    {
+      "title": "Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference",
+      "score": 22,
+      "url": "https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/",
+      "time": 1793298820.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50293806"
+    },
+    {
+      "title": "5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet",
+      "score": 5,
+      "url": "https://oqtadrive.org/10.other/5-years/",
+      "time": 1793349003.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50301178"
+    },
+    {
+      "title": "William Nordhaus has died",
+      "score": 29,
+      "url": "https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale",
+      "time": 1793469581.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50318376"
     },
     {
       "title": "Simple circuits can create complex behaviors",
-      "score": 84,
+      "score": 172,
       "url": "https://aatishb.com/myriad/lets-build-a-brain/",
       "time": 1793116866.0,
       "comments_url": "https://news.ycombinator.com/item?id=50261253"
     },
     {
-      "title": "Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'",
-      "score": 43,
-      "url": "https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/",
-      "time": 1793458653.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50316760"
-    },
-    {
-      "title": "Digital minimalism",
-      "score": 185,
-      "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
-      "time": 1793427396.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50313661"
+      "title": "Switch Lowering in GCC",
+      "score": 179,
+      "url": "https://xoranth.net/gcc-switch/",
+      "time": 1793433746.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50314085"
     },
     {
       "title": "Reading and writing are less symmetric than you (probably) think",
-      "score": 18,
+      "score": 55,
       "url": "https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/",
       "time": 1793180287.0,
       "comments_url": "https://news.ycombinator.com/item?id=50271052"
     },
     {
-      "title": "Prospero: A new coding harness for a more civilized age",
-      "score": 115,
-      "url": "https://nullprogram.com/blog/2026/10/31/",
-      "time": 1793447699.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50315226"
-    },
-    {
-      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-      "score": 128,
-      "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
-      "time": 1793287788.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50290652"
-    },
-    {
-      "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
-      "score": 140,
-      "url": "https://zebra.rodeo/en/blog/marelleo/",
-      "time": 1793114676.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50260753"
-    },
-    {
-      "title": "Hunting 'Zombie Accounts' in Active Directory",
-      "score": 16,
-      "url": "https://www.fabian.fyi/2026/10/zombie-hunt.html",
-      "time": 1793310991.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50296700"
-    },
-    {
-      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
-      "score": 535,
-      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-      "time": 1793364601.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50303172"
-    },
-    {
-      "title": "My favourite PowerMac is a Nintendo Wii",
-      "score": 349,
-      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-      "time": 1793381115.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50307190"
-    },
-    {
-      "title": "Cloudflare Turnstile solver library (no headless browser required)",
-      "score": 275,
-      "url": "https://github.com/chris124567/cfsolve",
-      "time": 1793208563.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50277379"
-    },
-    {
-      "title": "Northflank Breached",
-      "score": 461,
-      "url": "https://status.northflank.com",
-      "time": 1793373031.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50305025"
-    },
-    {
-      "title": "Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector",
-      "score": 3,
-      "url": "https://github.com/4yk5/Ghostman",
-      "time": 1793346520.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50300902"
-    },
-    {
-      "title": "Breaking the open web won't stop the bad bots",
-      "score": 302,
-      "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
-      "time": 1793126575.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50263837"
+      "title": "Serbia just elected the world's brainiest parliament",
+      "score": 743,
+      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "time": 1793442090.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50314654"
     }
   ]
 }
