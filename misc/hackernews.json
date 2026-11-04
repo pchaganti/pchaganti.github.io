@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-11-04T05:10:32.860315-05:00",
+  "last_updated": "2026-11-04T14:06:43.683278-05:00",
   "stories": [
     {
-      "title": "Kitty 0.50",
-      "score": 92,
-      "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
-      "time": 1793782630.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50362980"
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "score": 778,
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "time": 1793793137.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50364336"
     },
     {
-      "title": "Nvidia DGX Spark encrypted firmware slows inference speed to 35% on Linux",
-      "score": 35,
+      "title": "Progress on provable inference for large language models",
+      "score": 89,
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "time": 1793812666.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50368626"
+    },
+    {
+      "title": "A New Go API for JSON",
+      "score": 39,
+      "url": "https://go.dev/blog/jsonv2",
+      "time": 1793814731.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50369106"
+    },
+    {
+      "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+      "score": 175,
+      "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+      "time": 1793804504.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50366522"
+    },
+    {
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "score": 490,
       "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
       "time": 1793781989.0,
       "comments_url": "https://news.ycombinator.com/item?id=50362905"
     },
     {
+      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+      "score": 19,
+      "url": "https://news.ycombinator.com/item?id=50368804",
+      "time": 1793813513.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50368804"
+    },
+    {
+      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+      "score": 263,
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+      "time": 1793806714.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50367125"
+    },
+    {
+      "title": "BYD doubles its Brazil market share to 9.7% a year after opening its local plant",
+      "score": 66,
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed",
+      "time": 1793814929.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50369146"
+    },
+    {
+      "title": "North Korean fake job interview led to $6.3B Binance heist",
+      "score": 411,
+      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+      "time": 1793801395.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50365755"
+    },
+    {
+      "title": "Show HN: I built a tool that prices a prebuilt PC part by part",
+      "score": 55,
+      "url": "https://pcdealcheck.com/",
+      "time": 1793805933.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50366929"
+    },
+    {
       "title": "Verification Is Not Knowledge: Science needs more than answers",
-      "score": 34,
+      "score": 191,
       "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
       "time": 1793782918.0,
       "comments_url": "https://news.ycombinator.com/item?id=50363019"
     },
     {
+      "title": "Tencent Hy4",
+      "score": 74,
+      "url": "https://hy.tencent.ai/research/hy4",
+      "time": 1793801486.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50365780"
+    },
+    {
+      "title": "Evergreen: A Provably Safe Systems Language",
+      "score": 67,
+      "url": "https://evergreenlang.net",
+      "time": 1793805904.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50366919"
+    },
+    {
+      "title": "Incident with Pull Requests, Git Operations and Issues",
+      "score": 222,
+      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+      "time": 1793786406.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50363378"
+    },
+    {
+      "title": "Kimi K3.1 Pro model weights are out",
+      "score": 192,
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "time": 1793806230.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50366999"
+    },
+    {
+      "title": "Conductor Is Joining Meta",
+      "score": 7,
+      "url": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta",
+      "time": 1793818053.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50369840"
+    },
+    {
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "score": 511,
+      "url": "https://news.ycombinator.com/item?id=50363461",
+      "time": 1793787027.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50363461"
+    },
+    {
+      "title": "This Month in Ladybird – October 2026",
+      "score": 43,
+      "url": "https://ladybird.org/newsletter/2026-10-31/",
+      "time": 1793815175.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50369194"
+    },
+    {
+      "title": "Education Shouldn't Be Held for Ransom",
+      "score": 5,
+      "url": "https://blog.kagi.com/education-should-not-be-held-for-ransom",
+      "time": 1793817226.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50369657"
+    },
+    {
       "title": "Jelly Sheet",
-      "score": 247,
+      "score": 412,
       "url": "https://mrdoob.github.io/codevember-2026/01/",
       "time": 1793763650.0,
       "comments_url": "https://news.ycombinator.com/item?id=50361268"
-    },
-    {
-      "title": "Milkman – The Better Alternative to Postman",
-      "score": 11,
-      "url": "https://milkman.dev/",
-      "time": 1793782683.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50362993"
-    },
-    {
-      "title": "The lost malloc()",
-      "score": 45,
-      "url": "https://napcakes.nekoweb.org/posts/malloc/",
-      "time": 1793777850.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50362466"
-    },
-    {
-      "title": "Jailbreaking my car's navigation system just so I can change the time",
-      "score": 815,
-      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-      "time": 1793636959.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50339288"
-    },
-    {
-      "title": "Stringman, an $800 open-source room scale gripper robot",
-      "score": 601,
-      "url": "https://neufangled.com/",
-      "time": 1793724449.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50354358"
-    },
-    {
-      "title": "The Internals of PostgreSQL",
-      "score": 280,
-      "url": "https://www.interdb.jp/pg/index.html",
-      "time": 1793742666.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50358702"
-    },
-    {
-      "title": "C++26 Disapproved",
-      "score": 304,
-      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
-      "time": 1793752402.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50360164"
-    },
-    {
-      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-      "score": 65,
-      "url": "https://uncracked.city",
-      "time": 1793740803.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50358352"
-    },
-    {
-      "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
-      "score": 72,
-      "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
-      "time": 1793762413.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50361154"
-    },
-    {
-      "title": "Giant canyon on Mars is still tectonically active",
-      "score": 90,
-      "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
-      "time": 1793756442.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50360573"
-    },
-    {
-      "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
-      "score": 336,
-      "url": "https://hackertv.org",
-      "time": 1793668689.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50346755"
-    },
-    {
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "score": 472,
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "time": 1793628162.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50336918"
-    },
-    {
-      "title": "Arrows to arrows, categories to queries (2025)",
-      "score": 53,
-      "url": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
-      "time": 1793761887.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50361107"
-    },
-    {
-      "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
-      "score": 191,
-      "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
-      "time": 1793593880.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50333131"
-    },
-    {
-      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "score": 624,
-      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-      "time": 1793727600.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50355251"
-    },
-    {
-      "title": "Safari introduces Adaptive Dark Mode in 27.3",
-      "score": 438,
-      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-      "time": 1793741945.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50358562"
-    },
-    {
-      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "score": 1282,
-      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-      "time": 1793726557.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50354960"
     }
   ]
 }
