@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-11-05T20:16:22.164297-05:00",
+  "last_updated": "2026-11-06T05:08:25.692291-05:00",
   "stories": [
     {
+      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "score": 152,
+      "url": "https://github.com/ppmpreetham/BUI",
+      "time": 1793950835.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50389333"
+    },
+    {
       "title": "Claude Code sends your email address to websites",
-      "score": 445,
+      "score": 1144,
       "url": "https://github.com/anthropics/claude-code/issues/107757",
       "time": 1793917035.0,
       "comments_url": "https://news.ycombinator.com/item?id=50385272"
     },
     {
-      "title": "Search for everyone",
-      "score": 496,
-      "url": "https://kagi.com/changelog#11820",
-      "time": 1793909014.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50383740"
-    },
-    {
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "score": 295,
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-      "time": 1793911422.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50384233"
-    },
-    {
       "title": "sshole",
-      "score": 2296,
+      "score": 2705,
       "url": "https://sshhole.com",
       "time": 1793881142.0,
       "comments_url": "https://news.ycombinator.com/item?id=50378228"
     },
     {
-      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-      "score": 577,
-      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-      "time": 1793889860.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50379704"
+      "title": "Kugelblitz – Mac-Native Google Earth Alternative",
+      "score": 60,
+      "url": "https://apps.metaebene.me/en/kugelblitz",
+      "time": 1793951258.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50389370"
     },
     {
-      "title": "The Hackintosh Reborn",
-      "score": 192,
-      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
-      "time": 1793905702.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50383057"
+      "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
+      "score": 32,
+      "url": "https://obelisk.club/research/app-store-2026",
+      "time": 1793951959.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50389448"
+    },
+    {
+      "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
+      "score": 41,
+      "url": "https://worldstrike.fun/",
+      "time": 1793951748.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50389420"
+    },
+    {
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "score": 549,
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "time": 1793911422.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50384233"
+    },
+    {
+      "title": "Pwn.college",
+      "score": 153,
+      "url": "https://pwn.college/",
+      "time": 1793935634.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50387796"
+    },
+    {
+      "title": "Nvidia Kubernetes Engine (NVKE)",
+      "score": 77,
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "time": 1793934986.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50387738"
+    },
+    {
+      "title": "Hardcoded credentials and other issues in Tata Motors App",
+      "score": 20,
+      "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537",
+      "time": 1793950119.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50389260"
+    },
+    {
+      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+      "score": 86,
+      "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+      "time": 1793938669.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50388122"
     },
     {
       "title": "Inkling 2 Small",
-      "score": 35,
+      "score": 198,
       "url": "https://thinkingmachines.ai/news/inkling-2-small/",
       "time": 1793923224.0,
       "comments_url": "https://news.ycombinator.com/item?id=50386338"
     },
     {
+      "title": "The Hackintosh Reborn",
+      "score": 309,
+      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+      "time": 1793905702.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50383057"
+    },
+    {
       "title": "Window Sweaters",
-      "score": 238,
+      "score": 344,
       "url": "https://github.com/saragordic/window-sweaters",
       "time": 1793897414.0,
       "comments_url": "https://news.ycombinator.com/item?id=50381383"
     },
     {
-      "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-      "score": 77,
-      "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
-      "time": 1793910103.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50383963"
-    },
-    {
-      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-      "score": 73,
-      "url": "https://github.com/rivet-dev/rivet",
-      "time": 1793899062.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50381687"
-    },
-    {
-      "title": "Goodbye from Salon",
-      "score": 407,
-      "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
-      "time": 1793909009.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50383739"
-    },
-    {
-      "title": "Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data",
-      "score": 14,
-      "url": "https://www.fgc.org.br/comunicado",
-      "time": 1793921556.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50386104"
-    },
-    {
-      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-      "score": 145,
-      "url": "https://www.linum.ai/field-notes/pjit-21k",
-      "time": 1793810711.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50368208"
-    },
-    {
-      "title": "Motorola Signature 27 with GrapheneOS support",
-      "score": 397,
-      "url": "https://motorolanews.com/motorola-signature-27-2/",
-      "time": 1793894494.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50380810"
+      "title": "Britain to make salary disclosure in job ads mandatory",
+      "score": 170,
+      "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
+      "time": 1793949724.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50389222"
     },
     {
       "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
-      "score": 15,
+      "score": 118,
       "url": "https://firenook.dev/",
       "time": 1793884049.0,
       "comments_url": "https://news.ycombinator.com/item?id=50378643"
     },
     {
+      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+      "score": 96,
+      "url": "https://github.com/rivet-dev/rivet",
+      "time": 1793899062.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50381687"
+    },
+    {
+      "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
+      "score": 48,
+      "url": "https://github.com/matthewmrichter/mooftcp",
+      "time": 1793926455.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50386789"
+    },
+    {
+      "title": "Motorola Signature 27 with GrapheneOS support",
+      "score": 482,
+      "url": "https://motorolanews.com/motorola-signature-27-2/",
+      "time": 1793894494.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50380810"
+    },
+    {
       "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-      "score": 67,
+      "score": 334,
       "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
       "time": 1793920197.0,
       "comments_url": "https://news.ycombinator.com/item?id=50385870"
-    },
-    {
-      "title": "September in Servo: <progress>, rounded rectangles, and more",
-      "score": 183,
-      "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
-      "time": 1793889258.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50379576"
-    },
-    {
-      "title": "Download your favourite YouTube videos",
-      "score": 270,
-      "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
-      "time": 1793883611.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50378571"
-    },
-    {
-      "title": "I wish tech companies knew more about me",
-      "score": 294,
-      "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
-      "time": 1793886052.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50378942"
-    },
-    {
-      "title": "Introducing Pangram Image 1.0",
-      "score": 53,
-      "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
-      "time": 1793906872.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50383294"
     }
   ]
 }
