@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-11-07T22:29:40.213191-05:00",
+  "last_updated": "2026-11-08T07:28:45.540921-05:00",
   "stories": [
     {
+      "title": "Person of Interest",
+      "score": 66,
+      "url": "https://krthr.co/person-of-interest/",
+      "time": 1794137008.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50412318"
+    },
+    {
+      "title": "Petered (what happens after the Peter Principle)",
+      "score": 34,
+      "url": "https://aworkinglibrary.com/writing/petered",
+      "time": 1794135403.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50412152"
+    },
+    {
+      "title": "Goodbye Claude, Hello Pi",
+      "score": 377,
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "time": 1794107508.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50410107"
+    },
+    {
+      "title": "Clj.rs – a Clojure dialect implemented in Rust",
+      "score": 82,
+      "url": "https://clj.rs/",
+      "time": 1793805796.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50366902"
+    },
+    {
+      "title": "JIT bitmap text rendering for microcontrollers",
+      "score": 16,
+      "url": "https://linebender.org/blog/jit-bitmap-text/",
+      "time": 1794134535.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50412072"
+    },
+    {
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "score": 9,
+      "url": "https://github.com/synchopate/llama-modchip",
+      "time": 1794133324.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50411961"
+    },
+    {
+      "title": "Agent memory needs its OpenTelemetry moment",
+      "score": 65,
+      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+      "time": 1794127223.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50411467"
+    },
+    {
       "title": "What I run on my $10 USD OpenStick homelab",
-      "score": 389,
+      "score": 625,
       "url": "https://blog.bosscher.ch/posts/openstick/",
       "time": 1794075132.0,
       "comments_url": "https://news.ycombinator.com/item?id=50406670"
     },
     {
       "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "score": 218,
+      "score": 438,
       "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
       "time": 1794084332.0,
       "comments_url": "https://news.ycombinator.com/item?id=50407882"
     },
     {
-      "title": "Making any integer with four 2s (2025)",
-      "score": 75,
-      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-      "time": 1794091138.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50408713"
+      "title": "Finding Xanadu: Inside a JRPG classic translation 15 years in the making",
+      "score": 33,
+      "url": "https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of/",
+      "time": 1793886247.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50378974"
     },
     {
-      "title": "Uranium cubes reveal why the German nuclear project failed",
-      "score": 79,
-      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
-      "time": 1793875924.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50377661"
+      "title": "New typeface using intricate designs from Shakespeare's First Folio (2023)",
+      "score": 17,
+      "url": "https://www.itsnicethat.com/news/typeland-shakespeares-globe-amifer-folio-graphic-design-090323",
+      "time": 1793825634.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50371360"
     },
     {
-      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-      "score": 202,
-      "url": "https://github.com/hedgerow-dev/coldframe",
-      "time": 1794072450.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50406292"
+      "title": "Earliest evidence of cannabis use found in ancient Siberian tomb",
+      "score": 12,
+      "url": "https://www.cnn.com/2026/11/05/science/ancient-cannabis-siberia-scli-intl",
+      "time": 1793932028.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50387381"
     },
     {
       "title": "Need for Speed Underground 2 online in the browser",
-      "score": 843,
+      "score": 1019,
       "url": "https://nfsu2.xyz/",
       "time": 1794044196.0,
       "comments_url": "https://news.ycombinator.com/item?id=50403052"
     },
     {
-      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-      "score": 219,
-      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-      "time": 1794071940.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50406222"
+      "title": "Making any integer with four 2s (2025)",
+      "score": 156,
+      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+      "time": 1794091138.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50408713"
     },
     {
-      "title": "GitHub New pull request overview page in public preview",
-      "score": 80,
-      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
-      "time": 1794092980.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50408931"
+      "title": "Consumer brain wave headsets threaten privacy",
+      "score": 70,
+      "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+      "time": 1794103358.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50409856"
     },
     {
-      "title": "The end of Microsoft Research's AI Frontiers group",
-      "score": 417,
-      "url": "https://hunch.net/?p=13764006",
-      "time": 1794074537.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50406563"
+      "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+      "score": 61,
+      "url": "https://github.com/dmunozv04/isponsorblocktv",
+      "time": 1794109639.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50410249"
     },
     {
-      "title": "Amsterdam School",
-      "score": 6,
-      "url": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
-      "time": 1793713819.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50351954"
+      "title": "WaveDudeNext 2D Wave Simulator",
+      "score": 26,
+      "url": "https://github.com/graealex/WaveDudeNext",
+      "time": 1794121742.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50411083"
+    },
+    {
+      "title": "Kirlian Photography: Building Your Own Equipment",
+      "score": 54,
+      "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+      "time": 1794111252.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50410359"
     },
     {
       "title": "Every Mac comes with an (undocumented) family member classifier",
-      "score": 627,
+      "score": 753,
       "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
       "time": 1794044763.0,
       "comments_url": "https://news.ycombinator.com/item?id=50403097"
     },
     {
-      "title": "Turning every radio into a radar",
-      "score": 38,
-      "url": "https://tiaminetworks.com/turning-every-radio-into-a-radar/",
-      "time": 1793740728.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50358337"
-    },
-    {
-      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
-      "score": 391,
-      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-      "time": 1794071196.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50406111"
-    },
-    {
-      "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
-      "score": 238,
-      "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
-      "time": 1794049875.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50403507"
-    },
-    {
-      "title": "Commodore PET – The Worlds First Personal Computer",
-      "score": 22,
-      "url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
-      "time": 1794093334.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50408961"
-    },
-    {
-      "title": "Five memorable books about programming (2008)",
-      "score": 93,
-      "url": "https://prog21.dadgum.com/19.html",
-      "time": 1794072649.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50406319"
-    },
-    {
-      "title": "Study solved a 150-year-old mystery into the identity of the extinct giant crane",
-      "score": 17,
-      "url": "https://www.bournemouth.ac.uk/news/2026-10-28/study-has-solved-150-year-old-mystery-identity-extinct-giant-crane",
-      "time": 1793763028.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50361212"
-    },
-    {
-      "title": "The $8 Linux Computer (2022)",
-      "score": 207,
-      "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
-      "time": 1794060020.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50404599"
-    },
-    {
-      "title": "Show HN: Where Were We",
-      "score": 29,
-      "url": "https://wherewerewe.app/",
-      "time": 1794085715.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50408082"
-    },
-    {
-      "title": "Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack",
-      "score": 43,
-      "url": "https://www.retrosongbird.com/",
-      "time": 1794064014.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50405172"
+      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "score": 333,
+      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "time": 1794071940.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50406222"
     }
   ]
 }
