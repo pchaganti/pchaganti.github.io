@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-11-10T08:58:31.628513-05:00",
+  "last_updated": "2026-11-10T16:05:44.901447-05:00",
   "stories": [
     {
+      "title": ".name Grandfathered",
+      "score": 495,
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "time": 1794328664.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50442736"
+    },
+    {
+      "title": "Smart home devices should work without the internet",
+      "score": 471,
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "time": 1794324320.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50441707"
+    },
+    {
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "score": 171,
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "time": 1794333722.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50443824"
+    },
+    {
+      "title": "Val Town is winding down",
+      "score": 196,
+      "url": "https://blog.val.town/winding-down",
+      "time": 1794331874.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50443427"
+    },
+    {
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "score": 146,
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "time": 1794333675.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50443812"
+    },
+    {
       "title": "AlphaProof Code",
-      "score": 182,
+      "score": 530,
       "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
       "time": 1794312672.0,
       "comments_url": "https://news.ycombinator.com/item?id=50439193"
     },
     {
-      "title": "Don't buy AR glasses",
-      "score": 45,
-      "url": "https://blog.yaros.ae/dont-buy-ar-glasses/",
-      "time": 1794316225.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50439805"
+      "title": "What objective is reasoning solving?",
+      "score": 44,
+      "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+      "time": 1794338714.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50445013"
+    },
+    {
+      "title": "AMD's Zen 6 Family: Feeding the Beast",
+      "score": 123,
+      "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+      "time": 1794330152.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50443090"
+    },
+    {
+      "title": "A comprehensive study of how fingerprintable users are",
+      "score": 30,
+      "url": "https://fingerprinting.study/",
+      "time": 1794337434.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50444684"
+    },
+    {
+      "title": "I deleted all my SSH keys",
+      "score": 169,
+      "url": "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/",
+      "time": 1793902671.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50382401"
+    },
+    {
+      "title": "Process Explorer for macOS",
+      "score": 74,
+      "url": "https://github.com/microsoft/Procexp-Mac",
+      "time": 1794263441.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50433216"
+    },
+    {
+      "title": "Blender 5.3 released with Gaussian Splat support",
+      "score": 348,
+      "url": "https://www.blender.org/download/releases/5-3/",
+      "time": 1794327343.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50442426"
+    },
+    {
+      "title": "The planet Vulcan: a cautionary tale",
+      "score": 25,
+      "url": "https://kevinboone.me/vulcan.html",
+      "time": 1794062569.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50404969"
     },
     {
       "title": "Ableton Live 13",
-      "score": 49,
+      "score": 224,
       "url": "https://www.ableton.com/en/live/",
       "time": 1794315484.0,
       "comments_url": "https://news.ycombinator.com/item?id=50439695"
     },
     {
+      "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+      "score": 136,
+      "url": "https://tinyvalencia.com/",
+      "time": 1794323536.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50441518"
+    },
+    {
+      "title": "An Open Field Guide to Inference Engineering",
+      "score": 38,
+      "url": "https://docs.modelplane.ai/guides/inference-guide",
+      "time": 1794333307.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50443714"
+    },
+    {
+      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+      "score": 99,
+      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "time": 1794333307.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50443716"
+    },
+    {
       "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-      "score": 442,
+      "score": 668,
       "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
       "time": 1794290468.0,
       "comments_url": "https://news.ycombinator.com/item?id=50436640"
     },
     {
-      "title": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
-      "score": 6,
-      "url": "https://neuracryption.com/research",
-      "time": 1794318711.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50440359"
+      "title": "What's new in the .NET 11 runtime",
+      "score": 192,
+      "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+      "time": 1794313207.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50439284"
     },
     {
-      "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
-      "score": 54,
-      "url": "https://github.com/HolyArrs/HolyArrs",
-      "time": 1794311479.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50439000"
-    },
-    {
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "score": 706,
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "time": 1794247270.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50429068"
-    },
-    {
-      "title": "Fossil CO2 emissions decrease by 0.4% in 2026",
-      "score": 90,
-      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
-      "time": 1794301181.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50437752"
-    },
-    {
-      "title": "USPS now offers official ZIP Code boundary polygons",
-      "score": 664,
-      "url": "https://postalpro.usps.com/zcb",
-      "time": 1794254339.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50431058"
-    },
-    {
-      "title": "Queens Public library under ransomware attack e-borrowing suspended",
-      "score": 78,
-      "url": "https://connect.queenslibrary.org/",
-      "time": 1794301479.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50437790"
-    },
-    {
-      "title": "Your TV can see through walls",
-      "score": 187,
-      "url": "https://maurycyz.com/projects/fading/",
-      "time": 1794288285.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50436410"
-    },
-    {
-      "title": "Simon Winchester, Author of 'The Professor and the Madman,' Has Died",
-      "score": 13,
-      "url": "https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html",
-      "time": 1794110841.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50410329"
-    },
-    {
-      "title": "Show HN: Ghanaian street games you can play in the browser",
-      "score": 32,
-      "url": "https://www.ghanastreetgames.com/",
-      "time": 1794151912.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50414117"
-    },
-    {
-      "title": "Fireworks AI security breach impacts Notion and their customers",
-      "score": 89,
-      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
-      "time": 1794295178.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50437106"
-    },
-    {
-      "title": "Billion Watts in the Speaker [video]",
-      "score": 47,
-      "url": "https://www.youtube.com/watch?v=PHOcTXYaMfg",
-      "time": 1794087950.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50408336"
-    },
-    {
-      "title": "Locating the source of a mysterious beep",
-      "score": 240,
-      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-      "time": 1794269446.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50434310"
-    },
-    {
-      "title": "How hard is it to check for whitespace?",
-      "score": 67,
-      "url": "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace",
-      "time": 1793975482.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50392733"
-    },
-    {
-      "title": "Foldable Flight: The Best Paper Airplanes",
-      "score": 1097,
-      "url": "https://www.foldableflight.com",
-      "time": 1794226762.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50424581"
-    },
-    {
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "score": 554,
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "time": 1794240045.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50427362"
-    },
-    {
-      "title": "E-means: Outperforming k-means in one-tenth the epochs",
-      "score": 434,
-      "url": "https://e-means.github.io/",
-      "time": 1794249943.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50429734"
+      "title": "AI usage generates a fragile codebase",
+      "score": 269,
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "time": 1794306358.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50438318"
     }
   ]
 }
