@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-11-11T23:58:12.774649-05:00",
+  "last_updated": "2026-11-12T09:17:59.272349-05:00",
   "stories": [
     {
-      "title": "93% of paint splatters are valid Perl programs (2019)",
-      "score": 267,
-      "url": "https://www.mcmillen.dev/sigbovik/",
-      "time": 1794436463.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50459745"
+      "title": "NVIDIA Announces CEO Transition",
+      "score": 341,
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+      "time": 1794491549.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50467087"
+    },
+    {
+      "title": "Why Writing Correct Software Is Hard",
+      "score": 170,
+      "url": "https://pron.github.io/posts/correctness-and-complexity",
+      "time": 1794479306.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50465352"
+    },
+    {
+      "title": "Jensen Huang resigns as Nvidia CEO immediately",
+      "score": 61,
+      "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/",
+      "time": 1794491771.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50467132"
+    },
+    {
+      "title": "Jane Street: Socratic Tutor",
+      "score": 439,
+      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+      "time": 1794305902.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50438261"
+    },
+    {
+      "title": "A live tree of systemd jobs on the boot console",
+      "score": 202,
+      "url": "https://codeberg.org/wvhulle/bootvine",
+      "time": 1794229364.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50425017"
+    },
+    {
+      "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
+      "score": 40,
+      "url": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
+      "time": 1794480380.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50465453"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal",
+      "score": 32,
+      "url": "https://www.bbc.co.uk/news/live/c6zjry11v8w1t",
+      "time": 1794491798.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50467139"
     },
     {
       "title": "Tim Peters has died",
-      "score": 995,
+      "score": 1305,
       "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
       "time": 1794380597.0,
       "comments_url": "https://news.ycombinator.com/item?id=50450488"
     },
     {
-      "title": "AWS emulator",
-      "score": 755,
-      "url": "https://github.com/aws/aws-emulator",
-      "time": 1794421298.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50456631"
+      "title": "Anthropic IPO",
+      "score": 235,
+      "url": "https://ipo.anthropic.com/us/",
+      "time": 1794484001.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50465829"
+    },
+    {
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "score": 503,
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "time": 1794436463.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50459745"
     },
     {
       "title": "Critical RCE Vulnerability in Apache HTTP Server",
-      "score": 56,
+      "score": 289,
       "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
       "time": 1794449471.0,
       "comments_url": "https://news.ycombinator.com/item?id=50462177"
     },
     {
-      "title": "Nvidia is preparing to oust Jensen Huang",
-      "score": 729,
-      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-      "time": 1794436266.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50459703"
+      "title": "AWS emulator",
+      "score": 902,
+      "url": "https://github.com/aws/aws-emulator",
+      "time": 1794421298.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50456631"
     },
     {
-      "title": "Lock Your GitHub Actions",
-      "score": 180,
-      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
-      "time": 1794435401.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50459485"
-    },
-    {
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "score": 471,
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "time": 1794432275.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50458900"
+      "title": "Making a €40 USB-C hub work as a Nintendo Switch 2 dock",
+      "score": 76,
+      "url": "http://blog.nozomi.space/posts/sw2_dock/",
+      "time": 1794257642.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50431971"
     },
     {
       "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-      "score": 445,
+      "score": 526,
       "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
       "time": 1794415124.0,
       "comments_url": "https://news.ycombinator.com/item?id=50455394"
     },
     {
       "title": "Gemini Decisions API",
-      "score": 331,
+      "score": 491,
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
       "time": 1794421962.0,
       "comments_url": "https://news.ycombinator.com/item?id=50456791"
     },
     {
-      "title": "Did Life Begin in an RNA World?",
-      "score": 29,
-      "url": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
-      "time": 1794245244.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50428619"
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "score": 1164,
+      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "time": 1794436266.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50459703"
     },
     {
-      "title": "Darling Development Update – Q4 2026",
-      "score": 3,
-      "url": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
-      "time": 1794457951.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50463103"
+      "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+      "score": 82,
+      "url": "https://www.getlazarus.org/forums/topic/17/",
+      "time": 1794462574.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50463540"
     },
     {
-      "title": "Emacs in the Age of Magic",
-      "score": 177,
-      "url": "https://commandlinesystems.com/magic.txt",
-      "time": 1794428792.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50458208"
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "score": 599,
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "time": 1794432275.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50458900"
     },
     {
-      "title": "A general purpose Apple Silicon layer for x86-64 PCs",
-      "score": 81,
-      "url": "https://github.com/tylertms/Stela",
-      "time": 1794438158.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50460154"
+      "title": "Lock Your GitHub Actions",
+      "score": 297,
+      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "time": 1794435401.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50459485"
     },
     {
-      "title": "The Utah Teapot",
-      "score": 102,
-      "url": "https://graphics.cs.utah.edu/teapot/",
-      "time": 1794426310.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50457618"
-    },
-    {
-      "title": "Stingray Fish Laser",
-      "score": 14,
-      "url": "https://www.stingray.no/en/technology/",
-      "time": 1794281395.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50435712"
-    },
-    {
-      "title": "Lean Grimoire",
-      "score": 17,
-      "url": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
-      "time": 1794451008.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50462375"
-    },
-    {
-      "title": "How to make a CNC plasma cutter with high-frequency start",
-      "score": 24,
-      "url": "https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html",
-      "time": 1794141244.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50412715"
-    },
-    {
-      "title": "My AI agents found an unmapped Maya site?",
-      "score": 951,
-      "url": "https://pietromiotti.com/latest/maya-site",
-      "time": 1794398722.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50452455"
-    },
-    {
-      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
-      "score": 198,
-      "url": "https://termsheetplease.com/",
-      "time": 1794424336.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50457230"
-    },
-    {
-      "title": "Hyper-Realistic Sand with WebGL2",
-      "score": 338,
-      "url": "https://av.github.io/safe-sand/",
-      "time": 1794404369.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50453288"
+      "title": "Show HN: Build a PC in 3D in the Browser",
+      "score": 10,
+      "url": "https://www.buildcores.com",
+      "time": 1794159908.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50415379"
     }
   ]
 }
