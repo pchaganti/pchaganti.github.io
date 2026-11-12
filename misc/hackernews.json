@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-11-11T16:39:20.702828-05:00",
+  "last_updated": "2026-11-11T23:58:12.774649-05:00",
   "stories": [
     {
-      "title": "AWS Finally Built Its Own AWS Emulator",
-      "score": 464,
-      "url": "https://github.com/aws/aws-emulator",
-      "time": 1794421298.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50456631"
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "score": 267,
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "time": 1794436463.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50459745"
     },
     {
       "title": "Tim Peters has died",
-      "score": 633,
+      "score": 995,
       "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
       "time": 1794380597.0,
       "comments_url": "https://news.ycombinator.com/item?id=50450488"
     },
     {
+      "title": "AWS emulator",
+      "score": 755,
+      "url": "https://github.com/aws/aws-emulator",
+      "time": 1794421298.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50456631"
+    },
+    {
+      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "score": 56,
+      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+      "time": 1794449471.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50462177"
+    },
+    {
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "score": 729,
+      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "time": 1794436266.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50459703"
+    },
+    {
+      "title": "Lock Your GitHub Actions",
+      "score": 180,
+      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "time": 1794435401.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50459485"
+    },
+    {
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "score": 471,
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "time": 1794432275.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50458900"
+    },
+    {
       "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-      "score": 326,
+      "score": 445,
       "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
       "time": 1794415124.0,
       "comments_url": "https://news.ycombinator.com/item?id=50455394"
     },
     {
-      "title": "AWS Emulator and the engineer's job when agents write the code",
-      "score": 106,
-      "url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
-      "time": 1794421711.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50456740"
-    },
-    {
-      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
-      "score": 111,
-      "url": "https://termsheetplease.com/",
-      "time": 1794424336.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50457230"
-    },
-    {
       "title": "Gemini Decisions API",
-      "score": 124,
+      "score": 331,
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
       "time": 1794421962.0,
       "comments_url": "https://news.ycombinator.com/item?id=50456791"
     },
     {
+      "title": "Did Life Begin in an RNA World?",
+      "score": 29,
+      "url": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
+      "time": 1794245244.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50428619"
+    },
+    {
+      "title": "Darling Development Update – Q4 2026",
+      "score": 3,
+      "url": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
+      "time": 1794457951.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50463103"
+    },
+    {
       "title": "Emacs in the Age of Magic",
-      "score": 42,
+      "score": 177,
       "url": "https://commandlinesystems.com/magic.txt",
       "time": 1794428792.0,
       "comments_url": "https://news.ycombinator.com/item?id=50458208"
     },
     {
-      "title": "GitHub Incident with Webhooks, Actions, etc.",
-      "score": 32,
-      "url": "https://www.githubstatus.com/incidents/dvy0t3mvh1lg",
-      "time": 1794430477.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50458532"
+      "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+      "score": 81,
+      "url": "https://github.com/tylertms/Stela",
+      "time": 1794438158.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50460154"
     },
     {
-      "title": "Faster Retrieval for Better, More Efficient RAG",
-      "score": 111,
-      "url": "https://machinelearning.apple.com/research/faster-retrieval",
-      "time": 1794416265.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50455633"
+      "title": "The Utah Teapot",
+      "score": 102,
+      "url": "https://graphics.cs.utah.edu/teapot/",
+      "time": 1794426310.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50457618"
     },
     {
-      "title": "Huawei releases MACaQ, its internal quantizer for local inference",
-      "score": 19,
-      "url": "https://github.com/huawei-csl/MACaQ",
-      "time": 1794428637.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50458166"
+      "title": "Stingray Fish Laser",
+      "score": 14,
+      "url": "https://www.stingray.no/en/technology/",
+      "time": 1794281395.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50435712"
     },
     {
-      "title": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality",
-      "score": 27,
-      "url": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
-      "time": 1794426479.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50457669"
+      "title": "Lean Grimoire",
+      "score": 17,
+      "url": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
+      "time": 1794451008.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50462375"
     },
     {
-      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-      "score": 877,
-      "url": "https://pietromiotti.com/latest/maya-site/?maya",
+      "title": "How to make a CNC plasma cutter with high-frequency start",
+      "score": 24,
+      "url": "https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html",
+      "time": 1794141244.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50412715"
+    },
+    {
+      "title": "My AI agents found an unmapped Maya site?",
+      "score": 951,
+      "url": "https://pietromiotti.com/latest/maya-site",
       "time": 1794398722.0,
       "comments_url": "https://news.ycombinator.com/item?id=50452455"
     },
     {
+      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+      "score": 198,
+      "url": "https://termsheetplease.com/",
+      "time": 1794424336.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50457230"
+    },
+    {
       "title": "Hyper-Realistic Sand with WebGL2",
-      "score": 251,
+      "score": 338,
       "url": "https://av.github.io/safe-sand/",
       "time": 1794404369.0,
       "comments_url": "https://news.ycombinator.com/item?id=50453288"
-    },
-    {
-      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-      "score": 125,
-      "url": "https://github.com/FrigadeHQ/yogurt",
-      "time": 1794411186.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50454625"
-    },
-    {
-      "title": "The Apple Support Community will permanently close on November 20, 2026",
-      "score": 63,
-      "url": "https://discussions.apple.com/welcome",
-      "time": 1794367611.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50449440"
-    },
-    {
-      "title": "Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding",
-      "score": 9,
-      "url": "https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding",
-      "time": 1794262513.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50433042"
-    },
-    {
-      "title": "Atuin Threads: All your agent sessions on every machine",
-      "score": 164,
-      "url": "https://blog.atuin.sh/threads-agent-sessions/",
-      "time": 1794406246.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50453637"
-    },
-    {
-      "title": "Retirement Savings Are Fueling the AI Bubble",
-      "score": 106,
-      "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
-      "time": 1794424003.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50457164"
-    },
-    {
-      "title": "Tools for exploring the souls of large language models",
-      "score": 6,
-      "url": "https://oshea00.github.io/posts/tinygpt-visualizer/",
-      "time": 1794429950.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50458434"
-    },
-    {
-      "title": "Can a Linear Program Do Weight-Space Programming?",
-      "score": 216,
-      "url": "https://nathan.rs/posts/weight-space-lp/",
-      "time": 1794400217.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50452655"
     }
   ]
 }
