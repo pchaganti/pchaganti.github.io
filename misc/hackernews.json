@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-11-12T09:17:59.272349-05:00",
+  "last_updated": "2026-11-12T16:39:03.135657-05:00",
   "stories": [
     {
-      "title": "NVIDIA Announces CEO Transition",
-      "score": 341,
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+      "title": "Jensen Huang resigns",
+      "score": 2437,
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
       "time": 1794491549.0,
       "comments_url": "https://news.ycombinator.com/item?id=50467087"
     },
     {
+      "title": "Ask HN: Microsoft/Azure Outage?",
+      "score": 383,
+      "url": "https://news.ycombinator.com/item?id=50471668",
+      "time": 1794507433.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50471668"
+    },
+    {
+      "title": "Rust 1.100",
+      "score": 138,
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "time": 1794508745.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50472038"
+    },
+    {
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "score": 166,
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "time": 1794509521.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50472260"
+    },
+    {
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "score": 104,
+      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "time": 1794510333.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50472490"
+    },
+    {
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "score": 182,
+      "url": "https://github.com/simpsoka/zigzag",
+      "time": 1794502962.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50470488"
+    },
+    {
+      "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+      "score": 72,
+      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+      "time": 1794507742.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50471761"
+    },
+    {
+      "title": "I'm making LLMs work on small and old devices",
+      "score": 217,
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "time": 1794496990.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50468888"
+    },
+    {
+      "title": "Foundation Models Framework (macOS)",
+      "score": 7,
+      "url": "https://developer.apple.com/foundation-models-framework/",
+      "time": 1794518006.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50474361"
+    },
+    {
+      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "score": 208,
+      "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+      "time": 1794493129.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50467618"
+    },
+    {
+      "title": "Data centers need power – lower income, rural residents pay the price",
+      "score": 102,
+      "url": "https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price",
+      "time": 1794513234.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50473231"
+    },
+    {
+      "title": "Relax: JIT compiler for Rust to reduce build times",
+      "score": 67,
+      "url": "https://makepad.github.io/relax/",
+      "time": 1794432001.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50458849"
+    },
+    {
+      "title": "Gemini 4 Hydrogen",
+      "score": 376,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "time": 1794506508.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50471431"
+    },
+    {
+      "title": "Distributed Ray Tracer",
+      "score": 17,
+      "url": "https://ray.hatchet.run",
+      "time": 1794510383.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50472505"
+    },
+    {
+      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+      "score": 154,
+      "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+      "time": 1794492757.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50467460"
+    },
+    {
+      "title": "Show HN: Kapso – Iterative learning from enterprise data",
+      "score": 24,
+      "url": "https://news.ycombinator.com/item?id=50471281",
+      "time": 1794505883.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50471281"
+    },
+    {
       "title": "Why Writing Correct Software Is Hard",
-      "score": 170,
+      "score": 332,
       "url": "https://pron.github.io/posts/correctness-and-complexity",
       "time": 1794479306.0,
       "comments_url": "https://news.ycombinator.com/item?id=50465352"
     },
     {
-      "title": "Jensen Huang resigns as Nvidia CEO immediately",
-      "score": 61,
-      "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/",
-      "time": 1794491771.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50467132"
-    },
-    {
-      "title": "Jane Street: Socratic Tutor",
-      "score": 439,
-      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
-      "time": 1794305902.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50438261"
-    },
-    {
-      "title": "A live tree of systemd jobs on the boot console",
-      "score": 202,
-      "url": "https://codeberg.org/wvhulle/bootvine",
-      "time": 1794229364.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50425017"
-    },
-    {
-      "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
-      "score": 40,
-      "url": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
-      "time": 1794480380.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50465453"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal",
+      "title": "Words of warning about radiocarbon dating medieval human bones",
       "score": 32,
-      "url": "https://www.bbc.co.uk/news/live/c6zjry11v8w1t",
-      "time": 1794491798.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50467139"
+      "url": "https://www.nature.com/articles/s40494-026-02958-x",
+      "time": 1794435517.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50459508"
     },
     {
-      "title": "Tim Peters has died",
-      "score": 1305,
-      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-      "time": 1794380597.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50450488"
+      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+      "score": 54,
+      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+      "time": 1794507348.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50471650"
     },
     {
-      "title": "Anthropic IPO",
-      "score": 235,
-      "url": "https://ipo.anthropic.com/us/",
-      "time": 1794484001.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50465829"
-    },
-    {
-      "title": "93% of paint splatters are valid Perl programs (2019)",
-      "score": 503,
-      "url": "https://www.mcmillen.dev/sigbovik/",
-      "time": 1794436463.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50459745"
-    },
-    {
-      "title": "Critical RCE Vulnerability in Apache HTTP Server",
-      "score": 289,
-      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-      "time": 1794449471.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50462177"
-    },
-    {
-      "title": "AWS emulator",
-      "score": 902,
-      "url": "https://github.com/aws/aws-emulator",
-      "time": 1794421298.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50456631"
-    },
-    {
-      "title": "Making a €40 USB-C hub work as a Nintendo Switch 2 dock",
-      "score": 76,
-      "url": "http://blog.nozomi.space/posts/sw2_dock/",
-      "time": 1794257642.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50431971"
-    },
-    {
-      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-      "score": 526,
-      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-      "time": 1794415124.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50455394"
-    },
-    {
-      "title": "Gemini Decisions API",
-      "score": 491,
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "time": 1794421962.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50456791"
-    },
-    {
-      "title": "Nvidia is preparing to oust Jensen Huang",
-      "score": 1164,
-      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-      "time": 1794436266.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50459703"
-    },
-    {
-      "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
-      "score": 82,
-      "url": "https://www.getlazarus.org/forums/topic/17/",
-      "time": 1794462574.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50463540"
-    },
-    {
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "score": 599,
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "time": 1794432275.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50458900"
-    },
-    {
-      "title": "Lock Your GitHub Actions",
-      "score": 297,
-      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
-      "time": 1794435401.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50459485"
-    },
-    {
-      "title": "Show HN: Build a PC in 3D in the Browser",
-      "score": 10,
-      "url": "https://www.buildcores.com",
-      "time": 1794159908.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50415379"
+      "title": "Pulling the Lever in a Subway Problem",
+      "score": 32,
+      "url": "https://www.jefftk.com/p/pulling-the-lever-in-a-subway-problem",
+      "time": 1794424929.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50457344"
     }
   ]
 }
