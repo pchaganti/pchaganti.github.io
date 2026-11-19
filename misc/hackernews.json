@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-11-18T21:07:30.332571-05:00",
+  "last_updated": "2026-11-19T05:55:58.463399-05:00",
   "stories": [
     {
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "score": 136,
+      "url": "https://verialabs.com/ruby2shell/",
+      "time": 1795064951.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50556287"
+    },
+    {
+      "title": "What's New in PHP 8.6",
+      "score": 46,
+      "url": "https://www.php.net/releases/8.6/en.php",
+      "time": 1795080435.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50557870"
+    },
+    {
+      "title": "Distributed, high-performance blob storage on SQLite",
+      "score": 49,
+      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+      "time": 1795077585.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50557537"
+    },
+    {
       "title": "Gemini 4 Neon",
-      "score": 462,
+      "score": 846,
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
       "time": 1795037647.0,
       "comments_url": "https://news.ycombinator.com/item?id=50552424"
     },
     {
+      "title": "SSD prices will start going down the second half of next year",
+      "score": 72,
+      "url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
+      "time": 1795079134.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50557716"
+    },
+    {
+      "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+      "score": 163,
+      "url": "https://kapteko.com/15-million-webservers/",
+      "time": 1795067796.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50556533"
+    },
+    {
       "title": "Unauthenticated remote code execution in Nginx",
-      "score": 1150,
+      "score": 1393,
       "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
       "time": 1795015195.0,
       "comments_url": "https://news.ycombinator.com/item?id=50547374"
     },
     {
-      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-      "score": 75,
-      "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
-      "time": 1795048185.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50554374"
-    },
-    {
       "title": "Multiple vulnerabilities in Regexp and String case conversion",
-      "score": 76,
+      "score": 274,
       "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
       "time": 1795045970.0,
       "comments_url": "https://news.ycombinator.com/item?id=50554038"
     },
     {
-      "title": "AI Will Not Make You Rich (2025)",
-      "score": 7,
-      "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
-      "time": 1795053088.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50555093"
-    },
-    {
-      "title": "Seven new models at scalable price-performance",
-      "score": 452,
-      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-      "time": 1795018104.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50548021"
-    },
-    {
-      "title": "LLM assisted reverse engineering",
-      "score": 64,
-      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-      "time": 1795040953.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50553225"
-    },
-    {
-      "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "score": 364,
-      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-      "time": 1795016974.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50547777"
-    },
-    {
-      "title": "Inside Deutsche Bank",
-      "score": 563,
-      "url": "https://www.inside-db.com/",
-      "time": 1795016313.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50547620"
+      "title": "The first ping from Tonga (1997)",
+      "score": 38,
+      "url": "https://colo.to/firstping.html",
+      "time": 1794787274.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50512280"
     },
     {
       "title": "Anthropic prices initial public offering",
-      "score": 57,
+      "score": 241,
       "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
       "time": 1795044609.0,
       "comments_url": "https://news.ycombinator.com/item?id=50553843"
     },
     {
-      "title": "DNS resolvers are the wrong place to fight piracy",
-      "score": 604,
-      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
-      "time": 1795007882.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50545958"
+      "title": "Building Lego Machines to Destroy Tall Lego Towers (2024)",
+      "score": 7,
+      "url": "https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers",
+      "time": 1794975050.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50541774"
     },
     {
-      "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
-      "score": 6,
-      "url": "https://arxiv.org/abs/2607.29378",
-      "time": 1795051622.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50554908"
+      "title": "Seven new models at scalable price-performance",
+      "score": 542,
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "time": 1795018104.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50548021"
     },
     {
-      "title": "Fable: Written, painted and directed by Claude Fable 5.2",
-      "score": 33,
-      "url": "https://claudia.gallery/fable/",
-      "time": 1795047498.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50554269"
+      "title": "Do not buy RAM, compress",
+      "score": 23,
+      "url": "https://curiousbits.nl/blog/do-not-buy-ram-compress/",
+      "time": 1795078607.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50557661"
+    },
+    {
+      "title": "Inside Deutsche Bank",
+      "score": 702,
+      "url": "https://www.inside-db.com/",
+      "time": 1795016313.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50547620"
+    },
+    {
+      "title": "LLM assisted reverse engineering",
+      "score": 223,
+      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+      "time": 1795040953.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50553225"
+    },
+    {
+      "title": "Logitech Harmony IR code online database archive",
+      "score": 30,
+      "url": "https://github.com/pickysysadmin/logitech-harmony-ir-archive",
+      "time": 1794848203.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50519778"
     },
     {
       "title": "DaisyRose-27B",
-      "score": 140,
+      "score": 219,
       "url": "https://www.radixark.com/blog/daisyrose-27b",
       "time": 1795030756.0,
       "comments_url": "https://news.ycombinator.com/item?id=50551046"
     },
     {
-      "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
-      "score": 41,
-      "url": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/",
-      "time": 1794872846.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50525260"
-    },
-    {
-      "title": "FailTrace – Reproduce a failed GitHub Actions run locally from its URL",
-      "score": 4,
-      "url": "https://github.com/Ri4dH/failtrace",
-      "time": 1795051843.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50554941"
-    },
-    {
-      "title": "We need smart people who give a shit",
-      "score": 225,
-      "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
-      "time": 1795046029.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50554045"
-    },
-    {
-      "title": "Advancing chip design with OpenAI models",
-      "score": 164,
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
-      "time": 1795023947.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50549493"
-    },
-    {
       "title": "Genie 4 is now available",
-      "score": 190,
+      "score": 260,
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
       "time": 1795027791.0,
       "comments_url": "https://news.ycombinator.com/item?id=50550415"
     },
     {
-      "title": "Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon",
-      "score": 43,
-      "url": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
-      "time": 1794774642.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50510385"
+      "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
+      "score": 134,
+      "url": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/",
+      "time": 1794872846.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50525260"
+    },
+    {
+      "title": "Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute",
+      "score": 35,
+      "url": "https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/",
+      "time": 1794841194.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50518303"
     }
   ]
 }
