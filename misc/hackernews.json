@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-11-19T20:57:06.674073-05:00",
+  "last_updated": "2026-11-20T05:44:28.738110-05:00",
   "stories": [
     {
-      "title": "Anthropic’s Nasdaq debut",
-      "score": 912,
-      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-      "time": 1795107760.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50562754"
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "score": 30,
+      "url": "https://architectlabs.com/blog/frostbite",
+      "time": 1795168901.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50572503"
     },
     {
-      "title": "Pancreatic cancer halted by virus injection in three patients",
-      "score": 595,
-      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-      "time": 1795109133.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50563066"
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "score": 261,
+      "url": "https://github.com/openssl/openssl/pull/33652",
+      "time": 1795140069.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50569226"
     },
     {
-      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-      "score": 106,
-      "url": "https://git-aarvin.github.io/mei/",
-      "time": 1795131335.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50568130"
+      "title": "The Strongest Sokoban Solver",
+      "score": 59,
+      "url": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
+      "time": 1794863041.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50523241"
     },
     {
-      "title": "Synology Security Advisory",
-      "score": 102,
-      "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
-      "time": 1795126420.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50567209"
+      "title": "FFmpeg 9.1 'Gauss'",
+      "score": 145,
+      "url": "https://ffmpeg.org/download.html#release_9.1",
+      "time": 1795147359.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50569998"
+    },
+    {
+      "title": "µ-Wire – USB on an ATtiny 10",
+      "score": 32,
+      "url": "https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/",
+      "time": 1795006928.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50545818"
+    },
+    {
+      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+      "score": 108,
+      "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+      "time": 1795142629.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50569516"
+    },
+    {
+      "title": "Jujutsu Primer",
+      "score": 122,
+      "url": "https://ethanlowman.com/posts/jj-primer/",
+      "time": 1795153561.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50570628"
+    },
+    {
+      "title": "\"I can tell you wrote this yourself\"",
+      "score": 178,
+      "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
+      "time": 1795158801.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50571189"
     },
     {
       "title": "Claude solves two open problems in the physics of black holes",
-      "score": 388,
+      "score": 505,
       "url": "https://www.anthropic.com/research/claude-black-hole-physics",
       "time": 1795109444.0,
       "comments_url": "https://news.ycombinator.com/item?id=50563148"
     },
     {
-      "title": "How to CAD Almost Anything",
-      "score": 128,
-      "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
-      "time": 1794896997.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50528119"
+      "title": "PostgreSQL 19",
+      "score": 207,
+      "url": "https://www.postgresql.org/docs/release/19.0/",
+      "time": 1795146345.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50569890"
     },
     {
       "title": "Garage Door Spam",
-      "score": 752,
+      "score": 871,
       "url": "https://blog.harrison.page/garage-door-spam/",
       "time": 1794845616.0,
       "comments_url": "https://news.ycombinator.com/item?id=50519231"
     },
     {
-      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-      "score": 203,
-      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-      "time": 1795113317.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50564159"
+      "title": "How to CAD Almost Anything",
+      "score": 270,
+      "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+      "time": 1794896997.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50528119"
     },
     {
-      "title": "RegExr: Temporarily Offline",
-      "score": 48,
-      "url": "https://regexr.com/",
-      "time": 1795127227.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50567374"
+      "title": "Vint Cerf on why TCP/IP was never patented",
+      "score": 110,
+      "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+      "time": 1795136772.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50568861"
     },
     {
-      "title": "Someone reported java4shell bug in September 2026",
-      "score": 370,
-      "url": "https://github.com/openjdk/jdk/pull/32781",
-      "time": 1795088823.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50558906"
+      "title": "Bit Shifting in Basic",
+      "score": 44,
+      "url": "https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/",
+      "time": 1794855876.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50521512"
     },
     {
-      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
-      "score": 89,
-      "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
-      "time": 1795131131.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50568082"
+      "title": "What Comes After AGI?",
+      "score": 68,
+      "url": "https://institute.deepmind.com/essays/what-comes-after-agi/",
+      "time": 1795142653.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50569519"
     },
     {
-      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-      "score": 77,
-      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-      "time": 1795114036.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50564366"
+      "title": "Can I borrow a lunar rover? (2013)",
+      "score": 7,
+      "url": "https://space.stackexchange.com/questions/2095",
+      "time": 1794968015.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50541018"
     },
     {
-      "title": "Talking Venice with Mahesh Subramony at AMD In-Depth",
-      "score": 10,
-      "url": "https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony",
-      "time": 1794915668.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50530132"
+      "title": "Synology Security Advisory",
+      "score": 152,
+      "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+      "time": 1795126420.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50567209"
     },
     {
-      "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
-      "score": 189,
-      "url": "https://cornholenews.news",
-      "time": 1795102712.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50561515"
+      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
+      "score": 7,
+      "url": "https://trynotched.com/find",
+      "time": 1794973201.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50541568"
     },
     {
-      "title": "UK government forced to admit it issued Apple a secret encryption order",
-      "score": 509,
-      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
-      "time": 1795105263.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50562113"
+      "title": "UK fridges secured from hackers in secret nationwide operation",
+      "score": 27,
+      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
+      "time": 1795168340.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50572430"
     },
     {
-      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
-      "score": 251,
-      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
-      "time": 1795094291.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50559719"
-    },
-    {
-      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-      "score": 85,
-      "url": "https://github.com/onlook-dev/onlook/",
-      "time": 1795106044.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50562320"
-    },
-    {
-      "title": "Rebuilding my local voice assistant pipeline",
-      "score": 59,
-      "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
-      "time": 1795121834.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50566261"
-    },
-    {
-      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
-      "score": 385,
-      "url": "https://verialabs.com/ruby2shell/",
-      "time": 1795064951.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50556287"
-    },
-    {
-      "title": "Nintendo takes Picofly firmware down from GitHub [video]",
-      "score": 257,
-      "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
-      "time": 1795013764.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50547048"
+      "title": "Frankenstein PBC – Animation, bestowed upon lifeless matter",
+      "score": 32,
+      "url": "https://www.frankensteinpbc.com/",
+      "time": 1794859838.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50522471"
     }
   ]
 }
