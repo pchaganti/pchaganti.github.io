@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-11-23T06:30:47.708665-05:00",
+  "last_updated": "2026-11-23T18:05:02.513375-05:00",
   "stories": [
     {
-      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-      "score": 95,
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "score": 1847,
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "time": 1795442418.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50611576"
+    },
+    {
+      "title": "Ladybird is now in alpha",
+      "score": 1207,
+      "url": "https://ladybird.org/posts/alpha/",
+      "time": 1795450392.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50614249"
+    },
+    {
+      "title": "VP ≠ VNP over Every Field",
+      "score": 91,
+      "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+      "time": 1795471750.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50620102"
+    },
+    {
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "score": 19,
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "time": 1795473149.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50620349"
+    },
+    {
+      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "score": 710,
+      "url": "https://arm.jonpalmisc.com/",
+      "time": 1795461475.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50617499"
+    },
+    {
+      "title": "GPUI is getting its own repository",
+      "score": 41,
+      "url": "https://github.com/zed-industries/gpui",
+      "time": 1795467174.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50619103"
+    },
+    {
+      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+      "score": 48,
+      "url": "https://www.bored.com/",
+      "time": 1795467676.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50619207"
+    },
+    {
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "score": 1007,
       "url": "https://z.ai/blog/glm-5.4",
       "time": 1795428403.0,
       "comments_url": "https://news.ycombinator.com/item?id=50609685"
     },
     {
-      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
-      "score": 367,
-      "url": "https://github.com/AFK-surf/xnulinux",
-      "time": 1795405764.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50607261"
+      "title": "Levent Alpöge comments on his Riemann Hypothesis proof",
+      "score": 13,
+      "url": "https://twitter.com/__alpoge__/status/2124987173439209561",
+      "time": 1795472576.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50620250"
     },
     {
-      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-      "score": 566,
-      "url": "https://spelunkr.tv",
-      "time": 1795396431.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50606192"
+      "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
+      "score": 897,
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "time": 1795453646.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50615308"
     },
     {
-      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "score": 547,
-      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "time": 1795381276.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50603845"
+      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "score": 101,
+      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+      "time": 1795441358.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50611402"
     },
     {
-      "title": "Yes, 17M lines of Lean is a lot",
-      "score": 100,
-      "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
-      "time": 1795410049.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50607668"
+      "title": "The Beauty of Artists' Studios",
+      "score": 4,
+      "url": "https://spectator.com/article/the-beauty-of-artists-studios/",
+      "time": 1795474113.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50620530"
     },
     {
-      "title": "Masullo on the Riemann Hypothesis",
-      "score": 241,
-      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
-      "time": 1795345196.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50598441"
+      "title": "Derivative Flipping",
+      "score": 55,
+      "url": "http://blog.sigfpe.com/2026/11/derivative-flipping.html",
+      "time": 1795306397.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50594935"
     },
     {
-      "title": "A Partial Evaluator for C",
-      "score": 70,
-      "url": "https://phoenix.labri.fr/software/tempo/",
-      "time": 1795409508.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50607627"
+      "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+      "score": 266,
+      "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+      "time": 1795252442.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50587439"
     },
     {
-      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-      "score": 517,
-      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-      "time": 1795374634.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50602843"
+      "title": "The horse made the state",
+      "score": 43,
+      "url": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
+      "time": 1795467552.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50619186"
     },
     {
-      "title": "Perplexity and Intelligence",
-      "score": 601,
-      "url": "https://openai.com/index/perplexity-and-intelligence/",
-      "time": 1795367187.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50601525"
+      "title": "Kagi Mail (public beta)",
+      "score": 306,
+      "url": "https://blog.kagi.com/kagi-mail-public-beta",
+      "time": 1795454221.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50615481"
     },
     {
-      "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
-      "score": 258,
-      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
-      "time": 1795016609.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50547698"
+      "title": "Show HN: Hermit CRM – Free open-source CRM for solopreneurs",
+      "score": 24,
+      "url": "https://hermitcrm.io/",
+      "time": 1795428542.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50609708"
     },
     {
-      "title": "Brake Check: Hijacking Trailer Brakes over Bluetooth",
-      "score": 25,
-      "url": "https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/",
-      "time": 1795208236.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50581961"
-    },
-    {
-      "title": "Elixir HLS makes FPGA circuits from functions written in Elixir",
-      "score": 14,
-      "url": "https://github.com/elixir-hls/elixir-hls",
-      "time": 1795222077.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50584526"
-    },
-    {
-      "title": "Assume People Are Not Interested in Your Blog Post",
-      "score": 218,
-      "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
-      "time": 1795376490.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50603143"
-    },
-    {
-      "title": "GL.iNet Security Notice 2026-11-20",
-      "score": 214,
-      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
-      "time": 1795388797.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50604988"
-    },
-    {
-      "title": "CollectWise (YC F24) Is Hiring",
+      "title": "EasyPost (YC S13) Is Hiring",
       "score": 1,
-      "url": "https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager",
-      "time": 1795417268.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50608390"
+      "url": "https://www.easypost.com/careers/",
+      "time": 1795453205.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50615161"
     },
     {
-      "title": "Treemap of the Riemann Hypothesis Lean Proof",
-      "score": 93,
-      "url": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
-      "time": 1795398623.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50606499"
+      "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+      "score": 257,
+      "url": "https://github.com/os6/nospeaker",
+      "time": 1795433514.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50610318"
     },
     {
-      "title": "A miniature San Francisco with live buses, planes and boats",
-      "score": 282,
-      "url": "https://smallsf.com/",
-      "time": 1795379603.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50603589"
-    },
-    {
-      "title": "The struggle for freedom: How BSD escaped AT&T licensing",
-      "score": 127,
-      "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
-      "time": 1795383192.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50604123"
-    },
-    {
-      "title": "China's prison for the elite is massively expanding",
-      "score": 8,
-      "url": "https://www.economist.com/china/2026/11/19/chinas-prison-for-the-elite-is-massively-expanding",
-      "time": 1795431535.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50610073"
-    },
-    {
-      "title": "The Quartz Page",
-      "score": 3,
-      "url": "http://www.quartzpage.de/index.html",
-      "time": 1795161970.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50571578"
+      "title": "What does it mean to understand what we built?",
+      "score": 10,
+      "url": "https://brooker.co.za/blog/2026/11/16/understanding.html",
+      "time": 1795311297.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50595365"
     }
   ]
 }
