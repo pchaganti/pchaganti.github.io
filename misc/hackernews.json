@@ -1,145 +1,145 @@
 {
-  "last_updated": "2026-11-25T11:29:26.492507-05:00",
+  "last_updated": "2026-11-25T20:19:59.132904-05:00",
   "stories": [
     {
+      "title": "1Password Security Incident",
+      "score": 1114,
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "time": 1795627106.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50644817"
+    },
+    {
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "score": 863,
+      "url": "https://scottaaronson.blog/?p=10379",
+      "time": 1795633887.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50646108"
+    },
+    {
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "score": 248,
+      "url": "https://github.com/lsernau/grh-lean",
+      "time": 1795643290.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50648050"
+    },
+    {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "score": 186,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "time": 1795641482.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50647673"
+    },
+    {
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "score": 235,
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "time": 1795365888.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50601280"
+    },
+    {
+      "title": "Slow Ubuntu security response times",
+      "score": 129,
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "time": 1795639080.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50647181"
+    },
+    {
+      "title": "Tell HN: Lots of Ask HNs again",
+      "score": 28,
+      "url": "https://news.ycombinator.com/item?id=50649864",
+      "time": 1795653814.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50649864"
+    },
+    {
       "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-      "score": 140,
+      "score": 433,
       "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
       "time": 1795619672.0,
       "comments_url": "https://news.ycombinator.com/item?id=50643129"
     },
     {
-      "title": "Investigating degraded experiences across GitHub products",
-      "score": 47,
-      "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
-      "time": 1795622363.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50643720"
+      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+      "score": 80,
+      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+      "time": 1795638950.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50647161"
     },
     {
-      "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
-      "score": 231,
+      "title": "Bare Metal Qwen",
+      "score": 56,
+      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+      "time": 1795644934.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50648365"
+    },
+    {
+      "title": "Multiagent coding is the future",
+      "score": 20,
+      "url": "https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future/",
+      "time": 1795630811.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50645541"
+    },
+    {
+      "title": "SSH is a GUI framework",
+      "score": 127,
+      "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+      "time": 1795272761.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50589784"
+    },
+    {
+      "title": "Jev is probably Qwen3.5-35B-A3B",
+      "score": 206,
+      "url": "https://modaic.dev/blog/latency-doesnt-lie",
+      "time": 1795647424.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50648823"
+    },
+    {
+      "title": "Deploying a payphone on a tiny Pacific Island",
+      "score": 28,
+      "url": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+      "time": 1795644745.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50648323"
+    },
+    {
+      "title": "The polynomial Hirsch conjecture is false [pdf]",
+      "score": 119,
+      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+      "time": 1795628074.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50644980"
+    },
+    {
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "score": 443,
       "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
       "time": 1795613587.0,
       "comments_url": "https://news.ycombinator.com/item?id=50642086"
     },
     {
       "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-      "score": 212,
+      "score": 315,
       "url": "https://github.com/xoxorwr/pw-loudness-eq",
       "time": 1795606465.0,
       "comments_url": "https://news.ycombinator.com/item?id=50641171"
     },
     {
-      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
-      "score": 671,
-      "url": "https://buttons.joshwcomeau.com/",
-      "time": 1795576987.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50638032"
+      "title": "Defang Security Incident",
+      "score": 54,
+      "url": "https://defang.io/blog/post/security-incident-november-2026/",
+      "time": 1795643236.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50648035"
     },
     {
-      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
-      "score": 862,
-      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-      "time": 1795569566.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50637220"
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "score": 183,
+      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "time": 1795618612.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50642939"
     },
     {
-      "title": "U.S. jury convicts Huawei of fraud, Iran sanctions violations",
-      "score": 118,
-      "url": "https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/",
-      "time": 1795615949.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50642496"
-    },
-    {
-      "title": "Predicting LoRA size for any dataset",
-      "score": 9,
-      "url": "https://engram.com/blog/lora-size",
-      "time": 1795559669.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50635783"
-    },
-    {
-      "title": "Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
-      "score": 28,
-      "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
-      "time": 1795501356.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50624446"
-    },
-    {
-      "title": "The short age of dragon riders",
-      "score": 199,
-      "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
-      "time": 1795412014.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50607849"
-    },
-    {
-      "title": "Rumors swirling that labs might have cracked Factoring in P",
-      "score": 101,
-      "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
-      "time": 1795619324.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50643065"
-    },
-    {
-      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-      "score": 371,
-      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-      "time": 1795574061.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50637686"
-    },
-    {
-      "title": "Pinocchio at 200: a tale of hunger, greed and Italy's culinary history",
-      "score": 27,
-      "url": "https://www.repubblica.it/en/europe/food-travel/2026/11/24/news/carlo_collodi_pinocchio_pellegrino_artusi_italian_literature-425744069/",
-      "time": 1795511207.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50625654"
-    },
-    {
-      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-      "score": 263,
-      "url": "https://gpu-demo-gallery.pages.dev/",
-      "time": 1795581108.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50638503"
-    },
-    {
-      "title": "Hazel (YC W24) Is Hiring a Product Designer",
-      "score": 1,
-      "url": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
-      "time": 1795608034.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50641323"
-    },
-    {
-      "title": "Getting old Java phones online again",
-      "score": 134,
-      "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
-      "time": 1795526077.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50627726"
-    },
-    {
-      "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
-      "score": 357,
-      "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-      "time": 1795575877.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50637890"
-    },
-    {
-      "title": "Ternary Bonsai 2.5 27B",
-      "score": 510,
-      "url": "https://prismml.com/news/bonsai-2-5-27b",
-      "time": 1795550883.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50633922"
-    },
-    {
-      "title": "Taking over US Treasury subdomains for $3 each",
-      "score": 181,
-      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
-      "time": 1795580875.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50638478"
-    },
-    {
-      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-      "score": 350,
-      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
-      "time": 1795568089.0,
-      "comments_url": "https://news.ycombinator.com/item?id=50637056"
+      "title": "Britain's ghost stations",
+      "score": 97,
+      "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+      "time": 1795628626.0,
+      "comments_url": "https://news.ycombinator.com/item?id=50645074"
     }
   ]
 }
